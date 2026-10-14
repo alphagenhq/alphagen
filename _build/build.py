@@ -604,6 +604,11 @@ prose_page("disclosures.html", "/disclosures", "Disclosures", "Disclosures.", "I
 <p><strong>Third-party data.</strong> Market quotes, charts, and lists are provided by TradingView and may be delayed. Economic data is sourced from FRED (Federal Reserve Bank of St. Louis) and the underlying agencies, and from the U.S. Treasury. These providers are not affiliated with AlphaGen and do not endorse it.</p>
 <p><strong>AI-assisted content.</strong> AlphaGen uses AI-assisted tools to monitor public releases and draft content under fixed editorial rules. See the <a href="/methodology">methodology</a>.</p>''')
 
+
+# ---------- 404 (falls back to the live note reader for notes not yet built) ----------
+page("404.html", "/404", "Page not found", "This page could not be found.", "", '<div class="wrap phead"><div class="eyebrow">404</div><h1>That page moved or doesn\'t exist.</h1><p>Try the <a href="/wire" style="color:var(--signal-2)">Wire</a>, <a href="/research" style="color:var(--signal-2)">Research</a>, or the <a href="/" style="color:var(--signal-2)">home page</a>.</p></div>',
+     js='(function(){var m=location.pathname.match(/^\\/notes\\/([A-Za-z0-9._-]+)$/);if(m)location.replace("/article?id="+encodeURIComponent(m[1]));})();', slip=False)
+
 # ---------- RSS + sitemap ----------
 items = sorted([n for n in live_notes], key=lambda n: n["time"], reverse=True)[:40]
 def rfc(iso):
