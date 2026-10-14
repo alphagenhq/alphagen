@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Equities | AlphaGen Research</title>
+<meta name="description" content="Big movers with AlphaGen's thesis on every major move, live gainers and losers, the S&P 500 heatmap, and equities research.">
+<meta name="theme-color" content="#07121f">
+<link rel="icon" type="image/png" href="/logo-192.png">
+<link rel="apple-touch-icon" href="/logo-192.png">
+<link rel="canonical" href="https://alphagenresearch.com/equities">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AlphaGen Research">
+<meta property="og:title" content="Equities | AlphaGen Research">
+<meta property="og:description" content="Big movers with AlphaGen's thesis on every major move, live gainers and losers, the S&P 500 heatmap, and equities research.">
+<meta property="og:url" content="https://alphagenresearch.com/equities">
+<meta property="og:image" content="https://alphagenresearch.com/logo-192.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@alphageniq">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,600;62..125,700;62..125,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/ag.css?v=3">
+</head>
+<body>
+<div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><span class="clock" id="clock"></span></div></div>
+<header class="mast">
+  <div class="wrap">
+    <a class="logo" href="/"><img class="mark" src="/logo-192.png" alt="" width="34" height="34">Alpha<span>Gen</span></a>
+    <nav class="nav" aria-label="Main">
+      <div class="links"><a class="txt" href="/">Home</a><a class="txt" href="/wire">Wire</a><a class="txt" href="/equities" aria-current="page">Equities</a><a class="txt" href="/rates">Rates & Debt</a><a class="txt" href="/macro">Macro</a><a class="txt" href="/research">Research</a></div>
+      <a class="ico" href="https://x.com/alphageniq" target="_blank" rel="noopener" aria-label="AlphaGen on X"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg></a>
+      <a class="ico" href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener" aria-label="AlphaGen on LinkedIn"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg></a>
+      <button class="btn sm" type="button" data-open-sub>Subscribe</button>
+      <button class="menu-btn" type="button" aria-label="Menu" aria-expanded="false">☰</button>
+    </nav>
+  </div>
+</header>
+<div class="tape"><tv-ticker-tape symbols="FOREXCOM:SPXUSD,FOREXCOM:NSXUSD,FOREXCOM:DJI,AMEX:IWM,NASDAQ:NVDA,NASDAQ:AAPL,NASDAQ:MSFT,NASDAQ:TLT,AMEX:HYG,AMEX:GLD,AMEX:USO,FX:EURUSD,FX:USDJPY,BITSTAMP:BTCUSD" theme="dark" transparent show-hover></tv-ticker-tape></div>
+<main id="top">
+<div class="wrap phead">
+  <div class="eyebrow">Equities</div>
+  <h1>Where the market is moving, and why.</h1>
+  <p>Live gainers, losers, and most active U.S. stocks, with AlphaGen's thesis on each major move. Every catalyst links to the company's own release or SEC filing.</p>
+</div>
+<section class="flush">
+  <div class="wrap">
+    <div class="spot" data-spot></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Big movers</div><h2 class="sec">Movers board</h2></div><p>Updates live through the session. The theses beside it rotate as the day's biggest moves change.</p></div>
+    <div class="grid2">
+      <div class="card"><div class="card-h"><span>U.S. gainers · losers · most active</span><span class="live">Live</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-hot"><div class="tradingview-widget-container__widget" style="min-height:620px" data-ph="TOP GAINERS · LOSERS · MOST ACTIVE"></div></div></div></div>
+      <div><div class="card wire">
+  <div class="wire-head"><span class="live">Equities wire</span><span data-wire-updated>Updating</span></div>
+  <div class="wire-list" id="eq-wire" data-wire data-limit="30" data-tags="EQUITIES,EARNINGS" style="max-height:690px"></div>
+</div></div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">AlphaGen thesis</div><h2 class="sec">Today's movers, explained</h2></div><span class="eyebrow" style="color:var(--mute)" data-movers-updated></span></div>
+    <div class="movers" data-movers data-limit="24"></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Breadth</div><h2 class="sec">S&amp;P 500 heatmap</h2></div><p>Sized by market cap and colored by today's move. Tap a sector to zoom in.</p></div>
+    <div class="card"><div class="tv"><div class="tradingview-widget-container" id="tv-heatmap"><div class="tradingview-widget-container__widget" style="min-height:560px" data-ph="S&amp;P 500 HEATMAP"></div></div></div></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Megacaps</div><h2 class="sec">The names that move the index</h2></div></div>
+    <div class="minis"><div class="card"><tv-mini-chart symbol="NASDAQ:NVDA" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:MSFT" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:AAPL" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:AMZN" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:GOOGL" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:META" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:AVGO" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:TSLA" theme="dark" transparent></tv-mini-chart></div></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Research</div><h2 class="sec">Equities research</h2></div><a class="btn ghost" href="/research">All research →</a></div>
+    <div class="notes cards" id="eq-research" data-research="all" data-topic="equities" data-limit="9"></div>
+  </div>
+</section>
+</main>
+<section>
+  <div class="wrap">
+    <div class="slip">
+      <div>
+        <div class="eyebrow">The AlphaGen Newsletter</div>
+        <h2 class="sec">Get the thesis before the open.</h2>
+        <p>Free. Rates, liquidity, and earnings signals in one focused read.</p>
+        <div class="subform"><a class="btn" data-sub-go href="https://alphagen-newsletter.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe free →</a></div>
+        <div class="fine">No spam. Unsubscribe anytime.</div>
+      </div>
+      <ul>
+        <li>The AlphaGen thesis on debt, equities, and macro</li>
+        <li>Funding-market and liquidity signals, explained</li>
+        <li>Institutional-grade analysis in plain English</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <div class="logo" style="font-size:1.1rem"><img class="mark" src="/logo-192.png" alt="" width="30" height="30">Alpha<span>Gen</span></div>
+        <p class="disc">Independent markets research on debt, equities, and macro. AlphaGen content is for informational and educational purposes only and is not investment advice or a recommendation to buy or sell any security.</p>
+        <div class="social"><a href="https://x.com/alphageniq" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg><span>X</span></a><a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span></a></div>
+      </div>
+      <div><h4>Markets</h4><ul><li><a href="/">Home</a></li><li><a href="/wire">Wire</a></li><li><a href="/equities">Equities</a></li></ul></div>
+      <div><h4>Coverage</h4><ul><li><a href="/rates">Rates & Debt</a></li><li><a href="/macro">Macro</a></li><li><a href="/research">Research</a></li></ul></div>
+      <div><h4>Data</h4><ul><li>Quotes &amp; charts: TradingView</li><li>Yields &amp; debt: U.S. Treasury</li><li>Wire sources: official releases &amp; filings</li></ul></div>
+    </div>
+    <div class="copy">© 2026 AlphaGen Research. Market data may be delayed.</div>
+  </div>
+</footer>
+<div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
+  <div class="modal-card">
+    <button class="x" type="button" data-close-sub aria-label="Close">×</button>
+    <img class="mark" src="/logo-192.png" alt="" width="52" height="52">
+    <div class="eyebrow">Free · The AlphaGen Newsletter</div>
+    <h2 id="sub-title">Get the AlphaGen thesis before the open.</h2>
+    <p>Our read on debt, equities, and macro, straight to your inbox.</p>
+    <ul class="perks"><li>The AlphaGen thesis on what moves markets</li><li>Treasury, Fed, and earnings signals</li><li>Free. Unsubscribe anytime.</li></ul>
+    <div class="subform"><a class="btn" style="flex:1 1 auto;padding:14px 18px;font-size:1rem" data-sub-go href="https://alphagen-newsletter.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe →</a></div>
+    <button class="later" type="button" data-close-sub>No thanks, maybe later</button>
+  </div>
+</div>
+<script src="/assets/ag.js?v=3"></script>
+<script>
+AG.tv("tv-hot","hotlists",{exchange:"US",dateRange:"1D",showChart:true,width:"100%",height:620,showSymbolLogo:true,showFloatingTooltip:true,
+  plotLineColorGrowing:"#36c98b",plotLineColorFalling:"#ff6b6b",gridLineColor:"rgba(39,67,108,0.4)",scaleFontColor:"#93a7c4",
+  belowLineFillColorGrowing:"rgba(54,201,139,0.14)",belowLineFillColorFalling:"rgba(255,107,107,0.10)",belowLineFillColorGrowingBottom:"rgba(54,201,139,0)",belowLineFillColorFallingBottom:"rgba(255,107,107,0)",symbolActiveColor:"rgba(76,141,255,0.12)"});
+AG.tv("tv-heatmap","stock-heatmap",{exchanges:[],dataSource:"SPX500",grouping:"sector",blockSize:"market_cap_basic",blockColor:"change",hasTopBar:false,isDataSetEnabled:false,isZoomEnabled:true,hasSymbolTooltip:true,isMonoSize:false,width:"100%",height:560});
+</script>
+</body>
+</html>

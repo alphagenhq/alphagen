@@ -1,0 +1,46 @@
+{
+  "updated": "2026-10-14T19:40:00Z",
+  "items": [
+    {
+      "id": "2026-10-14-cpi-energy-shock",
+      "time": "2026-10-14T19:40:00Z",
+      "tag": "MACRO",
+      "title": "September CPI: an energy shock, not a broad reacceleration",
+      "dek": "Headline inflation jumped to 3.7% on gasoline, while core held at 2.6%. The gap between the two is now the central question for the Fed on October 28.",
+      "key_points": [
+        "Headline CPI rose 0.6% in September after 0.4% in August; the 12-month rate is 3.7%.",
+        "Gasoline rose 9.1% on the month and accounted for over half of the headline increase.",
+        "Core CPI rose 0.3% on the month and 2.6% on the year. Energy is up 20.4% year over year.",
+        "The FOMC meets October 27–28, with the decision on the 28th."
+      ],
+      "body": [
+        "September's CPI report delivered a hot headline and a calm core. The Bureau of Labor Statistics reported that the all-items index rose 0.6% on a seasonally adjusted basis, after a 0.4% gain in August, lifting the 12-month rate to 3.7%.",
+        "The driver was energy. Gasoline rose 9.1% in September and accounted for over half of the monthly increase. The energy index is now up 20.4% from a year earlier. Strip out food and energy and the picture changes: core CPI rose 0.3% on the month and 2.6% over the past year.",
+        {
+          "h": "Why the gap matters"
+        },
+        "A 110-basis-point spread between headline and core inflation tells you this is a supply shock moving through one category, not demand running hot across the economy. That distinction drives policy. A central bank can look through an energy spike if it stays contained. It cannot ignore it if fuel costs start showing up in transportation, goods, and services prices.",
+        "Shelter is the piece to watch for that spillover. It rose 0.4% on the month and 3.2% on the year, and as the stickiest major category it is where broad pressure would show up first.",
+        {
+          "h": "What it means for markets"
+        },
+        "The bond market's job between now and October 28 is to price how the Fed reads this report. With the 10-year Treasury yield already above 5%, a hotter headline narrows the room for error in long-duration assets. For equities, the read-through is about margins: an energy shock acts like a tax on consumers and an input-cost squeeze on companies outside the energy sector.",
+        "Our view: the core number is the one the Fed is most likely to anchor on, but headline inflation at 3.7% raises the cost of sounding relaxed. The tell on October 28 is whether the statement addresses energy pass-through directly."
+      ],
+      "sources": [
+        {
+          "name": "U.S. Bureau of Labor Statistics, Consumer Price Index – September 2026",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "name": "Federal Reserve, FOMC meeting calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "name": "U.S. Treasury, Daily Treasury Par Yield Curve Rates",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+        }
+      ]
+    }
+  ]
+}

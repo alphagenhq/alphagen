@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rates & Debt | AlphaGen Research</title>
+<meta name="description" content="Live U.S. Treasury yield curve, total public debt, the next FOMC decision, and AlphaGen's rates wire and research.">
+<meta name="theme-color" content="#07121f">
+<link rel="icon" type="image/png" href="/logo-192.png">
+<link rel="apple-touch-icon" href="/logo-192.png">
+<link rel="canonical" href="https://alphagenresearch.com/rates">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AlphaGen Research">
+<meta property="og:title" content="Rates & Debt | AlphaGen Research">
+<meta property="og:description" content="Live U.S. Treasury yield curve, total public debt, the next FOMC decision, and AlphaGen's rates wire and research.">
+<meta property="og:url" content="https://alphagenresearch.com/rates">
+<meta property="og:image" content="https://alphagenresearch.com/logo-192.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@alphageniq">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,600;62..125,700;62..125,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/ag.css?v=3">
+</head>
+<body>
+<div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><span class="clock" id="clock"></span></div></div>
+<header class="mast">
+  <div class="wrap">
+    <a class="logo" href="/"><img class="mark" src="/logo-192.png" alt="" width="34" height="34">Alpha<span>Gen</span></a>
+    <nav class="nav" aria-label="Main">
+      <div class="links"><a class="txt" href="/">Home</a><a class="txt" href="/wire">Wire</a><a class="txt" href="/equities">Equities</a><a class="txt" href="/rates" aria-current="page">Rates & Debt</a><a class="txt" href="/macro">Macro</a><a class="txt" href="/research">Research</a></div>
+      <a class="ico" href="https://x.com/alphageniq" target="_blank" rel="noopener" aria-label="AlphaGen on X"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg></a>
+      <a class="ico" href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener" aria-label="AlphaGen on LinkedIn"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg></a>
+      <button class="btn sm" type="button" data-open-sub>Subscribe</button>
+      <button class="menu-btn" type="button" aria-label="Menu" aria-expanded="false">☰</button>
+    </nav>
+  </div>
+</header>
+<div class="tape"><tv-ticker-tape symbols="FOREXCOM:SPXUSD,FOREXCOM:NSXUSD,FOREXCOM:DJI,AMEX:IWM,NASDAQ:NVDA,NASDAQ:AAPL,NASDAQ:MSFT,NASDAQ:TLT,AMEX:HYG,AMEX:GLD,AMEX:USO,FX:EURUSD,FX:USDJPY,BITSTAMP:BTCUSD" theme="dark" transparent show-hover></tv-ticker-tape></div>
+<main id="top">
+<div class="wrap phead">
+  <div class="eyebrow">Rates &amp; Debt</div>
+  <h1>The rates desk.</h1>
+  <p>Official Treasury yields and debt data, the Fed calendar, and AlphaGen's read on funding markets. Refreshed automatically after every Treasury release.</p>
+</div>
+<div class="wrap"><div class="levels" id="levels" aria-label="Key Treasury levels">
+  <div class="lvl"><div class="k">3M bill</div><div class="v num" id="lv-3m">4.26%</div><div class="d num" id="lv-3m-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">2Y note</div><div class="v num" id="lv-2y">4.79%</div><div class="d num" id="lv-2y-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">10Y note</div><div class="v num" id="lv-10y">5.21%</div><div class="d num" id="lv-10y-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">30Y bond</div><div class="v num" id="lv-30y">5.56%</div><div class="d num" id="lv-30y-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">2s10s spread</div><div class="v num" id="lv-2s10s">+42bp</div><div class="d num" id="lv-2s10s-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">U.S. public debt</div><div class="v num" id="lv-debt">$40.30T</div><div class="d num" id="lv-debt-d">as of Oct 9</div></div>
+</div>
+<div class="levels-note" id="levels-note">U.S. Treasury par yield curve rates, close of Oct 13, 2026. Debt: Treasury, Debt to the Penny.</div></div>
+<section>
+  <div class="wrap"><div class="desk">
+  <div class="card curve">
+    <div class="card-h"><span>U.S. Treasury yield curve</span><span id="curve-date">Oct 13, 2026</span></div>
+    <div id="curve-chart" role="img" aria-label="U.S. Treasury par yield curve"></div>
+    <div class="legend"><span><i></i><b id="lg-now">Oct 13, 2026</b></span><span><i class="prev"></i><span id="lg-prev">Oct 1, 2026</span></span></div>
+    <div class="ytable-wrap"><table class="ytable" id="ytable"></table></div>
+  </div>
+  <div class="card debt">
+    <div>
+      <div class="eyebrow" style="color:var(--steel)">Total public debt outstanding</div>
+      <div class="big num" id="debt-total">$40.30<small>trillion</small></div>
+      <div class="sub" id="debt-date">As of Oct 9, 2026 · U.S. Treasury, Debt to the Penny</div>
+    </div>
+    <p class="ctx">With the 10-year above 5%, every refinancing locks in higher interest costs. That makes the debt a rates story as much as a fiscal one.</p>
+    <div class="split">
+      <div><span>Held by the public</span><b class="num" id="debt-public">$32.45T</b></div>
+      <div><span>Intragovernmental</span><b class="num" id="debt-intra">$7.85T</b></div>
+    </div>
+  </div>
+</div></div>
+</section>
+<section>
+  <div class="wrap split2">
+    <div>
+      <div class="sec-head"><div><div class="eyebrow">Rates wire</div><h2 class="sec">Fed, Treasury, and credit</h2></div></div>
+      <div class="card wire">
+  <div class="wire-head"><span class="live">Rates wire</span><span data-wire-updated>Updating</span></div>
+  <div class="wire-list" id="rates-wire" data-wire data-limit="30" data-tags="RATES,DEBT,FED"></div>
+</div>
+    </div>
+    <div>
+      <div class="sec-head"><div><div class="eyebrow">Federal Reserve</div><h2 class="sec">Next decision</h2></div></div>
+      <div class="card fed" data-fomc>
+  <div class="date" data-fomc-date>Oct 27–28</div>
+  <div><div class="card-h" style="margin:0 0 4px"><span>Next FOMC meeting</span></div><div style="font-family:var(--display);font-stretch:88%;font-weight:700;font-size:1.2rem">Federal Open Market Committee</div><div class="cd" data-fomc-cd>Decision Oct 28, 2026 at 2:00 p.m. ET</div></div>
+</div>
+      <div style="height:20px"></div>
+      <div class="sec-head" style="margin-bottom:14px"><div><div class="eyebrow">Market pricing</div><h2 class="sec" style="font-size:1.5rem">Duration &amp; credit</h2></div></div>
+      <div class="minis"><div class="card"><tv-mini-chart symbol="NASDAQ:SHV" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:IEF" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="NASDAQ:TLT" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:HYG" theme="dark" transparent></tv-mini-chart></div></div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Research</div><h2 class="sec">Debt &amp; rates research</h2></div></div>
+    <div class="notes cards" id="rates-research" data-research="all" data-topic="debt" data-limit="9"></div>
+  </div>
+</section>
+</main>
+<section>
+  <div class="wrap">
+    <div class="slip">
+      <div>
+        <div class="eyebrow">The AlphaGen Newsletter</div>
+        <h2 class="sec">Get the thesis before the open.</h2>
+        <p>Free. Rates, liquidity, and earnings signals in one focused read.</p>
+        <div class="subform"><a class="btn" data-sub-go href="https://alphagen-newsletter.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe free →</a></div>
+        <div class="fine">No spam. Unsubscribe anytime.</div>
+      </div>
+      <ul>
+        <li>The AlphaGen thesis on debt, equities, and macro</li>
+        <li>Funding-market and liquidity signals, explained</li>
+        <li>Institutional-grade analysis in plain English</li>
+      </ul>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <div class="logo" style="font-size:1.1rem"><img class="mark" src="/logo-192.png" alt="" width="30" height="30">Alpha<span>Gen</span></div>
+        <p class="disc">Independent markets research on debt, equities, and macro. AlphaGen content is for informational and educational purposes only and is not investment advice or a recommendation to buy or sell any security.</p>
+        <div class="social"><a href="https://x.com/alphageniq" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg><span>X</span></a><a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span></a></div>
+      </div>
+      <div><h4>Markets</h4><ul><li><a href="/">Home</a></li><li><a href="/wire">Wire</a></li><li><a href="/equities">Equities</a></li></ul></div>
+      <div><h4>Coverage</h4><ul><li><a href="/rates">Rates & Debt</a></li><li><a href="/macro">Macro</a></li><li><a href="/research">Research</a></li></ul></div>
+      <div><h4>Data</h4><ul><li>Quotes &amp; charts: TradingView</li><li>Yields &amp; debt: U.S. Treasury</li><li>Wire sources: official releases &amp; filings</li></ul></div>
+    </div>
+    <div class="copy">© 2026 AlphaGen Research. Market data may be delayed.</div>
+  </div>
+</footer>
+<div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
+  <div class="modal-card">
+    <button class="x" type="button" data-close-sub aria-label="Close">×</button>
+    <img class="mark" src="/logo-192.png" alt="" width="52" height="52">
+    <div class="eyebrow">Free · The AlphaGen Newsletter</div>
+    <h2 id="sub-title">Get the AlphaGen thesis before the open.</h2>
+    <p>Our read on debt, equities, and macro, straight to your inbox.</p>
+    <ul class="perks"><li>The AlphaGen thesis on what moves markets</li><li>Treasury, Fed, and earnings signals</li><li>Free. Unsubscribe anytime.</li></ul>
+    <div class="subform"><a class="btn" style="flex:1 1 auto;padding:14px 18px;font-size:1rem" data-sub-go href="https://alphagen-newsletter.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe →</a></div>
+    <button class="later" type="button" data-close-sub>No thanks, maybe later</button>
+  </div>
+</div>
+<script src="/assets/ag.js?v=3"></script>
+
+</body>
+</html>

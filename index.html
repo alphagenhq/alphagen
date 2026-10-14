@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AlphaGen Research</title>
+<meta name="description" content="AlphaGen Research: the AlphaGen Wire, big-mover theses, Treasury curve and debt data, and daily research on debt, equities, and macro.">
 <meta name="theme-color" content="#07121f">
 <link rel="icon" type="image/png" href="/logo-192.png">
 <link rel="apple-touch-icon" href="/logo-192.png">
@@ -10,371 +12,160 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AlphaGen Research">
 <meta property="og:title" content="AlphaGen Research">
-<meta property="og:description" content="Market insights built to generate alpha. The AlphaGen Wire, daily research, and live markets across debt, equities, and macro.">
+<meta property="og:description" content="AlphaGen Research: the AlphaGen Wire, big-mover theses, Treasury curve and debt data, and daily research on debt, equities, and macro.">
 <meta property="og:url" content="https://alphagenresearch.com/">
 <meta property="og:image" content="https://alphagenresearch.com/logo-192.png">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@alphageniq">
-<title>AlphaGen Research</title>
-<meta name="description" content="AlphaGen Research: live markets, the AlphaGen Wire, Treasury curve and debt data, and daily research on debt, equities, and macro.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,600;62..125,700;62..125,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<style>
-/* Layout: research terminal — masthead + tape, thesis hero with key-levels strip, wire/research split, markets board, curve & debt desk, subscribe slip, modal */
-:root{
-  --ink:#07121f; --ink-2:#0a1828; --panel:#0e1f36; --panel-2:#12274a; --rule:#1c3354; --rule-2:#27436c;
-  --steel:#93a7c4; --mute:#6b82a3; --paper:#eef3fb;
-  --signal:#4c8dff; --signal-2:#7fb0ff; --signal-soft:rgba(76,141,255,.13);
-  --up:#36c98b; --down:#ff6b6b;
-  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
-  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
-  color-scheme:dark;
-}
-*{box-sizing:border-box}
-[hidden]{display:none!important}
-html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--ink);color:var(--paper);font-family:var(--body);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
-body.locked{overflow:hidden}
-a{color:inherit}
-img{max-width:100%;display:block}
-.wrap{max-width:1240px;margin:0 auto;padding-inline:clamp(16px,4vw,40px)}
-:focus-visible{outline:2px solid var(--signal);outline-offset:3px;border-radius:3px}
-.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--signal-2)}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--signal);color:#fff;text-decoration:none;font-weight:600;font-size:.92rem;padding:11px 18px;border-radius:5px;border:0;cursor:pointer;font-family:var(--body);transition:background .15s,transform .15s;white-space:nowrap}
-.btn:hover{background:#3a7af0;transform:translateY(-1px)}
-.btn.ghost{background:transparent;border:1px solid var(--rule-2);color:var(--paper)}
-.btn.ghost:hover{border-color:var(--signal);background:var(--signal-soft)}
-.tag{display:inline-block;font-family:var(--mono);font-size:.66rem;font-weight:500;padding:3px 7px;border-radius:3px;background:var(--signal-soft);color:var(--signal-2);letter-spacing:.08em;white-space:nowrap}
-.num{font-variant-numeric:tabular-nums}
-.up{color:var(--up)} .down{color:var(--down)}
-
-/* masthead */
-.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:rgba(7,18,31,.9);backdrop-filter:saturate(140%) blur(12px);-webkit-backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--rule)}
-.mast .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px}
-.logo{display:flex;align-items:center;text-decoration:none;font-family:var(--display);font-weight:800;font-stretch:112%;font-size:1.3rem;letter-spacing:-.01em}
-.logo span{color:var(--signal)}
-.logo .mark{width:34px;height:34px;margin-right:10px;border-radius:50%;flex:none}
-.nav{display:flex;gap:clamp(10px,2.2vw,24px);align-items:center;font-size:.9rem}
-.nav a.txt{text-decoration:none;color:var(--steel)}
-.nav a.txt:hover{color:var(--paper)}
-.nav .ico{display:inline-flex;color:var(--steel)}
-.nav .ico:hover{color:var(--paper)}
-@media (max-width:820px){.nav a.txt{display:none}}
-@media (max-width:420px){.nav .ico{display:none}}
-
-/* tape */
-.tape{border-bottom:1px solid var(--rule);height:46px;overflow:hidden;background:var(--ink-2)}
-.tv{min-width:0}
-.tv .tradingview-widget-container__widget:empty::before{content:attr(data-ph);display:flex;align-items:center;justify-content:center;height:100%;min-height:inherit;font-family:var(--mono);font-size:.72rem;color:var(--mute);letter-spacing:.08em;text-align:center;padding:12px}
-.tradingview-widget-copyright{font-family:var(--mono);font-size:.62rem;color:var(--mute);padding-top:6px;text-align:right}
-.tradingview-widget-copyright a{color:var(--mute);text-decoration:none}
-.tape .tradingview-widget-copyright{display:none}
-
-/* hero */
-.hero{padding-block:clamp(36px,6vw,72px) clamp(28px,4vw,44px);display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:clamp(28px,5vw,64px);align-items:center}
-h1{font-family:var(--display);font-weight:800;font-stretch:74%;font-size:clamp(2.7rem,6.6vw,5.1rem);line-height:.94;letter-spacing:-.012em;margin:.3em 0 .32em;text-wrap:balance}
-h1 em{font-style:normal;color:var(--signal)}
-.lede{color:var(--steel);font-size:1.08rem;max-width:33em;margin:0 0 24px}
-.cta-row{display:flex;flex-wrap:wrap;gap:12px}
-.feature{position:relative;display:grid;text-decoration:none;background:var(--panel);border:1px solid var(--rule);border-radius:10px;overflow:hidden;min-width:0;transition:border-color .2s,transform .2s}
-.feature:hover{border-color:var(--signal);transform:translateY(-2px)}
-.feature .img{aspect-ratio:16/9;background:linear-gradient(135deg,var(--panel-2),var(--ink-2));position:relative;overflow:hidden;max-width:100%}
-.feature .img img{width:100%;height:100%;object-fit:cover}
-.feature .img .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
-.feature .img .ph img{width:28%;height:auto;opacity:.9}
-.feature .body{padding:20px 22px 22px;display:grid;gap:10px}
-.feature .top{display:flex;justify-content:space-between;align-items:center;gap:12px;font-family:var(--mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--steel)}
-.feature h2{font-family:var(--display);font-weight:700;font-stretch:86%;font-size:clamp(1.45rem,2.6vw,1.95rem);line-height:1.08;margin:0;text-wrap:balance}
-.feature p{margin:0;color:var(--steel);font-size:.95rem}
-.feature .go{color:var(--signal-2);font-weight:600;font-size:.9rem}
-.live{display:inline-flex;align-items:center;gap:7px;color:var(--up)}
-.live::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--up);animation:pulse 2s infinite}
-@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(54,201,139,.55)}70%{box-shadow:0 0 0 8px rgba(54,201,139,0)}100%{box-shadow:0 0 0 0 rgba(54,201,139,0)}}
-@media (max-width:900px){.hero{grid-template-columns:1fr}}
-
-/* key levels strip */
-.levels{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));border:1px solid var(--rule);border-radius:10px;background:var(--ink-2);overflow:hidden}
-.lvl{padding:16px 18px;border-left:1px solid var(--rule);min-width:0}
-.lvl:first-child{border-left:0}
-.lvl .k{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--mute)}
-.lvl .v{font-family:var(--display);font-weight:700;font-stretch:84%;font-size:1.6rem;line-height:1.15;margin-top:4px}
-.lvl .d{font-family:var(--mono);font-size:.74rem;color:var(--steel)}
-.levels-note{font-family:var(--mono);font-size:.68rem;color:var(--mute);margin-top:10px}
-@media (max-width:980px){.levels{grid-template-columns:repeat(3,minmax(0,1fr))}.lvl:nth-child(4){border-left:0}.lvl:nth-child(n+4){border-top:1px solid var(--rule)}}
-@media (max-width:520px){.levels{grid-template-columns:repeat(2,minmax(0,1fr))}.lvl{border-left:0;border-top:1px solid var(--rule)}.lvl:nth-child(-n+2){border-top:0}.lvl:nth-child(even){border-left:1px solid var(--rule)}}
-
-/* sections */
-section{padding-block:clamp(44px,6vw,76px);border-top:1px solid var(--rule)}
-.sec-head{display:flex;justify-content:space-between;align-items:end;gap:16px 24px;flex-wrap:wrap;margin-bottom:22px}
-h2.sec{font-family:var(--display);font-weight:700;font-stretch:84%;font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.04;margin:.25em 0 0;text-wrap:balance}
-.sec-head p{color:var(--steel);max-width:30em;margin:0}
-.card{background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:18px;min-width:0}
-.card-h{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 12px;font-family:var(--mono);font-weight:500;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--steel)}
-
-/* wire + research */
-.split2{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:28px;align-items:start}
-@media (max-width:980px){.split2{grid-template-columns:1fr}}
-.wire{padding:0;overflow:hidden}
-.wire-head{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:14px 20px;border-bottom:1px solid var(--rule);font-family:var(--mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--steel);background:var(--panel-2)}
-.wire-list{max-height:820px;overflow-y:auto;overscroll-behavior:contain}
-.wire-item{display:grid;gap:7px;padding:18px 20px;border-bottom:1px solid var(--rule)}
-.wire-item:last-child{border-bottom:0}
-.wire-meta{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:.7rem;color:var(--mute)}
-.wire-meta .new{color:var(--up)}
-.wire-item h3{margin:0;font-family:var(--display);font-weight:700;font-stretch:90%;font-size:1.16rem;line-height:1.22;text-wrap:balance}
-.wire-item p{margin:0;color:var(--steel);font-size:.94rem;line-height:1.55}
-.wire-item .src{font-family:var(--mono);font-size:.7rem;color:var(--signal-2);text-decoration:none;justify-self:start}
-.wire-item .src:hover{text-decoration:underline}
-.wire-empty{padding:28px 20px;color:var(--steel)}
-.wire-empty b{display:block;color:var(--paper);font-family:var(--display);font-stretch:90%;font-size:1.15rem;margin-bottom:6px}
-.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
-.filters button{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;background:transparent;color:var(--steel);border:1px solid var(--rule-2);border-radius:999px;padding:6px 13px;cursor:pointer}
-.filters button:hover{color:var(--paper)}
-.filters button[aria-pressed="true"]{background:var(--signal);border-color:var(--signal);color:#fff}
-.notes{display:grid;gap:12px}
-.note{display:grid;grid-template-columns:96px minmax(0,1fr);gap:14px;align-items:center;text-decoration:none;background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:12px;transition:border-color .15s,transform .15s}
-.note:hover{border-color:var(--signal);transform:translateY(-2px)}
-.note .th{aspect-ratio:1;border-radius:6px;overflow:hidden;background:var(--panel-2);display:flex;align-items:center;justify-content:center}
-.note .th img{width:100%;height:100%;object-fit:cover}
-.note .th img.lg{width:46%;height:auto;object-fit:contain}
-.note .meta{display:flex;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:.68rem;color:var(--mute)}
-.note h3{font-family:var(--display);font-weight:700;font-stretch:90%;font-size:1.06rem;line-height:1.22;margin:4px 0 3px;text-wrap:balance}
-.note p{margin:0;color:var(--steel);font-size:.86rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.empty{color:var(--steel);font-size:.95rem;padding:20px;border:1px dashed var(--rule-2);border-radius:10px}
-.inline-sub{margin-top:16px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:16px 18px;border:1px solid var(--rule);border-radius:10px;background:linear-gradient(120deg,var(--signal-soft),transparent 70%)}
-.inline-sub b{font-family:var(--display);font-stretch:90%;font-size:1.05rem}
-
-/* markets */
-.board{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
-.board .wide{grid-column:1/-1}
-@media (max-width:980px){.board{grid-template-columns:1fr}}
-
-/* curve & debt */
-.desk{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:20px;align-items:stretch}
-@media (max-width:980px){.desk{grid-template-columns:1fr}}
-.curve svg{width:100%;height:auto;display:block}
-.curve .legend{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--mono);font-size:.7rem;color:var(--steel);margin-top:8px}
-.curve .legend i{display:inline-block;width:18px;height:2px;vertical-align:middle;margin-right:7px;background:var(--signal)}
-.curve .legend i.prev{background:none;border-top:2px dashed var(--mute);height:0}
-.ytable-wrap{overflow-x:auto;margin-top:14px}
-.ytable{width:100%;border-collapse:collapse;font-family:var(--mono);font-size:.78rem}
-.ytable th,.ytable td{padding:7px 8px;text-align:right;border-bottom:1px solid var(--rule);white-space:nowrap}
-.ytable th{color:var(--mute);font-weight:500}
-.ytable td:first-child,.ytable th:first-child{text-align:left;color:var(--steel)}
-.debt{display:flex;flex-direction:column;justify-content:space-between;gap:20px;padding:clamp(20px,3vw,30px)}
-.debt .big{font-family:var(--display);font-weight:800;font-stretch:74%;font-size:clamp(2.8rem,6.5vw,4.4rem);line-height:1;letter-spacing:-.01em}
-.debt .big small{font-size:.36em;color:var(--steel);font-weight:600;letter-spacing:.02em;margin-left:6px}
-.debt .sub{font-family:var(--mono);font-size:.74rem;color:var(--mute);margin-top:8px}
-.debt .split{display:grid;grid-template-columns:1fr 1fr;gap:14px;border-top:1px solid var(--rule);padding-top:16px}
-.debt .split b{display:block;font-family:var(--display);font-stretch:86%;font-size:1.35rem}
-.debt .split span{font-family:var(--mono);font-size:.66rem;color:var(--mute);letter-spacing:.1em;text-transform:uppercase}
-.debt .ctx{color:var(--steel);font-size:.92rem;margin:0}
-
-/* subscribe slip */
-.slip{background:linear-gradient(160deg,var(--panel-2),var(--ink) 75%);border:1px solid var(--rule-2);border-radius:12px;padding:clamp(26px,5vw,52px);display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:32px;align-items:center}
-.slip p{color:var(--steel);margin:10px 0 0}
-.slip ul{list-style:none;margin:0;padding:0;display:grid;gap:12px}
-.slip li{display:flex;gap:12px}
-.slip li::before{content:"";flex:none;width:8px;height:8px;margin-top:.55em;background:var(--signal);border-radius:1px}
-@media (max-width:760px){.slip{grid-template-columns:1fr}}
-.subform{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
-.subform input{flex:1 1 220px;min-width:0;background:var(--ink);border:1px solid var(--rule-2);border-radius:5px;color:var(--paper);font:inherit;font-size:.95rem;padding:11px 14px}
-.subform input::placeholder{color:var(--mute)}
-.subform input:focus{outline:none;border-color:var(--signal);box-shadow:0 0 0 3px var(--signal-soft)}
-.subform .btn{flex:0 0 auto}
-.fine{font-size:.78rem;color:var(--mute);margin-top:10px}
-
-/* modal */
-.modal{position:fixed;inset:0;z-index:50;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(3,9,18,.72);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);animation:fade .25s ease}
-.modal-card{position:relative;width:min(100%,460px);background:linear-gradient(170deg,var(--panel-2),var(--panel) 60%);border:1px solid var(--rule-2);border-radius:14px;padding:30px 28px 26px;box-shadow:0 30px 80px rgba(0,0,0,.5);animation:rise .3s ease}
-.modal-card .mark{width:52px;height:52px;border-radius:50%;margin-bottom:16px}
-.modal-card h2{font-family:var(--display);font-weight:800;font-stretch:80%;font-size:2rem;line-height:1.02;margin:8px 0 10px;text-wrap:balance}
-.modal-card p{color:var(--steel);margin:0}
-.modal-card .x{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;border:1px solid var(--rule-2);background:transparent;color:var(--steel);font-size:1.2rem;line-height:1;cursor:pointer}
-.modal-card .x:hover{color:var(--paper);border-color:var(--signal)}
-.modal-card .perks{list-style:none;padding:0;margin:16px 0 0;display:grid;gap:6px;font-size:.9rem;color:var(--paper)}
-.modal-card .perks li::before{content:"✓";color:var(--up);margin-right:8px;font-weight:600}
-.modal-card .later{background:none;border:0;color:var(--mute);font:inherit;font-size:.82rem;cursor:pointer;padding:0;margin-top:12px;text-decoration:underline}
-.thanks{color:var(--up);font-size:.9rem;margin-top:10px}
-@keyframes fade{from{opacity:0}to{opacity:1}}
-@keyframes rise{from{transform:translateY(14px);opacity:0}to{transform:none;opacity:1}}
-
-footer{border-top:1px solid var(--rule);padding-block:32px;color:var(--steel);font-size:.82rem}
-footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:20px}
-.disc{max-width:58em;margin-top:10px;font-size:.74rem;color:var(--mute)}
-.social{display:flex;flex-direction:column;align-items:flex-end;gap:10px}
-.social div{display:flex;gap:8px}
-.social a{display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:var(--paper);border:1px solid var(--rule-2);border-radius:5px;padding:7px 12px}
-.social a:hover{border-color:var(--signal);color:var(--signal-2)}
-@media (max-width:640px){.social{align-items:flex-start}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}html{scroll-behavior:auto}}
-</style>
+<link rel="stylesheet" href="/assets/ag.css?v=3">
 </head>
 <body>
-
+<div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><span class="clock" id="clock"></span></div></div>
 <header class="mast">
   <div class="wrap">
-    <a class="logo" href="#top"><img class="mark" src="logo-192.png" alt="" width="34" height="34">Alpha<span>Gen</span></a>
+    <a class="logo" href="/"><img class="mark" src="/logo-192.png" alt="" width="34" height="34">Alpha<span>Gen</span></a>
     <nav class="nav" aria-label="Main">
-      <a class="txt" href="#wire">Wire</a>
-      <a class="txt" href="#research">Research</a>
-      <a class="txt" href="#markets">Markets</a>
-      <a class="txt" href="#rates">Rates &amp; Debt</a>
-      <a class="ico" href="https://x.com/alphageniq" target="_blank" rel="noopener" aria-label="AlphaGen on X"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg></a>
+      <div class="links"><a class="txt" href="/" aria-current="page">Home</a><a class="txt" href="/wire">Wire</a><a class="txt" href="/equities">Equities</a><a class="txt" href="/rates">Rates & Debt</a><a class="txt" href="/macro">Macro</a><a class="txt" href="/research">Research</a></div>
+      <a class="ico" href="https://x.com/alphageniq" target="_blank" rel="noopener" aria-label="AlphaGen on X"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg></a>
       <a class="ico" href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener" aria-label="AlphaGen on LinkedIn"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg></a>
-      <button class="btn" type="button" data-open-sub>Subscribe</button>
+      <button class="btn sm" type="button" data-open-sub>Subscribe</button>
+      <button class="menu-btn" type="button" aria-label="Menu" aria-expanded="false">☰</button>
     </nav>
   </div>
 </header>
-
-<div class="tape tv"><div class="tradingview-widget-container" id="tv-tape"><div class="tradingview-widget-container__widget" data-ph="S&amp;P 500 · NASDAQ 100 · DOW · RUSSELL · TREASURIES · GOLD · OIL · BITCOIN"></div></div></div>
-
+<div class="tape"><tv-ticker-tape symbols="FOREXCOM:SPXUSD,FOREXCOM:NSXUSD,FOREXCOM:DJI,AMEX:IWM,NASDAQ:NVDA,NASDAQ:AAPL,NASDAQ:MSFT,NASDAQ:TLT,AMEX:HYG,AMEX:GLD,AMEX:USO,FX:EURUSD,FX:USDJPY,BITSTAMP:BTCUSD" theme="dark" transparent show-hover></tv-ticker-tape></div>
 <main id="top">
-  <div class="wrap">
-    <div class="hero">
-      <div>
-        <div class="eyebrow">AlphaGen Research · New York</div>
-        <h1>Market insights built to <em>generate alpha.</em></h1>
-        <p class="lede">The AlphaGen Wire, our daily thesis, and live markets across debt, equities, and macro. Sourced from official data, written for serious investors.</p>
-        <div class="cta-row">
-          <button class="btn" type="button" data-open-sub>Get the daily thesis free →</button>
-          <a class="btn ghost" href="#wire">Read the Wire</a>
-        </div>
+<div class="wrap">
+  <div class="hero">
+    <div>
+      <div class="eyebrow">AlphaGen Research · New York</div>
+      <h1>Market insights built to <em>generate alpha.</em></h1>
+      <p class="lede">The AlphaGen Wire, mover theses, and daily research across debt, equities, and macro. Built from official data and written for serious investors.</p>
+      <div class="cta-row"><button class="btn" type="button" data-open-sub>Get the daily thesis free →</button><a class="btn ghost" href="/wire">Read the Wire</a></div>
+      <div class="pulse-row" data-fomc><span><b data-wire-count>0</b> Wire pieces today</span><span>Next FOMC <b data-fomc-date>Oct 27–28</b></span><span>Sources: <b>Fed · Treasury · BLS · SEC</b></span></div>
+    </div>
+    <a class="feature" id="feature" href="/research">
+      <div class="img" id="feature-img"><div class="ph"><img src="/logo-192.png" alt=""></div></div>
+      <div class="body">
+        <div class="top"><span id="feature-kind">Latest AlphaGen thesis</span><span class="live">New</span></div>
+        <div><span class="tag" id="feature-tag">Macro</span></div>
+        <h2 id="feature-title">Another 2008?</h2>
+        <p id="feature-desc">AlphaGen Macroview | Oct 8/9th, 2026</p>
+        <div class="top" style="text-transform:none;letter-spacing:0"><span id="feature-date">Oct 9, 2026</span><span class="go">Read now →</span></div>
       </div>
-      <a class="feature" id="feature" href="https://alphagen-newsletter.beehiiv.com/p/another-2008" target="_blank" rel="noopener">
-        <div class="img" id="feature-img"><div class="ph"><img src="logo-192.png" alt=""></div></div>
-        <div class="body">
-          <div class="top"><span>Latest AlphaGen thesis</span><span class="live">New</span></div>
-          <div><span class="tag" id="feature-tag">MACRO</span></div>
-          <h2 id="feature-title">Another 2008?</h2>
-          <p id="feature-desc">AlphaGen Macroview | Oct 8/9th, 2026</p>
-          <div class="top" style="text-transform:none;letter-spacing:0"><span id="feature-date">Oct 9, 2026</span><span class="go">Read the full thesis →</span></div>
-        </div>
-      </a>
-    </div>
-
-    <div class="levels" id="levels" aria-label="Key Treasury levels">
-      <div class="lvl"><div class="k">3M bill</div><div class="v num" id="lv-3m">4.26%</div><div class="d num" id="lv-3m-d">&nbsp;</div></div>
-      <div class="lvl"><div class="k">2Y note</div><div class="v num" id="lv-2y">4.79%</div><div class="d num" id="lv-2y-d">&nbsp;</div></div>
-      <div class="lvl"><div class="k">10Y note</div><div class="v num" id="lv-10y">5.21%</div><div class="d num" id="lv-10y-d">&nbsp;</div></div>
-      <div class="lvl"><div class="k">30Y bond</div><div class="v num" id="lv-30y">5.56%</div><div class="d num" id="lv-30y-d">&nbsp;</div></div>
-      <div class="lvl"><div class="k">2s10s spread</div><div class="v num" id="lv-2s10s">+42bp</div><div class="d num" id="lv-2s10s-d">&nbsp;</div></div>
-      <div class="lvl"><div class="k">U.S. public debt</div><div class="v num" id="lv-debt">$40.30T</div><div class="d num" id="lv-debt-d">as of Oct 9</div></div>
-    </div>
-    <div class="levels-note" id="levels-note">U.S. Treasury par yield curve rates, close of Oct 13, 2026. Debt: Treasury, Debt to the Penny.</div>
+    </a>
   </div>
+  <div class="levels" id="levels" aria-label="Key Treasury levels">
+  <div class="lvl"><div class="k">3M bill</div><div class="v num" id="lv-3m">4.26%</div><div class="d num" id="lv-3m-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">2Y note</div><div class="v num" id="lv-2y">4.79%</div><div class="d num" id="lv-2y-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">10Y note</div><div class="v num" id="lv-10y">5.21%</div><div class="d num" id="lv-10y-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">30Y bond</div><div class="v num" id="lv-30y">5.56%</div><div class="d num" id="lv-30y-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">2s10s spread</div><div class="v num" id="lv-2s10s">+42bp</div><div class="d num" id="lv-2s10s-d">&nbsp;</div></div>
+  <div class="lvl"><div class="k">U.S. public debt</div><div class="v num" id="lv-debt">$40.30T</div><div class="d num" id="lv-debt-d">as of Oct 9</div></div>
+</div>
+<div class="levels-note" id="levels-note">U.S. Treasury par yield curve rates, close of Oct 13, 2026. Debt: Treasury, Debt to the Penny.</div>
+</div>
 
-  <section id="wire">
-    <div class="wrap split2">
-      <div>
-        <div class="sec-head"><div><div class="eyebrow">AlphaGen Wire</div><h2 class="sec">Market news, our take</h2></div><p>Short AlphaGen reads on the Fed, Treasury, economic data, and earnings. Every figure links to its official source.</p></div>
-        <div class="card wire" aria-live="polite">
-          <div class="wire-head"><span class="live">Live wire</span><span id="wire-updated">Updated through the trading day</span></div>
-          <div class="wire-list" id="wire-list"><div class="wire-empty"><b>Loading the AlphaGen Wire…</b>Fresh pieces post every hour on weekdays.</div></div>
-        </div>
-      </div>
-      <div id="research">
-        <div class="sec-head">
-          <div><div class="eyebrow">AlphaGen Research</div><h2 class="sec">Deep dives</h2></div>
-          <a class="btn ghost" href="https://alphagen-newsletter.beehiiv.com/archive" target="_blank" rel="noopener">Archive →</a>
-        </div>
-        <div class="filters" role="group" aria-label="Filter research">
-          <button type="button" data-f="all" aria-pressed="true">All</button>
-          <button type="button" data-f="debt" aria-pressed="false">Debt &amp; Rates</button>
-          <button type="button" data-f="equities" aria-pressed="false">Equities</button>
-          <button type="button" data-f="macro" aria-pressed="false">Macro</button>
-        </div>
-        <div class="notes" id="notes"></div>
-        <div class="inline-sub"><b>Get every thesis in your inbox.</b><button class="btn" type="button" data-open-sub>Subscribe free</button></div>
-      </div>
-    </div>
-  </section>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Equities · Big movers</div><h2 class="sec">What's moving, and why</h2></div><a class="btn ghost" href="/equities">All movers →</a></div>
+    <div class="spot" data-spot></div>
+  </div>
+</section>
 
-  <section id="markets">
-    <div class="wrap">
-      <div class="sec-head">
-        <div><div class="eyebrow">Markets</div><h2 class="sec">Live markets board</h2></div>
-        <p>Indices, megacaps, rates and credit, commodities, FX, and crypto, plus the S&amp;P 500 heatmap and this week's U.S. releases.</p>
-      </div>
-      <div class="board">
-        <div class="card"><div class="card-h"><span>Market overview</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-overview"><div class="tradingview-widget-container__widget" style="min-height:540px" data-ph="LIVE QUOTES"></div></div></div></div>
-        <div class="card"><div class="card-h"><span>U.S. economic calendar</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-calendar"><div class="tradingview-widget-container__widget" style="min-height:540px" data-ph="CPI · JOBS · FOMC · GDP"></div></div></div></div>
-        <div class="card wide"><div class="card-h"><span>S&amp;P 500 heatmap</span><span>Today's move by sector</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-heatmap"><div class="tradingview-widget-container__widget" style="min-height:520px" data-ph="S&amp;P 500 HEATMAP"></div></div></div></div>
-      </div>
+<section id="wire">
+  <div class="wrap split2">
+    <div>
+      <div class="sec-head"><div><div class="eyebrow">AlphaGen Wire</div><h2 class="sec">Market news, our take</h2></div><a class="btn ghost" href="/wire">Full Wire →</a></div>
+      <div class="card wire">
+  <div class="wire-head"><span class="live">Live wire</span><span data-wire-updated>Updating</span></div>
+  <div class="wire-list" id="home-wire" data-wire data-limit="14" data-tags=""></div>
+</div>
     </div>
-  </section>
+    <div id="research">
+      <div class="sec-head"><div><div class="eyebrow">AlphaGen Research</div><h2 class="sec">Notes &amp; deep dives</h2></div><a class="btn ghost" href="/research">All research →</a></div>
+      <div class="notes" id="home-research" data-research="all" data-limit="6"></div>
+      <div class="inline-sub"><b>Get every thesis in your inbox.</b><button class="btn" type="button" data-open-sub>Subscribe free</button></div>
+    </div>
+  </div>
+</section>
 
-  <section id="rates">
-    <div class="wrap">
-      <div class="sec-head">
-        <div><div class="eyebrow">Rates &amp; Debt</div><h2 class="sec">The Treasury curve and the debt behind it</h2></div>
-        <p>Official U.S. Treasury data, refreshed automatically after each daily release.</p>
-      </div>
-      <div class="desk">
-        <div class="card curve">
-          <div class="card-h"><span>U.S. Treasury yield curve</span><span id="curve-date">Oct 13, 2026</span></div>
-          <div id="curve-chart" role="img" aria-label="U.S. Treasury par yield curve"></div>
-          <div class="legend"><span><i></i><b id="lg-now">Oct 13, 2026</b></span><span><i class="prev"></i><span id="lg-prev">Oct 1, 2026</span></span></div>
-          <div class="ytable-wrap"><table class="ytable" id="ytable"></table></div>
-        </div>
-        <div class="card debt">
-          <div>
-            <div class="eyebrow" style="color:var(--steel)">Total public debt outstanding</div>
-            <div class="big num" id="debt-total">$40.30<small>trillion</small></div>
-            <div class="sub" id="debt-date">As of Oct 9, 2026 · U.S. Treasury, Debt to the Penny</div>
-          </div>
-          <p class="ctx" id="debt-ctx">With the 10-year near 5.2%, every refinancing locks in higher interest costs. That makes the debt a rates story as much as a fiscal one.</p>
-          <div class="split">
-            <div><span>Held by the public</span><b class="num" id="debt-public">$32.45T</b></div>
-            <div><span>Intragovernmental</span><b class="num" id="debt-intra">$7.85T</b></div>
-          </div>
-        </div>
-      </div>
+<section id="markets">
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Markets</div><h2 class="sec">Live markets board</h2></div><p>Indices, megacaps, rates and credit, commodities, FX, and crypto, next to this week's U.S. releases.</p></div>
+    <div class="grid2">
+      <div class="card"><div class="card-h"><span>Market overview</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-overview"><div class="tradingview-widget-container__widget" style="min-height:540px" data-ph="LIVE QUOTES"></div></div></div></div>
+      <div class="card"><div class="card-h"><span>U.S. economic calendar</span><a href="/macro">Macro →</a></div><div class="tv"><div class="tradingview-widget-container" id="tv-calendar"><div class="tradingview-widget-container__widget" style="min-height:540px" data-ph="CPI · JOBS · FOMC · GDP"></div></div></div></div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <section>
-    <div class="wrap">
-      <div class="slip">
-        <div>
-          <div class="eyebrow">The AlphaGen Newsletter</div>
-          <h2 class="sec">Get the thesis before the open.</h2>
-          <p>Free. Rates, liquidity, and earnings signals in one focused read.</p>
-          <div class="subform"><a class="btn" data-sub-go href="https://alphagen-newsletter.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe free →</a></div>
-          <div class="fine">No spam. Unsubscribe anytime.</div>
-        </div>
-        <ul>
-          <li>The AlphaGen thesis on debt, equities, and macro</li>
-          <li>Funding-market and liquidity signals, explained</li>
-          <li>Institutional-grade analysis in plain English</li>
-        </ul>
-      </div>
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Rates &amp; Debt</div><h2 class="sec">The Treasury curve and the debt behind it</h2></div><a class="btn ghost" href="/rates">Rates desk →</a></div>
+    <div class="desk">
+  <div class="card curve">
+    <div class="card-h"><span>U.S. Treasury yield curve</span><span id="curve-date">Oct 13, 2026</span></div>
+    <div id="curve-chart" role="img" aria-label="U.S. Treasury par yield curve"></div>
+    <div class="legend"><span><i></i><b id="lg-now">Oct 13, 2026</b></span><span><i class="prev"></i><span id="lg-prev">Oct 1, 2026</span></span></div>
+    <div class="ytable-wrap"><table class="ytable" id="ytable"></table></div>
+  </div>
+  <div class="card debt">
+    <div>
+      <div class="eyebrow" style="color:var(--steel)">Total public debt outstanding</div>
+      <div class="big num" id="debt-total">$40.30<small>trillion</small></div>
+      <div class="sub" id="debt-date">As of Oct 9, 2026 · U.S. Treasury, Debt to the Penny</div>
     </div>
-  </section>
+    <p class="ctx">With the 10-year above 5%, every refinancing locks in higher interest costs. That makes the debt a rates story as much as a fiscal one.</p>
+    <div class="split">
+      <div><span>Held by the public</span><b class="num" id="debt-public">$32.45T</b></div>
+      <div><span>Intragovernmental</span><b class="num" id="debt-intra">$7.85T</b></div>
+    </div>
+  </div>
+</div>
+  </div>
+</section>
 </main>
-
+<section>
+  <div class="wrap">
+    <div class="slip">
+      <div>
+        <div class="eyebrow">The AlphaGen Newsletter</div>
+        <h2 class="sec">Get the thesis before the open.</h2>
+        <p>Free. Rates, liquidity, and earnings signals in one focused read.</p>
+        <div class="subform"><a class="btn" data-sub-go href="https://alphagen-newsletter.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe free →</a></div>
+        <div class="fine">No spam. Unsubscribe anytime.</div>
+      </div>
+      <ul>
+        <li>The AlphaGen thesis on debt, equities, and macro</li>
+        <li>Funding-market and liquidity signals, explained</li>
+        <li>Institutional-grade analysis in plain English</li>
+      </ul>
+    </div>
+  </div>
+</section>
 <footer>
   <div class="wrap">
-    <div>
-      <div class="logo" style="font-size:1.1rem"><img class="mark" src="logo-192.png" alt="" width="30" height="30">Alpha<span>Gen</span></div>
-      <p class="disc">AlphaGen content is for informational and educational purposes only and is not investment advice or a recommendation to buy or sell any security. Market data by TradingView and may be delayed. Treasury yields and debt data from the U.S. Department of the Treasury.</p>
-    </div>
-    <div class="social">
+    <div class="cols">
       <div>
-        <a href="https://x.com/alphageniq" target="_blank" rel="noopener" aria-label="AlphaGen on X"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg><span>X</span></a>
-        <a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener" aria-label="AlphaGen on LinkedIn"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span></a>
+        <div class="logo" style="font-size:1.1rem"><img class="mark" src="/logo-192.png" alt="" width="30" height="30">Alpha<span>Gen</span></div>
+        <p class="disc">Independent markets research on debt, equities, and macro. AlphaGen content is for informational and educational purposes only and is not investment advice or a recommendation to buy or sell any security.</p>
+        <div class="social"><a href="https://x.com/alphageniq" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg><span>X</span></a><a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span></a></div>
       </div>
-      <span>© 2026 AlphaGen Research</span>
+      <div><h4>Markets</h4><ul><li><a href="/">Home</a></li><li><a href="/wire">Wire</a></li><li><a href="/equities">Equities</a></li></ul></div>
+      <div><h4>Coverage</h4><ul><li><a href="/rates">Rates & Debt</a></li><li><a href="/macro">Macro</a></li><li><a href="/research">Research</a></li></ul></div>
+      <div><h4>Data</h4><ul><li>Quotes &amp; charts: TradingView</li><li>Yields &amp; debt: U.S. Treasury</li><li>Wire sources: official releases &amp; filings</li></ul></div>
     </div>
+    <div class="copy">© 2026 AlphaGen Research. Market data may be delayed.</div>
   </div>
 </footer>
-
 <div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
   <div class="modal-card">
     <button class="x" type="button" data-close-sub aria-label="Close">×</button>
-    <img class="mark" src="logo-192.png" alt="" width="52" height="52">
+    <img class="mark" src="/logo-192.png" alt="" width="52" height="52">
     <div class="eyebrow">Free · The AlphaGen Newsletter</div>
     <h2 id="sub-title">Get the AlphaGen thesis before the open.</h2>
     <p>Our read on debt, equities, and macro, straight to your inbox.</p>
@@ -383,53 +174,11 @@ footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:20px}
     <button class="later" type="button" data-close-sub>No thanks, maybe later</button>
   </div>
 </div>
-
+<script src="/assets/ag.js?v=3"></script>
 <script>
-/* ======== SETTINGS ======== */
-const NEWSLETTER = "https://alphagen-newsletter.beehiiv.com";
-const RSS_DIRECT = "https://rss.beehiiv.com/feeds/dFFy8T23eL.xml";
-
-/* Latest known posts (used only until the live feed answers) */
-const FALLBACK_POSTS = [
-  {title:"Another 2008?",desc:"AlphaGen Macroview | Oct 8/9th, 2026",link:NEWSLETTER+"/p/another-2008",date:"2026-10-09T12:30:00Z",img:""},
-  {title:"The next decade of markets may be defined by one key thing: power.",desc:"AlphaGen Market Insights",link:NEWSLETTER+"/p/the-next-decade-of-markets-may-be-defined-by-one-key-thing-power",date:"2026-10-08T14:31:00Z",img:"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/23b0a45b-c3f1-43cf-9f0e-b77200e1be0f/IMG_2477__1_.png?t=1791407249"},
-  {title:"The AI Trade is Entering a Capital-Infrastructure Phase",desc:"AlphaGen Daily Watchlist",link:NEWSLETTER+"/p/the-ai-trade-is-entering-a-capital-infrastructure-phase",date:"2026-10-08T02:30:00Z",img:"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/407ed160-e598-4180-85a7-b2c105c7d75a/IMG_2466.png?t=1791388221"},
-  {title:"Short-term Treasury markets are sending a signal worth watching.",desc:"T-Bills Are Demanding More Yield",link:NEWSLETTER+"/p/short-term-treasury-markets-are-sending-a-signal-worth-watching",date:"2026-10-07T14:15:00Z",img:"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/27551973-da80-4da2-a8b3-c392b047562c/IMG_2454__1_.png?t=1791338995"},
-  {title:"Market Signals We Are Watching",desc:"October 6th Signals",link:NEWSLETTER+"/p/market-signals-we-are-watching",date:"2026-10-07T01:55:00Z",img:"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4c1c91a9-1834-46fe-8f46-7069994ab014/IMG_2434__1_.png?t=1791337647"}
-];
-/* Latest official Treasury curve (used only until live data answers) */
-const TENORS=[["BC_1MONTH","1M"],["BC_3MONTH","3M"],["BC_6MONTH","6M"],["BC_1YEAR","1Y"],["BC_2YEAR","2Y"],["BC_3YEAR","3Y"],["BC_5YEAR","5Y"],["BC_7YEAR","7Y"],["BC_10YEAR","10Y"],["BC_20YEAR","20Y"],["BC_30YEAR","30Y"]];
-const FALLBACK_CURVE=[
-  {date:"2026-10-01",v:{BC_1MONTH:4.06,BC_3MONTH:4.17,BC_6MONTH:4.27,BC_1YEAR:4.44,BC_2YEAR:4.78,BC_3YEAR:4.91,BC_5YEAR:5.01,BC_7YEAR:5.12,BC_10YEAR:5.24,BC_20YEAR:5.64,BC_30YEAR:5.61}},
-  {date:"2026-10-13",v:{BC_1MONTH:4.10,BC_3MONTH:4.26,BC_6MONTH:4.34,BC_1YEAR:4.48,BC_2YEAR:4.79,BC_3YEAR:4.90,BC_5YEAR:5.00,BC_7YEAR:5.11,BC_10YEAR:5.21,BC_20YEAR:5.60,BC_30YEAR:5.56}}
-];
-
-const $=id=>document.getElementById(id);
-const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
-const fmtDate=d=>new Date(d).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
-const fmtDay=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"})};
-const strip=h=>{const x=document.createElement("div");x.innerHTML=h||"";return (x.textContent||"").trim().replace(/\s+/g," ")};
-function fetchText(urls){
-  return urls.reduce((p,u)=>p.catch(()=>fetch(u,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.text()}).then(t=>{if(!t||/^\s*<!doctype html/i.test(t))throw 0;return t})),Promise.reject());
-}
-
-/* ---------- TradingView widgets ---------- */
-function tv(id,name,cfg){
-  const el=$(id); if(!el) return;
-  const s=document.createElement("script");
-  s.src="https://s3.tradingview.com/external-embedding/embed-widget-"+name+".js"; s.async=true; s.type="text/javascript";
-  s.textContent=JSON.stringify(Object.assign({colorTheme:"dark",isTransparent:true,locale:"en"},cfg));
-  el.appendChild(s);
-}
-tv("tv-tape","ticker-tape",{displayMode:"adaptive",showSymbolLogo:true,symbols:[
-  {proName:"FOREXCOM:SPXUSD",title:"S&P 500"},{proName:"FOREXCOM:NSXUSD",title:"Nasdaq 100"},{proName:"FOREXCOM:DJI",title:"Dow 30"},
-  {proName:"AMEX:IWM",title:"Russell 2000 (IWM)"},{proName:"NASDAQ:TLT",title:"20Y+ Treasuries (TLT)"},{proName:"AMEX:HYG",title:"High Yield (HYG)"},
-  {proName:"AMEX:GLD",title:"Gold (GLD)"},{proName:"AMEX:USO",title:"Oil (USO)"},{proName:"FX:EURUSD",title:"EUR/USD"},
-  {proName:"FX:USDJPY",title:"USD/JPY"},{proName:"BITSTAMP:BTCUSD",title:"Bitcoin"}]});
-tv("tv-overview","market-overview",{dateRange:"1D",showChart:true,width:"100%",height:540,showSymbolLogo:true,showFloatingTooltip:true,
+AG.tv("tv-overview","market-overview",{dateRange:"1D",showChart:true,width:"100%",height:540,showSymbolLogo:true,showFloatingTooltip:true,
   plotLineColorGrowing:"#4c8dff",plotLineColorFalling:"#ff6b6b",gridLineColor:"rgba(39,67,108,0.4)",scaleFontColor:"#93a7c4",
-  belowLineFillColorGrowing:"rgba(76,141,255,0.14)",belowLineFillColorFalling:"rgba(255,107,107,0.10)",
-  belowLineFillColorGrowingBottom:"rgba(76,141,255,0)",belowLineFillColorFallingBottom:"rgba(255,107,107,0)",symbolActiveColor:"rgba(76,141,255,0.12)",
+  belowLineFillColorGrowing:"rgba(76,141,255,0.14)",belowLineFillColorFalling:"rgba(255,107,107,0.10)",belowLineFillColorGrowingBottom:"rgba(76,141,255,0)",belowLineFillColorFallingBottom:"rgba(255,107,107,0)",symbolActiveColor:"rgba(76,141,255,0.12)",
   tabs:[
    {title:"Indices",symbols:[{s:"FOREXCOM:SPXUSD",d:"S&P 500"},{s:"FOREXCOM:NSXUSD",d:"Nasdaq 100"},{s:"FOREXCOM:DJI",d:"Dow 30"},{s:"AMEX:IWM",d:"Russell 2000 (IWM)"},{s:"AMEX:SPY",d:"SPDR S&P 500 (SPY)"},{s:"NASDAQ:QQQ",d:"Invesco QQQ"}]},
    {title:"Megacaps",symbols:[{s:"NASDAQ:NVDA",d:"Nvidia"},{s:"NASDAQ:MSFT",d:"Microsoft"},{s:"NASDAQ:AAPL",d:"Apple"},{s:"NASDAQ:AMZN",d:"Amazon"},{s:"NASDAQ:GOOGL",d:"Alphabet"},{s:"NASDAQ:META",d:"Meta"}]},
@@ -437,171 +186,7 @@ tv("tv-overview","market-overview",{dateRange:"1D",showChart:true,width:"100%",h
    {title:"Commodities",symbols:[{s:"AMEX:GLD",d:"Gold (GLD)"},{s:"AMEX:SLV",d:"Silver (SLV)"},{s:"AMEX:USO",d:"WTI Oil (USO)"},{s:"AMEX:UNG",d:"Natural Gas (UNG)"},{s:"AMEX:CPER",d:"Copper (CPER)"}]},
    {title:"FX & Crypto",symbols:[{s:"AMEX:UUP",d:"U.S. Dollar (UUP)"},{s:"FX:EURUSD",d:"EUR/USD"},{s:"FX:USDJPY",d:"USD/JPY"},{s:"FX:GBPUSD",d:"GBP/USD"},{s:"BITSTAMP:BTCUSD",d:"Bitcoin"},{s:"BITSTAMP:ETHUSD",d:"Ethereum"}]}
   ]});
-tv("tv-calendar","events",{width:"100%",height:540,importanceFilter:"0,1",countryFilter:"us"});
-tv("tv-heatmap","stock-heatmap",{exchanges:[],dataSource:"SPX500",grouping:"sector",blockSize:"market_cap_basic",blockColor:"change",hasTopBar:false,isDataSetEnabled:false,isZoomEnabled:true,hasSymbolTooltip:true,isMonoSize:false,width:"100%",height:520});
-
-/* ---------- Research feed (beehiiv) ---------- */
-const KEYS={
-  debt:/debt|treasur|t-bill|bills?\b|yield|bond|rates?\b|fed\b|fomc|sofr|ois|curve|credit|fiscal|deficit|money.market|2008/i,
-  equities:/equit|stock|earning|eps|s&p|nasdaq|\bai\b|capex|sector|valuation|m&a|ipo|watchlist/i
-};
-const topicOf=p=>{const t=p.title+" "+(p.desc||"");return KEYS.debt.test(t)?"debt":KEYS.equities.test(t)?"equities":"macro"};
-const LABEL={debt:"DEBT & RATES",equities:"EQUITIES",macro:"MACRO"};
-let POSTS=FALLBACK_POSTS.map(p=>({...p,topic:topicOf(p)}));
-let filter="all";
-
-function parseRSS(xml){
-  const doc=new DOMParser().parseFromString(xml,"text/xml");
-  return [...doc.getElementsByTagName("item")].map(it=>{
-    const g=n=>{const e=it.getElementsByTagName(n)[0];return e?e.textContent.trim():""};
-    const enc=it.getElementsByTagNameNS("*","encoded")[0]; const html=enc?enc.textContent:"";
-    const m=html.match(/<img[^>]+src=["']([^"']+)["']/i);
-    const p={title:g("title"),link:g("link"),date:g("pubDate"),desc:strip(g("description")).slice(0,240),img:m?m[1].replace(/&amp;/g,"&"):""};
-    p.topic=topicOf(p); return p;
-  }).filter(p=>p.title&&p.link);
-}
-function renderFeature(){
-  const p=POSTS[0]; if(!p) return;
-  $("feature").href=p.link; $("feature-title").textContent=p.title; $("feature-desc").textContent=p.desc||"";
-  $("feature-tag").textContent=LABEL[p.topic]; $("feature-date").textContent=fmtDate(p.date);
-  const box=$("feature-img");
-  if(p.img){box.innerHTML="";const im=new Image();im.alt="";im.src=p.img;im.loading="eager";im.onerror=()=>{box.innerHTML='<div class="ph"><img src="logo-192.png" alt=""></div>'};box.appendChild(im);}
-  else box.innerHTML='<div class="ph"><img src="logo-192.png" alt=""></div>';
-}
-function renderNotes(){
-  const list=POSTS.filter(p=>filter==="all"||p.topic===filter), box=$("notes"); box.innerHTML="";
-  if(!list.length){box.innerHTML='<div class="empty">No posts in this category yet. New AlphaGen research appears here the moment it\'s published.</div>';return;}
-  list.slice(0,8).forEach(p=>{
-    const a=document.createElement("a"); a.className="note"; a.href=p.link; a.target="_blank"; a.rel="noopener";
-    a.innerHTML='<div class="th"></div><div><div class="meta"><span class="tag"></span><span></span></div><h3></h3><p></p></div>';
-    const th=a.querySelector(".th"), im=new Image(); im.alt=""; im.loading="lazy";
-    if(p.img){im.src=p.img; im.onerror=()=>{im.src="logo-192.png";im.className="lg"}} else {im.src="logo-192.png";im.className="lg"}
-    th.appendChild(im);
-    a.querySelector(".tag").textContent=LABEL[p.topic]; a.querySelector(".meta span:last-child").textContent=fmtDate(p.date);
-    a.querySelector("h3").textContent=p.title; a.querySelector("p").textContent=p.desc||"";
-    box.appendChild(a);
-  });
-}
-document.querySelectorAll(".filters button").forEach(b=>b.addEventListener("click",()=>{
-  filter=b.dataset.f; document.querySelectorAll(".filters button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false")); renderNotes();
-}));
-function loadFeed(){
-  fetchText(["/feed.xml",RSS_DIRECT]).then(t=>{const items=parseRSS(t);if(items.length){POSTS=items;renderFeature();renderNotes();}})
-  .catch(()=>{
-    fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(RSS_DIRECT)).then(r=>r.json()).then(j=>{
-      if(j.status!=="ok"||!j.items||!j.items.length) return;
-      POSTS=j.items.map(i=>{const m=(i.content||"").match(/<img[^>]+src=["']([^"']+)["']/i);const p={title:i.title,link:i.link,date:i.pubDate.replace(" ","T")+"Z",desc:strip(i.description).slice(0,240),img:i.thumbnail||(m?m[1]:"")};p.topic=topicOf(p);return p});
-      renderFeature();renderNotes();
-    }).catch(()=>{});
-  });
-}
-renderFeature(); renderNotes(); loadFeed(); setInterval(loadFeed,5*60*1000);
-
-/* ---------- AlphaGen Wire ---------- */
-(function(){
-  const ago=iso=>{const d=new Date(iso),m=Math.round((Date.now()-d)/60000);if(isNaN(m))return"";if(m<1)return"Just now";if(m<60)return m+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})};
-  function render(data){
-    const items=(data.items||[]).slice().sort((a,b)=>new Date(b.time)-new Date(a.time)).slice(0,80);
-    const list=$("wire-list");
-    if(!items.length){list.innerHTML='<div class="wire-empty"><b>The next AlphaGen Wire update is on the way.</b>Fresh pieces post every hour on weekdays.</div>';return;}
-    list.innerHTML="";
-    items.forEach(it=>{
-      const fresh=(Date.now()-new Date(it.time))<90*60000;
-      const el=document.createElement("article"); el.className="wire-item";
-      el.innerHTML='<div class="wire-meta"><span class="tag"></span><span class="t"></span></div><h3></h3><p></p>';
-      el.querySelector(".tag").textContent=(it.tag||"MARKETS").toUpperCase();
-      const t=el.querySelector(".t"); t.textContent=ago(it.time); if(fresh){t.classList.add("new");t.textContent="● "+t.textContent}
-      el.querySelector("h3").textContent=it.headline||""; el.querySelector("p").textContent=it.take||"";
-      if(it.source_url){const a=document.createElement("a");a.className="src";a.href=it.source_url;a.target="_blank";a.rel="noopener";a.textContent="Source: "+(it.source_name||"Official source")+" →";el.appendChild(a)}
-      list.appendChild(el);
-    });
-    if(data.updated) $("wire-updated").textContent="Updated "+ago(data.updated);
-  }
-  function load(){fetch("wire.json?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{if(d)render(d)}).catch(()=>{})}
-  load(); setInterval(load,2*60*1000);
-})();
-
-/* ---------- Treasury curve + key levels ---------- */
-function ym(d){return d.getFullYear()+String(d.getMonth()+1).padStart(2,"0")}
-function parseCurve(xml){
-  const doc=new DOMParser().parseFromString(xml,"application/xml");
-  return [...doc.getElementsByTagNameNS("*","properties")].map(p=>{
-    const o={};[...p.children].forEach(c=>o[c.localName]=c.textContent);
-    if(!o.NEW_DATE) return null;
-    const v={};TENORS.forEach(([k])=>{const n=parseFloat(o[k]);if(!isNaN(n))v[k]=n});
-    return {date:o.NEW_DATE.slice(0,10),v};
-  }).filter(Boolean);
-}
-const bp=x=>(x>0?"+":"")+Math.round(x)+"bp";
-function setChg(id,now,prev){const el=$(id);if(prev==null||now==null){el.innerHTML="&nbsp;";return}const d=(now-prev)*100;el.textContent=(d===0?"unch":bp(d))+" d/d";el.className="d num "+(d>0?"up":d<0?"down":"")}
-function renderCurve(rows,daily){
-  rows=rows.slice().sort((a,b)=>a.date<b.date?-1:1);
-  const now=rows[rows.length-1], prior=daily!==false&&rows.length>1?rows[rows.length-2]:null;
-  const target=new Date(now.date);target.setDate(target.getDate()-30);
-  const tgt=target.toISOString().slice(0,10);
-  let past=rows[0]; rows.forEach(r=>{if(r.date<=tgt)past=r});
-  if(past===now&&rows.length>1) past=rows[rows.length-2];
-  const V=(r,k)=>r&&r.v[k]!=null?r.v[k]:null;
-  [["lv-3m","BC_3MONTH"],["lv-2y","BC_2YEAR"],["lv-10y","BC_10YEAR"],["lv-30y","BC_30YEAR"]].forEach(([id,k])=>{const x=V(now,k);if(x!=null){$(id).textContent=x.toFixed(2)+"%";setChg(id+"-d",x,V(prior,k))}});
-  const s=(V(now,"BC_10YEAR")-V(now,"BC_2YEAR"))*100; $("lv-2s10s").textContent=bp(s);
-  if(prior){const ps=(V(prior,"BC_10YEAR")-V(prior,"BC_2YEAR"))*100;const d=s-ps;const el=$("lv-2s10s-d");el.textContent=(Math.round(d)===0?"unch":bp(d))+" d/d";el.className="d num "+(d>0?"up":d<0?"down":"")}
-  $("levels-note").textContent="U.S. Treasury par yield curve rates, close of "+fmtDay(now.date)+". Debt: Treasury, Debt to the Penny.";
-  $("curve-date").textContent=fmtDay(now.date); $("lg-now").textContent=fmtDay(now.date); $("lg-prev").textContent=fmtDay(past.date);
-  /* chart */
-  const ks=TENORS.filter(([k])=>V(now,k)!=null);
-  const vals=ks.flatMap(([k])=>[V(now,k),V(past,k)]).filter(x=>x!=null);
-  let lo=Math.floor((Math.min(...vals)-.05)*4)/4, hi=Math.ceil((Math.max(...vals)+.05)*4)/4; if(hi-lo<.5)hi=lo+.5;
-  const W=720,H=300,L=46,R=16,T=16,B=34, x=i=>L+i*(W-L-R)/(ks.length-1), y=v=>T+(hi-v)*(H-T-B)/(hi-lo);
-  let g=""; for(let t=lo;t<=hi+1e-9;t+=.25){g+=`<line x1="${L}" x2="${W-R}" y1="${y(t)}" y2="${y(t)}" stroke="var(--rule)" stroke-width="1"/><text x="${L-8}" y="${y(t)+4}" text-anchor="end" font-family="IBM Plex Mono,monospace" font-size="11" fill="var(--mute)">${t.toFixed(2)}</text>`}
-  ks.forEach(([k,l],i)=>{g+=`<text x="${x(i)}" y="${H-10}" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="11" fill="var(--mute)">${l}</text>`});
-  const path=r=>ks.map(([k],i)=>V(r,k)==null?null:`${x(i)},${y(V(r,k))}`).filter(Boolean).join(" ");
-  const area=`${L},${H-B} `+path(now)+` ${W-R},${H-B}`;
-  const dots=ks.map(([k],i)=>`<circle cx="${x(i)}" cy="${y(V(now,k))}" r="3.2" fill="var(--signal)" stroke="var(--ink)" stroke-width="1.5"/>`).join("");
-  const lastI=ks.length-1, tenI=ks.findIndex(([k])=>k==="BC_10YEAR");
-  const lab=tenI>=0?`<text x="${x(tenI)}" y="${y(V(now,"BC_10YEAR"))-12}" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="11.5" fill="var(--paper)">10Y ${V(now,"BC_10YEAR").toFixed(2)}%</text>`:"";
-  $("curve-chart").innerHTML=`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet"><defs><linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4c8dff" stop-opacity=".22"/><stop offset="1" stop-color="#4c8dff" stop-opacity="0"/></linearGradient></defs>${g}<polygon points="${area}" fill="url(#cg)"/><polyline points="${path(past)}" fill="none" stroke="var(--mute)" stroke-width="1.6" stroke-dasharray="5 4"/><polyline points="${path(now)}" fill="none" stroke="var(--signal)" stroke-width="2.4" stroke-linejoin="round"/>${dots}${lab}</svg>`;
-  /* table */
-  const head="<tr><th>Tenor</th>"+ks.map(([,l])=>`<th>${l}</th>`).join("")+"</tr>";
-  const row=(name,r)=>"<tr><td>"+name+"</td>"+ks.map(([k])=>`<td>${V(r,k)!=null?V(r,k).toFixed(2):"–"}</td>`).join("")+"</tr>";
-  const chg="<tr><td>Chg (bp)</td>"+ks.map(([k])=>{const d=(V(now,k)-V(past,k))*100;return `<td class="${d>0?"up":d<0?"down":""}">${isNaN(d)?"–":(d>0?"+":"")+Math.round(d)}</td>`}).join("")+"</tr>";
-  $("ytable").innerHTML=head+row(fmtDay(now.date).replace(/, \d{4}$/,""),now)+row(fmtDay(past.date).replace(/, \d{4}$/,""),past)+chg;
-}
-function loadCurve(){
-  const d=new Date(), p=new Date(d.getFullYear(),d.getMonth()-1,1);
-  const q=m=>["/api/yields/"+m,"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value_month="+m];
-  const get=m=>fetchText(q(m)).then(parseCurve).catch(()=>[]);
-  Promise.all([get(ym(p)),get(ym(d))]).then(([a,b])=>{const rows=[...a,...b];if(rows.length>=2)renderCurve(rows)});
-}
-renderCurve(FALLBACK_CURVE,false); loadCurve(); setInterval(loadCurve,30*60*1000);
-
-/* ---------- U.S. debt ---------- */
-function loadDebt(){
-  const direct="https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&page%5Bsize%5D=1";
-  fetchText(["/api/debt",direct]).then(t=>JSON.parse(t)).then(j=>{
-    const r=j.data&&j.data[0]; if(!r) return;
-    const T=n=>"$"+(n/1e12).toFixed(2)+"T", tot=+r.tot_pub_debt_out_amt;
-    $("debt-total").innerHTML="$"+(tot/1e12).toFixed(2)+"<small>trillion</small>";
-    $("debt-public").textContent=T(+r.debt_held_public_amt); $("debt-intra").textContent=T(+r.intragov_hold_amt);
-    $("debt-date").textContent="As of "+fmtDay(r.record_date)+" · U.S. Treasury, Debt to the Penny";
-    $("lv-debt").textContent=T(tot); $("lv-debt-d").textContent="as of "+fmtDay(r.record_date).replace(/, \d{4}$/,"");
-  }).catch(()=>{});
-}
-loadDebt(); setInterval(loadDebt,60*60*1000);
-
-/* ---------- Subscribe popup ---------- */
-(function(){
-  const modal=$("sub-modal"); let lastFocus=null;
-  function open(){lastFocus=document.activeElement;modal.hidden=false;document.body.classList.add("locked");setTimeout(()=>modal.querySelector("[data-sub-go]").focus(),50)}
-  function close(){modal.hidden=true;document.body.classList.remove("locked");store.set("ag_sub_seen",String(Date.now()));if(lastFocus)lastFocus.focus()}
-  document.querySelectorAll("[data-open-sub]").forEach(b=>b.addEventListener("click",open));
-  document.querySelectorAll("[data-close-sub]").forEach(b=>b.addEventListener("click",close));
-  modal.addEventListener("click",e=>{if(e.target===modal)close()});
-  document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!modal.hidden)close()});
-  document.querySelectorAll("[data-sub-go]").forEach(a=>a.addEventListener("click",()=>{store.set("ag_subscribed","1");if(!modal.hidden)close()}));
-  const seen=+store.get("ag_sub_seen")||0, subbed=store.get("ag_subscribed");
-  if(!subbed && Date.now()-seen>3*24*3600*1000) setTimeout(()=>{if(modal.hidden)open()},1200);
-})();
+AG.tv("tv-calendar","events",{width:"100%",height:540,importanceFilter:"0,1",countryFilter:"us"});
 </script>
-
 </body>
 </html>
