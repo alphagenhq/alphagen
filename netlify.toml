@@ -1,7 +1,7 @@
 [build]
   publish = "."
 
-# Same-origin proxies so the site can read official data without browser blocks
+# ---- Same-origin proxies to official data ----
 [[redirects]]
   from = "/feed.xml"
   to = "https://rss.beehiiv.com/feeds/dFFy8T23eL.xml"
@@ -20,40 +20,22 @@
   status = 200
   force = true
 
-[[headers]]
-  for = "/wire.json"
-  [headers.values]
-    Cache-Control = "no-cache, max-age=0"
+[[redirects]]
+  from = "/api/auctions"
+  to = "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?sort=-auction_date&page%5Bsize%5D=150"
+  status = 200
+  force = true
 
-[[headers]]
-  for = "/index.html"
-  [headers.values]
-    Cache-Control = "no-cache, max-age=0"
+[[redirects]]
+  from = "/api/fred/:id/:start"
+  to = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=:id&cosd=:start"
+  status = 200
+  force = true
 
-# Clean page URLs
+# ---- Clean URLs: /about -> /about.html, /notes/x -> /notes/x.html (files always win) ----
 [[redirects]]
-  from = "/wire"
-  to = "/wire.html"
-  status = 200
-[[redirects]]
-  from = "/equities"
-  to = "/equities.html"
-  status = 200
-[[redirects]]
-  from = "/rates"
-  to = "/rates.html"
-  status = 200
-[[redirects]]
-  from = "/macro"
-  to = "/macro.html"
-  status = 200
-[[redirects]]
-  from = "/research"
-  to = "/research.html"
-  status = 200
-[[redirects]]
-  from = "/article"
-  to = "/article.html"
+  from = "/*"
+  to = "/:splat.html"
   status = 200
 
 [[headers]]
@@ -61,6 +43,10 @@
   [headers.values]
     Cache-Control = "no-cache, max-age=0"
 [[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "no-cache, max-age=0"
+[[headers]]
   for = "/assets/*"
   [headers.values]
-    Cache-Control = "public, max-age=300"
+    Cache-Control = "public, max-age=600"

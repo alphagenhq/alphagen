@@ -79,10 +79,11 @@ $$("[data-fomc]").forEach(el=>{const f=AG.nextFomc();if(!f)return;const mon=new 
 
 /* ---------- Wire ---------- */
 let WIRE=null, wireSeen=new Set(), wireFirst=true;
-const wireViews=$$("[data-wire]").map(el=>({el,limit:+el.dataset.limit||40,tags:(el.dataset.tags||"").split(",").filter(Boolean),filter:"all",q:""}));
+const wireViews=$$("[data-wire]").map(el=>({el,limit:+el.dataset.limit||40,tags:(el.dataset.tags||"").split(",").filter(Boolean),tk:el.dataset.ticker||"",filter:"all",q:""}));
 function renderWire(v){
   let items=live(WIRE&&WIRE.items);
   if(v.tags.length) items=items.filter(i=>v.tags.includes((i.tag||"").toUpperCase()));
+  if(v.tk) items=items.filter(i=>(i.ticker||"").split(":").pop()===v.tk);
   if(v.filter!=="all") items=items.filter(i=>(i.tag||"").toUpperCase()===v.filter);
   if(v.q){const q=v.q.toLowerCase();items=items.filter(i=>(i.headline+" "+i.take+" "+(i.ticker||"")).toLowerCase().includes(q))}
   items=items.slice(0,v.limit);
@@ -91,7 +92,7 @@ function renderWire(v){
   items.forEach(it=>{
     const fresh=(Date.now()-new Date(it.time))<60*60000;
     const a=document.createElement("article"); a.className="wire-item"+(!wireFirst&&!wireSeen.has(it.id)?" enter":"");
-    a.innerHTML='<div class="wire-meta"><span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<span class="tag tk">'+esc(it.ticker.split(":").pop())+'</span>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span></div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
+    a.innerHTML='<div class="wire-meta"><span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span></div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
     v.el.appendChild(a);
   });
 }
@@ -113,7 +114,7 @@ function moverCard(m){
   const c=document.createElement("article"); c.className="mover";
   const mc=document.createElement("div"); mc.className="mc"; mc.appendChild(AG.mini(m.ticker)); c.appendChild(mc);
   const b=document.createElement("div"); b.className="mb";
-  b.innerHTML='<div class="row"><span class="tag tk">'+esc(m.ticker.split(":").pop())+'</span><span>'+esc(m.name||"")+'</span><span>· '+esc(ago(m.time))+'</span></div><h3>'+esc(m.headline)+'</h3><p>'+esc(m.thesis)+'</p>'+(m.source_url?'<a class="src" href="'+esc(m.source_url)+'" target="_blank" rel="noopener">Catalyst source: '+esc(m.source_name||"Filing")+' →</a>':"");
+  b.innerHTML='<div class="row"><a class="tag tk" href="/stock/'+esc(m.ticker.split(":").pop())+'">'+esc(m.ticker.split(":").pop())+'</a><span>'+esc(m.name||"")+'</span><span>· '+esc(ago(m.time))+'</span></div><h3>'+esc(m.headline)+'</h3><p>'+esc(m.thesis)+'</p>'+(m.source_url?'<a class="src" href="'+esc(m.source_url)+'" target="_blank" rel="noopener">Catalyst source: '+esc(m.source_name||"Filing")+' →</a>':"");
   c.appendChild(b); return c;
 }
 function renderSpot(el){
@@ -128,7 +129,7 @@ function restart(el){clearInterval(spotTimer);spotTimer=setInterval(()=>{spotI++
 function drawMovers(){
   $$("[data-spot]").forEach(el=>{renderSpot(el);restart(el)});
   $$("[data-movers]").forEach(el=>{
-    const items=live(MOVERS&&MOVERS.items).slice(0,+el.dataset.limit||24); el.innerHTML="";
+    let items=live(MOVERS&&MOVERS.items); if(el.dataset.ticker) items=items.filter(m=>m.ticker.split(":").pop()===el.dataset.ticker); items=items.slice(0,+el.dataset.limit||24); el.innerHTML="";
     if(!items.length){el.innerHTML='<div class="empty" style="grid-column:1/-1"><b>No mover theses yet this session.</b>They post as the day\'s biggest moves get a verified catalyst.</div>';return}
     items.forEach(m=>el.appendChild(moverCard(m)));
   });
@@ -161,19 +162,21 @@ function parseRSS(xml){
     p.topic=topicOf(p.title+" "+p.desc); return p;
   }).filter(p=>p.title&&p.link);
 }
-const researchViews=$$("[data-research]").map(el=>({el,limit:+el.dataset.limit||8,src:el.dataset.research||"all",filter:el.dataset.topic||"all"}));
+const researchViews=$$("[data-research]").map(el=>({el,limit:+el.dataset.limit||8,src:el.dataset.research||"all",filter:el.dataset.topic||"all",tk:el.dataset.ticker||""}));
+const SERIES_LABEL={"morning-brief":"Morning Brief","the-close":"The Close","week-ahead":"The Week Ahead"};
 function allResearch(src){
   let a=[]; if(src!=="notes") a=a.concat(POSTS); if(src!=="newsletter") a=a.concat(NOTES);
   return a.sort((x,y)=>new Date(y.date)-new Date(x.date));
 }
 function renderResearch(v){
-  let items=allResearch(v.src); if(v.filter!=="all") items=items.filter(p=>p.topic===v.filter);
+  let items=allResearch(v.src); if(v.filter==="briefs") items=items.filter(p=>p.series); else if(v.filter!=="all") items=items.filter(p=>p.topic===v.filter);
+  if(v.tk) items=items.filter(p=>(p.tickers||[]).includes(v.tk));
   items=items.slice(0,v.limit); v.el.innerHTML="";
   if(!items.length){v.el.innerHTML='<div class="empty"><b>Nothing in this category yet.</b>New AlphaGen research appears here as soon as it\'s published.</div>';return}
   items.forEach(p=>{
     const a=document.createElement("a"); a.className="note"; a.href=p.link; if(p.kind==="newsletter"){a.target="_blank";a.rel="noopener"}
-    const th=p.img?'<img src="'+esc(p.img)+'" alt="" loading="lazy" onerror="this.src=\'/logo-192.png\';this.className=\'lg\'">':(p.kind==="note"?'<span class="glyph">AG</span>':'<img class="lg" src="/logo-192.png" alt="">');
-    a.innerHTML='<div class="th">'+th+'</div><div><div class="meta"><span><span class="tag">'+esc(LABEL[p.topic])+'</span> <span class="tag tk">'+(p.kind==="note"?"AlphaGen Note":"Newsletter")+'</span></span><span>'+esc(fmtDate(p.date))+'</span></div><h3>'+esc(p.title)+'</h3><p>'+esc(p.desc||"")+'</p></div>';
+    const th=p.img?'<img src="'+esc(p.img)+'" alt="" loading="lazy" onerror="this.src=\'/logo-192.png\';this.className=\'lg\'">':(p.kind==="note"?'<span class="glyph">'+(p.series==="morning-brief"?"AM":p.series==="the-close"?"PM":p.series==="week-ahead"?"WK":"AG")+'</span>':'<img class="lg" src="/logo-192.png" alt="">');
+    a.innerHTML='<div class="th">'+th+'</div><div><div class="meta"><span><span class="tag">'+esc(LABEL[p.topic])+'</span> <span class="tag tk">'+(p.series?SERIES_LABEL[p.series]||"Brief":p.kind==="note"?"AlphaGen Note":"Newsletter")+'</span></span><span>'+esc(fmtDate(p.date))+'</span></div><h3>'+esc(p.title)+'</h3><p>'+esc(p.desc||"")+'</p></div>';
     v.el.appendChild(a);
   });
 }
@@ -192,9 +195,20 @@ function loadFeed(){
   return fetchText(["/feed.xml",RSS_DIRECT]).then(t=>{const items=parseRSS(t);if(items.length){POSTS=items;drawResearch()}}).catch(()=>{});
 }
 function loadNotes(){
-  return getJSON("/notes.json").then(d=>{NOTES=live(d.items).map(n=>({kind:"note",id:n.id,title:n.title,desc:n.dek,link:"/article?id="+encodeURIComponent(n.id),date:n.time,img:"",topic:TAG2TOPIC[(n.tag||"").toUpperCase()]||"macro",raw:n}));drawResearch()}).catch(()=>{});
+  return getJSON("/notes.json").then(d=>{NOTES=live(d.items).map(n=>({kind:"note",id:n.id,series:n.series||"",title:n.title,desc:n.dek,link:"/notes/"+encodeURIComponent(n.id),date:n.time,img:"",tickers:(n.tickers||[]).map(x=>x.split(":").pop()),topic:TAG2TOPIC[(n.tag||"").toUpperCase()]||"macro",raw:n}));drawResearch();drawDesk()}).catch(()=>{});
 }
 if(researchViews.length||$("#feature")){drawResearch();loadFeed();loadNotes();setInterval(loadFeed,5*60000);setInterval(loadNotes,2*60000)}
+
+/* ---------- Today's desk ---------- */
+let DESK_CH=null;
+function drawDesk(){
+  const el=$("[data-desk]"); if(!el) return;
+  const latest=s=>NOTES.find(n=>n.series===s);
+  const card=(lab,code,n,fallback)=>n?'<a class="desk-c" href="'+n.link+'"><div class="desk-k"><span class="glyph">'+code+'</span><span>'+lab+'</span><span>'+esc(ago(n.date))+'</span></div><h3>'+esc(n.title)+'</h3><p>'+esc(n.desc||"")+'</p></a>':'<div class="desk-c off"><div class="desk-k"><span class="glyph">'+code+'</span><span>'+lab+'</span></div><h3>'+fallback+'</h3></div>';
+  const ch=DESK_CH&&live(DESK_CH.items)[0];
+  el.innerHTML=card("Morning Brief","AM",latest("morning-brief"),"Publishes before the open, weekdays at 7:46 a.m. ET")+(ch?'<a class="desk-c" href="/charts"><div class="desk-k"><span class="glyph">◢</span><span>Chart of the Day</span><span>'+esc(ago(ch.time))+'</span></div><h3>'+esc(ch.title)+'</h3><p>'+esc(ch.subtitle||"")+'</p></a>':'<div class="desk-c off"><div class="desk-k"><span class="glyph">◢</span><span>Chart of the Day</span></div><h3>Publishes each trading morning</h3></div>')+card("The Close","PM",latest("the-close"),"Publishes after the bell, weekdays at 4:46 p.m. ET")+card("The Week Ahead","WK",latest("week-ahead"),"Publishes Sunday evenings");
+}
+if($("[data-desk]")){getJSON("/charts.json").then(d=>{DESK_CH=d;drawDesk()}).catch(()=>{});drawDesk()}
 
 /* ---------- Article reader ---------- */
 (function(){

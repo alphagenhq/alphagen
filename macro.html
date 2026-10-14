@@ -4,23 +4,27 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Macro | AlphaGen Research</title>
-<meta name="description" content="U.S. economic calendar, AlphaGen's macro wire, commodities, the dollar, and macro research.">
+<meta name="description" content="U.S. economic calendar, AlphaGen&#x27;s macro wire, commodities, the dollar, and macro research.">
 <meta name="theme-color" content="#07121f">
 <link rel="icon" type="image/png" href="/logo-192.png">
 <link rel="apple-touch-icon" href="/logo-192.png">
 <link rel="canonical" href="https://alphagenresearch.com/macro">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AlphaGen Research">
-<meta property="og:title" content="Macro | AlphaGen Research">
-<meta property="og:description" content="U.S. economic calendar, AlphaGen's macro wire, commodities, the dollar, and macro research.">
+<meta property="og:title" content="Macro">
+<meta property="og:description" content="U.S. economic calendar, AlphaGen&#x27;s macro wire, commodities, the dollar, and macro research.">
 <meta property="og:url" content="https://alphagenresearch.com/macro">
-<meta property="og:image" content="https://alphagenresearch.com/logo-192.png">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://alphagenresearch.com/og/default.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@alphageniq">
+<meta name="twitter:image" content="https://alphagenresearch.com/og/default.png">
+<link rel="alternate" type="application/rss+xml" title="AlphaGen Research" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,600;62..125,700;62..125,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="/assets/ag.css?v=3">
+<link rel="stylesheet" href="/assets/ag.css?v=6">
 </head>
 <body>
 <div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><span class="clock" id="clock"></span></div></div>
@@ -28,7 +32,7 @@
   <div class="wrap">
     <a class="logo" href="/"><img class="mark" src="/logo-192.png" alt="" width="34" height="34">Alpha<span>Gen</span></a>
     <nav class="nav" aria-label="Main">
-      <div class="links"><a class="txt" href="/">Home</a><a class="txt" href="/wire">Wire</a><a class="txt" href="/equities">Equities</a><a class="txt" href="/rates">Rates & Debt</a><a class="txt" href="/macro" aria-current="page">Macro</a><a class="txt" href="/research">Research</a></div>
+      <div class="links"><a class="txt" href="/wire">Wire</a><div class="dd"><button type="button">Markets</button><div class="dd-menu"><a href="/equities">Equities & movers<small>Big movers with AlphaGen's thesis</small></a><a href="/earnings">Earnings scorecard<small>Reported results from filings</small></a><a href="/stocks">Stock coverage<small>Every company we cover</small></a></div></div><div class="dd"><button type="button">Rates</button><div class="dd-menu"><a href="/rates">Rates & debt<small>Yield curve, debt, Fed calendar</small></a><a href="/auctions">Treasury auctions<small>Results, demand, and the calendar</small></a></div></div><div class="dd cur"><button type="button">Macro</button><div class="dd-menu"><a href="/dashboard">Macro dashboard<small>20 indicators with live signals</small></a><a href="/macro" aria-current="page">Calendar & macro wire<small>Releases, commodities, FX</small></a></div></div><a class="txt" href="/charts">Charts</a><a class="txt" href="/research">Research</a></div>
       <a class="ico" href="https://x.com/alphageniq" target="_blank" rel="noopener" aria-label="AlphaGen on X"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg></a>
       <a class="ico" href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener" aria-label="AlphaGen on LinkedIn"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg></a>
       <button class="btn sm" type="button" data-open-sub>Subscribe</button>
@@ -38,32 +42,10 @@
 </header>
 <div class="tape"><tv-ticker-tape symbols="FOREXCOM:SPXUSD,FOREXCOM:NSXUSD,FOREXCOM:DJI,AMEX:IWM,NASDAQ:NVDA,NASDAQ:AAPL,NASDAQ:MSFT,NASDAQ:TLT,AMEX:HYG,AMEX:GLD,AMEX:USO,FX:EURUSD,FX:USDJPY,BITSTAMP:BTCUSD" theme="dark" transparent show-hover></tv-ticker-tape></div>
 <main id="top">
-<div class="wrap phead">
-  <div class="eyebrow">Macro</div>
-  <h1>The macro tape.</h1>
-  <p>Economic releases, commodities, the dollar, and global central banks, with AlphaGen's take on what each print means for markets.</p>
-</div>
-<section class="flush">
-  <div class="wrap split2">
-    <div class="card"><div class="card-h"><span>U.S. economic calendar</span><span class="live">Live</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-calendar"><div class="tradingview-widget-container__widget" style="min-height:640px" data-ph="CPI · JOBS · FOMC · GDP"></div></div></div></div>
-    <div><div class="card wire">
-  <div class="wire-head"><span class="live">Macro wire</span><span data-wire-updated>Updating</span></div>
-  <div class="wire-list" id="macro-wire" data-wire data-limit="30" data-tags="MACRO,COMMODITIES,FX,FED" style="max-height:640px"></div>
-</div></div>
-  </div>
-</section>
-<section>
-  <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Cross-asset</div><h2 class="sec">Commodities, dollar, and crypto</h2></div></div>
-    <div class="minis"><div class="card"><tv-mini-chart symbol="AMEX:GLD" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:USO" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:UNG" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:CPER" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:UUP" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="FX:EURUSD" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="FX:USDJPY" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="BITSTAMP:BTCUSD" theme="dark" transparent></tv-mini-chart></div></div>
-  </div>
-</section>
-<section>
-  <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Research</div><h2 class="sec">Macro research</h2></div></div>
-    <div class="notes cards" id="macro-research" data-research="all" data-topic="macro" data-limit="9"></div>
-  </div>
-</section>
+<div class="wrap phead"><div class="eyebrow">Macro</div><h1>The macro tape.</h1><p>Economic releases, commodities, the dollar, and global central banks, with AlphaGen's take on what each print means for markets.</p></div><section class="flush"><div class="wrap split2"><div class="card"><div class="card-h"><span>U.S. economic calendar</span><span class="live">Live</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-calendar"><div class="tradingview-widget-container__widget" style="min-height:640px" data-ph="CPI · JOBS · FOMC · GDP"></div></div></div></div>
+<div><div class="card wire"><div class="wire-head"><span class="live">Macro wire</span><span data-wire-updated>Updating</span></div><div class="wire-list" id="macro-wire" data-wire data-limit="30" data-tags="MACRO,COMMODITIES,FX,FED" style="max-height:640px"></div></div></div></div></section>
+<section><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Cross-asset</div><h2 class="sec">Commodities, dollar, and crypto</h2></div><a class="btn ghost" href="/dashboard">Macro dashboard →</a></div><div class="minis"><div class="card"><tv-mini-chart symbol="AMEX:GLD" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:USO" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:UNG" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:CPER" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="AMEX:UUP" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="FX:EURUSD" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="FX:USDJPY" theme="dark" transparent></tv-mini-chart></div><div class="card"><tv-mini-chart symbol="BITSTAMP:BTCUSD" theme="dark" transparent></tv-mini-chart></div></div></div></section>
+<section><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Research</div><h2 class="sec">Macro research</h2></div></div><div class="notes cards" id="macro-research" data-research="all" data-topic="macro" data-limit="9"></div></div></section>
 </main>
 <section>
   <div class="wrap">
@@ -88,14 +70,14 @@
     <div class="cols">
       <div>
         <div class="logo" style="font-size:1.1rem"><img class="mark" src="/logo-192.png" alt="" width="30" height="30">Alpha<span>Gen</span></div>
-        <p class="disc">Independent markets research on debt, equities, and macro. AlphaGen content is for informational and educational purposes only and is not investment advice or a recommendation to buy or sell any security.</p>
-        <div class="social"><a href="https://x.com/alphageniq" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg><span>X</span></a><a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span></a></div>
+        <p class="disc">Independent markets research on debt, equities, and macro, built from official data. For informational purposes only; not investment advice. See <a href="/disclosures" style="color:inherit">disclosures</a>.</p>
+        <div class="social"><a href="https://x.com/alphageniq" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.68l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.08 4.13H5.12l11.96 15.64z"/></svg><span>X</span></a><a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg><span>LinkedIn</span></a><a href="/rss.xml">RSS</a></div>
       </div>
-      <div><h4>Markets</h4><ul><li><a href="/">Home</a></li><li><a href="/wire">Wire</a></li><li><a href="/equities">Equities</a></li></ul></div>
-      <div><h4>Coverage</h4><ul><li><a href="/rates">Rates & Debt</a></li><li><a href="/macro">Macro</a></li><li><a href="/research">Research</a></li></ul></div>
-      <div><h4>Data</h4><ul><li>Quotes &amp; charts: TradingView</li><li>Yields &amp; debt: U.S. Treasury</li><li>Wire sources: official releases &amp; filings</li></ul></div>
+      <div><h4>Markets</h4><ul><li><a href="/wire">The Wire</a></li><li><a href="/equities">Equities & movers</a></li><li><a href="/earnings">Earnings scorecard</a></li><li><a href="/stocks">Stock coverage</a></li></ul></div>
+      <div><h4>Rates & macro</h4><ul><li><a href="/rates">Rates & debt</a></li><li><a href="/auctions">Treasury auctions</a></li><li><a href="/dashboard">Macro dashboard</a></li><li><a href="/macro">Calendar</a></li><li><a href="/charts">Charts</a></li></ul></div>
+      <div><h4>AlphaGen</h4><ul><li><a href="/research">Research</a></li><li><a href="/about">About</a></li><li><a href="/methodology">Methodology</a></li><li><a href="/standards">Editorial standards</a></li><li><a href="/disclosures">Disclosures</a></li></ul></div>
     </div>
-    <div class="copy">© 2026 AlphaGen Research. Market data may be delayed.</div>
+    <div class="copy">© 2026 AlphaGen Research. Market data by TradingView and may be delayed. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
   </div>
 </footer>
 <div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
@@ -110,7 +92,8 @@
     <button class="later" type="button" data-close-sub>No thanks, maybe later</button>
   </div>
 </div>
-<script src="/assets/ag.js?v=3"></script>
+<script src="/assets/ag.js?v=6"></script>
+<script src="/assets/ag-data.js?v=6"></script>
 <script>
 AG.tv("tv-calendar","events",{width:"100%",height:640,importanceFilter:"0,1",countryFilter:"us"});
 </script>

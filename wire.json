@@ -44,7 +44,8 @@
       "headline": "Goldman posts $18.68B in Q3 revenue and $17.01 a share",
       "take": "Goldman reported third-quarter net revenues of $18.68 billion and net earnings of $5.29 billion, or $17.01 per diluted share, for an 18.7% annualized return on equity. Global Banking & Markets brought in $13.46 billion, about 72% of the total. Trading and deal desks are carrying the quarter.",
       "source_name": "Goldman Sachs 8-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm",
+      "ticker": "NYSE:GS"
     },
     {
       "id": "2026-10-09-debt",

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alphagenresearch.com/sitemap.xml
