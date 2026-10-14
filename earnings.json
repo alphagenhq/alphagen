@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-14T19:55:00Z",
+  "updated": "2026-10-14T20:02:00Z",
   "items": [
+    {
+      "id": "2026-10-14-MS-Q3",
+      "time": "2026-10-14T20:02:00Z",
+      "ticker": "NYSE:MS",
+      "name": "Morgan Stanley",
+      "period": "Q3 2026",
+      "report_date": "2026-10-14",
+      "revenue": 20.3,
+      "revenue_yoy": 11.5,
+      "eps": 3.03,
+      "eps_yoy": 8.2,
+      "take": "Net income of $4.9 billion versus $4.6 billion a year ago, with a 22.6% return on tangible common equity. Revenue growth outpaced EPS growth, and both rose from a year earlier.",
+      "source_name": "Morgan Stanley Q3 2026 earnings release",
+      "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf"
+    },
     {
       "id": "2026-10-13-GS-Q3",
       "time": "2026-10-14T19:55:00Z",
