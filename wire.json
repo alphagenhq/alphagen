@@ -1,6 +1,79 @@
 {
-  "updated": "2026-10-14T21:39:31Z",
+  "updated": "2026-10-14T22:02:18Z",
   "items": [
+    {
+      "id": "2026-10-14-jpm-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:JPM",
+      "headline": "JPMorgan Q3 net income rises 6% to $15.3B; EPS $5.57 vs $5.07",
+      "take": "JPMorgan Chase reported third-quarter net income of $15.3 billion, or $5.57 per share, versus $14.4 billion, or $5.07, a year earlier, on reported revenue of $50.2 billion against $46.4 billion. Net interest income rose 13% to $27.1 billion, the provision for credit losses fell to $2.7 billion from $3.4 billion, and net charge-offs dropped $389 million to $2.2 billion. Falling credit costs contrast with the higher provision Wells Fargo reported, though JPMorgan also scaled net buybacks back to $664 million.",
+      "source_name": "JPMorgan Chase 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm",
+      "time": "2026-10-14T21:50:00Z"
+    },
+    {
+      "id": "2026-10-14-steo-brent-105",
+      "tag": "ENERGY",
+      "headline": "EIA sees Brent averaging $105 in Q4 after a $114 September",
+      "take": "EIA's October Short-Term Energy Outlook says Brent averaged $114 per barrel in September, $23 above August, and forecasts $105 for 4Q26, $96 for full-year 2026 and $84 for 2027. EIA assumes Middle East oil flows stay constrained through the fourth quarter. The forecast path implies relief in 2027, but it hinges on supply recovering rather than demand cooling, which keeps energy the swing factor for inflation.",
+      "source_name": "EIA Short-Term Energy Outlook, October 2026",
+      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
+      "time": "2026-10-14T21:54:00Z"
+    },
+    {
+      "id": "2026-10-14-steo-shut-ins",
+      "tag": "COMMODITIES",
+      "headline": "EIA: Middle East shut-ins eased to 4.8M b/d in September from 10.9M peak",
+      "take": "EIA estimates Middle East shut-in oil production averaged 4.8 million barrels a day in September, down from a peak of 10.9 million b/d in May, and forecasts 4.5 million b/d in 4Q26. It estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26, with a further draw of about 0.7 million b/d expected in 4Q26. Supply is coming back, but inventories are still being drawn, so the market has little cushion if flows disrupt again.",
+      "source_name": "EIA Short-Term Energy Outlook, October 2026",
+      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
+      "time": "2026-10-14T21:58:00Z"
+    },
+    {
+      "id": "2026-10-14-freddie-740",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate climbs to 7.40%, up 110 bp from a year ago",
+      "take": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed rate at 7.40% for the week of Oct. 8, up from 7.28% a week earlier and 6.30% a year ago; the 15-year averaged 6.73%. That is a 12 basis point weekly rise and 110 basis points over the year. With the 10-year Treasury above 5%, mortgage rates have little room to ease, which keeps affordability the binding constraint on home sales.",
+      "source_name": "Freddie Mac Primary Mortgage Market Survey",
+      "source_url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-average-740",
+      "time": "2026-10-14T22:02:00Z"
+    },
+    {
+      "id": "2026-10-14-steo-diesel",
+      "tag": "ENERGY",
+      "headline": "EIA: East Coast distillate stocks ran 32% below normal in September",
+      "take": "EIA says East Coast distillate inventories were 32% below the five-year seasonal average in September and expects them to stay about 20% below average through winter. It forecasts retail diesel at $5.19 a gallon for 2026, easing to $4.49 in 2027, and says tight global diesel markets are boosting refiners' crude demand. That matches the Dallas Fed's Beige Book report that diesel is the top cost driver in its district, a channel that reaches freight and goods prices with a lag.",
+      "source_name": "EIA Short-Term Energy Outlook, October 2026",
+      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
+      "time": "2026-10-14T22:06:00Z"
+    },
+    {
+      "id": "2026-10-14-ea-flash-hicp",
+      "tag": "GLOBAL",
+      "headline": "Euro area flash inflation rose to 3.8% in September on 18.8% energy",
+      "take": "Eurostat's flash estimate put euro area annual inflation at 3.8% in September, up from 3.2% in August, with energy at 18.8% versus 14.3%. Inflation excluding energy, food, alcohol and tobacco was estimated at 2.5%, against 2.4% in August, and services rose to 3.2%. As in the U.S., the headline jump is mostly energy, which leaves the ECB weighing a supply shock against a still-contained core.",
+      "source_name": "Eurostat euro indicators, flash estimate September 2026",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
+      "time": "2026-10-14T22:10:00Z"
+    },
+    {
+      "id": "2026-10-14-yen-158",
+      "tag": "FX",
+      "headline": "Yen at 158.34 per dollar on Oct. 9, per Fed H.10 data",
+      "take": "The Federal Reserve's H.10 noon buying rate put the dollar at 158.34 yen on Oct. 9, versus 157.97 on Oct. 5, according to the FRED series updated Oct. 13. The dollar edged higher against the yen on three of the four trading days from Oct. 6 to Oct. 9, dipping only on Oct. 7. With U.S. 10-year yields above 5%, the rate gap with Japan continues to favor the dollar, keeping yen weakness a live issue for Japanese policymakers.",
+      "source_name": "Federal Reserve H.10 via FRED (DEXJPUS)",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "time": "2026-10-14T22:14:00Z"
+    },
+    {
+      "id": "2026-10-14-wpsr-thursday",
+      "tag": "ENERGY",
+      "headline": "EIA's weekly petroleum report moves to Thursday, Oct. 15",
+      "take": "EIA says the next Weekly Petroleum Status Report will be released Thursday, Oct. 15, at 12:00 p.m. and 2:00 p.m. Eastern Time because of the federal closure on Monday, Oct. 12. EIA has also discontinued the full-report PDF, effective Sept. 23. With distillate stocks already tight, Thursday's inventory figures are the next official read on whether winter fuel supplies are rebuilding.",
+      "source_name": "EIA Weekly Petroleum Status Report",
+      "source_url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "time": "2026-10-14T22:18:00Z"
+    },
     {
       "id": "2026-10-14-fairfax-idbi-bank",
       "tag": "DEALS",

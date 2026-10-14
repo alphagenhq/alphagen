@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-14T21:13:14Z",
+  "updated": "2026-10-14T22:02:51Z",
   "items": [
+    {
+      "id": "2026-10-14-eia-steo-oil-supply",
+      "time": "2026-10-14T22:02:51Z",
+      "tag": "ENERGY",
+      "title": "EIA's October outlook: oil supply is healing, inventories are not",
+      "dek": "The Energy Information Administration sees Brent easing from a $114 September to $105 in the fourth quarter, but its own numbers show global stocks still drawing and diesel still tight.",
+      "key_points": [
+        "EIA forecasts Brent at $105 per barrel in 4Q26, $96 for 2026 and $84 for 2027, after a September average of $114, $23 above August.",
+        "Middle East shut-in production averaged 4.8 million b/d in September, down from a 10.9 million b/d peak in May; EIA forecasts 4.5 million b/d in 4Q26.",
+        "EIA estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26 and expects a further draw of about 0.7 million b/d in 4Q26.",
+        "East Coast distillate inventories were 32% below the five-year seasonal average in September; EIA expects them to stay about 20% below average through winter.",
+        "Retail diesel is forecast at $5.19 a gallon in 2026 and $4.49 in 2027; gasoline at $3.91 and $3.56."
+      ],
+      "body": [
+        "The October Short-Term Energy Outlook, released Oct. 6, reads at first like a relief story. EIA expects Brent to average $105 per barrel in the fourth quarter, below the $114 average it recorded for September, and to fall to an $84 annual average in 2027. Its WTI path runs from about $97 in 4Q26 to $79.74 next year.",
+        "The detail behind that path is less comfortable. EIA's forecast rests on supply returning, not on demand weakening, and it assumes oil flows from the Middle East remain constrained through the fourth quarter.",
+        {
+          "h": "Supply is coming back slowly"
+        },
+        "EIA puts Middle East shut-in production at 4.8 million barrels a day in September, less than half the 10.9 million b/d peak in May. But it forecasts 4.5 million b/d of shut-ins for 4Q26, barely better than September. The agency also notes that attacks on Saudi Arabia's East-West pipeline temporarily halted a key bypass route around the Strait of Hormuz, and that tanker rates hit record levels in September, adding to delivered crude costs.",
+        {
+          "h": "Inventories are still draining"
+        },
+        "The more important number may be the stock draw. EIA estimates global oil inventories fell by an average of 1.9 million b/d in the third quarter and expects a further draw of about 0.7 million b/d in the fourth. A smaller draw is still a draw: the market is entering winter with less buffer than it had in the summer, and EIA says prices will stay elevated until Middle East flows recover and stocks are rebuilt.",
+        "Diesel is where that shows up first. East Coast distillate inventories were 32% below their five-year seasonal average in September, and EIA expects them to stay about 20% below average through the winter. It forecasts retail diesel at $5.19 a gallon for 2026. That fits the Dallas Fed's Beige Book report that diesel is the top cost driver in its district.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "For markets, the outlook explains why September's energy-led inflation jump is unlikely to fade quickly. Diesel feeds freight, farming and goods costs with a lag, so even if crude eases as EIA expects, the pass-through from distillates can keep pressure on goods prices into early 2027. Natural gas is the exception: EIA sees Henry Hub averaging $3.48 per MMBtu this year and $3.16 in 2027, with above-average storage heading into the heating season.",
+        "The next official check comes Thursday, when EIA publishes its weekly petroleum data, delayed a day by Monday's federal closure. The distillate line will show whether winter supply is rebuilding or whether EIA's below-average assumption is, if anything, optimistic."
+      ],
+      "sources": [
+        {
+          "name": "EIA Short-Term Energy Outlook, October 2026",
+          "url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf"
+        },
+        {
+          "name": "EIA Weekly Petroleum Status Report",
+          "url": "https://www.eia.gov/petroleum/supply/weekly/"
+        }
+      ]
+    },
     {
       "id": "2026-10-14-the-close",
       "time": "2026-10-14T21:13:14Z",

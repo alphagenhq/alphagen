@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-14T21:13:14Z",
+  "updated": "2026-10-14T22:02:18Z",
   "items": [
+    {
+      "id": "2026-10-13-JPM-Q3",
+      "time": "2026-10-14T22:02:18Z",
+      "ticker": "NYSE:JPM",
+      "name": "JPMorgan Chase",
+      "period": "Q3 2026",
+      "report_date": "2026-10-13",
+      "revenue": 50.172,
+      "revenue_yoy": 8.1,
+      "eps": 5.57,
+      "eps_yoy": 9.9,
+      "take": "Net income rose 6% to $15.3 billion as net interest income grew 13% and the credit provision fell to $2.7 billion from $3.4 billion. Results included a $658 million investment securities loss; ROTCE was 20%, or 21% excluding it.",
+      "source_name": "JPMorgan Chase 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm"
+    },
     {
       "id": "2026-10-14-BAC-Q3",
       "time": "2026-10-14T21:13:14Z",
