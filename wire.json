@@ -1,1 +1,50 @@
-{"updated": null, "items": []}
+{
+  "updated": "2026-10-14T19:10:00Z",
+  "items": [
+    {
+      "id": "2026-10-14-cpi-headline",
+      "time": "2026-10-14T19:10:00Z",
+      "tag": "MACRO",
+      "headline": "September CPI jumps 0.6%, with gasoline doing most of the work",
+      "take": "Headline CPI rose 0.6% in September after 0.4% in August, putting the 12-month rate at 3.7%. BLS says gasoline rose 9.1% on the month and accounted for over half of the increase. This is an energy shock showing up in the headline, and the market is treating it as a policy problem.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    },
+    {
+      "id": "2026-10-14-cpi-core-gap",
+      "time": "2026-10-14T19:08:00Z",
+      "tag": "MACRO",
+      "headline": "The gap that matters: headline at 3.7%, core at 2.6%",
+      "take": "Core CPI, which strips out food and energy, rose 0.3% in September and 2.6% over the past year. Energy is up 20.4% year over year. The question for the Fed is whether energy prices leak into everything else. Shelter, the stickiest piece, rose 0.4% on the month and 3.2% on the year.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    },
+    {
+      "id": "2026-10-14-fomc-oct",
+      "time": "2026-10-14T19:06:00Z",
+      "tag": "FED",
+      "headline": "Fed meets October 27–28 with inflation moving the wrong way",
+      "take": "The FOMC's next two-day meeting is October 27–28, with the press conference on the 28th. Today's CPI gives the committee a hotter headline print to weigh against a calmer core. The Fed also released its Beige Book, its regional read on the economy, at 2:00 p.m. ET today.",
+      "source_name": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "2026-10-13-gs-q3",
+      "time": "2026-10-14T19:04:00Z",
+      "tag": "EARNINGS",
+      "headline": "Goldman posts $18.68B in Q3 revenue and $17.01 a share",
+      "take": "Goldman reported third-quarter net revenues of $18.68 billion and net earnings of $5.29 billion, or $17.01 per diluted share, for an 18.7% annualized return on equity. Global Banking & Markets brought in $13.46 billion, about 72% of the total. Trading and deal desks are carrying the quarter.",
+      "source_name": "Goldman Sachs 8-K (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm"
+    },
+    {
+      "id": "2026-10-09-debt",
+      "time": "2026-10-14T19:02:00Z",
+      "tag": "DEBT",
+      "headline": "U.S. public debt stands at $40.30 trillion",
+      "take": "Total public debt outstanding was $40.30 trillion as of October 9, per the Treasury's latest daily report. $32.45 trillion is held by the public and $7.85 trillion is intragovernmental. With the 10-year yield above 5%, the cost of rolling that debt is the story to watch.",
+      "source_name": "U.S. Treasury, Debt to the Penny",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny"
+    }
+  ]
+}
