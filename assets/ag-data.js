@@ -5,7 +5,7 @@ const AG=window.AG||{}; const $=s=>document.querySelector(s), $$=s=>[...document
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDay=s=>{const [y,m,d]=s.slice(0,10).split("-").map(Number);return new Date(y,m-1,d).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"})};
 const shortDay=s=>fmtDay(s).replace(/, \d{4}$/,"");
-const getJSON=p=>fetch(p+(p.includes("?")?"&":"?")+"t="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});
+const getJSON=p=>{const m=p.match(/^\/([a-z]+\.json)$/);const u=m?"https://raw.githubusercontent.com/alphagenhq/alphagen/data/"+m[1]:p;return fetch(u,{cache:"default"}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(e=>{if(m)return fetch(p,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});throw e})};
 const live=items=>(items||[]).filter(i=>!i.time||new Date(i.time)<=Date.now()).sort((a,b)=>new Date(b.time)-new Date(a.time));
 const C={paper:"#eef3fb",steel:"#93a7c4",mute:"#6b82a3",rule:"#1c3354",signal:"#4c8dff",up:"#36c98b",down:"#ff6b6b",ink:"#07121f",panel:"#0e1f36"};
 const SERIES_COLORS=["#4c8dff","#f2b84b","#36c98b","#c58cff","#ff6b6b"];
@@ -134,7 +134,7 @@ function renderDash(root){
   root.innerHTML=groups.map(g=>`<div class="dg"><div class="dg-h">${esc(g.g)}</div><div class="dg-grid">${g.items.map(i=>`<a class="ind" data-ind="${i.id}" href="https://fred.stlouisfed.org/series/${i.id}" target="_blank" rel="noopener"><div class="ind-top"><span class="ind-n">${esc(i.n)}</span><span class="sig">…</span></div><div class="ind-v num">—</div><div class="ind-d num">Loading</div><div class="ind-s"></div><div class="ind-note">${esc(i.note)} · FRED: ${i.id}</div></a>`).join("")}</div></div>`).join("");
   let improving=0,worsening=0,done=0,total=0;
   groups.forEach(g=>g.items.forEach(i=>{total++;
-    fred(i.id,"2020-01-01").then(o=>{
+    fred(i.id,"2022-01-01").then(o=>{
       const s=transform(o,i.t); if(!s.length) throw 0;
       const last=s[s.length-1], prev=s[s.length-2], back=s[Math.max(0,s.length-1-i.lb)];
       const el=root.querySelector('[data-ind="'+i.id+'"]'); if(!el) return;
@@ -264,7 +264,7 @@ renderEarnings();
 "use strict";
 const AG=window.AG||{}; const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const getJSON=p=>fetch(p+(p.includes("?")?"&":"?")+"t="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});
+const getJSON=p=>{const m=p.match(/^\/([a-z]+\.json)$/);const u=m?"https://raw.githubusercontent.com/alphagenhq/alphagen/data/"+m[1]:p;return fetch(u,{cache:"default"}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(e=>{if(m)return fetch(p,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});throw e})};
 const live=items=>(items||[]).filter(i=>!i.time||new Date(i.time)<=Date.now()).sort((a,b)=>new Date(b.time)-new Date(a.time));
 const ago=iso=>{const d=new Date(iso),m=Math.round((Date.now()-d)/60000);if(isNaN(m))return"";if(m<1)return"Just now";if(m<60)return m+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})};
 const day=s=>{if(!s)return"";const d=new Date(s.length===10?s+"T12:00:00":s);return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})};

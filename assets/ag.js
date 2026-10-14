@@ -15,7 +15,8 @@ const fmtDate=d=>new Date(d).toLocaleDateString("en-US",{month:"short",day:"nume
 const fmtDay=s=>{const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"})};
 const ago=iso=>{const d=new Date(iso),m=Math.round((Date.now()-d)/60000);if(isNaN(m))return"";if(m<1)return"Just now";if(m<60)return m+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})};
 const live=items=>(items||[]).filter(i=>!i.time||new Date(i.time)<=Date.now()).sort((a,b)=>new Date(b.time)-new Date(a.time));
-function getJSON(p){return fetch(p+(p.includes("?")?"&":"?")+"t="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()})}
+const DATA_BASE="https://raw.githubusercontent.com/alphagenhq/alphagen/data/";
+function getJSON(p){const m=p.match(/^\/([a-z]+\.json)$/);const u=m?DATA_BASE+m[1]:p+(p.includes("?")?"&":"?")+"t="+Date.now();return fetch(u,{cache:m?"default":"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(e=>{if(m)return fetch(p,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});throw e})}
 function fetchText(urls){return urls.reduce((p,u)=>p.catch(()=>fetch(u,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.text()}).then(t=>{if(!t||/^\s*<!doctype html/i.test(t))throw 0;return t})),Promise.reject())}
 Object.assign(AG,{$, $$, esc, ago, fmtDate, fmtDay, getJSON, live});
 

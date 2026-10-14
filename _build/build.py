@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "7"  # asset version
+V = "8"  # asset version
 
 def load(name):
     try:
@@ -686,7 +686,7 @@ prose_page("disclosures.html", "/disclosures", "Disclosures", "Disclosures.", "I
 
 # ---------- 404 (falls back to the live note reader for notes not yet built) ----------
 page("404.html", "/404", "Page not found", "This page could not be found.", "", '<div class="wrap phead"><div class="eyebrow">404</div><h1>That page moved or doesn\'t exist.</h1><p>Try the <a href="/wire" style="color:var(--signal-2)">Wire</a>, <a href="/research" style="color:var(--signal-2)">Research</a>, or the <a href="/" style="color:var(--signal-2)">home page</a>.</p></div>',
-     js='(function(){var m=location.pathname.match(/^\\/notes\\/([A-Za-z0-9._-]+)$/);if(m)location.replace("/article?id="+encodeURIComponent(m[1]));})();', slip=False)
+     js='(function(){var p=location.pathname,m=p.match(/^\\/notes\\/([A-Za-z0-9._-]+)$/);if(m)return location.replace("/article?id="+encodeURIComponent(m[1]));m=p.match(/^\\/stock\\/([A-Za-z0-9.-]+)$/);if(m)return location.replace("/search?q="+encodeURIComponent(m[1]));m=p.match(/^\\/charts\\/(.+)$/);if(m)return location.replace("/charts");})();', slip=False)
 
 
 prose_page("privacy.html", "/privacy", "Privacy Policy", "Privacy policy.", "How AlphaGen Research handles information when you visit alphagenresearch.com.", "Privacy", """
@@ -717,6 +717,14 @@ prose_page("terms.html", "/terms", "Terms of Use", "Terms of use.", "Terms gover
 <p>To the fullest extent permitted by law, AlphaGen Research is not liable for any losses or damages arising from use of the site or reliance on its content.</p>
 <h2>Changes</h2>
 <p>We may update these terms. Continued use of the site means you accept the current version.</p>""")
+
+# ---------- remove pages for items that were withdrawn ----------
+keep_notes = {f"{n['id']}.html" for n in live_notes}
+for p in glob.glob(os.path.join(ROOT, "notes", "*.html")):
+    if os.path.basename(p) not in keep_notes: os.remove(p)
+keep_charts = {f"{c['id']}.html" for c in charts.get("items", []) if is_live(c) and slug_ok(c.get("id"))}
+for p in glob.glob(os.path.join(ROOT, "charts", "*.html")):
+    if os.path.basename(p) not in keep_charts: os.remove(p)
 
 # ---------- RSS + sitemap ----------
 items = sorted([n for n in live_notes], key=lambda n: n["time"], reverse=True)[:40]
