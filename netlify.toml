@@ -1,0 +1,31 @@
+[build]
+  publish = "."
+
+# Same-origin proxies so the site can read official data without browser blocks
+[[redirects]]
+  from = "/feed.xml"
+  to = "https://rss.beehiiv.com/feeds/dFFy8T23eL.xml"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/yields/:month"
+  to = "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value_month=:month"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/debt"
+  to = "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&page%5Bsize%5D=1"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/wire.json"
+  [headers.values]
+    Cache-Control = "no-cache, max-age=0"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache, max-age=0"
