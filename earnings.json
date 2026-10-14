@@ -9,12 +9,14 @@
       "period": "Q3 2026",
       "report_date": "2026-10-14",
       "revenue": 20.3,
-      "revenue_yoy": 11.5,
+      "revenue_yoy": 11.6,
       "eps": 3.03,
       "eps_yoy": 8.2,
       "take": "Net income of $4.9 billion versus $4.6 billion a year ago, with a 22.6% return on tangible common equity. Revenue growth outpaced EPS growth, and both rose from a year earlier.",
       "source_name": "Morgan Stanley Q3 2026 earnings release",
-      "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf"
+      "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf",
+      "correction": "Corrected revenue_yoy from 11.5 to 11.6 ($20,338M vs $18,224M per the earnings release).",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-13-GS-Q3",
@@ -29,7 +31,8 @@
       "eps_yoy": null,
       "take": "Net earnings of $5.29 billion and an 18.7% annualized ROE. Global Banking & Markets produced $13.46 billion, about 72% of net revenues, so the quarter rests on trading and dealmaking.",
       "source_name": "Goldman Sachs 8-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm",
+      "checked": "2026-10-14T20:48:00Z"
     }
   ]
 }

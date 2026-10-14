@@ -98,7 +98,8 @@
       "source_name": "State Street 8-K earnings release (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm",
       "ticker": "NYSE:STT",
-      "time": "2026-10-14T20:31:00Z"
+      "time": "2026-10-14T20:31:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-blk-q3",
@@ -108,7 +109,8 @@
       "source_name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm",
       "ticker": "NYSE:BLK",
-      "time": "2026-10-14T20:24:00Z"
+      "time": "2026-10-14T20:24:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-asml-q3",
@@ -118,7 +120,8 @@
       "source_name": "ASML Q3 2026 press release, Form 6-K (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
       "ticker": "NASDAQ:ASML",
-      "time": "2026-10-14T20:17:00Z"
+      "time": "2026-10-14T20:17:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-bac-q3",
@@ -128,17 +131,20 @@
       "source_name": "Bank of America 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm",
       "ticker": "NYSE:BAC",
-      "time": "2026-10-14T20:10:00Z"
+      "time": "2026-10-14T20:10:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-ms-q3",
       "time": "2026-10-14T19:46:00Z",
       "tag": "EARNINGS",
       "headline": "Morgan Stanley Q3 net revenues rise to $20.3B; EPS $3.03 vs $2.80",
-      "take": "Morgan Stanley reported third-quarter net revenues of $20.3 billion, up from $18.2 billion a year earlier, with net income of $4.9 billion, or $3.03 per diluted share, versus $4.6 billion, or $2.80, and a 22.6% return on tangible common equity. Revenue up roughly 11.5% and EPS up about 8% point to strong capital generation at a major dealer, a supportive backdrop for large-bank senior debt.",
+      "take": "Morgan Stanley reported third-quarter net revenues of $20.3 billion, up from $18.2 billion a year earlier, with net income of $4.9 billion, or $3.03 per diluted share, versus $4.6 billion, or $2.80, and a 22.6% return on tangible common equity. Revenue up roughly 11.6% and EPS up about 8% point to strong capital generation at a major dealer, a supportive backdrop for large-bank senior debt.",
       "source_name": "Morgan Stanley Q3 2026 earnings release",
       "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf",
-      "ticker": "NYSE:MS"
+      "ticker": "NYSE:MS",
+      "correction": "Corrected Morgan Stanley's year-over-year revenue growth from roughly 11.5% to 11.6% ($20,338M vs $18,224M per the earnings release).",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-cpi-headline",
@@ -147,7 +153,8 @@
       "headline": "September CPI jumps 0.6%, with gasoline doing most of the work",
       "take": "Headline CPI rose 0.6% in September after 0.4% in August, putting the 12-month rate at 3.7%. BLS says gasoline rose 9.1% on the month and accounted for over half of the increase. This is an energy shock showing up in the headline, and the market is treating it as a policy problem.",
       "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-cpi-core-gap",
@@ -156,7 +163,8 @@
       "headline": "The gap that matters: headline at 3.7%, core at 2.6%",
       "take": "Core CPI, which strips out food and energy, rose 0.3% in September and 2.6% over the past year. Energy is up 20.4% year over year. The question for the Fed is whether energy prices leak into everything else. Shelter, the stickiest piece, rose 0.4% on the month and 3.2% on the year.",
       "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-fomc-oct",
@@ -165,7 +173,8 @@
       "headline": "Fed meets October 27–28 with inflation moving the wrong way",
       "take": "The FOMC's next two-day meeting is October 27–28, with the press conference on the 28th. Today's CPI gives the committee a hotter headline print to weigh against a calmer core. The Fed also released its Beige Book, its regional read on the economy, at 2:00 p.m. ET today.",
       "source_name": "Federal Reserve",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-13-gs-q3",
@@ -175,7 +184,8 @@
       "take": "Goldman reported third-quarter net revenues of $18.68 billion and net earnings of $5.29 billion, or $17.01 per diluted share, for an 18.7% annualized return on equity. Global Banking & Markets brought in $13.46 billion, about 72% of the total. Trading and deal desks are carrying the quarter.",
       "source_name": "Goldman Sachs 8-K (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm",
-      "ticker": "NYSE:GS"
+      "ticker": "NYSE:GS",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-09-debt",

@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "time": "2026-10-14T20:48:00Z",
+      "file": "wire.json",
+      "id": "2026-10-14-ms-q3",
+      "action": "corrected",
+      "detail": "Corrected Morgan Stanley's year-over-year revenue growth from roughly 11.5% to 11.6% ($20,338M vs $18,224M per the earnings release)."
+    },
+    {
+      "time": "2026-10-14T20:48:00Z",
+      "file": "earnings.json",
+      "id": "2026-10-14-MS-Q3",
+      "action": "corrected",
+      "detail": "Corrected revenue_yoy from 11.5 to 11.6 ($20,338M vs $18,224M per the earnings release)."
+    }
+  ]
+}
