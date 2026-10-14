@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-14T22:02:18Z",
+  "updated": "2026-10-14T22:29:14Z",
   "items": [
+    {
+      "id": "2026-10-14-mubadala-clear-channel-close",
+      "tag": "DEALS",
+      "ticker": "NYSE:CCO",
+      "headline": "Mubadala Capital completes ~$6.2B acquisition of Clear Channel Outdoor",
+      "take": "Clear Channel Outdoor said its take-private by Mubadala Capital, a subsidiary of Mubadala Investment Company, is complete in a transaction valued at approximately $6.2 billion, following regulatory and stockholder approvals. Its common stock will be delisted from the NYSE. The close takes a major listed out-of-home advertising operator into sovereign-backed private hands.",
+      "source_name": "Clear Channel Outdoor 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001334978/000121390026109385/ea030842201ex99-1.htm",
+      "time": "2026-10-14T22:36:00Z"
+    },
+    {
+      "id": "2026-10-14-medtronic-minimed-exchange-final",
+      "tag": "DEALS",
+      "ticker": "NYSE:MDT",
+      "headline": "Medtronic accepts 55.0M shares in exchange for all 252.8M MiniMed shares it held",
+      "take": "Medtronic said 297,521,390 shares were tendered in its MiniMed split-off exchange offer and 55,032,401 accepted at a final proration factor of 18.289133%, in exchange for its entire remaining 252,813,348 MiniMed shares. That implies about 4.59 MiniMed shares per Medtronic share, and Medtronic will retain no MiniMed stock. The heavy oversubscription let Medtronic fully exit MiniMed while shrinking its own share count.",
+      "source_name": "Medtronic press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html",
+      "time": "2026-10-14T22:44:00Z"
+    },
+    {
+      "id": "2026-10-13-agility-tristar-aegis",
+      "tag": "DEALS",
+      "ticker": "NSE:AEGISLOG",
+      "headline": "Agility to sell Tristar stake to Aegis Logistics at $1.5B enterprise value",
+      "take": "Agility Global agreed to sell its stake in energy-logistics business Tristar to India's Aegis Logistics in a deal valuing Tristar at $1.5 billion enterprise value and $882 million equity value, about 6.0x 2025 EBITDA. Closing is expected before the end of March 2027, subject to regulatory approvals. The purchase gives Aegis a global fuel-logistics network built on $1.4 billion of 2025 revenue.",
+      "source_name": "Agility press release",
+      "source_url": "https://agility.com/news/agility-announces-sale-of-tristar-to-aegis-logistics/",
+      "time": "2026-10-14T22:52:00Z"
+    },
+    {
+      "id": "2026-10-14-select-water-notes-2034",
+      "tag": "DEALS",
+      "ticker": "NYSE:WTTR",
+      "headline": "Select Water prices upsized $900M of 7.625% senior notes due 2034",
+      "take": "A Select Water Solutions subsidiary priced $900 million of 7.625% senior notes due November 1, 2034 at par, upsized from $800 million, with closing expected October 21. Proceeds partly fund the cash consideration for Pilot Water Solutions and repay the term loan and revolver borrowings. The upsizing secures long-dated funding for the Pilot deal at a fixed coupon.",
+      "source_name": "Select Water Solutions press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-inc-announces-pricing-of-upsized-900-million-of-7-625-senior-notes-due-2034--302909132.html",
+      "time": "2026-10-14T23:00:00Z"
+    },
     {
       "id": "2026-10-14-jpm-q3",
       "tag": "EARNINGS",

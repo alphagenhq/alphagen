@@ -1,6 +1,130 @@
 {
-  "updated": "2026-10-14T21:39:31Z",
+  "updated": "2026-10-14T22:29:14Z",
   "items": [
+    {
+      "id": "2026-10-14-mubadala-clear-channel-close",
+      "time": "2026-10-14T22:36:00Z",
+      "type": "M&A",
+      "headline": "Mubadala Capital completes ~$6.2B acquisition of Clear Channel Outdoor",
+      "parties": "Acquirer: Mubadala Capital (subsidiary of Mubadala Investment Company); Target: Clear Channel Outdoor Holdings",
+      "value": 6.2,
+      "value_text": "About $6.2B",
+      "status": "Completed",
+      "announced": "2026-10-14",
+      "sector": "Media / Out-of-Home Advertising",
+      "take": "Clear Channel Outdoor said the take-private closed after all applicable regulatory approvals and stockholder approval, and its common stock will be delisted from the NYSE. The close puts a major listed out-of-home ad operator under sovereign-backed private ownership, alongside a leadership change announced the same day.",
+      "source_name": "Clear Channel Outdoor 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001334978/000121390026109385/ea030842201ex99-1.htm",
+      "tickers": [
+        "NYSE:CCO"
+      ]
+    },
+    {
+      "id": "2026-10-14-medtronic-minimed-exchange-final",
+      "time": "2026-10-14T22:44:00Z",
+      "type": "M&A",
+      "headline": "Medtronic accepts 55.0M shares in exchange for all 252.8M MiniMed shares it held",
+      "parties": "Parent: Medtronic; Split-off company: MiniMed Group, Inc.",
+      "value": null,
+      "value_text": "Undisclosed (share exchange: 252,813,348 MiniMed shares for 55,032,401 Medtronic shares)",
+      "status": "Completed",
+      "announced": "2026-10-14",
+      "sector": "Medical Devices",
+      "take": "Medtronic said 297,521,390 of its shares were tendered and 55,032,401 accepted at a final proration factor of 18.289133%, in exchange for its entire remaining stake of 252,813,348 MiniMed shares, implying about 4.59 MiniMed shares per Medtronic share. Heavy oversubscription let Medtronic fully exit MiniMed while retiring roughly 55 million of its own shares rather than spinning them out pro rata.",
+      "source_name": "Medtronic press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html",
+      "tickers": [
+        "NYSE:MDT"
+      ]
+    },
+    {
+      "id": "2026-10-13-agility-tristar-aegis",
+      "time": "2026-10-14T22:52:00Z",
+      "type": "M&A",
+      "headline": "Agility to sell Tristar stake to Aegis Logistics at $1.5B enterprise value",
+      "parties": "Seller: Agility Global PLC; Acquirer: Aegis Logistics Limited; Target: Tristar",
+      "value": 1.5,
+      "value_text": "$1.5B enterprise value ($882M equity value)",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Energy Logistics",
+      "take": "Agility said the deal values Tristar at $1.5 billion enterprise value and $882 million equity value, about 6.0x 2025 EBITDA, with closing expected before the end of March 2027 subject to regulatory approvals. Tristar posted $1.4 billion of 2025 revenue and $257 million of EBITDA, giving India's Aegis a global fuel-logistics footprint across 30+ countries.",
+      "source_name": "Agility press release",
+      "source_url": "https://agility.com/news/agility-announces-sale-of-tristar-to-aegis-logistics/",
+      "tickers": [
+        "NSE:AEGISLOG"
+      ]
+    },
+    {
+      "id": "2026-10-14-select-water-notes-2034",
+      "time": "2026-10-14T23:00:00Z",
+      "type": "Debt",
+      "headline": "Select Water prices upsized $900M of 7.625% senior notes due 2034",
+      "parties": "Issuer: Select Water Holdings LLC (subsidiary of Select Water Solutions, Inc.)",
+      "value": 0.9,
+      "value_text": "$900M 7.625% senior unsecured notes due 2034",
+      "status": "Priced",
+      "announced": "2026-10-14",
+      "sector": "Energy Services / Water Infrastructure",
+      "take": "The notes were upsized from $800 million, priced at par and are expected to close on October 21, 2026, with proceeds going partly toward the cash consideration for Pilot Water Solutions, repaying the term loan in full and paying down revolver borrowings. A 7.625% coupon locks in long-dated funding for the Pilot deal, and the offering is not contingent on that acquisition closing.",
+      "source_name": "Select Water Solutions press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-inc-announces-pricing-of-upsized-900-million-of-7-625-senior-notes-due-2034--302909132.html",
+      "tickers": [
+        "NYSE:WTTR"
+      ]
+    },
+    {
+      "id": "2026-10-13-atlantic-ridge-paragon-films",
+      "time": "2026-10-14T23:08:00Z",
+      "type": "PE",
+      "headline": "Atlantic Ridge Capital to buy stretch-film maker Paragon Films for about $900M",
+      "parties": "Acquirer: Atlantic Ridge Capital, with Grafine Partners and Paragon management; Target: Paragon Films",
+      "value": 0.9,
+      "value_text": "About $900M",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Industrials / Packaging",
+      "take": "Paragon is the debut investment for New York-based Atlantic Ridge, backed by committed debt financing from UBS Investment Bank, BMO Capital Markets and Santander, with closing expected in the fourth quarter of 2026. A roughly $900 million first deal is an unusually large opening bet for a new sponsor on a packaging niche serving more than 20,000 end users.",
+      "source_name": "Atlantic Ridge Capital press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379570/0/en/atlantic-ridge-capital-to-acquire-paragon-films-for-approximately-900-million.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-symbotic-cellumation",
+      "time": "2026-10-14T23:16:00Z",
+      "type": "M&A",
+      "headline": "Symbotic acquires German sortation tech firm cellumation; terms undisclosed",
+      "parties": "Acquirer: Symbotic; Target: cellumation GmbH",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Robotics / Supply Chain Automation",
+      "take": "Symbotic announced the acquisition of Bremen-based cellumation, maker of the celluveyor modular sortation system, which will keep its name and founder leadership and sell directly and through integrators. The tuck-in adds sortation technology and a larger European base to Symbotic's warehouse automation platform.",
+      "source_name": "Symbotic press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379466/0/en/symbotic-announces-acquisition-of-cellumation-advancing-next-generation-sortation-technology-for-the-global-supply-chain.html",
+      "tickers": [
+        "NASDAQ:SYM"
+      ]
+    },
+    {
+      "id": "2026-10-12-freshworks-torii",
+      "time": "2026-10-14T23:24:00Z",
+      "type": "M&A",
+      "headline": "Freshworks to acquire SaaS management platform Torii; terms undisclosed",
+      "parties": "Acquirer: Freshworks Inc.; Target: Torii",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Pending",
+      "announced": "2026-10-12",
+      "sector": "Software",
+      "take": "Freshworks signed a definitive agreement to buy Torii and expects to close in its fiscal fourth quarter of 2026, subject to customary conditions. Torii's app, license and AI-spend tracking extends Freshservice into software spend governance, adding AI-spend tracking to its IT service management suite.",
+      "source_name": "Freshworks press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to-extend-freshservice-into-ai-and-software-spend-governance-with-agreement-to-acquire-torii.html",
+      "tickers": [
+        "NASDAQ:FRSH"
+      ]
+    },
     {
       "id": "2026-10-14-fairfax-idbi-bank",
       "time": "2026-10-14T21:50:00Z",
