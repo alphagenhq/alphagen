@@ -43,11 +43,18 @@ NAV = [
     ("wire", "/wire", "Wire", None),
     ("markets", None, "Markets", [("equities", "/equities", "Equities & movers", "Big movers with AlphaGen's thesis"),
                                   ("earnings", "/earnings", "Earnings scorecard", "Reported results from filings"),
+                                  ("deals", "/deals", "Deals & private markets", "M&A, venture, PE, IPOs, live SEC filings"),
                                   ("stocks", "/stocks", "Stock coverage", "Every company we cover")]),
-    ("rates-g", None, "Rates", [("rates", "/rates", "Rates & debt", "Yield curve, debt, Fed calendar"),
-                                ("auctions", "/auctions", "Treasury auctions", "Results, demand, and the calendar")]),
+    ("rates-g", None, "Rates & Credit", [("rates", "/rates", "Rates & debt", "Yield curve, debt, Fed calendar"),
+                                ("fed", "/fed", "Fed Watch", "Policy rate, balance sheet, liquidity"),
+                                ("auctions", "/auctions", "Treasury auctions", "Results, demand, and the calendar"),
+                                ("credit", "/credit", "Credit", "Spreads, lending, conditions")]),
     ("macro-g", None, "Macro", [("dashboard", "/dashboard", "Macro dashboard", "20 indicators with live signals"),
-                                ("macro", "/macro", "Calendar & macro wire", "Releases, commodities, FX")]),
+                                ("macro", "/macro", "Calendar & macro wire", "Releases and the macro tape"),
+                                ("global", "/global", "Global markets", "Central banks, yields, FX"),
+                                ("housing", "/housing", "Housing & real estate", "Mortgages, starts, prices")]),
+    ("assets-g", None, "Assets", [("commodities", "/commodities", "Commodities & energy", "Oil, gas, metals, grains"),
+                                ("crypto", "/crypto", "Crypto", "Bitcoin, ether, digital assets")]),
     ("charts", "/charts", "Charts", None),
     ("research", "/research", "Research", None),
 ]
@@ -98,12 +105,13 @@ def header(active):
             parts.append(f'<div class="dd{" cur" if on else ""}"><button type="button">{label}</button><div class="dd-menu">{items}</div></div>')
         else:
             parts.append(f'<a class="txt" href="{href}"{cur if key == active else ""}>{label}</a>')
-    return f'''<div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><span class="clock" id="clock"></span></div></div>
+    return f'''<div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><div class="crawl" id="crawl" aria-live="off"></div><span class="clock" id="clock"></span></div></div>
 <header class="mast">
   <div class="wrap">
     <a class="logo" href="/"><img class="mark" src="/logo-192.png" alt="" width="34" height="34">Alpha<span>Gen</span></a>
     <nav class="nav" aria-label="Main">
       <div class="links">{"".join(parts)}</div>
+      <a class="search-ico" href="/search" aria-label="Search AlphaGen"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a>
       <a class="ico" href="{X_URL}" target="_blank" rel="noopener" aria-label="AlphaGen on X">{X_ICON}</a>
       <a class="ico" href="{LI_URL}" target="_blank" rel="noopener" aria-label="AlphaGen on LinkedIn">{LI_ICON}</a>
       <button class="btn sm" type="button" data-open-sub>Subscribe</button>
@@ -144,9 +152,9 @@ def footer(extra=""):
         <p class="disc">Independent markets research on debt, equities, and macro, built from official data. For informational purposes only; not investment advice. See <a href="/disclosures" style="color:inherit">disclosures</a>.</p>
         <div class="social"><a href="{X_URL}" target="_blank" rel="noopener">{X_ICON}<span>X</span></a><a href="{LI_URL}" target="_blank" rel="noopener">{LI_ICON}<span>LinkedIn</span></a><a href="/rss.xml">RSS</a></div>
       </div>
-      {col("Markets", [("/wire","The Wire"),("/equities","Equities & movers"),("/earnings","Earnings scorecard"),("/stocks","Stock coverage")])}
-      {col("Rates & macro", [("/rates","Rates & debt"),("/auctions","Treasury auctions"),("/dashboard","Macro dashboard"),("/macro","Calendar"),("/charts","Charts")])}
-      {col("AlphaGen", [("/research","Research"),("/about","About"),("/methodology","Methodology"),("/standards","Editorial standards"),("/disclosures","Disclosures")])}
+      {col("Markets", [("/wire","The Wire"),("/equities","Equities & movers"),("/earnings","Earnings scorecard"),("/deals","Deals & private markets"),("/stocks","Stock coverage"),("/commodities","Commodities & energy"),("/crypto","Crypto")])}
+      {col("Rates & macro", [("/rates","Rates & debt"),("/fed","Fed Watch"),("/auctions","Treasury auctions"),("/credit","Credit"),("/dashboard","Macro dashboard"),("/global","Global markets"),("/housing","Housing"),("/charts","Charts")])}
+      {col("AlphaGen", [("/research","Research"),("/search","Search"),("/about","About"),("/methodology","Methodology"),("/standards","Editorial standards"),("/disclosures","Disclosures"),("/privacy","Privacy"),("/terms","Terms")])}
     </div>
     <div class="copy">© 2026 AlphaGen Research. Market data by TradingView and may be delayed. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
   </div>
@@ -175,8 +183,10 @@ def write(rel, content):
     os.makedirs(os.path.dirname(p), exist_ok=True)
     with open(p, "w") as f: f.write(content)
 
-def page(rel, path, title, desc, active, body, js="", og="/og/default.png", kind="website", slip=True):
-    write(rel, head(title, desc, path, og, kind) + header(active) + '<main id="top">\n' + body + '\n</main>\n' + (SLIP if slip else "") + footer(f"<script>\n{js}\n</script>" if js else ""))
+def page(rel, path, title, desc, active, body, js="", og="/og/default.png", kind="website", slip=True, ld=None):
+    h = head(title, desc, path, og, kind)
+    if ld: h = h.replace("</head>", '<script type="application/ld+json">' + json.dumps(ld).replace("</", "<\\/") + "</script>\n</head>")
+    write(rel, h + header(active) + '<main id="top">\n' + body + '\n</main>\n' + (SLIP if slip else "") + footer(f"<script>\n{js}\n</script>" if js else ""))
 
 # ---------- shared blocks ----------
 def wire_card(view_id, limit, tags="", title="Live wire", height=None, ticker=""):
@@ -260,7 +270,7 @@ def research_filters(id_):
 
 # ---------- data ----------
 wire = load("wire.json"); movers = load("movers.json"); notes = load("notes.json")
-charts = load("charts.json"); earnings = load("earnings.json")
+charts = load("charts.json"); earnings = load("earnings.json"); deals = load("deals.json")
 
 SERIES_LABEL = {"morning-brief": "Morning Brief", "the-close": "The Close", "week-ahead": "The Week Ahead"}
 
@@ -396,7 +406,23 @@ home = f'''<div class="wrap">
     <div class="card" style="margin-top:20px"><div class="card-h"><span>Latest Treasury auctions</span><a href="/auctions">Auction tracker →</a></div><div class="tbl-wrap" style="border:0"><table class="atbl" id="auc-mini"></table></div></div>
   </div>
 </section>'''
-page("index.html", "/", None, "AlphaGen Research: the AlphaGen Wire, big-mover theses, a live macro dashboard, Treasury auction tracking, and daily research on debt, equities, and macro.", "home", home, OVERVIEW_JS + "\n" + CAL_JS)
+ORG_LD = {"@context": "https://schema.org", "@type": "Organization", "name": "AlphaGen Research", "url": SITE, "logo": SITE + "/logo-192.png", "sameAs": [X_URL, LI_URL]}
+HUBS = [("/equities","Equities","Movers & thesis"),("/deals","Deals","M&A, VC, PE, IPOs"),("/earnings","Earnings","Scorecard from filings"),("/rates","Rates","Curve & debt"),("/fed","Fed Watch","Policy & liquidity"),("/auctions","Auctions","Treasury demand"),("/credit","Credit","Spreads & lending"),("/dashboard","Macro","20-indicator dashboard"),("/global","Global","Central banks & FX"),("/housing","Housing","Mortgages & prices"),("/commodities","Commodities","Energy, metals, grains"),("/crypto","Crypto","Bitcoin & ether")]
+home = home.replace('<section id="markets">', f'''<section>
+  <div class="wrap">
+    {sec_head("Deals &amp; private markets", "Deal flow", '<a class="btn ghost" href="/deals">All deals →</a>')}
+    <div class="split2"><div><div data-deals data-view="cards" data-limit="6" id="home-deals"></div></div>
+    <div class="card" style="padding:0;overflow:hidden"><div class="wire-head"><span class="live">Live SEC filings</span><span>EDGAR</span></div><div class="filings" data-filings data-limit="14"></div></div></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    {sec_head("Coverage", "Every market, one desk")}
+    <div class="hubs">{"".join(f'<a class="hub" href="{h}"><span class="eyebrow">{n}</span><b>{n}</b><span>{d}</span></a>' for h, n, d in HUBS)}</div>
+  </div>
+</section>
+<section id="markets">''', 1)
+page("index.html", "/", None, "AlphaGen Research: the AlphaGen Wire, big-mover theses, a live macro dashboard, Treasury auction tracking, and daily research on debt, equities, and macro.", "home", home, OVERVIEW_JS + "\n" + CAL_JS, ld=ORG_LD)
 
 # ---------- wire ----------
 page("wire.html", "/wire", "The Wire", "The AlphaGen Wire: market news with AlphaGen's take, built from official releases and filings, updated every few minutes.", "wire",
@@ -474,6 +500,54 @@ for c in [c for c in charts.get("items", []) if is_live(c) and slug_ok(c.get("id
          f'<div class="wrap phead"><a href="/charts" style="font-family:var(--mono);font-size:.72rem;color:var(--signal-2);text-decoration:none">← All charts</a></div><section class="flush"><div class="wrap"><div class="cotd" data-cotd="{E(c["id"])}"><div class="chart-load">Loading chart…</div></div></div></section>',
          og=og, kind="article")
 
+
+# ---------- market hub generator ----------
+def market_page(rel, path, title, h1, desc, eyebrow, active, dash_set, wire_tags, mini_syms, topic=None, top="", js="", dash_title="Live indicators"):
+    body = phead(eyebrow, h1, desc) + top
+    if dash_set:
+        body += f'<section class="flush"><div class="wrap">{sec_head("Official data", dash_title, "<p>Updated automatically from FRED. Click any indicator for the source series.</p>")}<div data-dash data-dash-set="{dash_set}"></div></div></section>'
+    body += f'<section><div class="wrap split2"><div>{sec_head("AlphaGen Wire", title + " wire")}{wire_card(rel.split(".")[0] + "-wire", 30, wire_tags, title + " wire")}</div><div>{sec_head("Markets", "Live pricing")}{minis(mini_syms)}</div></div></section>'
+    if topic:
+        body += f'<section><div class="wrap">{sec_head("Research", title + " research")}<div class="notes cards" data-research="all" data-topic="{topic}" data-limit="9"></div></div></section>'
+    page(rel, path, title, desc, active, body, js)
+
+# ---------- deals ----------
+page("deals.html", "/deals", "Deals & Private Markets", "M&A, venture capital, private equity, and IPO deal flow from company announcements and SEC filings, with a live EDGAR filings tape and AlphaGen's take.", "deals",
+     phead("Deals &amp; private markets", "Deal flow.", "M&amp;A, venture rounds, private equity, and IPOs, taken from company announcements and SEC filings, with AlphaGen's take on each. Plus a live tape of new private-placement, IPO, merger, tender, and activist filings straight from SEC EDGAR.") +
+     f'''<div class="wrap"><div class="levels" data-deal-stats style="grid-template-columns:repeat(6,minmax(0,1fr))"></div></div>
+<section><div class="wrap">{sec_head("Deal log", "Announced deals")}
+<div class="toolbar" data-deal-filters="deal-log"><div class="filters"><button type="button" data-f="all" aria-pressed="true">All</button>{"".join(f'<button type="button" data-f="{x}" aria-pressed="false">{x}</button>' for x in ["M&A","VC","PE","IPO","Debt"])}</div></div>
+<div data-deals id="deal-log" data-limit="80"></div><p class="levels-note" style="margin-top:10px">Values are as disclosed by the parties. "Undisclosed" means no value was announced. Totals count only deals logged by AlphaGen.</p></div></section>
+<section><div class="wrap split2"><div class="card" style="padding:0;overflow:hidden"><div class="wire-head"><span class="live">Live SEC filings</span><span>Form D · S-1 · F-1 · DEFM14A · SC TO-T · SC 13D</span></div><div class="filings" data-filings data-limit="40"></div></div>
+<div>{wire_card("deals-wire", 30, "DEALS,IPO", "Deals wire", 640)}</div></div></section>
+<section><div class="wrap">{sec_head("Reading the filings", "What each SEC form means")}<div class="hubs">
+<div class="hub"><span class="eyebrow">Form D</span><b>Private raise</b><span>Filed after a company or fund sells securities in a private offering, including most venture and private-fund raises.</span></div>
+<div class="hub"><span class="eyebrow">S-1 / F-1</span><b>IPO filing</b><span>Registration statement for a public offering by a U.S. (S-1) or foreign (F-1) issuer.</span></div>
+<div class="hub"><span class="eyebrow">DEFM14A</span><b>Merger proxy</b><span>Definitive proxy sent to shareholders to vote on a merger or acquisition.</span></div>
+<div class="hub"><span class="eyebrow">SC TO-T</span><b>Tender offer</b><span>A third party's offer to buy a company's shares directly from shareholders.</span></div>
+<div class="hub"><span class="eyebrow">SC 13D</span><b>Activist stake</b><span>Filed by an investor who acquires more than 5% of a company with intent to influence it.</span></div>
+</div></div></section>''')
+
+market_page("fed.html", "/fed", "Fed Watch", "The Fed watch.", "The federal funds target, effective rate, SOFR, the Fed's balance sheet, bank reserves, reverse repo, and the Treasury General Account, plus the next FOMC decision and AlphaGen's Fed coverage.", "Fed Watch", "fed", "fed", "FED,RATES",
+            ["NASDAQ:SHV","NASDAQ:SHY","NASDAQ:IEF","NASDAQ:TLT"], "debt",
+            top=f'<section class="flush"><div class="wrap grid2">{FOMC_CARD}<div class="card"><div class="card-h"><span>FOMC 2026–27 calendar</span><a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" target="_blank" rel="noopener">Fed →</a></div><p style="margin:0;color:var(--steel);font-family:var(--mono);font-size:.8rem;line-height:1.9">2026: Oct 27–28 · Dec 8–9*<br>2027: Jan 26–27 · Mar 16–17* · Apr 27–28 · Jun 8–9* · Jul 27–28 · Sep 14–15* · Oct 26–27 · Dec 7–8*<br><span style="color:var(--mute)">* Summary of Economic Projections. 2027 dates are tentative per the Fed.</span></p></div></div></section>',
+            dash_title="Policy rate &amp; liquidity")
+market_page("credit.html", "/credit", "Credit", "The credit desk.", "Investment-grade and high-yield spreads by rating, bank lending standards, financial conditions, and AlphaGen's credit coverage.", "Credit", "credit", "credit", "RATES,DEBT,EARNINGS",
+            ["NASDAQ:LQD","AMEX:HYG","AMEX:JNK","NASDAQ:VCIT","AMEX:BKLN","AMEX:EMB"], "debt", dash_title="Spreads &amp; lending")
+market_page("global.html", "/global", "Global Markets", "Global markets.", "Major central-bank rates, European and Japanese yields, the dollar against major currencies, and global equity markets.", "Global", "global", "global", "GLOBAL,FX,MACRO",
+            ["AMEX:EWJ","AMEX:EWG","AMEX:EWU","AMEX:FXI","AMEX:INDA","AMEX:EWZ","AMEX:EEM","AMEX:EFA"], "macro", dash_title="Rates &amp; currencies")
+market_page("housing.html", "/housing", "Housing & Real Estate", "Housing &amp; real estate.", "Mortgage rates, housing starts and permits, home sales, supply, home prices, and real-estate equities.", "Housing", "housing", "housing", "HOUSING,MACRO",
+            ["AMEX:VNQ","AMEX:XHB","AMEX:ITB","NYSE:DHI","NYSE:LEN","NASDAQ:Z"], "macro", dash_title="Mortgages, activity &amp; prices")
+market_page("commodities.html", "/commodities", "Commodities & Energy", "Commodities &amp; energy.", "Crude oil, natural gas, gasoline, metals, and grains from the EIA and IMF, with AlphaGen's energy and commodities coverage.", "Commodities", "commodities", "energy", "COMMODITIES,ENERGY",
+            ["AMEX:USO","AMEX:BNO","AMEX:UNG","AMEX:GLD","AMEX:SLV","AMEX:CPER","AMEX:DBA","AMEX:XLE"], "macro", dash_title="Energy, metals &amp; grains")
+market_page("crypto.html", "/crypto", "Crypto", "Crypto.", "Bitcoin and ether pricing, crypto-linked equities and ETFs, and AlphaGen's digital-asset coverage from official filings.", "Crypto", "crypto", "crypto", "CRYPTO",
+            ["BITSTAMP:BTCUSD","BITSTAMP:ETHUSD","COINBASE:SOLUSD","NASDAQ:COIN","NASDAQ:MSTR","AMEX:IBIT"], None, dash_title="Reference prices")
+
+# ---------- search ----------
+page("search.html", "/search", "Search", "Search the AlphaGen Wire, notes, briefs, deals, earnings, and charts.", "search",
+     phead("Search", "Search AlphaGen.", "Every Wire piece, note, brief, deal, earnings report, and chart.") +
+     '<section class="flush"><div class="wrap prose" style="max-width:900px"><label class="sr" for="search-q">Search</label><input class="search search-big" id="search-q" type="search" placeholder="Try NVDA, auction, CPI, merger…" autofocus><div class="eyebrow" id="search-count" style="color:var(--mute)"></div><div id="search-results"></div></div></section>', slip=False)
+
 # ---------- research + notes ----------
 page("research.html", "/research", "Research", "AlphaGen Notes, the Morning Brief, The Close, The Week Ahead, and the AlphaGen newsletter.", "research",
      phead("AlphaGen Research", "Research.", "AlphaGen Notes, daily briefs, and the AlphaGen newsletter in one place: the thesis on debt, equities, and macro.") +
@@ -505,7 +579,12 @@ live_notes = [n for n in notes.get("items", []) if is_live(n) and slug_ok(n.get(
 for n in live_notes:
     og = f"/og/note-{n['id']}.png"
     og_image(og[1:], SERIES_LABEL.get(n.get("series", ""), "AlphaGen Note") + " · " + n.get("tag", "Macro"), n["title"], nice_date(n["time"]))
-    page(f"notes/{n['id']}.html", f"/notes/{n['id']}", n["title"], n.get("dek", ""), "research", note_html(n), og=og, kind="article")
+    ld = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": n["title"][:110], "description": n.get("dek", ""),
+          "datePublished": n["time"], "dateModified": n.get("updated_at", n["time"]), "image": [SITE + og],
+          "author": {"@type": "Organization", "name": "AlphaGen Research", "url": SITE},
+          "publisher": {"@type": "Organization", "name": "AlphaGen Research", "logo": {"@type": "ImageObject", "url": SITE + "/logo-192.png"}},
+          "mainEntityOfPage": f"{SITE}/notes/{n['id']}"}
+    page(f"notes/{n['id']}.html", f"/notes/{n['id']}", n["title"], n.get("dek", ""), "research", note_html(n), og=og, kind="article", ld=ld)
 
 # ---------- stock pages ----------
 KNOWN = {"NVDA": ("NASDAQ:NVDA", "Nvidia"), "MSFT": ("NASDAQ:MSFT", "Microsoft"), "AAPL": ("NASDAQ:AAPL", "Apple"),
@@ -524,7 +603,7 @@ for w in wire.get("items", []):
     if t and ":" in t:
         s = t.split(":")[-1]
         if s not in stocks: stocks[s] = (t, s)
-for n in notes.get("items", []):
+for n in notes.get("items", []) + deals.get("items", []):
     for t in n.get("tickers", []):
         if ":" in t:
             s = t.split(":")[-1]
@@ -609,6 +688,36 @@ prose_page("disclosures.html", "/disclosures", "Disclosures", "Disclosures.", "I
 page("404.html", "/404", "Page not found", "This page could not be found.", "", '<div class="wrap phead"><div class="eyebrow">404</div><h1>That page moved or doesn\'t exist.</h1><p>Try the <a href="/wire" style="color:var(--signal-2)">Wire</a>, <a href="/research" style="color:var(--signal-2)">Research</a>, or the <a href="/" style="color:var(--signal-2)">home page</a>.</p></div>',
      js='(function(){var m=location.pathname.match(/^\\/notes\\/([A-Za-z0-9._-]+)$/);if(m)location.replace("/article?id="+encodeURIComponent(m[1]));})();', slip=False)
 
+
+prose_page("privacy.html", "/privacy", "Privacy Policy", "Privacy policy.", "How AlphaGen Research handles information when you visit alphagenresearch.com.", "Privacy", """
+<p><strong>Last updated: October 14, 2026.</strong> This policy explains what information is involved when you visit alphagenresearch.com.</p>
+<h2>What we collect</h2>
+<p>AlphaGen does not ask you to create an account and does not collect your name or email on this site. Newsletter sign-ups are handled by our newsletter provider, beehiiv, on its own pages and under its own privacy policy.</p>
+<p>The site stores two small preferences in your browser's local storage so the newsletter pop-up doesn't keep reappearing: whether you closed it and whether you clicked to subscribe. This information stays on your device.</p>
+<h2>Service providers</h2>
+<p>Like most websites, pages are delivered through a hosting provider (Netlify), which processes standard request information such as IP address and browser type to serve and secure the site. Fonts load from Google Fonts. Market quotes and charts are embedded from TradingView, which may set its own cookies or collect usage data under its own policies. Data shown on the site is retrieved from public sources such as the U.S. Treasury, FRED, and SEC EDGAR.</p>
+<h2>Analytics</h2>
+<p>If we add analytics, we will use a privacy-focused, cookie-free service and update this policy.</p>
+<h2>Links</h2>
+<p>The site links to official sources and third-party sites. Their privacy practices are their own.</p>
+<h2>Contact</h2>
+<p>Questions about this policy can be sent to the desk on <a href="https://x.com/alphageniq" target="_blank" rel="noopener">X</a> or <a href="https://www.linkedin.com/company/alphagen-research" target="_blank" rel="noopener">LinkedIn</a>.</p>""")
+
+prose_page("terms.html", "/terms", "Terms of Use", "Terms of use.", "Terms governing use of alphagenresearch.com and AlphaGen Research content.", "Terms", """
+<p><strong>Last updated: October 14, 2026.</strong> By using alphagenresearch.com, you agree to these terms.</p>
+<h2>Informational use only</h2>
+<p>All content is general market commentary for informational purposes. It is not investment, legal, or tax advice, and it is not an offer or solicitation to buy or sell any security. See our <a href="/disclosures">disclosures</a>.</p>
+<h2>Accuracy and availability</h2>
+<p>We work to keep content accurate and sourced to official publications, but we do not guarantee that content is complete, current, or error-free, and data may be revised by its publisher. The site and its data feeds are provided "as is" and may be interrupted or delayed.</p>
+<h2>Intellectual property</h2>
+<p>AlphaGen's written content, charts, design, and branding belong to AlphaGen Research. You may share links and short excerpts with attribution to AlphaGen Research and a link to the original page. Charts downloaded from the site may be shared with their AlphaGen branding intact. Underlying public data belongs to its publishers. Third-party widgets and data remain the property of their providers.</p>
+<h2>Acceptable use</h2>
+<p>Don't scrape the site at a volume that disrupts it, attempt to interfere with its operation, or present AlphaGen content as your own.</p>
+<h2>Limitation of liability</h2>
+<p>To the fullest extent permitted by law, AlphaGen Research is not liable for any losses or damages arising from use of the site or reliance on its content.</p>
+<h2>Changes</h2>
+<p>We may update these terms. Continued use of the site means you accept the current version.</p>""")
+
 # ---------- RSS + sitemap ----------
 items = sorted([n for n in live_notes], key=lambda n: n["time"], reverse=True)[:40]
 def rfc(iso):
@@ -616,7 +725,7 @@ def rfc(iso):
 rss = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>AlphaGen Research</title><link>' + SITE + '</link><description>AlphaGen Notes and briefs on debt, equities, and macro.</description>' + \
       "".join(f'<item><title>{E(n["title"])}</title><link>{SITE}/notes/{n["id"]}</link><guid>{SITE}/notes/{n["id"]}</guid><pubDate>{rfc(n["time"])}</pubDate><description>{E(n.get("dek",""))}</description></item>' for n in items) + "</channel></rss>\n"
 write("rss.xml", rss)
-urls = ["/", "/wire", "/equities", "/earnings", "/stocks", "/rates", "/auctions", "/dashboard", "/macro", "/charts", "/research", "/about", "/methodology", "/standards", "/disclosures"] + \
+urls = ["/", "/wire", "/equities", "/earnings", "/deals", "/stocks", "/rates", "/fed", "/auctions", "/credit", "/dashboard", "/macro", "/global", "/housing", "/commodities", "/crypto", "/charts", "/research", "/search", "/about", "/methodology", "/standards", "/disclosures", "/privacy", "/terms"] + \
        [f"/notes/{n['id']}" for n in live_notes] + [f"/stock/{s}" for s in stocks] + [f"/charts/{c['id']}" for c in charts.get("items", []) if is_live(c) and slug_ok(c.get("id"))]
 write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{SITE}{u}</loc></url>" for u in urls) + "</urlset>\n")
 write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")

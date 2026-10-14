@@ -32,6 +32,50 @@
   status = 200
   force = true
 
+
+# ---- SEC EDGAR live filing feeds (SEC asks for a descriptive User-Agent) ----
+[[redirects]]
+  from = "/api/sec/formd"
+  to = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=D&company=&dateb=&owner=include&start=0&count=40&output=atom"
+  status = 200
+  force = true
+  headers = {User-Agent = "AlphaGen Research desk@alphagenresearch.com"}
+
+[[redirects]]
+  from = "/api/sec/s1"
+  to = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=S-1&company=&dateb=&owner=include&start=0&count=40&output=atom"
+  status = 200
+  force = true
+  headers = {User-Agent = "AlphaGen Research desk@alphagenresearch.com"}
+
+[[redirects]]
+  from = "/api/sec/f1"
+  to = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=F-1&company=&dateb=&owner=include&start=0&count=40&output=atom"
+  status = 200
+  force = true
+  headers = {User-Agent = "AlphaGen Research desk@alphagenresearch.com"}
+
+[[redirects]]
+  from = "/api/sec/merger"
+  to = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=DEFM14A&company=&dateb=&owner=include&start=0&count=40&output=atom"
+  status = 200
+  force = true
+  headers = {User-Agent = "AlphaGen Research desk@alphagenresearch.com"}
+
+[[redirects]]
+  from = "/api/sec/tender"
+  to = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=SC%20TO-T&company=&dateb=&owner=include&start=0&count=40&output=atom"
+  status = 200
+  force = true
+  headers = {User-Agent = "AlphaGen Research desk@alphagenresearch.com"}
+
+[[redirects]]
+  from = "/api/sec/activist"
+  to = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=SC%2013D&company=&dateb=&owner=include&start=0&count=40&output=atom"
+  status = 200
+  force = true
+  headers = {User-Agent = "AlphaGen Research desk@alphagenresearch.com"}
+
 # ---- Clean URLs: /about -> /about.html, /notes/x -> /notes/x.html (files always win) ----
 [[redirects]]
   from = "/*"

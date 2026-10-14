@@ -92,16 +92,17 @@ function renderWire(v){
   items.forEach(it=>{
     const fresh=(Date.now()-new Date(it.time))<60*60000;
     const a=document.createElement("article"); a.className="wire-item"+(!wireFirst&&!wireSeen.has(it.id)?" enter":"");
-    a.innerHTML='<div class="wire-meta"><span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span></div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
+    a.innerHTML='<div class="wire-meta"><span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span>'+(it.checked?'<span class="chk" title="Figures re-checked against the source by the AlphaGen fact desk">✓ Source-checked</span>':"")+'</div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.correction?'<p class="corr"><b>Correction:</b> '+esc(it.correction)+'</p>':"")+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
     v.el.appendChild(a);
   });
 }
-function drawWire(){wireViews.forEach(renderWire);const items=live(WIRE&&WIRE.items);items.forEach(i=>wireSeen.add(i.id));wireFirst=false;
+function drawCrawl(){const c=$("#crawl");if(!c)return;const items=live(WIRE&&WIRE.items).slice(0,12);if(!items.length)return;let i=0;const show=()=>{const it=items[i%items.length];c.innerHTML='<a href="/wire"><span class="tag">'+esc(it.tag||"")+'</span> '+esc(it.headline)+'</a>';c.classList.remove("in");void c.offsetWidth;c.classList.add("in");i++};clearInterval(c._t);show();c._t=setInterval(show,6000)}
+function drawWire(){wireViews.forEach(renderWire);drawCrawl();const items=live(WIRE&&WIRE.items);items.forEach(i=>wireSeen.add(i.id));wireFirst=false;
   $$("[data-wire-updated]").forEach(e=>{if(items[0])e.textContent="Latest "+ago(items[0].time)});
   $$("[data-wire-count]").forEach(e=>{const today=nyParts(new Date()).date;e.textContent=items.filter(i=>nyParts(new Date(i.time)).date===today).length});
 }
 function loadWire(){return getJSON("/wire.json").then(d=>{WIRE=d;drawWire()}).catch(()=>{if(!WIRE){WIRE={items:[]};drawWire()}})}
-if(wireViews.length||$("[data-wire-count]")){loadWire();setInterval(loadWire,60000);setInterval(drawWire,30000)}
+if(wireViews.length||$("[data-wire-count]")||$("#crawl")){loadWire();setInterval(loadWire,60000);setInterval(drawWire,30000)}
 $$("[data-wire-filters]").forEach(bar=>{
   const v=wireViews.find(w=>w.el.id===bar.dataset.wireFilters); if(!v) return;
   bar.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{v.filter=b.dataset.f;bar.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));renderWire(v)}));

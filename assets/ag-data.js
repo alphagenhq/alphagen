@@ -23,6 +23,7 @@ function transform(obs,t){
   if(t==="yoy"){const m=new Map(obs.map(o=>[o.d,o.v]));return obs.map(o=>{const [y,mo,d]=o.d.split("-");const p=m.get((+y-1)+"-"+mo+"-"+d);return p?{d:o.d,v:(o.v/p-1)*100}:null}).filter(Boolean)}
   if(t==="diff") return obs.slice(1).map((o,i)=>({d:o.d,v:o.v-obs[i].v}));
   if(t==="k") return obs.map(o=>({d:o.d,v:o.v/1000}));
+  if(t&&t.startsWith("div:")){const d=+t.slice(4);return obs.map(o=>({d:o.d,v:o.v/d}))}
   return obs;
 }
 AG.fred=fred; AG.transform=transform;
@@ -38,7 +39,7 @@ function spark(pts,color){
 }
 
 /* ---------- Macro Dashboard ---------- */
-const DASH=[
+const SETS={core:[
  {g:"Inflation",items:[
   {id:"CPIAUCSL",n:"CPI inflation",t:"yoy",u:"%",good:"down",lb:3,note:"Headline CPI, year over year"},
   {id:"CPILFESL",n:"Core CPI",t:"yoy",u:"%",good:"down",lb:3,note:"Ex food & energy, y/y"},
@@ -65,20 +66,80 @@ const DASH=[
  {g:"Dollar & energy",items:[
   {id:"DTWEXBGS",n:"Broad dollar index",t:"lvl",u:"",lb:63,note:"Fed nominal broad index"},
   {id:"DCOILWTICO",n:"WTI crude",t:"lvl",u:"$",lb:63,note:"Dollars per barrel, spot"}]}
-];
-function fmtVal(v,u){if(u==="$")return "$"+v.toFixed(2);if(u==="k")return Math.round(v).toLocaleString("en-US")+"k";if(u==="pp")return (v>0?"+":"")+v.toFixed(2);return v.toFixed(2)+(u==="%"?"%":"")}
+],
+fed:[
+ {g:"Policy rate",items:[
+  {id:"DFEDTARU",n:"Target range, upper",t:"lvl",u:"%",lb:63,note:"FOMC target, upper bound"},
+  {id:"DFEDTARL",n:"Target range, lower",t:"lvl",u:"%",lb:63,note:"FOMC target, lower bound"},
+  {id:"DFF",n:"Effective fed funds",t:"lvl",u:"%",lb:63,note:"Daily effective rate"},
+  {id:"SOFR",n:"SOFR",t:"lvl",u:"%",lb:63,note:"Secured overnight financing rate"}]},
+ {g:"Balance sheet & liquidity",items:[
+  {id:"WALCL",n:"Fed total assets",t:"div",d:1e6,u:"$T",lb:13,note:"Weekly, H.4.1"},
+  {id:"WRESBAL",n:"Bank reserves",t:"div",d:1e3,u:"$T",lb:13,note:"Reserve balances, weekly"},
+  {id:"RRPONTSYD",n:"Overnight reverse repo",t:"lvl",u:"$B",lb:63,note:"ON RRP usage, daily"},
+  {id:"WTREGEN",n:"Treasury General Account",t:"div",d:1e3,u:"$B",lb:13,note:"Treasury cash at the Fed, weekly"}]}],
+credit:[
+ {g:"Corporate spreads",items:[
+  {id:"BAMLC0A0CM",n:"Investment grade",t:"lvl",u:"%",good:"down",lb:63,note:"ICE BofA US Corporate OAS"},
+  {id:"BAMLC0A4CBBB",n:"BBB",t:"lvl",u:"%",good:"down",lb:63,note:"ICE BofA BBB OAS"},
+  {id:"BAMLH0A0HYM2",n:"High yield",t:"lvl",u:"%",good:"down",lb:63,note:"ICE BofA US HY OAS"},
+  {id:"BAMLH0A1HYBB",n:"BB",t:"lvl",u:"%",good:"down",lb:63,note:"ICE BofA BB OAS"},
+  {id:"BAMLH0A3HYC",n:"CCC & lower",t:"lvl",u:"%",good:"down",lb:63,note:"ICE BofA CCC & lower OAS"}]},
+ {g:"Lending & conditions",items:[
+  {id:"DRTSCILM",n:"Banks tightening C&I standards",t:"lvl",u:"%",good:"down",lb:1,note:"Fed SLOOS, net % tightening, quarterly"},
+  {id:"NFCI",n:"Financial conditions",t:"lvl",u:"",good:"down",lb:13,note:"Chicago Fed NFCI; below 0 = looser"},
+  {id:"MORTGAGE30US",n:"30-year mortgage",t:"lvl",u:"%",good:"down",lb:13,note:"Freddie Mac PMMS, weekly"}]}],
+housing:[
+ {g:"Rates & prices",items:[
+  {id:"MORTGAGE30US",n:"30-year mortgage rate",t:"lvl",u:"%",good:"down",lb:13,note:"Freddie Mac PMMS, weekly"},
+  {id:"CSUSHPINSA",n:"Home prices (Case-Shiller)",t:"yoy",u:"%",lb:3,note:"S&P CoreLogic national, y/y"}]},
+ {g:"Activity & supply",items:[
+  {id:"HOUST",n:"Housing starts",t:"lvl",u:"k",good:"up",lb:3,note:"Thousands, annualized"},
+  {id:"PERMIT",n:"Building permits",t:"lvl",u:"k",good:"up",lb:3,note:"Thousands, annualized"},
+  {id:"EXHOSLUSM495S",n:"Existing home sales",t:"div",d:1e6,u:"M",good:"up",lb:3,note:"Millions, annualized (NAR)"},
+  {id:"MSACSR",n:"New-home months' supply",t:"lvl",u:"mo",lb:3,note:"Census, months"}]}],
+global:[
+ {g:"Policy & yields",items:[
+  {id:"ECBDFR",n:"ECB deposit rate",t:"lvl",u:"%",lb:63,note:"European Central Bank"},
+  {id:"IRLTLT01DEM156N",n:"Germany 10-year",t:"lvl",u:"%",lb:3,note:"OECD, monthly"},
+  {id:"IRLTLT01GBM156N",n:"UK 10-year",t:"lvl",u:"%",lb:3,note:"OECD, monthly"},
+  {id:"IRLTLT01JPM156N",n:"Japan 10-year",t:"lvl",u:"%",lb:3,note:"OECD, monthly"}]},
+ {g:"Currencies",items:[
+  {id:"DEXUSEU",n:"EUR/USD",t:"lvl",u:"",lb:63,note:"Dollars per euro"},
+  {id:"DEXUSUK",n:"GBP/USD",t:"lvl",u:"",lb:63,note:"Dollars per pound"},
+  {id:"DEXJPUS",n:"USD/JPY",t:"lvl",u:"",lb:63,note:"Yen per dollar"},
+  {id:"DEXCHUS",n:"USD/CNY",t:"lvl",u:"",lb:63,note:"Yuan per dollar"}]}],
+energy:[
+ {g:"Energy",items:[
+  {id:"DCOILWTICO",n:"WTI crude",t:"lvl",u:"$",lb:63,note:"Spot, $/barrel (EIA)"},
+  {id:"DCOILBRENTEU",n:"Brent crude",t:"lvl",u:"$",lb:63,note:"Spot, $/barrel (EIA)"},
+  {id:"DHHNGSP",n:"Henry Hub natural gas",t:"lvl",u:"$",lb:63,note:"Spot, $/MMBtu (EIA)"},
+  {id:"GASREGW",n:"U.S. regular gasoline",t:"lvl",u:"$",good:"down",lb:13,note:"Retail, $/gallon (EIA), weekly"}]},
+ {g:"Metals & agriculture",items:[
+  {id:"PCOPPUSDM",n:"Copper",t:"lvl",u:"$",lb:3,note:"IMF, $/metric ton, monthly"},
+  {id:"PALUMUSDM",n:"Aluminum",t:"lvl",u:"$",lb:3,note:"IMF, $/metric ton, monthly"},
+  {id:"PWHEAMTUSDM",n:"Wheat",t:"lvl",u:"$",lb:3,note:"IMF, $/metric ton, monthly"},
+  {id:"PMAIZMTUSDM",n:"Corn",t:"lvl",u:"$",lb:3,note:"IMF, $/metric ton, monthly"}]}],
+crypto:[
+ {g:"Crypto (Coinbase via FRED)",items:[
+  {id:"CBBTCUSD",n:"Bitcoin",t:"lvl",u:"$",lb:63,note:"Coinbase, USD, daily"},
+  {id:"CBETHUSD",n:"Ether",t:"lvl",u:"$",lb:63,note:"Coinbase, USD, daily"}]}]
+};
+const DASH=SETS.core;
+function fmtVal(v,u){if(u==="$T")return "$"+v.toFixed(2)+"T";if(u==="$B")return "$"+Math.round(v).toLocaleString("en-US")+"B";if(u==="M")return v.toFixed(2)+"M";if(u==="mo")return v.toFixed(1)+" mo";if(u==="$"&&v>=1000)return "$"+Math.round(v).toLocaleString("en-US");if(u==="$")return "$"+v.toFixed(2);if(u==="k")return Math.round(v).toLocaleString("en-US")+"k";if(u==="pp")return (v>0?"+":"")+v.toFixed(2);return v.toFixed(2)+(u==="%"?"%":"")}
 function renderDash(root){
   const compact=root.dataset.dash==="compact";
-  const groups=compact?DASH.map(g=>({g:g.g,items:g.items.slice(0,2)})):DASH;
-  root.innerHTML=groups.map(g=>`<div class="dg"><div class="dg-h">${esc(g.g)}</div><div class="dg-grid">${g.items.map(i=>`<a class="ind" id="ind-${i.id}" href="https://fred.stlouisfed.org/series/${i.id}" target="_blank" rel="noopener"><div class="ind-top"><span class="ind-n">${esc(i.n)}</span><span class="sig">…</span></div><div class="ind-v num">—</div><div class="ind-d num">Loading</div><div class="ind-s"></div><div class="ind-note">${esc(i.note)} · FRED: ${i.id}</div></a>`).join("")}</div></div>`).join("");
+  const base=SETS[root.dataset.dashSet||"core"]||DASH;
+  const groups=(compact?base.map(g=>({g:g.g,items:g.items.slice(0,2)})):base).map(g=>({g:g.g,items:g.items.map(i=>i.t==="div"?Object.assign({},i,{t:"div:"+i.d}):i)}));
+  root.innerHTML=groups.map(g=>`<div class="dg"><div class="dg-h">${esc(g.g)}</div><div class="dg-grid">${g.items.map(i=>`<a class="ind" data-ind="${i.id}" href="https://fred.stlouisfed.org/series/${i.id}" target="_blank" rel="noopener"><div class="ind-top"><span class="ind-n">${esc(i.n)}</span><span class="sig">…</span></div><div class="ind-v num">—</div><div class="ind-d num">Loading</div><div class="ind-s"></div><div class="ind-note">${esc(i.note)} · FRED: ${i.id}</div></a>`).join("")}</div></div>`).join("");
   let improving=0,worsening=0,done=0,total=0;
   groups.forEach(g=>g.items.forEach(i=>{total++;
     fred(i.id,"2020-01-01").then(o=>{
       const s=transform(o,i.t); if(!s.length) throw 0;
       const last=s[s.length-1], prev=s[s.length-2], back=s[Math.max(0,s.length-1-i.lb)];
-      const el=document.getElementById("ind-"+i.id); if(!el) return;
+      const el=root.querySelector('[data-ind="'+i.id+'"]'); if(!el) return;
       el.querySelector(".ind-v").textContent=fmtVal(last.v,i.u);
-      const ch=last.v-(prev?prev.v:last.v); const chs=i.u==="k"?Math.round(ch).toLocaleString("en-US")+"k":(ch>0?"+":"")+ch.toFixed(2)+(i.u==="%"||i.u==="pp"?" pp":"");
+      const ch=last.v-(prev?prev.v:last.v); const chs=i.u==="k"?Math.round(ch).toLocaleString("en-US")+"k":i.u==="$B"?(ch>0?"+":"")+Math.round(ch).toLocaleString("en-US")+"B":(ch>0?"+":"")+(Math.abs(ch)>=100?Math.round(ch).toLocaleString("en-US"):ch.toFixed(2))+(i.u==="%"||i.u==="pp"?" pp":i.u==="$T"?"T":"");
       el.querySelector(".ind-d").textContent=(ch>0&&i.u==="k"?"+":"")+chs+" vs prior · "+shortDay(last.d);
       const trend=last.v-back.v, dir=Math.abs(trend)<1e-9?"flat":trend>0?"up":"down";
       let cls="neu",lab=dir==="up"?"Rising":dir==="down"?"Falling":"Flat";
@@ -86,8 +147,8 @@ function renderDash(root){
       const sig=el.querySelector(".sig"); sig.textContent=(dir==="up"?"▲ ":dir==="down"?"▼ ":"■ ")+lab; sig.className="sig "+cls;
       const pts=s.slice(-Math.min(s.length,i.t==="lvl"&&i.lb>=60?750:i.lb>=13?156:36));
       el.querySelector(".ind-s").innerHTML=spark(pts,cls==="good"?C.up:cls==="bad"?C.down:C.signal);
-    }).catch(()=>{const el=document.getElementById("ind-"+i.id);if(el){el.querySelector(".ind-d").textContent="Data temporarily unavailable";el.querySelector(".sig").textContent=""}})
-    .finally(()=>{done++;if(done===total){$$("[data-pulse]").forEach(p=>{const n=improving+worsening;p.innerHTML=n?`<b>${improving}</b> of ${n} directional indicators are moving in a supportive direction over the past quarter; <b>${worsening}</b> are moving against.`:""})}});
+    }).catch(()=>{const el=root.querySelector('[data-ind="'+i.id+'"]');if(el){el.querySelector(".ind-d").textContent="Data temporarily unavailable";el.querySelector(".sig").textContent=""}})
+    .finally(()=>{done++;if(done===total){if(root.dataset.dashSet)return;$$("[data-pulse]").forEach(p=>{const n=improving+worsening;p.innerHTML=n?`<b>${improving}</b> of ${n} directional indicators are moving in a supportive direction over the past quarter; <b>${worsening}</b> are moving against.`:""})}});
   }));
 }
 $$("[data-dash]").forEach(renderDash);
@@ -196,4 +257,93 @@ function renderEarnings(){
   }).catch(()=>{});
 }
 renderEarnings();
+})();
+
+/* ===== Deals, SEC filings tape, search ===== */
+(function(){
+"use strict";
+const AG=window.AG||{}; const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const getJSON=p=>fetch(p+(p.includes("?")?"&":"?")+"t="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()});
+const live=items=>(items||[]).filter(i=>!i.time||new Date(i.time)<=Date.now()).sort((a,b)=>new Date(b.time)-new Date(a.time));
+const ago=iso=>{const d=new Date(iso),m=Math.round((Date.now()-d)/60000);if(isNaN(m))return"";if(m<1)return"Just now";if(m<60)return m+"m ago";if(m<1440)return Math.round(m/60)+"h ago";return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})};
+const day=s=>{if(!s)return"";const d=new Date(s.length===10?s+"T12:00:00":s);return d.toLocaleDateString("en-US",{month:"short",day:"numeric"})};
+const money=v=>v==null?"Undisclosed":v>=1?"$"+(+v).toFixed(v>=10?1:2)+"B":"$"+Math.round(v*1000)+"M";
+
+/* ---------- Deals ---------- */
+const TYPES=["M&A","VC","PE","IPO","Debt"];
+function renderDeals(){
+  const els=$$("[data-deals]"); if(!els.length) return;
+  getJSON("/deals.json").then(d=>{
+    const items=live(d.items);
+    els.forEach(el=>{
+      const v={type:el.dataset.type||"all",limit:+el.dataset.limit||60,tk:el.dataset.ticker||""};
+      const draw=()=>{
+        let list=items; if(v.type!=="all") list=list.filter(x=>x.type===v.type); if(v.tk) list=list.filter(x=>(x.tickers||[]).some(t=>t.split(":").pop()===v.tk));
+        list=list.slice(0,v.limit);
+        if(!list.length){el.innerHTML='<div class="empty"><b>No deals logged yet.</b>Deals post as companies announce them and file with the SEC.</div>';return}
+        if(el.dataset.view==="cards"){el.innerHTML='<div class="deal-cards">'+list.map(x=>`<a class="deal-card" href="/deals"><div class="dk"><span class="tag dt-${esc(x.type.replace("&",""))}">${esc(x.type)}</span><span>${esc(day(x.announced||x.time))}</span></div><h3>${esc(x.headline)}</h3><div class="dv num">${esc(x.value_text||money(x.value))}</div><p>${esc(x.take||"")}</p></a>`).join("")+"</div>";return}
+        el.innerHTML='<div class="tbl-wrap"><table class="etbl dtbl"><tr><th class="l">Deal</th><th>Type</th><th>Value</th><th class="l">Parties</th><th>Status</th><th>Announced</th><th class="l">AlphaGen take</th></tr>'+list.map(x=>`<tr><td class="l"><b>${esc(x.headline)}</b>${(x.tickers||[]).map(t=>` <a class="tag tk" href="/stock/${esc(t.split(":").pop())}">${esc(t.split(":").pop())}</a>`).join("")}</td><td><span class="tag dt-${esc(x.type.replace("&",""))}">${esc(x.type)}</span></td><td class="num">${esc(x.value_text||money(x.value))}</td><td class="l parties">${esc(x.parties||"")}</td><td>${esc(x.status||"")}</td><td>${esc(day(x.announced||x.time))}</td><td class="l take">${esc(x.take||"")} ${x.source_url?`<a class="src" href="${esc(x.source_url)}" target="_blank" rel="noopener">Source →</a>`:""}</td></tr>`).join("")+"</table></div>";
+      };
+      const bar=document.querySelector(`[data-deal-filters="${el.id}"]`);
+      if(bar) bar.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{v.type=b.dataset.f;bar.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));draw()}));
+      draw();
+    });
+    const wk=items.filter(x=>Date.now()-new Date(x.time)<7*864e5);
+    $$("[data-deal-stats]").forEach(s=>{
+      const by=t=>wk.filter(x=>x.type===t);
+      const disclosed=wk.filter(x=>x.value!=null).reduce((a,x)=>a+(+x.value),0);
+      s.innerHTML=`<div class="lvl"><div class="k">Deals logged, 7 days</div><div class="v num">${wk.length}</div><div class="d">all types</div></div>`+["M&A","VC","PE","IPO"].map(t=>`<div class="lvl"><div class="k">${t}</div><div class="v num">${by(t).length}</div><div class="d num">${by(t).some(x=>x.value!=null)?money(by(t).filter(x=>x.value!=null).reduce((a,x)=>a+(+x.value),0))+" disclosed":"&nbsp;"}</div></div>`).join("")+`<div class="lvl"><div class="k">Disclosed value</div><div class="v num">${disclosed?money(disclosed):"–"}</div><div class="d">7 days, logged deals</div></div>`;
+    });
+  }).catch(()=>{els.forEach(el=>el.innerHTML='<div class="empty"><b>Deal flow is loading.</b>Refresh in a moment.</div>')});
+}
+renderDeals();
+
+/* ---------- SEC EDGAR live filings tape ---------- */
+const FEEDS={formd:{label:"Private raise",form:"Form D"},s1:{label:"IPO filing",form:"S-1"},f1:{label:"Foreign IPO filing",form:"F-1"},merger:{label:"Merger proxy",form:"DEFM14A"},tender:{label:"Tender offer",form:"SC TO-T"},activist:{label:"Activist stake",form:"SC 13D"}};
+function parseAtom(xml,key){
+  const doc=new DOMParser().parseFromString(xml,"application/xml");
+  return [...doc.getElementsByTagName("entry")].map(e=>{
+    const g=n=>{const x=e.getElementsByTagName(n)[0];return x?x.textContent.trim():""};
+    const title=g("title"); const m=title.match(/^(.+?) - (.+?) \((\d{10})\)/);
+    const link=(e.getElementsByTagName("link")[0]||{getAttribute:()=>""}).getAttribute("href");
+    return m?{key,form:m[1],company:m[2].replace(/\s+/g," "),cik:m[3],updated:g("updated"),link}:null;
+  }).filter(Boolean);
+}
+function renderFilings(){
+  const els=$$("[data-filings]"); if(!els.length) return;
+  els.forEach(el=>{
+    const keys=(el.dataset.filings||"formd,s1,merger,tender,activist").split(",");
+    el.innerHTML='<div class="empty">Loading live SEC filings…</div>';
+    Promise.all(keys.map(k=>fetch("/api/sec/"+k,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.text()}).then(t=>parseAtom(t,k)).catch(()=>[]))).then(lists=>{
+      const seen=new Set(); const all=lists.flat().filter(f=>{const k=f.form+f.cik;if(seen.has(k))return false;seen.add(k);return true}).sort((a,b)=>new Date(b.updated)-new Date(a.updated)).slice(0,+el.dataset.limit||30);
+      if(!all.length){el.innerHTML='<div class="empty"><b>The SEC filings feed is temporarily unavailable.</b>It refreshes automatically.</div>';return}
+      el.innerHTML=all.map(f=>`<a class="filing" href="${esc(f.link)}" target="_blank" rel="noopener"><span class="ff">${esc(f.form)}</span><span class="fc">${esc(f.company)}</span><span class="fl">${esc(FEEDS[f.key].label)}</span><span class="ft num">${esc(new Date(f.updated).toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit",timeZone:"America/New_York"}))}</span></a>`).join("");
+    });
+  });
+}
+renderFilings(); setInterval(renderFilings,5*60000);
+
+/* ---------- Site search ---------- */
+(function(){
+  const box=$("#search-results"), q=$("#search-q"); if(!box||!q) return;
+  let DATA=[];
+  Promise.all(["/wire.json","/notes.json","/deals.json","/earnings.json","/charts.json"].map(p=>getJSON(p).catch(()=>({items:[]})))).then(([w,n,d,e,c])=>{
+    DATA=[].concat(
+      live(w.items).map(i=>({k:"Wire",t:i.headline,s:i.take,u:"/wire",time:i.time,x:(i.ticker||"")+" "+(i.tag||"")})),
+      live(n.items).map(i=>({k:i.series?"Brief":"Note",t:i.title,s:i.dek,u:"/notes/"+i.id,time:i.time,x:(i.tickers||[]).join(" ")+" "+(i.tag||"")})),
+      live(d.items).map(i=>({k:"Deal",t:i.headline,s:i.take,u:"/deals",time:i.time,x:(i.tickers||[]).join(" ")+" "+i.type+" "+(i.parties||"")})),
+      live(e.items).map(i=>({k:"Earnings",t:i.name+" "+(i.period||""),s:i.take,u:"/stock/"+i.ticker.split(":").pop(),time:i.time,x:i.ticker})),
+      live(c.items).map(i=>({k:"Chart",t:i.title,s:i.take,u:"/charts/"+i.id,time:i.time,x:i.series.map(s=>s.id).join(" ")}))
+    ); run();
+  });
+  const run=()=>{
+    const v=q.value.trim().toLowerCase(); const terms=v.split(/\s+/).filter(Boolean);
+    const res=terms.length?DATA.filter(r=>terms.every(t=>(r.t+" "+r.s+" "+r.x).toLowerCase().includes(t))):DATA;
+    $("#search-count").textContent=terms.length?res.length+" results":"Latest across AlphaGen";
+    box.innerHTML=res.slice(0,80).map(r=>`<a class="sres" href="${esc(r.u)}"><span class="tag">${esc(r.k)}</span><b>${esc(r.t)}</b><p>${esc((r.s||"").slice(0,220))}</p><span class="st">${esc(ago(r.time))}</span></a>`).join("")||'<div class="empty"><b>No matches.</b>Try a ticker, a company, or a topic like "auction" or "CPI".</div>';
+  };
+  const p=new URLSearchParams(location.search).get("q"); if(p) q.value=p;
+  q.addEventListener("input",run);
+})();
 })();
