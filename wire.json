@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T19:10:00Z",
+  "updated": "2026-10-14T19:46:00Z",
   "items": [
+    {
+      "id": "2026-10-14-ms-q3",
+      "time": "2026-10-14T19:46:00Z",
+      "tag": "EARNINGS",
+      "headline": "Morgan Stanley Q3 net revenues rise to $20.3B; EPS $3.03 vs $2.80",
+      "take": "Morgan Stanley reported third-quarter net revenues of $20.3 billion, up from $18.2 billion a year earlier, with net income of $4.9 billion, or $3.03 per diluted share, versus $4.6 billion, or $2.80, and a 22.6% return on tangible common equity. Revenue up roughly 11.5% and EPS up about 8% point to strong capital generation at a major dealer, a supportive backdrop for large-bank senior debt.",
+      "source_name": "Morgan Stanley Q3 2026 earnings release",
+      "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf"
+    },
     {
       "id": "2026-10-14-cpi-headline",
       "time": "2026-10-14T19:10:00Z",
