@@ -122,7 +122,8 @@
       "take": "Citigroup reported third-quarter net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier, on revenues of $23.8 billion against $22.1 billion. Net interest income rose 14%, RoTCE was 11.5% and the bank returned $4.1 billion to shareholders with a CET1 ratio of 12.8%. Revenue growing about 8% while reported expenses fell 2% is the operating leverage Citi has been promising, though the prior-year comparison included a Banamex-related goodwill impairment.",
       "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
-      "time": "2026-10-14T21:16:14Z"
+      "time": "2026-10-14T21:16:14Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-h15-long-end",
@@ -131,7 +132,8 @@
       "take": "The Fed's H.15 release shows the 10-year constant-maturity yield at 5.21% on October 13 versus 5.28% on October 7, while the 30-year eased to 5.56% from 5.67% and the 2-year was little changed at 4.79%. That leaves the 2s10s curve at 42 basis points. The long end is doing the easing while the front end holds, a pattern that points to some relief in term premium rather than a shift in expected policy.",
       "source_name": "Federal Reserve, H.15 Selected Interest Rates",
       "source_url": "https://federalreserve.gov/releases/h15/",
-      "time": "2026-10-14T21:20:14Z"
+      "time": "2026-10-14T21:20:14Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-c-credit-costs",
@@ -141,7 +143,8 @@
       "take": "Citigroup said its third-quarter provision for credit losses was $2.6 billion, reflecting $2.2 billion of net credit losses and a net reserve build of $369 million. The bank cited growth in U.S. Consumer Cards among the drivers of its 14% rise in net interest income. Net credit losses of $2.2 billion are the price of that NII growth, and the modest reserve build suggests the bank sees no sharp turn in consumer credit yet.",
       "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
-      "time": "2026-10-14T21:24:14Z"
+      "time": "2026-10-14T21:24:14Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-h15-bills-vs-ff",
@@ -150,7 +153,8 @@
       "take": "On October 13 the 3-month constant-maturity Treasury yield was 4.26% while the effective federal funds rate was 3.88%, per the Fed's H.15 release; the 2-year yield was 4.79%. The 3-month yield has edged up from 4.22% on October 7. Bills yielding well above overnight policy is consistent with a market that leans toward tighter Fed policy ahead of the October 27–28 FOMC meeting.",
       "source_name": "Federal Reserve, H.15 Selected Interest Rates",
       "source_url": "https://federalreserve.gov/releases/h15/",
-      "time": "2026-10-14T21:28:14Z"
+      "time": "2026-10-14T21:28:14Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-h15-tips-breakeven",
@@ -159,7 +163,8 @@
       "take": "The 10-year inflation-indexed Treasury yield was 2.88% on October 13 versus a 5.21% nominal 10-year yield, per the Fed's H.15, implying a breakeven inflation spread of about 2.33 percentage points. The real yield has eased from 2.92% on October 7. Real yields near 2.9% are doing most of the tightening in financial conditions; inflation compensation remains contained.",
       "source_name": "Federal Reserve, H.15 Selected Interest Rates",
       "source_url": "https://federalreserve.gov/releases/h15/",
-      "time": "2026-10-14T21:32:14Z"
+      "time": "2026-10-14T21:32:14Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-sentinelone-converts",
@@ -169,7 +174,8 @@
       "source_name": "SentinelOne press release (Business Wire)",
       "source_url": "https://www.businesswire.com/news/home/20261013630798/en/SentinelOne-Announces-Pricing-of-Offering-of-$1.25-Billion-of-0.00-Convertible-Senior-Notes-Due-2031",
       "ticker": "NYSE:S",
-      "time": "2026-10-14T21:02:00Z"
+      "time": "2026-10-14T21:02:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-12-ionq-elisity",
@@ -179,7 +185,8 @@
       "source_name": "IonQ 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526419609/ionq-ex99_1.htm",
       "ticker": "NYSE:IONQ",
-      "time": "2026-10-14T20:55:00Z"
+      "time": "2026-10-14T20:55:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-bumble-ithaca",
@@ -189,7 +196,8 @@
       "source_name": "Bumble 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001830043/000095010326015480/dp254907_ex9901.htm",
       "ticker": "NASDAQ:BMBL",
-      "time": "2026-10-14T20:48:00Z"
+      "time": "2026-10-14T20:48:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-att-mexico-sale",
@@ -199,7 +207,8 @@
       "source_name": "AT&T newsroom",
       "source_url": "https://about.att.com/story/2026/att-to-sell-att-mexico.html",
       "ticker": "NYSE:T",
-      "time": "2026-10-14T20:41:00Z"
+      "time": "2026-10-14T20:41:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-galderma-zo-skin-health",
@@ -209,7 +218,8 @@
       "source_name": "Galderma press release",
       "source_url": "https://www.galderma.com/news/galderma-signs-agreement-acquire-zo-skin-health",
       "ticker": "SIX:GALD",
-      "time": "2026-10-14T20:34:00Z"
+      "time": "2026-10-14T20:34:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-fast-q3",
@@ -219,7 +229,8 @@
       "source_name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm",
       "ticker": "NASDAQ:FAST",
-      "time": "2026-10-14T20:59:00Z"
+      "time": "2026-10-14T20:59:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-pgr-q3",
@@ -229,7 +240,8 @@
       "source_name": "Progressive 8-K, Exhibit 99 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000080661/000008066126000367/pgr202609ex99earningsrelea.htm",
       "ticker": "NYSE:PGR",
-      "time": "2026-10-14T20:52:00Z"
+      "time": "2026-10-14T20:52:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-beige-dallas-diesel",
@@ -238,7 +250,8 @@
       "take": "The Dallas Fed's section of today's Beige Book says price pressures picked up, with diesel the most commonly cited factor driving costs and causing widespread margin compression. Retailers voiced concern, but most said higher diesel had not yet led to price hikes. That pass-through gap is exactly what the FOMC will be watching after September's energy-driven CPI print.",
       "source_name": "Federal Reserve, Beige Book (Dallas), October 2026",
       "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-dallas.htm",
-      "time": "2026-10-14T20:45:00Z"
+      "time": "2026-10-14T20:45:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-wfc-q3",
@@ -248,7 +261,8 @@
       "source_name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm",
       "ticker": "NYSE:WFC",
-      "time": "2026-10-14T20:38:00Z"
+      "time": "2026-10-14T20:38:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-stt-q3",

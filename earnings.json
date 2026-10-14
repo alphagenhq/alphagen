@@ -29,7 +29,8 @@
       "eps_yoy": -12.5,
       "take": "Net income fell to $6.93 billion from $8.33 billion, including a $1.2 billion charge for civil money penalties tied to Bank Secrecy Act consent orders. Revenue still grew about 3%, so the EPS decline is a compliance cost rather than an operating slowdown.",
       "source_name": "Bank of America 8-K, Exhibit 99.3 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-WFC-Q3",
@@ -44,7 +45,8 @@
       "eps_yoy": 12.7,
       "take": "Net income rose to $5.95 billion from $5.59 billion. EPS growth well ahead of roughly 2% revenue growth reflects buybacks and cost control more than top-line momentum.",
       "source_name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-C-Q3",
@@ -59,7 +61,8 @@
       "eps_yoy": 53.2,
       "take": "Net income of $5.2 billion versus $3.8 billion a year earlier, with RoTCE of 11.5% and a 12.8% CET1 ratio. The EPS comparison is flattered by a Banamex-related goodwill impairment in the prior-year quarter.",
       "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-STT-Q3",
@@ -74,7 +77,8 @@
       "eps_yoy": 32.7,
       "take": "Net income rose to $1.09 billion from $861 million. Double-digit revenue growth with EPS up by about a third shows strong operating leverage in the custody model.",
       "source_name": "State Street 8-K, Exhibit 99.2 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/exhibit992-3q26earningsrel.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/exhibit992-3q26earningsrel.htm",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-BLK-Q3",
@@ -89,7 +93,8 @@
       "eps_yoy": 25.4,
       "take": "GAAP diluted EPS rose to $10.57 from $8.43, and as-adjusted diluted EPS rose to $15.93 from $11.55. Revenue growth near 19% shows fee income compounding on both flows and higher asset levels.",
       "source_name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-FAST-Q3",
@@ -104,7 +109,8 @@
       "eps_yoy": null,
       "take": "Net earnings rose to $401.6 million from $335.5 million. Mid-teens sales growth at an industrial distributor is a constructive read on U.S. factory and construction activity.",
       "source_name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-MS-Q3",

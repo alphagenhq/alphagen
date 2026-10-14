@@ -13,6 +13,13 @@
       "id": "2026-10-14-MS-Q3",
       "action": "corrected",
       "detail": "Corrected revenue_yoy from 11.5 to 11.6 ($20,338M vs $18,224M per the earnings release)."
+    },
+    {
+      "time": "2026-10-14T22:06:09Z",
+      "file": "deals.json",
+      "id": "2026-10-13-porch-allied-trust",
+      "action": "corrected",
+      "detail": "Headline and value_text described $200M as the combined base price; per the Porch 8-K the base prices total $150M ($55M Reciprocal + $95M Porch) and $200M includes $50M of deferred consideration."
     }
   ]
 }
