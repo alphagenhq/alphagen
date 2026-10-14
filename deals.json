@@ -1,1 +1,148 @@
-{"updated": null, "items": []}
+{
+  "updated": "2026-10-14T20:32:34Z",
+  "items": [
+    {
+      "id": "2026-10-13-porch-allied-trust",
+      "time": "2026-10-14T21:23:00Z",
+      "type": "M&A",
+      "headline": "Porch Group and its reciprocal to buy insurer Allied Trust for $200M in base prices",
+      "parties": "Acquirers: Porch Group and the Reciprocal it manages; Target: Allied Trust",
+      "value": 0.2,
+      "value_text": "$200M combined base price, cash and stock",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Insurance",
+      "take": "The Reciprocal pays a $55 million base price plus $50 million deferred for the carrier, while Porch pays $95 million for the managing agency and captive reinsurer, which Porch puts at under four times expected first-year adjusted EBITDA. The deal adds Louisiana and about $200 million of written premium, deepening Porch's exposure to Gulf and Southeast homeowners markets.",
+      "source_name": "Porch Group 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001784535/000178453526000054/prch-20261013xexx991.htm",
+      "tickers": [
+        "NASDAQ:PRCH"
+      ]
+    },
+    {
+      "id": "2026-10-14-salience-labs-series-b",
+      "time": "2026-10-14T21:16:00Z",
+      "type": "VC",
+      "headline": "Salience Labs raises $125M Series B led by Bullhound for optical AI switches",
+      "parties": "Lead: Bullhound Capital; Participants: AMD Ventures, Intel Capital, SBI Group, Hudson River Trading, British Business Bank, Applied Ventures, Oxford Science Enterprises, Cambridge Innovation Capital, Silicon Catalyst Ventures",
+      "value": 0.125,
+      "value_text": "$125M Series B",
+      "status": "Raised",
+      "announced": "2026-10-14",
+      "sector": "Semiconductors / AI Infrastructure",
+      "take": "Backing from AMD Ventures and Intel Capital puts chipmaker money behind optical circuit switching, which aims to cut the power and latency of moving data between AI accelerators. The round funds volume manufacturing and 128- and 256-port products, a sign that datacenter networking is drawing capital alongside compute itself.",
+      "source_name": "Cambridge Innovation Capital (Salience Labs press release)",
+      "source_url": "https://www.cic.vc/salience-labs-secures-125-million-in-series-b-funding-to-scale-photonic-networking-chips-for-ai-datacenter-infrastructure/",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-workday-c1ai",
+      "time": "2026-10-14T21:09:00Z",
+      "type": "M&A",
+      "headline": "Workday to acquire agentic identity platform C1.ai (ConductorOne); terms undisclosed",
+      "parties": "Acquirer: Workday; Target: C1.ai (ConductorOne, Inc.); Advisors: BofA Securities, Orrick (Workday); Qatalyst, Ashurst Perkins Coie (C1.ai)",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Enterprise Software",
+      "take": "Workday is buying identity-governance software that grants and revokes system access for both people and AI agents, extending its HR system of record toward controlling what agents can do. As enterprises deploy AI agents, governing their access is emerging as a new control point for enterprise software platforms.",
+      "source_name": "Workday investor relations",
+      "source_url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx",
+      "tickers": [
+        "NASDAQ:WDAY"
+      ]
+    },
+    {
+      "id": "2026-10-13-sentinelone-converts",
+      "time": "2026-10-14T21:02:00Z",
+      "type": "Debt",
+      "headline": "SentinelOne prices $1.25B of 0.00% convertible notes due 2031",
+      "parties": "Issuer: SentinelOne",
+      "value": 1.25,
+      "value_text": "$1.25B 0.00% convertible senior notes (plus $187.5M option)",
+      "status": "Priced",
+      "announced": "2026-10-13",
+      "sector": "Cybersecurity",
+      "take": "The zero-coupon notes convert at about $31.21 a share, a 30% premium, and roughly $150 million of proceeds goes to buying back stock from note purchasers alongside $131.6 million of capped calls. Pairing the converts with a buyback and a capped call at a 100% premium is designed to raise cash at no running interest cost while limiting dilution.",
+      "source_name": "SentinelOne press release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261013630798/en/SentinelOne-Announces-Pricing-of-Offering-of-$1.25-Billion-of-0.00-Convertible-Senior-Notes-Due-2031",
+      "tickers": [
+        "NYSE:S"
+      ]
+    },
+    {
+      "id": "2026-10-12-ionq-elisity",
+      "time": "2026-10-14T20:55:00Z",
+      "type": "M&A",
+      "headline": "IonQ to acquire zero-trust security firm Elisity for up to $1.3B in stock",
+      "parties": "Acquirer: IonQ; Target: Elisity",
+      "value": 1.3,
+      "value_text": "Up to $1.3B all stock, incl. up to $150M earnout",
+      "status": "Announced",
+      "announced": "2026-10-12",
+      "sector": "Quantum Computing / Cybersecurity",
+      "take": "IonQ is again using its stock as acquisition currency, this time to add network access-control software that governs users, devices, workloads and AI agents. The deal widens IonQ's security pitch beyond quantum hardware and networking, with closing targeted for the fourth quarter of 2026.",
+      "source_name": "IonQ 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526419609/ionq-ex99_1.htm",
+      "tickers": [
+        "NYSE:IONQ"
+      ]
+    },
+    {
+      "id": "2026-10-13-bumble-ithaca",
+      "time": "2026-10-14T20:48:00Z",
+      "type": "M&A",
+      "headline": "Bumble agrees to $1.3B all-cash sale to Ithaca Holdings at $6.05 a share",
+      "parties": "Acquirer: Ithaca Holdings; Target: Bumble Inc.; Advisors: Goldman Sachs, Morgan Stanley, Davis Polk (Bumble special committee); Kirkland & Ellis, KKR Capital Markets (Ithaca); Wachtell Lipton (Whitney Wolfe Herd); Simpson Thacher (Blackstone)",
+      "value": 1.3,
+      "value_text": "$1.3B all cash ($6.05 per share)",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Consumer Internet",
+      "take": "The $6.05 per-share price is about a 138% premium to Bumble's unaffected October 9 close, and written consent from Blackstone affiliates and Whitney Wolfe Herd already delivers the shareholder approval. The take-private hands the dating app to a holding company whose co-CEOs become Bumble's co-CEOs, a bet that a long-term private owner can reshape a mature consumer app away from quarterly scrutiny.",
+      "source_name": "Bumble 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001830043/000095010326015480/dp254907_ex9901.htm",
+      "tickers": [
+        "NASDAQ:BMBL"
+      ]
+    },
+    {
+      "id": "2026-10-13-att-mexico-sale",
+      "time": "2026-10-14T20:41:00Z",
+      "type": "M&A",
+      "headline": "AT&T to sell AT&T Mexico to Grupo Televisa and Fintech Holdings for $2B cash",
+      "parties": "Seller: AT&T; Target: AT&T Mexico; Buyers: Grupo Televisa and Fintech Holdings",
+      "value": 2.0,
+      "value_text": "$2B cash at closing, plus contractual and contingent benefits",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Telecom",
+      "take": "The sale ends AT&T's wireless push into Mexico and, per the company, supports its capital allocation toward U.S. fiber and wireless. For Mexico's market, pairing Televisa's fixed broadband base with a national mobile network creates a combined fixed-mobile challenger, subject to Mexican regulatory approval.",
+      "source_name": "AT&T newsroom",
+      "source_url": "https://about.att.com/story/2026/att-to-sell-att-mexico.html",
+      "tickers": [
+        "NYSE:T",
+        "NYSE:TV"
+      ]
+    },
+    {
+      "id": "2026-10-14-galderma-zo-skin-health",
+      "time": "2026-10-14T20:34:00Z",
+      "type": "M&A",
+      "headline": "Galderma to buy ZO Skin Health from Blackstone-backed owners for $1.5B",
+      "parties": "Acquirer: Galderma; Target: ZO Skin Health; Sellers: ZO shareholders including funds managed by Blackstone Tactical Opportunities and the Obagi family; Advisors: Lazard, JP Morgan, Ropes & Gray (Galderma); Raymond James, Citi, Weil, Gotshal & Manges, Paul Weiss (ZO and Blackstone)",
+      "value": 1.5,
+      "value_text": "$1.5B enterprise value, all cash",
+      "status": "Announced",
+      "announced": "2026-10-14",
+      "sector": "Healthcare / Dermatology",
+      "take": "Galderma is paying an enterprise value of $1.5 billion for a physician-dispensed skincare brand with about $330 million of trailing net sales, roughly 4.5 times sales, funded with cash and bank loans. The deal adds a daily-regimen line alongside its procedure-focused aesthetics business and shows strategic buyers still paying up for scaled, professional-channel skincare assets.",
+      "source_name": "Galderma press release",
+      "source_url": "https://www.galderma.com/news/galderma-signs-agreement-acquire-zo-skin-health",
+      "tickers": [
+        "SIX:GALD"
+      ]
+    }
+  ]
+}

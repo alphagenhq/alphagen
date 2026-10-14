@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-14T20:07:09Z",
+  "updated": "2026-10-14T20:32:34Z",
   "items": [
+    {
+      "id": "2026-10-13-sentinelone-converts",
+      "tag": "DEALS",
+      "headline": "SentinelOne prices $1.25B of 0.00% convertible notes due 2031",
+      "take": "SentinelOne priced $1.25 billion of 0.00% convertible senior notes due 2031 with an initial conversion price of about $31.21, a 30% premium, and expected net proceeds of about $1,224 million. About $150 million goes to buying back shares and $131.6 million to capped calls. Zero-coupon converts remain a cheap way for software companies to raise cash.",
+      "source_name": "SentinelOne press release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261013630798/en/SentinelOne-Announces-Pricing-of-Offering-of-$1.25-Billion-of-0.00-Convertible-Senior-Notes-Due-2031",
+      "ticker": "NYSE:S",
+      "time": "2026-10-14T21:02:00Z"
+    },
+    {
+      "id": "2026-10-12-ionq-elisity",
+      "tag": "DEALS",
+      "headline": "IonQ to acquire zero-trust security firm Elisity for up to $1.3B in stock",
+      "take": "IonQ agreed to acquire Elisity in an all-stock deal valued at up to $1.3 billion, including up to $150 million of earnout, with share count set by a 20-day VWAP collared between $33.07 and $49.61. Closing is expected in Q4 2026. IonQ keeps using its equity to build a security franchise around its quantum business.",
+      "source_name": "IonQ 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526419609/ionq-ex99_1.htm",
+      "ticker": "NYSE:IONQ",
+      "time": "2026-10-14T20:55:00Z"
+    },
+    {
+      "id": "2026-10-13-bumble-ithaca",
+      "tag": "DEALS",
+      "headline": "Bumble agrees to $1.3B all-cash sale to Ithaca Holdings at $6.05 a share",
+      "take": "Ithaca Holdings will acquire Bumble for $6.05 per Class A share in cash, valuing the company at $1.3 billion and about a 138% premium to the October 9 unaffected close. Written consent from Blackstone affiliates and Whitney Wolfe Herd already provides the required shareholder approval. The deal puts the app under a long-term private owner whose co-CEOs will run Bumble.",
+      "source_name": "Bumble 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001830043/000095010326015480/dp254907_ex9901.htm",
+      "ticker": "NASDAQ:BMBL",
+      "time": "2026-10-14T20:48:00Z"
+    },
+    {
+      "id": "2026-10-13-att-mexico-sale",
+      "tag": "DEALS",
+      "headline": "AT&T to sell AT&T Mexico to Grupo Televisa and Fintech Holdings for $2B cash",
+      "take": "AT&T agreed to sell AT&T Mexico to Grupo Televisa and Fintech Holdings for $2 billion in cash at closing, plus contractual and contingent benefits, with closing expected in the first quarter of 2027. AT&T will report the unit as held for sale in its Q3 10-Q. The exit concentrates AT&T on U.S. fiber and wireless and gives Televisa a mobile network to pair with its fixed broadband.",
+      "source_name": "AT&T newsroom",
+      "source_url": "https://about.att.com/story/2026/att-to-sell-att-mexico.html",
+      "ticker": "NYSE:T",
+      "time": "2026-10-14T20:41:00Z"
+    },
+    {
+      "id": "2026-10-14-galderma-zo-skin-health",
+      "tag": "DEALS",
+      "headline": "Galderma to buy ZO Skin Health from Blackstone-backed owners for $1.5B",
+      "take": "Galderma agreed to acquire 100% of ZO Skin Health in an all-cash deal at an enterprise value of $1.5 billion, funded with cash on hand and bank loans; ZO had about $330 million of net sales in the twelve months to June 2026. Closing is expected in Q4 2026 or early 2027. The price, roughly 4.5 times sales, shows strategic buyers paying up for scaled professional-channel skincare.",
+      "source_name": "Galderma press release",
+      "source_url": "https://www.galderma.com/news/galderma-signs-agreement-acquire-zo-skin-health",
+      "ticker": "SIX:GALD",
+      "time": "2026-10-14T20:34:00Z"
+    },
     {
       "id": "2026-10-14-fast-q3",
       "tag": "EARNINGS",
