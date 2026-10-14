@@ -1,6 +1,53 @@
 {
-  "updated": "2026-10-14T20:32:34Z",
+  "updated": "2026-10-14T21:13:14Z",
   "items": [
+    {
+      "id": "2026-10-14-c-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:C",
+      "headline": "Citigroup Q3 EPS rises to $2.85 on $23.8B of revenue; NII up 14%",
+      "take": "Citigroup reported third-quarter net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier, on revenues of $23.8 billion against $22.1 billion. Net interest income rose 14%, RoTCE was 11.5% and the bank returned $4.1 billion to shareholders with a CET1 ratio of 12.8%. Revenue growing about 8% while reported expenses fell 2% is the operating leverage Citi has been promising, though the prior-year comparison included a Banamex-related goodwill impairment.",
+      "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
+      "time": "2026-10-14T21:16:14Z"
+    },
+    {
+      "id": "2026-10-14-h15-long-end",
+      "tag": "RATES",
+      "headline": "10-year Treasury yield at 5.21% on Oct. 13, down 7 bp from Oct. 7",
+      "take": "The Fed's H.15 release shows the 10-year constant-maturity yield at 5.21% on October 13 versus 5.28% on October 7, while the 30-year eased to 5.56% from 5.67% and the 2-year was little changed at 4.79%. That leaves the 2s10s curve at 42 basis points. The long end is doing the easing while the front end holds, a pattern that points to some relief in term premium rather than a shift in expected policy.",
+      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
+      "source_url": "https://federalreserve.gov/releases/h15/",
+      "time": "2026-10-14T21:20:14Z"
+    },
+    {
+      "id": "2026-10-14-c-credit-costs",
+      "tag": "CREDIT",
+      "ticker": "NYSE:C",
+      "headline": "Citi Q3 provision of $2.6B includes $2.2B of net credit losses",
+      "take": "Citigroup said its third-quarter provision for credit losses was $2.6 billion, reflecting $2.2 billion of net credit losses and a net reserve build of $369 million. The bank cited growth in U.S. Consumer Cards among the drivers of its 14% rise in net interest income. Net credit losses of $2.2 billion are the price of that NII growth, and the modest reserve build suggests the bank sees no sharp turn in consumer credit yet.",
+      "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
+      "time": "2026-10-14T21:24:14Z"
+    },
+    {
+      "id": "2026-10-14-h15-bills-vs-ff",
+      "tag": "FED",
+      "headline": "3-month Treasury yield sits 38 bp above the effective fed funds rate",
+      "take": "On October 13 the 3-month constant-maturity Treasury yield was 4.26% while the effective federal funds rate was 3.88%, per the Fed's H.15 release; the 2-year yield was 4.79%. The 3-month yield has edged up from 4.22% on October 7. Bills yielding well above overnight policy is consistent with a market that leans toward tighter Fed policy ahead of the October 27–28 FOMC meeting.",
+      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
+      "source_url": "https://federalreserve.gov/releases/h15/",
+      "time": "2026-10-14T21:28:14Z"
+    },
+    {
+      "id": "2026-10-14-h15-tips-breakeven",
+      "tag": "RATES",
+      "headline": "10-year TIPS real yield at 2.88%, leaving a 2.33% breakeven",
+      "take": "The 10-year inflation-indexed Treasury yield was 2.88% on October 13 versus a 5.21% nominal 10-year yield, per the Fed's H.15, implying a breakeven inflation spread of about 2.33 percentage points. The real yield has eased from 2.92% on October 7. Real yields near 2.9% are doing most of the tightening in financial conditions; inflation compensation remains contained.",
+      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
+      "source_url": "https://federalreserve.gov/releases/h15/",
+      "time": "2026-10-14T21:32:14Z"
+    },
     {
       "id": "2026-10-13-sentinelone-converts",
       "tag": "DEALS",

@@ -1,6 +1,79 @@
 {
-  "updated": "2026-10-14T20:07:09Z",
+  "updated": "2026-10-14T21:13:14Z",
   "items": [
+    {
+      "id": "2026-10-14-the-close",
+      "time": "2026-10-14T21:13:14Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Bank earnings show growth, with credit and compliance bills attached",
+      "dek": "Citigroup, Wells Fargo, Bank of America, State Street and BlackRock all grew revenue in the third quarter, while the Fed's H.15 shows long Treasury yields easing off last week's levels.",
+      "key_points": [
+        "Citigroup earned $2.85 a diluted share on $23.8 billion of revenue, with net interest income up 14% and a $2.6 billion provision for credit losses.",
+        "Bank of America's revenue rose to $29.96 billion from $29.04 billion, but net income fell to $6.93 billion after a $1.2 billion Bank Secrecy Act-related charge.",
+        "Wells Fargo's diluted EPS rose to $1.87 from $1.66 on revenue of $21.87 billion.",
+        "State Street revenue rose about 13% to $4.0 billion and BlackRock revenue rose about 19% to $7.75 billion.",
+        "Per the Fed's H.15, the 10-year Treasury yield was 5.21% on October 13, down from 5.28% on October 7; the 2-year was 4.79%."
+      ],
+      "body": [
+        "The heart of the third-quarter bank reporting season has now arrived, and the message from the official filings is consistent: revenue is growing almost everywhere, but the path from revenue to earnings runs through credit costs, regulatory bills and capital return decisions that differ sharply by firm.",
+        {
+          "h": "Citi's operating leverage, with a card-loss price tag"
+        },
+        "Citigroup reported net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier. Revenues rose to $23.8 billion from $22.1 billion, net interest income rose 14% and reported operating expenses fell 2% to $14.0 billion. The year-ago quarter carried a Banamex-related goodwill impairment, so the EPS jump overstates the underlying change, but revenue growing faster than expenses is real. The cost is in credit: the provision was $2.6 billion, including $2.2 billion of net credit losses and a $369 million net reserve build. Citi still returned $4.1 billion to shareholders with its CET1 ratio at 12.8%.",
+        {
+          "h": "Wells Fargo and Bank of America"
+        },
+        "Wells Fargo earned $5.95 billion, or $1.87 per diluted share, up from $1.66, on total revenue of $21.87 billion against $21.44 billion. EPS grew far faster than revenue, a reminder that share count and cost discipline are doing much of the work. Bank of America went the other way on the bottom line: revenue rose to $29.96 billion from $29.04 billion, but net income fell to $6.93 billion from $8.33 billion, and diluted EPS to $0.91 from $1.04, after a $1.2 billion charge for Bank Secrecy Act-related civil money penalties.",
+        {
+          "h": "Fee businesses and the industrial read"
+        },
+        "State Street's revenue rose to $4.00 billion from $3.55 billion and diluted EPS to $3.69 from $2.78. BlackRock's revenue rose to $7.75 billion from $6.51 billion, with GAAP diluted EPS of $10.57 versus $8.43. Outside finance, Fastenal's net sales rose to $2.46 billion from $2.13 billion, a constructive signal for U.S. industrial demand.",
+        {
+          "h": "Rates backdrop"
+        },
+        "The Fed's H.15 release shows the 10-year Treasury yield at 5.21% on October 13, down from 5.28% on October 7, and the 30-year at 5.56% from 5.67%. The 2-year held at 4.79% and the 3-month constant-maturity yield edged up to 4.26%, well above the 3.88% effective federal funds rate. The long end has eased while the front end has not, which keeps pressure on bank funding costs even as longer-dated borrowing rates get some relief.",
+        "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27–28."
+      ],
+      "sources": [
+        {
+          "name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm"
+        },
+        {
+          "name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
+        },
+        {
+          "name": "Bank of America 8-K, Exhibit 99.3 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm"
+        },
+        {
+          "name": "State Street 8-K, Exhibit 99.2 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/exhibit992-3q26earningsrel.htm"
+        },
+        {
+          "name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+        },
+        {
+          "name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm"
+        },
+        {
+          "name": "Federal Reserve, H.15 Selected Interest Rates",
+          "url": "https://federalreserve.gov/releases/h15/"
+        }
+      ],
+      "tickers": [
+        "NYSE:C",
+        "NYSE:WFC",
+        "NYSE:BAC",
+        "NYSE:STT",
+        "NYSE:BLK",
+        "NASDAQ:FAST"
+      ]
+    },
     {
       "id": "2026-10-14-q3-financials-fees",
       "time": "2026-10-14T20:07:09Z",
