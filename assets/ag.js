@@ -150,7 +150,7 @@ const FALLBACK_POSTS=[
 const KEYS={debt:/debt|treasur|t-bill|bills?\b|yield|bond|rates?\b|fed\b|fomc|sofr|ois|curve|credit|fiscal|deficit|money.market|2008/i,equities:/equit|stock|earning|eps|s&p|nasdaq|\bai\b|capex|sector|valuation|m&a|ipo|watchlist/i};
 const topicOf=t=>KEYS.debt.test(t)?"debt":KEYS.equities.test(t)?"equities":"macro";
 const LABEL={debt:"Debt & Rates",equities:"Equities",macro:"Macro"};
-const TAG2TOPIC={RATES:"debt",DEBT:"debt",FED:"debt",EQUITIES:"equities",EARNINGS:"equities",MACRO:"macro",COMMODITIES:"macro",FX:"macro"};
+const TAG2TOPIC={RATES:"debt",DEBT:"debt",FED:"debt",CREDIT:"debt",EQUITIES:"equities",EARNINGS:"equities",DEALS:"equities",IPO:"equities",CRYPTO:"equities",MACRO:"macro",COMMODITIES:"macro",ENERGY:"macro",FX:"macro",GLOBAL:"macro",HOUSING:"macro"};
 let POSTS=FALLBACK_POSTS.map(p=>({kind:"newsletter",title:p.title,desc:p.desc,link:p.link,date:p.date,img:p.img,topic:topicOf(p.title+" "+p.desc)}));
 let NOTES=[];
 function parseRSS(xml){

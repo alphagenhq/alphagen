@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "6"  # asset version
+V = "7"  # asset version
 
 def load(name):
     try:
@@ -427,7 +427,7 @@ page("index.html", "/", None, "AlphaGen Research: the AlphaGen Wire, big-mover t
 # ---------- wire ----------
 page("wire.html", "/wire", "The Wire", "The AlphaGen Wire: market news with AlphaGen's take, built from official releases and filings, updated every few minutes.", "wire",
      phead("AlphaGen Wire", "Market news, our take.", "New pieces every few minutes through the trading day. Each one is built from an official release or filing, and every figure links to its source.") +
-     f'''<section class="flush"><div class="wrap split2"><div>{wire_filters("full-wire", ["RATES","DEBT","FED","MACRO","EQUITIES","EARNINGS","COMMODITIES","FX"], True)}
+     f'''<section class="flush"><div class="wrap split2"><div>{wire_filters("full-wire", ["RATES","FED","CREDIT","DEBT","MACRO","EQUITIES","EARNINGS","DEALS","IPO","GLOBAL","HOUSING","ENERGY","COMMODITIES","FX","CRYPTO"], True)}
 <div class="card wire"><div class="wire-head"><span class="live">Live wire</span><span data-wire-updated>Updating</span></div><div class="wire-list full" id="full-wire" data-wire data-limit="300"></div></div></div>
 <div style="display:grid;gap:20px;align-content:start;position:sticky;top:90px">
 <div class="card"><div class="card-h"><span>How the Wire works</span></div><p style="margin:0 0 10px;color:var(--steel)">Every piece is built from a primary source: the Federal Reserve, U.S. Treasury, BLS, BEA, EIA, or a company's SEC filing. Each one links to the release it came from.</p><p style="margin:0;color:var(--steel)">Pieces publish every few minutes on weekdays from 6 a.m. to 9 p.m. ET, with weekend updates. <a href="/methodology" style="color:var(--signal-2)">Methodology →</a></p></div>
