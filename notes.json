@@ -1,6 +1,53 @@
 {
-  "updated": "2026-10-15T01:24:39Z",
+  "updated": "2026-10-15T11:14:05Z",
   "items": [
+    {
+      "id": "2026-10-15-beige-book-energy-vs-demand",
+      "time": "2026-10-15T11:14:05Z",
+      "tag": "FED",
+      "title": "Beige Book: the oil shock is everywhere, demand is not",
+      "dek": "Every District reported higher oil prices feeding costs, while consumer spending was flat and growth mostly slight. That mix shapes the pace of the Fed's tightening.",
+      "key_points": [
+        "Two of 12 Districts reported moderate growth, three modest, four slight and three no significant change, per the October Beige Book (information through Oct. 5).",
+        "\"Higher oil prices permeated all District reports\"; four Districts said price increases accelerated, three called price growth robust and eight moderate.",
+        "Most Districts saw little or no change in consumer spending, and over half said it was driven by high-income households.",
+        "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%–4%, but hikes need not come at consecutive meetings.",
+        "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%–4.50%."
+      ],
+      "body": [
+        "The Fed's October Beige Book, compiled by the Philadelphia Fed from information collected on or before Oct. 5, describes an economy that is barely growing while its cost base is rising. Two of the 12 Districts reported moderate growth, three modest growth, four slight growth and three no significant change.",
+        {
+          "h": "Energy is everywhere"
+        },
+        "The prices section opens bluntly: \"Higher oil prices permeated all District reports.\" Four Districts said the pace of price increases picked up since the prior report, three described overall price growth as robust and eight as moderate. Contacts flagged diesel costs and fuel surcharges moving through supply chains, along with continued pressure from other commodities, tariffs and insurance, and firms in several Districts expect prices to rise further as contracts expire and hedges are renegotiated.",
+        {
+          "h": "Demand is not keeping up"
+        },
+        "The demand side is the counterweight. Most Districts reported little or no change in consumer spending, and over half said spending was driven by high-income households. Consumer-facing firms reported tighter margins as price-sensitive customers resist increases. Labor market conditions were little changed, labor supply was generally adequate, and five Districts said some firms trimmed staffing through attrition or delayed hiring after investing in AI.",
+        {
+          "h": "What the Fed is weighing"
+        },
+        "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%–4.50%.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27–28 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve, Beige Book, October 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
+        },
+        {
+          "name": "Federal Reserve, Governor Waller speech, Oct. 8, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
+        },
+        {
+          "name": "PNC Financial Services Group, Q3 2026 earnings release",
+          "url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
+        }
+      ]
+    },
     {
       "id": "2026-10-14-fannie-forecast-higher-for-longer",
       "time": "2026-10-15T01:24:39Z",

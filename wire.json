@@ -1,6 +1,121 @@
 {
-  "updated": "2026-10-15T01:24:39Z",
+  "updated": "2026-10-15T11:14:05Z",
   "items": [
+    {
+      "id": "2026-10-15-tsmc-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:TSM",
+      "headline": "TSMC Q3 revenue up 50.9% to NT$1.49T; Q4 guided to $52.3B–$54.3B",
+      "take": "TSMC reported third-quarter revenue of NT$1,494.24 billion (US$46.72 billion), up 50.9% from a year earlier, with net income and diluted EPS both up 68.7% to NT$763.06 billion and NT$29.43 (US$4.60 per ADR unit); gross margin was 66.4% and 3nm and 5nm made up 33% and 28% of wafer revenue. It guided fourth-quarter revenue to US$52.3 billion to US$54.3 billion with a 65%–67% gross margin. The guide's midpoint implies roughly 14% sequential growth in dollar terms, the clearest read yet that leading-edge demand, including the 2nm ramp, is still accelerating.",
+      "source_name": "TSMC 3Q26 earnings release, Form 6-K (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "time": "2026-10-15T11:16:05Z"
+    },
+    {
+      "id": "2026-10-15-beige-book-national",
+      "tag": "FED",
+      "headline": "Beige Book: 'Higher oil prices permeated all District reports'",
+      "take": "The Fed's October Beige Book, based on information collected through Oct. 5, says two of 12 Districts reported moderate growth, three modest, four slight and three no significant change; four Districts said the pace of price increases picked up, three called price growth robust and eight moderate. Labor markets were little changed and most Districts saw flat or slightly lower consumer spending, with over half noting it was driven by high-income households. Ahead of the Oct. 27–28 FOMC, the mix of soft demand and broadening energy pass-through is the stagflation-tinged picture the committee has to weigh.",
+      "source_name": "Federal Reserve, Beige Book, October 2026",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
+      "time": "2026-10-15T11:20:05Z"
+    },
+    {
+      "id": "2026-10-15-pnc-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:PNC",
+      "headline": "PNC Q3 EPS rises to $4.97 as net interest income climbs 15%",
+      "take": "PNC earned $2.10 billion, or $4.97 a diluted share, in the third quarter versus $1.82 billion and $4.35 a year earlier; adjusted EPS was $5.09 excluding FirstBank integration costs and net significant items. Revenue rose 11% from a year earlier to $6.56 billion on net interest income of $4.21 billion, up 15%, while net loan charge-offs rose to $257 million from $179 million. Spread income is doing the work as fee revenue cooled from the second quarter, and the release's own planning assumption of two more Fed hikes suggests that tailwind has further to run.",
+      "source_name": "PNC Financial Services Group, Q3 2026 earnings release",
+      "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted",
+      "time": "2026-10-15T11:25:05Z"
+    },
+    {
+      "id": "2026-10-15-usb-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:USB",
+      "headline": "U.S. Bancorp Q3 EPS rises to $1.34 on 13% noninterest income growth",
+      "take": "U.S. Bancorp's third-quarter net income rose to $2.20 billion, or $1.34 a diluted share, from $2.00 billion and $1.22, on taxable-equivalent net revenue of $7.97 billion versus $7.33 billion. Noninterest income rose 13.1% to $3.48 billion and net interest income 5.6% to $4.49 billion, while the efficiency ratio improved to 55.9% from 57.2%. Fee growth outpacing spread income is the notable split here, though no buybacks in the quarter shows capital is still being conserved.",
+      "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
+      "time": "2026-10-15T11:30:05Z"
+    },
+    {
+      "id": "2026-10-15-bny-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:BK",
+      "headline": "BNY Q3 EPS rises 24% to $2.34; custody and administration assets hit $63.4T",
+      "take": "BNY reported third-quarter revenue of $5.68 billion, up 12%, and diluted EPS of $2.34 versus $1.88, with fee revenue up 12% to $4.08 billion and net interest income up 15% to $1.42 billion. Assets under custody and/or administration reached $63.4 trillion, and the bank returned $1.4 billion to shareholders. A 38.5% pre-tax margin and 29.0% return on tangible common equity show operating leverage in the custody model, extending the pattern State Street showed a day earlier.",
+      "source_name": "BNY 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001390777/000139077726000104/ex991_earningsreleasex3q26.htm",
+      "time": "2026-10-15T11:34:05Z"
+    },
+    {
+      "id": "2026-10-15-usb-credit-card-provision",
+      "tag": "CREDIT",
+      "ticker": "NYSE:USB",
+      "headline": "U.S. Bancorp provision rises to $654M, including $135M for an acquired card book",
+      "take": "U.S. Bancorp's third-quarter provision for credit losses was $654 million versus $571 million a year earlier, including a $135 million initial provision tied to loans acquired in its small business credit card portfolio purchase. The net charge-off ratio improved to 0.51% from 0.56%. Stripping out the purchase accounting, underlying loss content looks stable rather than deteriorating, which matters more for credit sentiment than the headline provision.",
+      "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
+      "time": "2026-10-15T11:38:05Z"
+    },
+    {
+      "id": "2026-10-15-waller-sep-signal",
+      "tag": "FED",
+      "headline": "Waller: policy to focus on the inflation side 'for at least the near term'",
+      "take": "In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, and that 16 of the 18 participants who submitted dots anticipated at least one more hike; he said the hikes do not need to come at consecutive meetings. He cited a 3% 12-month core PCE inflation rate. The framing keeps an October move live but signals the committee would rather pace tightening than pre-commit, which leaves incoming data such as the Beige Book's energy pass-through doing the deciding.",
+      "source_name": "Federal Reserve, Governor Waller speech, Oct. 8, 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+      "time": "2026-10-15T11:43:05Z"
+    },
+    {
+      "id": "2026-10-15-abs-jobs-sep",
+      "tag": "GLOBAL",
+      "headline": "Australia's jobless rate at 4.7% in September as employment falls 39,300",
+      "take": "Australia's seasonally adjusted unemployment rate rose 0.1 point on unrounded estimates to 4.7% in September, employment fell by 39,300, and the participation rate slipped to 66.8% from 67.0%, according to the Australian Bureau of Statistics. A falling job count alongside lower participation points to genuine cooling rather than a surge in job seekers, which complicates any tightening bias from the Reserve Bank of Australia.",
+      "source_name": "Australian Bureau of Statistics, Labour Force, Australia, September 2026",
+      "source_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release",
+      "time": "2026-10-15T11:48:05Z"
+    },
+    {
+      "id": "2026-10-15-ericsson-q3",
+      "tag": "EARNINGS",
+      "ticker": "NASDAQ:ERIC",
+      "headline": "Ericsson Q3 organic sales up 7%; flags component costs as a 2027 margin headwind",
+      "take": "Ericsson reported third-quarter net sales of SEK 59.5 billion versus SEK 56.2 billion, with organic growth of 7% driven by Networks, and diluted EPS of SEK 1.77 versus SEK 3.33, which included a SEK 1.72 per share divestment gain. Adjusted gross margin was 47.7% versus 48.1%, and the company said component costs are a headwind to gross margin next year. Organic growth is back, but the warning on input costs suggests the margin story will be harder to sustain in 2027 than the sales story.",
+      "source_name": "Ericsson Q3 2026 report (company release via PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/ericsson-reports-third-quarter-results-2026-302909534.html",
+      "time": "2026-10-15T11:52:05Z"
+    },
+    {
+      "id": "2026-10-09-scf-2025",
+      "tag": "MACRO",
+      "headline": "Fed survey: real median family net worth rose 2% from 2022 to $215,900",
+      "take": "The Fed's 2025 Survey of Consumer Finances found real median net worth rose 2% between 2022 and 2025 to $215,900 and real mean net worth 7% to $1.24 million, while real median family income rose 7% to $82,200 and the real mean fell 6%. The share of families with debt payments above 40% of income rose to 8.6% from 6.5%, a level last seen in the 2013 survey. A rising share of heavily burdened borrowers alongside flat median wealth gives the Fed a more fragile household backdrop to tighten into than the averages suggest.",
+      "source_name": "Federal Reserve Board, 2025 Survey of Consumer Finances release",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "time": "2026-10-15T11:56:05Z"
+    },
+    {
+      "id": "2026-10-01-sec-crypto-custody-proposal",
+      "tag": "CRYPTO",
+      "headline": "SEC proposes crypto custody framework for advisers and funds, including self-custody",
+      "take": "The SEC proposed a tailored framework for how registered investment advisers and regulated funds can custody crypto assets, including allowing self-custody in certain circumstances and letting state trust companies serve as custodians; comments are due 60 days after Federal Register publication. Chairman Atkins said the plan would 'provide a clear regulatory framework for the custody of crypto assets.' Clear custody rules are a precondition for wider adviser and fund allocations, making this a structural rather than headline-driven development for crypto access.",
+      "source_name": "SEC press release 2026-100",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "time": "2026-10-15T12:01:05Z"
+    },
+    {
+      "id": "2026-10-14-rklb-neutron-2027",
+      "tag": "EQUITIES",
+      "ticker": "NASDAQ:RKLB",
+      "headline": "Rocket Lab now expects Neutron's inaugural launch in 2027",
+      "take": "Rocket Lab said after the close on Oct. 14 that the inaugural launch of its Neutron rocket is now expected to occur in 2027 under an adjusted schedule. The release did not give a reason or quantify any financial impact, pointing instead to an investor presentation. The slip pushes out one of the company's most closely watched development milestones, and the lack of a stated reason puts the burden on the accompanying investor presentation.",
+      "source_name": "Rocket Lab investor relations release, Oct. 14, 2026",
+      "source_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts",
+      "time": "2026-10-15T12:06:05Z"
+    },
     {
       "id": "2026-10-13-jnj-q3",
       "tag": "EARNINGS",
