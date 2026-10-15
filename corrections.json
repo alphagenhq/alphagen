@@ -160,6 +160,20 @@
       "id": "2026-10-14-eia-steo-oil-supply",
       "action": "corrected",
       "detail": "Aligned the price-outlook paraphrase with EIA's wording, which ties elevated prices to Middle East flow constraints and a gradual decline to inventory rebuilding."
+    },
+    {
+      "time": "2026-10-15T12:54:47Z",
+      "file": "wire.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "removed",
+      "detail": "Removed: the only source is a TheTechOutlook repost of ICON's press release, a news outlet rather than a primary source."
+    },
+    {
+      "time": "2026-10-15T12:54:47Z",
+      "file": "deals.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "removed",
+      "detail": "Removed: the only source is a TheTechOutlook repost of ICON's press release, a news outlet rather than a primary source."
     }
   ]
 }

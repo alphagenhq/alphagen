@@ -97,15 +97,6 @@
    "time": "2026-10-15T11:45:00Z"
   },
   {
-   "id": "2026-10-13-icon-series-d",
-   "tag": "DEALS",
-   "headline": "ICON raises $200M Series D co-led by Baillie Gifford and BlackRock funds",
-   "take": "ICON raised a $200 million Series D co-led by Baillie Gifford and funds managed by BlackRock, joined by investors including Norwest and Tiger Global; no valuation was disclosed. Proceeds will start production of its Titan system at its Austin factory and fund a large-scale R&D facility there. Crossover-style backers at this stage signal a push to industrialize robotic construction rather than keep it in pilot mode.",
-   "source_name": "ICON press release (GlobeNewswire, via TheTechOutlook)",
-   "source_url": "https://www.thetechoutlook.com/press-release/icon-raises-200m-series-d-to-transform-how-the-world-builds/",
-   "time": "2026-10-15T12:01:00Z"
-  },
-  {
    "id": "2026-10-13-alaunos-velaris",
    "tag": "DEALS",
    "ticker": "NASDAQ:TCRT",
@@ -186,7 +177,8 @@
    "take": "In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, and that 16 of the 18 participants who submitted dots anticipated at least one more hike; he said the hikes do not need to come at consecutive meetings. He cited a 3% 12-month core PCE inflation rate. The framing keeps an October move live but signals the committee would rather pace tightening than pre-commit, which leaves incoming data such as the Beige Book's energy pass-through doing the deciding.",
    "source_name": "Federal Reserve, Governor Waller speech, Oct. 8, 2026",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-   "time": "2026-10-15T11:43:05Z"
+   "time": "2026-10-15T11:43:05Z",
+   "checked": "2026-10-15T12:54:47Z"
   },
   {
    "id": "2026-10-15-abs-jobs-sep",
