@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-14T22:29:14Z",
+  "updated": "2026-10-15T00:38:13Z",
   "items": [
+    {
+      "id": "2026-10-12-steris-xodus-medical",
+      "time": "2026-10-15T00:41:00Z",
+      "type": "M&A",
+      "headline": "STERIS to buy surgical safety products maker Xodus Medical for $2.1B cash",
+      "parties": "Acquirer: STERIS Corporation (subsidiary of STERIS plc); Target: Xodus Medical, Inc. and certain related affiliates; Sellers: Craig E. Kaforey and Mark A. Kaforey",
+      "value": 2.1,
+      "value_text": "$2.1B cash plus up to $150M earnout",
+      "status": "Pending",
+      "announced": "2026-10-12",
+      "sector": "Healthcare / Medical Consumables",
+      "take": "STERIS signed a purchase agreement to acquire Xodus Medical for $2.1 billion in cash at closing, plus up to $150 million in earnouts tied to 2028 performance, financed primarily with debt and backed by a bridge commitment of up to $2.0 billion from JPMorgan and Goldman Sachs. The deal deepens STERIS's push into recurring surgical consumables and is expected to close by December 31, 2026, subject to regulatory approvals.",
+      "source_name": "STERIS plc 8-K, Item 1.01 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001757898/000119312526420487/d165776d8k.htm",
+      "tickers": [
+        "NYSE:STE"
+      ]
+    },
+    {
+      "id": "2026-10-14-iambic-ipo-pricing",
+      "time": "2026-10-15T00:48:00Z",
+      "type": "IPO",
+      "headline": "Iambic Therapeutics prices $150M Nasdaq IPO at $16 a share",
+      "parties": "Issuer: Iambic Therapeutics, Inc.; Joint book-runners: J.P. Morgan, Jefferies, BofA Securities, Citigroup",
+      "value": 0.15,
+      "value_text": "$150M IPO (9,375,000 shares at $16.00)",
+      "status": "Priced",
+      "announced": "2026-10-14",
+      "sector": "Biotechnology",
+      "take": "Iambic priced 9,375,000 shares at $16.00 for gross proceeds of $150.0 million, with trading on the Nasdaq Global Select Market under IAM expected to begin October 15 and an underwriter option for 1,406,250 more shares. The raise gives the clinical-stage company a public-market currency and fresh capital for its pipeline.",
+      "source_name": "Iambic press release (Business Wire, via Stockhouse)",
+      "source_url": "https://stockhouse.com/news/press-releases/2026/10/14/iambic-announces-pricing-of-initial-public-offering",
+      "tickers": [
+        "NASDAQ:IAM"
+      ]
+    },
+    {
+      "id": "2026-10-14-awlc-notes-2032",
+      "time": "2026-10-15T00:56:00Z",
+      "type": "Debt",
+      "headline": "Atlas Warehouse Lending prices $750M of 6.25% fixed-to-floating notes due 2032",
+      "parties": "Issuer: Atlas Warehouse Lending Company, L.P. (subsidiary of WHCO Intermediate Holdings L.P.)",
+      "value": 0.75,
+      "value_text": "$750M senior notes",
+      "status": "Priced",
+      "announced": "2026-10-14",
+      "sector": "Financials / Warehouse Lending",
+      "take": "AWLC priced $750 million of senior notes due November 1, 2032, paying 6.250% fixed until November 2031 and then Compounded SOFR plus 2.534%, in a Rule 144A offering expected to close October 21. Proceeds fund assets and general corporate purposes, including possible debt repayment, signaling continued institutional appetite for warehouse-lending platforms.",
+      "source_name": "AWLC press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381196/0/en/awlc-announces-pricing-of-750-million-of-6-250-fixed-to-floating-rate-senior-notes-due-2032.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-ssr-mining-roxmore",
+      "time": "2026-10-15T01:03:00Z",
+      "type": "M&A",
+      "headline": "SSR Mining to buy Roxmore Resources for C$6.75 a share, about $464M equity value",
+      "parties": "Acquirer: SSR Mining Inc.; Target: Roxmore Resources Inc.",
+      "value": 0.464,
+      "value_text": "About $464M equity value (C$6.75/share cash plus SpinCo shares)",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Mining / Gold",
+      "take": "SSR Mining agreed to pay C$6.75 per Roxmore share in cash, a fully diluted equity value of about $464 million and enterprise value of $392 million excluding SpinCo, with Roxmore holders also receiving shares in a spun-out exploration company. The all-cash deal adds the Converse gold project to SSR's development pipeline and is expected to close in Q4 2026.",
+      "source_name": "SSR Mining 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000921638/000110465926115311/tm2627484d1_ex99-1.htm",
+      "tickers": [
+        "NASDAQ:SSRM",
+        "TSX:SSRM",
+        "TSX:RM"
+      ]
+    },
+    {
+      "id": "2026-10-14-payward-saldo-bank",
+      "time": "2026-10-15T01:11:00Z",
+      "type": "M&A",
+      "headline": "Payward signs deal to buy EU-licensed Saldo Bank; terms undisclosed",
+      "parties": "Acquirer: Payward; Target: Saldo Bank UAB (subsidiary of Saldo Finance Oy)",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Pending",
+      "announced": "2026-10-14",
+      "sector": "Financials / Crypto & Banking",
+      "take": "Payward signed a definitive agreement to acquire Saldo Bank, a Lithuania-licensed digital bank with passporting across five European markets, with closing expected in 2027 subject to regulatory approvals. A full EU banking license would let Payward, whose companies include Kraken, add deposit interest, lending and banking-as-a-service products in Europe.",
+      "source_name": "Payward press release",
+      "source_url": "https://www.payward.com/press-release/payward-acquires-saldo-bank",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-bg-foods-mccall-farms",
+      "time": "2026-10-15T01:18:00Z",
+      "type": "M&A",
+      "headline": "B&G Foods sells B&M and Joan of Arc bean brands to McCall Farms; terms undisclosed",
+      "parties": "Seller: B&G Foods, Inc.; Acquirer: McCall Farms, Inc.",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Completed",
+      "announced": "2026-10-13",
+      "sector": "Consumer Staples / Packaged Foods",
+      "take": "B&G Foods said it has sold the B&M and Joan of Arc canned bean brands to McCall Farms and intends to use the net proceeds to repay long-term debt. The divestiture continues B&G's effort to simplify its portfolio around core brands and strengthen its balance sheet.",
+      "source_name": "B&G Foods 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001278027/000110465926115490/tm2627480d1_ex99-1.htm",
+      "tickers": [
+        "NYSE:BGS"
+      ]
+    },
+    {
+      "id": "2026-10-14-faraday-ffr-robotics",
+      "time": "2026-10-15T01:26:00Z",
+      "type": "M&A",
+      "headline": "Faraday Future to sell robotics unit to FF EAI Robotics (FFR) in ~$200M stock deal",
+      "parties": "Acquirer: FF EAI Robotics Ecosystem Inc.; Seller: Faraday Future Intelligent Electric Inc.",
+      "value": 0.2,
+      "value_text": "About $200M (all-stock valuation)",
+      "status": "Pending",
+      "announced": "2026-10-14",
+      "sector": "Industrials / Robotics",
+      "take": "Faraday Future signed definitive agreements to sell its robotics business to FFR for newly issued FFR shares at $2.246 each, valuing the business at about $200 million, after which Faraday Future would hold about 65.7% of FFR on a fully diluted basis. The related-party deal, approved by special committees on both sides, is expected to close by the end of October 2026.",
+      "source_name": "Faraday Future 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001805521/000121390026109222/ea030838701ex99-1.htm",
+      "tickers": [
+        "NASDAQ:FFAI",
+        "NASDAQ:FFR"
+      ]
+    },
+    {
+      "id": "2026-10-14-amaero-us-ipo",
+      "time": "2026-10-15T01:33:00Z",
+      "type": "IPO",
+      "headline": "ASX-listed Amaero prices $20M U.S. IPO on Nasdaq at $4.25 a share",
+      "parties": "Issuer: Amaero Inc.; Book-runners: Baird (lead), Lake Street",
+      "value": 0.02,
+      "value_text": "About $20.0M IPO (4,705,883 shares at $4.25)",
+      "status": "Priced",
+      "announced": "2026-10-14",
+      "sector": "Industrials / Advanced Manufacturing",
+      "take": "Amaero priced 4,705,883 shares at $4.25 for roughly $20.0 million in gross proceeds, with Nasdaq Capital Market trading under AMRO expected from October 15 alongside its ASX listing. Up to about $10.0 million is earmarked for capital equipment over the next 12 months.",
+      "source_name": "Amaero press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381163/0/en/amaero-inc-announces-pricing-of-u-s-initial-public-offering.html",
+      "tickers": [
+        "NASDAQ:AMRO",
+        "ASX:3DA"
+      ]
+    },
     {
       "id": "2026-10-14-mubadala-clear-channel-close",
       "time": "2026-10-14T22:36:00Z",
