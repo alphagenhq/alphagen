@@ -1,6 +1,59 @@
 {
- "updated": "2026-10-15T12:11:06Z",
+ "updated": "2026-10-15T13:00:00Z",
  "items": [
+  {
+   "id": "2026-10-15-ppi-pipeline",
+   "time": "2026-10-15T13:00:00Z",
+   "tag": "MACRO",
+   "title": "September PPI: the energy shock moves up the pipeline",
+   "dek": "Producer prices posted their biggest monthly gain since March 2022, and upstream costs are rising far faster than consumer core inflation.",
+   "key_points": [
+    "Final demand PPI rose 1.3% in September, seasonally adjusted, after 0.5% in August, and 6.3% over 12 months unadjusted.",
+    "Energy rose 10.8%; gasoline, up 20.3%, accounted for half of the 2.6% rise in goods prices.",
+    "Final demand less foods, energy and trade services rose 0.5% on the month and 5.0% on the year, up from 4.8% in August.",
+    "Unprocessed intermediate goods prices rose 21.5% over 12 months; processed goods rose 14.1%.",
+    "Core CPI rose 2.6% over the year to September, and China's PPI rose 5.0% against 0.9% consumer inflation."
+   ],
+   "body": [
+    "The Bureau of Labor Statistics' September Producer Price Index confirms that the energy shock visible in Wednesday's CPI is at least as large one step up the supply chain. Final demand prices rose 1.3% in the month, seasonally adjusted, the largest advance since a 1.7% gain in March 2022, after increases of 0.5% in August and 0.2% in July. On an unadjusted basis, final demand prices were up 6.3% from a year earlier.",
+    {
+     "h": "Energy did the heavy lifting"
+    },
+    "Goods prices rose 2.6%, and the energy index jumped 10.8%. BLS traces half of the goods increase to gasoline, which rose 20.3%. Food prices rose 1.2%, while goods excluding food and energy rose a more modest 0.3%. On the services side, the 0.8% gain came largely from a 1.4% rise in trade margins, while transportation and warehousing prices rose 3.4% as fuel costs moved into freight.",
+    {
+     "h": "Further up the pipeline"
+    },
+    "The intermediate-demand indexes show how much cost pressure is still working its way through. Processed goods for intermediate demand rose 2.5% in September and 14.1% over 12 months. Unprocessed goods rose 8.4% in the month and 21.5% over the year. Intermediate services rose 0.9% and 6.3%.",
+    "BLS's narrower core measure, final demand less foods, energy and trade services, rose 0.5% in September and 5.0% over 12 months, up from 4.8% in August.",
+    {
+     "h": "The gap with consumer prices"
+    },
+    "Compare that with the consumer side. BLS reported Wednesday that the CPI rose 3.7% over the 12 months ending September, and the index excluding food and energy rose 2.6%. Producer-level core inflation is running about twice the consumer-level core rate. That gap is either being absorbed in margins or has yet to reach shelves.",
+    "The same pattern shows up abroad. China's National Bureau of Statistics reported that producer prices rose 5.0% from a year earlier in September, up from 3.8% in August, while consumer prices rose just 0.9%.",
+    {
+     "h": "AlphaGen read"
+    },
+    "Markets are not yet pricing in much pass-through. The 10-year breakeven inflation rate on FRED stood at 2.35% on October 14. If trade margins keep widening and transport costs keep climbing, the pass-through from producer to consumer prices will matter more for the Fed's next steps than any single month's headline. The next PPI release is scheduled for November 13."
+   ],
+   "sources": [
+    {
+     "name": "BLS, Producer Price Index news release (September 2026)",
+     "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+    },
+    {
+     "name": "BLS, Consumer Price Index news release (September 2026)",
+     "url": "https://www.bls.gov/news.release/pdf/cpi.pdf"
+    },
+    {
+     "name": "National Bureau of Statistics of China, PPI release (September 2026)",
+     "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html"
+    },
+    {
+     "name": "FRED, 10-Year Breakeven Inflation Rate (T10YIE)",
+     "url": "https://fred.stlouisfed.org/series/T10YIE"
+    }
+   ]
+  },
   {
    "id": "2026-10-15-morning-brief",
    "time": "2026-10-15T12:11:06Z",

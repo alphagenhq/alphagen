@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-15T12:34:44Z",
+ "updated": "2026-10-15T13:00:00Z",
  "items": [
+  {
+   "id": "2026-10-15-ppi-sep",
+   "time": "2026-10-15T13:00:00Z",
+   "tag": "MACRO",
+   "headline": "September PPI jumps 1.3%, the largest monthly gain since March 2022",
+   "take": "BLS says the Producer Price Index for final demand rose 1.3% in September, seasonally adjusted, after a 0.5% gain in August, and was up 6.3% from a year earlier on an unadjusted basis. Final demand energy jumped 10.8%, and gasoline, up 20.3%, accounted for half of the 2.6% rise in goods prices. The energy shock is now as visible at the producer level as it was in Wednesday's CPI, which makes a quick fade in headline inflation harder to count on.",
+   "source_name": "BLS, Producer Price Index news release (September 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+  },
+  {
+   "id": "2026-10-15-ppi-core-pipeline",
+   "time": "2026-10-15T13:04:00Z",
+   "tag": "MACRO",
+   "headline": "PPI ex food, energy and trade up 5.0% on the year; raw inputs up 21.5%",
+   "take": "Final demand prices less foods, energy and trade services rose 0.5% in September and 5.0% over 12 months, up from 4.8% in August. Further back in the pipeline, intermediate processed goods rose 2.5% on the month and 14.1% on the year, and unprocessed goods 8.4% and 21.5%. With upstream costs rising this fast against 2.6% core CPI, the open question is how long margins can keep absorbing the gap.",
+   "source_name": "BLS, Producer Price Index news release (September 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+  },
+  {
+   "id": "2026-10-15-china-ppi-cpi-sep",
+   "time": "2026-10-15T13:08:00Z",
+   "tag": "GLOBAL",
+   "headline": "China's producer prices rise 5.0% on the year in September; CPI up 0.9%",
+   "take": "China's National Bureau of Statistics says producer prices rose 5.0% from a year earlier in September and 1.2% from August, versus 3.8% and 0.4% in August, with petroleum extraction prices up 14.5% on the month. Consumer prices rose 0.9% year on year, with core CPI at 1.0%, food down 1.7% and transport fuel up 14.9%. Factory-gate inflation running more than five times consumer inflation points to a margin squeeze for Chinese manufacturers rather than strong domestic demand.",
+   "source_name": "National Bureau of Statistics of China, PPI release (September 2026)",
+   "source_url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html"
+  },
+  {
+   "id": "2026-10-15-ea-industrial-production-aug",
+   "time": "2026-10-15T13:12:00Z",
+   "tag": "GLOBAL",
+   "headline": "Euro area industrial output falls 0.5% in August; July revised to a 0.3% drop",
+   "take": "Eurostat says euro area industrial production fell 0.5% in August from July and 1.1% from a year earlier, with July's monthly change revised to -0.3% from -0.1%. Non-durable consumer goods fell 2.7% and intermediate goods 0.8%, while capital goods rose 0.4%. Two straight monthly declines, led by intermediate goods, suggest higher energy costs are weighing on European industry.",
+   "source_name": "Eurostat, Euro indicators: Industrial production (August 2026)",
+   "source_url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap"
+  },
   {
    "id": "2026-10-15-ccc-gtcr-elliott-take-private",
    "tag": "DEALS",
