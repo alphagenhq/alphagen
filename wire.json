@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-15T21:55:00Z",
+ "updated": "2026-10-15T22:40:00Z",
  "items": [
+  {
+   "id": "2026-10-15-wire-jio-rhp",
+   "time": "2026-10-15T22:43:00Z",
+   "tag": "IPO",
+   "headline": "Jio Platforms files IPO prospectus; all-primary issue of up to 270M shares",
+   "take": "Jio Platforms' red herring prospectus dated October 14 covers a fresh issue of up to 270,000,000 equity shares with no offer for sale; anchor bidding is October 19 and the public issue runs October 21-23, with listing on BSE and NSE. AlphaGen read: with no selling shareholders, the offering is a pure capital raise for the company, and the size of the syndicate signals how much global distribution is being lined up.",
+   "source_name": "Jio Platforms Red Herring Prospectus",
+   "source_url": "https://myjiostatic.cdn.jio.com/cms/assets/iv3/Red%20Herring%20Prospectus.pdf",
+   "ticker": ""
+  },
+  {
+   "id": "2026-10-15-wire-tko-svc",
+   "time": "2026-10-15T22:52:00Z",
+   "tag": "DEALS",
+   "headline": "TKO goes public with $2.0B cash bid for Service Properties Trust hotels",
+   "take": "TKO LLC said its October 7 letter of intent offers $2.0 billion in cash for SVC's hospitality portfolio, that it has had no meaningful response, and that it will put $50 million in escrow once SVC signs an NDA. AlphaGen read: it is an unsolicited, non-binding approach, so the next marker is whether SVC's board engages or discloses other bids.",
+   "source_name": "TKO LLC press release (PR Newswire)",
+   "source_url": "https://www.prnewswire.com/news-releases/tko-hotels-calls-on-service-properties-trust-to-engage-on-2-0-billion-all-cash-offer-to-acquire-hospitality-portfolio-302909178.html",
+   "ticker": "NASDAQ:SVC"
+  },
+  {
+   "id": "2026-10-15-wire-tcgx-ii",
+   "time": "2026-10-15T23:01:00Z",
+   "tag": "IPO",
+   "headline": "TCGX Acquisition Corp. II prices $100M shares-only SPAC IPO",
+   "take": "TCGX Acquisition Corp. II sold 10,000,000 Class A shares at $10.00 for $100 million, with Nasdaq trading under TCXB from October 16 and no warrants or over-allotment option. AlphaGen read: dropping warrants trims dilution for a future healthcare target and reflects a cleaner SPAC structure.",
+   "source_name": "TCGX Acquisition Corp. II press release (Business Wire)",
+   "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-tcgx-acquisition-corp-ii-announces-pricing-of-100000000-initial-public-offering",
+   "ticker": "NASDAQ:TCXB"
+  },
+  {
+   "id": "2026-10-15-wire-dsg-gradeeight",
+   "time": "2026-10-15T23:10:00Z",
+   "tag": "DEALS",
+   "headline": "DSG to buy GradeEight for about $145M ahead of its own take-private",
+   "take": "DSG's Lawson Products agreed to acquire GradeEight Holdings, with about $110 million in annual sales, for approximately $145 million, funded by revolver borrowings and cash, with closing expected in the fourth quarter. AlphaGen read: DSG keeps doing MRO bolt-ons while its going-private merger with LKCM Headwater affiliates is still pending.",
+   "source_name": "Distribution Solutions Group 8-K (SEC)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000703604/000119312526421808/d172705d8k.htm",
+   "ticker": "NASDAQ:DSGR"
+  },
   {
    "id": "2026-10-15-fhn-q3",
    "time": "2026-10-15T22:00:00Z",

@@ -1,6 +1,112 @@
 {
-  "updated": "2026-10-15T21:30:00Z",
+  "updated": "2026-10-15T22:40:00Z",
   "items": [
+    {
+      "id": "2026-10-14-jio-platforms-ipo-rhp",
+      "time": "2026-10-15T22:43:00Z",
+      "type": "IPO",
+      "headline": "Jio Platforms files RHP for IPO of up to 270M new shares; bidding opens Oct. 21",
+      "parties": "Issuer: Jio Platforms Limited",
+      "value": null,
+      "value_text": "Fresh issue of up to 270,000,000 shares (amount not stated in RHP)",
+      "status": "Filed",
+      "announced": "2026-10-14",
+      "sector": "Telecom / Digital Services",
+      "take": "Jio Platforms' red herring prospectus, dated October 14, 2026, covers a fresh issue of up to 270,000,000 equity shares with no offer for sale, anchor bidding on October 19 and a public bid window of October 21-23, with listing planned on BSE and NSE through a syndicate of 19 book-running lead managers. An all-primary structure means every rupee raised goes to the company rather than to existing holders, and the offering will test how deep Indian and global demand runs for one of the country's largest private digital platforms.",
+      "source_name": "Jio Platforms Red Herring Prospectus",
+      "source_url": "https://myjiostatic.cdn.jio.com/cms/assets/iv3/Red%20Herring%20Prospectus.pdf",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-tko-svc-hotels-offer",
+      "time": "2026-10-15T22:52:00Z",
+      "type": "M&A",
+      "headline": "TKO makes $2.0B all-cash offer for Service Properties Trust's hotel portfolio",
+      "parties": "Bidder: TKO LLC; Target: Service Properties Trust (hospitality portfolio)",
+      "value": 2.0,
+      "value_text": "$2.0B all cash (unsolicited LOI)",
+      "status": "Announced",
+      "announced": "2026-10-15",
+      "sector": "Real Estate / Lodging",
+      "take": "TKO LLC said it submitted a written letter of intent dated October 7 to buy Service Properties Trust's hospitality portfolio for $2.0 billion in cash, says it has received no meaningful response, and offered to deposit $50 million into escrow once SVC countersigns a non-disclosure agreement. The offer is a public pressure campaign rather than an agreed deal, and SVC's board has not endorsed it.",
+      "source_name": "TKO LLC press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/tko-hotels-calls-on-service-properties-trust-to-engage-on-2-0-billion-all-cash-offer-to-acquire-hospitality-portfolio-302909178.html",
+      "tickers": [
+        "NASDAQ:SVC"
+      ]
+    },
+    {
+      "id": "2026-10-15-tcgx-ii-ipo-pricing",
+      "time": "2026-10-15T23:01:00Z",
+      "type": "IPO",
+      "headline": "TCGX Acquisition Corp. II prices $100M SPAC IPO at $10 a share, no warrants",
+      "parties": "Issuer: TCGX Acquisition Corp. II; Sole book-runner: Guggenheim Securities",
+      "value": 0.1,
+      "value_text": "$100M IPO (10,000,000 shares at $10.00)",
+      "status": "Priced",
+      "announced": "2026-10-15",
+      "sector": "SPAC / Healthcare",
+      "take": "TCGX Acquisition Corp. II priced 10,000,000 Class A ordinary shares at $10.00 for $100 million in gross proceeds, with trading on the Nasdaq Capital Market under TCXB from October 16 and closing expected on or about October 19; the offering carries no warrants and no over-allotment option. The shares-only structure and a stated focus on life sciences and medtech targets set it apart from the warrant-heavy SPAC template.",
+      "source_name": "TCGX Acquisition Corp. II press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-tcgx-acquisition-corp-ii-announces-pricing-of-100000000-initial-public-offering",
+      "tickers": [
+        "NASDAQ:TCXB"
+      ]
+    },
+    {
+      "id": "2026-10-12-dsg-gradeeight",
+      "time": "2026-10-15T23:10:00Z",
+      "type": "M&A",
+      "headline": "Distribution Solutions Group to buy GradeEight Holdings for about $145M",
+      "parties": "Acquirer: Lawson Products, Inc. (Distribution Solutions Group); Target: GradeEight Holdings, LLC",
+      "value": 0.145,
+      "value_text": "About $145M",
+      "status": "Announced",
+      "announced": "2026-10-12",
+      "sector": "Industrials / MRO Distribution",
+      "take": "DSG's Lawson Products agreed on October 12 to acquire GradeEight Holdings, operator of Winzer and FastServ Supply with about $110 million in annual sales, for approximately $145 million, funded from DSG's $400 million revolver and cash with no financing condition and closing expected in the fourth quarter. The bolt-on lands while DSG itself is pending a going-private merger with LKCM Headwater affiliates, which hold about 78.5% of its stock.",
+      "source_name": "Distribution Solutions Group 8-K (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000703604/000119312526421808/d172705d8k.htm",
+      "tickers": [
+        "NASDAQ:DSGR"
+      ]
+    },
+    {
+      "id": "2026-10-15-therealreal-fortress-refi",
+      "time": "2026-10-15T23:20:00Z",
+      "type": "Debt",
+      "headline": "TheRealReal lands $150M Fortress term loan plus $25M revolver to retire 2029 notes",
+      "parties": "Borrower: The RealReal, Inc.; Agent: Fortress Credit Corp.",
+      "value": 0.175,
+      "value_text": "$150M term loan + $25M revolver",
+      "status": "Pending",
+      "announced": "2026-10-15",
+      "sector": "Consumer / E-commerce",
+      "take": "TheRealReal entered a credit agreement with Fortress Credit Corp. as agent for a $150 million senior secured term loan at adjusted Term SOFR plus 5.75% and a $25 million revolver, using the term loan and cash to redeem in full its 4.25%/8.75% PIK/cash senior secured notes due 2029; the company expects about $4 million of first-year interest savings. Swapping a 13% all-in coupon for cash-pay floating debt pushes maturities to 2033 and cleans up a key overhang on the balance sheet.",
+      "source_name": "TheRealReal 8-K and press release (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001573221/000119312526422329/d170302dex991.htm",
+      "tickers": [
+        "NASDAQ:REAL"
+      ]
+    },
+    {
+      "id": "2026-10-12-salesforce-loops",
+      "time": "2026-10-15T23:30:00Z",
+      "type": "M&A",
+      "headline": "Salesforce signs deal to acquire AI analytics platform Loops; terms undisclosed",
+      "parties": "Acquirer: Salesforce; Target: Loops",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-12",
+      "sector": "Technology / Analytics",
+      "take": "Salesforce signed a definitive agreement to acquire Loops, an AI-powered analytics platform that monitors business KPIs and explains why metrics move, with closing expected in early November in its fiscal 2027, subject to customary conditions. The tuck-in slots into Tableau and adds to Salesforce's agentic-analytics push.",
+      "source_name": "Salesforce newsroom",
+      "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
+      "tickers": [
+        "NYSE:CRM"
+      ]
+    },
     {
       "id": "2026-10-15-proofpoint-varonis",
       "time": "2026-10-15T21:33:00Z",
