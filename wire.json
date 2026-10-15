@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-15T22:40:00Z",
+ "updated": "2026-10-15T23:22:41Z",
  "items": [
+  {
+   "id": "2026-10-15-ecb-schnabel-imf-exit",
+   "time": "2026-10-15T23:25:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Schnabel to leave the Executive Board on Jan. 3, 2027 for an IMF role",
+   "take": "The ECB's Governing Council agreed with its Ethics Committee on Sept. 24 that Isabel Schnabel's planned IMF role, starting Jan. 4, 2027, raised no conflict-of-interest concerns, so no cooling-off period applies; she resigned from the ECB effective Jan. 3, 2027, according to the Council's non-rate decisions published Oct. 2. The same release shows collateral and haircut guideline changes taking effect Nov. 30. Schnabel's exit opens one of the six Executive Board seats just as euro-area policy is wrestling with an energy-driven inflation shock, making the succession a policy story as much as a personnel one.",
+   "source_name": "European Central Bank: Decisions taken by the Governing Council (2 October 2026)",
+   "source_url": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html"
+  },
+  {
+   "id": "2026-10-15-boe-mann-follow-through",
+   "time": "2026-10-15T23:30:00Z",
+   "tag": "GLOBAL",
+   "headline": "BoE's Mann: 'we need to follow-through with Bank Rate rises'",
+   "take": "Bank of England MPC member Catherine Mann, one of three members who voted to raise Bank Rate by 25 bp to 4% at the Sept. 16 meeting (the committee held at 3.75% on a 6–3 vote), said in an Oct. 1 speech that 'real financial conditions are insufficiently tight.' The September minutes project CPI inflation slightly above 4% in early 2027, versus 3.1% in August. With Greene and Pill on the same side, the hawkish minority needs only two converts to tip the Nov. 5 decision, which keeps gilt-market rate-hike risk live.",
+   "source_name": "Bank of England: Speech by Catherine L. Mann (Nomura London Macro Forum)",
+   "source_url": "https://www.bankofengland.co.uk/speech/2026/october/catherine-mann-nomura-investor-conference"
+  },
+  {
+   "id": "2026-10-15-cbo-fy2026-deficit-2t",
+   "time": "2026-10-15T23:35:00Z",
+   "tag": "DEBT",
+   "headline": "CBO pegs the FY2026 federal deficit at $2.0T, $218B wider than FY2025",
+   "take": "The Congressional Budget Office estimates the fiscal 2026 deficit at $2.0 trillion, $218 billion more than in fiscal 2025. Revenues rose an estimated $169 billion, or 3%, while outlays climbed $386 billion, or 6%, led by net interest on the debt, major benefit programs, defense and education. With spending growth running at twice the pace of receipts and interest costs among the leaders, Treasury supply pressure on the long end is unlikely to ease into fiscal 2027.",
+   "source_name": "Congressional Budget Office: Monthly Budget Review, September 2026",
+   "source_url": "https://www.cbo.gov/publication/61985"
+  },
+  {
+   "id": "2026-10-15-cftc-crypto-anprm",
+   "time": "2026-10-15T23:40:00Z",
+   "tag": "CRYPTO",
+   "headline": "CFTC seeks comment on rules for retail crypto trades and a 'crypto asset market'",
+   "take": "The CFTC issued an advance notice of proposed rulemaking on 'Regulation Crypto Asset Transactions' and 'Regulation Crypto Asset Markets,' covering retail commodity transactions in crypto assets under section 2(c)(2)(D) of the Commodity Exchange Act, including a proposed designated-contract-market subcategory called a 'crypto asset market.' Comments are due 60 days after Federal Register publication. An ANPRM is the earliest stage of rulemaking, but it signals the CFTC intends to build a dedicated venue framework for retail crypto spot-style trading rather than regulate it case by case.",
+   "source_name": "CFTC Press Release 9307-26",
+   "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26"
+  },
+  {
+   "id": "2026-10-15-boe-benjamin-repo-leverage",
+   "time": "2026-10-15T23:45:00Z",
+   "tag": "CREDIT",
+   "headline": "BoE flags gilt repo leverage; policy proposals due in early 2027",
+   "take": "Bank of England executive director Nathanaël Benjamin said 'doing nothing is not an option' on gilt repo resilience and that 'out-of-control leverage is unwelcome,' with a comprehensive update and potential policy proposals planned for early 2027. He cited Bank research estimating that more central clearing could have cut gilt repo exposures on UK dealer balance sheets by 40% to 60% during the 2020 'dash for cash.' Central clearing and tighter haircuts would raise the cost of leveraged basis trades, a risk worth watching for hedge-fund demand at gilt and, by extension, Treasury auctions.",
+   "source_name": "Bank of England: Speech by Nathanaël Benjamin (ISDA forum)",
+   "source_url": "https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum"
+  },
+  {
+   "id": "2026-10-15-boe-weekly-reserves",
+   "time": "2026-10-15T23:50:00Z",
+   "tag": "GLOBAL",
+   "headline": "BoE reserve balances slip £3.6B to £645.9B; short-term repo at £132.1B",
+   "take": "Reserve balances at the Bank of England fell to £645.9 billion in the week to Oct. 14 from £649.6 billion a week earlier, while short-term repo lending eased to £132.1 billion from £133.4 billion, per the Bank's weekly report. The loan to the Asset Purchase Facility was unchanged at £521.8 billion. Repo usage of more than £130 billion shows banks are leaning steadily on Bank facilities as quantitative tightening drains reserves.",
+   "source_name": "Bank of England Weekly Report, 14 October 2026",
+   "source_url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026"
+  },
+  {
+   "id": "2026-10-15-meta-q3-date",
+   "time": "2026-10-15T23:55:00Z",
+   "tag": "EARNINGS",
+   "headline": "Meta will report Q3 results after the close on Oct. 21",
+   "take": "Meta Platforms said it will release third-quarter 2026 results after market close on Wednesday, Oct. 21, with a conference call at 4:30 p.m. ET. Its capital-spending commentary will be an early read on how large platforms are budgeting for AI infrastructure into 2027.",
+   "source_name": "Meta Investor Relations",
+   "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx",
+   "ticker": "NASDAQ:META"
+  },
   {
    "id": "2026-10-15-wire-jio-rhp",
    "time": "2026-10-15T22:43:00Z",
