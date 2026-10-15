@@ -10,7 +10,8 @@
       "catalyst": "Bank of America reported Q3 net income of $6.9 billion, or $0.91 a share, versus $8.3 billion, or $1.04, including a $1.2 billion ($0.17 a share) charge for civil money penalties tied to Bank Secrecy Act consent orders.",
       "thesis": "Underlying revenue rose 3% and net interest income 8%, so the earnings miss is largely a one-time compliance cost. The bigger question for the stock is what the consent orders mean for expense discipline and capital return pace.",
       "source_name": "Bank of America 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-ASML",
@@ -21,7 +22,8 @@
       "catalyst": "ASML reported Q3 total net sales of €11.7 billion and net income of €5.0 billion, guided Q4 sales of €14.2 billion to €15.2 billion, and said planned 2027 and 2028 supply will not fully meet customer demand.",
       "thesis": "The read-through is that lithography capacity, not demand, is the binding constraint for advanced chipmaking. That supports the semiconductor equipment group's earnings visibility, though it also means growth depends on how fast ASML can add capacity.",
       "source_name": "ASML Q3 2026 press release, Form 6-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-BLK",
@@ -32,7 +34,8 @@
       "catalyst": "BlackRock reported Q3 AUM of $15.5 trillion, up 15%, $205 billion of net inflows, revenue up 19% to $7.75 billion and as-adjusted diluted EPS up 38% to $15.93.",
       "thesis": "Organic base fee growth of 11% annualized in the quarter is the number that matters, since it is growth not handed over by markets. Strength across ETFs, private markets and cash makes BlackRock the scale winner in asset management as smaller managers fight fee compression.",
       "source_name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-STT",
@@ -43,7 +46,8 @@
       "catalyst": "State Street reported Q3 diluted EPS of $3.69, up 33%, total revenue of $4.0 billion, up 13%, net interest income up 21% and record AUC/A of $59.2 trillion.",
       "thesis": "The year-over-year numbers are strong, so the stock's reaction is about the revenue mix and the bar set going in. Custody banks trade on fee growth relative to expectations, and an 8% expense rise leaves less room for error if market levels soften.",
       "source_name": "State Street 8-K earnings release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-PGR",
@@ -54,7 +58,8 @@
       "catalyst": "Progressive reported Q3 net premiums written of $22.3 billion, up 4%, a combined ratio of 88.7, and net income down 3% to $2.54 billion, or $4.37 a share.",
       "thesis": "Underwriting margins improved from a year ago, but premium growth has slowed to low single digits. For auto insurers, the market is shifting from rewarding margin recovery to asking where the next leg of growth comes from.",
       "source_name": "Progressive 8-K, Exhibit 99 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080661/000008066126000367/pgr202609ex99earningsrelea.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080661/000008066126000367/pgr202609ex99earningsrelea.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-FAST",
@@ -65,7 +70,8 @@
       "catalyst": "Fastenal reported Q3 net sales of $2.46 billion, up 15.5%, diluted EPS of $0.35, up 19.8%, and expects 2026 net capital spending of $310 million to $330 million versus $230.6 million in 2025.",
       "thesis": "Operating margin expanded to 21.5%, so the debate is about spending, not demand. A 34% to 43% step-up in capex tests investor patience on free cash flow for an industrial distributor valued as a steady compounder.",
       "source_name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm",
+      "checked": "2026-10-14T20:48:00Z"
     }
   ]
 }

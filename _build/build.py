@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "8"  # asset version
+V = "9"  # asset version
 
 def load(name):
     try:
@@ -156,7 +156,7 @@ def footer(extra=""):
       {col("Rates & macro", [("/rates","Rates & debt"),("/fed","Fed Watch"),("/auctions","Treasury auctions"),("/credit","Credit"),("/dashboard","Macro dashboard"),("/global","Global markets"),("/housing","Housing"),("/charts","Charts")])}
       {col("AlphaGen", [("/research","Research"),("/search","Search"),("/about","About"),("/methodology","Methodology"),("/standards","Editorial standards"),("/disclosures","Disclosures"),("/privacy","Privacy"),("/terms","Terms")])}
     </div>
-    <div class="copy">© 2026 AlphaGen Research. Market data by TradingView and may be delayed. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
+    <div class="copy">© 2026 AlphaGen Research. Live stock charts by TradingView. Crypto prices from Coinbase. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
   </div>
 </footer>
 <div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
@@ -392,10 +392,10 @@ home = f'''<div class="wrap">
 </section>
 <section id="markets">
   <div class="wrap">
-    {sec_head("Markets", "Live markets board", "<p>Indices, megacaps, rates and credit, commodities, FX, and crypto, next to this week's U.S. releases.</p>")}
-    <div class="grid2">
-      <div class="card"><div class="card-h"><span>Market overview</span></div>{tvbox("tv-overview",540,"LIVE QUOTES")}</div>
-      <div class="card"><div class="card-h"><span>U.S. economic calendar</span><a href="/macro">Macro →</a></div>{tvbox("tv-calendar",540,"CPI · JOBS · FOMC · GDP")}</div>
+    {sec_head("Markets", "AlphaGen Markets Snapshot", "<p>Rates, credit, FX, energy, and live crypto in one board. Built from official data, updated automatically.</p>")}
+    <div class="grid2 snapwrap">
+      <div class="card"><div data-snapshot></div></div>
+      <div class="card"><div class="card-h"><span>AlphaGen economic calendar</span><a href="/macro">Full calendar →</a></div><div data-calendar data-days="10" data-min="2"></div></div>
     </div>
   </div>
 </section>
@@ -422,7 +422,7 @@ home = home.replace('<section id="markets">', f'''<section>
   </div>
 </section>
 <section id="markets">''', 1)
-page("index.html", "/", None, "AlphaGen Research: the AlphaGen Wire, big-mover theses, a live macro dashboard, Treasury auction tracking, and daily research on debt, equities, and macro.", "home", home, OVERVIEW_JS + "\n" + CAL_JS, ld=ORG_LD)
+page("index.html", "/", None, "AlphaGen Research: the AlphaGen Wire, big-mover theses, a live macro dashboard, Treasury auction tracking, and daily research on debt, equities, and macro.", "home", home, ld=ORG_LD)
 
 # ---------- wire ----------
 page("wire.html", "/wire", "The Wire", "The AlphaGen Wire: market news with AlphaGen's take, built from official releases and filings, updated every few minutes.", "wire",
@@ -440,12 +440,11 @@ page("equities.html", "/equities", "Equities & Movers", "Big movers with AlphaGe
      phead("Equities", "Where the market is moving, and why.", "Live gainers, losers, and most active U.S. stocks, with AlphaGen's thesis on each major move. Every catalyst links to the company's own release or SEC filing.") +
      f'''<section class="flush"><div class="wrap"><div class="spot" data-spot></div></div></section>
 <section><div class="wrap">{sec_head("Big movers", "Movers board", "<p>Updates live through the session. The theses beside it rotate as the day's biggest moves change.</p>")}
-<div class="grid2"><div class="card"><div class="card-h"><span>U.S. gainers · losers · most active</span><span class="live">Live</span></div>{tvbox("tv-hot",620,"TOP GAINERS · LOSERS · MOST ACTIVE")}</div>
+<div class="grid2"><div><div class="card-h" style="margin-bottom:10px"><span>Megacaps · live</span><span class="live">Live</span></div>{minis(["NASDAQ:NVDA","NASDAQ:MSFT","NASDAQ:AAPL","NASDAQ:AMZN","NASDAQ:GOOGL","NASDAQ:META"])}</div>
 <div>{wire_card("eq-wire", 30, "EQUITIES,EARNINGS", "Equities wire", 690)}</div></div></div></section>
 <section><div class="wrap">{sec_head("AlphaGen thesis", "Today's movers, explained", '<span class="eyebrow" style="color:var(--mute)" data-movers-updated></span>')}<div class="movers" data-movers data-limit="24"></div></div></section>
-<section><div class="wrap">{sec_head("Breadth", "S&amp;P 500 heatmap", "<p>Sized by market cap and colored by today's move. Tap a sector to zoom in.</p>")}<div class="card">{tvbox("tv-heatmap",560,"S&amp;P 500 HEATMAP")}</div></div></section>
 <section><div class="wrap">{sec_head("Research", "Equities research", '<a class="btn ghost" href="/earnings">Earnings scorecard →</a>')}<div class="notes cards" id="eq-research" data-research="all" data-topic="equities" data-limit="9"></div></div></section>''',
-     HOT_JS + "\n" + HEAT_JS)
+     )
 
 # ---------- earnings ----------
 page("earnings.html", "/earnings", "Earnings Scorecard", "Reported quarterly results taken directly from company filings, with AlphaGen's take on each report.", "earnings",
@@ -481,11 +480,11 @@ page("dashboard.html", "/dashboard", "Macro Dashboard", "AlphaGen's live macro d
 # ---------- macro ----------
 page("macro.html", "/macro", "Macro", "U.S. economic calendar, AlphaGen's macro wire, commodities, the dollar, and macro research.", "macro",
      phead("Macro", "The macro tape.", "Economic releases, commodities, the dollar, and global central banks, with AlphaGen's take on what each print means for markets.") +
-     f'''<section class="flush"><div class="wrap split2"><div class="card"><div class="card-h"><span>U.S. economic calendar</span><span class="live">Live</span></div>{tvbox("tv-calendar",640,"CPI · JOBS · FOMC · GDP")}</div>
+     f'''<section class="flush"><div class="wrap split2"><div class="card"><div class="card-h"><span>AlphaGen economic calendar</span><span>Official schedules</span></div><div data-calendar data-days="45"></div></div>
 <div>{wire_card("macro-wire", 30, "MACRO,COMMODITIES,FX,FED", "Macro wire", 640)}</div></div></section>
 <section><div class="wrap">{sec_head("Cross-asset", "Commodities, dollar, and crypto", '<a class="btn ghost" href="/dashboard">Macro dashboard →</a>')}{minis(["AMEX:GLD","AMEX:USO","AMEX:UNG","AMEX:CPER","AMEX:UUP","FX:EURUSD","FX:USDJPY","BITSTAMP:BTCUSD"])}</div></section>
 <section><div class="wrap">{sec_head("Research", "Macro research")}<div class="notes cards" id="macro-research" data-research="all" data-topic="macro" data-limit="9"></div></div></section>''',
-     CAL_JS.replace("540", "640"))
+     )
 
 # ---------- charts ----------
 page("charts.html", "/charts", "Charts", "The AlphaGen Chart of the Day and chart archive, built from official data. Download any chart as a branded image.", "charts",
@@ -615,12 +614,12 @@ for sym, (full, name) in sorted(stocks.items()):
 AG.tv("tv-fin","financials",{{symbol:"{full}",width:"100%",height:620,displayMode:"regular"}});
 AG.tv("tv-prof","symbol-profile",{{symbol:"{full}",width:"100%",height:420}});'''
     body = f'''<div class="wrap phead"><div class="stock-head"><div><a href="/stocks" style="font-family:var(--mono);font-size:.72rem;color:var(--signal-2);text-decoration:none">← Stock coverage</a><h1 style="margin-top:.35em">{E(name)}</h1><span class="tk-big">{E(full)}</span></div><button class="btn" type="button" data-open-sub>Get AlphaGen research free</button></div></div>
-<section class="flush"><div class="wrap"><div class="card">{tvbox("tv-sym",440,"LIVE CHART")}</div></div></section>
+<section class="flush"><div class="wrap"><div class="card stock-chart"><tv-mini-chart symbol="{full}" theme="dark" transparent></tv-mini-chart></div></div></section>
 <section><div class="wrap">{sec_head("AlphaGen thesis", "Mover coverage")}<div class="movers" data-movers data-ticker="{sym}" data-limit="6"></div></div></section>
 <section><div class="wrap split2"><div>{sec_head("Wire", "AlphaGen Wire coverage")}{wire_card("stk-wire", 30, "", "Coverage", None, sym)}</div>
 <div>{sec_head("Earnings", "Reported results")}<div data-earnings data-ticker="{full}"></div><div style="height:20px"></div>{sec_head("Research", "Notes")}<div class="notes" data-research="notes" data-ticker="{sym}" data-limit="6"></div></div></div></section>
-<section><div class="wrap grid2"><div class="card"><div class="card-h"><span>Financials</span></div>{tvbox("tv-fin",620,"FINANCIALS")}</div><div class="card"><div class="card-h"><span>Company profile</span></div>{tvbox("tv-prof",420,"PROFILE")}</div></div></section>'''
-    page(f"stock/{sym}.html", f"/stock/{sym}", f"{name} ({sym})", f"AlphaGen coverage of {name} ({sym}): live chart, mover theses, Wire coverage, reported earnings, and research.", "stocks", body, js)
+'''
+    page(f"stock/{sym}.html", f"/stock/{sym}", f"{name} ({sym})", f"AlphaGen coverage of {name} ({sym}): live chart, mover theses, Wire coverage, reported earnings, and research.", "stocks", body)
 
 tiles = "".join(f'<a class="card" href="/stock/{E(s)}" style="text-decoration:none;display:grid;gap:4px"><span class="tag tk" style="justify-self:start">{E(s)}</span><b style="font-family:var(--display);font-stretch:88%;font-size:1.1rem">{E(n)}</b><span style="font-family:var(--mono);font-size:.68rem;color:var(--mute)">{E(f)}</span></a>' for s, (f, n) in sorted(stocks.items(), key=lambda kv: kv[1][1]))
 page("stocks.html", "/stocks", "Stock Coverage", "Every company AlphaGen covers, with live charts, mover theses, Wire coverage, earnings, and research.", "stocks",

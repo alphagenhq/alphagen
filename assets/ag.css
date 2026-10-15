@@ -440,3 +440,41 @@ a.desk-c:hover{border-color:var(--signal);transform:translateY(-2px)}
 .hub span:last-child{color:var(--steel);font-size:.86rem}
 .nav .search-ico{display:inline-flex;color:var(--steel);padding:7px;text-decoration:none}
 .nav .search-ico:hover{color:var(--paper)}
+
+/* ===== Snapshot & calendar ===== */
+.snap-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:14px}
+.snap-g{background:var(--ink-2);border:1px solid var(--rule);border-radius:8px;padding:10px 12px 6px}
+.snap-h{display:flex;justify-content:space-between;align-items:center;font-family:var(--mono);font-size:.64rem;letter-spacing:.12em;text-transform:uppercase;color:var(--steel);padding-bottom:6px;border-bottom:1px solid var(--rule)}
+.snap-asof{color:var(--mute);letter-spacing:.04em;text-transform:none}
+.snap-r{display:grid;grid-template-columns:minmax(0,1fr) 64px auto 74px;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--rule);font-size:.88rem}
+.snap-r:last-child{border-bottom:0}
+.snap-r .ss svg{width:64px;height:22px;display:block}
+.snap-r .sv{font-weight:600;text-align:right;font-variant-numeric:tabular-nums;border-radius:3px;padding:1px 4px}
+.snap-r .sc{font-family:var(--mono);font-size:.72rem;text-align:right;color:var(--steel)}
+.snap-r .sc.up{color:var(--up)} .snap-r .sc.down{color:var(--down)}
+.tick-up{animation:tku 1s ease} .tick-dn{animation:tkd 1s ease}
+@keyframes tku{from{background:rgba(54,201,139,.35)}to{background:transparent}}
+@keyframes tkd{from{background:rgba(255,107,107,.35)}to{background:transparent}}
+.snap-foot{font-family:var(--mono);font-size:.62rem;color:var(--mute);margin-top:10px;line-height:1.5}
+.cal-next{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;padding:12px 14px;margin-bottom:12px;border-radius:8px;background:linear-gradient(120deg,var(--signal-soft),transparent 75%);border:1px solid var(--rule)}
+.cal-next b{font-family:var(--display);font-stretch:88%;font-size:1.05rem}
+.cal-next .num{font-family:var(--mono);font-size:.76rem;color:var(--steel)}
+.cal-day{display:grid;grid-template-columns:72px minmax(0,1fr);gap:12px;padding:10px 0;border-top:1px solid var(--rule)}
+.cal-day.today .cal-d b{color:var(--signal-2)}
+.cal-d{display:grid;align-content:start;font-family:var(--mono);font-size:.7rem;color:var(--mute)}
+.cal-d b{font-family:var(--display);font-size:1rem;color:var(--paper);font-stretch:88%}
+.cal-d i{font-style:normal;color:var(--up);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase}
+.cal-evs{display:grid;gap:2px;min-width:0}
+.cal-e{display:grid;grid-template-columns:62px minmax(0,1fr) auto;gap:2px 10px;align-items:center;text-decoration:none;padding:6px 8px;border-radius:5px;border-left:2px solid transparent}
+.cal-e:hover{background:rgba(76,141,255,.07)}
+.cal-e.imp3{border-left-color:var(--signal)} .cal-e.imp3 .cn{font-weight:600;color:var(--paper)}
+.cal-e .ct{font-family:var(--mono);font-size:.72rem;color:var(--steel)}
+.cal-e .cn{font-size:.88rem;color:var(--steel);min-width:0}
+.cal-e .cc{font-family:var(--mono);font-size:.58rem;letter-spacing:.06em;text-transform:uppercase;padding:2px 6px;border-radius:3px;background:rgba(238,243,251,.06);color:var(--steel)}
+.cal-e .ca{grid-column:2/4;font-family:var(--mono);font-size:.6rem;color:var(--mute)}
+.c-inf{background:rgba(255,107,107,.13)!important;color:#ff9b9b!important}.c-lab{background:rgba(54,201,139,.13)!important;color:#6fe0ae!important}.c-gro{background:rgba(76,141,255,.15)!important;color:#9cc0ff!important}.c-hou{background:rgba(242,184,75,.14)!important;color:#f5cd7d!important}.c-fed{background:rgba(197,140,255,.15)!important;color:#d8b4ff!important}.c-tsy{background:rgba(238,243,251,.08)!important;color:var(--paper)!important}
+.stock-chart tv-mini-chart{display:block;width:100%;height:420px}
+.snapwrap{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr)}@media (max-width:980px){.snapwrap{grid-template-columns:1fr}}@media (max-width:420px){.snap-r{grid-template-columns:minmax(0,1fr) 48px auto 64px;gap:8px}.snap-r .ss svg{width:48px}}
+.snap-r .sn{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cal-e{grid-template-columns:76px minmax(0,1fr) auto}
+.cal-e .ct{white-space:nowrap}

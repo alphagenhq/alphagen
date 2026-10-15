@@ -11,7 +11,8 @@
       "units": "%",
       "take": "As of October 13, the 10-year Treasury yielded 5.21% and the 2-year 4.79%, a positive spread of 42 basis points on the Treasury's daily par curve. The chart shows how different that is from 2022 through 2024, when 2-year yields sat above 10-year yields for an extended stretch. A positive slope with both yields this high means lenders are demanding more to lend long, which feeds directly into mortgage, corporate, and federal borrowing costs.",
       "source": "U.S. Treasury via FRED (DGS10, DGS2)",
-      "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+      "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
+      "checked": "2026-10-14T20:48:00Z"
     }
   ]
 }

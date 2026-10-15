@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,600;62..125,700;62..125,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="/assets/ag.css?v=8">
+<link rel="stylesheet" href="/assets/ag.css?v=9">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "AlphaGen Research", "url": "https://alphagenresearch.com", "logo": "https://alphagenresearch.com/logo-192.png", "sameAs": ["https://x.com/alphageniq", "https://www.linkedin.com/company/alphagen-research"]}</script>
 </head>
 <body>
@@ -120,10 +120,10 @@
 </section>
 <section id="markets">
   <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Markets</div><h2 class="sec">Live markets board</h2></div><p>Indices, megacaps, rates and credit, commodities, FX, and crypto, next to this week's U.S. releases.</p></div>
-    <div class="grid2">
-      <div class="card"><div class="card-h"><span>Market overview</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-overview"><div class="tradingview-widget-container__widget" style="min-height:540px" data-ph="LIVE QUOTES"></div></div></div></div>
-      <div class="card"><div class="card-h"><span>U.S. economic calendar</span><a href="/macro">Macro →</a></div><div class="tv"><div class="tradingview-widget-container" id="tv-calendar"><div class="tradingview-widget-container__widget" style="min-height:540px" data-ph="CPI · JOBS · FOMC · GDP"></div></div></div></div>
+    <div class="sec-head"><div><div class="eyebrow">Markets</div><h2 class="sec">AlphaGen Markets Snapshot</h2></div><p>Rates, credit, FX, energy, and live crypto in one board. Built from official data, updated automatically.</p></div>
+    <div class="grid2 snapwrap">
+      <div class="card"><div data-snapshot></div></div>
+      <div class="card"><div class="card-h"><span>AlphaGen economic calendar</span><a href="/macro">Full calendar →</a></div><div data-calendar data-days="10" data-min="2"></div></div>
     </div>
   </div>
 </section>
@@ -184,7 +184,7 @@
       <div><h4>Rates & macro</h4><ul><li><a href="/rates">Rates & debt</a></li><li><a href="/fed">Fed Watch</a></li><li><a href="/auctions">Treasury auctions</a></li><li><a href="/credit">Credit</a></li><li><a href="/dashboard">Macro dashboard</a></li><li><a href="/global">Global markets</a></li><li><a href="/housing">Housing</a></li><li><a href="/charts">Charts</a></li></ul></div>
       <div><h4>AlphaGen</h4><ul><li><a href="/research">Research</a></li><li><a href="/search">Search</a></li><li><a href="/about">About</a></li><li><a href="/methodology">Methodology</a></li><li><a href="/standards">Editorial standards</a></li><li><a href="/disclosures">Disclosures</a></li><li><a href="/privacy">Privacy</a></li><li><a href="/terms">Terms</a></li></ul></div>
     </div>
-    <div class="copy">© 2026 AlphaGen Research. Market data by TradingView and may be delayed. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
+    <div class="copy">© 2026 AlphaGen Research. Live stock charts by TradingView. Crypto prices from Coinbase. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
   </div>
 </footer>
 <div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
@@ -199,20 +199,8 @@
     <button class="later" type="button" data-close-sub>No thanks, maybe later</button>
   </div>
 </div>
-<script src="/assets/ag.js?v=8"></script>
-<script src="/assets/ag-data.js?v=8"></script>
-<script>
-AG.tv("tv-overview","market-overview",{dateRange:"1D",showChart:true,width:"100%",height:540,showSymbolLogo:true,showFloatingTooltip:true,
-  plotLineColorGrowing:"#4c8dff",plotLineColorFalling:"#ff6b6b",gridLineColor:"rgba(39,67,108,0.4)",scaleFontColor:"#93a7c4",
-  belowLineFillColorGrowing:"rgba(76,141,255,0.14)",belowLineFillColorFalling:"rgba(255,107,107,0.10)",belowLineFillColorGrowingBottom:"rgba(76,141,255,0)",belowLineFillColorFallingBottom:"rgba(255,107,107,0)",symbolActiveColor:"rgba(76,141,255,0.12)",
-  tabs:[
-   {title:"Indices",symbols:[{s:"FOREXCOM:SPXUSD",d:"S&P 500"},{s:"FOREXCOM:NSXUSD",d:"Nasdaq 100"},{s:"FOREXCOM:DJI",d:"Dow 30"},{s:"AMEX:IWM",d:"Russell 2000 (IWM)"},{s:"AMEX:SPY",d:"SPDR S&P 500 (SPY)"},{s:"NASDAQ:QQQ",d:"Invesco QQQ"}]},
-   {title:"Megacaps",symbols:[{s:"NASDAQ:NVDA",d:"Nvidia"},{s:"NASDAQ:MSFT",d:"Microsoft"},{s:"NASDAQ:AAPL",d:"Apple"},{s:"NASDAQ:AMZN",d:"Amazon"},{s:"NASDAQ:GOOGL",d:"Alphabet"},{s:"NASDAQ:META",d:"Meta"}]},
-   {title:"Rates & Credit",symbols:[{s:"NASDAQ:SHV",d:"T-Bills (SHV)"},{s:"NASDAQ:SHY",d:"1–3Y Treasuries (SHY)"},{s:"NASDAQ:IEF",d:"7–10Y Treasuries (IEF)"},{s:"NASDAQ:TLT",d:"20Y+ Treasuries (TLT)"},{s:"NASDAQ:LQD",d:"IG Corporates (LQD)"},{s:"AMEX:HYG",d:"High Yield (HYG)"}]},
-   {title:"Commodities",symbols:[{s:"AMEX:GLD",d:"Gold (GLD)"},{s:"AMEX:SLV",d:"Silver (SLV)"},{s:"AMEX:USO",d:"WTI Oil (USO)"},{s:"AMEX:UNG",d:"Natural Gas (UNG)"},{s:"AMEX:CPER",d:"Copper (CPER)"}]},
-   {title:"FX & Crypto",symbols:[{s:"AMEX:UUP",d:"U.S. Dollar (UUP)"},{s:"FX:EURUSD",d:"EUR/USD"},{s:"FX:USDJPY",d:"USD/JPY"},{s:"FX:GBPUSD",d:"GBP/USD"},{s:"BITSTAMP:BTCUSD",d:"Bitcoin"},{s:"BITSTAMP:ETHUSD",d:"Ethereum"}]}
-  ]});
-AG.tv("tv-calendar","events",{width:"100%",height:540,importanceFilter:"0,1",countryFilter:"us"});
-</script>
+<script src="/assets/ag.js?v=9"></script>
+<script src="/assets/ag-data.js?v=9"></script>
+
 </body>
 </html>

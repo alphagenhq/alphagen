@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500;62..125,600;62..125,700;62..125,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="/assets/ag.css?v=8">
+<link rel="stylesheet" href="/assets/ag.css?v=9">
 </head>
 <body>
 <div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><div class="crawl" id="crawl" aria-live="off"></div><span class="clock" id="clock"></span></div></div>
@@ -44,11 +44,11 @@
 <div class="tape"><tv-ticker-tape symbols="FOREXCOM:SPXUSD,FOREXCOM:NSXUSD,FOREXCOM:DJI,AMEX:IWM,NASDAQ:NVDA,NASDAQ:AAPL,NASDAQ:MSFT,NASDAQ:TLT,AMEX:HYG,AMEX:GLD,AMEX:USO,FX:EURUSD,FX:USDJPY,BITSTAMP:BTCUSD" theme="dark" transparent show-hover></tv-ticker-tape></div>
 <main id="top">
 <div class="wrap phead"><div class="stock-head"><div><a href="/stocks" style="font-family:var(--mono);font-size:.72rem;color:var(--signal-2);text-decoration:none">← Stock coverage</a><h1 style="margin-top:.35em">Microsoft</h1><span class="tk-big">NASDAQ:MSFT</span></div><button class="btn" type="button" data-open-sub>Get AlphaGen research free</button></div></div>
-<section class="flush"><div class="wrap"><div class="card"><div class="tv"><div class="tradingview-widget-container" id="tv-sym"><div class="tradingview-widget-container__widget" style="min-height:440px" data-ph="LIVE CHART"></div></div></div></div></div></section>
+<section class="flush"><div class="wrap"><div class="card stock-chart"><tv-mini-chart symbol="NASDAQ:MSFT" theme="dark" transparent></tv-mini-chart></div></div></section>
 <section><div class="wrap"><div class="sec-head"><div><div class="eyebrow">AlphaGen thesis</div><h2 class="sec">Mover coverage</h2></div></div><div class="movers" data-movers data-ticker="MSFT" data-limit="6"></div></div></section>
 <section><div class="wrap split2"><div><div class="sec-head"><div><div class="eyebrow">Wire</div><h2 class="sec">AlphaGen Wire coverage</h2></div></div><div class="card wire"><div class="wire-head"><span class="live">Coverage</span><span data-wire-updated>Updating</span></div><div class="wire-list" id="stk-wire" data-wire data-limit="30" data-tags="" data-ticker="MSFT"></div></div></div>
 <div><div class="sec-head"><div><div class="eyebrow">Earnings</div><h2 class="sec">Reported results</h2></div></div><div data-earnings data-ticker="NASDAQ:MSFT"></div><div style="height:20px"></div><div class="sec-head"><div><div class="eyebrow">Research</div><h2 class="sec">Notes</h2></div></div><div class="notes" data-research="notes" data-ticker="MSFT" data-limit="6"></div></div></div></section>
-<section><div class="wrap grid2"><div class="card"><div class="card-h"><span>Financials</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-fin"><div class="tradingview-widget-container__widget" style="min-height:620px" data-ph="FINANCIALS"></div></div></div></div><div class="card"><div class="card-h"><span>Company profile</span></div><div class="tv"><div class="tradingview-widget-container" id="tv-prof"><div class="tradingview-widget-container__widget" style="min-height:420px" data-ph="PROFILE"></div></div></div></div></div></section>
+
 </main>
 <section>
   <div class="wrap">
@@ -80,7 +80,7 @@
       <div><h4>Rates & macro</h4><ul><li><a href="/rates">Rates & debt</a></li><li><a href="/fed">Fed Watch</a></li><li><a href="/auctions">Treasury auctions</a></li><li><a href="/credit">Credit</a></li><li><a href="/dashboard">Macro dashboard</a></li><li><a href="/global">Global markets</a></li><li><a href="/housing">Housing</a></li><li><a href="/charts">Charts</a></li></ul></div>
       <div><h4>AlphaGen</h4><ul><li><a href="/research">Research</a></li><li><a href="/search">Search</a></li><li><a href="/about">About</a></li><li><a href="/methodology">Methodology</a></li><li><a href="/standards">Editorial standards</a></li><li><a href="/disclosures">Disclosures</a></li><li><a href="/privacy">Privacy</a></li><li><a href="/terms">Terms</a></li></ul></div>
     </div>
-    <div class="copy">© 2026 AlphaGen Research. Market data by TradingView and may be delayed. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
+    <div class="copy">© 2026 AlphaGen Research. Live stock charts by TradingView. Crypto prices from Coinbase. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
   </div>
 </footer>
 <div class="modal" id="sub-modal" role="dialog" aria-modal="true" aria-labelledby="sub-title" hidden>
@@ -95,12 +95,8 @@
     <button class="later" type="button" data-close-sub>No thanks, maybe later</button>
   </div>
 </div>
-<script src="/assets/ag.js?v=8"></script>
-<script src="/assets/ag-data.js?v=8"></script>
-<script>
-AG.tv("tv-sym","symbol-overview",{symbols:[["Microsoft","NASDAQ:MSFT|1D"]],chartOnly:false,width:"100%",height:440,showVolume:false,hideDateRanges:false,scalePosition:"right",scaleMode:"Normal",fontColor:"#93a7c4",gridLineColor:"rgba(39,67,108,0.35)",lineColor:"#4c8dff",topColor:"rgba(76,141,255,0.25)",bottomColor:"rgba(76,141,255,0)",dateRanges:["1d|1","1m|30","3m|60","12m|1D","60m|1W","all|1M"]});
-AG.tv("tv-fin","financials",{symbol:"NASDAQ:MSFT",width:"100%",height:620,displayMode:"regular"});
-AG.tv("tv-prof","symbol-profile",{symbol:"NASDAQ:MSFT",width:"100%",height:420});
-</script>
+<script src="/assets/ag.js?v=9"></script>
+<script src="/assets/ag-data.js?v=9"></script>
+
 </body>
 </html>

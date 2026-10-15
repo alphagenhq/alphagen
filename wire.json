@@ -1,6 +1,211 @@
 {
-  "updated": "2026-10-14T20:32:34Z",
+  "updated": "2026-10-14T22:29:14Z",
   "items": [
+    {
+      "id": "2026-10-14-mubadala-clear-channel-close",
+      "tag": "DEALS",
+      "ticker": "NYSE:CCO",
+      "headline": "Mubadala Capital completes ~$6.2B acquisition of Clear Channel Outdoor",
+      "take": "Clear Channel Outdoor said its take-private by Mubadala Capital, a subsidiary of Mubadala Investment Company, is complete in a transaction valued at approximately $6.2 billion, following regulatory and stockholder approvals. Its common stock will be delisted from the NYSE. The close takes a major listed out-of-home advertising operator into sovereign-backed private hands.",
+      "source_name": "Clear Channel Outdoor 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001334978/000121390026109385/ea030842201ex99-1.htm",
+      "time": "2026-10-14T22:36:00Z"
+    },
+    {
+      "id": "2026-10-14-medtronic-minimed-exchange-final",
+      "tag": "DEALS",
+      "ticker": "NYSE:MDT",
+      "headline": "Medtronic accepts 55.0M shares in exchange for all 252.8M MiniMed shares it held",
+      "take": "Medtronic said 297,521,390 shares were tendered in its MiniMed split-off exchange offer and 55,032,401 accepted at a final proration factor of 18.289133%, in exchange for its entire remaining 252,813,348 MiniMed shares. That implies about 4.59 MiniMed shares per Medtronic share, and Medtronic will retain no MiniMed stock. The heavy oversubscription let Medtronic fully exit MiniMed while shrinking its own share count.",
+      "source_name": "Medtronic press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html",
+      "time": "2026-10-14T22:44:00Z"
+    },
+    {
+      "id": "2026-10-13-agility-tristar-aegis",
+      "tag": "DEALS",
+      "ticker": "NSE:AEGISLOG",
+      "headline": "Agility to sell Tristar stake to Aegis Logistics at $1.5B enterprise value",
+      "take": "Agility Global agreed to sell its stake in energy-logistics business Tristar to India's Aegis Logistics in a deal valuing Tristar at $1.5 billion enterprise value and $882 million equity value, about 6.0x 2025 EBITDA. Closing is expected before the end of March 2027, subject to regulatory approvals. The purchase gives Aegis a global fuel-logistics network built on $1.4 billion of 2025 revenue.",
+      "source_name": "Agility press release",
+      "source_url": "https://agility.com/news/agility-announces-sale-of-tristar-to-aegis-logistics/",
+      "time": "2026-10-14T22:52:00Z"
+    },
+    {
+      "id": "2026-10-14-select-water-notes-2034",
+      "tag": "DEALS",
+      "ticker": "NYSE:WTTR",
+      "headline": "Select Water prices upsized $900M of 7.625% senior notes due 2034",
+      "take": "A Select Water Solutions subsidiary priced $900 million of 7.625% senior notes due November 1, 2034 at par, upsized from $800 million, with closing expected October 21. Proceeds partly fund the cash consideration for Pilot Water Solutions and repay the term loan and revolver borrowings. The upsizing secures long-dated funding for the Pilot deal at a fixed coupon.",
+      "source_name": "Select Water Solutions press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-inc-announces-pricing-of-upsized-900-million-of-7-625-senior-notes-due-2034--302909132.html",
+      "time": "2026-10-14T23:00:00Z"
+    },
+    {
+      "id": "2026-10-14-jpm-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:JPM",
+      "headline": "JPMorgan Q3 net income rises 6% to $15.3B; EPS $5.57 vs $5.07",
+      "take": "JPMorgan Chase reported third-quarter net income of $15.3 billion, or $5.57 per share, versus $14.4 billion, or $5.07, a year earlier, on reported revenue of $50.2 billion against $46.4 billion. Net interest income rose 13% to $27.1 billion, the provision for credit losses fell to $2.7 billion from $3.4 billion, and net charge-offs dropped $389 million to $2.2 billion. Falling credit costs contrast with the higher provision Wells Fargo reported, though JPMorgan also scaled net buybacks back to $664 million.",
+      "source_name": "JPMorgan Chase 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm",
+      "time": "2026-10-14T21:50:00Z"
+    },
+    {
+      "id": "2026-10-14-steo-brent-105",
+      "tag": "ENERGY",
+      "headline": "EIA sees Brent averaging $105 in Q4 after a $114 September",
+      "take": "EIA's October Short-Term Energy Outlook says Brent averaged $114 per barrel in September, $23 above August, and forecasts $105 for 4Q26, $96 for full-year 2026 and $84 for 2027. EIA assumes Middle East oil flows stay constrained through the fourth quarter. The forecast path implies relief in 2027, but it hinges on supply recovering rather than demand cooling, which keeps energy the swing factor for inflation.",
+      "source_name": "EIA Short-Term Energy Outlook, October 2026",
+      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
+      "time": "2026-10-14T21:54:00Z"
+    },
+    {
+      "id": "2026-10-14-steo-shut-ins",
+      "tag": "COMMODITIES",
+      "headline": "EIA: Middle East shut-ins eased to 4.8M b/d in September from 10.9M peak",
+      "take": "EIA estimates Middle East shut-in oil production averaged 4.8 million barrels a day in September, down from a peak of 10.9 million b/d in May, and forecasts 4.5 million b/d in 4Q26. It estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26, with a further draw of about 0.7 million b/d expected in 4Q26. Supply is coming back, but inventories are still being drawn, so the market has little cushion if flows disrupt again.",
+      "source_name": "EIA Short-Term Energy Outlook, October 2026",
+      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
+      "time": "2026-10-14T21:58:00Z"
+    },
+    {
+      "id": "2026-10-14-freddie-740",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate climbs to 7.40%, up 110 bp from a year ago",
+      "take": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed rate at 7.40% for the week of Oct. 8, up from 7.28% a week earlier and 6.30% a year ago; the 15-year averaged 6.73%. That is a 12 basis point weekly rise and 110 basis points over the year. With the 10-year Treasury above 5%, mortgage rates have little room to ease, which keeps affordability the binding constraint on home sales.",
+      "source_name": "Freddie Mac Primary Mortgage Market Survey",
+      "source_url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-average-740",
+      "time": "2026-10-14T22:02:00Z"
+    },
+    {
+      "id": "2026-10-14-steo-diesel",
+      "tag": "ENERGY",
+      "headline": "EIA: East Coast distillate stocks ran 32% below normal in September",
+      "take": "EIA says East Coast distillate inventories were 32% below the five-year seasonal average in September and expects them to stay about 20% below average through winter. It forecasts retail diesel at $5.19 a gallon for 2026, easing to $4.49 in 2027, and says tight global diesel markets are boosting refiners' crude demand. That matches the Dallas Fed's Beige Book report that diesel is the top cost driver in its district, a channel that reaches freight and goods prices with a lag.",
+      "source_name": "EIA Short-Term Energy Outlook, October 2026",
+      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
+      "time": "2026-10-14T22:06:00Z"
+    },
+    {
+      "id": "2026-10-14-ea-flash-hicp",
+      "tag": "GLOBAL",
+      "headline": "Euro area flash inflation rose to 3.8% in September on 18.8% energy",
+      "take": "Eurostat's flash estimate put euro area annual inflation at 3.8% in September, up from 3.2% in August, with energy at 18.8% versus 14.3%. Inflation excluding energy, food, alcohol and tobacco was estimated at 2.5%, against 2.4% in August, and services rose to 3.2%. As in the U.S., the headline jump is mostly energy, which leaves the ECB weighing a supply shock against a still-contained core.",
+      "source_name": "Eurostat euro indicators, flash estimate September 2026",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
+      "time": "2026-10-14T22:10:00Z"
+    },
+    {
+      "id": "2026-10-14-yen-158",
+      "tag": "FX",
+      "headline": "Yen at 158.34 per dollar on Oct. 9, per Fed H.10 data",
+      "take": "The Federal Reserve's H.10 noon buying rate put the dollar at 158.34 yen on Oct. 9, versus 157.97 on Oct. 5, according to the FRED series updated Oct. 13. The dollar edged higher against the yen on three of the four trading days from Oct. 6 to Oct. 9, dipping only on Oct. 7. With U.S. 10-year yields above 5%, the rate gap with Japan continues to favor the dollar, keeping yen weakness a live issue for Japanese policymakers.",
+      "source_name": "Federal Reserve H.10 via FRED (DEXJPUS)",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "time": "2026-10-14T22:14:00Z"
+    },
+    {
+      "id": "2026-10-14-wpsr-thursday",
+      "tag": "ENERGY",
+      "headline": "EIA's weekly petroleum report moves to Thursday, Oct. 15",
+      "take": "EIA says the next Weekly Petroleum Status Report will be released Thursday, Oct. 15, at 12:00 p.m. and 2:00 p.m. Eastern Time because of the federal closure on Monday, Oct. 12. EIA has also discontinued the full-report PDF, effective Sept. 23. With distillate stocks already tight, Thursday's inventory figures are the next official read on whether winter fuel supplies are rebuilding.",
+      "source_name": "EIA Weekly Petroleum Status Report",
+      "source_url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "time": "2026-10-14T22:18:00Z"
+    },
+    {
+      "id": "2026-10-14-fairfax-idbi-bank",
+      "tag": "DEALS",
+      "headline": "Fairfax named strategic buyer for 60.72% of IDBI Bank at about $5.6B",
+      "take": "India's government declared a Fairfax subsidiary the strategic buyer for a 60.72% stake in IDBI Bank at INR 81 a share, about INR 528.78 billion (roughly $5.6 billion), a premium of about 23% to book value. No binding agreements are signed yet, and Fairfax plans to contribute its Digit insurers and Fairfax India's IIFL Capital stake to the bank. The deal still needs Reserve Bank of India, SEBI and, for the Digit piece, insurance-regulator approval.",
+      "source_name": "Fairfax Financial press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381180/0/en/fairfax-declared-strategic-buyer-in-auction-to-acquire-interest-in-idbi-bank-plans-to-contribute-digit-insurance-and-iifl-capital-to-idbi-bank.html",
+      "ticker": "TSX:FFH",
+      "time": "2026-10-14T21:50:00Z"
+    },
+    {
+      "id": "2026-10-13-humana-blackrock-centerwell-jv",
+      "tag": "DEALS",
+      "headline": "BlackRock's HPS buys WCAS stake, valued near $2.8B, in Humana CenterWell clinics JV",
+      "take": "Funds managed by HPS Investment Partners, part of BlackRock, will buy WCAS's equity in Humana's CenterWell clinic joint ventures, valued at about $2.8 billion, and own a majority of a new JV covering nearly 150 clinics. The new JV drops the put option, and Humana gets the right to buy clinics back starting in 2028. Humana says removing the put should significantly reduce balance-sheet liabilities, while CenterWell keeps managing the clinics.",
+      "source_name": "Humana 8-K, Exhibit 99 press release (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000049071/000004907126000060/blackrockstrategicjvpressr.htm",
+      "ticker": "NYSE:HUM",
+      "time": "2026-10-14T21:57:00Z"
+    },
+    {
+      "id": "2026-10-14-cipher-digital-converts",
+      "tag": "DEALS",
+      "headline": "Cipher Digital prices $850M of 0.00% convertible notes due 2032",
+      "take": "Cipher Digital priced $850 million of 0.00% convertible notes due 2032 with a conversion price of about $15.31, a 35% premium, and net proceeds of about $835.1 million before about $89.7 million of capped calls. The cash goes to its Barber Lake project and HPC build-out. Zero-coupon converts remain a common way for AI data-center developers to fund build-outs.",
+      "source_name": "Cipher Digital 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001819989/000119312526421035/d77312dex991.htm",
+      "ticker": "NASDAQ:CIFR",
+      "time": "2026-10-14T22:04:00Z"
+    },
+    {
+      "id": "2026-10-13-brookdale-welltower-30",
+      "tag": "DEALS",
+      "headline": "Brookdale to buy 30 leased communities from Welltower for $290M",
+      "take": "Brookdale agreed to buy 30 leased communities from Welltower for $290 million, cutting about $17.8 million of 2027 cash rent, and closed a separate $157 million purchase of 17 communities. Its owned share of units rises toward nearly 80% after closing. Buying out leases is how Brookdale is shrinking fixed rent obligations.",
+      "source_name": "Brookdale press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html",
+      "ticker": "NYSE:BKD",
+      "time": "2026-10-14T22:25:00Z"
+    },
+    {
+      "id": "2026-10-14-c-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:C",
+      "headline": "Citigroup Q3 EPS rises to $2.85 on $23.8B of revenue; NII up 14%",
+      "take": "Citigroup reported third-quarter net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier, on revenues of $23.8 billion against $22.1 billion. Net interest income rose 14%, RoTCE was 11.5% and the bank returned $4.1 billion to shareholders with a CET1 ratio of 12.8%. Revenue growing about 8% while reported expenses fell 2% is the operating leverage Citi has been promising, though the prior-year comparison included a Banamex-related goodwill impairment.",
+      "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
+      "time": "2026-10-14T21:16:14Z",
+      "checked": "2026-10-14T22:06:09Z"
+    },
+    {
+      "id": "2026-10-14-h15-long-end",
+      "tag": "RATES",
+      "headline": "10-year Treasury yield at 5.21% on Oct. 13, down 7 bp from Oct. 7",
+      "take": "The Fed's H.15 release shows the 10-year constant-maturity yield at 5.21% on October 13 versus 5.28% on October 7, while the 30-year eased to 5.56% from 5.67% and the 2-year was little changed at 4.79%. That leaves the 2s10s curve at 42 basis points. The long end is doing the easing while the front end holds, a pattern that points to some relief in term premium rather than a shift in expected policy.",
+      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
+      "source_url": "https://federalreserve.gov/releases/h15/",
+      "time": "2026-10-14T21:20:14Z",
+      "checked": "2026-10-14T22:06:09Z"
+    },
+    {
+      "id": "2026-10-14-c-credit-costs",
+      "tag": "CREDIT",
+      "ticker": "NYSE:C",
+      "headline": "Citi Q3 provision of $2.6B includes $2.2B of net credit losses",
+      "take": "Citigroup said its third-quarter provision for credit losses was $2.6 billion, reflecting $2.2 billion of net credit losses and a net reserve build of $369 million. The bank cited growth in U.S. Consumer Cards among the drivers of its 14% rise in net interest income. Net credit losses of $2.2 billion are the price of that NII growth, and the modest reserve build suggests the bank sees no sharp turn in consumer credit yet.",
+      "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
+      "time": "2026-10-14T21:24:14Z",
+      "checked": "2026-10-14T22:06:09Z"
+    },
+    {
+      "id": "2026-10-14-h15-bills-vs-ff",
+      "tag": "FED",
+      "headline": "3-month Treasury yield sits 38 bp above the effective fed funds rate",
+      "take": "On October 13 the 3-month constant-maturity Treasury yield was 4.26% while the effective federal funds rate was 3.88%, per the Fed's H.15 release; the 2-year yield was 4.79%. The 3-month yield has edged up from 4.22% on October 7. Bills yielding well above overnight policy is consistent with a market that leans toward tighter Fed policy ahead of the October 27–28 FOMC meeting.",
+      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
+      "source_url": "https://federalreserve.gov/releases/h15/",
+      "time": "2026-10-14T21:28:14Z",
+      "checked": "2026-10-14T22:06:09Z"
+    },
+    {
+      "id": "2026-10-14-h15-tips-breakeven",
+      "tag": "RATES",
+      "headline": "10-year TIPS real yield at 2.88%, leaving a 2.33% breakeven",
+      "take": "The 10-year inflation-indexed Treasury yield was 2.88% on October 13 versus a 5.21% nominal 10-year yield, per the Fed's H.15, implying a breakeven inflation spread of about 2.33 percentage points. The real yield has eased from 2.92% on October 7. Real yields near 2.9% are doing most of the tightening in financial conditions; inflation compensation remains contained.",
+      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
+      "source_url": "https://federalreserve.gov/releases/h15/",
+      "time": "2026-10-14T21:32:14Z",
+      "checked": "2026-10-14T22:06:09Z"
+    },
     {
       "id": "2026-10-13-sentinelone-converts",
       "tag": "DEALS",
@@ -9,7 +214,8 @@
       "source_name": "SentinelOne press release (Business Wire)",
       "source_url": "https://www.businesswire.com/news/home/20261013630798/en/SentinelOne-Announces-Pricing-of-Offering-of-$1.25-Billion-of-0.00-Convertible-Senior-Notes-Due-2031",
       "ticker": "NYSE:S",
-      "time": "2026-10-14T21:02:00Z"
+      "time": "2026-10-14T21:02:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-12-ionq-elisity",
@@ -19,7 +225,8 @@
       "source_name": "IonQ 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526419609/ionq-ex99_1.htm",
       "ticker": "NYSE:IONQ",
-      "time": "2026-10-14T20:55:00Z"
+      "time": "2026-10-14T20:55:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-bumble-ithaca",
@@ -29,7 +236,8 @@
       "source_name": "Bumble 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001830043/000095010326015480/dp254907_ex9901.htm",
       "ticker": "NASDAQ:BMBL",
-      "time": "2026-10-14T20:48:00Z"
+      "time": "2026-10-14T20:48:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-att-mexico-sale",
@@ -39,7 +247,8 @@
       "source_name": "AT&T newsroom",
       "source_url": "https://about.att.com/story/2026/att-to-sell-att-mexico.html",
       "ticker": "NYSE:T",
-      "time": "2026-10-14T20:41:00Z"
+      "time": "2026-10-14T20:41:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-galderma-zo-skin-health",
@@ -49,7 +258,8 @@
       "source_name": "Galderma press release",
       "source_url": "https://www.galderma.com/news/galderma-signs-agreement-acquire-zo-skin-health",
       "ticker": "SIX:GALD",
-      "time": "2026-10-14T20:34:00Z"
+      "time": "2026-10-14T20:34:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-fast-q3",
@@ -59,7 +269,8 @@
       "source_name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm",
       "ticker": "NASDAQ:FAST",
-      "time": "2026-10-14T20:59:00Z"
+      "time": "2026-10-14T20:59:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-pgr-q3",
@@ -69,7 +280,8 @@
       "source_name": "Progressive 8-K, Exhibit 99 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000080661/000008066126000367/pgr202609ex99earningsrelea.htm",
       "ticker": "NYSE:PGR",
-      "time": "2026-10-14T20:52:00Z"
+      "time": "2026-10-14T20:52:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-beige-dallas-diesel",
@@ -78,7 +290,8 @@
       "take": "The Dallas Fed's section of today's Beige Book says price pressures picked up, with diesel the most commonly cited factor driving costs and causing widespread margin compression. Retailers voiced concern, but most said higher diesel had not yet led to price hikes. That pass-through gap is exactly what the FOMC will be watching after September's energy-driven CPI print.",
       "source_name": "Federal Reserve, Beige Book (Dallas), October 2026",
       "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-dallas.htm",
-      "time": "2026-10-14T20:45:00Z"
+      "time": "2026-10-14T20:45:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-wfc-q3",
@@ -88,7 +301,8 @@
       "source_name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm",
       "ticker": "NYSE:WFC",
-      "time": "2026-10-14T20:38:00Z"
+      "time": "2026-10-14T20:38:00Z",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-stt-q3",
@@ -98,7 +312,8 @@
       "source_name": "State Street 8-K earnings release (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm",
       "ticker": "NYSE:STT",
-      "time": "2026-10-14T20:31:00Z"
+      "time": "2026-10-14T20:31:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-blk-q3",
@@ -108,7 +323,8 @@
       "source_name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm",
       "ticker": "NYSE:BLK",
-      "time": "2026-10-14T20:24:00Z"
+      "time": "2026-10-14T20:24:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-asml-q3",
@@ -118,7 +334,8 @@
       "source_name": "ASML Q3 2026 press release, Form 6-K (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
       "ticker": "NASDAQ:ASML",
-      "time": "2026-10-14T20:17:00Z"
+      "time": "2026-10-14T20:17:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-bac-q3",
@@ -128,17 +345,20 @@
       "source_name": "Bank of America 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm",
       "ticker": "NYSE:BAC",
-      "time": "2026-10-14T20:10:00Z"
+      "time": "2026-10-14T20:10:00Z",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-ms-q3",
       "time": "2026-10-14T19:46:00Z",
       "tag": "EARNINGS",
       "headline": "Morgan Stanley Q3 net revenues rise to $20.3B; EPS $3.03 vs $2.80",
-      "take": "Morgan Stanley reported third-quarter net revenues of $20.3 billion, up from $18.2 billion a year earlier, with net income of $4.9 billion, or $3.03 per diluted share, versus $4.6 billion, or $2.80, and a 22.6% return on tangible common equity. Revenue up roughly 11.5% and EPS up about 8% point to strong capital generation at a major dealer, a supportive backdrop for large-bank senior debt.",
+      "take": "Morgan Stanley reported third-quarter net revenues of $20.3 billion, up from $18.2 billion a year earlier, with net income of $4.9 billion, or $3.03 per diluted share, versus $4.6 billion, or $2.80, and a 22.6% return on tangible common equity. Revenue up roughly 11.6% and EPS up about 8% point to strong capital generation at a major dealer, a supportive backdrop for large-bank senior debt.",
       "source_name": "Morgan Stanley Q3 2026 earnings release",
       "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf",
-      "ticker": "NYSE:MS"
+      "ticker": "NYSE:MS",
+      "correction": "Corrected Morgan Stanley's year-over-year revenue growth from roughly 11.5% to 11.6% ($20,338M vs $18,224M per the earnings release).",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-cpi-headline",
@@ -147,7 +367,8 @@
       "headline": "September CPI jumps 0.6%, with gasoline doing most of the work",
       "take": "Headline CPI rose 0.6% in September after 0.4% in August, putting the 12-month rate at 3.7%. BLS says gasoline rose 9.1% on the month and accounted for over half of the increase. This is an energy shock showing up in the headline, and the market is treating it as a policy problem.",
       "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-cpi-core-gap",
@@ -156,7 +377,8 @@
       "headline": "The gap that matters: headline at 3.7%, core at 2.6%",
       "take": "Core CPI, which strips out food and energy, rose 0.3% in September and 2.6% over the past year. Energy is up 20.4% year over year. The question for the Fed is whether energy prices leak into everything else. Shelter, the stickiest piece, rose 0.4% on the month and 3.2% on the year.",
       "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-14-fomc-oct",
@@ -165,7 +387,8 @@
       "headline": "Fed meets October 27–28 with inflation moving the wrong way",
       "take": "The FOMC's next two-day meeting is October 27–28, with the press conference on the 28th. Today's CPI gives the committee a hotter headline print to weigh against a calmer core. The Fed also released its Beige Book, its regional read on the economy, at 2:00 p.m. ET today.",
       "source_name": "Federal Reserve",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-13-gs-q3",
@@ -175,7 +398,8 @@
       "take": "Goldman reported third-quarter net revenues of $18.68 billion and net earnings of $5.29 billion, or $17.01 per diluted share, for an 18.7% annualized return on equity. Global Banking & Markets brought in $13.46 billion, about 72% of the total. Trading and deal desks are carrying the quarter.",
       "source_name": "Goldman Sachs 8-K (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm",
-      "ticker": "NYSE:GS"
+      "ticker": "NYSE:GS",
+      "checked": "2026-10-14T20:48:00Z"
     },
     {
       "id": "2026-10-09-debt",

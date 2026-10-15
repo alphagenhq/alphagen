@@ -1,14 +1,280 @@
 {
-  "updated": "2026-10-14T20:32:34Z",
+  "updated": "2026-10-14T22:29:14Z",
   "items": [
+    {
+      "id": "2026-10-14-mubadala-clear-channel-close",
+      "time": "2026-10-14T22:36:00Z",
+      "type": "M&A",
+      "headline": "Mubadala Capital completes ~$6.2B acquisition of Clear Channel Outdoor",
+      "parties": "Acquirer: Mubadala Capital (subsidiary of Mubadala Investment Company); Target: Clear Channel Outdoor Holdings",
+      "value": 6.2,
+      "value_text": "About $6.2B",
+      "status": "Completed",
+      "announced": "2026-10-14",
+      "sector": "Media / Out-of-Home Advertising",
+      "take": "Clear Channel Outdoor said the take-private closed after all applicable regulatory approvals and stockholder approval, and its common stock will be delisted from the NYSE. The close puts a major listed out-of-home ad operator under sovereign-backed private ownership, alongside a leadership change announced the same day.",
+      "source_name": "Clear Channel Outdoor 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001334978/000121390026109385/ea030842201ex99-1.htm",
+      "tickers": [
+        "NYSE:CCO"
+      ]
+    },
+    {
+      "id": "2026-10-14-medtronic-minimed-exchange-final",
+      "time": "2026-10-14T22:44:00Z",
+      "type": "M&A",
+      "headline": "Medtronic accepts 55.0M shares in exchange for all 252.8M MiniMed shares it held",
+      "parties": "Parent: Medtronic; Split-off company: MiniMed Group, Inc.",
+      "value": null,
+      "value_text": "Undisclosed (share exchange: 252,813,348 MiniMed shares for 55,032,401 Medtronic shares)",
+      "status": "Completed",
+      "announced": "2026-10-14",
+      "sector": "Medical Devices",
+      "take": "Medtronic said 297,521,390 of its shares were tendered and 55,032,401 accepted at a final proration factor of 18.289133%, in exchange for its entire remaining stake of 252,813,348 MiniMed shares, implying about 4.59 MiniMed shares per Medtronic share. Heavy oversubscription let Medtronic fully exit MiniMed while retiring roughly 55 million of its own shares rather than spinning them out pro rata.",
+      "source_name": "Medtronic press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html",
+      "tickers": [
+        "NYSE:MDT"
+      ]
+    },
+    {
+      "id": "2026-10-13-agility-tristar-aegis",
+      "time": "2026-10-14T22:52:00Z",
+      "type": "M&A",
+      "headline": "Agility to sell Tristar stake to Aegis Logistics at $1.5B enterprise value",
+      "parties": "Seller: Agility Global PLC; Acquirer: Aegis Logistics Limited; Target: Tristar",
+      "value": 1.5,
+      "value_text": "$1.5B enterprise value ($882M equity value)",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Energy Logistics",
+      "take": "Agility said the deal values Tristar at $1.5 billion enterprise value and $882 million equity value, about 6.0x 2025 EBITDA, with closing expected before the end of March 2027 subject to regulatory approvals. Tristar posted $1.4 billion of 2025 revenue and $257 million of EBITDA, giving India's Aegis a global fuel-logistics footprint across 30+ countries.",
+      "source_name": "Agility press release",
+      "source_url": "https://agility.com/news/agility-announces-sale-of-tristar-to-aegis-logistics/",
+      "tickers": [
+        "NSE:AEGISLOG"
+      ]
+    },
+    {
+      "id": "2026-10-14-select-water-notes-2034",
+      "time": "2026-10-14T23:00:00Z",
+      "type": "Debt",
+      "headline": "Select Water prices upsized $900M of 7.625% senior notes due 2034",
+      "parties": "Issuer: Select Water Holdings LLC (subsidiary of Select Water Solutions, Inc.)",
+      "value": 0.9,
+      "value_text": "$900M 7.625% senior unsecured notes due 2034",
+      "status": "Priced",
+      "announced": "2026-10-14",
+      "sector": "Energy Services / Water Infrastructure",
+      "take": "The notes were upsized from $800 million, priced at par and are expected to close on October 21, 2026, with proceeds going partly toward the cash consideration for Pilot Water Solutions, repaying the term loan in full and paying down revolver borrowings. A 7.625% coupon locks in long-dated funding for the Pilot deal, and the offering is not contingent on that acquisition closing.",
+      "source_name": "Select Water Solutions press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-inc-announces-pricing-of-upsized-900-million-of-7-625-senior-notes-due-2034--302909132.html",
+      "tickers": [
+        "NYSE:WTTR"
+      ]
+    },
+    {
+      "id": "2026-10-13-atlantic-ridge-paragon-films",
+      "time": "2026-10-14T23:08:00Z",
+      "type": "PE",
+      "headline": "Atlantic Ridge Capital to buy stretch-film maker Paragon Films for about $900M",
+      "parties": "Acquirer: Atlantic Ridge Capital, with Grafine Partners and Paragon management; Target: Paragon Films",
+      "value": 0.9,
+      "value_text": "About $900M",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Industrials / Packaging",
+      "take": "Paragon is the debut investment for New York-based Atlantic Ridge, backed by committed debt financing from UBS Investment Bank, BMO Capital Markets and Santander, with closing expected in the fourth quarter of 2026. A roughly $900 million first deal is an unusually large opening bet for a new sponsor on a packaging niche serving more than 20,000 end users.",
+      "source_name": "Atlantic Ridge Capital press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379570/0/en/atlantic-ridge-capital-to-acquire-paragon-films-for-approximately-900-million.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-symbotic-cellumation",
+      "time": "2026-10-14T23:16:00Z",
+      "type": "M&A",
+      "headline": "Symbotic acquires German sortation tech firm cellumation; terms undisclosed",
+      "parties": "Acquirer: Symbotic; Target: cellumation GmbH",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Robotics / Supply Chain Automation",
+      "take": "Symbotic announced the acquisition of Bremen-based cellumation, maker of the celluveyor modular sortation system, which will keep its name and founder leadership and sell directly and through integrators. The tuck-in adds sortation technology and a larger European base to Symbotic's warehouse automation platform.",
+      "source_name": "Symbotic press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379466/0/en/symbotic-announces-acquisition-of-cellumation-advancing-next-generation-sortation-technology-for-the-global-supply-chain.html",
+      "tickers": [
+        "NASDAQ:SYM"
+      ]
+    },
+    {
+      "id": "2026-10-12-freshworks-torii",
+      "time": "2026-10-14T23:24:00Z",
+      "type": "M&A",
+      "headline": "Freshworks to acquire SaaS management platform Torii; terms undisclosed",
+      "parties": "Acquirer: Freshworks Inc.; Target: Torii",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Pending",
+      "announced": "2026-10-12",
+      "sector": "Software",
+      "take": "Freshworks signed a definitive agreement to buy Torii and expects to close in its fiscal fourth quarter of 2026, subject to customary conditions. Torii's app, license and AI-spend tracking extends Freshservice into software spend governance, adding AI-spend tracking to its IT service management suite.",
+      "source_name": "Freshworks press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to-extend-freshservice-into-ai-and-software-spend-governance-with-agreement-to-acquire-torii.html",
+      "tickers": [
+        "NASDAQ:FRSH"
+      ]
+    },
+    {
+      "id": "2026-10-14-fairfax-idbi-bank",
+      "time": "2026-10-14T21:50:00Z",
+      "type": "M&A",
+      "headline": "Fairfax named strategic buyer for 60.72% of IDBI Bank at about $5.6B",
+      "parties": "Buyer: Fairfax Financial Holdings (via a subsidiary) with Fairfax India Holdings; Seller: Government of India; Target: IDBI Bank",
+      "value": 5.6,
+      "value_text": "INR 528.78B (about $5.6B) cash at INR 81/share",
+      "status": "Announced",
+      "announced": "2026-10-14",
+      "sector": "Banking",
+      "take": "India's government named a Fairfax subsidiary the strategic buyer for a 60.72% stake in IDBI Bank at INR 81 a share, about a 23% premium to book value, though no binding agreements are signed and the sale process is not at its final stage. Fairfax also plans to fold its Digit insurance stakes and Fairfax India's IIFL Capital holding into the bank, which would turn IDBI into a broader financial-services platform if regulators sign off.",
+      "source_name": "Fairfax Financial press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381180/0/en/fairfax-declared-strategic-buyer-in-auction-to-acquire-interest-in-idbi-bank-plans-to-contribute-digit-insurance-and-iifl-capital-to-idbi-bank.html",
+      "tickers": [
+        "TSX:FFH",
+        "TSX:FIH.U",
+        "NSE:IDBI"
+      ]
+    },
+    {
+      "id": "2026-10-13-humana-blackrock-centerwell-jv",
+      "time": "2026-10-14T21:57:00Z",
+      "type": "PE",
+      "headline": "BlackRock's HPS buys WCAS stake, valued near $2.8B, in Humana CenterWell clinics JV",
+      "parties": "Buyer: funds and accounts managed by HPS Investment Partners, a part of BlackRock; Seller: WCAS; Partner: Humana (CenterWell)",
+      "value": 2.8,
+      "value_text": "About $2.8B equity stake",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Healthcare",
+      "take": "BlackRock will take majority ownership of a new joint venture running nearly 150 CenterWell Senior Primary Care clinics by acquiring WCAS's equity, valued at about $2.8 billion, with closing expected in the fourth quarter. The new structure has no put option, which Humana says should significantly reduce balance-sheet liabilities while it keeps a right to buy clinics back from 2028.",
+      "source_name": "Humana 8-K, Exhibit 99 press release (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000049071/000004907126000060/blackrockstrategicjvpressr.htm",
+      "tickers": [
+        "NYSE:HUM",
+        "NYSE:BLK"
+      ]
+    },
+    {
+      "id": "2026-10-14-cipher-digital-converts",
+      "time": "2026-10-14T22:04:00Z",
+      "type": "Debt",
+      "headline": "Cipher Digital prices $850M of 0.00% convertible notes due 2032",
+      "parties": "Issuer: Cipher Digital Inc.",
+      "value": 0.85,
+      "value_text": "$850M 0.00% convertible notes",
+      "status": "Priced",
+      "announced": "2026-10-14",
+      "sector": "Data Centers",
+      "take": "Cipher Digital priced $850 million of zero-coupon converts due 2032 at an initial conversion price of about $15.31, a 35% premium, for net proceeds of about $835.1 million, of which about $89.7 million goes to capped calls. The rest funds the Barber Lake project and HPC build-out, while a concurrent swap retires about $165.9 million of 2030 notes for roughly 40.7 million shares.",
+      "source_name": "Cipher Digital 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001819989/000119312526421035/d77312dex991.htm",
+      "tickers": [
+        "NASDAQ:CIFR"
+      ]
+    },
+    {
+      "id": "2026-10-13-icon-series-d",
+      "time": "2026-10-14T22:11:00Z",
+      "type": "VC",
+      "headline": "ICON raises $200M Series D co-led by Baillie Gifford and BlackRock funds",
+      "parties": "Co-leads: Baillie Gifford and funds managed by BlackRock; Participants: Capital Factory, CAZ Investments, Moderne Ventures, Moonshots Capital, Norwest, Overmatch, The Syndicate, Tiger Global",
+      "value": 0.2,
+      "value_text": "$200M Series D",
+      "status": "Raised",
+      "announced": "2026-10-13",
+      "sector": "Construction Technology",
+      "take": "The Austin-based builder of robotic 3D-printing construction systems says the round will fund manufacturing and deployment of its machines, a large Austin R&D facility, and expansion into Texas, Florida, Washington, D.C., and other U.S. markets. Crossover-style backers like Baillie Gifford and BlackRock funds leading suggests investors see construction automation as a scale-stage opportunity.",
+      "source_name": "ICON press release (GlobeNewswire, via The Manila Times)",
+      "source_url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/icon-raises-200m-series-d-to-transform-how-the-world-builds/2444611/amp",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-souffle-series-b",
+      "time": "2026-10-14T22:18:00Z",
+      "type": "VC",
+      "headline": "Soufflé Therapeutics raises oversubscribed $135M Series B led by Juvia Group",
+      "parties": "Lead: Juvia Group; Participants: TCG Crossover Management, BB Biotech, Fidelity Management & Research Company, Balyasny Asset Management, Amgen Ventures, ARCH Venture Partners, Temasek and others",
+      "value": 0.135,
+      "value_text": "$135M Series B",
+      "status": "Raised",
+      "announced": "2026-10-13",
+      "sector": "Biotech",
+      "take": "The Boston biotech will use the money to move its three lead programs, in FSHD, heart failure with reduced ejection fraction and an undisclosed muscle and metabolic target, into clinical studies. The syndicate pairs new institutional money from Fidelity, TCG Crossover and BB Biotech with existing backers including Amgen Ventures and ARCH, giving it a deep investor base for the next stage of development.",
+      "source_name": "Soufflé Therapeutics press release (Business Wire, via Yahoo Finance)",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/souffl-therapeutics-announces-oversubscribed-135-140000852.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-brookdale-welltower-30",
+      "time": "2026-10-14T22:25:00Z",
+      "type": "M&A",
+      "headline": "Brookdale to buy 30 leased communities from Welltower for $290M",
+      "parties": "Acquirer: Brookdale Senior Living; Seller: Welltower",
+      "value": 0.29,
+      "value_text": "$290M cash and mortgage debt",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Senior Housing",
+      "take": "Brookdale will pay $290 million for 30 leased communities with 1,152 units, cutting about $17.8 million of 2027 cash rent, after closing a separate $157 million purchase of 17 communities the same day. Together the two deals cover 47 communities and move Brookdale's owned share of units toward nearly 80%, reducing the share of its portfolio held under leases.",
+      "source_name": "Brookdale press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html",
+      "tickers": [
+        "NYSE:BKD",
+        "NYSE:WELL"
+      ]
+    },
+    {
+      "id": "2026-10-13-reach-security-series-b",
+      "time": "2026-10-14T22:32:00Z",
+      "type": "VC",
+      "headline": "Reach Security raises more than $50M Series B led by Top Tier Capital Partners",
+      "parties": "Lead: Top Tier Capital Partners; Participants: Ballistic Ventures, In-Q-Tel, M12 (Microsoft's Venture Fund), existing investors",
+      "value": null,
+      "value_text": "More than $50M Series B",
+      "status": "Raised",
+      "announced": "2026-10-13",
+      "sector": "Cybersecurity",
+      "take": "Reach Security, whose AI reads the live configuration of customers' existing security tools to close attack paths, will spend the money on product, integrations, international expansion and U.S. enterprise and federal growth. In-Q-Tel and Microsoft's M12 on the cap table give it credibility in the government and Microsoft-centric enterprise segments it is targeting.",
+      "source_name": "Reach Security press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379991/0/en/reach-security-raises-more-than-50m-series-b-to-stop-ai-powered-attacks-by-autonomously-closing-the-gaps-they-target.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-dsg-gradeeight",
+      "time": "2026-10-14T22:39:00Z",
+      "type": "M&A",
+      "headline": "DSG to buy Winzer and FastServ owner GradeEight Holdings; terms undisclosed",
+      "parties": "Acquirer: Distribution Solutions Group; Target: GradeEight Holdings (Winzer Corporation, FastServ Supply)",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-13",
+      "sector": "Industrial Distribution",
+      "take": "GradeEight brings about $110 million of annual sales through Winzer's MRO franchise network and FastServ's stores in Texas and Arkansas, funded with DSG's cash and credit-line availability and expected to close in the fourth quarter. DSG says the deal is expected to be accretive to its adjusted EBITDA margins.",
+      "source_name": "Distribution Solutions Group press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-13-distribution-solutions-group-announces-strategic-acquisition-of-winzer-and-fastserv-supply",
+      "tickers": [
+        "NASDAQ:DSGR"
+      ]
+    },
     {
       "id": "2026-10-13-porch-allied-trust",
       "time": "2026-10-14T21:23:00Z",
       "type": "M&A",
-      "headline": "Porch Group and its reciprocal to buy insurer Allied Trust for $200M in base prices",
+      "headline": "Porch Group and its reciprocal to buy insurer Allied Trust for $200M including deferred consideration",
       "parties": "Acquirers: Porch Group and the Reciprocal it manages; Target: Allied Trust",
       "value": 0.2,
-      "value_text": "$200M combined base price, cash and stock",
+      "value_text": "$200M total ($150M combined base price plus $50M deferred), cash and stock",
       "status": "Announced",
       "announced": "2026-10-13",
       "sector": "Insurance",
@@ -17,7 +283,9 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001784535/000178453526000054/prch-20261013xexx991.htm",
       "tickers": [
         "NASDAQ:PRCH"
-      ]
+      ],
+      "correction": "Corrected the headline and value text: the combined base price is $150M ($55M + $95M); the $200M total includes $50M of deferred consideration.",
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-salience-labs-series-b",
@@ -33,7 +301,8 @@
       "take": "Backing from AMD Ventures and Intel Capital puts chipmaker money behind optical circuit switching, which aims to cut the power and latency of moving data between AI accelerators. The round funds volume manufacturing and 128- and 256-port products, a sign that datacenter networking is drawing capital alongside compute itself.",
       "source_name": "Cambridge Innovation Capital (Salience Labs press release)",
       "source_url": "https://www.cic.vc/salience-labs-secures-125-million-in-series-b-funding-to-scale-photonic-networking-chips-for-ai-datacenter-infrastructure/",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-workday-c1ai",
@@ -51,7 +320,8 @@
       "source_url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx",
       "tickers": [
         "NASDAQ:WDAY"
-      ]
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-sentinelone-converts",
@@ -69,7 +339,8 @@
       "source_url": "https://www.businesswire.com/news/home/20261013630798/en/SentinelOne-Announces-Pricing-of-Offering-of-$1.25-Billion-of-0.00-Convertible-Senior-Notes-Due-2031",
       "tickers": [
         "NYSE:S"
-      ]
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-12-ionq-elisity",
@@ -87,7 +358,8 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526419609/ionq-ex99_1.htm",
       "tickers": [
         "NYSE:IONQ"
-      ]
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-bumble-ithaca",
@@ -105,7 +377,8 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001830043/000095010326015480/dp254907_ex9901.htm",
       "tickers": [
         "NASDAQ:BMBL"
-      ]
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-13-att-mexico-sale",
@@ -124,7 +397,8 @@
       "tickers": [
         "NYSE:T",
         "NYSE:TV"
-      ]
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
       "id": "2026-10-14-galderma-zo-skin-health",
@@ -142,7 +416,8 @@
       "source_url": "https://www.galderma.com/news/galderma-signs-agreement-acquire-zo-skin-health",
       "tickers": [
         "SIX:GALD"
-      ]
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     }
   ]
 }

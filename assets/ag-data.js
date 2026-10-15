@@ -347,3 +347,82 @@ renderFilings(); setInterval(renderFilings,5*60000);
   q.addEventListener("input",run);
 })();
 })();
+
+/* ===== AlphaGen Markets Snapshot + Economic Calendar ===== */
+(function(){
+"use strict";
+const AG=window.AG||{}; const $$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const DATA="https://raw.githubusercontent.com/alphagenhq/alphagen/data/";
+const day=s=>{const [y,m,d]=s.slice(0,10).split("-").map(Number);return new Date(y,m-1,d)};
+const shortDay=s=>day(s).toLocaleDateString("en-US",{month:"short",day:"numeric"});
+
+/* ---------- Snapshot ---------- */
+const SNAP=[
+ {g:"Treasuries",rows:[["DGS2","2-year","%"],["DGS10","10-year","%"],["DGS30","30-year","%"],["T10Y2Y","2s10s spread","pp"]]},
+ {g:"Credit & volatility",rows:[["BAMLC0A0CM","IG spread","%"],["BAMLH0A0HYM2","HY spread","%"],["VIXCLS","VIX",""]]},
+ {g:"Dollar & FX",rows:[["DTWEXBGS","Broad dollar",""],["DEXUSEU","EUR/USD","fx4"],["DEXJPUS","USD/JPY","fx2"]]},
+ {g:"Energy",rows:[["DCOILWTICO","WTI crude","$"],["DCOILBRENTEU","Brent crude","$"],["DHHNGSP","Henry Hub gas","$"]]},
+ {g:"Crypto · live",live:true,rows:[["BTC-USD","Bitcoin","$c","CBBTCUSD"],["ETH-USD","Ether","$c","CBETHUSD"],["SOL-USD","Solana","$c",null]]}
+];
+const fmt=(v,u)=>{if(v==null||isNaN(v))return"—";if(u==="%")return v.toFixed(2)+"%";if(u==="pp")return(v>0?"+":"")+Math.round(v*100)+"bp";if(u==="fx4")return v.toFixed(4);if(u==="fx2")return v.toFixed(2);if(u==="$")return"$"+v.toFixed(2);if(u==="$c")return"$"+(v>=1000?Math.round(v).toLocaleString("en-US"):v.toFixed(2));return v.toFixed(2)};
+const chg=(n,p,u)=>{if(n==null||p==null)return{t:"",c:""};const d=n-p;let t;if(u==="%"||u==="pp")t=(d>0?"+":"")+Math.round(d*100)+"bp";else{const pct=p?d/p*100:0;t=(pct>0?"+":"")+pct.toFixed(2)+"%"}return{t,c:d>0?"up":d<0?"down":""}};
+function spark(pts){if(!pts||pts.length<2)return"";const W=120,H=30,vs=pts.map(p=>p.v),lo=Math.min(...vs),hi=Math.max(...vs),r=hi-lo||1;const l=pts.map((p,i)=>(i*(W-2)/(pts.length-1)+1).toFixed(1)+","+(H-2-(p.v-lo)*(H-4)/r).toFixed(1)).join(" ");const col=vs[vs.length-1]>=vs[0]?"#36c98b":"#ff6b6b";return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true"><polyline points="${l}" fill="none" stroke="${col}" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg>`}
+function renderSnapshot(root){
+  root.innerHTML='<div class="snap-grid">'+SNAP.map(g=>`<div class="snap-g"><div class="snap-h"><span>${esc(g.g)}</span>${g.live?'<span class="live">Live</span>':'<span class="snap-asof" data-asof></span>'}</div>${g.rows.map(r=>`<div class="snap-r" data-sym="${r[0]}"><span class="sn">${esc(r[1])}</span><span class="ss"></span><span class="sv num">—</span><span class="sc num"></span></div>`).join("")}</div>`).join("")+'</div><div class="snap-foot">Rates, credit, FX, and energy: latest official close via FRED (Treasury, Federal Reserve, ICE BofA, CBOE, EIA). Crypto: live from Coinbase. Not investment advice.</div>';
+  const start=new Date(Date.now()-75*864e5).toISOString().slice(0,10);
+  SNAP.forEach(g=>g.rows.forEach(([sym,,u,fid])=>{
+    const id=g.live?fid:sym; if(!id||!AG.fred) return;
+    AG.fred(id,start).then(o=>{
+      const el=root.querySelector(`[data-sym="${sym}"]`); if(!el||!o.length) return;
+      el.querySelector(".ss").innerHTML=spark(o.slice(-40));
+      if(g.live) return;
+      const n=o[o.length-1],p=o[o.length-2];el.querySelector(".sv").textContent=fmt(n.v,u);
+      const c=chg(n.v,p&&p.v,u);const sc=el.querySelector(".sc");sc.textContent=c.t;sc.className="sc num "+c.c;
+      const a=el.closest(".snap-g").querySelector("[data-asof]");if(a&&(!a.dataset.d||n.d>a.dataset.d)){a.dataset.d=n.d;a.textContent="Close "+shortDay(n.d)}
+    }).catch(()=>{});
+  }));
+  liveCrypto(root);
+}
+function liveCrypto(root){
+  const prods=["BTC-USD","ETH-USD","SOL-USD"]; let ws,retry=0;
+  const apply=m=>{const el=root.querySelector(`[data-sym="${m.product_id}"]`);if(!el)return;const px=+m.price,op=+m.open_24h;const v=el.querySelector(".sv");const prev=+v.dataset.v||0;v.textContent=fmt(px,"$c");v.dataset.v=px;if(prev&&px!==prev){v.classList.remove("tick-up","tick-dn");void v.offsetWidth;v.classList.add(px>prev?"tick-up":"tick-dn")}if(op){const pct=(px/op-1)*100;const sc=el.querySelector(".sc");sc.textContent=(pct>0?"+":"")+pct.toFixed(2)+"% 24h";sc.className="sc num "+(pct>0?"up":pct<0?"down":"")}};
+  const connect=()=>{try{ws=new WebSocket("wss://ws-feed.exchange.coinbase.com")}catch(e){return poll()}
+    ws.onopen=()=>{retry=0;ws.send(JSON.stringify({type:"subscribe",product_ids:prods,channels:["ticker"]}))};
+    let last={};ws.onmessage=e=>{const m=JSON.parse(e.data);if(m.type!=="ticker")return;const t=Date.now();if(t-(last[m.product_id]||0)<1000)return;last[m.product_id]=t;apply(m)};
+    ws.onclose=()=>{if(retry++<5)setTimeout(connect,2000*retry);else poll()};ws.onerror=()=>{try{ws.close()}catch(e){}}};
+  const poll=()=>{const go=()=>prods.forEach(p=>Promise.all([fetch("https://api.exchange.coinbase.com/products/"+p+"/ticker").then(r=>r.json()),fetch("https://api.exchange.coinbase.com/products/"+p+"/stats").then(r=>r.json())]).then(([t,s])=>apply({product_id:p,price:t.price,open_24h:s.open})).catch(()=>{}));go();setInterval(go,15000)};
+  document.addEventListener("visibilitychange",()=>{if(document.hidden){try{ws&&ws.close()}catch(e){}retry=99}else if(!ws||ws.readyState>1){retry=0;connect()}});
+  connect();
+}
+$$("[data-snapshot]").forEach(renderSnapshot);
+
+/* ---------- Economic calendar ---------- */
+const CATCLS={Inflation:"c-inf",Labor:"c-lab",Growth:"c-gro",Housing:"c-hou",Fed:"c-fed",Treasury:"c-tsy"};
+function renderCalendar(root){
+  const days=+root.dataset.days||14;
+  const nyToday=new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York"}).format(new Date());
+  const end=new Date(day(nyToday).getTime()+days*864e5).toISOString().slice(0,10);
+  Promise.all([
+    fetch(DATA+"calendar.json").then(r=>r.json()).catch(()=>fetch("/calendar.json").then(r=>r.json())).catch(()=>({items:[]})),
+    fetch("/api/auctions",{cache:"no-store"}).then(r=>r.json()).catch(()=>({data:[]}))
+  ]).then(([cal,auc])=>{
+    let ev=(cal.items||[]).slice();
+    const null_=v=>v==null||v==="null"||v==="";
+    (auc.data||[]).filter(a=>null_(a.bid_to_cover_ratio)&&a.auction_date>=nyToday).forEach(a=>{
+      const coupon=a.security_type!=="Bill";
+      ev.push({date:a.auction_date,time:"",name:"Treasury auction: "+a.security_term+" "+a.security_type.toLowerCase()+(a.offering_amt&&!null_(a.offering_amt)?" ($"+Math.round(a.offering_amt/1e9)+"B)":""),agency:"U.S. Treasury",category:"Treasury",importance:coupon?2:1,source_url:"https://www.treasurydirect.gov/auctions/upcoming/"});
+    });
+    ev=ev.filter(e=>e.date>=nyToday&&e.date<=end).sort((a,b)=>(a.date+(a.time||"99")).localeCompare(b.date+(b.time||"99"))||b.importance-a.importance);
+    if(root.dataset.min) ev=ev.filter(e=>e.importance>=+root.dataset.min);
+    if(!ev.length){root.innerHTML='<div class="empty"><b>No scheduled releases in this window.</b></div>';return}
+    const nowHM=new Intl.DateTimeFormat("en-GB",{timeZone:"America/New_York",hour:"2-digit",minute:"2-digit",hour12:false}).format(new Date());const next=ev.find(e=>e.importance>=3&&(e.date>nyToday||(e.date===nyToday&&e.time&&e.time>nowHM)));
+    const by={};ev.forEach(e=>(by[e.date]=by[e.date]||[]).push(e));
+    root.innerHTML=(next?`<div class="cal-next"><span class="eyebrow">Next major release</span><b>${esc(next.name)}</b><span class="num">${esc(day(next.date).toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"}))}${next.time?" · "+esc(fmtT(next.time))+" ET":""}</span></div>`:"")+
+      Object.keys(by).map(d=>`<div class="cal-day${d===nyToday?" today":""}"><div class="cal-d"><b>${esc(day(d).toLocaleDateString("en-US",{weekday:"short"}))}</b><span>${esc(shortDay(d))}</span>${d===nyToday?'<i>Today</i>':""}</div><div class="cal-evs">${by[d].map(e=>`<a class="cal-e imp${e.importance}" href="${esc(e.source_url||"#")}" target="_blank" rel="noopener"><span class="ct num">${e.time?esc(fmtT(e.time)):"—"}</span><span class="cn">${esc(e.name)}</span><span class="cc ${CATCLS[e.category]||""}">${esc(e.category)}</span><span class="ca">${esc(e.agency)}</span></a>`).join("")}</div></div>`).join("")+
+      '<div class="snap-foot">Dates and times (ET) from official BLS, BEA, Census, Federal Reserve, and Treasury schedules. "—" means the agency publishes no time. Click any event for its official source.</div>';
+  });
+}
+function fmtT(t){const [h,m]=t.split(":").map(Number);return((h%12)||12)+":"+String(m).padStart(2,"0")+(h<12?" a.m.":" p.m.")}
+$$("[data-calendar]").forEach(renderCalendar);
+})();
