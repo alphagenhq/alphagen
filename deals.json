@@ -1,6 +1,76 @@
 {
-  "updated": "2026-10-15T00:38:13Z",
+  "updated": "2026-10-15T11:42:24Z",
   "items": [
+    {
+      "id": "2026-10-15-penske-automotive-take-private",
+      "time": "2026-10-15T11:45:00Z",
+      "type": "M&A",
+      "headline": "Penske Automotive to be taken private by Penske Corp. and Mitsui at $212 a share",
+      "parties": "Acquirer: Motown Acquisition Corp. (owned by Penske Corporation and Mitsui & Co., Ltd.); Target: Penske Automotive Group, Inc.",
+      "value": 16.3,
+      "value_text": "$212.00/share cash; ~$16.3B enterprise value",
+      "status": "Pending",
+      "announced": "2026-10-15",
+      "sector": "Consumer / Auto Retail",
+      "take": "Penske Automotive agreed to be taken private by a buyer owned by Penske Corporation and Mitsui at $212.00 per share in cash, valuing the company at an enterprise value of about $16.3 billion, with Penske expected to hold about 64% and Mitsui 36% after a closing expected in the first quarter of 2027. Beyond regulatory approvals, the deal needs a majority of votes cast by unaffiliated stockholders, a minority-protection condition that gives public holders a genuine say on a controlling-shareholder buyout.",
+      "source_name": "Penske Automotive Group 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001019849/000114036126039664/ef20083688_ex99-1.htm",
+      "tickers": [
+        "NYSE:PAG"
+      ]
+    },
+    {
+      "id": "2026-10-13-icon-series-d",
+      "time": "2026-10-15T12:01:00Z",
+      "type": "VC",
+      "headline": "ICON raises $200M Series D co-led by Baillie Gifford and BlackRock funds",
+      "parties": "Co-leads: Baillie Gifford, funds managed by BlackRock; Participants: Capital Factory, CAZ Investments, Moderne Ventures, Moonshots Capital, Norwest, Overmatch, The Syndicate, Tiger Global",
+      "value": 0.2,
+      "value_text": "$200M Series D",
+      "status": "Raised",
+      "announced": "2026-10-13",
+      "sector": "Industrials / Construction Technology",
+      "take": "ICON raised a $200 million Series D co-led by Baillie Gifford and funds managed by BlackRock, with participation from investors including Norwest and Tiger Global; no valuation was disclosed. The money funds production of its Titan system at its Austin factory and a large-scale Austin R&D facility, a bet that robotic 3D-printed construction can move from showcase projects to production volume.",
+      "source_name": "ICON press release (GlobeNewswire, via TheTechOutlook)",
+      "source_url": "https://www.thetechoutlook.com/press-release/icon-raises-200m-series-d-to-transform-how-the-world-builds/",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-13-alaunos-velaris",
+      "time": "2026-10-15T12:18:00Z",
+      "type": "M&A",
+      "headline": "Alaunos completes Velaris Therapeutics acquisition alongside $350M private placement",
+      "parties": "Acquirer: Alaunos Therapeutics, Inc.; Target: Velaris Therapeutics, Inc.; Financing lead: Fairmount; Participants: Venrock Healthcare Capital Partners, T. Rowe Price-advised accounts, Wellington, Janus Henderson",
+      "value": null,
+      "value_text": "Undisclosed (plus ~$350M concurrent private placement)",
+      "status": "Completed",
+      "announced": "2026-10-13",
+      "sector": "Healthcare / Biotech",
+      "take": "Alaunos Therapeutics completed its acquisition of privately held Velaris Therapeutics, a pulmonary arterial hypertension drug developer, together with an oversubscribed private placement of Series C non-voting convertible preferred stock raising about $350 million in gross proceeds, led by Fairmount; purchase terms were not disclosed. The structure gives Velaris's PAH pipeline a Nasdaq-listed home and funding the company expects to last into 2029, with Fairmount designees set to join the board once stockholders approve the preferred conversion.",
+      "source_name": "Alaunos Therapeutics press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379885/0/en/alaunos-therapeutics-announces-acquisition-of-velaris-therapeutics.html",
+      "tickers": [
+        "NASDAQ:TCRT"
+      ]
+    },
+    {
+      "id": "2026-10-14-volatus-aispeco",
+      "time": "2026-10-15T12:35:00Z",
+      "type": "M&A",
+      "headline": "Volatus Aerospace to buy Lithuanian sensor maker AISPECO for US$10.5M, mostly in stock",
+      "parties": "Acquirer: Volatus Aerospace Inc.; Target: AISPECO Uab",
+      "value": 0.0105,
+      "value_text": "US$10.5M ($3.0M cash, $7.5M stock) plus up to US$2.5M earnout",
+      "status": "Pending",
+      "announced": "2026-10-14",
+      "sector": "Industrials / Aerospace & Defence",
+      "take": "Volatus Aerospace agreed to acquire Vilnius-based AISPECO, a maker of airborne sensor systems and flight-management software, for US$10.5 million in base consideration (US$3.0 million cash and US$7.5 million in Volatus shares) plus up to US$2.5 million tied to milestones over three years. The stock-heavy structure lets Volatus add proprietary sensor technology to its defence and aerial intelligence offering while conserving cash; closing is subject to conditions including TSX approval.",
+      "source_name": "Volatus Aerospace press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3380712/0/en/volatus-aerospace-to-acquire-aispeco-expanding-proprietary-technology-for-defence-and-aerial-intelligence.html",
+      "tickers": [
+        "TSX:FLT"
+      ]
+    },
     {
       "id": "2026-10-12-steris-xodus-medical",
       "time": "2026-10-15T00:41:00Z",

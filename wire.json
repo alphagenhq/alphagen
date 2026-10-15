@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-15T11:14:05Z",
+  "updated": "2026-10-15T11:42:24Z",
   "items": [
+    {
+      "id": "2026-10-15-penske-automotive-take-private",
+      "tag": "DEALS",
+      "ticker": "NYSE:PAG",
+      "headline": "Penske Automotive to be taken private by Penske Corp. and Mitsui at $212 a share",
+      "take": "Penske Automotive agreed to be acquired by a buyer owned by Penske Corporation and Mitsui for $212.00 per share in cash, valuing the company at an enterprise value of about $16.3 billion. Penske is expected to own about 64% and Mitsui 36% after closing, expected in the first quarter of 2027, subject to regulatory approvals and a majority vote of unaffiliated stockholders. The majority-of-the-minority condition is the key protection for public holders in a buyout led by the controlling shareholder.",
+      "source_name": "Penske Automotive Group 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001019849/000114036126039664/ef20083688_ex99-1.htm",
+      "time": "2026-10-15T11:45:00Z"
+    },
+    {
+      "id": "2026-10-13-icon-series-d",
+      "tag": "DEALS",
+      "headline": "ICON raises $200M Series D co-led by Baillie Gifford and BlackRock funds",
+      "take": "ICON raised a $200 million Series D co-led by Baillie Gifford and funds managed by BlackRock, joined by investors including Norwest and Tiger Global; no valuation was disclosed. Proceeds will start production of its Titan system at its Austin factory and fund a large-scale R&D facility there. Crossover-style backers at this stage signal a push to industrialize robotic construction rather than keep it in pilot mode.",
+      "source_name": "ICON press release (GlobeNewswire, via TheTechOutlook)",
+      "source_url": "https://www.thetechoutlook.com/press-release/icon-raises-200m-series-d-to-transform-how-the-world-builds/",
+      "time": "2026-10-15T12:01:00Z"
+    },
+    {
+      "id": "2026-10-13-alaunos-velaris",
+      "tag": "DEALS",
+      "ticker": "NASDAQ:TCRT",
+      "headline": "Alaunos completes Velaris Therapeutics acquisition alongside $350M private placement",
+      "take": "Alaunos Therapeutics completed its acquisition of PAH drug developer Velaris Therapeutics alongside a private placement of convertible preferred stock raising about $350 million, led by Fairmount with Venrock, T. Rowe Price-advised accounts, Wellington and Janus Henderson participating. Purchase terms were not disclosed, and the company expects its funding to last into 2029. The deal effectively recapitalizes Alaunos around Velaris's ActRII-targeted pipeline.",
+      "source_name": "Alaunos Therapeutics press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379885/0/en/alaunos-therapeutics-announces-acquisition-of-velaris-therapeutics.html",
+      "time": "2026-10-15T12:18:00Z"
+    },
     {
       "id": "2026-10-15-tsmc-q3",
       "tag": "EARNINGS",
