@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-15T21:30:00Z",
+ "updated": "2026-10-15T21:55:00Z",
  "items": [
+  {
+   "id": "2026-10-15-fhn-q3",
+   "time": "2026-10-15T22:00:00Z",
+   "tag": "EARNINGS",
+   "headline": "First Horizon swings to a Q3 loss of $0.20 a share on a $4.5B mortgage sale",
+   "take": "First Horizon reported a third-quarter net loss available to common shareholders of $94 million, or $0.20 a diluted share, versus earnings of $0.50 a year earlier; excluding notable items of $0.73 a share, adjusted EPS was $0.53 versus $0.51. Net interest income (FTE) rose to $686 million from $678 million while the net interest margin slipped to 3.48% from 3.55%. The loss is an accounting reset rather than a credit event: the bank is taking the hit now to swap low-yielding mortgages for room to grow loans.",
+   "source_name": "First Horizon Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm",
+   "ticker": "NYSE:FHN"
+  },
+  {
+   "id": "2026-10-15-fhn-mortgage-sale",
+   "time": "2026-10-15T22:04:00Z",
+   "tag": "CREDIT",
+   "headline": "First Horizon books a $473M pretax loss to sell ~$4.5B of low-yield mortgages",
+   "take": "First Horizon recorded a $473 million pretax loss in noninterest income, or $347 million after tax, mainly from moving about $4.5 billion of lower-yielding consumer mortgages to held for sale; the bank says the sale will be accretive to earnings going forward. Period-end loans fell to $59.8 billion from $63.1 billion a year earlier, deposits rose to $67.7 billion from $65.5 billion, and preliminary CET1 was 10.3% versus 11.0%. With mortgage rates above 7%, regional banks still carrying loans written at much lower coupons face the same choice: hold them and accept thin spreads, or crystallize the loss and redeploy the capital.",
+   "source_name": "First Horizon Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm",
+   "ticker": "NYSE:FHN"
+  },
+  {
+   "id": "2026-10-15-warsh-georgieva-bangkok",
+   "time": "2026-10-15T22:08:00Z",
+   "tag": "FED",
+   "headline": "Warsh joins IMF's Georgieva for a Bangkok fireside chat at 11:30 p.m. ET tonight",
+   "take": "The Federal Reserve Board calendar lists a discussion with Chairman Kevin Warsh at 11:30 p.m. ET on Oct. 15, a fireside chat with IMF Managing Director Kristalina Georgieva in Bangkok, Thailand. The Board's G.17 industrial production release follows at 9:15 a.m. on Oct. 16. Remarks this close to the Oct. 27–28 FOMC meeting will be read for how the Fed weighs the energy-driven jump in producer and consumer prices against slowing activity abroad.",
+   "source_name": "Federal Reserve Board calendar, October 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+  },
   {
    "id": "2026-10-15-wire-proofpoint-varonis",
    "time": "2026-10-15T21:33:00Z",

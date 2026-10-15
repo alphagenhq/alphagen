@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-15T21:12:10Z",
+ "updated": "2026-10-15T21:55:00Z",
  "items": [
+  {
+   "id": "2026-10-15-FHN-Q3",
+   "time": "2026-10-15T21:55:00Z",
+   "ticker": "NYSE:FHN",
+   "name": "First Horizon",
+   "period": "Q3 2026",
+   "report_date": "2026-10-15",
+   "revenue": 0.407,
+   "revenue_yoy": -54.2,
+   "eps": -0.2,
+   "eps_yoy": -140.0,
+   "take": "GAAP total revenue fell to $407 million from $889 million because of a $473 million pretax loss on about $4.5 billion of mortgages moved to held for sale; adjusted EPS excluding notable items was $0.53 versus $0.51 a year earlier.",
+   "source_name": "First Horizon Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm"
+  },
   {
    "id": "2026-10-15-IBKR-Q3",
    "time": "2026-10-15T21:12:10Z",
