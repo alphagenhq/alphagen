@@ -14,7 +14,8 @@
       "eps_yoy": 68.7,
       "take": "Revenue and EPS are in New Taiwan dollars (NT$ billions; diluted EPS NT$29.43, or US$4.60 per ADR); US$ revenue was $46.72 billion. TSMC guided Q4 revenue to US$52.3B–$54.3B with a 65%–67% gross margin.",
       "source_name": "TSMC 3Q26 earnings release, Form 6-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-PNC-Q3",
@@ -29,7 +30,8 @@
       "eps_yoy": 14.3,
       "take": "Net interest income rose 15% to $4.21 billion; adjusted EPS was $5.09 excluding FirstBank integration costs and net significant items. CET1 was an estimated 9.8%.",
       "source_name": "PNC Financial Services Group, Q3 2026 earnings release",
-      "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
+      "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-USB-Q3",
@@ -44,7 +46,8 @@
       "eps_yoy": 9.8,
       "take": "Revenue is total net revenue on a taxable-equivalent basis as reported. Noninterest income rose 13.1% and the efficiency ratio improved to 55.9%; provision included a $135 million initial charge for an acquired card portfolio.",
       "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-BK-Q3",
@@ -59,7 +62,8 @@
       "eps_yoy": 24.5,
       "take": "Fee revenue rose 12% and net interest income 15%; AUC/A reached $63.4 trillion. Pre-tax margin was 38.5% and ROTCE 29.0%.",
       "source_name": "BNY 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001390777/000139077726000104/ex991_earningsreleasex3q26.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001390777/000139077726000104/ex991_earningsreleasex3q26.htm",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-ERIC-Q3",
@@ -74,7 +78,8 @@
       "eps_yoy": -46.8,
       "take": "Figures are in Swedish kronor (net sales SEK 59.478 billion; diluted EPS SEK 1.77). Organic sales rose 7%; prior-year EPS included a SEK 1.72 per share divestment gain.",
       "source_name": "Ericsson Q3 2026 report (company release via PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/ericsson-reports-third-quarter-results-2026-302909534.html"
+      "source_url": "https://www.prnewswire.com/news-releases/ericsson-reports-third-quarter-results-2026-302909534.html",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-13-JNJ-Q3",

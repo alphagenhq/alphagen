@@ -7,10 +7,12 @@
       "ticker": "NYSE:TSM",
       "name": "Taiwan Semiconductor Manufacturing",
       "headline": "Q3 revenue up 50.9%; Q4 guided to $52.3B–$54.3B",
-      "catalyst": "TSMC reported Q3 revenue of NT$1,494.24 billion (US$46.72 billion), up 50.9%, with diluted EPS up 68.7% to NT$29.43, and guided Q4 revenue to US$52.3 billion to US$54.3 billion.",
-      "thesis": "The numbers confirm leading-edge demand is still accelerating, with 3nm and 5nm at 61% of wafer revenue and a 2nm ramp ahead. With expectations already high across AI hardware, trading reaction is likely to hinge on margins and capex commentary rather than the beat itself.",
+      "catalyst": "TSMC reported Q3 revenue of NT$1,494.24 billion (US$46.72 billion), up 50.9% in NT$ terms, with diluted EPS up 68.7% to NT$29.43, and guided Q4 revenue to US$52.3 billion to US$54.3 billion.",
+      "thesis": "The numbers confirm leading-edge demand is still growing strongly, with 3nm and 5nm at 61% of wafer revenue and a 2nm ramp ahead. With expectations already high across AI hardware, trading reaction is likely to hinge on margins and capex commentary rather than the beat itself.",
       "source_name": "TSMC 3Q26 earnings release, Form 6-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "correction": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since guided Q4 sequential growth (+14.1%) is below Q3's 16.2%.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-PNC",
@@ -21,7 +23,8 @@
       "catalyst": "PNC earned $2.10 billion, or $4.97 a diluted share ($5.09 adjusted), versus $4.35 a year earlier, on revenue of $6.56 billion; net interest income rose 15% while noninterest income fell 15% from Q2.",
       "thesis": "Spread income is carrying results while capital markets revenue cooled sequentially. Rising net charge-offs and a lower CET1 ratio are the details investors are likely to weigh against the earnings growth.",
       "source_name": "PNC Financial Services Group, Q3 2026 earnings release",
-      "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
+      "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-USB",
@@ -32,7 +35,8 @@
       "catalyst": "U.S. Bancorp's Q3 net income rose to $2.20 billion, or $1.34 a diluted share, from $1.22, with noninterest income up 13.1% and the efficiency ratio at 55.9% versus 57.2%.",
       "thesis": "Fee momentum and improving efficiency are the positive read, while the $135 million initial provision for an acquired card book is a one-time accounting item. Zero buybacks in the quarter keeps the capital return question open.",
       "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-BK",
@@ -41,20 +45,24 @@
       "name": "BNY",
       "headline": "Q3 EPS climbs 24% as fees and net interest income both grow",
       "catalyst": "BNY reported Q3 revenue of $5.68 billion, up 12%, and diluted EPS of $2.34 versus $1.88, with assets under custody and/or administration of $63.4 trillion.",
-      "thesis": "Double-digit growth in both fees and net interest income with a 38.5% pre-tax margin shows the custody franchise is generating operating leverage. The 10.9% CET1 ratio, down from 11.7%, reflects heavy capital return.",
+      "thesis": "Double-digit growth in both fees and net interest income with a 38.5% pre-tax margin shows the custody franchise is generating operating leverage. The 10.9% CET1 ratio is down from 11.7% a year earlier and 11.0% at June 30.",
       "source_name": "BNY 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001390777/000139077726000104/ex991_earningsreleasex3q26.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001390777/000139077726000104/ex991_earningsreleasex3q26.htm",
+      "correction": "Specified that the 11.7% CET1 comparison is year-ago (11.0% at June 30) and removed the unsupported attribution to capital return; BNY attributes the decline to lower capital.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-ERIC",
       "time": "2026-10-15T11:14:05Z",
       "ticker": "NASDAQ:ERIC",
       "name": "Ericsson",
-      "headline": "Organic sales return to 7% growth in Q3",
+      "headline": "Organic sales grow 7% in Q3",
       "catalyst": "Ericsson reported Q3 net sales of SEK 59.5 billion versus SEK 56.2 billion, organic growth of 7% led by Networks, and diluted EPS of SEK 1.77 versus SEK 3.33, which included a SEK 1.72 divestment gain.",
       "thesis": "A return to organic growth in a RAN market the company calls flat suggests share and commercial actions are working. The flagged component-cost headwind to next year's gross margin is the offsetting risk.",
       "source_name": "Ericsson Q3 2026 report (company release via PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/ericsson-reports-third-quarter-results-2026-302909534.html"
+      "source_url": "https://www.prnewswire.com/news-releases/ericsson-reports-third-quarter-results-2026-302909534.html",
+      "correction": "Changed headline from 'return to 7% growth' to 'grow 7%', as the release does not describe a return to growth.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-RKLB",
@@ -65,7 +73,8 @@
       "catalyst": "Rocket Lab said after the Oct. 14 close that Neutron's inaugural launch is now expected to occur in 2027 under an adjusted schedule.",
       "thesis": "A schedule slip on a flagship development program pushes out a milestone investors have been tracking closely. The absence of a stated reason in the release leaves investors to the accompanying presentation for detail.",
       "source_name": "Rocket Lab investor relations release, Oct. 14, 2026",
-      "source_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts"
+      "source_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts",
+      "checked": "2026-10-15T12:08:25Z"
     }
   ]
 }

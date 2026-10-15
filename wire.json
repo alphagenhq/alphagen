@@ -35,10 +35,12 @@
       "tag": "EARNINGS",
       "ticker": "NYSE:TSM",
       "headline": "TSMC Q3 revenue up 50.9% to NT$1.49T; Q4 guided to $52.3B–$54.3B",
-      "take": "TSMC reported third-quarter revenue of NT$1,494.24 billion (US$46.72 billion), up 50.9% from a year earlier, with net income and diluted EPS both up 68.7% to NT$763.06 billion and NT$29.43 (US$4.60 per ADR unit); gross margin was 66.4% and 3nm and 5nm made up 33% and 28% of wafer revenue. It guided fourth-quarter revenue to US$52.3 billion to US$54.3 billion with a 65%–67% gross margin. The guide's midpoint implies roughly 14% sequential growth in dollar terms, the clearest read yet that leading-edge demand, including the 2nm ramp, is still accelerating.",
+      "take": "TSMC reported third-quarter revenue of NT$1,494.24 billion (US$46.72 billion), up 50.9% from a year earlier in NT$ terms, with net income and diluted EPS both up 68.7% to NT$763.06 billion and NT$29.43 (US$4.60 per ADR unit); gross margin was 66.4% and 3nm and 5nm made up 33% and 28% of wafer revenue. It guided fourth-quarter revenue to US$52.3 billion to US$54.3 billion with a 65%–67% gross margin. The guide's midpoint implies roughly 14% sequential growth in dollar terms, the clearest read yet that leading-edge demand, including the 2nm ramp, is still growing strongly.",
       "source_name": "TSMC 3Q26 earnings release, Form 6-K (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
-      "time": "2026-10-15T11:16:05Z"
+      "time": "2026-10-15T11:16:05Z",
+      "correction": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since the Q4 guide midpoint (+14.1% q/q) is below Q3's 16.2% q/q US$ growth.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-beige-book-national",
@@ -47,7 +49,8 @@
       "take": "The Fed's October Beige Book, based on information collected through Oct. 5, says two of 12 Districts reported moderate growth, three modest, four slight and three no significant change; four Districts said the pace of price increases picked up, three called price growth robust and eight moderate. Labor markets were little changed and most Districts saw flat or slightly lower consumer spending, with over half noting it was driven by high-income households. Ahead of the Oct. 27–28 FOMC, the mix of soft demand and broadening energy pass-through is the stagflation-tinged picture the committee has to weigh.",
       "source_name": "Federal Reserve, Beige Book, October 2026",
       "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
-      "time": "2026-10-15T11:20:05Z"
+      "time": "2026-10-15T11:20:05Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-pnc-q3",
@@ -57,7 +60,8 @@
       "take": "PNC earned $2.10 billion, or $4.97 a diluted share, in the third quarter versus $1.82 billion and $4.35 a year earlier; adjusted EPS was $5.09 excluding FirstBank integration costs and net significant items. Revenue rose 11% from a year earlier to $6.56 billion on net interest income of $4.21 billion, up 15%, while net loan charge-offs rose to $257 million from $179 million. Spread income is doing the work as fee revenue cooled from the second quarter, and the release's own planning assumption of two more Fed hikes suggests that tailwind has further to run.",
       "source_name": "PNC Financial Services Group, Q3 2026 earnings release",
       "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted",
-      "time": "2026-10-15T11:25:05Z"
+      "time": "2026-10-15T11:25:05Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-usb-q3",
@@ -67,7 +71,8 @@
       "take": "U.S. Bancorp's third-quarter net income rose to $2.20 billion, or $1.34 a diluted share, from $2.00 billion and $1.22, on taxable-equivalent net revenue of $7.97 billion versus $7.33 billion. Noninterest income rose 13.1% to $3.48 billion and net interest income 5.6% to $4.49 billion, while the efficiency ratio improved to 55.9% from 57.2%. Fee growth outpacing spread income is the notable split here, though no buybacks in the quarter shows capital is still being conserved.",
       "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
-      "time": "2026-10-15T11:30:05Z"
+      "time": "2026-10-15T11:30:05Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-15-bny-q3",
@@ -160,10 +165,12 @@
       "id": "2026-10-14-fannie-forecast-rates",
       "tag": "HOUSING",
       "headline": "Fannie Mae now sees 30-year mortgage rates averaging 7.5% in 2027, up from 6.7%",
-      "take": "Fannie Mae's October 12 housing forecast puts the 30-year fixed mortgage rate at 7.4% in 4Q26 and 7.5% for 2027, versus 6.8% and 6.7% in its September 11 forecast. It cut its 2027 total home sales forecast to 4.713 million from 4.882 million and existing-home sales to 4.061 million from 4.215 million. A forecaster that a month ago expected rates to drift lower now expects them to climb further, which pushes any housing turnover recovery out past next year.",
+      "take": "Fannie Mae's October 12 housing forecast puts the 30-year fixed mortgage rate at 7.4% in 4Q26 and 7.5% for 2027, versus 6.8% and 6.7% in its September 11 forecast. It cut its 2027 total home sales forecast to 4.713 million from 4.882 million and existing-home sales to 4.061 million from 4.215 million. A forecaster that a month ago expected rates to level off near 6.7% now expects them to climb further, which pushes any housing turnover recovery out past next year.",
       "source_name": "Fannie Mae ESR Housing Forecast, October 2026",
       "source_url": "https://www.fanniemae.com/media/58256/display",
-      "time": "2026-10-15T01:32:39Z"
+      "time": "2026-10-15T01:32:39Z",
+      "correction": "Fannie Mae's September forecast had rates rising to 6.8% in 4Q26 then holding at 6.7%, not drifting lower; wording corrected.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-eia-diesel-6-18",
@@ -172,7 +179,8 @@
       "take": "EIA's October 14 update put the U.S. average on-highway diesel price at $6.179 a gallon for the week of Oct. 12, down 2.0 cents on the week but $2.514 above a year ago, while regular gasoline averaged $4.331, down 2.3 cents and $1.270 higher year over year. California diesel averaged $8.091, up 0.9 cent on the week. By code, diesel is about 69% above year-ago levels against roughly 41% for gasoline, so the energy shock is landing hardest on freight and goods costs.",
       "source_name": "EIA Gasoline and Diesel Fuel Update",
       "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
-      "time": "2026-10-15T01:37:39Z"
+      "time": "2026-10-15T01:37:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-wasde-corn-stocks",
@@ -181,7 +189,8 @@
       "take": "USDA's October WASDE raised its 2026/27 U.S. corn yield forecast to 181.2 bushels an acre from 178.5, lifting production to 16.034 billion bushels from 15.800 billion and ending stocks to 1.849 billion from 1.567 billion. The season-average farm price forecast was cut to $4.70 a bushel from $4.80, while soybean ending stocks rose to 315 million bushels with the price held at $12.00. An 18% jump in projected corn carryout leaves grains as one of the few commodity markets where supply is loosening, in contrast with energy.",
       "source_name": "USDA World Agricultural Supply and Demand Estimates, October 2026",
       "source_url": "https://esmis.nal.usda.gov/sites/default/release-files/796099/wasde1026.txt",
-      "time": "2026-10-15T01:42:39Z"
+      "time": "2026-10-15T01:42:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-13-dpz-q3",
@@ -191,7 +200,8 @@
       "take": "Domino's Pizza reported third-quarter total revenues of $1.186 billion, up 3.4%, and diluted EPS of $4.60 versus $4.08. U.S. same-store sales grew 0.3% and international same-store sales rose 0.2% excluding currency, with global retail sales up 3.2% ex-FX on 175 net new stores. Growth is coming from new units rather than existing restaurants, which suggests demand at existing restaurants is roughly flat.",
       "source_name": "Domino's Pizza Q3 2026 earnings release",
       "source_url": "https://www.prnewswire.com/news-releases/dominos-pizza-announces-third-quarter-2026-financial-results-302906245.html",
-      "time": "2026-10-15T01:47:39Z"
+      "time": "2026-10-15T01:47:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-steo-natgas-storage",
@@ -200,7 +210,8 @@
       "take": "EIA's Short-Term Energy Outlook forecasts U.S. working natural gas inventories of 3,850 billion cubic feet at the end of October, 2% above the five-year average, with Henry Hub averaging $3.48 per MMBtu in 2026 and $3.16 in 2027. It projects LNG exports of 17.6 Bcf/d in 2026 and 18.6 Bcf/d in 2027. Comfortable gas storage stands apart from tight oil and diesel, so U.S. natural gas is not adding to this winter's energy inflation pressure.",
       "source_name": "EIA Short-Term Energy Outlook, Natural Gas",
       "source_url": "https://www.eia.gov/outlooks/steo/report/natgas.php",
-      "time": "2026-10-15T01:52:39Z"
+      "time": "2026-10-15T01:52:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-13-sec-kpi-binary-options",
@@ -209,7 +220,8 @@
       "take": "SEC Chairman Paul Atkins said on Oct. 13 that the Commission voted to approve an exchange's proposed rule change permitting cash-settled binary options on specified key performance indicators reported by certain stock issuers. He stressed the order speaks solely to these contracts and does not address similar products on the same KPIs. Exchange-listed contracts on reported operating metrics would give investors a regulated way to trade the earnings datapoints themselves, not just the stock.",
       "source_name": "SEC, Statement of Chairman Atkins",
       "source_url": "https://sec.gov/newsroom/speeches-statements/atkins-101326-statement-commissions-approval-proposed-rule-change-permit-listing-binary-options-overlying-key",
-      "time": "2026-10-15T01:57:39Z"
+      "time": "2026-10-15T01:57:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-02-sec-3x-bitcoin-ether-etfs",
@@ -218,7 +230,8 @@
       "take": "In an Oct. 2 order (Release No. 34-106577), the SEC approved Cboe BZX's rule change to list and trade six VS Trust funds, including a 3x Bitcoin ETF and a 3x Ether ETF, alongside 3x gold, silver, crude oil and natural gas funds. Each seeks three times the daily performance of a futures-based benchmark, and needed a specific approval because the 3x multiple falls outside BZX's generic listing standards. Triple-leveraged crypto funds reset daily, so their returns over longer holding periods can diverge sharply from three times the underlying move.",
       "source_name": "SEC Order, Release No. 34-106577",
       "source_url": "https://www.sec.gov/files/rules/sro/cboebzx/2026/34-106577.pdf",
-      "time": "2026-10-15T02:02:39Z"
+      "time": "2026-10-15T02:02:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-08-bailey-istanbul",
@@ -227,7 +240,8 @@
       "take": "Bank of England Governor Andrew Bailey said in an Oct. 8 speech that a negative supply shock produces weaker output and higher inflation, and that looking through it is possible only if inflation expectations stay well anchored. He said banks remain well capitalized with no funding stress, but warned that leveraged positions can be unwound rapidly. The message is a central bank reserving the right to tighten into an energy shock rather than promising to look past it.",
       "source_name": "Bank of England, speech by Andrew Bailey",
       "source_url": "https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul",
-      "time": "2026-10-15T02:07:39Z"
+      "time": "2026-10-15T02:07:39Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-12-steris-xodus-medical",
@@ -336,7 +350,8 @@
       "take": "JPMorgan Chase reported third-quarter net income of $15.3 billion, or $5.57 per share, versus $14.4 billion, or $5.07, a year earlier, on reported revenue of $50.2 billion against $46.4 billion. Net interest income rose 13% to $27.1 billion, the provision for credit losses fell to $2.7 billion from $3.4 billion, and net charge-offs dropped $389 million to $2.2 billion. Falling credit costs contrast with the higher provision Wells Fargo reported, though JPMorgan also scaled net buybacks back to $664 million.",
       "source_name": "JPMorgan Chase 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm",
-      "time": "2026-10-14T21:50:00Z"
+      "time": "2026-10-14T21:50:00Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-steo-brent-105",
@@ -345,7 +360,8 @@
       "take": "EIA's October Short-Term Energy Outlook says Brent averaged $114 per barrel in September, $23 above August, and forecasts $105 for 4Q26, $96 for full-year 2026 and $84 for 2027. EIA assumes Middle East oil flows stay constrained through the fourth quarter. The forecast path implies relief in 2027, but it hinges on supply recovering rather than demand cooling, which keeps energy the swing factor for inflation.",
       "source_name": "EIA Short-Term Energy Outlook, October 2026",
       "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
-      "time": "2026-10-14T21:54:00Z"
+      "time": "2026-10-14T21:54:00Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-steo-shut-ins",
@@ -354,7 +370,8 @@
       "take": "EIA estimates Middle East shut-in oil production averaged 4.8 million barrels a day in September, down from a peak of 10.9 million b/d in May, and forecasts 4.5 million b/d in 4Q26. It estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26, with a further draw of about 0.7 million b/d expected in 4Q26. Supply is coming back, but inventories are still being drawn, so the market has little cushion if flows disrupt again.",
       "source_name": "EIA Short-Term Energy Outlook, October 2026",
       "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
-      "time": "2026-10-14T21:58:00Z"
+      "time": "2026-10-14T21:58:00Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-freddie-740",
@@ -363,7 +380,8 @@
       "take": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed rate at 7.40% for the week of Oct. 8, up from 7.28% a week earlier and 6.30% a year ago; the 15-year averaged 6.73%. That is a 12 basis point weekly rise and 110 basis points over the year. With the 10-year Treasury above 5%, mortgage rates have little room to ease, which keeps affordability the binding constraint on home sales.",
       "source_name": "Freddie Mac Primary Mortgage Market Survey",
       "source_url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-average-740",
-      "time": "2026-10-14T22:02:00Z"
+      "time": "2026-10-14T22:02:00Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-steo-diesel",
@@ -414,7 +432,8 @@
       "source_name": "Fairfax Financial press release (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381180/0/en/fairfax-declared-strategic-buyer-in-auction-to-acquire-interest-in-idbi-bank-plans-to-contribute-digit-insurance-and-iifl-capital-to-idbi-bank.html",
       "ticker": "TSX:FFH",
-      "time": "2026-10-14T21:50:00Z"
+      "time": "2026-10-14T21:50:00Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-13-humana-blackrock-centerwell-jv",
@@ -424,7 +443,8 @@
       "source_name": "Humana 8-K, Exhibit 99 press release (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000049071/000004907126000060/blackrockstrategicjvpressr.htm",
       "ticker": "NYSE:HUM",
-      "time": "2026-10-14T21:57:00Z"
+      "time": "2026-10-14T21:57:00Z",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-cipher-digital-converts",

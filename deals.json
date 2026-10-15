@@ -362,7 +362,7 @@
       "time": "2026-10-14T21:50:00Z",
       "type": "M&A",
       "headline": "Fairfax named strategic buyer for 60.72% of IDBI Bank at about $5.6B",
-      "parties": "Buyer: Fairfax Financial Holdings (via a subsidiary) with Fairfax India Holdings; Seller: Government of India; Target: IDBI Bank",
+      "parties": "Buyer: Fairfax Financial Holdings (via a subsidiary); Contributor: Fairfax India Holdings (IIFL Capital stake); Seller: Government of India; Target: IDBI Bank",
       "value": 5.6,
       "value_text": "INR 528.78B (about $5.6B) cash at INR 81/share",
       "status": "Announced",
@@ -375,7 +375,9 @@
         "TSX:FFH",
         "TSX:FIH.U",
         "NSE:IDBI"
-      ]
+      ],
+      "correction": "Fairfax India Holdings is a co-announcer contributing its IIFL Capital stake, not a buyer of the 60.72% stake; parties corrected.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-13-humana-blackrock-centerwell-jv",
@@ -394,7 +396,8 @@
       "tickers": [
         "NYSE:HUM",
         "NYSE:BLK"
-      ]
+      ],
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-cipher-digital-converts",

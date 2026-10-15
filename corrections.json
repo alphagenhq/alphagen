@@ -104,6 +104,62 @@
       "id": "2026-10-14-fannie-forecast-higher-for-longer",
       "action": "corrected",
       "detail": "Corrected the description of September's rate path: it eased slightly into 2027 and then held flat at 6.7%, rather than edging down through 2027."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "wire.json",
+      "id": "2026-10-15-tsmc-q3",
+      "action": "corrected",
+      "detail": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since the Q4 guide midpoint (+14.1% q/q) is below Q3's 16.2% q/q US$ growth."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "wire.json",
+      "id": "2026-10-14-fannie-forecast-rates",
+      "action": "corrected",
+      "detail": "Fannie Mae's September forecast had rates rising to 6.8% in 4Q26 then holding at 6.7%, not drifting lower; wording corrected."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "movers.json",
+      "id": "2026-10-15-TSM",
+      "action": "corrected",
+      "detail": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since guided Q4 sequential growth (+14.1%) is below Q3's 16.2%."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "movers.json",
+      "id": "2026-10-15-BK",
+      "action": "corrected",
+      "detail": "Specified that the 11.7% CET1 comparison is year-ago (11.0% at June 30) and removed the unsupported attribution to capital return; BNY attributes the decline to lower capital."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "movers.json",
+      "id": "2026-10-15-ERIC",
+      "action": "corrected",
+      "detail": "Changed headline from 'return to 7% growth' to 'grow 7%', as the release does not describe a return to growth."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "deals.json",
+      "id": "2026-10-14-fairfax-idbi-bank",
+      "action": "corrected",
+      "detail": "Fairfax India Holdings is a co-announcer contributing its IIFL Capital stake, not a buyer of the 60.72% stake; parties corrected."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "notes.json",
+      "id": "2026-10-15-beige-book-energy-vs-demand",
+      "action": "corrected",
+      "detail": "The quoted oil-price line is the fourth sentence of the Beige Book prices section, not its opening; wording corrected."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "notes.json",
+      "id": "2026-10-14-eia-steo-oil-supply",
+      "action": "corrected",
+      "detail": "Aligned the price-outlook paraphrase with EIA's wording, which ties elevated prices to Middle East flow constraints and a gradual decline to inventory rebuilding."
     }
   ]
 }

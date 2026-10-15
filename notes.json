@@ -19,7 +19,7 @@
         {
           "h": "Energy is everywhere"
         },
-        "The prices section opens bluntly: \"Higher oil prices permeated all District reports.\" Four Districts said the pace of price increases picked up since the prior report, three described overall price growth as robust and eight as moderate. Contacts flagged diesel costs and fuel surcharges moving through supply chains, along with continued pressure from other commodities, tariffs and insurance, and firms in several Districts expect prices to rise further as contracts expire and hedges are renegotiated.",
+        "The prices section states flatly: \"Higher oil prices permeated all District reports.\" Four Districts said the pace of price increases picked up since the prior report, three described overall price growth as robust and eight as moderate. Contacts flagged diesel costs and fuel surcharges moving through supply chains, along with continued pressure from other commodities, tariffs and insurance, and firms in several Districts expect prices to rise further as contracts expire and hedges are renegotiated.",
         {
           "h": "Demand is not keeping up"
         },
@@ -46,7 +46,9 @@
           "name": "PNC Financial Services Group, Q3 2026 earnings release",
           "url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
         }
-      ]
+      ],
+      "correction": "The quoted oil-price line is the fourth sentence of the Beige Book prices section, not its opening; wording corrected.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-fannie-forecast-higher-for-longer",
@@ -116,7 +118,7 @@
         {
           "h": "Inventories are still draining"
         },
-        "The more important number may be the stock draw. EIA estimates global oil inventories fell by an average of 1.9 million b/d in the third quarter and expects a further draw of about 0.7 million b/d in the fourth. A smaller draw is still a draw: the market is entering winter with less buffer than it had in the summer, and EIA says prices will stay elevated until Middle East flows recover and stocks are rebuilt.",
+        "The more important number may be the stock draw. EIA estimates global oil inventories fell by an average of 1.9 million b/d in the third quarter and expects a further draw of about 0.7 million b/d in the fourth. A smaller draw is still a draw: the market is entering winter with less buffer than it had in the summer, and EIA says prices will stay elevated until constraints on Middle East oil flows resolve, then ease gradually as depleted inventories rebuild next year.",
         "Diesel is where that shows up first. East Coast distillate inventories were 32% below their five-year seasonal average in September, and EIA expects them to stay about 20% below average through the winter. It forecasts retail diesel at $5.19 a gallon for 2026. That fits the Dallas Fed's Beige Book report that diesel is the top cost driver in its district.",
         {
           "h": "The AlphaGen read"
@@ -133,7 +135,9 @@
           "name": "EIA Weekly Petroleum Status Report",
           "url": "https://www.eia.gov/petroleum/supply/weekly/"
         }
-      ]
+      ],
+      "correction": "Aligned the price-outlook paraphrase with EIA's wording, which ties elevated prices to Middle East flow constraints and a gradual decline to inventory rebuilding.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
       "id": "2026-10-14-the-close",
