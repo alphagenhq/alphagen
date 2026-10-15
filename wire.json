@@ -1,6 +1,52 @@
 {
-  "updated": "2026-10-15T16:05:00Z",
+  "updated": "2026-10-15T16:33:00Z",
   "items": [
+    {
+      "id": "2026-10-15-ramp-60b-round",
+      "tag": "DEALS",
+      "headline": "Ramp raises $1.85B led by Dragoneer at a $60B valuation",
+      "take": "Ramp's $1.85 billion primary round was led by Dragoneer Investment Group, with Thrive Capital, Founders Fund, Sands Capital and Avenir Growth co-leading, at a $60 billion valuation; the company reported more than $2 billion in annualized revenue, positive cash flow and over 85,000 customers. Ramp said it has now raised about $5 billion in total equity. Pricing a private fintech at this scale with public-market mutual funds in the book keeps the IPO question open without forcing it.",
+      "source_name": "Ramp press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/ramp-reaches-60-billion-valuation-as-annualized-revenue-tops-2-billion-302909315.html",
+      "time": "2026-10-15T16:37:00Z"
+    },
+    {
+      "id": "2026-10-15-labcorp-bioreference-assets",
+      "tag": "DEALS",
+      "ticker": "NYSE:LH",
+      "headline": "Labcorp to buy BioReference Health assets from OPKO for $722M plus $150M earnout",
+      "take": "Labcorp agreed to buy select BioReference Health assets from OPKO Health for $722 million in cash at closing, subject to adjustment, plus a $150 million earnout tied to 4Kscore Test revenue, and expects about $250 million of revenue in the first year after closing. The deal requires regulatory approvals. Tying $150 million to one proprietary test's revenue keeps part of the price contingent on the 4Kscore franchise performing under Labcorp's ownership.",
+      "source_name": "Labcorp press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/labcorp-enters-into-agreement-with-opko-health-to-acquire-select-assets-of-bioreference-health-302909289.html",
+      "time": "2026-10-15T16:45:00Z"
+    },
+    {
+      "id": "2026-10-14-modal-series-d",
+      "tag": "DEALS",
+      "headline": "Modal raises $750M Series D led by Accel at $15.75B post-money valuation",
+      "take": "Modal raised a $750 million Series D led by Accel, with Kleiner Perkins joining and all existing investors participating, at a $15.75 billion post-money valuation. The company said it crossed $1 billion in annualized run rate and that its sandboxes product alone is at $300 million. Investors are paying up for the infrastructure layer that runs AI models and agents in production, not just the model makers.",
+      "source_name": "Modal company blog",
+      "source_url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+      "time": "2026-10-15T16:54:00Z"
+    },
+    {
+      "id": "2026-10-15-orbimed-3b-funds",
+      "tag": "DEALS",
+      "headline": "OrbiMed raises $3B across Private Investments X and Asia Partners VI funds",
+      "take": "OrbiMed raised $3 billion in commitments: more than $1.9 billion for OrbiMed Private Investments X, focused on U.S. and European life sciences venture capital, and more than $1 billion for OrbiMed Asia Partners VI, focused on Asian healthcare growth and venture. Fresh specialist capital of this size adds a sizable pool of money for private biotech, medtech and healthcare services rounds.",
+      "source_name": "OrbiMed press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/orbimed-raises-3-billion-across-global-and-asia-private-equity-funds-302909249.html",
+      "time": "2026-10-15T17:02:00Z"
+    },
+    {
+      "id": "2026-10-15-omass-series-c",
+      "tag": "DEALS",
+      "headline": "OMass Therapeutics raises $310M Series C co-led by Bain, Forbion and Novo",
+      "take": "OMass Therapeutics raised an oversubscribed $310 million (£230 million) Series C co-led by Bain Capital Life Sciences, Forbion and Novo Holdings to take OMS1620 through Phase 2 in congenital adrenal hyperplasia and ACTH-dependent Cushing's syndrome. Existing backers including Syncona, GV and Sanofi Ventures participated. The size of the round gives OMass capital to reach mid-stage clinical data without returning to investors first for OMS1620.",
+      "source_name": "OMass Therapeutics press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381281/0/en/omass-therapeutics-announces-310-million-series-c-financing-to-advance-portfolio-of-small-molecule-therapeutics-in-endocrinology-and-immunology.html",
+      "time": "2026-10-15T17:11:00Z"
+    },
     {
       "id": "2026-10-15-jobless-claims-199k",
       "time": "2026-10-15T16:06:00Z",
