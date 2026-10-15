@@ -88,7 +88,8 @@
       "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence",
       "tickers": [
         "NASDAQ:INTU"
-      ]
+      ],
+      "checked": "2026-10-15T21:50:56Z"
     },
     {
       "id": "2026-10-15-sakuu-pyrophyte-spac",
@@ -106,7 +107,8 @@
       "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-sakuu-corporation-to-go-public-via-business-combination-with-pyrophyte-acquisition-corp-ii",
       "tickers": [
         "NYSE:PAII"
-      ]
+      ],
+      "checked": "2026-10-15T21:50:56Z"
     },
     {
       "id": "2026-10-15-chubby-group-series-a-gen",
@@ -119,12 +121,14 @@
       "status": "Raised",
       "announced": "2026-10-15",
       "sector": "Consumer / Restaurants",
-      "take": "Chubby Group closed a $50 million Series A led by Prysm Capital at a $500 million valuation and signed a letter of intent to take over GEN Restaurant Group's 47 U.S. restaurants and four development sites in a deal valued at up to $100 million, paid with a note convertible into Chubby equity at a $1.5 billion valuation. Because the GEN piece is an LOI still needing definitive agreements and lease transfers, the near-term story is the fresh equity funding Chubby's expansion, with the GEN rollout a phased, conditional option.",
+      "take": "Chubby Group closed a $50 million Series A led by Prysm Capital at a $500 million valuation and signed a letter of intent to take over GEN Restaurant Group's 47 U.S. restaurants and four development sites in a deal valued at up to $100 million, with part of the consideration a note convertible into Chubby equity at a $1.5 billion valuation. Because the GEN piece is an LOI still needing definitive agreements and lease transfers, the near-term story is the fresh equity funding Chubby's expansion, with the GEN rollout a phased, conditional option.",
       "source_name": "Chubby Group press release (PR Newswire)",
       "source_url": "https://www.prnewswire.com/news-releases/chubby-group-closes-50m-series-a-led-by-prysm-capital-at-500m-valuation-signs-deal-to-purchase-47-gen-korean-bbq-restaurants-302910258.html",
       "tickers": [
         "NASDAQ:GENK"
-      ]
+      ],
+      "correction": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release.",
+      "checked": "2026-10-15T21:50:56Z"
     },
     {
       "id": "2026-10-14-harmonic-security-series-b",
@@ -140,7 +144,8 @@
       "take": "Harmonic Security, which helps organizations control and monitor employees' use of AI tools, raised a $50 million Series B led by Crosspoint Capital Partners with existing investors participating, bringing total funding to $76 million. The capital goes to engineering and go-to-market across the US and UK, a sign that AI-usage governance is graduating from pilot budgets into a funded security category.",
       "source_name": "Harmonic Security press release (Business Wire)",
       "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-14-harmonic-security-raises-50-million-series-b-enabling-safe-ai-adoption-for-millions-more-employees",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T21:50:56Z"
     },
     {
       "id": "2026-10-15-tns-netnumber",
@@ -156,7 +161,8 @@
       "take": "TNS announced the acquisition of netnumber, a provider of phone number intelligence and registry services spanning portability, routing and digital identity verification for customers in the US, Canada and more than 50 other countries; financial terms were not disclosed. The deal deepens TNS's fraud-prevention and routing stack as carriers face rising pressure to authenticate callers and numbers.",
       "source_name": "TNS press release",
       "source_url": "https://tnsi.com/resource/com/tns-acquires-netnumber-press-release/",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T21:50:56Z"
     },
     {
       "id": "2026-10-14-berkshire-bending-spoons-placement",
@@ -262,7 +268,8 @@
       "take": "Duvo raised a $32 million Series A led by Balderton, with existing investors Index Ventures, Northzone and Credo Ventures participating, bringing total funding to $48 million for its platform that runs business processes with people and AI agents across ERPs, supplier portals and spreadsheets. Investors are backing the pitch that AI agents earn their keep in governed back-office workflows, where savings can be measured, rather than in chat interfaces.",
       "source_name": "Duvo press release",
       "source_url": "https://www.duvo.ai/blog/duvo-raises-32-million-series-a-balderton-capital",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T21:50:56Z"
     },
     {
       "id": "2026-10-15-ramp-60b-round",

@@ -10,7 +10,8 @@
    "catalyst": "Interactive Brokers reported Q3 GAAP diluted EPS of $0.69 versus $0.59 on net revenues of $1.91 billion versus $1.66 billion, and raised its quarterly dividend to $0.15 from $0.0875.",
    "thesis": "Net interest income of $1.15 billion now dwarfs $602 million of commissions, so earnings sensitivity runs through client cash, margin balances and the rate path. Account growth of 35% to 5.58 million keeps the asset base compounding, while the 78% pretax margin slipped from 79% a year ago.",
    "source_name": "Interactive Brokers 8-K, Exhibit 99.1 (SEC)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
+   "checked": "2026-10-15T21:50:56Z"
   },
   {
    "id": "2026-10-15-JBHT",
@@ -19,9 +20,11 @@
    "name": "J.B. Hunt Transport Services",
    "headline": "Q3 revenue up 20% but operating income up only 2%",
    "catalyst": "J.B. Hunt reported Q3 operating revenues of $3.68 billion versus $3.05 billion and diluted EPS of $1.82 versus $1.76, with Dedicated operating income down 22% to $81.7 million.",
-   "thesis": "Volume is clearly there, with intermodal loads up about 8%, but the conversion of revenue into profit lagged sharply. The question for the stock is whether pricing and cost actions can close that gap as diesel stays expensive.",
+   "thesis": "Volume is clearly there, with intermodal loads up about 8%, but the conversion of revenue into profit lagged sharply. The question for the stock is whether pricing and cost actions can close that gap as fuel and fuel-tax expense climbs.",
    "source_name": "J.B. Hunt 8-K, Exhibit 99.1 (SEC)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm",
+   "correction": "Replaced an unsupported claim that diesel stays expensive with the release's reported rise in fuel and fuel-tax expense ($260.4 million vs. $164.0 million).",
+   "checked": "2026-10-15T21:50:56Z"
   },
   {
    "id": "2026-10-15-AA",
@@ -32,7 +35,8 @@
    "catalyst": "Alcoa reported Q3 net income attributable to Alcoa of $483 million, or $1.81 a diluted share, versus $232 million, or $0.88, a year earlier, on revenue of $3,704 million, down from $3,966 million in Q2.",
    "thesis": "The annual comparison is flattering, but adjusted EPS of $1.82 fell from $2.12 in Q2 and Q4 guidance flags about $60 million of combined unfavorable cost items in aluminum. Reaffirmed volumes leave aluminum prices as the main earnings lever.",
    "source_name": "Alcoa 8-K, Exhibit 99.1 (SEC)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm",
+   "checked": "2026-10-15T21:50:56Z"
   },
   {
    "id": "2026-10-15-FMC",

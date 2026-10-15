@@ -300,6 +300,27 @@
       "id": "2026-10-14-skeleton-siemens-investment",
       "action": "removed",
       "detail": "Removed: the 'exclusive partnership' with Siemens could not be verified from the source; Skeleton's release page was not accessible and coverage of it describes no exclusivity."
+    },
+    {
+      "time": "2026-10-15T21:50:56Z",
+      "file": "wire.json",
+      "id": "2026-10-15-chubby-group-series-a-gen",
+      "action": "corrected",
+      "detail": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release."
+    },
+    {
+      "time": "2026-10-15T21:50:56Z",
+      "file": "movers.json",
+      "id": "2026-10-15-JBHT",
+      "action": "corrected",
+      "detail": "Replaced an unsupported claim that diesel stays expensive with the release's reported rise in fuel and fuel-tax expense ($260.4 million vs. $164.0 million)."
+    },
+    {
+      "time": "2026-10-15T21:50:56Z",
+      "file": "deals.json",
+      "id": "2026-10-15-chubby-group-series-a-gen",
+      "action": "corrected",
+      "detail": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release."
     }
   ]
 }
