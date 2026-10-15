@@ -1,445 +1,500 @@
 {
- "updated": "2026-10-15T13:00:00Z",
- "items": [
-  {
-   "id": "2026-10-15-ppi-pipeline",
-   "time": "2026-10-15T13:00:00Z",
-   "tag": "MACRO",
-   "title": "September PPI: the energy shock moves up the pipeline",
-   "dek": "Producer prices posted their biggest monthly gain since March 2022, and upstream costs are rising far faster than consumer core inflation.",
-   "key_points": [
-    "Final demand PPI rose 1.3% in September, seasonally adjusted, after 0.5% in August, and 6.3% over 12 months unadjusted.",
-    "Energy rose 10.8%; gasoline, up 20.3%, accounted for half of the 2.6% rise in goods prices.",
-    "Final demand less foods, energy and trade services rose 0.5% on the month and 5.0% on the year, up from 4.8% in August.",
-    "Unprocessed intermediate goods prices rose 21.5% over 12 months; processed goods rose 14.1%.",
-    "Core CPI rose 2.6% over the year to September, and China's PPI rose 5.0% against 0.9% consumer inflation."
-   ],
-   "body": [
-    "The Bureau of Labor Statistics' September Producer Price Index confirms that the energy shock visible in Wednesday's CPI is at least as large one step up the supply chain. Final demand prices rose 1.3% in the month, seasonally adjusted, the largest advance since a 1.7% gain in March 2022, after increases of 0.5% in August and 0.2% in July. On an unadjusted basis, final demand prices were up 6.3% from a year earlier.",
+  "updated": "2026-10-15T16:05:00Z",
+  "items": [
     {
-     "h": "Energy did the heavy lifting"
+      "id": "2026-10-15-beyond-the-banks",
+      "time": "2026-10-15T16:05:00Z",
+      "tag": "EQUITIES",
+      "title": "Beyond the banks: margins, warehouses and temp workers point to a sturdier real economy",
+      "dek": "UnitedHealth, Prologis and ManpowerGroup add non-financial evidence to a week dominated by bank results and an energy-driven inflation shock.",
+      "key_points": [
+        "UnitedHealth Q3 adjusted EPS rose to $4.69 from $2.92 as its medical care ratio fell to 88.4% from 89.9%, even as revenues slipped to $112.69 billion.",
+        "Prologis lifted the midpoint of 2026 core FFO guidance to $6.25–$6.29 after signing 60 million square feet of leases at 95.1% average occupancy.",
+        "ManpowerGroup revenue grew 5.2% in constant currency to $4.84 billion, and management cited improving demand.",
+        "Initial jobless claims were 199,000 in the week ending Oct. 10, with the four-week average at 198,500."
+      ],
+      "body": [
+        "Third-quarter earnings so far have mostly been a bank story. Three non-bank reports this week offer a read on the real economy from different angles: health care costs, logistics space and temporary hiring. Together they describe an economy that is absorbing the energy shock without a demand break, which is the backdrop the Fed is weighing against producer and consumer price data running hot.",
+        {
+          "h": "Health care: margin repair, not growth"
+        },
+        "UnitedHealth reported Q3 revenues of $112.694 billion versus $113.161 billion a year earlier, and UnitedHealthcare served 48.3 million people versus 50.1 million. Profitability moved the other way: diluted EPS rose to $4.56 from $2.59, adjusted EPS to $4.69 from $2.92, and the medical care ratio improved to 88.4% from 89.9%. The company raised its 2026 outlook to at least $19.50 of EPS and at least $20.50 adjusted. Our read is that this is a pricing and cost-discipline recovery, not a volume one, and that medical cost trends are no longer worsening faster than premiums.",
+        {
+          "h": "Logistics: lean inventories, cleared slack"
+        },
+        "Prologis reported core FFO of $1.60 per share versus $1.49 and total revenues of $2.388 billion versus $2.214 billion. Average occupancy was 95.1% and period-end occupancy 95.6%, and net effective rent change on its share of leases was 38.0%. CEO Daniel S. Letter said customers \"are running lean on inventory, and excess capacity within their networks has largely cleared.\" Core FFO guidance moved to $6.25–$6.29 from $6.22–$6.30, while the net EPS range was cut to $4.05–$4.15. Lean inventories with little spare space is a configuration where any restocking shows up quickly in leasing.",
+        {
+          "h": "Labor: still tight at the margin"
+        },
+        "ManpowerGroup reported Q3 revenues of $4.84 billion versus $4.63 billion, up 5.2% in constant currency, and guided Q4 diluted EPS to $1.03–$1.13. Staffing demand tends to turn before payrolls do, so growth here is a useful counterpoint to fears that energy costs are already forcing cuts. Thursday's claims report fits: initial claims of 199,000 and insured unemployment of 1.71 million show few layoffs.",
+        {
+          "h": "What it means"
+        },
+        "None of these reports says the energy shock is harmless; it says the economy is carrying it so far. That keeps the policy debate centered on inflation pass-through rather than on growth support, and it raises the bar for any data that would argue the other way."
+      ],
+      "sources": [
+        {
+          "name": "UnitedHealth Group, Q3 2026 earnings release",
+          "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-third-quarter-2026-results.pdf"
+        },
+        {
+          "name": "Prologis, Q3 2026 earnings release",
+          "url": "https://ir.prologis.com/news-events/press-releases/detail/1055/prologis-reports-third-quarter-2026-results"
+        },
+        {
+          "name": "ManpowerGroup 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000871763/000119312526422291/man-ex99_1.htm"
+        },
+        {
+          "name": "U.S. Department of Labor, Unemployment Insurance Weekly Claims",
+          "url": "https://www.dol.gov/ui/data.pdf"
+        }
+      ],
+      "tickers": [
+        "NYSE:UNH",
+        "NYSE:PLD",
+        "NYSE:MAN"
+      ]
     },
-    "Goods prices rose 2.6%, and the energy index jumped 10.8%. BLS traces half of the goods increase to gasoline, which rose 20.3%. Food prices rose 1.2%, while goods excluding food and energy rose a more modest 0.3%. On the services side, the 0.8% gain came largely from a 1.4% rise in trade margins, while transportation and warehousing prices rose 3.4% as fuel costs moved into freight.",
     {
-     "h": "Further up the pipeline"
+      "id": "2026-10-15-ppi-pipeline",
+      "time": "2026-10-15T13:00:00Z",
+      "tag": "MACRO",
+      "title": "September PPI: the energy shock moves up the pipeline",
+      "dek": "Producer prices posted their biggest monthly gain since March 2022, and upstream costs are rising far faster than consumer core inflation.",
+      "key_points": [
+        "Final demand PPI rose 1.3% in September, seasonally adjusted, after 0.5% in August, and 6.3% over 12 months unadjusted.",
+        "Energy rose 10.8%; gasoline, up 20.3%, accounted for half of the 2.6% rise in goods prices.",
+        "Final demand less foods, energy and trade services rose 0.5% on the month and 5.0% on the year, up from 4.8% in August.",
+        "Unprocessed intermediate goods prices rose 21.5% over 12 months; processed goods rose 14.1%.",
+        "Core CPI rose 2.6% over the year to September, and China's PPI rose 5.0% against 0.9% consumer inflation."
+      ],
+      "body": [
+        "The Bureau of Labor Statistics' September Producer Price Index confirms that the energy shock visible in Wednesday's CPI is at least as large one step up the supply chain. Final demand prices rose 1.3% in the month, seasonally adjusted, the largest advance since a 1.7% gain in March 2022, after increases of 0.5% in August and 0.2% in July. On an unadjusted basis, final demand prices were up 6.3% from a year earlier.",
+        {
+          "h": "Energy did the heavy lifting"
+        },
+        "Goods prices rose 2.6%, and the energy index jumped 10.8%. BLS traces half of the goods increase to gasoline, which rose 20.3%. Food prices rose 1.2%, while goods excluding food and energy rose a more modest 0.3%. On the services side, the 0.8% gain came largely from a 1.4% rise in trade margins, while transportation and warehousing prices rose 3.4% as fuel costs moved into freight.",
+        {
+          "h": "Further up the pipeline"
+        },
+        "The intermediate-demand indexes show how much cost pressure is still working its way through. Processed goods for intermediate demand rose 2.5% in September and 14.1% over 12 months. Unprocessed goods rose 8.4% in the month and 21.5% over the year. Intermediate services rose 0.9% and 6.3%.",
+        "BLS's narrower core measure, final demand less foods, energy and trade services, rose 0.5% in September and 5.0% over 12 months, up from 4.8% in August.",
+        {
+          "h": "The gap with consumer prices"
+        },
+        "Compare that with the consumer side. BLS reported Wednesday that the CPI rose 3.7% over the 12 months ending September, and the index excluding food and energy rose 2.6%. Producer-level core inflation is running about twice the consumer-level core rate. That gap is either being absorbed in margins or has yet to reach shelves.",
+        "The same pattern shows up abroad. China's National Bureau of Statistics reported that producer prices rose 5.0% from a year earlier in September, up from 3.8% in August, while consumer prices rose just 0.9%.",
+        {
+          "h": "AlphaGen read"
+        },
+        "Markets are not yet pricing in much pass-through. The 10-year breakeven inflation rate on FRED stood at 2.35% on October 14. If trade margins keep widening and transport costs keep climbing, the pass-through from producer to consumer prices will matter more for the Fed's next steps than any single month's headline. The next PPI release is scheduled for November 13."
+      ],
+      "sources": [
+        {
+          "name": "BLS, Producer Price Index news release (September 2026)",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        },
+        {
+          "name": "BLS, Consumer Price Index news release (September 2026)",
+          "url": "https://www.bls.gov/news.release/pdf/cpi.pdf"
+        },
+        {
+          "name": "National Bureau of Statistics of China, PPI release (September 2026)",
+          "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html"
+        },
+        {
+          "name": "FRED, 10-Year Breakeven Inflation Rate (T10YIE)",
+          "url": "https://fred.stlouisfed.org/series/T10YIE"
+        }
+      ]
     },
-    "The intermediate-demand indexes show how much cost pressure is still working its way through. Processed goods for intermediate demand rose 2.5% in September and 14.1% over 12 months. Unprocessed goods rose 8.4% in the month and 21.5% over the year. Intermediate services rose 0.9% and 6.3%.",
-    "BLS's narrower core measure, final demand less foods, energy and trade services, rose 0.5% in September and 5.0% over 12 months, up from 4.8% in August.",
     {
-     "h": "The gap with consumer prices"
+      "id": "2026-10-15-morning-brief",
+      "time": "2026-10-15T12:11:06Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: Producer prices and retail sales test the energy shock",
+      "dek": "September PPI and retail sales land together at 8:30 a.m., with a delayed EIA oil inventory report, Freddie Mac mortgage rates and two bill auctions to follow.",
+      "key_points": [
+        "8:30 a.m. ET: BLS releases the September Producer Price Index; in August, final demand prices rose 0.4% and were up 5.4% from a year earlier on an unadjusted basis.",
+        "8:30 a.m. ET: Census publishes advance retail and food services sales for September, followed by manufacturing and trade inventories.",
+        "10:30 a.m. ET: EIA natural gas storage report; the Weekly Petroleum Status Report is delayed to today at 12:00 p.m. and 2:00 p.m. ET because of Monday's federal holiday.",
+        "Treasury auctions 4-week and 8-week bills today, and its tentative schedule lists announcements for a 20-year bond reopening and a new 5-year TIPS, both auctioning next week.",
+        "Marsh reported Q3 revenue of $6.863 billion versus $6.351 billion and GAAP EPS of $1.69 versus $1.51; Alcoa reports after the close, with its call at 5:00 p.m. ET."
+      ],
+      "body": [
+        "Thursday brings the second half of this week's inflation read. After Wednesday's September CPI, the Bureau of Labor Statistics publishes the September Producer Price Index at 8:30 a.m. ET. The August report showed final demand prices up 0.4% for the month and 5.4% from a year earlier on an unadjusted basis, so the question is how much of the oil-driven cost surge is still moving down the pipeline toward consumers.",
+        {
+          "h": "Consumers under a fuel bill"
+        },
+        "At the same hour, the Census Bureau releases advance September retail and food services sales. The backdrop is a heavy energy bill: EIA's weekly survey put U.S. regular gasoline at $4.331 a gallon in the week of October 12, up $1.270 from a year earlier, and on-highway diesel at $6.179, up $2.514. The Fed's October Beige Book, released Wednesday, said most Districts saw flat or slightly lower consumer spending, with more than half noting that spending was driven by higher-income households. A strong nominal retail number partly inflated by gasoline station receipts would not contradict that picture.",
+        {
+          "h": "Energy data, delayed"
+        },
+        "Monday's federal holiday has pushed EIA's Weekly Petroleum Status Report to today, with the agency listing 12:00 p.m. and 2:00 p.m. ET release times. The natural gas storage report is on its regular Thursday 10:30 a.m. slot.",
+        {
+          "h": "Rates and funding"
+        },
+        "Treasury auctions 4-week and 8-week bills today, and its tentative schedule shows the 20-year bond reopening and a new 5-year TIPS being announced today for auctions on October 21 and 22. Per the Fed's H.15, the 10-year yield was 5.21% on October 13 and the 30-year 5.56%, so next week's long-end supply arrives with long yields above 5%. Freddie Mac publishes its weekly mortgage survey at noon; last week the 30-year fixed averaged 7.40%.",
+        {
+          "h": "Earnings"
+        },
+        "Marsh opened the day with Q3 revenue of $6.863 billion, up from $6.351 billion, and adjusted EPS up 10% to $2.03, with Consulting growing faster than insurance broking. Alcoa reports after the close. On the Fed calendar, Chairman Warsh is listed for a fireside chat with IMF Managing Director Kristalina Georgieva in Bangkok."
+      ],
+      "sources": [
+        {
+          "name": "BLS, Producer Price Index news release (August 2026)",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        },
+        {
+          "name": "Census Bureau, Monthly Retail Trade release schedule",
+          "url": "https://www.census.gov/retail/release_schedule.html"
+        },
+        {
+          "name": "EIA, Weekly Petroleum Status Report",
+          "url": "https://www.eia.gov/petroleum/supply/weekly/"
+        },
+        {
+          "name": "EIA, Gasoline and Diesel Fuel Update",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/"
+        },
+        {
+          "name": "U.S. Treasury, Tentative Auction Schedule",
+          "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
+        },
+        {
+          "name": "Federal Reserve, H.15 Selected Interest Rates",
+          "url": "https://www.federalreserve.gov/releases/h15/"
+        },
+        {
+          "name": "Federal Reserve, Beige Book October 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
+        },
+        {
+          "name": "Freddie Mac, Primary Mortgage Market Survey",
+          "url": "https://www.freddiemac.com/pmms"
+        },
+        {
+          "name": "Marsh, Q3 2026 earnings release",
+          "url": "https://www.marsh.com/content/dam/mmc-web/files-for-download/investors/2026/pdf-marsh-investors-3q-news-release-2026.pdf"
+        },
+        {
+          "name": "Alcoa, Q3 2026 earnings date announcement",
+          "url": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
+        },
+        {
+          "name": "Federal Reserve Board, October 2026 calendar",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        }
+      ],
+      "tickers": [
+        "NYSE:MRSH",
+        "NYSE:AA"
+      ]
     },
-    "Compare that with the consumer side. BLS reported Wednesday that the CPI rose 3.7% over the 12 months ending September, and the index excluding food and energy rose 2.6%. Producer-level core inflation is running about twice the consumer-level core rate. That gap is either being absorbed in margins or has yet to reach shelves.",
-    "The same pattern shows up abroad. China's National Bureau of Statistics reported that producer prices rose 5.0% from a year earlier in September, up from 3.8% in August, while consumer prices rose just 0.9%.",
     {
-     "h": "AlphaGen read"
+      "id": "2026-10-15-beige-book-energy-vs-demand",
+      "time": "2026-10-15T11:14:05Z",
+      "tag": "FED",
+      "title": "Beige Book: the oil shock is everywhere, demand is not",
+      "dek": "Every District reported higher oil prices feeding costs, while consumer spending was flat and growth mostly slight. That mix shapes the pace of the Fed's tightening.",
+      "key_points": [
+        "Two of 12 Districts reported moderate growth, three modest, four slight and three no significant change, per the October Beige Book (information through Oct. 5).",
+        "\"Higher oil prices permeated all District reports\"; four Districts said price increases accelerated, three called price growth robust and eight moderate.",
+        "Most Districts saw little or no change in consumer spending, and over half said it was driven by high-income households.",
+        "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%–4%, but hikes need not come at consecutive meetings.",
+        "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%–4.50%."
+      ],
+      "body": [
+        "The Fed's October Beige Book, compiled by the Philadelphia Fed from information collected on or before Oct. 5, describes an economy that is barely growing while its cost base is rising. Two of the 12 Districts reported moderate growth, three modest growth, four slight growth and three no significant change.",
+        {
+          "h": "Energy is everywhere"
+        },
+        "The prices section states flatly: \"Higher oil prices permeated all District reports.\" Four Districts said the pace of price increases picked up since the prior report, three described overall price growth as robust and eight as moderate. Contacts flagged diesel costs and fuel surcharges moving through supply chains, along with continued pressure from other commodities, tariffs and insurance, and firms in several Districts expect prices to rise further as contracts expire and hedges are renegotiated.",
+        {
+          "h": "Demand is not keeping up"
+        },
+        "The demand side is the counterweight. Most Districts reported little or no change in consumer spending, and over half said spending was driven by high-income households. Consumer-facing firms reported tighter margins as price-sensitive customers resist increases. Labor market conditions were little changed, labor supply was generally adequate, and five Districts said some firms trimmed staffing through attrition or delayed hiring after investing in AI.",
+        {
+          "h": "What the Fed is weighing"
+        },
+        "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%–4.50%.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27–28 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve, Beige Book, October 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
+        },
+        {
+          "name": "Federal Reserve, Governor Waller speech, Oct. 8, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
+        },
+        {
+          "name": "PNC Financial Services Group, Q3 2026 earnings release",
+          "url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
+        }
+      ],
+      "correction": "The quoted oil-price line is the fourth sentence of the Beige Book prices section, not its opening; wording corrected.",
+      "checked": "2026-10-15T12:08:25Z"
     },
-    "Markets are not yet pricing in much pass-through. The 10-year breakeven inflation rate on FRED stood at 2.35% on October 14. If trade margins keep widening and transport costs keep climbing, the pass-through from producer to consumer prices will matter more for the Fed's next steps than any single month's headline. The next PPI release is scheduled for November 13."
-   ],
-   "sources": [
     {
-     "name": "BLS, Producer Price Index news release (September 2026)",
-     "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+      "id": "2026-10-14-fannie-forecast-higher-for-longer",
+      "time": "2026-10-15T01:24:39Z",
+      "tag": "HOUSING",
+      "title": "Fannie Mae's new forecast pushes mortgage relief past 2027",
+      "dek": "One month after projecting rates near 6.7%, Fannie Mae's economists now see 7.5% next year and fewer home sales.",
+      "key_points": [
+        "Fannie Mae's Oct. 12 forecast sees the 30-year fixed rate averaging 7.4% in 4Q26 and 7.5% in 2027, versus 6.8% and 6.7% in the Sept. 11 forecast.",
+        "The 2027 total home sales forecast was cut to 4.713 million from 4.882 million, and existing-home sales to 4.061 million from 4.215 million.",
+        "Projected 2027 housing starts were trimmed to 1.301 million from 1.327 million.",
+        "Fannie Mae's home price forecast for 2026 rose to 2.7% from 2.3%, while 2027 was cut to 0.6% from 1.0%."
+      ],
+      "body": [
+        "Fannie Mae's Economic and Strategic Research group publishes a housing forecast every month, and the October edition, dated Oct. 12, marks a sharp break from September. The group now expects the 30-year fixed mortgage rate to average 7.4% in the fourth quarter of 2026 and 7.5% in every quarter of 2027. In its Sept. 11 forecast, the same quarters were pencilled in at 6.8% and 6.7%.",
+        {
+          "h": "From easing to tightening"
+        },
+        "The revision changes the shape of the path, not just its level. September's forecast had rates easing slightly into 2027 and then holding flat at 6.7%; October's has them stepping up and staying there. For full-year 2026 the average moves to 6.7% from 6.5%, which implies most of the change is concentrated in the final quarter and beyond. Fannie Mae's tables do not attribute the shift to a single cause, but the timing coincides with the energy-driven jump in inflation and a long end of the Treasury curve that has repriced higher.",
+        {
+          "h": "Fewer sales, fewer starts"
+        },
+        "Higher rates feed straight into turnover. Fannie Mae cut its 2027 total home sales forecast to 4.713 million from 4.882 million, a reduction of 169,000, or about 3.5% by our calculation. Existing-home sales for 2027 were lowered to 4.061 million from 4.215 million. The 2026 total moved down to 4.672 million from 4.692 million, so this year is largely locked in and the damage falls on next year.",
+        "Construction is not spared. Total housing starts are now seen at 1.341 million in 2026 and 1.301 million in 2027, down from 1.351 million and 1.327 million. Fewer starts in a forecast that also expects slower price growth points to builders pulling back rather than chasing volume.",
+        {
+          "h": "Prices: firm now, flat later"
+        },
+        "The price outlook splits in two. Fannie Mae raised its 2026 home price growth forecast to 2.7% from 2.3%, consistent with tight inventory as owners with low locked-in rates stay put. But it cut 2027 growth to 0.6% from 1.0%. That is the lock-in effect at work: supply stays scarce enough to hold prices up in the near term, while affordability eventually caps them.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "The October forecast is a meaningful signal because it comes from one of the two government-sponsored mortgage enterprises, and it moves in the opposite direction from a month ago. If rates track this path, the housing market faces another year of low turnover, which weighs on mortgage originators, brokerages and home-improvement demand tied to moves. The key swing factor is the 10-year Treasury yield: any relief there would likely show up quickly in mortgage rates, but Fannie Mae is no longer assuming it."
+      ],
+      "sources": [
+        {
+          "name": "Fannie Mae ESR Housing Forecast, October 2026",
+          "url": "https://www.fanniemae.com/media/58256/display"
+        },
+        {
+          "name": "Fannie Mae ESR Housing Forecast, September 2026",
+          "url": "https://www.fanniemae.com/media/document/pdf/housing-forecast-092026"
+        }
+      ],
+      "correction": "Corrected the description of September's rate path: it eased slightly into 2027 and then held flat at 6.7%, rather than edging down through 2027.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
-     "name": "BLS, Consumer Price Index news release (September 2026)",
-     "url": "https://www.bls.gov/news.release/pdf/cpi.pdf"
+      "id": "2026-10-14-eia-steo-oil-supply",
+      "time": "2026-10-14T22:02:51Z",
+      "tag": "ENERGY",
+      "title": "EIA's October outlook: oil supply is healing, inventories are not",
+      "dek": "The Energy Information Administration sees Brent easing from a $114 September to $105 in the fourth quarter, but its own numbers show global stocks still drawing and diesel still tight.",
+      "key_points": [
+        "EIA forecasts Brent at $105 per barrel in 4Q26, $96 for 2026 and $84 for 2027, after a September average of $114, $23 above August.",
+        "Middle East shut-in production averaged 4.8 million b/d in September, down from a 10.9 million b/d peak in May; EIA forecasts 4.5 million b/d in 4Q26.",
+        "EIA estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26 and expects a further draw of about 0.7 million b/d in 4Q26.",
+        "East Coast distillate inventories were 32% below the five-year seasonal average in September; EIA expects them to stay about 20% below average through winter.",
+        "Retail diesel is forecast at $5.19 a gallon in 2026 and $4.49 in 2027; gasoline at $3.91 and $3.56."
+      ],
+      "body": [
+        "The October Short-Term Energy Outlook, released Oct. 6, reads at first like a relief story. EIA expects Brent to average $105 per barrel in the fourth quarter, below the $114 average it recorded for September, and to fall to an $84 annual average in 2027. Its WTI path runs from about $97 in 4Q26 to $79.74 next year.",
+        "The detail behind that path is less comfortable. EIA's forecast rests on supply returning, not on demand weakening, and it assumes oil flows from the Middle East remain constrained through the fourth quarter.",
+        {
+          "h": "Supply is coming back slowly"
+        },
+        "EIA puts Middle East shut-in production at 4.8 million barrels a day in September, less than half the 10.9 million b/d peak in May. But it forecasts 4.5 million b/d of shut-ins for 4Q26, barely better than September. The agency also notes that attacks on Saudi Arabia's East-West pipeline temporarily halted a key bypass route around the Strait of Hormuz, and that tanker rates hit record levels in September, adding to delivered crude costs.",
+        {
+          "h": "Inventories are still draining"
+        },
+        "The more important number may be the stock draw. EIA estimates global oil inventories fell by an average of 1.9 million b/d in the third quarter and expects a further draw of about 0.7 million b/d in the fourth. A smaller draw is still a draw: the market is entering winter with less buffer than it had in the summer, and EIA says prices will stay elevated until constraints on Middle East oil flows resolve, then ease gradually as depleted inventories rebuild next year.",
+        "Diesel is where that shows up first. East Coast distillate inventories were 32% below their five-year seasonal average in September, and EIA expects them to stay about 20% below average through the winter. It forecasts retail diesel at $5.19 a gallon for 2026. That fits the Dallas Fed's Beige Book report that diesel is the top cost driver in its district.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "For markets, the outlook explains why September's energy-led inflation jump is unlikely to fade quickly. Diesel feeds freight, farming and goods costs with a lag, so even if crude eases as EIA expects, the pass-through from distillates can keep pressure on goods prices into early 2027. Natural gas is the exception: EIA sees Henry Hub averaging $3.48 per MMBtu this year and $3.16 in 2027, with above-average storage heading into the heating season.",
+        "The next official check comes Thursday, when EIA publishes its weekly petroleum data, delayed a day by Monday's federal closure. The distillate line will show whether winter supply is rebuilding or whether EIA's below-average assumption is, if anything, optimistic."
+      ],
+      "sources": [
+        {
+          "name": "EIA Short-Term Energy Outlook, October 2026",
+          "url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf"
+        },
+        {
+          "name": "EIA Weekly Petroleum Status Report",
+          "url": "https://www.eia.gov/petroleum/supply/weekly/"
+        }
+      ],
+      "correction": "Aligned the price-outlook paraphrase with EIA's wording, which ties elevated prices to Middle East flow constraints and a gradual decline to inventory rebuilding.",
+      "checked": "2026-10-15T12:08:25Z"
     },
     {
-     "name": "National Bureau of Statistics of China, PPI release (September 2026)",
-     "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261014_1965476.html"
+      "id": "2026-10-14-the-close",
+      "time": "2026-10-14T21:13:14Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Bank earnings show growth, with credit and compliance bills attached",
+      "dek": "Citigroup, Wells Fargo, Bank of America, State Street and BlackRock all grew revenue in the third quarter, while the Fed's H.15 shows long Treasury yields easing off last week's levels.",
+      "key_points": [
+        "Citigroup earned $2.85 a diluted share on $23.8 billion of revenue, with net interest income up 14% and a $2.6 billion provision for credit losses.",
+        "Bank of America's revenue rose to $29.96 billion from $29.04 billion, but net income fell to $6.93 billion after a $1.2 billion Bank Secrecy Act-related charge.",
+        "Wells Fargo's diluted EPS rose to $1.87 from $1.66 on revenue of $21.87 billion.",
+        "State Street revenue rose about 13% to $4.0 billion and BlackRock revenue rose about 19% to $7.75 billion.",
+        "Per the Fed's H.15, the 10-year Treasury yield was 5.21% on October 13, down from 5.28% on October 7; the 2-year was 4.79%."
+      ],
+      "body": [
+        "The heart of the third-quarter bank reporting season has now arrived, and the message from the official filings is consistent: revenue is growing almost everywhere, but the path from revenue to earnings runs through credit costs, regulatory bills and capital return decisions that differ sharply by firm.",
+        {
+          "h": "Citi's operating leverage, with a card-loss price tag"
+        },
+        "Citigroup reported net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier. Revenues rose to $23.8 billion from $22.1 billion, net interest income rose 14% and reported operating expenses fell 2% to $14.0 billion. The year-ago quarter carried a Banamex-related goodwill impairment, so the EPS jump overstates the underlying change, but revenue growing faster than expenses is real. The cost is in credit: the provision was $2.6 billion, including $2.2 billion of net credit losses and a $369 million net reserve build. Citi still returned $4.1 billion to shareholders with its CET1 ratio at 12.8%.",
+        {
+          "h": "Wells Fargo and Bank of America"
+        },
+        "Wells Fargo earned $5.95 billion, or $1.87 per diluted share, up from $1.66, on total revenue of $21.87 billion against $21.44 billion. EPS grew far faster than revenue, a reminder that share count and cost discipline are doing much of the work. Bank of America went the other way on the bottom line: revenue rose to $29.96 billion from $29.04 billion, but net income fell to $6.93 billion from $8.33 billion, and diluted EPS to $0.91 from $1.04, after a $1.2 billion charge for Bank Secrecy Act-related civil money penalties.",
+        {
+          "h": "Fee businesses and the industrial read"
+        },
+        "State Street's revenue rose to $4.00 billion from $3.55 billion and diluted EPS to $3.69 from $2.78. BlackRock's revenue rose to $7.75 billion from $6.51 billion, with GAAP diluted EPS of $10.57 versus $8.43. Outside finance, Fastenal's net sales rose to $2.46 billion from $2.13 billion, a constructive signal for U.S. industrial demand.",
+        {
+          "h": "Rates backdrop"
+        },
+        "The Fed's H.15 release shows the 10-year Treasury yield at 5.21% on October 13, down from 5.28% on October 7, and the 30-year at 5.56% from 5.67%. The 2-year held at 4.79% and the 3-month constant-maturity yield edged up to 4.26%, well above the 3.88% effective federal funds rate. The long end has eased while the front end has not, which keeps pressure on bank funding costs even as longer-dated borrowing rates get some relief.",
+        "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27–28."
+      ],
+      "sources": [
+        {
+          "name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm"
+        },
+        {
+          "name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
+        },
+        {
+          "name": "Bank of America 8-K, Exhibit 99.3 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm"
+        },
+        {
+          "name": "State Street 8-K, Exhibit 99.2 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/exhibit992-3q26earningsrel.htm"
+        },
+        {
+          "name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+        },
+        {
+          "name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm"
+        },
+        {
+          "name": "Federal Reserve, H.15 Selected Interest Rates",
+          "url": "https://federalreserve.gov/releases/h15/"
+        }
+      ],
+      "tickers": [
+        "NYSE:C",
+        "NYSE:WFC",
+        "NYSE:BAC",
+        "NYSE:STT",
+        "NYSE:BLK",
+        "NASDAQ:FAST"
+      ],
+      "checked": "2026-10-14T22:06:09Z"
     },
     {
-     "name": "FRED, 10-Year Breakeven Inflation Rate (T10YIE)",
-     "url": "https://fred.stlouisfed.org/series/T10YIE"
+      "id": "2026-10-14-q3-financials-fees",
+      "time": "2026-10-14T20:07:09Z",
+      "tag": "EQUITIES",
+      "title": "Q3 financials: fee engines are carrying the quarter",
+      "dek": "BlackRock and State Street posted double-digit revenue growth on market-linked fees, while Bank of America and Wells Fargo show balance-sheet banks paying for compliance and building reserves.",
+      "key_points": [
+        "BlackRock's AUM rose 15% to $15.5 trillion on $205 billion of Q3 net inflows; revenue rose 19% to $7.75 billion.",
+        "State Street's total revenue rose 13% to $4.0 billion, with fee revenue up 11% and net interest income up 21%; AUC/A reached a record $59.2 trillion.",
+        "Bank of America's Q3 net income fell to $6.9 billion from $8.3 billion, including a $1.2 billion charge for Bank Secrecy Act-related civil money penalties; net interest income rose 8%.",
+        "Wells Fargo's provision for credit losses rose to $1.03 billion from $681 million, partly on higher allowances for commercial and industrial and auto loans."
+      ],
+      "body": [
+        "The first wave of third-quarter results from U.S. financials splits cleanly in two. Firms paid on the value of assets they manage or hold are growing revenue at double-digit rates. Balance-sheet banks are growing more slowly and are absorbing costs that have nothing to do with the cycle.",
+        {
+          "h": "The fee side"
+        },
+        "BlackRock ended the quarter with $15.5 trillion in assets under management, up 15% from a year earlier, after $205 billion of net inflows. Revenue rose 19% to $7.75 billion and as-adjusted diluted EPS rose 38% to $15.93. The company put annualized organic base fee growth at 11% for the quarter, which is the cleanest measure of growth that markets did not simply hand over.",
+        "State Street tells a similar story from the custody side. Total revenue rose 13% to $4.0 billion, fee revenue rose 11%, and net interest income rose 21%. Assets under custody and/or administration reached a record $59.2 trillion. Fee revenue is still roughly 78% of the total, so the business remains tied to asset levels and client activity more than to rates.",
+        {
+          "h": "The balance-sheet side"
+        },
+        "Bank of America reported net income of $6.9 billion, or $0.91 a share, down from $8.3 billion, or $1.04. The quarter carried a $1.2 billion non-tax-deductible charge, or $0.17 a share, to accrue for civil money penalties tied to consent orders on its Bank Secrecy Act program. Strip that out and the operating picture is steady: revenue rose 3%, net interest income rose 8%, and the provision for credit losses was roughly flat at $1.3 billion.",
+        "Wells Fargo, which reported on October 13, earned $1.87 a share versus $1.66 a year earlier. Its provision for credit losses rose to $1.03 billion from $681 million, partly on higher allowances for commercial and industrial and auto loans, and its estimated CET1 ratio was 10.0%, down from 11.0% a year earlier, after $2.5 billion of buybacks in the quarter.",
+        {
+          "h": "The AlphaGen view"
+        },
+        "Our read is that Q3 rewards scale in fee businesses and exposes the costs of running large balance sheets. In this set of releases, market-linked revenue is doing more of the work than lending spreads. For credit investors, nothing in these releases points to stress in the large-bank complex. Wells Fargo's reserve build and lower CET1 ratio are the details worth tracking into year-end, because they show where management sees risk and how much buffer it is willing to give up for buybacks."
+      ],
+      "sources": [
+        {
+          "name": "BlackRock Q3 2026 earnings release, 8-K Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+        },
+        {
+          "name": "State Street Q3 2026 earnings release, 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm"
+        },
+        {
+          "name": "Bank of America Q3 2026 earnings release, 8-K Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm"
+        },
+        {
+          "name": "Wells Fargo Q3 2026 earnings release, 8-K Exhibit 99.1 (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
+        }
+      ],
+      "checked": "2026-10-14T20:48:00Z"
+    },
+    {
+      "id": "2026-10-14-cpi-energy-shock",
+      "time": "2026-10-14T19:40:00Z",
+      "tag": "MACRO",
+      "title": "September CPI: an energy shock, not a broad reacceleration",
+      "dek": "Headline inflation jumped to 3.7% on gasoline, while core held at 2.6%. The gap between the two is now the central question for the Fed on October 28.",
+      "key_points": [
+        "Headline CPI rose 0.6% in September after 0.4% in August; the 12-month rate is 3.7%.",
+        "Gasoline rose 9.1% on the month and accounted for over half of the headline increase.",
+        "Core CPI rose 0.3% on the month and 2.6% on the year. Energy is up 20.4% year over year.",
+        "The FOMC meets October 27–28, with the decision on the 28th."
+      ],
+      "body": [
+        "September's CPI report delivered a hot headline and a calm core. The Bureau of Labor Statistics reported that the all-items index rose 0.6% on a seasonally adjusted basis, after a 0.4% gain in August, lifting the 12-month rate to 3.7%.",
+        "The driver was energy. Gasoline rose 9.1% in September and accounted for over half of the monthly increase. The energy index is now up 20.4% from a year earlier. Strip out food and energy and the picture changes: core CPI rose 0.3% on the month and 2.6% over the past year.",
+        {
+          "h": "Why the gap matters"
+        },
+        "A 110-basis-point spread between headline and core inflation tells you this is a supply shock moving through one category, not demand running hot across the economy. That distinction drives policy. A central bank can look through an energy spike if it stays contained. It cannot ignore it if fuel costs start showing up in transportation, goods, and services prices.",
+        "Shelter is the piece to watch for that spillover. It rose 0.4% on the month and 3.2% on the year, and as the stickiest major category it is where broad pressure would show up first.",
+        {
+          "h": "What it means for markets"
+        },
+        "The bond market's job between now and October 28 is to price how the Fed reads this report. With the 10-year Treasury yield already above 5%, a hotter headline narrows the room for error in long-duration assets. For equities, the read-through is about margins: an energy shock acts like a tax on consumers and an input-cost squeeze on companies outside the energy sector.",
+        "Our view: the core number is the one the Fed is most likely to anchor on, but headline inflation at 3.7% raises the cost of sounding relaxed. The tell on October 28 is whether the statement addresses energy pass-through directly."
+      ],
+      "sources": [
+        {
+          "name": "U.S. Bureau of Labor Statistics, Consumer Price Index – September 2026",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "name": "Federal Reserve, FOMC meeting calendar",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "name": "U.S. Treasury, Daily Treasury Par Yield Curve Rates",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+        }
+      ],
+      "checked": "2026-10-14T20:48:00Z"
     }
-   ]
-  },
-  {
-   "id": "2026-10-15-morning-brief",
-   "time": "2026-10-15T12:11:06Z",
-   "tag": "MACRO",
-   "series": "morning-brief",
-   "title": "Morning Brief: Producer prices and retail sales test the energy shock",
-   "dek": "September PPI and retail sales land together at 8:30 a.m., with a delayed EIA oil inventory report, Freddie Mac mortgage rates and two bill auctions to follow.",
-   "key_points": [
-    "8:30 a.m. ET: BLS releases the September Producer Price Index; in August, final demand prices rose 0.4% and were up 5.4% from a year earlier on an unadjusted basis.",
-    "8:30 a.m. ET: Census publishes advance retail and food services sales for September, followed by manufacturing and trade inventories.",
-    "10:30 a.m. ET: EIA natural gas storage report; the Weekly Petroleum Status Report is delayed to today at 12:00 p.m. and 2:00 p.m. ET because of Monday's federal holiday.",
-    "Treasury auctions 4-week and 8-week bills today, and its tentative schedule lists announcements for a 20-year bond reopening and a new 5-year TIPS, both auctioning next week.",
-    "Marsh reported Q3 revenue of $6.863 billion versus $6.351 billion and GAAP EPS of $1.69 versus $1.51; Alcoa reports after the close, with its call at 5:00 p.m. ET."
-   ],
-   "body": [
-    "Thursday brings the second half of this week's inflation read. After Wednesday's September CPI, the Bureau of Labor Statistics publishes the September Producer Price Index at 8:30 a.m. ET. The August report showed final demand prices up 0.4% for the month and 5.4% from a year earlier on an unadjusted basis, so the question is how much of the oil-driven cost surge is still moving down the pipeline toward consumers.",
-    {
-     "h": "Consumers under a fuel bill"
-    },
-    "At the same hour, the Census Bureau releases advance September retail and food services sales. The backdrop is a heavy energy bill: EIA's weekly survey put U.S. regular gasoline at $4.331 a gallon in the week of October 12, up $1.270 from a year earlier, and on-highway diesel at $6.179, up $2.514. The Fed's October Beige Book, released Wednesday, said most Districts saw flat or slightly lower consumer spending, with more than half noting that spending was driven by higher-income households. A strong nominal retail number partly inflated by gasoline station receipts would not contradict that picture.",
-    {
-     "h": "Energy data, delayed"
-    },
-    "Monday's federal holiday has pushed EIA's Weekly Petroleum Status Report to today, with the agency listing 12:00 p.m. and 2:00 p.m. ET release times. The natural gas storage report is on its regular Thursday 10:30 a.m. slot.",
-    {
-     "h": "Rates and funding"
-    },
-    "Treasury auctions 4-week and 8-week bills today, and its tentative schedule shows the 20-year bond reopening and a new 5-year TIPS being announced today for auctions on October 21 and 22. Per the Fed's H.15, the 10-year yield was 5.21% on October 13 and the 30-year 5.56%, so next week's long-end supply arrives with long yields above 5%. Freddie Mac publishes its weekly mortgage survey at noon; last week the 30-year fixed averaged 7.40%.",
-    {
-     "h": "Earnings"
-    },
-    "Marsh opened the day with Q3 revenue of $6.863 billion, up from $6.351 billion, and adjusted EPS up 10% to $2.03, with Consulting growing faster than insurance broking. Alcoa reports after the close. On the Fed calendar, Chairman Warsh is listed for a fireside chat with IMF Managing Director Kristalina Georgieva in Bangkok."
-   ],
-   "sources": [
-    {
-     "name": "BLS, Producer Price Index news release (August 2026)",
-     "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
-    },
-    {
-     "name": "Census Bureau, Monthly Retail Trade release schedule",
-     "url": "https://www.census.gov/retail/release_schedule.html"
-    },
-    {
-     "name": "EIA, Weekly Petroleum Status Report",
-     "url": "https://www.eia.gov/petroleum/supply/weekly/"
-    },
-    {
-     "name": "EIA, Gasoline and Diesel Fuel Update",
-     "url": "https://www.eia.gov/petroleum/gasdiesel/"
-    },
-    {
-     "name": "U.S. Treasury, Tentative Auction Schedule",
-     "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
-    },
-    {
-     "name": "Federal Reserve, H.15 Selected Interest Rates",
-     "url": "https://www.federalreserve.gov/releases/h15/"
-    },
-    {
-     "name": "Federal Reserve, Beige Book October 2026",
-     "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
-    },
-    {
-     "name": "Freddie Mac, Primary Mortgage Market Survey",
-     "url": "https://www.freddiemac.com/pmms"
-    },
-    {
-     "name": "Marsh, Q3 2026 earnings release",
-     "url": "https://www.marsh.com/content/dam/mmc-web/files-for-download/investors/2026/pdf-marsh-investors-3q-news-release-2026.pdf"
-    },
-    {
-     "name": "Alcoa, Q3 2026 earnings date announcement",
-     "url": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call/default.aspx"
-    },
-    {
-     "name": "Federal Reserve Board, October 2026 calendar",
-     "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    }
-   ],
-   "tickers": [
-    "NYSE:MRSH",
-    "NYSE:AA"
-   ]
-  },
-  {
-   "id": "2026-10-15-beige-book-energy-vs-demand",
-   "time": "2026-10-15T11:14:05Z",
-   "tag": "FED",
-   "title": "Beige Book: the oil shock is everywhere, demand is not",
-   "dek": "Every District reported higher oil prices feeding costs, while consumer spending was flat and growth mostly slight. That mix shapes the pace of the Fed's tightening.",
-   "key_points": [
-    "Two of 12 Districts reported moderate growth, three modest, four slight and three no significant change, per the October Beige Book (information through Oct. 5).",
-    "\"Higher oil prices permeated all District reports\"; four Districts said price increases accelerated, three called price growth robust and eight moderate.",
-    "Most Districts saw little or no change in consumer spending, and over half said it was driven by high-income households.",
-    "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%–4%, but hikes need not come at consecutive meetings.",
-    "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%–4.50%."
-   ],
-   "body": [
-    "The Fed's October Beige Book, compiled by the Philadelphia Fed from information collected on or before Oct. 5, describes an economy that is barely growing while its cost base is rising. Two of the 12 Districts reported moderate growth, three modest growth, four slight growth and three no significant change.",
-    {
-     "h": "Energy is everywhere"
-    },
-    "The prices section states flatly: \"Higher oil prices permeated all District reports.\" Four Districts said the pace of price increases picked up since the prior report, three described overall price growth as robust and eight as moderate. Contacts flagged diesel costs and fuel surcharges moving through supply chains, along with continued pressure from other commodities, tariffs and insurance, and firms in several Districts expect prices to rise further as contracts expire and hedges are renegotiated.",
-    {
-     "h": "Demand is not keeping up"
-    },
-    "The demand side is the counterweight. Most Districts reported little or no change in consumer spending, and over half said spending was driven by high-income households. Consumer-facing firms reported tighter margins as price-sensitive customers resist increases. Labor market conditions were little changed, labor supply was generally adequate, and five Districts said some firms trimmed staffing through attrition or delayed hiring after investing in AI.",
-    {
-     "h": "What the Fed is weighing"
-    },
-    "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%–4.50%.",
-    {
-     "h": "The AlphaGen read"
-    },
-    "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27–28 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
-   ],
-   "sources": [
-    {
-     "name": "Federal Reserve, Beige Book, October 2026",
-     "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
-    },
-    {
-     "name": "Federal Reserve, Governor Waller speech, Oct. 8, 2026",
-     "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
-    },
-    {
-     "name": "PNC Financial Services Group, Q3 2026 earnings release",
-     "url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted"
-    }
-   ],
-   "correction": "The quoted oil-price line is the fourth sentence of the Beige Book prices section, not its opening; wording corrected.",
-   "checked": "2026-10-15T12:08:25Z"
-  },
-  {
-   "id": "2026-10-14-fannie-forecast-higher-for-longer",
-   "time": "2026-10-15T01:24:39Z",
-   "tag": "HOUSING",
-   "title": "Fannie Mae's new forecast pushes mortgage relief past 2027",
-   "dek": "One month after projecting rates near 6.7%, Fannie Mae's economists now see 7.5% next year and fewer home sales.",
-   "key_points": [
-    "Fannie Mae's Oct. 12 forecast sees the 30-year fixed rate averaging 7.4% in 4Q26 and 7.5% in 2027, versus 6.8% and 6.7% in the Sept. 11 forecast.",
-    "The 2027 total home sales forecast was cut to 4.713 million from 4.882 million, and existing-home sales to 4.061 million from 4.215 million.",
-    "Projected 2027 housing starts were trimmed to 1.301 million from 1.327 million.",
-    "Fannie Mae's home price forecast for 2026 rose to 2.7% from 2.3%, while 2027 was cut to 0.6% from 1.0%."
-   ],
-   "body": [
-    "Fannie Mae's Economic and Strategic Research group publishes a housing forecast every month, and the October edition, dated Oct. 12, marks a sharp break from September. The group now expects the 30-year fixed mortgage rate to average 7.4% in the fourth quarter of 2026 and 7.5% in every quarter of 2027. In its Sept. 11 forecast, the same quarters were pencilled in at 6.8% and 6.7%.",
-    {
-     "h": "From easing to tightening"
-    },
-    "The revision changes the shape of the path, not just its level. September's forecast had rates easing slightly into 2027 and then holding flat at 6.7%; October's has them stepping up and staying there. For full-year 2026 the average moves to 6.7% from 6.5%, which implies most of the change is concentrated in the final quarter and beyond. Fannie Mae's tables do not attribute the shift to a single cause, but the timing coincides with the energy-driven jump in inflation and a long end of the Treasury curve that has repriced higher.",
-    {
-     "h": "Fewer sales, fewer starts"
-    },
-    "Higher rates feed straight into turnover. Fannie Mae cut its 2027 total home sales forecast to 4.713 million from 4.882 million, a reduction of 169,000, or about 3.5% by our calculation. Existing-home sales for 2027 were lowered to 4.061 million from 4.215 million. The 2026 total moved down to 4.672 million from 4.692 million, so this year is largely locked in and the damage falls on next year.",
-    "Construction is not spared. Total housing starts are now seen at 1.341 million in 2026 and 1.301 million in 2027, down from 1.351 million and 1.327 million. Fewer starts in a forecast that also expects slower price growth points to builders pulling back rather than chasing volume.",
-    {
-     "h": "Prices: firm now, flat later"
-    },
-    "The price outlook splits in two. Fannie Mae raised its 2026 home price growth forecast to 2.7% from 2.3%, consistent with tight inventory as owners with low locked-in rates stay put. But it cut 2027 growth to 0.6% from 1.0%. That is the lock-in effect at work: supply stays scarce enough to hold prices up in the near term, while affordability eventually caps them.",
-    {
-     "h": "The AlphaGen read"
-    },
-    "The October forecast is a meaningful signal because it comes from one of the two government-sponsored mortgage enterprises, and it moves in the opposite direction from a month ago. If rates track this path, the housing market faces another year of low turnover, which weighs on mortgage originators, brokerages and home-improvement demand tied to moves. The key swing factor is the 10-year Treasury yield: any relief there would likely show up quickly in mortgage rates, but Fannie Mae is no longer assuming it."
-   ],
-   "sources": [
-    {
-     "name": "Fannie Mae ESR Housing Forecast, October 2026",
-     "url": "https://www.fanniemae.com/media/58256/display"
-    },
-    {
-     "name": "Fannie Mae ESR Housing Forecast, September 2026",
-     "url": "https://www.fanniemae.com/media/document/pdf/housing-forecast-092026"
-    }
-   ],
-   "correction": "Corrected the description of September's rate path: it eased slightly into 2027 and then held flat at 6.7%, rather than edging down through 2027.",
-   "checked": "2026-10-15T01:52:36Z"
-  },
-  {
-   "id": "2026-10-14-eia-steo-oil-supply",
-   "time": "2026-10-14T22:02:51Z",
-   "tag": "ENERGY",
-   "title": "EIA's October outlook: oil supply is healing, inventories are not",
-   "dek": "The Energy Information Administration sees Brent easing from a $114 September to $105 in the fourth quarter, but its own numbers show global stocks still drawing and diesel still tight.",
-   "key_points": [
-    "EIA forecasts Brent at $105 per barrel in 4Q26, $96 for 2026 and $84 for 2027, after a September average of $114, $23 above August.",
-    "Middle East shut-in production averaged 4.8 million b/d in September, down from a 10.9 million b/d peak in May; EIA forecasts 4.5 million b/d in 4Q26.",
-    "EIA estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26 and expects a further draw of about 0.7 million b/d in 4Q26.",
-    "East Coast distillate inventories were 32% below the five-year seasonal average in September; EIA expects them to stay about 20% below average through winter.",
-    "Retail diesel is forecast at $5.19 a gallon in 2026 and $4.49 in 2027; gasoline at $3.91 and $3.56."
-   ],
-   "body": [
-    "The October Short-Term Energy Outlook, released Oct. 6, reads at first like a relief story. EIA expects Brent to average $105 per barrel in the fourth quarter, below the $114 average it recorded for September, and to fall to an $84 annual average in 2027. Its WTI path runs from about $97 in 4Q26 to $79.74 next year.",
-    "The detail behind that path is less comfortable. EIA's forecast rests on supply returning, not on demand weakening, and it assumes oil flows from the Middle East remain constrained through the fourth quarter.",
-    {
-     "h": "Supply is coming back slowly"
-    },
-    "EIA puts Middle East shut-in production at 4.8 million barrels a day in September, less than half the 10.9 million b/d peak in May. But it forecasts 4.5 million b/d of shut-ins for 4Q26, barely better than September. The agency also notes that attacks on Saudi Arabia's East-West pipeline temporarily halted a key bypass route around the Strait of Hormuz, and that tanker rates hit record levels in September, adding to delivered crude costs.",
-    {
-     "h": "Inventories are still draining"
-    },
-    "The more important number may be the stock draw. EIA estimates global oil inventories fell by an average of 1.9 million b/d in the third quarter and expects a further draw of about 0.7 million b/d in the fourth. A smaller draw is still a draw: the market is entering winter with less buffer than it had in the summer, and EIA says prices will stay elevated until constraints on Middle East oil flows resolve, then ease gradually as depleted inventories rebuild next year.",
-    "Diesel is where that shows up first. East Coast distillate inventories were 32% below their five-year seasonal average in September, and EIA expects them to stay about 20% below average through the winter. It forecasts retail diesel at $5.19 a gallon for 2026. That fits the Dallas Fed's Beige Book report that diesel is the top cost driver in its district.",
-    {
-     "h": "The AlphaGen read"
-    },
-    "For markets, the outlook explains why September's energy-led inflation jump is unlikely to fade quickly. Diesel feeds freight, farming and goods costs with a lag, so even if crude eases as EIA expects, the pass-through from distillates can keep pressure on goods prices into early 2027. Natural gas is the exception: EIA sees Henry Hub averaging $3.48 per MMBtu this year and $3.16 in 2027, with above-average storage heading into the heating season.",
-    "The next official check comes Thursday, when EIA publishes its weekly petroleum data, delayed a day by Monday's federal closure. The distillate line will show whether winter supply is rebuilding or whether EIA's below-average assumption is, if anything, optimistic."
-   ],
-   "sources": [
-    {
-     "name": "EIA Short-Term Energy Outlook, October 2026",
-     "url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf"
-    },
-    {
-     "name": "EIA Weekly Petroleum Status Report",
-     "url": "https://www.eia.gov/petroleum/supply/weekly/"
-    }
-   ],
-   "correction": "Aligned the price-outlook paraphrase with EIA's wording, which ties elevated prices to Middle East flow constraints and a gradual decline to inventory rebuilding.",
-   "checked": "2026-10-15T12:08:25Z"
-  },
-  {
-   "id": "2026-10-14-the-close",
-   "time": "2026-10-14T21:13:14Z",
-   "tag": "MACRO",
-   "series": "the-close",
-   "title": "The Close: Bank earnings show growth, with credit and compliance bills attached",
-   "dek": "Citigroup, Wells Fargo, Bank of America, State Street and BlackRock all grew revenue in the third quarter, while the Fed's H.15 shows long Treasury yields easing off last week's levels.",
-   "key_points": [
-    "Citigroup earned $2.85 a diluted share on $23.8 billion of revenue, with net interest income up 14% and a $2.6 billion provision for credit losses.",
-    "Bank of America's revenue rose to $29.96 billion from $29.04 billion, but net income fell to $6.93 billion after a $1.2 billion Bank Secrecy Act-related charge.",
-    "Wells Fargo's diluted EPS rose to $1.87 from $1.66 on revenue of $21.87 billion.",
-    "State Street revenue rose about 13% to $4.0 billion and BlackRock revenue rose about 19% to $7.75 billion.",
-    "Per the Fed's H.15, the 10-year Treasury yield was 5.21% on October 13, down from 5.28% on October 7; the 2-year was 4.79%."
-   ],
-   "body": [
-    "The heart of the third-quarter bank reporting season has now arrived, and the message from the official filings is consistent: revenue is growing almost everywhere, but the path from revenue to earnings runs through credit costs, regulatory bills and capital return decisions that differ sharply by firm.",
-    {
-     "h": "Citi's operating leverage, with a card-loss price tag"
-    },
-    "Citigroup reported net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier. Revenues rose to $23.8 billion from $22.1 billion, net interest income rose 14% and reported operating expenses fell 2% to $14.0 billion. The year-ago quarter carried a Banamex-related goodwill impairment, so the EPS jump overstates the underlying change, but revenue growing faster than expenses is real. The cost is in credit: the provision was $2.6 billion, including $2.2 billion of net credit losses and a $369 million net reserve build. Citi still returned $4.1 billion to shareholders with its CET1 ratio at 12.8%.",
-    {
-     "h": "Wells Fargo and Bank of America"
-    },
-    "Wells Fargo earned $5.95 billion, or $1.87 per diluted share, up from $1.66, on total revenue of $21.87 billion against $21.44 billion. EPS grew far faster than revenue, a reminder that share count and cost discipline are doing much of the work. Bank of America went the other way on the bottom line: revenue rose to $29.96 billion from $29.04 billion, but net income fell to $6.93 billion from $8.33 billion, and diluted EPS to $0.91 from $1.04, after a $1.2 billion charge for Bank Secrecy Act-related civil money penalties.",
-    {
-     "h": "Fee businesses and the industrial read"
-    },
-    "State Street's revenue rose to $4.00 billion from $3.55 billion and diluted EPS to $3.69 from $2.78. BlackRock's revenue rose to $7.75 billion from $6.51 billion, with GAAP diluted EPS of $10.57 versus $8.43. Outside finance, Fastenal's net sales rose to $2.46 billion from $2.13 billion, a constructive signal for U.S. industrial demand.",
-    {
-     "h": "Rates backdrop"
-    },
-    "The Fed's H.15 release shows the 10-year Treasury yield at 5.21% on October 13, down from 5.28% on October 7, and the 30-year at 5.56% from 5.67%. The 2-year held at 4.79% and the 3-month constant-maturity yield edged up to 4.26%, well above the 3.88% effective federal funds rate. The long end has eased while the front end has not, which keeps pressure on bank funding costs even as longer-dated borrowing rates get some relief.",
-    "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27–28."
-   ],
-   "sources": [
-    {
-     "name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm"
-    },
-    {
-     "name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
-    },
-    {
-     "name": "Bank of America 8-K, Exhibit 99.3 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm"
-    },
-    {
-     "name": "State Street 8-K, Exhibit 99.2 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/exhibit992-3q26earningsrel.htm"
-    },
-    {
-     "name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
-    },
-    {
-     "name": "Fastenal 8-K, Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000815556/000081555626000046/ex_99109302026earningsrele.htm"
-    },
-    {
-     "name": "Federal Reserve, H.15 Selected Interest Rates",
-     "url": "https://federalreserve.gov/releases/h15/"
-    }
-   ],
-   "tickers": [
-    "NYSE:C",
-    "NYSE:WFC",
-    "NYSE:BAC",
-    "NYSE:STT",
-    "NYSE:BLK",
-    "NASDAQ:FAST"
-   ],
-   "checked": "2026-10-14T22:06:09Z"
-  },
-  {
-   "id": "2026-10-14-q3-financials-fees",
-   "time": "2026-10-14T20:07:09Z",
-   "tag": "EQUITIES",
-   "title": "Q3 financials: fee engines are carrying the quarter",
-   "dek": "BlackRock and State Street posted double-digit revenue growth on market-linked fees, while Bank of America and Wells Fargo show balance-sheet banks paying for compliance and building reserves.",
-   "key_points": [
-    "BlackRock's AUM rose 15% to $15.5 trillion on $205 billion of Q3 net inflows; revenue rose 19% to $7.75 billion.",
-    "State Street's total revenue rose 13% to $4.0 billion, with fee revenue up 11% and net interest income up 21%; AUC/A reached a record $59.2 trillion.",
-    "Bank of America's Q3 net income fell to $6.9 billion from $8.3 billion, including a $1.2 billion charge for Bank Secrecy Act-related civil money penalties; net interest income rose 8%.",
-    "Wells Fargo's provision for credit losses rose to $1.03 billion from $681 million, partly on higher allowances for commercial and industrial and auto loans."
-   ],
-   "body": [
-    "The first wave of third-quarter results from U.S. financials splits cleanly in two. Firms paid on the value of assets they manage or hold are growing revenue at double-digit rates. Balance-sheet banks are growing more slowly and are absorbing costs that have nothing to do with the cycle.",
-    {
-     "h": "The fee side"
-    },
-    "BlackRock ended the quarter with $15.5 trillion in assets under management, up 15% from a year earlier, after $205 billion of net inflows. Revenue rose 19% to $7.75 billion and as-adjusted diluted EPS rose 38% to $15.93. The company put annualized organic base fee growth at 11% for the quarter, which is the cleanest measure of growth that markets did not simply hand over.",
-    "State Street tells a similar story from the custody side. Total revenue rose 13% to $4.0 billion, fee revenue rose 11%, and net interest income rose 21%. Assets under custody and/or administration reached a record $59.2 trillion. Fee revenue is still roughly 78% of the total, so the business remains tied to asset levels and client activity more than to rates.",
-    {
-     "h": "The balance-sheet side"
-    },
-    "Bank of America reported net income of $6.9 billion, or $0.91 a share, down from $8.3 billion, or $1.04. The quarter carried a $1.2 billion non-tax-deductible charge, or $0.17 a share, to accrue for civil money penalties tied to consent orders on its Bank Secrecy Act program. Strip that out and the operating picture is steady: revenue rose 3%, net interest income rose 8%, and the provision for credit losses was roughly flat at $1.3 billion.",
-    "Wells Fargo, which reported on October 13, earned $1.87 a share versus $1.66 a year earlier. Its provision for credit losses rose to $1.03 billion from $681 million, partly on higher allowances for commercial and industrial and auto loans, and its estimated CET1 ratio was 10.0%, down from 11.0% a year earlier, after $2.5 billion of buybacks in the quarter.",
-    {
-     "h": "The AlphaGen view"
-    },
-    "Our read is that Q3 rewards scale in fee businesses and exposes the costs of running large balance sheets. In this set of releases, market-linked revenue is doing more of the work than lending spreads. For credit investors, nothing in these releases points to stress in the large-bank complex. Wells Fargo's reserve build and lower CET1 ratio are the details worth tracking into year-end, because they show where management sees risk and how much buffer it is willing to give up for buybacks."
-   ],
-   "sources": [
-    {
-     "name": "BlackRock Q3 2026 earnings release, 8-K Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
-    },
-    {
-     "name": "State Street Q3 2026 earnings release, 8-K (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm"
-    },
-    {
-     "name": "Bank of America Q3 2026 earnings release, 8-K Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm"
-    },
-    {
-     "name": "Wells Fargo Q3 2026 earnings release, 8-K Exhibit 99.1 (SEC)",
-     "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
-    }
-   ],
-   "checked": "2026-10-14T20:48:00Z"
-  },
-  {
-   "id": "2026-10-14-cpi-energy-shock",
-   "time": "2026-10-14T19:40:00Z",
-   "tag": "MACRO",
-   "title": "September CPI: an energy shock, not a broad reacceleration",
-   "dek": "Headline inflation jumped to 3.7% on gasoline, while core held at 2.6%. The gap between the two is now the central question for the Fed on October 28.",
-   "key_points": [
-    "Headline CPI rose 0.6% in September after 0.4% in August; the 12-month rate is 3.7%.",
-    "Gasoline rose 9.1% on the month and accounted for over half of the headline increase.",
-    "Core CPI rose 0.3% on the month and 2.6% on the year. Energy is up 20.4% year over year.",
-    "The FOMC meets October 27–28, with the decision on the 28th."
-   ],
-   "body": [
-    "September's CPI report delivered a hot headline and a calm core. The Bureau of Labor Statistics reported that the all-items index rose 0.6% on a seasonally adjusted basis, after a 0.4% gain in August, lifting the 12-month rate to 3.7%.",
-    "The driver was energy. Gasoline rose 9.1% in September and accounted for over half of the monthly increase. The energy index is now up 20.4% from a year earlier. Strip out food and energy and the picture changes: core CPI rose 0.3% on the month and 2.6% over the past year.",
-    {
-     "h": "Why the gap matters"
-    },
-    "A 110-basis-point spread between headline and core inflation tells you this is a supply shock moving through one category, not demand running hot across the economy. That distinction drives policy. A central bank can look through an energy spike if it stays contained. It cannot ignore it if fuel costs start showing up in transportation, goods, and services prices.",
-    "Shelter is the piece to watch for that spillover. It rose 0.4% on the month and 3.2% on the year, and as the stickiest major category it is where broad pressure would show up first.",
-    {
-     "h": "What it means for markets"
-    },
-    "The bond market's job between now and October 28 is to price how the Fed reads this report. With the 10-year Treasury yield already above 5%, a hotter headline narrows the room for error in long-duration assets. For equities, the read-through is about margins: an energy shock acts like a tax on consumers and an input-cost squeeze on companies outside the energy sector.",
-    "Our view: the core number is the one the Fed is most likely to anchor on, but headline inflation at 3.7% raises the cost of sounding relaxed. The tell on October 28 is whether the statement addresses energy pass-through directly."
-   ],
-   "sources": [
-    {
-     "name": "U.S. Bureau of Labor Statistics, Consumer Price Index – September 2026",
-     "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-    },
-    {
-     "name": "Federal Reserve, FOMC meeting calendar",
-     "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
-    },
-    {
-     "name": "U.S. Treasury, Daily Treasury Par Yield Curve Rates",
-     "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
-    }
-   ],
-   "checked": "2026-10-14T20:48:00Z"
-  }
- ]
+  ]
 }
