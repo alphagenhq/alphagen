@@ -328,6 +328,13 @@
       "id": "2026-10-15-fhn-mortgage-sale",
       "action": "corrected",
       "detail": "The $347 million after-tax figure was attributed to the $473 million pretax mortgage-sale loss; per the 8-K release it is the after-tax total of all notable items."
+    },
+    {
+      "time": "2026-10-15T23:58:00Z",
+      "file": "wire.json",
+      "id": "2026-10-15-boe-mann-follow-through",
+      "action": "removed",
+      "detail": "Cited BoE speech (Oct. 1) does not support the 6-3 September vote split, 4%/3.75% rates, Greene and Pill votes, 3.1% August CPI, or a 'September minutes' projection of 'slightly above 4%' (speech says September forecast 'over 4% in Q1 2027'); claims unverifiable at source."
     }
   ]
 }
