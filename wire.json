@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-15T12:32:38Z",
+ "updated": "2026-10-15T12:34:44Z",
  "items": [
+  {
+   "id": "2026-10-15-ccc-gtcr-elliott-take-private",
+   "tag": "DEALS",
+   "ticker": "NASDAQ:CCC",
+   "headline": "CCC Intelligent Solutions to be acquired by GTCR-led group with Elliott for $6.1B",
+   "take": "CCC agreed to be acquired for $7.75 per share in cash by a consortium led by GTCR and including Elliott Investment Management, an enterprise value of about $6.1 billion and about a 44% premium to the unaffected July 9 close. Closing is expected in the first quarter of 2027, subject to stockholder and regulatory approvals, with no financing condition. Elliott joining as a buyer rather than an agitator is the notable structural detail in this software take-private.",
+   "source_name": "CCC Intelligent Solutions press release (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381595/0/en/ccc-intelligent-solutions-signs-definitive-agreement-to-be-acquired-by-gtcr-and-elliott.html",
+   "time": "2026-10-15T12:37:00Z"
+  },
+  {
+   "id": "2026-10-15-eqt-stockbridge",
+   "tag": "DEALS",
+   "ticker": "STO:EQT",
+   "headline": "EQT to buy U.S. real estate manager Stockbridge for $375M plus up to $175M earnout",
+   "take": "EQT will pay a $375 million cash base from its balance sheet for Stockbridge, which has about $16.5 billion of fee-generating AUM, plus up to $175 million over 2027–2030 tied to new-product fundraising. EQT expects Stockbridge to contribute about $35–45 million of fee-related EBITDA in 2027, with closing expected in Q1 2027. The deal adds to the run of alternative managers buying their way into U.S. real estate platforms.",
+   "source_name": "EQT press release",
+   "source_url": "https://eqtgroup.com/news/eqt-to-acquire-stockbridge-accelerating-eqt-real-estates-evolution-into-a-thematically-diversified-platform-2026-10-15",
+   "time": "2026-10-15T12:44:00Z"
+  },
+  {
+   "id": "2026-10-13-agilent-proscia",
+   "tag": "DEALS",
+   "ticker": "NYSE:A",
+   "headline": "Agilent to buy digital pathology software firm Proscia for $240M plus up to $30M",
+   "take": "Agilent agreed to acquire Proscia in an all-cash deal valued at $240 million at closing plus up to $30 million in milestones, expected to close early in Agilent's fiscal 2027. Proscia reports trailing twelve-month revenue above $18 million and FDA 510(k) clearance for primary diagnosis. The price signals Agilent paying up for software to sit alongside its pathology instruments.",
+   "source_name": "Agilent newsroom",
+   "source_url": "https://www.agilent.com/about/newsroom/presrel/2026/13oct-gp26020.html",
+   "time": "2026-10-15T12:52:00Z"
+  },
+  {
+   "id": "2026-10-14-labelbox-series-e",
+   "tag": "DEALS",
+   "headline": "Labelbox raises more than $100M Series E led by Infinitum Partners",
+   "take": "Labelbox raised more than $100 million in Series E financing, including equity and a credit facility, led by Infinitum Partners with Wipro Ventures, a16z and B Capital participating. No valuation or equity/debt split was disclosed. The mix of debt in the headline figure makes it a less clean read on AI-data valuations than a pure equity round.",
+   "source_name": "Labelbox press release (PR Newswire)",
+   "source_url": "https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html",
+   "time": "2026-10-15T12:59:00Z"
+  },
   {
    "id": "2026-10-15-retail-sales-sep",
    "time": "2026-10-15T12:33:38Z",

@@ -1,6 +1,144 @@
 {
-  "updated": "2026-10-15T11:42:24Z",
+  "updated": "2026-10-15T12:34:09Z",
   "items": [
+    {
+      "id": "2026-10-15-ccc-gtcr-elliott-take-private",
+      "time": "2026-10-15T12:37:00Z",
+      "type": "PE",
+      "headline": "CCC Intelligent Solutions to be acquired by GTCR-led group with Elliott for $6.1B",
+      "parties": "Acquirer: Consortium of private investment firms led by GTCR, including Elliott Investment Management L.P. and its affiliates; Target: CCC Intelligent Solutions",
+      "value": 6.1,
+      "value_text": "$7.75/share cash; ~$6.1B enterprise value",
+      "status": "Pending",
+      "announced": "2026-10-15",
+      "sector": "Technology / Insurance Software",
+      "take": "CCC agreed to be taken private for $7.75 per share in cash, an enterprise value of about $6.1 billion and roughly a 44% premium to its unaffected July 9 close, with closing expected in the first quarter of 2027 and no financing condition. Pairing a sponsor like GTCR with Elliott shows how activist capital is increasingly sitting on the buy side of software take-privates rather than only agitating from the outside.",
+      "source_name": "CCC Intelligent Solutions press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381595/0/en/ccc-intelligent-solutions-signs-definitive-agreement-to-be-acquired-by-gtcr-and-elliott.html",
+      "tickers": [
+        "NASDAQ:CCC"
+      ]
+    },
+    {
+      "id": "2026-10-15-eqt-stockbridge",
+      "time": "2026-10-15T12:44:00Z",
+      "type": "M&A",
+      "headline": "EQT to buy U.S. real estate manager Stockbridge for $375M plus up to $175M earnout",
+      "parties": "Acquirer: EQT AB; Target: Stockbridge",
+      "value": 0.375,
+      "value_text": "$375M cash base + up to $175M contingent",
+      "status": "Pending",
+      "announced": "2026-10-15",
+      "sector": "Financials / Asset Management",
+      "take": "EQT will pay a base $375 million in cash from its balance sheet for Stockbridge, which has about $16.5 billion of fee-generating AUM, with up to $175 million more payable over 2027–2030 tied to raising fee-paying commitments in new products. Structuring a third of the potential price as an earnout tied to new fundraising makes this a bet on product expansion in U.S. real estate, not just on buying an existing fee stream.",
+      "source_name": "EQT press release",
+      "source_url": "https://eqtgroup.com/news/eqt-to-acquire-stockbridge-accelerating-eqt-real-estates-evolution-into-a-thematically-diversified-platform-2026-10-15",
+      "tickers": [
+        "STO:EQT"
+      ]
+    },
+    {
+      "id": "2026-10-13-agilent-proscia",
+      "time": "2026-10-15T12:52:00Z",
+      "type": "M&A",
+      "headline": "Agilent to buy digital pathology software firm Proscia for $240M plus up to $30M",
+      "parties": "Acquirer: Agilent Technologies; Target: Proscia",
+      "value": 0.24,
+      "value_text": "$240M cash at closing + up to $30M milestones",
+      "status": "Pending",
+      "announced": "2026-10-13",
+      "sector": "Healthcare / Life Science Tools",
+      "take": "Agilent agreed to acquire Proscia in an all-cash deal valued at $240 million at closing plus up to $30 million in performance milestones, with closing expected early in Agilent's fiscal 2027. Proscia reports trailing twelve-month revenue above $18 million, so the price reflects a strategic premium for an FDA-cleared software layer rather than near-term revenue scale.",
+      "source_name": "Agilent newsroom",
+      "source_url": "https://www.agilent.com/about/newsroom/presrel/2026/13oct-gp26020.html",
+      "tickers": [
+        "NYSE:A"
+      ]
+    },
+    {
+      "id": "2026-10-14-labelbox-series-e",
+      "time": "2026-10-15T12:59:00Z",
+      "type": "VC",
+      "headline": "Labelbox raises more than $100M Series E led by Infinitum Partners",
+      "parties": "Lead: Infinitum Partners; Participants: Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures",
+      "value": 0.1,
+      "value_text": "$100M+ Series E (equity and credit facility)",
+      "status": "Raised",
+      "announced": "2026-10-14",
+      "sector": "Technology / AI Data",
+      "take": "Labelbox said it raised more than $100 million in Series E financing, including equity and a credit facility, led by Infinitum Partners with a16z and B Capital among participants. The undisclosed equity-versus-debt split and absent valuation leave the headline figure hard to compare with pure-equity AI rounds.",
+      "source_name": "Labelbox press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-apm-capital-portek",
+      "time": "2026-10-15T13:07:00Z",
+      "type": "PE",
+      "headline": "A.P. Moller Capital fund to buy port operator Portek from Mitsui; terms undisclosed",
+      "parties": "Acquirer: A.P. Moller Capital – Emerging Markets Infrastructure Fund II; Seller: Mitsui & Co., Ltd.; Target: Portek International Pte. Ltd.",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Pending",
+      "announced": "2026-10-15",
+      "sector": "Infrastructure / Ports",
+      "take": "A.P. Moller Capital's Emerging Markets Infrastructure Fund II agreed to acquire 100% of Singapore-based Portek, whose terminal interests span Algeria, Gabon, Indonesia, Latvia, Malta and Vietnam, from Mitsui, subject to regulatory and third-party approvals. It is a classic infrastructure-fund carve-out from a trading house, with mid-sized emerging-market terminals moving to a specialist owner.",
+      "source_name": "A.P. Moller Capital press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381310/0/en/a-p-moller-capital-agrees-to-acquire-portek-international-from-mitsui-co.html",
+      "tickers": [
+        "TYO:8031"
+      ]
+    },
+    {
+      "id": "2026-10-15-mueon-series-a",
+      "time": "2026-10-15T13:14:00Z",
+      "type": "VC",
+      "headline": "Mueon raises $65M Series A led by Maverick Silicon for AI compute hardware",
+      "parties": "Lead: Maverick Silicon; Participants: Intel Capital, Geodesic Alliances Fund, Oregon Venture Fund, M-Ventures, Wellington Capital, IQT, Defined",
+      "value": 0.065,
+      "value_text": "$65M Series A",
+      "status": "Raised",
+      "announced": "2026-10-15",
+      "sector": "Technology / Semiconductors & Data Center Hardware",
+      "take": "Portland, Oregon-based Mueon raised a $65 million Series A led by Maverick Silicon, with Intel Capital participating, bringing total capital raised to over $80 million to move its stackable Cubelets compute platform toward system validation and production readiness. Strategic money from Intel Capital and IQT in a hardware Series A shows investors widening AI infrastructure bets beyond chips into rack-level density and power.",
+      "source_name": "Mueon press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/mueon-raises-65m-in-series-a-funding-to-scale-its-cubelets-exponential-computing-platform-302909367.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-sirona-medical-series-d",
+      "time": "2026-10-15T13:22:00Z",
+      "type": "VC",
+      "headline": "Sirona Medical raises $40M Series D led by Avidity Partners",
+      "parties": "Lead: Avidity Partners; Participants: 8VC, GreatPoint Ventures, KLT Holdings",
+      "value": 0.04,
+      "value_text": "$40M Series D",
+      "status": "Raised",
+      "announced": "2026-10-15",
+      "sector": "Healthcare / Radiology Software",
+      "take": "Cloud-native radiology software maker Sirona Medical raised a $40 million Series D led by Avidity Partners, and says the round funds its operating plan indefinitely. A late-stage round of this size that the company describes as funding it indefinitely points to a capital-efficiency pitch rather than a growth-at-all-costs raise.",
+      "source_name": "Sirona Medical press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/sirona-medical-raises-40m-series-d-as-platform-usage-triples-302909423.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-atlasclear-ark-dawson-james",
+      "time": "2026-10-15T13:29:00Z",
+      "type": "M&A",
+      "headline": "AtlasClear signs deal to buy Ark Financial, parent of Dawson James, for up to $24.5M",
+      "parties": "Acquirer: AtlasClear Holdings; Target: Ark Financial Services (parent of Dawson James Securities)",
+      "value": 0.0245,
+      "value_text": "Up to $24.5M cash and stock",
+      "status": "Pending",
+      "announced": "2026-10-15",
+      "sector": "Financials / Broker-Dealers",
+      "take": "AtlasClear bought an initial 24.9% of Ark for $2.5 million in cash and a $2.5 million note, and expects to pay $2.4375 million in cash and $13.8125 million in stock for the rest at closing, with up to $3.25 million in deferred consideration, for total consideration of up to $24.5 million. Closing hinges on FINRA approval of Dawson James's continuing membership application, and with roughly two-thirds of the price in stock, existing AtlasClear holders bear dilution.",
+      "source_name": "AtlasClear Holdings press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381532/0/en/atlasclear-holdings-signs-definitive-agreement-to-acquire-ark-financial-services-including-its-dawson-james-securities-subsidiary-and-completes-initial-24-9-investment.html",
+      "tickers": [
+        "NYSEAMERICAN:ATCH"
+      ]
+    },
     {
       "id": "2026-10-15-penske-automotive-take-private",
       "time": "2026-10-15T11:45:00Z",
