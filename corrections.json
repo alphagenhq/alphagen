@@ -321,6 +321,13 @@
       "id": "2026-10-15-chubby-group-series-a-gen",
       "action": "corrected",
       "detail": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release."
+    },
+    {
+      "time": "2026-10-15T22:38:47Z",
+      "file": "wire.json",
+      "id": "2026-10-15-fhn-mortgage-sale",
+      "action": "corrected",
+      "detail": "The $347 million after-tax figure was attributed to the $473 million pretax mortgage-sale loss; per the 8-K release it is the after-tax total of all notable items."
     }
   ]
 }
