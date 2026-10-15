@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-14T22:02:18Z",
+  "updated": "2026-10-15T01:24:39Z",
   "items": [
+    {
+      "id": "2026-10-13-JNJ-Q3",
+      "time": "2026-10-15T01:24:39Z",
+      "ticker": "NYSE:JNJ",
+      "name": "Johnson & Johnson",
+      "period": "Q3 2026",
+      "report_date": "2026-10-13",
+      "revenue": 25.399,
+      "revenue_yoy": 5.9,
+      "eps": 0.09,
+      "eps_yoy": -95.8,
+      "take": "Sales rose 5.9% on 7.7% Innovative Medicine growth, but diluted EPS fell to $0.09 on special items including a one-time charge for the proposed talc litigation resolution; adjusted EPS was $2.59. J&J raised 2026 guidance to $101.0B–$101.4B of sales and $11.05–$11.15 of adjusted EPS.",
+      "source_name": "Johnson & Johnson 8-K, Exhibit 99.1 (SEC)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm"
+    },
+    {
+      "id": "2026-10-13-DPZ-Q3",
+      "time": "2026-10-15T01:24:39Z",
+      "ticker": "NASDAQ:DPZ",
+      "name": "Domino's Pizza",
+      "period": "Q3 2026",
+      "report_date": "2026-10-13",
+      "revenue": 1.186,
+      "revenue_yoy": 3.4,
+      "eps": 4.6,
+      "eps_yoy": 12.7,
+      "take": "U.S. same-store sales grew 0.3% and international comps 0.2% ex-FX, with global retail sales up 3.2% ex-FX on 175 net new stores.",
+      "source_name": "Domino's Pizza Q3 2026 earnings release",
+      "source_url": "https://www.prnewswire.com/news-releases/dominos-pizza-announces-third-quarter-2026-financial-results-302906245.html"
+    },
     {
       "id": "2026-10-13-JPM-Q3",
       "time": "2026-10-14T22:02:18Z",
