@@ -41,6 +41,69 @@
       "id": "2026-10-13-icon-series-d",
       "action": "removed",
       "detail": "Removed because the cited source is a news-outlet/syndicator copy (Manila Times repost of a GlobeNewswire release), not a primary source."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "wire.json",
+      "id": "2026-10-12-steris-xodus-medical",
+      "action": "corrected",
+      "detail": "Headline corrected to describe Xodus Medical as a specialty surgical products maker, as the 8-K states, rather than a surgical safety products maker."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-12-steris-xodus-medical",
+      "action": "corrected",
+      "detail": "Headline corrected to describe Xodus Medical as a specialty surgical products maker, as the 8-K states, rather than a surgical safety products maker."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-13-brookdale-welltower-30",
+      "action": "corrected",
+      "detail": "Corrected the closing date of the separate 17-community purchase to September 30, not the same day as the Welltower announcement."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-14-cipher-digital-converts",
+      "action": "corrected",
+      "detail": "Clarified that the exchange of 2030 notes is expected, not completed, per the release."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-14-payward-saldo-bank",
+      "action": "corrected",
+      "detail": "Corrected the target to Saldo Finance Oy, the parent of Saldo Bank UAB, and removed the unsupported word \"full\" before EU banking license."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "wire.json",
+      "id": "2026-10-13-agility-tristar-aegis",
+      "action": "corrected",
+      "detail": "The release gives Tristar's $1.4 billion revenue as an annual figure without attributing it to 2025; wording corrected."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-13-agility-tristar-aegis",
+      "action": "corrected",
+      "detail": "The release gives Tristar's $1.4 billion revenue and $257 million EBITDA as annual figures without attributing them to 2025; wording corrected."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "wire.json",
+      "id": "2026-10-14-steo-diesel",
+      "action": "corrected",
+      "detail": "Corrected the Dallas Fed Beige Book reference: diesel was the most commonly cited cost driver, not the top cost driver."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "notes.json",
+      "id": "2026-10-14-fannie-forecast-higher-for-longer",
+      "action": "corrected",
+      "detail": "Corrected the description of September's rate path: it eased slightly into 2027 and then held flat at 6.7%, rather than edging down through 2027."
     }
   ]
 }

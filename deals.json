@@ -5,7 +5,7 @@
       "id": "2026-10-12-steris-xodus-medical",
       "time": "2026-10-15T00:41:00Z",
       "type": "M&A",
-      "headline": "STERIS to buy surgical safety products maker Xodus Medical for $2.1B cash",
+      "headline": "STERIS to buy specialty surgical products maker Xodus Medical for $2.1B cash",
       "parties": "Acquirer: STERIS Corporation (subsidiary of STERIS plc); Target: Xodus Medical, Inc. and certain related affiliates; Sellers: Craig E. Kaforey and Mark A. Kaforey",
       "value": 2.1,
       "value_text": "$2.1B cash plus up to $150M earnout",
@@ -17,7 +17,9 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001757898/000119312526420487/d165776d8k.htm",
       "tickers": [
         "NYSE:STE"
-      ]
+      ],
+      "correction": "Headline corrected to describe Xodus Medical as a specialty surgical products maker, as the 8-K states, rather than a surgical safety products maker.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-iambic-ipo-pricing",
@@ -35,7 +37,8 @@
       "source_url": "https://stockhouse.com/news/press-releases/2026/10/14/iambic-announces-pricing-of-initial-public-offering",
       "tickers": [
         "NASDAQ:IAM"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-awlc-notes-2032",
@@ -51,7 +54,8 @@
       "take": "AWLC priced $750 million of senior notes due November 1, 2032, paying 6.250% fixed until November 2031 and then Compounded SOFR plus 2.534%, in a Rule 144A offering expected to close October 21. Proceeds fund assets and general corporate purposes, including possible debt repayment, signaling continued institutional appetite for warehouse-lending platforms.",
       "source_name": "AWLC press release (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381196/0/en/awlc-announces-pricing-of-750-million-of-6-250-fixed-to-floating-rate-senior-notes-due-2032.html",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-ssr-mining-roxmore",
@@ -71,23 +75,26 @@
         "NASDAQ:SSRM",
         "TSX:SSRM",
         "TSX:RM"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-payward-saldo-bank",
       "time": "2026-10-15T01:11:00Z",
       "type": "M&A",
       "headline": "Payward signs deal to buy EU-licensed Saldo Bank; terms undisclosed",
-      "parties": "Acquirer: Payward; Target: Saldo Bank UAB (subsidiary of Saldo Finance Oy)",
+      "parties": "Acquirer: Payward; Target: Saldo Finance Oy (parent of Saldo Bank UAB)",
       "value": null,
       "value_text": "Undisclosed",
       "status": "Pending",
       "announced": "2026-10-14",
       "sector": "Financials / Crypto & Banking",
-      "take": "Payward signed a definitive agreement to acquire Saldo Bank, a Lithuania-licensed digital bank with passporting across five European markets, with closing expected in 2027 subject to regulatory approvals. A full EU banking license would let Payward, whose companies include Kraken, add deposit interest, lending and banking-as-a-service products in Europe.",
+      "take": "Payward signed a definitive agreement to acquire Saldo Bank, a Lithuania-licensed digital bank with passporting across five European markets, with closing expected in 2027 subject to regulatory approvals. An EU banking license would let Payward, whose companies include Kraken, add deposit interest, lending and banking-as-a-service products in Europe.",
       "source_name": "Payward press release",
       "source_url": "https://www.payward.com/press-release/payward-acquires-saldo-bank",
-      "tickers": []
+      "tickers": [],
+      "correction": "Corrected the target to Saldo Finance Oy, the parent of Saldo Bank UAB, and removed the unsupported word \"full\" before EU banking license.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-bg-foods-mccall-farms",
@@ -105,7 +112,8 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001278027/000110465926115490/tm2627480d1_ex99-1.htm",
       "tickers": [
         "NYSE:BGS"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-faraday-ffr-robotics",
@@ -124,7 +132,8 @@
       "tickers": [
         "NASDAQ:FFAI",
         "NASDAQ:FFR"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-amaero-us-ipo",
@@ -143,7 +152,8 @@
       "tickers": [
         "NASDAQ:AMRO",
         "ASX:3DA"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-mubadala-clear-channel-close",
@@ -161,7 +171,8 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001334978/000121390026109385/ea030842201ex99-1.htm",
       "tickers": [
         "NYSE:CCO"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-medtronic-minimed-exchange-final",
@@ -179,7 +190,8 @@
       "source_url": "https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html",
       "tickers": [
         "NYSE:MDT"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-agility-tristar-aegis",
@@ -192,12 +204,14 @@
       "status": "Pending",
       "announced": "2026-10-13",
       "sector": "Energy Logistics",
-      "take": "Agility said the deal values Tristar at $1.5 billion enterprise value and $882 million equity value, about 6.0x 2025 EBITDA, with closing expected before the end of March 2027 subject to regulatory approvals. Tristar posted $1.4 billion of 2025 revenue and $257 million of EBITDA, giving India's Aegis a global fuel-logistics footprint across 30+ countries.",
+      "take": "Agility said the deal values Tristar at $1.5 billion enterprise value and $882 million equity value, about 6.0x 2025 EBITDA, with closing expected before the end of March 2027 subject to regulatory approvals. Tristar generates $1.4 billion of annual revenue and $257 million of EBITDA, giving India's Aegis a global fuel-logistics footprint across 30+ countries.",
       "source_name": "Agility press release",
       "source_url": "https://agility.com/news/agility-announces-sale-of-tristar-to-aegis-logistics/",
       "tickers": [
         "NSE:AEGISLOG"
-      ]
+      ],
+      "correction": "The release gives Tristar's $1.4 billion revenue and $257 million EBITDA as annual figures without attributing them to 2025; wording corrected.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-select-water-notes-2034",
@@ -215,7 +229,8 @@
       "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-inc-announces-pricing-of-upsized-900-million-of-7-625-senior-notes-due-2034--302909132.html",
       "tickers": [
         "NYSE:WTTR"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-atlantic-ridge-paragon-films",
@@ -231,7 +246,8 @@
       "take": "Paragon is the debut investment for New York-based Atlantic Ridge, backed by committed debt financing from UBS Investment Bank, BMO Capital Markets and Santander, with closing expected in the fourth quarter of 2026. A roughly $900 million first deal is an unusually large opening bet for a new sponsor on a packaging niche serving more than 20,000 end users.",
       "source_name": "Atlantic Ridge Capital press release (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379570/0/en/atlantic-ridge-capital-to-acquire-paragon-films-for-approximately-900-million.html",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-symbotic-cellumation",
@@ -249,7 +265,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379466/0/en/symbotic-announces-acquisition-of-cellumation-advancing-next-generation-sortation-technology-for-the-global-supply-chain.html",
       "tickers": [
         "NASDAQ:SYM"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-12-freshworks-torii",
@@ -267,7 +284,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to-extend-freshservice-into-ai-and-software-spend-governance-with-agreement-to-acquire-torii.html",
       "tickers": [
         "NASDAQ:FRSH"
-      ]
+      ],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-fairfax-idbi-bank",
@@ -319,12 +337,14 @@
       "status": "Priced",
       "announced": "2026-10-14",
       "sector": "Data Centers",
-      "take": "Cipher Digital priced $850 million of zero-coupon converts due 2032 at an initial conversion price of about $15.31, a 35% premium, for net proceeds of about $835.1 million, of which about $89.7 million goes to capped calls. The rest funds the Barber Lake project and HPC build-out, while a concurrent swap retires about $165.9 million of 2030 notes for roughly 40.7 million shares.",
+      "take": "Cipher Digital priced $850 million of zero-coupon converts due 2032 at an initial conversion price of about $15.31, a 35% premium, for net proceeds of about $835.1 million, of which about $89.7 million goes to capped calls. The rest funds the Barber Lake project and HPC build-out, while a concurrent swap is expected to retire about $165.9 million of 2030 notes for roughly 40.7 million shares.",
       "source_name": "Cipher Digital 8-K, Exhibit 99.1 (SEC)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001819989/000119312526421035/d77312dex991.htm",
       "tickers": [
         "NASDAQ:CIFR"
-      ]
+      ],
+      "correction": "Clarified that the exchange of 2030 notes is expected, not completed, per the release.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-brookdale-welltower-30",
@@ -337,13 +357,15 @@
       "status": "Pending",
       "announced": "2026-10-13",
       "sector": "Senior Housing",
-      "take": "Brookdale will pay $290 million for 30 leased communities with 1,152 units, cutting about $17.8 million of 2027 cash rent, after closing a separate $157 million purchase of 17 communities the same day. Together the two deals cover 47 communities and move Brookdale's owned share of units toward nearly 80%, reducing the share of its portfolio held under leases.",
+      "take": "Brookdale will pay $290 million for 30 leased communities with 1,152 units, cutting about $17.8 million of 2027 cash rent, after closing a separate $157 million purchase of 17 communities on September 30. Together the two deals cover 47 communities and move Brookdale's owned share of units toward nearly 80%, reducing the share of its portfolio held under leases.",
       "source_name": "Brookdale press release (PR Newswire)",
       "source_url": "https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html",
       "tickers": [
         "NYSE:BKD",
         "NYSE:WELL"
-      ]
+      ],
+      "correction": "Corrected the closing date of the separate 17-community purchase to September 30, not the same day as the Welltower announcement.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-reach-security-series-b",
@@ -359,7 +381,8 @@
       "take": "Reach Security, whose AI reads the live configuration of customers' existing security tools to close attack paths, will spend the money on product, integrations, international expansion and U.S. enterprise and federal growth. In-Q-Tel and Microsoft's M12 on the cap table give it credibility in the government and Microsoft-centric enterprise segments it is targeting.",
       "source_name": "Reach Security press release (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379991/0/en/reach-security-raises-more-than-50m-series-b-to-stop-ai-powered-attacks-by-autonomously-closing-the-gaps-they-target.html",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-13-porch-allied-trust",

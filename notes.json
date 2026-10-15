@@ -18,7 +18,7 @@
         {
           "h": "From easing to tightening"
         },
-        "The revision changes the shape of the path, not just its level. September's forecast had rates edging down through 2027; October's has them stepping up and staying there. For full-year 2026 the average moves to 6.7% from 6.5%, which implies most of the change is concentrated in the final quarter and beyond. Fannie Mae's tables do not attribute the shift to a single cause, but the timing coincides with the energy-driven jump in inflation and a long end of the Treasury curve that has repriced higher.",
+        "The revision changes the shape of the path, not just its level. September's forecast had rates easing slightly into 2027 and then holding flat at 6.7%; October's has them stepping up and staying there. For full-year 2026 the average moves to 6.7% from 6.5%, which implies most of the change is concentrated in the final quarter and beyond. Fannie Mae's tables do not attribute the shift to a single cause, but the timing coincides with the energy-driven jump in inflation and a long end of the Treasury curve that has repriced higher.",
         {
           "h": "Fewer sales, fewer starts"
         },
@@ -42,7 +42,9 @@
           "name": "Fannie Mae ESR Housing Forecast, September 2026",
           "url": "https://www.fanniemae.com/media/document/pdf/housing-forecast-092026"
         }
-      ]
+      ],
+      "correction": "Corrected the description of September's rate path: it eased slightly into 2027 and then held flat at 6.7%, rather than edging down through 2027.",
+      "checked": "2026-10-15T01:52:36Z"
     },
     {
       "id": "2026-10-14-eia-steo-oil-supply",
