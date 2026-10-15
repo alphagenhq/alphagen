@@ -22,7 +22,8 @@
    "units": "%",
    "take": "The ICE BofA US High Yield option-adjusted spread stood at 3.16% on October 13, up 56 basis points from its 2026 low of 2.60% on August 28 and 33 basis points above its January 2 level of 2.83%. The investment-grade spread was 0.83%, only 4 basis points wider than on January 2. That divergence suggests investors are repricing risk in lower-rated, more energy- and consumer-sensitive borrowers rather than in credit broadly. With bank releases this week showing higher card-loss provisions, high-yield is the spread to watch for signs the oil shock is reaching corporate balance sheets.",
    "source": "ICE Data Indices via FRED (BAMLH0A0HYM2, BAMLC0A0CM)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-10-15T17:51:00Z"
   },
   {
    "id": "2026-10-14-2s10s",

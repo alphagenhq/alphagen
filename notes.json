@@ -47,7 +47,8 @@
    "tickers": [
     "NYSE:FMC",
     "NYSE:CTVA"
-   ]
+   ],
+   "checked": "2026-10-15T17:51:00Z"
   },
   {
    "id": "2026-10-15-beyond-the-banks",
@@ -170,7 +171,7 @@
    "key_points": [
     "8:30 a.m. ET: BLS releases the September Producer Price Index; in August, final demand prices rose 0.4% and were up 5.4% from a year earlier on an unadjusted basis.",
     "8:30 a.m. ET: Census publishes advance retail and food services sales for September, followed by manufacturing and trade inventories.",
-    "10:30 a.m. ET: EIA natural gas storage report; the Weekly Petroleum Status Report is delayed to today at 12:00 p.m. and 2:00 p.m. ET because of Monday's federal holiday.",
+    "10:30 a.m. ET: EIA natural gas storage report; the Weekly Petroleum Status Report is delayed to today at 12:00 p.m. ET because of Monday's federal holiday.",
     "Treasury auctions 4-week and 8-week bills today, and its tentative schedule lists announcements for a 20-year bond reopening and a new 5-year TIPS, both auctioning next week.",
     "Marsh reported Q3 revenue of $6.863 billion versus $6.351 billion and GAAP EPS of $1.69 versus $1.51; Alcoa reports after the close, with its call at 5:00 p.m. ET."
    ],
@@ -179,11 +180,11 @@
     {
      "h": "Consumers under a fuel bill"
     },
-    "At the same hour, the Census Bureau releases advance September retail and food services sales. The backdrop is a heavy energy bill: EIA's weekly survey put U.S. regular gasoline at $4.331 a gallon in the week of October 12, up $1.270 from a year earlier, and on-highway diesel at $6.179, up $2.514. The Fed's October Beige Book, released Wednesday, said most Districts saw flat or slightly lower consumer spending, with more than half noting that spending was driven by higher-income households. A strong nominal retail number partly inflated by gasoline station receipts would not contradict that picture.",
+    "At the same hour, the Census Bureau releases advance September retail and food services sales. The backdrop is a heavy energy bill: EIA's weekly survey put U.S. regular gasoline at $4.331 a gallon in the week of October 12, up $1.270 from a year earlier, and on-highway diesel at $6.179, up $2.514. The Fed's October Beige Book, released Wednesday, said most Districts reported little or no change in overall consumer spending, with more than half noting that spending was driven by higher-income households. A strong nominal retail number partly inflated by gasoline station receipts would not contradict that picture.",
     {
      "h": "Energy data, delayed"
     },
-    "Monday's federal holiday has pushed EIA's Weekly Petroleum Status Report to today, with the agency listing 12:00 p.m. and 2:00 p.m. ET release times. The natural gas storage report is on its regular Thursday 10:30 a.m. slot.",
+    "Monday's federal holiday has pushed EIA's Weekly Petroleum Status Report to today, with the agency listing a 12:00 p.m. ET release time. The natural gas storage report is on its regular Thursday 10:30 a.m. slot.",
     {
      "h": "Rates and funding"
     },
@@ -242,7 +243,9 @@
    "tickers": [
     "NYSE:MRSH",
     "NYSE:AA"
-   ]
+   ],
+   "correction": "Corrected the Beige Book description to 'little or no change' in consumer spending (not 'flat or slightly lower') and the EIA petroleum report time to 12:00 p.m. ET only, per the EIA release schedule.",
+   "checked": "2026-10-15T17:51:00Z"
   },
   {
    "id": "2026-10-15-beige-book-energy-vs-demand",
