@@ -1,6 +1,45 @@
 {
-  "updated": "2026-10-15T18:06:00Z",
+  "updated": "2026-10-15T18:49:00Z",
   "items": [
+    {
+      "id": "2026-10-15-intuit-sequence",
+      "time": "2026-10-15T18:51:00Z",
+      "tag": "DEALS",
+      "ticker": "NASDAQ:INTU",
+      "headline": "Intuit to buy AI revenue-management platform Sequence; terms undisclosed",
+      "take": "Intuit signed an agreement to acquire Sequence, a London- and New York-based platform that automates quote-to-revenue work including pricing, billing, collections and revenue recognition; terms were not disclosed. Sequence will be used to strengthen Intuit Enterprise Suite and QuickBooks Online Advanced for mid-market businesses. AlphaGen read: a tuck-in that extends Intuit's push up-market into revenue operations.",
+      "source_name": "Intuit press release",
+      "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence"
+    },
+    {
+      "id": "2026-10-15-sakuu-pyrophyte-spac",
+      "time": "2026-10-15T19:04:00Z",
+      "tag": "DEALS",
+      "ticker": "NYSE:PAII",
+      "headline": "Sakuu to list via Pyrophyte II SPAC at $600M pre-money equity value",
+      "take": "Sakuu, maker of Kavian dry-printing equipment for battery electrodes, agreed to combine with Pyrophyte Acquisition Corp. II at an implied $600 million pre-money equity value; the combined company is expected to trade on the NYSE as SAKU. Both boards approved the deal, which still needs shareholder votes and an S-4 filing. AlphaGen read: with no PIPE or trust figure disclosed, the cash actually delivered at close is the key unknown.",
+      "source_name": "Sakuu / Pyrophyte press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-sakuu-corporation-to-go-public-via-business-combination-with-pyrophyte-acquisition-corp-ii"
+    },
+    {
+      "id": "2026-10-15-chubby-group-series-a-gen",
+      "time": "2026-10-15T19:17:00Z",
+      "tag": "DEALS",
+      "ticker": "NASDAQ:GENK",
+      "headline": "Chubby Group raises $50M at $500M valuation, signs LOI for GEN's 47 U.S. restaurants",
+      "take": "Chubby Group closed a $50 million Series A led by Prysm Capital at a $500 million valuation and signed a letter of intent to take over GEN Restaurant Group's 47 U.S. restaurants and four development sites, valued at up to $100 million and paid with a note convertible into Chubby equity at a $1.5 billion valuation. The first 12 locations are targeted for November 1, 2026, subject to definitive agreements and approvals. AlphaGen read: the GEN transfer is conditional, so the binding piece today is the equity raise.",
+      "source_name": "Chubby Group press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/chubby-group-closes-50m-series-a-led-by-prysm-capital-at-500m-valuation-signs-deal-to-purchase-47-gen-korean-bbq-restaurants-302910258.html"
+    },
+    {
+      "id": "2026-10-14-harmonic-security-series-b",
+      "time": "2026-10-15T19:31:00Z",
+      "tag": "DEALS",
+      "headline": "Harmonic Security raises $50M Series B led by Crosspoint",
+      "take": "Harmonic Security raised a $50 million Series B led by Crosspoint Capital Partners with existing investors participating, taking total funding to $76 million; it has over 90 staff across the US and UK. Proceeds go to engineering and go-to-market expansion. AlphaGen read: AI-usage governance is attracting dedicated security capital.",
+      "source_name": "Harmonic Security press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-14-harmonic-security-raises-50-million-series-b-enabling-safe-ai-adoption-for-millions-more-employees"
+    },
     {
       "id": "2026-10-15-schw-q3",
       "time": "2026-10-15T18:08:00Z",

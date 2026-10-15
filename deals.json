@@ -1,6 +1,92 @@
 {
-  "updated": "2026-10-15T17:42:19Z",
+  "updated": "2026-10-15T18:49:00Z",
   "items": [
+    {
+      "id": "2026-10-15-intuit-sequence",
+      "time": "2026-10-15T18:51:00Z",
+      "type": "M&A",
+      "headline": "Intuit to acquire AI-native revenue management platform Sequence; terms undisclosed",
+      "parties": "Acquirer: Intuit; Target: Sequence",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-15",
+      "sector": "Technology / Financial Software",
+      "take": "Intuit signed an agreement to acquire Sequence, a London- and New York-based Series A company founded in 2021 whose AI-native platform automates quote-to-revenue work from pricing and billing to collections and revenue recognition; financial terms were not disclosed. The buy plugs a mid-market revenue-operations gap for Intuit Enterprise Suite and QuickBooks Online Advanced, pushing Intuit further up-market against dedicated billing vendors.",
+      "source_name": "Intuit press release",
+      "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence",
+      "tickers": [
+        "NASDAQ:INTU"
+      ]
+    },
+    {
+      "id": "2026-10-15-sakuu-pyrophyte-spac",
+      "time": "2026-10-15T19:04:00Z",
+      "type": "M&A",
+      "headline": "Battery-electrode printer Sakuu to go public via Pyrophyte II SPAC at $600M pre-money",
+      "parties": "SPAC: Pyrophyte Acquisition Corp. II; Target: Sakuu Corporation",
+      "value": 0.6,
+      "value_text": "$600M pre-money equity value (SPAC merger)",
+      "status": "Announced",
+      "announced": "2026-10-15",
+      "sector": "Industrials / Battery Manufacturing Equipment",
+      "take": "Sakuu, a Silicon Valley maker of Kavian dry-printing equipment for battery and supercapacitor electrodes, agreed to combine with Pyrophyte Acquisition Corp. II at an implied $600 million pre-money equity value, with the combined company expected to list on the NYSE as SAKU. The release names no PIPE or trust size and the deal still needs both companies' shareholder votes and an S-4, so the funding the combined company actually receives remains the open variable.",
+      "source_name": "Sakuu / Pyrophyte press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-sakuu-corporation-to-go-public-via-business-combination-with-pyrophyte-acquisition-corp-ii",
+      "tickers": [
+        "NYSE:PAII"
+      ]
+    },
+    {
+      "id": "2026-10-15-chubby-group-series-a-gen",
+      "time": "2026-10-15T19:17:00Z",
+      "type": "VC",
+      "headline": "Chubby Group raises $50M Series A at $500M valuation, signs LOI for 47 GEN BBQ sites",
+      "parties": "Lead: Prysm Capital; Issuer: Chubby Group; LOI counterparty: GEN Restaurant Group",
+      "value": 0.05,
+      "value_text": "$50M Series A; GEN asset LOI valued at up to $100M",
+      "status": "Raised",
+      "announced": "2026-10-15",
+      "sector": "Consumer / Restaurants",
+      "take": "Chubby Group closed a $50 million Series A led by Prysm Capital at a $500 million valuation and signed a letter of intent to take over GEN Restaurant Group's 47 U.S. restaurants and four development sites in a deal valued at up to $100 million, paid with a note convertible into Chubby equity at a $1.5 billion valuation. Because the GEN piece is an LOI still needing definitive agreements and lease transfers, the near-term story is the fresh equity funding Chubby's expansion, with the GEN rollout a phased, conditional option.",
+      "source_name": "Chubby Group press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/chubby-group-closes-50m-series-a-led-by-prysm-capital-at-500m-valuation-signs-deal-to-purchase-47-gen-korean-bbq-restaurants-302910258.html",
+      "tickers": [
+        "NASDAQ:GENK"
+      ]
+    },
+    {
+      "id": "2026-10-14-harmonic-security-series-b",
+      "time": "2026-10-15T19:31:00Z",
+      "type": "VC",
+      "headline": "Harmonic Security raises $50M Series B led by Crosspoint Capital Partners",
+      "parties": "Lead: Crosspoint Capital Partners; Participants: existing investors",
+      "value": 0.05,
+      "value_text": "$50M Series B",
+      "status": "Raised",
+      "announced": "2026-10-14",
+      "sector": "Technology / AI Security",
+      "take": "Harmonic Security, which helps organizations control and monitor employees' use of AI tools, raised a $50 million Series B led by Crosspoint Capital Partners with existing investors participating, bringing total funding to $76 million. The capital goes to engineering and go-to-market across the US and UK, a sign that AI-usage governance is graduating from pilot budgets into a funded security category.",
+      "source_name": "Harmonic Security press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-14-harmonic-security-raises-50-million-series-b-enabling-safe-ai-adoption-for-millions-more-employees",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-tns-netnumber",
+      "time": "2026-10-15T19:44:00Z",
+      "type": "M&A",
+      "headline": "TNS acquires phone-number intelligence provider netnumber; terms undisclosed",
+      "parties": "Acquirer: TNS (Transaction Network Services); Target: netnumber",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Completed",
+      "announced": "2026-10-15",
+      "sector": "Telecom / Communications Software",
+      "take": "TNS announced the acquisition of netnumber, a provider of phone number intelligence and registry services spanning portability, routing and digital identity verification for customers in the US, Canada and more than 50 other countries; financial terms were not disclosed. The deal deepens TNS's fraud-prevention and routing stack as carriers face rising pressure to authenticate callers and numbers.",
+      "source_name": "TNS press release",
+      "source_url": "https://tnsi.com/resource/com/tns-acquires-netnumber-press-release/",
+      "tickers": []
+    },
     {
       "id": "2026-10-14-berkshire-bending-spoons-placement",
       "time": "2026-10-15T17:44:00Z",
