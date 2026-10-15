@@ -251,6 +251,55 @@
       "id": "2026-10-09-debt",
       "action": "removed",
       "detail": "Removed: the Oct. 9 Debt to the Penny figures could not be confirmed at the Treasury source, and Oct. 13 data was already the latest daily report when the item was published, contradicting 'latest daily report'."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "wire.json",
+      "id": "2026-10-15-schw-q3",
+      "action": "corrected",
+      "detail": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "wire.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "corrected",
+      "detail": "Corrected '270 printed buildings' to 'more than 270 homes and structures' and attributed the $370 million in government contracts to ICON Prime, per the release."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "wire.json",
+      "id": "2026-10-13-nokia-aurelius-campus-edge",
+      "action": "removed",
+      "detail": "Removed: claim that Nokia already presents Enterprise Campus Edge as a discontinued operation is not in Nokia's release and could not be verified."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "movers.json",
+      "id": "2026-10-15-SCHW",
+      "action": "corrected",
+      "detail": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "earnings.json",
+      "id": "2026-10-15-SCHW-Q3",
+      "action": "corrected",
+      "detail": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "deals.json",
+      "id": "2026-10-13-nokia-aurelius-campus-edge",
+      "action": "removed",
+      "detail": "Removed: claim that Nokia already reports Enterprise Campus Edge as a discontinued operation is not in Nokia's release and could not be verified."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "deals.json",
+      "id": "2026-10-14-skeleton-siemens-investment",
+      "action": "removed",
+      "detail": "Removed: the 'exclusive partnership' with Siemens could not be verified from the source; Skeleton's release page was not accessible and coverage of it describes no exclusivity."
     }
   ]
 }

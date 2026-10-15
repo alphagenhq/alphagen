@@ -104,7 +104,8 @@
       "tickers": [
         "NASDAQ:BSP",
         "NYSE:BRK.B"
-      ]
+      ],
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-13-icon-series-d",
@@ -120,7 +121,8 @@
       "take": "ICON raised a $200 million Series D to scale manufacturing and deployment of its robotic 3D-printing construction systems, build a large R&D facility in Austin and expand into new U.S. markets; it says it is on pace for 4x revenue growth in 2026 and has more than $370 million in government contracts through ICON Prime. Crossover backers leading the round suggest investors now see ICON's defense and housing contracts as a revenue base rather than a pilot program.",
       "source_name": "ICON press release",
       "source_url": "https://www.iconbuild.com/newsroom/icon-raises-seriesd",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-13-souffle-series-b",
@@ -136,44 +138,8 @@
       "take": "Soufflé closed an oversubscribed $135 million Series B to fund first clinical studies in FSHD, heart failure (targeting phospholamban in cardiomyocytes) and a muscle and metabolic program with an undisclosed target. The arrival of crossover funds such as TCG Crossover and Fidelity alongside the venture syndicate is the usual signal that a company is being positioned for a public-market path once clinical data arrive.",
       "source_name": "Soufflé Therapeutics press release",
       "source_url": "https://www.souffletx.com/news/press-releases/101326/",
-      "tickers": []
-    },
-    {
-      "id": "2026-10-13-nokia-aurelius-campus-edge",
-      "time": "2026-10-15T18:07:00Z",
-      "type": "M&A",
-      "headline": "Nokia to sell Enterprise Campus Edge private wireless unit to AURELIUS",
-      "parties": "Seller: Nokia; Acquirer: AURELIUS; Business: Nokia Enterprise Campus Edge",
-      "value": null,
-      "value_text": "Undisclosed",
-      "status": "Pending",
-      "announced": "2026-10-13",
-      "sector": "Telecom Equipment / Private Wireless",
-      "take": "Nokia signed a definitive agreement to sell its Enterprise Campus Edge private-wireless business, which serves nearly 900 industrial customers, to AURELIUS, with closing expected in the first half of 2027 subject to regulatory approvals and employee consultations; price was not disclosed. Nokia already reports the unit as a discontinued operation, so the sale formalizes its exit from enterprise campus networking to concentrate on its core network businesses.",
-      "source_name": "Nokia press release",
-      "source_url": "https://www.nokia.com/newsroom/nokia-to-sell-enterprise-campus-edge-business-to-aurelius/",
-      "tickers": [
-        "NYSE:NOK",
-        "HEL:NOKIA"
-      ]
-    },
-    {
-      "id": "2026-10-14-skeleton-siemens-investment",
-      "time": "2026-10-15T18:14:00Z",
-      "type": "VC",
-      "headline": "Siemens leads strategic investment in Skeleton Technologies at >$1B valuation",
-      "parties": "Lead: Siemens; Company: Skeleton Technologies",
-      "value": null,
-      "value_text": "Undisclosed (nine-figure round; valuation above $1B)",
-      "status": "Raised",
-      "announced": "2026-10-14",
-      "sector": "Energy Storage / Data Center Infrastructure",
-      "take": "Skeleton Technologies said Siemens led a strategic investment that values the supercapacitor maker at more than $1 billion, with proceeds aimed mainly at U.S. manufacturing, including domestic cell production, and R&D in Silicon Valley; Siemens paired the investment with an exclusive partnership for its data center portfolio. Siemens is buying deeper into power-smoothing hardware as AI data centers' transient load spikes become a grid problem.",
-      "source_name": "Skeleton Technologies press release",
-      "source_url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
-      "tickers": [
-        "ETR:SIE"
-      ]
+      "tickers": [],
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-12-cvc-fibrotex-stake",
@@ -191,7 +157,8 @@
       "source_url": "https://www.cvc.com/media/news/2026/cvc-agrees-to-invest-in-fibrotex/",
       "tickers": [
         "AMS:CVC"
-      ]
+      ],
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-14-gennx360-whitsons-cv",
@@ -207,7 +174,8 @@
       "take": "GenNx360 closed a single-asset continuation fund with about $285 million of total equity commitments for Whitsons Culinary Group, led by Churchill Asset Management, which is also a lender to the company; GenNx360 and management reinvested. Continuation vehicles like this let sponsors extend a hold on a growing asset, here one that has expanded from seven to 17 states, while offering existing LPs an option for liquidity.",
       "source_name": "GenNx360 Capital Partners press release (Business Wire)",
       "source_url": "https://www.businesswire.com/news/home/20261014937564/en/GenNx360-Capital-Partners-Closes-Approximately-%24285-Million-Single-Asset-Continuation-Fund-Transaction-to-Support-Continued-Growth-of-Whitsons-Culinary-Group",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-14-duvo-series-a",

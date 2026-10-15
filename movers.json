@@ -58,8 +58,10 @@
       "headline": "Record Q3 revenue and core net new assets of $190.4B",
       "catalyst": "Schwab reported Q3 total net revenues of $7.171 billion versus $6.135 billion a year earlier and GAAP diluted EPS of $1.62 versus $1.26.",
       "thesis": "Growth is coming from both client asset gathering and net interest revenue, which rose to $3.476 billion. The question for the stock is less the quarter than how sticky client cash balances and trading activity prove if markets stay volatile.",
-      "source_name": "Charles Schwab Q3 2026 earnings release (Business Wire)",
-      "source_url": "https://stockhouse.com/news/press-releases/2026/10/15/schwab-delivers-record-net-new-assets-earnings"
+      "source_name": "Charles Schwab Q3 2026 earnings release",
+      "source_url": "https://content.schwab.com/web/retail/public/about-schwab/schwab_q3_2026_earnings_release.pdf",
+      "correction": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged.",
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-15-RXRX",
@@ -70,7 +72,8 @@
       "catalyst": "An Oct. 15 8-K disclosed an underwritten sale of 61.54 million shares at $3.25 for about $200 million gross, a Sanofi option triggering a $10 million milestone, and early REC-4881 and REC-1245 trial data.",
       "thesis": "The company says cash plus the offering funds operations into 2029, removing a near-term financing overhang. The trade-off is dilution, and the clinical readouts remain early, with a registrational REC-4881 trial planned for 2027 pending FDA discussions.",
       "source_name": "Recursion Pharmaceuticals Form 8-K (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm",
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-15-MAN",

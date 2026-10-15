@@ -13,8 +13,10 @@
       "eps": 1.62,
       "eps_yoy": 28.6,
       "take": "Record net revenues and core net new assets of $190.4 billion; net interest revenue rose to $3.476 billion and the GAAP pre-tax margin widened to 52.7% from 49.2%.",
-      "source_name": "Charles Schwab Q3 2026 earnings release (Business Wire)",
-      "source_url": "https://stockhouse.com/news/press-releases/2026/10/15/schwab-delivers-record-net-new-assets-earnings"
+      "source_name": "Charles Schwab Q3 2026 earnings release",
+      "source_url": "https://content.schwab.com/web/retail/public/about-schwab/schwab_q3_2026_earnings_release.pdf",
+      "correction": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged.",
+      "checked": "2026-10-15T18:57:36Z"
     },
     {
       "id": "2026-10-15-PLD-Q3",
