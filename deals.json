@@ -132,7 +132,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381595/0/en/ccc-intelligent-solutions-signs-definitive-agreement-to-be-acquired-by-gtcr-and-elliott.html",
       "tickers": [
         "NASDAQ:CCC"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-15-eqt-stockbridge",
@@ -150,7 +151,8 @@
       "source_url": "https://eqtgroup.com/news/eqt-to-acquire-stockbridge-accelerating-eqt-real-estates-evolution-into-a-thematically-diversified-platform-2026-10-15",
       "tickers": [
         "STO:EQT"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-13-agilent-proscia",
@@ -168,7 +170,8 @@
       "source_url": "https://www.agilent.com/about/newsroom/presrel/2026/13oct-gp26020.html",
       "tickers": [
         "NYSE:A"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-14-labelbox-series-e",
@@ -181,10 +184,12 @@
       "status": "Raised",
       "announced": "2026-10-14",
       "sector": "Technology / AI Data",
-      "take": "Labelbox said it raised more than $100 million in Series E financing, including equity and a credit facility, led by Infinitum Partners with a16z and B Capital among participants. The undisclosed equity-versus-debt split and absent valuation leave the headline figure hard to compare with pure-equity AI rounds.",
+      "take": "Labelbox said it raised more than $100 million in Series E financing, including equity and a credit facility, led by Infinitum Partners with a16z and B Capital among participants. The undisclosed equity-versus-debt split and the release's lack of a valuation leave the headline figure hard to compare with pure-equity AI rounds.",
       "source_name": "Labelbox press release (PR Newswire)",
       "source_url": "https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html",
-      "tickers": []
+      "tickers": [],
+      "correction": "Clarified that the press release, not Labelbox overall, omitted a valuation; the company's blog cited a $1.25 billion pre-money valuation.",
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-15-apm-capital-portek",
@@ -202,7 +207,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381310/0/en/a-p-moller-capital-agrees-to-acquire-portek-international-from-mitsui-co.html",
       "tickers": [
         "TYO:8031"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-15-mueon-series-a",
@@ -218,7 +224,8 @@
       "take": "Portland, Oregon-based Mueon raised a $65 million Series A led by Maverick Silicon, with Intel Capital participating, bringing total capital raised to over $80 million to move its stackable Cubelets compute platform toward system validation and production readiness. Strategic money from Intel Capital and IQT in a hardware Series A shows investors widening AI infrastructure bets beyond chips into rack-level density and power.",
       "source_name": "Mueon press release (PR Newswire)",
       "source_url": "https://www.prnewswire.com/news-releases/mueon-raises-65m-in-series-a-funding-to-scale-its-cubelets-exponential-computing-platform-302909367.html",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-15-sirona-medical-series-d",
@@ -234,7 +241,8 @@
       "take": "Cloud-native radiology software maker Sirona Medical raised a $40 million Series D led by Avidity Partners, and says the round funds its operating plan indefinitely. A late-stage round of this size that the company describes as funding it indefinitely points to a capital-efficiency pitch rather than a growth-at-all-costs raise.",
       "source_name": "Sirona Medical press release (PR Newswire)",
       "source_url": "https://www.prnewswire.com/news-releases/sirona-medical-raises-40m-series-d-as-platform-usage-triples-302909423.html",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-15-atlasclear-ark-dawson-james",
@@ -252,7 +260,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381532/0/en/atlasclear-holdings-signs-definitive-agreement-to-acquire-ark-financial-services-including-its-dawson-james-securities-subsidiary-and-completes-initial-24-9-investment.html",
       "tickers": [
         "NYSEAMERICAN:ATCH"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-15-penske-automotive-take-private",
@@ -288,7 +297,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379885/0/en/alaunos-therapeutics-announces-acquisition-of-velaris-therapeutics.html",
       "tickers": [
         "NASDAQ:TCRT"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-14-volatus-aispeco",
@@ -306,7 +316,8 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3380712/0/en/volatus-aerospace-to-acquire-aispeco-expanding-proprietary-technology-for-defence-and-aerial-intelligence.html",
       "tickers": [
         "TSX:FLT"
-      ]
+      ],
+      "checked": "2026-10-15T16:46:43Z"
     },
     {
       "id": "2026-10-12-steris-xodus-medical",
