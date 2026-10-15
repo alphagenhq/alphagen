@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-15T12:11:06Z",
+ "updated": "2026-10-15T12:32:38Z",
  "items": [
+  {
+   "id": "2026-10-15-retail-sales-sep",
+   "time": "2026-10-15T12:33:38Z",
+   "tag": "MACRO",
+   "headline": "September retail sales rise 0.8%; August revised up to a 1.3% gain",
+   "take": "Census estimates September retail and food services sales at $745.0 billion, up 0.8% (±0.4%) from August and 6.3% (±0.5%) from September 2025, with the July-to-August gain revised to 1.3% from 1.1%. Sales for July through September were up 5.5% from a year earlier. Two strong nominal months are partly a price story in an energy shock, so the volume read will depend on how much of the gain came at the pump.",
+   "source_name": "U.S. Census Bureau, Advance Monthly Retail Trade (September 2026)",
+   "source_url": "https://www.census.gov/retail/sales.html"
+  },
   {
    "id": "2026-10-15-marsh-q3",
    "tag": "EARNINGS",
