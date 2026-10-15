@@ -1,18 +1,52 @@
 {
-  "updated": "2026-10-14T19:55:00Z",
-  "items": [
+ "updated": "2026-10-15T12:11:06Z",
+ "items": [
+  {
+   "id": "2026-10-15-credit-spreads",
+   "time": "2026-10-15T12:11:06Z",
+   "title": "Junk spreads are widening; investment grade is not",
+   "subtitle": "ICE BofA US High Yield and US Corporate (IG) option-adjusted spreads, daily, %",
+   "series": [
     {
-      "id": "2026-10-14-2s10s",
-      "time": "2026-10-14T19:55:00Z",
-      "title": "From inverted to positive: the 2s10s Treasury curve",
-      "subtitle": "2-year and 10-year Treasury yields, daily, %",
-      "series": [{"id": "DGS10", "label": "10-year Treasury", "t": "lvl"}, {"id": "DGS2", "label": "2-year Treasury", "t": "lvl"}],
-      "start": "2019-01-01",
-      "units": "%",
-      "take": "As of October 13, the 10-year Treasury yielded 5.21% and the 2-year 4.79%, a positive spread of 42 basis points on the Treasury's daily par curve. The chart shows how different that is from 2022 through 2024, when 2-year yields sat above 10-year yields for an extended stretch. A positive slope with both yields this high means lenders are demanding more to lend long, which feeds directly into mortgage, corporate, and federal borrowing costs.",
-      "source": "U.S. Treasury via FRED (DGS10, DGS2)",
-      "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
-      "checked": "2026-10-14T20:48:00Z"
+     "id": "BAMLH0A0HYM2",
+     "label": "High-yield OAS",
+     "t": "lvl"
+    },
+    {
+     "id": "BAMLC0A0CM",
+     "label": "Investment-grade OAS",
+     "t": "lvl"
     }
-  ]
+   ],
+   "start": "2023-11-01",
+   "units": "%",
+   "take": "The ICE BofA US High Yield option-adjusted spread stood at 3.16% on October 13, up 56 basis points from its 2026 low of 2.60% on August 28 and 33 basis points above its January 2 level of 2.83%. The investment-grade spread was 0.83%, only 4 basis points wider than on January 2. That divergence suggests investors are repricing risk in lower-rated, more energy- and consumer-sensitive borrowers rather than in credit broadly. With bank releases this week showing higher card-loss provisions, high-yield is the spread to watch for signs the oil shock is reaching corporate balance sheets.",
+   "source": "ICE Data Indices via FRED (BAMLH0A0HYM2, BAMLC0A0CM)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+  },
+  {
+   "id": "2026-10-14-2s10s",
+   "time": "2026-10-14T19:55:00Z",
+   "title": "From inverted to positive: the 2s10s Treasury curve",
+   "subtitle": "2-year and 10-year Treasury yields, daily, %",
+   "series": [
+    {
+     "id": "DGS10",
+     "label": "10-year Treasury",
+     "t": "lvl"
+    },
+    {
+     "id": "DGS2",
+     "label": "2-year Treasury",
+     "t": "lvl"
+    }
+   ],
+   "start": "2019-01-01",
+   "units": "%",
+   "take": "As of October 13, the 10-year Treasury yielded 5.21% and the 2-year 4.79%, a positive spread of 42 basis points on the Treasury's daily par curve. The chart shows how different that is from 2022 through 2024, when 2-year yields sat above 10-year yields for an extended stretch. A positive slope with both yields this high means lenders are demanding more to lend long, which feeds directly into mortgage, corporate, and federal borrowing costs.",
+   "source": "U.S. Treasury via FRED (DGS10, DGS2)",
+   "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
+   "checked": "2026-10-14T20:48:00Z"
+  }
+ ]
 }
