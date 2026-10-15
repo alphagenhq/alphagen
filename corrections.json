@@ -20,6 +20,27 @@
       "id": "2026-10-13-porch-allied-trust",
       "action": "corrected",
       "detail": "Headline and value_text described $200M as the combined base price; per the Porch 8-K the base prices total $150M ($55M Reciprocal + $95M Porch) and $200M includes $50M of deferred consideration."
+    },
+    {
+      "time": "2026-10-15T00:58:00Z",
+      "file": "deals.json",
+      "id": "2026-10-13-dsg-gradeeight",
+      "action": "removed",
+      "detail": "Removed because the cited source is a news-outlet/syndicator copy (financialcontent.com repost of a Business Wire release), not a primary source."
+    },
+    {
+      "time": "2026-10-15T00:58:00Z",
+      "file": "deals.json",
+      "id": "2026-10-13-souffle-series-b",
+      "action": "removed",
+      "detail": "Removed because the cited source is a news-outlet/syndicator copy (Yahoo Finance repost of a Business Wire release), not a primary source."
+    },
+    {
+      "time": "2026-10-15T00:58:00Z",
+      "file": "deals.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "removed",
+      "detail": "Removed because the cited source is a news-outlet/syndicator copy (Manila Times repost of a GlobeNewswire release), not a primary source."
     }
   ]
 }

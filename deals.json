@@ -327,38 +327,6 @@
       ]
     },
     {
-      "id": "2026-10-13-icon-series-d",
-      "time": "2026-10-14T22:11:00Z",
-      "type": "VC",
-      "headline": "ICON raises $200M Series D co-led by Baillie Gifford and BlackRock funds",
-      "parties": "Co-leads: Baillie Gifford and funds managed by BlackRock; Participants: Capital Factory, CAZ Investments, Moderne Ventures, Moonshots Capital, Norwest, Overmatch, The Syndicate, Tiger Global",
-      "value": 0.2,
-      "value_text": "$200M Series D",
-      "status": "Raised",
-      "announced": "2026-10-13",
-      "sector": "Construction Technology",
-      "take": "The Austin-based builder of robotic 3D-printing construction systems says the round will fund manufacturing and deployment of its machines, a large Austin R&D facility, and expansion into Texas, Florida, Washington, D.C., and other U.S. markets. Crossover-style backers like Baillie Gifford and BlackRock funds leading suggests investors see construction automation as a scale-stage opportunity.",
-      "source_name": "ICON press release (GlobeNewswire, via The Manila Times)",
-      "source_url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/icon-raises-200m-series-d-to-transform-how-the-world-builds/2444611/amp",
-      "tickers": []
-    },
-    {
-      "id": "2026-10-13-souffle-series-b",
-      "time": "2026-10-14T22:18:00Z",
-      "type": "VC",
-      "headline": "Soufflé Therapeutics raises oversubscribed $135M Series B led by Juvia Group",
-      "parties": "Lead: Juvia Group; Participants: TCG Crossover Management, BB Biotech, Fidelity Management & Research Company, Balyasny Asset Management, Amgen Ventures, ARCH Venture Partners, Temasek and others",
-      "value": 0.135,
-      "value_text": "$135M Series B",
-      "status": "Raised",
-      "announced": "2026-10-13",
-      "sector": "Biotech",
-      "take": "The Boston biotech will use the money to move its three lead programs, in FSHD, heart failure with reduced ejection fraction and an undisclosed muscle and metabolic target, into clinical studies. The syndicate pairs new institutional money from Fidelity, TCG Crossover and BB Biotech with existing backers including Amgen Ventures and ARCH, giving it a deep investor base for the next stage of development.",
-      "source_name": "Soufflé Therapeutics press release (Business Wire, via Yahoo Finance)",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/souffl-therapeutics-announces-oversubscribed-135-140000852.html",
-      "tickers": []
-    },
-    {
       "id": "2026-10-13-brookdale-welltower-30",
       "time": "2026-10-14T22:25:00Z",
       "type": "M&A",
@@ -392,24 +360,6 @@
       "source_name": "Reach Security press release (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379991/0/en/reach-security-raises-more-than-50m-series-b-to-stop-ai-powered-attacks-by-autonomously-closing-the-gaps-they-target.html",
       "tickers": []
-    },
-    {
-      "id": "2026-10-13-dsg-gradeeight",
-      "time": "2026-10-14T22:39:00Z",
-      "type": "M&A",
-      "headline": "DSG to buy Winzer and FastServ owner GradeEight Holdings; terms undisclosed",
-      "parties": "Acquirer: Distribution Solutions Group; Target: GradeEight Holdings (Winzer Corporation, FastServ Supply)",
-      "value": null,
-      "value_text": "Undisclosed",
-      "status": "Announced",
-      "announced": "2026-10-13",
-      "sector": "Industrial Distribution",
-      "take": "GradeEight brings about $110 million of annual sales through Winzer's MRO franchise network and FastServ's stores in Texas and Arkansas, funded with DSG's cash and credit-line availability and expected to close in the fourth quarter. DSG says the deal is expected to be accretive to its adjusted EBITDA margins.",
-      "source_name": "Distribution Solutions Group press release (Business Wire)",
-      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-13-distribution-solutions-group-announces-strategic-acquisition-of-winzer-and-fastserv-supply",
-      "tickers": [
-        "NASDAQ:DSGR"
-      ]
     },
     {
       "id": "2026-10-13-porch-allied-trust",
