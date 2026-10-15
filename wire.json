@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-15T21:12:10Z",
+ "updated": "2026-10-15T21:30:00Z",
  "items": [
+  {
+   "id": "2026-10-15-wire-proofpoint-varonis",
+   "time": "2026-10-15T21:33:00Z",
+   "tag": "DEALS",
+   "headline": "Proofpoint to buy Varonis for $49.75 a share in cash, about $6.3B",
+   "take": "Proofpoint agreed to acquire Varonis for $49.75 a share in cash, about $6.3 billion, a 52% premium to Varonis' June 22 close before initial sale rumors and 17% above its September 1 close. Thoma Bravo committed equity and secured debt financing commitments, and closing is expected in the first half of 2027 subject to Varonis shareholder and regulatory approvals. The deal adds data-security software to Proofpoint's email and human-risk platform as private capital keeps consolidating listed security vendors.",
+   "source_name": "Proofpoint press release",
+   "source_url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security",
+   "ticker": "NASDAQ:VRNS"
+  },
+  {
+   "id": "2026-10-15-wire-nasdaq-level",
+   "time": "2026-10-15T21:59:00Z",
+   "tag": "DEALS",
+   "headline": "Nasdaq closes LeveL Markets buy, adding a top-three U.S. ATS",
+   "take": "Nasdaq completed its acquisition of LeveL Markets, which it says is the third-largest U.S. alternative trading system by volume and processes hundreds of millions of shares daily across more than 7,000 symbols; terms were not disclosed. LeveL will keep running as a FINRA-registered ATS. Owning the venue gives Nasdaq a direct share of off-exchange equity flow.",
+   "source_name": "Nasdaq press release",
+   "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-completes-acquisition-level-markets-advancing-its-always",
+   "ticker": "NASDAQ:NDAQ"
+  },
+  {
+   "id": "2026-10-15-wire-26north-mei",
+   "time": "2026-10-15T21:46:00Z",
+   "tag": "DEALS",
+   "headline": "26North to buy MEI Industrial Solutions from Olympus; terms undisclosed",
+   "take": "26North agreed to acquire MEI Industrial Solutions, a Dallas-based mover and installer of heavy equipment for data centers, semiconductor plants and other advanced manufacturing, from Olympus Partners; terms were not disclosed and closing is expected in Q4 2026. MEI has 30 operating locations and nearly 2,500 U.S. employees. The deal targets services capacity tied to the data-center build-out rather than the hardware itself.",
+   "source_name": "26North press release (Business Wire)",
+   "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-26north-to-acquire-mei-industrial-solutions-a-leading-provider-of-critical-equipment-services-for-data-centers-and-advanced-manufacturing",
+   "ticker": ""
+  },
   {
    "id": "2026-10-15-ibkr-q3",
    "time": "2026-10-15T21:14:10Z",

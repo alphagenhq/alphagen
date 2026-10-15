@@ -1,6 +1,77 @@
 {
-  "updated": "2026-10-15T18:49:00Z",
+  "updated": "2026-10-15T21:30:00Z",
   "items": [
+    {
+      "id": "2026-10-15-proofpoint-varonis",
+      "time": "2026-10-15T21:33:00Z",
+      "type": "M&A",
+      "headline": "Proofpoint to acquire Varonis for $49.75 a share in cash, about $6.3B",
+      "parties": "Acquirer: Proofpoint; Target: Varonis",
+      "value": 6.3,
+      "value_text": "$6.3B all cash ($49.75/share)",
+      "status": "Announced",
+      "announced": "2026-10-15",
+      "sector": "Technology / Cybersecurity",
+      "take": "Proofpoint agreed to buy Varonis for $49.75 a share in cash, about $6.3 billion, a 52% premium to the June 22 close before initial sale rumors; Thoma Bravo committed equity and secured debt financing commitments, Ontario Teachers' agreed to invest in Proofpoint, and closing is expected in the first half of 2027 subject to Varonis shareholder and regulatory approvals. The deal folds a listed data-security specialist into a sponsor-owned email and human-risk platform, extending the run of private-capital consolidation in security software.",
+      "source_name": "Proofpoint press release",
+      "source_url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security",
+      "tickers": [
+        "NASDAQ:VRNS"
+      ]
+    },
+    {
+      "id": "2026-10-15-26north-mei-industrial",
+      "time": "2026-10-15T21:46:00Z",
+      "type": "PE",
+      "headline": "26North to buy data-center equipment mover MEI from Olympus Partners; terms undisclosed",
+      "parties": "Acquirer: 26North Partners; Target: MEI Industrial Solutions; Seller: Olympus Partners",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-15",
+      "sector": "Industrials / Data Center Services",
+      "take": "26North, through its affiliates, agreed to acquire Dallas-based MEI Industrial Solutions from Olympus Partners; MEI rigs, moves, stores and installs heavy equipment for data center, semiconductor, EV and battery, aerospace and life-sciences customers, with 30 operating locations and nearly 2,500 employees, and closing is expected in Q4 2026 subject to regulatory approvals. Buyers are paying for picks-and-shovels exposure to the data-center build-out, where specialized installation capacity sits closer to the bottleneck than the hardware itself.",
+      "source_name": "26North press release (Business Wire)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-26north-to-acquire-mei-industrial-solutions-a-leading-provider-of-critical-equipment-services-for-data-centers-and-advanced-manufacturing",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-nasdaq-level-markets-close",
+      "time": "2026-10-15T21:59:00Z",
+      "type": "M&A",
+      "headline": "Nasdaq completes acquisition of LeveL Markets ATS; terms undisclosed",
+      "parties": "Acquirer: Nasdaq; Target: LeveL Markets",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Completed",
+      "announced": "2026-10-15",
+      "sector": "Financials / Market Infrastructure",
+      "take": "Nasdaq completed its acquisition of LeveL Markets, an off-exchange equity venue that it says is the third-largest U.S. ATS by trading volume and grew average daily volume 56% in 2025; Nasdaq first took a minority stake in 2021, terms were not disclosed, and LeveL will keep operating as a FINRA-registered ATS. Owning a large dark pool lets Nasdaq capture flow that has been migrating off-exchange rather than ceding it to broker-run venues.",
+      "source_name": "Nasdaq press release",
+      "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-completes-acquisition-level-markets-advancing-its-always",
+      "tickers": [
+        "NASDAQ:NDAQ"
+      ]
+    },
+    {
+      "id": "2026-10-15-cronos-canadelaar-close",
+      "time": "2026-10-15T22:12:00Z",
+      "type": "M&A",
+      "headline": "Cronos completes €57.5M acquisition of Dutch cannabis producer CanAdelaar",
+      "parties": "Acquirer: Cronos Group; Target: CanAdelaar",
+      "value": null,
+      "value_text": "€57.5M base price plus cash earnout",
+      "status": "Completed",
+      "announced": "2026-10-15",
+      "sector": "Consumer / Cannabis",
+      "take": "Cronos closed its purchase of CanAdelaar, the largest company in the Netherlands' adult-use cannabis pilot program, for a €57.5 million base price subject to adjustments plus contingent cash payments equal to 0.5x CanAdelaar's normalized EBITDA for each of 2026 and 2027. The EBITDA-linked earnout ties part of the price to how the Dutch pilot performs, giving Cronos a regulated European foothold without paying fully up front.",
+      "source_name": "Cronos Group press release",
+      "source_url": "https://ir.thecronosgroup.com/news-releases/news-release-details/cronos-completes-acquisition-canadelaar-europes-largest-adult",
+      "tickers": [
+        "NASDAQ:CRON",
+        "TSX:CRON"
+      ]
+    },
     {
       "id": "2026-10-15-intuit-sequence",
       "time": "2026-10-15T18:51:00Z",
