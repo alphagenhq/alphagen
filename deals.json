@@ -1,6 +1,112 @@
 {
-  "updated": "2026-10-15T23:54:01Z",
+  "updated": "2026-10-16T11:45:33Z",
   "items": [
+    {
+      "id": "2026-10-16-intl-seaways-bruton",
+      "time": "2026-10-16T11:47:00Z",
+      "type": "M&A",
+      "headline": "International Seaways to buy VLCC owner Bruton, valued at about $370M",
+      "parties": "Acquirer: International Seaways, Inc.; Target: Bruton Limited",
+      "value": 0.37,
+      "value_text": "~$370M, mostly stock (~96%) plus cash",
+      "status": "Announced",
+      "announced": "2026-10-16",
+      "sector": "Shipping / Tankers",
+      "take": "International Seaways signed agreements on October 16 to acquire Bruton, valued at approximately $370 million, starting with a first-step exchange of about 50.5% of Bruton's shares at 0.05190 INSW shares per Bruton share (expected to settle on or about October 20), followed by a merger for the rest; holders of 10,000 or fewer shares receive $6.3044 cash per share, and Seaways expects to issue about 3.12 million shares in total. The deal adds four VLCCs including newbuildings, and with exchanging holders committed to vote for the merger, the Bruton shareholder meeting expected around October 30 is the main remaining step.",
+      "source_name": "International Seaways Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001679049/000110465926116371/tm2627713d1_8k.htm",
+      "tickers": [
+        "NYSE:INSW"
+      ]
+    },
+    {
+      "id": "2026-10-15-city-therapeutics-ipo",
+      "time": "2026-10-16T11:58:00Z",
+      "type": "IPO",
+      "headline": "City Therapeutics prices upsized $200M Nasdaq IPO at $18 a share",
+      "parties": "Issuer: City Therapeutics, Inc.; Joint bookrunners: Goldman Sachs & Co. LLC, Jefferies, Stifel, Oppenheimer & Co.",
+      "value": 0.2,
+      "value_text": "$200.0M IPO (11,111,111 shares at $18.00)",
+      "status": "Priced",
+      "announced": "2026-10-15",
+      "sector": "Biotech / RNAi therapeutics",
+      "take": "City Therapeutics priced an upsized IPO of 11,111,111 shares at $18.00 for gross proceeds of about $200.0 million, with trading on the Nasdaq Global Market under CTY set to begin October 16 and closing expected October 19; underwriters have a 30-day option on up to 1,666,666 more shares. The clinical-stage RNAi developer, whose lead programs target thromboembolic disease, Stargardt and other retinal diseases, and anemia of chronic disease, adds to a busy run of biotech listings this month.",
+      "source_name": "City Therapeutics press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/16/3382239/0/en/city-therapeutics-announces-pricing-of-upsized-initial-public-offering.html",
+      "tickers": [
+        "NASDAQ:CTY"
+      ]
+    },
+    {
+      "id": "2026-10-15-strive-sats-preferred-ipo",
+      "time": "2026-10-16T12:08:00Z",
+      "type": "IPO",
+      "headline": "Strive prices upsized $630M IPO of 15% perpetual SATS preferred stock",
+      "parties": "Issuer: Strive, Inc.; Joint bookrunners: Barclays Capital Inc., Cantor Fitzgerald & Co.; Lead manager: Clear Street LLC",
+      "value": 0.63,
+      "value_text": "~$630M preferred IPO (7,000,000 shares at $90.00)",
+      "status": "Priced",
+      "announced": "2026-10-15",
+      "sector": "Digital assets / Bitcoin treasury",
+      "take": "Strive's final term sheet prices 7,000,000 shares of 15.00% Series A Perpetual SATS Preferred Stock at $90.00 each, upsized from 5,000,000, for gross proceeds of about $630 million; each share carries an initial $100 liquidation preference, settlement is set for October 20, and Strive has applied to list on Nasdaq as SATS. Proceeds are for general corporate purposes including the acquisition of bitcoin, so this is a high-coupon preferred being used to fund a bitcoin treasury strategy.",
+      "source_name": "Strive pricing term sheet, Form FWP (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001920406/000095010326015687/dp255080_fwp.htm",
+      "tickers": [
+        "NASDAQ:ASST"
+      ]
+    },
+    {
+      "id": "2026-10-13-scanntech-series-f",
+      "time": "2026-10-16T12:19:00Z",
+      "type": "VC",
+      "headline": "Scanntech raises $180M Series F led by L Catterton, Partners Group",
+      "parties": "Lead: L Catterton; Co-lead: Partners Group (on behalf of its clients); Participants: Bradesco, SPX",
+      "value": 0.18,
+      "value_text": "$180M Series F",
+      "status": "Raised",
+      "announced": "2026-10-13",
+      "sector": "Retail data / Analytics",
+      "take": "Uruguay-founded Scanntech, a retail intelligence platform for consumer goods in Latin America, announced a $180 million Series F led by L Catterton with Partners Group as co-lead and Bradesco and SPX participating, subject to customary closing conditions and regulatory approvals. Its direct point-of-sale data covers more than 80% of retail sell-out in its markets, and the new money is earmarked for analytics and AI, new products and new markets.",
+      "source_name": "Scanntech press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/scanntech-a-leading-latin-american-retail-intelligence-platform-announces-180-million-series-f-financing-302907182.html",
+      "tickers": []
+    },
+    {
+      "id": "2026-10-15-transocean-750m-revolver",
+      "time": "2026-10-16T12:29:00Z",
+      "type": "Debt",
+      "headline": "Transocean lifts revolver to $750M, extends maturity to October 2031",
+      "parties": "Borrower: Transocean International Limited (Transocean Ltd. subsidiary); Administrative and collateral agent: Citibank, N.A.",
+      "value": 0.75,
+      "value_text": "$750M revolving credit facility",
+      "status": "Announced",
+      "announced": "2026-10-15",
+      "sector": "Energy / Offshore drilling",
+      "take": "Transocean's subsidiary signed an amended and restated credit agreement that raises revolving commitments to $750 million from $510 million and pushes scheduled maturity from June 2028 to October 2031, effective upon customary conditions and the closing of Transocean's acquisition of Valaris. Transocean also said it retired $165 million of 8.00% Deepwater Aquila senior secured notes due 2028 on October 1, which it expects to save about $22 million of interest through maturity.",
+      "source_name": "Transocean press release, Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001451505/000145150526000075/rig-ex99d1.htm",
+      "tickers": [
+        "NYSE:RIG"
+      ]
+    },
+    {
+      "id": "2026-10-15-daily-journal-revir",
+      "time": "2026-10-16T12:40:00Z",
+      "type": "M&A",
+      "headline": "Daily Journal buys AI evidence-software maker Revir Technologies for cash",
+      "parties": "Acquirer: Daily Journal Corporation; Target: Revir Technologies, Inc.",
+      "value": null,
+      "value_text": "Undisclosed (cash on hand)",
+      "status": "Completed",
+      "announced": "2026-10-15",
+      "sector": "Software / Justice technology",
+      "take": "Daily Journal completed its acquisition of Austin-based Revir Technologies on October 13, funding it with cash on hand and describing it as not material; Revir's Scout platform uses AI to help law enforcement, prosecutors and courts manage and search large volumes of digital evidence. Revir will run independently inside the courts, justice and government technology division alongside Journal Technologies, extending that unit's case-management offering.",
+      "source_name": "Daily Journal Corporation Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000783412/000143774926032716/djco20261015_8k.htm",
+      "tickers": [
+        "NASDAQ:DJCO"
+      ]
+    },
     {
       "id": "2026-10-14-lufthansa-tap-stake",
       "time": "2026-10-15T23:58:00Z",

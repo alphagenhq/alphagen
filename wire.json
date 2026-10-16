@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-16T11:19:01Z",
+  "updated": "2026-10-16T11:45:33Z",
   "items": [
+    {
+      "id": "2026-10-16-wire-intl-seaways-bruton",
+      "time": "2026-10-16T11:47:00Z",
+      "tag": "DEALS",
+      "headline": "International Seaways agrees to buy Bruton and its four VLCCs, valued at ~$370M",
+      "take": "International Seaways signed agreements on October 16 to acquire Bruton, valued at approximately $370 million: a first-step exchange for about 50.5% of Bruton's shares at 0.05190 INSW shares each, expected to settle around October 20, followed by a merger for the remainder, with roughly 96% of total consideration in stock. AlphaGen read: this is a mostly stock-funded way to add four VLCCs, and the exchanging holders' commitment to vote for the merger leaves Bruton's meeting around October 30 as the main remaining step.",
+      "source_name": "International Seaways Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001679049/000110465926116371/tm2627713d1_8k.htm",
+      "ticker": "NYSE:INSW"
+    },
+    {
+      "id": "2026-10-15-wire-city-therapeutics-ipo",
+      "time": "2026-10-16T11:58:00Z",
+      "tag": "IPO",
+      "headline": "City Therapeutics prices upsized $200M IPO at $18; trading as CTY on Nasdaq",
+      "take": "City Therapeutics priced 11,111,111 shares at $18.00 for gross proceeds of about $200.0 million, with Nasdaq trading under CTY starting October 16 and closing expected October 19. AlphaGen read: the upsizing shows investors are still putting money into clinical-stage RNAi platforms this month.",
+      "source_name": "City Therapeutics press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/16/3382239/0/en/city-therapeutics-announces-pricing-of-upsized-initial-public-offering.html",
+      "ticker": "NASDAQ:CTY"
+    },
+    {
+      "id": "2026-10-15-wire-strive-sats-ipo",
+      "time": "2026-10-16T12:08:00Z",
+      "tag": "IPO",
+      "headline": "Strive prices $630M upsized IPO of 15% SATS perpetual preferred",
+      "take": "Strive priced 7,000,000 shares of 15.00% Series A Perpetual SATS Preferred Stock at $90.00, up from 5,000,000 shares, for about $630 million gross, settling October 20, with a Nasdaq listing under SATS applied for. AlphaGen read: the 15% coupon on a $100 liquidation preference is an expensive source of capital, and Strive names bitcoin purchases among the uses of proceeds.",
+      "source_name": "Strive pricing term sheet, Form FWP (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001920406/000095010326015687/dp255080_fwp.htm",
+      "ticker": "NASDAQ:ASST"
+    },
+    {
+      "id": "2026-10-13-wire-scanntech-series-f",
+      "time": "2026-10-16T12:19:00Z",
+      "tag": "DEALS",
+      "headline": "Scanntech raises $180M Series F led by L Catterton, with Partners Group co-leading",
+      "take": "Latin American retail intelligence platform Scanntech announced a $180 million Series F led by L Catterton, with Partners Group co-leading and Bradesco and SPX participating, subject to closing conditions and regulatory approvals. AlphaGen read: this is a large growth round for a Latin American data business, backing a point-of-sale network that the company says covers more than 80% of retail sell-out in its markets.",
+      "source_name": "Scanntech press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/scanntech-a-leading-latin-american-retail-intelligence-platform-announces-180-million-series-f-financing-302907182.html",
+      "ticker": ""
+    },
     {
       "id": "2026-10-16-tfc-q3",
       "time": "2026-10-16T11:21:01Z",
