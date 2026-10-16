@@ -1,6 +1,71 @@
 {
-  "updated": "2026-10-16T11:45:33Z",
+  "updated": "2026-10-16T12:34:06Z",
   "items": [
+    {
+      "id": "2026-10-16-trv-q3",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:TRV",
+      "headline": "Travelers Q3 EPS rises to $9.04; core EPS up 13% to $9.18",
+      "take": "Travelers reported third-quarter net income of $1.917 billion, or $9.04 a diluted share, versus $1.888 billion and $8.24 a year earlier, while core income rose to $9.18 a share from $8.14. Total revenues were $12.41 billion versus $12.47 billion, and net written premiums were essentially flat at $11.48 billion. With premium growth stalled, the earnings gain came from a shrinking share count and higher investment income rather than a bigger book of business.",
+      "source_name": "Travelers Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm",
+      "time": "2026-10-16T12:36:06Z"
+    },
+    {
+      "id": "2026-10-16-fed-balance-sheet-6-756t",
+      "tag": "FED",
+      "headline": "Fed balance sheet edges up $8.1B to $6.756T; reserves average $3.02T",
+      "take": "Federal Reserve total assets were $6,755.6 billion on Wednesday, Oct. 14, up $8.1 billion from a week earlier, per H.4.1 data on FRED. Reserve balances averaged $3,022.1 billion in the week, down $7.5 billion on the week but $91.9 billion above the week ended Sept. 23. A flat balance sheet means week-to-week reserve swings are now being driven by Treasury's cash account, not by Fed policy.",
+      "source_name": "Federal Reserve H.4.1 via FRED (WALCL, WRESBAL)",
+      "source_url": "https://fred.stlouisfed.org/series/WALCL",
+      "time": "2026-10-16T12:40:06Z"
+    },
+    {
+      "id": "2026-10-16-brent-wti-spread-24",
+      "tag": "ENERGY",
+      "headline": "Brent's premium over WTI narrows to $24.64 a barrel from $31.92 on Oct. 8",
+      "take": "Brent crude was $126.55 a barrel on Oct. 14 and WTI was $101.91, per EIA spot data on FRED, leaving a $24.64 gap. On Oct. 8 Brent was $130.18 and WTI $98.26, a $31.92 spread; since then Brent fell $3.63 while WTI rose $3.65. A spread this wide signals that the supply shock is concentrated in seaborne international crude, with U.S. inland barrels only partly pulled along.",
+      "source_name": "U.S. Energy Information Administration via FRED (DCOILBRENTEU, DCOILWTICO)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "time": "2026-10-16T12:44:06Z"
+    },
+    {
+      "id": "2026-10-16-trv-cats-combined-ratio",
+      "tag": "EQUITIES",
+      "ticker": "NYSE:TRV",
+      "headline": "Travelers' combined ratio improves to 86.8% despite $538M of catastrophe losses",
+      "take": "Travelers' Q3 combined ratio was 86.8% versus 87.3% a year earlier even as pretax catastrophe losses rose to $538 million from $402 million; the underlying combined ratio, which excludes catastrophes and prior-year reserve development, was 84.1% versus 83.9%. Pretax net investment income rose 6.3% to $1.098 billion, and the company bought back 4.0 million shares for $1.508 billion. The slight drift in the underlying ratio is the number to watch: it suggests pricing is no longer outrunning loss trends by as much as it was.",
+      "source_name": "Travelers Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm",
+      "time": "2026-10-16T12:48:06Z"
+    },
+    {
+      "id": "2026-10-16-sofr-388-iorb",
+      "tag": "RATES",
+      "headline": "SOFR at 3.88% sits 2 bp under the Fed's 3.90% reserve rate; RRP use near zero",
+      "take": "The Secured Overnight Financing Rate was 3.88% on Oct. 14, versus 3.89% on Oct. 13, while the interest rate on reserve balances held at 3.90%, per New York Fed and Board data on FRED. Usage of the Fed's overnight reverse repo facility was $1.201 billion on Oct. 15, up from $0.201 billion a day earlier. Repo trading below the reserve rate shows no sign of funding strain, but with the RRP buffer all but empty, any further cash drain will come directly out of bank reserves.",
+      "source_name": "Federal Reserve Bank of New York and Federal Reserve Board via FRED (SOFR, IORB, RRPONTSYD)",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "time": "2026-10-16T12:52:06Z"
+    },
+    {
+      "id": "2026-10-16-tga-883b",
+      "tag": "DEBT",
+      "headline": "Treasury's cash at the Fed averages $883.4B, down $93.7B from late September",
+      "take": "The Treasury General Account averaged $883.4 billion in the week ended Oct. 14, up $3.1 billion from the prior week but $93.7 billion below the $977.1 billion average in the week ended Sept. 23, per H.4.1 data on FRED. Reserve balances rose $91.9 billion over the same span. The near one-for-one mirror shows Treasury's cash management, not Fed balance-sheet policy, is setting the week-to-week tone for bank liquidity.",
+      "source_name": "Federal Reserve H.4.1 via FRED (WTREGEN)",
+      "source_url": "https://fred.stlouisfed.org/series/WTREGEN",
+      "time": "2026-10-16T12:56:06Z"
+    },
+    {
+      "id": "2026-10-16-gasoline-4-331",
+      "tag": "COMMODITIES",
+      "headline": "U.S. regular gasoline averages $4.331 a gallon, down 14.7 cents in three weeks",
+      "take": "EIA's weekly U.S. regular gasoline price was $4.331 a gallon in the week of Oct. 12, down from $4.354 a week earlier and $4.478 on Sept. 21, per FRED. The pullback comes even as Brent remained above $125 a barrel on Oct. 14. Easing pump prices would give October consumer inflation a little relief after gasoline drove September's CPI jump, but the cushion is thin with crude this high.",
+      "source_name": "U.S. Energy Information Administration via FRED (GASREGW)",
+      "source_url": "https://fred.stlouisfed.org/series/GASREGW",
+      "time": "2026-10-16T13:00:06Z"
+    },
     {
       "id": "2026-10-16-wire-intl-seaways-bruton",
       "time": "2026-10-16T11:47:00Z",

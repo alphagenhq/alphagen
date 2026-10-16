@@ -1,9 +1,20 @@
 {
- "updated": "2026-10-16T11:19:01Z",
+ "updated": "2026-10-16T12:34:06Z",
  "items": [
   {
+   "id": "2026-10-16-TRV",
+   "time": "2026-10-16T12:34:06Z",
+   "ticker": "NYSE:TRV",
+   "name": "Travelers Companies",
+   "headline": "Q3 core EPS climbs as combined ratio improves despite higher cat losses",
+   "catalyst": "Travelers reported Q3 diluted EPS of $9.04 versus $8.24 and core EPS of $9.18 versus $8.14, with a combined ratio of 86.8% and catastrophe losses of $538 million, while net written premiums were flat at $11.48 billion.",
+   "thesis": "The quarter shows strong underwriting margins and heavy buybacks, $1.508 billion in the period, doing the work that premium growth is not. A slightly higher underlying combined ratio of 84.1% versus 83.9% is the early sign to watch that commercial and personal-lines pricing is cooling.",
+   "source_name": "Travelers Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm"
+  },
+  {
    "id": "2026-10-16-TFC",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NYSE:TFC",
    "name": "Truist Financial",
    "headline": "Q3 GAAP EPS halves on a $1.4B securities loss and RAC loan sale",
@@ -15,7 +26,7 @@
   },
   {
    "id": "2026-10-16-CFG",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NYSE:CFG",
    "name": "Citizens Financial Group",
    "headline": "Q3 EPS up 34% as net interest margin widens to 3.18%",
@@ -27,7 +38,7 @@
   },
   {
    "id": "2026-10-16-RF",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NYSE:RF",
    "name": "Regions Financial",
    "headline": "Q3 EPS rises 16% as net charge-offs drop to 0.29%",
@@ -40,7 +51,7 @@
   },
   {
    "id": "2026-10-16-MTB",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NYSE:MTB",
    "name": "M&T Bank",
    "headline": "Q3 EPS rises to $5.04 on buybacks while net income dips",
@@ -52,7 +63,7 @@
   },
   {
    "id": "2026-10-16-AA",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NYSE:AA",
    "name": "Alcoa",
    "headline": "Q3 earnings more than double from a year ago; output guidance reaffirmed",
@@ -64,7 +75,7 @@
   },
   {
    "id": "2026-10-16-JBHT",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NASDAQ:JBHT",
    "name": "J.B. Hunt Transport Services",
    "headline": "Q3 revenue up 20% but operating income up only 2%",
@@ -76,7 +87,7 @@
   },
   {
    "id": "2026-10-16-IBKR",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NASDAQ:IBKR",
    "name": "Interactive Brokers",
    "headline": "Q3 EPS rises to $0.69 on 19% net interest income growth; dividend raised",
@@ -88,7 +99,7 @@
   },
   {
    "id": "2026-10-16-FHN",
-   "time": "2026-10-16T11:19:01Z",
+   "time": "2026-10-16T12:34:06Z",
    "ticker": "NYSE:FHN",
    "name": "First Horizon",
    "headline": "Swings to a Q3 loss on a $473M charge to sell about $4.5B of mortgages",

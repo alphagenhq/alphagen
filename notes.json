@@ -1,6 +1,62 @@
 {
- "updated": "2026-10-16T11:19:01Z",
+ "updated": "2026-10-16T12:34:06Z",
  "items": [
+  {
+   "id": "2026-10-16-fed-plumbing-tga",
+   "time": "2026-10-16T12:34:06Z",
+   "tag": "FED",
+   "title": "Fed plumbing: Treasury's cash account, not QT, is now moving reserves",
+   "dek": "With the Fed's balance sheet flat and its reverse repo facility nearly empty, swings in Treasury's cash balance are passing straight through to bank reserves.",
+   "key_points": [
+    "Fed total assets were $6,755.6 billion on Oct. 14, up $8.1 billion on the week and about $9 billion above their Sept. 16 level.",
+    "Reserve balances averaged $3,022.1 billion in the week ended Oct. 14, $91.9 billion above the week ended Sept. 23.",
+    "The Treasury General Account averaged $883.4 billion, down $93.7 billion from $977.1 billion in the week ended Sept. 23.",
+    "Overnight reverse repo usage was $1.201 billion on Oct. 15, and SOFR was 3.88% on Oct. 14 versus a 3.90% interest rate on reserve balances."
+   ],
+   "body": [
+    "The Federal Reserve's weekly balance sheet has gone quiet. Total assets were $6,755.6 billion on Wednesday, Oct. 14, up $8.1 billion from a week earlier and only about $9 billion above the Sept. 16 reading of $6,746.5 billion, according to H.4.1 data on FRED. Over five weeks the Fed's footprint has barely moved.",
+    "Bank reserves have not been nearly as calm. Reserve balances averaged $3,022.1 billion in the week ended Oct. 14, down $7.5 billion on the week. But they had averaged $2,930.2 billion in the week ended Sept. 23 and $3,013.8 billion in the week ended Sept. 16, a swing of more than $80 billion in each direction within a month.",
+    {
+     "h": "Treasury's account is the swing factor"
+    },
+    "The mirror image sits in the Treasury General Account, the government's checking account at the Fed. It averaged $877.0 billion in the week ended Sept. 16, jumped to $977.1 billion in the week ended Sept. 23, and has since fallen back to $883.4 billion. The $93.7 billion decline since late September lines up closely with the $91.9 billion rise in reserves over the same span. The September spike coincided with the mid-month corporate tax date, when receipts flow into Treasury's account and drain cash from the banking system.",
+    "In earlier years, money-market funds could absorb such swings by moving cash in and out of the Fed's overnight reverse repo facility. That buffer is effectively gone: usage was $1.201 billion on Oct. 15 and $0.201 billion on Oct. 14. Every dollar Treasury now pulls into its account comes out of reserves, and every dollar it spends goes back in.",
+    {
+     "h": "No strain yet in funding rates"
+    },
+    "So far the money markets are taking this in stride. The Secured Overnight Financing Rate was 3.88% on Oct. 14, 2 basis points below the 3.90% interest rate on reserve balances. Repo trading at or above the reserve rate has historically been the signal that reserves are getting scarce; that signal is not flashing today.",
+    {
+     "h": "The AlphaGen read"
+    },
+    "Reserves near $3 trillion look ample for now, but the system has lost its shock absorber. That makes Treasury's cash-management choices, including how much it holds in the TGA around tax dates, quarter-ends and heavy bill settlements, the main source of week-to-week liquidity volatility. The spread between SOFR and the reserve rate is the simplest gauge to watch: if repo starts printing above 3.90% around the next tax or settlement date, the debate over whether reserves are still ample will return quickly."
+   ],
+   "sources": [
+    {
+     "name": "Federal Reserve H.4.1 via FRED: Total Assets (WALCL)",
+     "url": "https://fred.stlouisfed.org/series/WALCL"
+    },
+    {
+     "name": "Federal Reserve H.4.1 via FRED: Reserve Balances (WRESBAL)",
+     "url": "https://fred.stlouisfed.org/series/WRESBAL"
+    },
+    {
+     "name": "Federal Reserve H.4.1 via FRED: Treasury General Account (WTREGEN)",
+     "url": "https://fred.stlouisfed.org/series/WTREGEN"
+    },
+    {
+     "name": "New York Fed via FRED: Overnight Reverse Repo (RRPONTSYD)",
+     "url": "https://fred.stlouisfed.org/series/RRPONTSYD"
+    },
+    {
+     "name": "New York Fed via FRED: SOFR",
+     "url": "https://fred.stlouisfed.org/series/SOFR"
+    },
+    {
+     "name": "Federal Reserve Board via FRED: IORB",
+     "url": "https://fred.stlouisfed.org/series/IORB"
+    }
+   ]
+  },
   {
    "id": "2026-10-16-morning-brief",
    "time": "2026-10-16T11:19:01Z",

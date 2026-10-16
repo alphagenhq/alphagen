@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-15T12:11:06Z",
+ "updated": "2026-10-16T12:34:06Z",
  "items": [
+  {
+   "id": "2026-10-16-brent-wti",
+   "time": "2026-10-16T12:34:06Z",
+   "title": "The oil shock is a Brent shock: a $25 gap over WTI",
+   "subtitle": "Brent (Europe) and WTI (Cushing, Okla.) crude oil spot prices, daily, dollars per barrel",
+   "series": [
+    {
+     "id": "DCOILBRENTEU",
+     "label": "Brent",
+     "t": "lvl"
+    },
+    {
+     "id": "DCOILWTICO",
+     "label": "WTI",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-01-01",
+   "units": "",
+   "take": "Brent crude was $126.55 a barrel on October 14 and WTI was $101.91, a spread of $24.64. On October 8 the gap was $31.92, with Brent at $130.18 and WTI at $98.26, so the spread has narrowed by $7.28 in four trading sessions as WTI rose and Brent eased. Even after that narrowing, a premium of this size says the shock is concentrated in internationally traded, seaborne crude rather than U.S. inland supply. That matters for inflation abroad, where Brent-linked fuel costs bite hardest, and for U.S. refiners and exporters, which are buying crude far below the global benchmark.",
+   "source": "U.S. Energy Information Administration via FRED (DCOILBRENTEU, DCOILWTICO)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "checked": "2026-10-16T12:34:06Z"
+  },
   {
    "id": "2026-10-15-credit-spreads",
    "time": "2026-10-15T12:11:06Z",
