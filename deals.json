@@ -123,7 +123,8 @@
       "source_url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-welcomes-selection-of-its-offer-in-tap-air-portugal-privatization-process/",
       "tickers": [
         "XETRA:LHA"
-      ]
+      ],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-14-skeleton-siemens-round",
@@ -141,7 +142,8 @@
       "source_url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
       "tickers": [
         "XETRA:SIE"
-      ]
+      ],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-13-hulic-riso-kyoiku-tob",
@@ -160,7 +162,8 @@
       "tickers": [
         "TSE:3003",
         "TSE:4714"
-      ]
+      ],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-13-nokia-ece-aurelius",
@@ -179,7 +182,8 @@
       "tickers": [
         "HEL:NOKIA",
         "NYSE:NOK"
-      ]
+      ],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-13-tenable-400m-revolver",
@@ -197,7 +201,8 @@
       "source_url": "https://investors.tenable.com/news-releases/news-release-details/tenable-announces-closing-new-400m-secured-revolving-credit",
       "tickers": [
         "NASDAQ:TENB"
-      ]
+      ],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-13-albert-series-b",
@@ -213,7 +218,8 @@
       "take": "Albert, which says it built the first chemistry-native AI operating system for R&D, raised a $55 million Series B led by TCV with new and existing investors including Coatue, Index Ventures and Applied Ventures. The round shows growth investors backing vertical AI aimed at shortening materials and chemical development cycles.",
       "source_name": "Albert press release (Business Wire)",
       "source_url": "https://www.businesswire.com/news/home/20261013059321/en/Albert-Raises-$55M-Series-B-to-Scale-the-First-Chemistry-Native-AI",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-dougs-50m-expedition",
@@ -229,7 +235,8 @@
       "take": "Dougs, which serves more than 50,000 businesses and generates more than €50 million in annual recurring revenue, raised €50 million from existing backer Expedition Growth Capital to expand its AI and automation technology and broaden into legal and financial management. The company is targeting €100 million of ARR and 100,000 customers, a sign of growth capital flowing to profitable-scale European SMB software.",
       "source_name": "Expedition Growth Capital announcement",
       "source_url": "https://expedition.capital/dougs-raises-e50-million-to-accelerate-its-full-stack-ai-powered-accounting-platform/",
-      "tickers": []
+      "tickers": [],
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-14-jio-platforms-ipo-rhp",

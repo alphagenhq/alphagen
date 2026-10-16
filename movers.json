@@ -10,7 +10,8 @@
    "catalyst": "Truist reported Q3 diluted EPS of $0.56 versus $1.04 a year earlier, including a $0.90-a-share AFS securities loss, a $0.36-a-share reserve recapture and $0.06 of RAC sale impacts; adjusted EPS was $1.16.",
    "thesis": "The bank is using the quarter to reposition its securities book and sell RAC loans in one move. Adjusted ROTCE of 14.6% is the figure management wants judged, but the market will want proof that the securities reinvestment lifts net interest income from the 3.00% margin.",
    "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-CFG",
@@ -21,7 +22,8 @@
    "catalyst": "Citizens reported Q3 diluted EPS of $1.41 versus $1.05 and net income of $636 million versus $494 million, on revenue of $2,322 million versus $2,118 million.",
    "thesis": "Net interest income growth of about 13% with roughly flat sequential expenses is the cleanest operating-leverage story among today's regional reporters. Lower provisions add to it, though the preliminary CET1 ratio of 10.5% is below the 10.7% of a year ago.",
    "source_name": "Citizens Financial Q3 2026 financial supplement (SEC 8-K, Ex. 99.3)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000759944/000075994426000206/q326financialsupplement.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000759944/000075994426000206/q326financialsupplement.htm",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-RF",
@@ -30,9 +32,11 @@
    "name": "Regions Financial",
    "headline": "Q3 EPS rises 16% as net charge-offs drop to 0.29%",
    "catalyst": "Regions reported Q3 diluted EPS of $0.71 and adjusted EPS of $0.73, with net charge-offs of $72 million, or 0.29% of average loans, versus $135 million and 0.55% a year earlier.",
-   "thesis": "Credit, not revenue, is driving the beat: total revenue grew about 3% while losses roughly halved. Record capital markets income of $107 million helps diversify fees, but flat deposits keep the balance-sheet growth story modest.",
+   "thesis": "Credit, not revenue, is driving the earnings gain: total revenue grew about 3% while losses roughly halved. Record capital markets income of $107 million helps diversify fees, but flat deposits keep the balance-sheet growth story modest.",
    "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
+   "correction": "Replaced 'the beat' with 'the earnings gain', since the Regions release makes no comparison with analyst estimates.",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-MTB",
@@ -43,7 +47,8 @@
    "catalyst": "M&T reported Q3 diluted EPS of $5.04 versus $4.82, while net income fell to $775 million from $792 million and estimated CET1 fell to 10.16% from 10.99%.",
    "thesis": "Loan growth of about 5% and lower charge-offs are solid, but the per-share gain comes from a shrinking share count. A narrower 3.65% margin and a lower capital ratio make the next leg harder to fund with buybacks alone.",
    "source_name": "M&T Bank Q3 2026 results release (M&T investor relations)",
-   "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results"
+   "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-AA",
@@ -54,7 +59,8 @@
    "catalyst": "Alcoa reported Q3 net income attributable to Alcoa of $483 million, or $1.81 a diluted share, versus $232 million, or $0.88, a year earlier, on revenue of $3,704 million versus $2,995 million.",
    "thesis": "Adjusted EPS of $1.82 was below the $2.12 of Q2, and the Q4 outlook flags about $30 million of unfavorable raw-material and maintenance costs in aluminum plus about $30 million from alumina costs. With volumes reaffirmed, aluminum prices remain the main earnings lever.",
    "source_name": "Alcoa 8-K, Exhibit 99.1 (SEC)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-JBHT",
@@ -65,7 +71,8 @@
    "catalyst": "J.B. Hunt reported Q3 operating revenues of $3.68 billion versus $3.05 billion and diluted EPS of $1.82 versus $1.76, with Dedicated operating income down 22% to $81.7 million.",
    "thesis": "Intermodal loads rose 8%, so volume is there, but fuel and fuel-tax expense of $260.4 million versus $164.0 million absorbed much of the revenue gain. Pricing has to catch up with costs for margins to recover.",
    "source_name": "J.B. Hunt 8-K, Exhibit 99.1 (SEC)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-IBKR",
@@ -76,7 +83,8 @@
    "catalyst": "Interactive Brokers reported Q3 diluted EPS of $0.69 versus $0.59 on net revenues of $1.91 billion versus $1.66 billion, and raised its quarterly dividend to $0.15 from $0.0875.",
    "thesis": "Net interest income of $1.15 billion is nearly double $602 million of commissions, tying earnings to client cash, margin balances and the rate path. Customer accounts up 35% to 5.58 million keep the base compounding, while the 78% pretax margin slipped from 79%.",
    "source_name": "Interactive Brokers 8-K, Exhibit 99.1 (SEC)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
+   "checked": "2026-10-16T11:59:19Z"
   },
   {
    "id": "2026-10-16-FHN",
@@ -87,7 +95,8 @@
    "catalyst": "First Horizon reported a Q3 net loss available to common shareholders of $94 million, or $0.20 a share, versus EPS of $0.50 a year earlier, after a $473 million pretax loss on about $4.5 billion of consumer mortgages moved to held for sale; adjusted EPS was $0.53 versus $0.51.",
    "thesis": "The bank says the sale will be accretive to earnings going forward, the same trade-off Truist made today with its securities book. The cost is capital: preliminary CET1 fell to 10.3% from 11.0% a year ago.",
    "source_name": "First Horizon Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm"
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm",
+   "checked": "2026-10-16T11:59:19Z"
   }
  ]
 }

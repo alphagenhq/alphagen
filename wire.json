@@ -49,7 +49,8 @@
       "take": "Truist reported third-quarter net income available to common shareholders of $0.68 billion, or $0.56 a diluted share, versus $1.04 a year earlier, as total revenue fell to $3.75 billion from $5.19 billion. Excluding a $0.90-a-share loss on AFS securities sales, a $0.36-a-share reserve recapture and $0.06 of impacts tied to the sale of Regional Acceptance Corporation loans, adjusted EPS was $1.16; taxable-equivalent net interest income rose to $3.71 billion and the margin was 3.00%. The quarter is a deliberate reset rather than an operating miss: adjusted ROTCE of 14.6% versus 7.2% reported shows how much of the hit was one-time.",
       "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
-      "ticker": "NYSE:TFC"
+      "ticker": "NYSE:TFC",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-tfc-rac-sale-reserve-release",
@@ -59,7 +60,8 @@
       "take": "Truist recorded a $253 million provision benefit, including a $581 million release of remaining allowance tied to Regional Acceptance Corporation, while the RAC sale pushed the net charge-off ratio to 0.77%, of which 39 basis points relate to RAC, including $251 million of charge-offs on the transfer to held for sale. The RAC sale accounted for $5.5 billion of a $5.9 billion drop in period-end loans held for investment, and preliminary CET1 eased to 10.7% from 10.9% in the second quarter after $1.2 billion of buybacks. Moving a book with elevated losses off the balance sheet means future charge-off ratios should be read against a smaller, different loan base.",
       "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
-      "ticker": "NYSE:TFC"
+      "ticker": "NYSE:TFC",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-cfg-q3",
@@ -69,7 +71,8 @@
       "take": "Citizens Financial reported third-quarter net income of $636 million and diluted EPS of $1.41, versus $494 million and $1.05 a year earlier, on total revenue of $2,322 million versus $2,118 million. Net interest income rose to $1,675 million from $1,488 million as the net interest margin widened to 3.18% from 2.99%, while the provision fell to $125 million from $154 million. Margin expansion is doing the heavy lifting here, with expenses up only modestly at $1,393 million versus $1,335 million.",
       "source_name": "Citizens Financial Q3 2026 financial supplement (SEC 8-K, Ex. 99.3)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000759944/000075994426000206/q326financialsupplement.htm",
-      "ticker": "NYSE:CFG"
+      "ticker": "NYSE:CFG",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-ea-hicp-final-sep",
@@ -78,7 +81,8 @@
       "headline": "Euro-area inflation at 3.8% in September in final data, up from 3.2%",
       "take": "Eurostat put euro-area annual HICP inflation at 3.8% in September, up from 3.2% in August and 2.2% a year earlier; EU inflation was also 3.8%. Energy contributed 1.71 percentage points and services 1.52 points, with services inflation at 3.2% versus 3.0% in August. The services uptick matters more for the ECB than the energy spike, because it is the part of inflation that policy rates are meant to lean against.",
       "source_name": "Eurostat: Euro indicators, HICP September 2026 (16 October 2026)",
-      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-rf-q3",
@@ -88,7 +92,8 @@
       "take": "Regions reported third-quarter net income available to common shareholders of $611 million, or $0.71 a diluted share, which it said was up 11% and 16% from a year earlier; adjusted EPS was $0.73. Total revenue rose to $1,973 million from $1,916 million, with net interest income of $1,298 million versus $1,257 million and a 3.68% margin versus 3.59%. Revenue growth of about 3% is modest, so the earnings gain rests largely on lower credit costs.",
       "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
-      "ticker": "NYSE:RF"
+      "ticker": "NYSE:RF",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-mtb-q3",
@@ -98,7 +103,8 @@
       "take": "M&T Bank reported third-quarter diluted EPS of $5.04 versus $4.82 a year earlier, although net income fell to $775 million from $792 million. Taxable-equivalent net interest income rose to $1,805 million from $1,773 million, but the margin narrowed to 3.65% from 3.69%, and estimated CET1 fell to 10.16% from 10.99% after $323 million of buybacks in the quarter. Per-share growth on lower profit is a buyback story, and the lower capital ratio limits how long that lever can run at this pace.",
       "source_name": "M&T Bank Q3 2026 results release (M&T investor relations)",
       "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
-      "ticker": "NYSE:MTB"
+      "ticker": "NYSE:MTB",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-ea-energy-hicp-18-9",
@@ -107,7 +113,8 @@
       "headline": "Euro-area energy prices up 18.9% on the year in September",
       "take": "Eurostat's final September data show euro-area energy prices up 18.9% year over year, versus 14.3% in August, with a 4.0% month-on-month rise; energy alone added 1.71 percentage points to 3.8% headline inflation. Among large economies, national rates were 5.0% in Spain, 4.2% in Italy, 3.4% in France and 3.3% in Germany. The spread across countries reflects how differently energy costs pass through to households, which complicates a single ECB response.",
       "source_name": "Eurostat: Euro indicators, HICP September 2026 (16 October 2026)",
-      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-rf-charge-offs-0-29",
@@ -117,7 +124,8 @@
       "take": "Regions reported third-quarter net charge-offs of $72 million, an annualized 0.29% of average loans, versus $135 million and 0.55% a year earlier. Average loans rose to $99.2 billion from $96.6 billion, while average deposits were roughly flat at $129.1 billion versus $129.6 billion. Halving losses while loans grew points to a cleaner credit book, though flat deposits leave funding growth as the constraint.",
       "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
-      "ticker": "NYSE:RF"
+      "ticker": "NYSE:RF",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-16-import-prices-ip-today",
@@ -146,7 +154,8 @@
       "take": "Portugal's government selected Lufthansa Group's offer of EUR 1.025 billion for a 44.9 percent stake in TAP Air Portugal, rising to up to EUR 1.2 billion for 49.9 percent; Lufthansa expects to sign the agreements shortly, with completion subject to regulatory approval. AlphaGen read: this gives Lufthansa a minority foothold in TAP's Atlantic network, and the regulatory reviews are the remaining gate.",
       "source_name": "Lufthansa Group press release",
       "source_url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-welcomes-selection-of-its-offer-in-tap-air-portugal-privatization-process/",
-      "ticker": "XETRA:LHA"
+      "ticker": "XETRA:LHA",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-wire-skeleton-siemens",
@@ -156,7 +165,8 @@
       "take": "Skeleton Technologies says a nine-figure round led by Siemens lifts its valuation above $1 billion; the money mainly funds U.S. manufacturing expansion, and the company plans to invest more than $200 million in scale-up and R&D in Silicon Valley. AlphaGen read: a strategic lead from Siemens links Skeleton's supercapacitor tech more tightly to data-center power demand, though the round size was not disclosed.",
       "source_name": "Skeleton Technologies press release",
       "source_url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
-      "ticker": "XETRA:SIE"
+      "ticker": "XETRA:SIE",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-wire-hulic-riso",
@@ -166,7 +176,8 @@
       "take": "Hulic, holder of 50.87% of Riso Kyoiku Group, launched a tender offer at 295 yen per share running October 14 to November 26, 2026, aiming to make the company a wholly owned subsidiary and delist it. AlphaGen read: it adds to the run of Japanese parent-subsidiary buyouts as groups simplify listed structures.",
       "source_name": "Riso Kyoiku Group tender offer announcement",
       "source_url": "https://www.riso-kyoikugroup.com/img/20261013_03_ENG.pdf",
-      "ticker": "TSE:3003"
+      "ticker": "TSE:3003",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-wire-nokia-aurelius",
@@ -176,7 +187,8 @@
       "take": "Nokia signed a definitive agreement to sell its Enterprise Campus Edge private-wireless business, serving nearly 900 customers, to AURELIUS; terms were not disclosed and closing is expected in the first half of 2027. AlphaGen read: the carve-out continues Nokia's portfolio narrowing, moving a niche enterprise unit to a carve-out specialist.",
       "source_name": "Nokia press release",
       "source_url": "https://www.nokia.com/newsroom/nokia-to-sell-enterprise-campus-edge-business-to-aurelius/",
-      "ticker": "NYSE:NOK"
+      "ticker": "NYSE:NOK",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-ecb-schnabel-imf-exit",
@@ -195,7 +207,8 @@
       "headline": "CBO pegs the FY2026 federal deficit at $2.0T, $218B wider than FY2025",
       "take": "The Congressional Budget Office estimates the fiscal 2026 deficit at $2.0 trillion, $218 billion more than in fiscal 2025. Revenues rose an estimated $169 billion, or 3%, while outlays climbed $386 billion, or 6%, led by net interest on the debt, major benefit programs, defense and education. With spending growth running at twice the pace of receipts and interest costs among the leaders, Treasury supply pressure on the long end is unlikely to ease into fiscal 2027.",
       "source_name": "Congressional Budget Office: Monthly Budget Review, September 2026",
-      "source_url": "https://www.cbo.gov/publication/61985"
+      "source_url": "https://www.cbo.gov/publication/61985",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-cftc-crypto-anprm",
@@ -204,7 +217,8 @@
       "headline": "CFTC seeks comment on rules for retail crypto trades and a 'crypto asset market'",
       "take": "The CFTC issued an advance notice of proposed rulemaking on 'Regulation Crypto Asset Transactions' and 'Regulation Crypto Asset Markets,' covering retail commodity transactions in crypto assets under section 2(c)(2)(D) of the Commodity Exchange Act, including a proposed designated-contract-market subcategory called a 'crypto asset market.' Comments are due 60 days after Federal Register publication. An ANPRM is the earliest stage of rulemaking, but it signals the CFTC intends to build a dedicated venue framework for retail crypto spot-style trading rather than regulate it case by case.",
       "source_name": "CFTC Press Release 9307-26",
-      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26"
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-boe-benjamin-repo-leverage",
@@ -213,7 +227,8 @@
       "headline": "BoE flags gilt repo leverage; policy proposals due in early 2027",
       "take": "Bank of England executive director Nathanaël Benjamin said 'doing nothing is not an option' on gilt repo resilience and that 'out-of-control leverage is unwelcome,' with a comprehensive update and potential policy proposals planned for early 2027. He cited Bank research estimating that more central clearing could have cut gilt repo exposures on UK dealer balance sheets by 40% to 60% during the 2020 'dash for cash.' Central clearing and tighter haircuts would raise the cost of leveraged basis trades, a risk worth watching for hedge-fund demand at gilt and, by extension, Treasury auctions.",
       "source_name": "Bank of England: Speech by Nathanaël Benjamin (ISDA forum)",
-      "source_url": "https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum"
+      "source_url": "https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-boe-weekly-reserves",
@@ -222,7 +237,8 @@
       "headline": "BoE reserve balances slip £3.6B to £645.9B; short-term repo at £132.1B",
       "take": "Reserve balances at the Bank of England fell to £645.9 billion in the week to Oct. 14 from £649.6 billion a week earlier, while short-term repo lending eased to £132.1 billion from £133.4 billion, per the Bank's weekly report. The loan to the Asset Purchase Facility was unchanged at £521.8 billion. Repo usage of more than £130 billion shows banks are leaning steadily on Bank facilities as quantitative tightening drains reserves.",
       "source_name": "Bank of England Weekly Report, 14 October 2026",
-      "source_url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026"
+      "source_url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-meta-q3-date",
@@ -232,7 +248,8 @@
       "take": "Meta Platforms said it will release third-quarter 2026 results after market close on Wednesday, Oct. 21, with a conference call at 4:30 p.m. ET. Its capital-spending commentary will be an early read on how large platforms are budgeting for AI infrastructure into 2027.",
       "source_name": "Meta Investor Relations",
       "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx",
-      "ticker": "NASDAQ:META"
+      "ticker": "NASDAQ:META",
+      "checked": "2026-10-16T11:59:19Z"
     },
     {
       "id": "2026-10-15-wire-jio-rhp",

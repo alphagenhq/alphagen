@@ -335,6 +335,20 @@
       "id": "2026-10-15-boe-mann-follow-through",
       "action": "removed",
       "detail": "Cited BoE speech (Oct. 1) does not support the 6-3 September vote split, 4%/3.75% rates, Greene and Pill votes, 3.1% August CPI, or a 'September minutes' projection of 'slightly above 4%' (speech says September forecast 'over 4% in Q1 2027'); claims unverifiable at source."
+    },
+    {
+      "time": "2026-10-16T11:59:19Z",
+      "file": "movers.json",
+      "id": "2026-10-16-RF",
+      "action": "corrected",
+      "detail": "Replaced 'the beat' with 'the earnings gain', since the Regions release makes no comparison with analyst estimates."
+    },
+    {
+      "time": "2026-10-16T11:59:19Z",
+      "file": "notes.json",
+      "id": "2026-10-16-morning-brief",
+      "action": "corrected",
+      "detail": "Changed 'after Thursday's close' to 'on Thursday', since First Horizon's October 15 release does not state that it was issued after the close."
     }
   ]
 }
