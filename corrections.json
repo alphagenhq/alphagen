@@ -20,6 +20,335 @@
       "id": "2026-10-13-porch-allied-trust",
       "action": "corrected",
       "detail": "Headline and value_text described $200M as the combined base price; per the Porch 8-K the base prices total $150M ($55M Reciprocal + $95M Porch) and $200M includes $50M of deferred consideration."
+    },
+    {
+      "time": "2026-10-15T00:58:00Z",
+      "file": "deals.json",
+      "id": "2026-10-13-dsg-gradeeight",
+      "action": "removed",
+      "detail": "Removed because the cited source is a news-outlet/syndicator copy (financialcontent.com repost of a Business Wire release), not a primary source."
+    },
+    {
+      "time": "2026-10-15T00:58:00Z",
+      "file": "deals.json",
+      "id": "2026-10-13-souffle-series-b",
+      "action": "removed",
+      "detail": "Removed because the cited source is a news-outlet/syndicator copy (Yahoo Finance repost of a Business Wire release), not a primary source."
+    },
+    {
+      "time": "2026-10-15T00:58:00Z",
+      "file": "deals.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "removed",
+      "detail": "Removed because the cited source is a news-outlet/syndicator copy (Manila Times repost of a GlobeNewswire release), not a primary source."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "wire.json",
+      "id": "2026-10-12-steris-xodus-medical",
+      "action": "corrected",
+      "detail": "Headline corrected to describe Xodus Medical as a specialty surgical products maker, as the 8-K states, rather than a surgical safety products maker."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-12-steris-xodus-medical",
+      "action": "corrected",
+      "detail": "Headline corrected to describe Xodus Medical as a specialty surgical products maker, as the 8-K states, rather than a surgical safety products maker."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-13-brookdale-welltower-30",
+      "action": "corrected",
+      "detail": "Corrected the closing date of the separate 17-community purchase to September 30, not the same day as the Welltower announcement."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-14-cipher-digital-converts",
+      "action": "corrected",
+      "detail": "Clarified that the exchange of 2030 notes is expected, not completed, per the release."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-14-payward-saldo-bank",
+      "action": "corrected",
+      "detail": "Corrected the target to Saldo Finance Oy, the parent of Saldo Bank UAB, and removed the unsupported word \"full\" before EU banking license."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "wire.json",
+      "id": "2026-10-13-agility-tristar-aegis",
+      "action": "corrected",
+      "detail": "The release gives Tristar's $1.4 billion revenue as an annual figure without attributing it to 2025; wording corrected."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "deals.json",
+      "id": "2026-10-13-agility-tristar-aegis",
+      "action": "corrected",
+      "detail": "The release gives Tristar's $1.4 billion revenue and $257 million EBITDA as annual figures without attributing them to 2025; wording corrected."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "wire.json",
+      "id": "2026-10-14-steo-diesel",
+      "action": "corrected",
+      "detail": "Corrected the Dallas Fed Beige Book reference: diesel was the most commonly cited cost driver, not the top cost driver."
+    },
+    {
+      "time": "2026-10-15T01:52:36Z",
+      "file": "notes.json",
+      "id": "2026-10-14-fannie-forecast-higher-for-longer",
+      "action": "corrected",
+      "detail": "Corrected the description of September's rate path: it eased slightly into 2027 and then held flat at 6.7%, rather than edging down through 2027."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "wire.json",
+      "id": "2026-10-15-tsmc-q3",
+      "action": "corrected",
+      "detail": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since the Q4 guide midpoint (+14.1% q/q) is below Q3's 16.2% q/q US$ growth."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "wire.json",
+      "id": "2026-10-14-fannie-forecast-rates",
+      "action": "corrected",
+      "detail": "Fannie Mae's September forecast had rates rising to 6.8% in 4Q26 then holding at 6.7%, not drifting lower; wording corrected."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "movers.json",
+      "id": "2026-10-15-TSM",
+      "action": "corrected",
+      "detail": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since guided Q4 sequential growth (+14.1%) is below Q3's 16.2%."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "movers.json",
+      "id": "2026-10-15-BK",
+      "action": "corrected",
+      "detail": "Specified that the 11.7% CET1 comparison is year-ago (11.0% at June 30) and removed the unsupported attribution to capital return; BNY attributes the decline to lower capital."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "movers.json",
+      "id": "2026-10-15-ERIC",
+      "action": "corrected",
+      "detail": "Changed headline from 'return to 7% growth' to 'grow 7%', as the release does not describe a return to growth."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "deals.json",
+      "id": "2026-10-14-fairfax-idbi-bank",
+      "action": "corrected",
+      "detail": "Fairfax India Holdings is a co-announcer contributing its IIFL Capital stake, not a buyer of the 60.72% stake; parties corrected."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "notes.json",
+      "id": "2026-10-15-beige-book-energy-vs-demand",
+      "action": "corrected",
+      "detail": "The quoted oil-price line is the fourth sentence of the Beige Book prices section, not its opening; wording corrected."
+    },
+    {
+      "time": "2026-10-15T12:08:25Z",
+      "file": "notes.json",
+      "id": "2026-10-14-eia-steo-oil-supply",
+      "action": "corrected",
+      "detail": "Aligned the price-outlook paraphrase with EIA's wording, which ties elevated prices to Middle East flow constraints and a gradual decline to inventory rebuilding."
+    },
+    {
+      "time": "2026-10-15T12:54:47Z",
+      "file": "wire.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "removed",
+      "detail": "Removed: the only source is a TheTechOutlook repost of ICON's press release, a news outlet rather than a primary source."
+    },
+    {
+      "time": "2026-10-15T12:54:47Z",
+      "file": "deals.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "removed",
+      "detail": "Removed: the only source is a TheTechOutlook repost of ICON's press release, a news outlet rather than a primary source."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "wire.json",
+      "id": "2026-10-15-ppi-core-pipeline",
+      "action": "corrected",
+      "detail": "Removed the unverified claim that the August 12-month rate for final demand less foods, energy and trade services was 4.8%; BLS first reported 4.7% for August."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "notes.json",
+      "id": "2026-10-15-ppi-pipeline",
+      "action": "corrected",
+      "detail": "Removed the unverified claim that the August 12-month rate for final demand less foods, energy and trade services was 4.8%; BLS first reported 4.7% for August."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "wire.json",
+      "id": "2026-10-15-china-ppi-cpi-sep",
+      "action": "corrected",
+      "detail": "Removed an unverified figure of a 14.9% rise in transport fuel prices, which could not be confirmed in NBS data."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "wire.json",
+      "id": "2026-10-15-ea-industrial-production-aug",
+      "action": "corrected",
+      "detail": "Corrected the description of August's decline: non-durable consumer goods (-2.7%), not intermediate goods (-0.8%), fell most."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "wire.json",
+      "id": "2026-10-14-labelbox-series-e",
+      "action": "corrected",
+      "detail": "Clarified that the press release, not Labelbox overall, omitted a valuation; the company's blog cited a $1.25 billion pre-money valuation."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "deals.json",
+      "id": "2026-10-14-labelbox-series-e",
+      "action": "corrected",
+      "detail": "Clarified that the press release, not Labelbox overall, omitted a valuation; the company's blog cited a $1.25 billion pre-money valuation."
+    },
+    {
+      "time": "2026-10-15T16:46:43Z",
+      "file": "wire.json",
+      "id": "2026-10-15-eqt-stockbridge",
+      "action": "corrected",
+      "detail": "Reworded the attribution of the $35–45 million 2027 fee-related EBITDA projection, which is described as Stockbridge's projection."
+    },
+    {
+      "time": "2026-10-15T17:51:00Z",
+      "file": "wire.json",
+      "id": "2026-10-15-labcorp-bioreference-assets",
+      "action": "corrected",
+      "detail": "Changed the $150 million earnout to 'up to $150 million'; the release describes it as a maximum contingent on 4Kscore Test revenue."
+    },
+    {
+      "time": "2026-10-15T17:51:00Z",
+      "file": "deals.json",
+      "id": "2026-10-15-labcorp-bioreference-assets",
+      "action": "corrected",
+      "detail": "Changed the $150 million earnout to 'up to $150 million'; the release describes it as a maximum contingent on 4Kscore Test revenue."
+    },
+    {
+      "time": "2026-10-15T17:51:00Z",
+      "file": "notes.json",
+      "id": "2026-10-15-morning-brief",
+      "action": "corrected",
+      "detail": "Corrected the Beige Book description to 'little or no change' in consumer spending (not 'flat or slightly lower') and the EIA petroleum report time to 12:00 p.m. ET only, per the EIA release schedule."
+    },
+    {
+      "time": "2026-10-15T17:51:00Z",
+      "file": "wire.json",
+      "id": "2026-10-09-debt",
+      "action": "removed",
+      "detail": "Removed: the Oct. 9 Debt to the Penny figures could not be confirmed at the Treasury source, and Oct. 13 data was already the latest daily report when the item was published, contradicting 'latest daily report'."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "wire.json",
+      "id": "2026-10-15-schw-q3",
+      "action": "corrected",
+      "detail": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "wire.json",
+      "id": "2026-10-13-icon-series-d",
+      "action": "corrected",
+      "detail": "Corrected '270 printed buildings' to 'more than 270 homes and structures' and attributed the $370 million in government contracts to ICON Prime, per the release."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "wire.json",
+      "id": "2026-10-13-nokia-aurelius-campus-edge",
+      "action": "removed",
+      "detail": "Removed: claim that Nokia already presents Enterprise Campus Edge as a discontinued operation is not in Nokia's release and could not be verified."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "movers.json",
+      "id": "2026-10-15-SCHW",
+      "action": "corrected",
+      "detail": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "earnings.json",
+      "id": "2026-10-15-SCHW-Q3",
+      "action": "corrected",
+      "detail": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "deals.json",
+      "id": "2026-10-13-nokia-aurelius-campus-edge",
+      "action": "removed",
+      "detail": "Removed: claim that Nokia already reports Enterprise Campus Edge as a discontinued operation is not in Nokia's release and could not be verified."
+    },
+    {
+      "time": "2026-10-15T18:57:36Z",
+      "file": "deals.json",
+      "id": "2026-10-14-skeleton-siemens-investment",
+      "action": "removed",
+      "detail": "Removed: the 'exclusive partnership' with Siemens could not be verified from the source; Skeleton's release page was not accessible and coverage of it describes no exclusivity."
+    },
+    {
+      "time": "2026-10-15T21:50:56Z",
+      "file": "wire.json",
+      "id": "2026-10-15-chubby-group-series-a-gen",
+      "action": "corrected",
+      "detail": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release."
+    },
+    {
+      "time": "2026-10-15T21:50:56Z",
+      "file": "movers.json",
+      "id": "2026-10-15-JBHT",
+      "action": "corrected",
+      "detail": "Replaced an unsupported claim that diesel stays expensive with the release's reported rise in fuel and fuel-tax expense ($260.4 million vs. $164.0 million)."
+    },
+    {
+      "time": "2026-10-15T21:50:56Z",
+      "file": "deals.json",
+      "id": "2026-10-15-chubby-group-series-a-gen",
+      "action": "corrected",
+      "detail": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release."
+    },
+    {
+      "time": "2026-10-15T22:38:47Z",
+      "file": "wire.json",
+      "id": "2026-10-15-fhn-mortgage-sale",
+      "action": "corrected",
+      "detail": "The $347 million after-tax figure was attributed to the $473 million pretax mortgage-sale loss; per the 8-K release it is the after-tax total of all notable items."
+    },
+    {
+      "time": "2026-10-15T23:58:00Z",
+      "file": "wire.json",
+      "id": "2026-10-15-boe-mann-follow-through",
+      "action": "removed",
+      "detail": "Cited BoE speech (Oct. 1) does not support the 6-3 September vote split, 4%/3.75% rates, Greene and Pill votes, 3.1% August CPI, or a 'September minutes' projection of 'slightly above 4%' (speech says September forecast 'over 4% in Q1 2027'); claims unverifiable at source."
+    },
+    {
+      "time": "2026-10-16T11:59:19Z",
+      "file": "movers.json",
+      "id": "2026-10-16-RF",
+      "action": "corrected",
+      "detail": "Replaced 'the beat' with 'the earnings gain', since the Regions release makes no comparison with analyst estimates."
+    },
+    {
+      "time": "2026-10-16T11:59:19Z",
+      "file": "notes.json",
+      "id": "2026-10-16-morning-brief",
+      "action": "corrected",
+      "detail": "Changed 'after Thursday's close' to 'on Thursday', since First Horizon's October 15 release does not state that it was issued after the close."
     }
   ]
 }

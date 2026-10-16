@@ -177,7 +177,7 @@ function renderResearch(v){
   if(!items.length){v.el.innerHTML='<div class="empty"><b>Nothing in this category yet.</b>New AlphaGen research appears here as soon as it\'s published.</div>';return}
   items.forEach(p=>{
     const a=document.createElement("a"); a.className="note"; a.href=p.link; if(p.kind==="newsletter"){a.target="_blank";a.rel="noopener"}
-    const th=p.img?'<img src="'+esc(p.img)+'" alt="" loading="lazy" onerror="this.src=\'/logo-192.png\';this.className=\'lg\'">':(p.kind==="note"?'<span class="glyph">'+(p.series==="morning-brief"?"AM":p.series==="the-close"?"PM":p.series==="week-ahead"?"WK":"AG")+'</span>':'<img class="lg" src="/logo-192.png" alt="">');
+    const th=p.img?'<img src="'+esc(p.img)+'" alt="" loading="lazy" onerror="this.src=\'/logo-192.png\';this.className=\'lg\'">':(p.kind==="note"&&p.series?'<span class="glyph">'+(p.series==="morning-brief"?"AM":p.series==="the-close"?"PM":"WK")+'</span>':'<img class="lg" src="/logo-192.png" alt="">');
     a.innerHTML='<div class="th">'+th+'</div><div><div class="meta"><span><span class="tag">'+esc(LABEL[p.topic])+'</span> <span class="tag tk">'+(p.series?SERIES_LABEL[p.series]||"Brief":p.kind==="note"?"AlphaGen Note":"Newsletter")+'</span></span><span>'+esc(fmtDate(p.date))+'</span></div><h3>'+esc(p.title)+'</h3><p>'+esc(p.desc||"")+'</p></div>';
     v.el.appendChild(a);
   });

@@ -426,3 +426,62 @@ function renderCalendar(root){
 function fmtT(t){const [h,m]=t.split(":").map(Number);return((h%12)||12)+":"+String(m).padStart(2,"0")+(h<12?" a.m.":" p.m.")}
 $$("[data-calendar]").forEach(renderCalendar);
 })();
+
+/* ===== Desk stats + Institutional sample edition ===== */
+(function(){
+"use strict";
+const $$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const DATA="https://raw.githubusercontent.com/alphagenhq/alphagen/data/";
+const get=n=>fetch(DATA+n).then(r=>{if(!r.ok)throw 0;return r.json()}).catch(()=>fetch("/"+n,{cache:"no-store"}).then(r=>r.json())).catch(()=>({items:[]}));
+const live=a=>(a||[]).filter(i=>!i.time||new Date(i.time)<=Date.now()).sort((x,y)=>new Date(y.time)-new Date(x.time));
+let ALL=null;
+function load(){if(ALL)return ALL;return ALL=Promise.all(["wire.json","notes.json","deals.json","earnings.json","charts.json","movers.json","corrections.json"].map(get)).then(([w,n,d,e,c,m,k])=>({w:live(w.items),n:live(n.items),d:live(d.items),e:live(e.items),c:live(c.items),m:live(m.items),k:k.items||[]}))}
+function countUp(el,to){const dur=1100,t0=performance.now();const pct=el.dataset.k==="coverage";const fmt=v=>Math.round(v).toLocaleString("en-US")+(pct?"%":"");if(matchMedia("(prefers-reduced-motion: reduce)").matches){el.textContent=fmt(to);return}const step=t=>{const p=Math.min(1,(t-t0)/dur);el.textContent=fmt(to*(1-Math.pow(1-p,3)));if(p<1)requestAnimationFrame(step)};requestAnimationFrame(step)}
+function stats(D){
+  const items=[...D.w,...D.n,...D.d,...D.e,...D.c,...D.m];
+  const srcs=new Set();items.forEach(i=>{const u=[i.source_url,...(i.sources||[]).map(s=>s.url)];u.forEach(x=>{try{if(x)srcs.add(new URL(x).hostname.replace(/^www\./,""))}catch(e){}})});
+  const tags=new Set(D.w.map(i=>(i.tag||"").toUpperCase()).filter(Boolean));
+  const checked=items.filter(i=>i.checked).length;
+  const tickers=new Set();[...D.w,...D.m,...D.e].forEach(i=>i.ticker&&tickers.add(i.ticker));D.d.forEach(x=>(x.tickers||[]).forEach(t=>tickers.add(t)));
+  return {coverage:items.length?Math.round(checked/items.length*100):0,pieces:D.w.length+D.n.length+D.d.length+D.e.length+D.c.length,wire:D.w.length,research:D.n.length+D.c.length,deals:D.d.length,earnings:D.e.length,checked,corrections:D.k.length,sources:srcs.size,markets:tags.size,companies:tickers.size};
+}
+$$("[data-deskstats]").forEach(el=>{
+  const keys=(el.dataset.deskstats||"pieces,checked,sources,markets,companies,corrections").split(",");
+  const L={coverage:["% re-verified at source","Checked by the fact desk"],pieces:["Pieces published","Wire, research, deals, earnings, charts"],wire:["Wire pieces","Source-linked market news"],research:["Research & charts","Notes, briefs, Chart of the Day"],deals:["Deals logged","M&A, VC, PE, IPO, debt"],earnings:["Earnings reports","Figures from filings"],checked:["Independently re-checked","By the AlphaGen fact desk"],corrections:["Corrections logged","Published openly"],sources:["Primary sources","Agencies, central banks, filings"],markets:["Markets covered","Rates to crypto"],companies:["Companies covered","Across Wire, deals, earnings"]};
+  el.innerHTML=keys.map(k=>`<div class="ds"><div class="ds-v num" data-k="${k}">0</div><div class="ds-k">${esc(L[k][0])}</div><div class="ds-s">${esc(L[k][1])}</div></div>`).join("");
+  load().then(D=>{const s=stats(D);keys.forEach(k=>{const v=el.querySelector(`[data-k="${k}"]`);if(v)countUp(v,s[k]||0)})});
+});
+
+/* Sample edition preview */
+(function(){
+  const root=document.getElementById("sample-edition"); if(!root) return;
+  const brands={alphagen:{name:"AlphaGen",accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. For informational purposes only; not investment advice."},
+    firm:{name:"Example Firm",accent:"#c9a24b",logo:'<span class="mock-mark">EF</span>',word:'Example <span style="color:#c9a24b">Wealth Partners</span>',from:"Example Wealth Partners",foot:"Research prepared for Example Wealth Partners clients. For informational purposes only; not investment advice. [Your firm's disclosures appear here.]"}};
+  let mode="alphagen", D=null;
+  const draw=()=>{if(!D)return;const b=brands[mode];
+    const brief=D.n.find(n=>n.series==="morning-brief")||D.n[0]; const ch=D.c[0]; const wires=D.w.slice(0,3);
+    root.style.setProperty("--brand",b.accent);
+    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)}</span><span><b>Subject:</b> ${esc(brief?brief.title:"This week in markets")}</span></div>
+    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(new Date().toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric"}))}</span></div>
+    ${brief?`<div class="mail-sec"><div class="mail-kick">This week's thesis</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,4).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
+    ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the week</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ")+".")}</p></div>`:""}
+    ${wires.length?`<div class="mail-sec"><div class="mail-kick">What else moved</div>${wires.map(w=>`<p class="mail-w"><b>${esc(w.headline)}</b></p>`).join("")}</div>`:""}
+    <div class="mail-foot">${esc(b.foot)}</div>`;
+    const cap=root.querySelector(".social-cap"); if(cap&&brief){const k=(brief.key_points||[])[0]||brief.dek||"";cap.innerHTML=`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div><p>${esc(brief.title)}</p><p>${esc(k)}</p><p class="sc-tags">#markets #macro #investing</p>`}
+  };
+  root.querySelectorAll("[data-brand]").forEach(btn=>btn.addEventListener("click",()=>{mode=btn.dataset.brand;root.querySelectorAll("[data-brand]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
+  load().then(d=>{D=d;draw()});
+})();
+
+/* Pilot request form */
+(function(){
+  const f=document.getElementById("pilot-form"); if(!f) return;
+  f.addEventListener("submit",e=>{
+    e.preventDefault(); const btn=f.querySelector("button[type=submit]"); btn.disabled=true; btn.textContent="Sending…";
+    const body=new URLSearchParams(new FormData(f)).toString();
+    fetch("/",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body}).then(r=>{if(!r.ok)throw 0;f.innerHTML='<div class="pilot-ok"><b>Request received.</b> The AlphaGen desk will follow up within one business day with a sample edition for your firm.</div>'})
+    .catch(()=>{btn.disabled=false;btn.textContent="Request a pilot";const m=f.querySelector(".form-err");m.hidden=false});
+  });
+})();
+})();

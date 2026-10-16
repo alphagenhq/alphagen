@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "9"  # asset version
+V = "10"  # asset version
 
 def load(name):
     try:
@@ -57,6 +57,7 @@ NAV = [
                                 ("crypto", "/crypto", "Crypto", "Bitcoin, ether, digital assets")]),
     ("charts", "/charts", "Charts", None),
     ("research", "/research", "Research", None),
+    ("institutional", "/institutional", "Institutional", None),
 ]
 
 TAPE = ",".join(["FOREXCOM:SPXUSD", "FOREXCOM:NSXUSD", "FOREXCOM:DJI", "AMEX:IWM", "NASDAQ:NVDA", "NASDAQ:AAPL",
@@ -104,7 +105,7 @@ def header(active):
             items = "".join(f'<a href="{h}"{cur if k == active else ""}>{n}<small>{d}</small></a>' for k, h, n, d in sub)
             parts.append(f'<div class="dd{" cur" if on else ""}"><button type="button">{label}</button><div class="dd-menu">{items}</div></div>')
         else:
-            parts.append(f'<a class="txt" href="{href}"{cur if key == active else ""}>{label}</a>')
+            parts.append(f'<a class="txt{" inst" if key == "institutional" else ""}" href="{href}"{cur if key == active else ""}>{label}</a>')
     return f'''<div class="statusbar"><div class="wrap"><span class="mkt" id="mkt"><i></i><b>NYSE</b></span><div class="crawl" id="crawl" aria-live="off"></div><span class="clock" id="clock"></span></div></div>
 <header class="mast">
   <div class="wrap">
@@ -154,7 +155,7 @@ def footer(extra=""):
       </div>
       {col("Markets", [("/wire","The Wire"),("/equities","Equities & movers"),("/earnings","Earnings scorecard"),("/deals","Deals & private markets"),("/stocks","Stock coverage"),("/commodities","Commodities & energy"),("/crypto","Crypto")])}
       {col("Rates & macro", [("/rates","Rates & debt"),("/fed","Fed Watch"),("/auctions","Treasury auctions"),("/credit","Credit"),("/dashboard","Macro dashboard"),("/global","Global markets"),("/housing","Housing"),("/charts","Charts")])}
-      {col("AlphaGen", [("/research","Research"),("/search","Search"),("/about","About"),("/methodology","Methodology"),("/standards","Editorial standards"),("/disclosures","Disclosures"),("/privacy","Privacy"),("/terms","Terms")])}
+      {col("AlphaGen", [("/institutional","Institutional resources"),("/research","Research"),("/search","Search"),("/about","About"),("/methodology","Methodology"),("/standards","Editorial standards"),("/disclosures","Disclosures"),("/privacy","Privacy"),("/terms","Terms")])}
     </div>
     <div class="copy">© 2026 AlphaGen Research. Live stock charts by TradingView. Crypto prices from Coinbase. Economic data from FRED (Federal Reserve Bank of St. Louis), the U.S. Treasury, and the agencies cited.</div>
   </div>
@@ -361,6 +362,12 @@ home = f'''<div class="wrap">
 </div>
 <section>
   <div class="wrap">
+    {sec_head("The AlphaGen desk", "Research at machine scale, sourced like a desk", '<a class="btn ghost" href="/methodology">How it works →</a>')}
+    <div class="deskstats" data-deskstats="pieces,checked,sources,markets,companies,deals"></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
     {sec_head("Today's desk", "The daily AlphaGen lineup", '<a class="btn ghost" href="/research">All research →</a>')}
     <div class="desk-strip" data-desk></div>
   </div>
@@ -388,6 +395,11 @@ home = f'''<div class="wrap">
     {sec_head("Macro dashboard", "The macro pulse", '<a class="btn ghost" href="/dashboard">Full dashboard →</a>')}
     <div class="pulse" data-pulse></div>
     <div data-dash="compact"></div>
+  </div>
+</section>
+<section>
+  <div class="wrap">
+    <div class="inst-band"><div><div class="eyebrow">Institutional resources</div><h2 class="sec">Your research desk, under your brand.</h2><p>Prop firms, RIAs, and broker-dealers deliver AlphaGen research to their clients, co-branded or fully private label, built for compliance review.</p></div><a class="btn" href="/institutional">Explore institutional →</a></div>
   </div>
 </section>
 <section id="markets">
@@ -546,6 +558,101 @@ market_page("crypto.html", "/crypto", "Crypto", "Crypto.", "Bitcoin and ether pr
 page("search.html", "/search", "Search", "Search the AlphaGen Wire, notes, briefs, deals, earnings, and charts.", "search",
      phead("Search", "Search AlphaGen.", "Every Wire piece, note, brief, deal, earnings report, and chart.") +
      '<section class="flush"><div class="wrap prose" style="max-width:900px"><label class="sr" for="search-q">Search</label><input class="search search-big" id="search-q" type="search" placeholder="Try NVDA, auction, CPI, merger…" autofocus><div class="eyebrow" id="search-count" style="color:var(--mute)"></div><div id="search-results"></div></div></section>', slip=False)
+
+
+# ---------- Institutional resources ----------
+inst = f'''<div class="wrap">
+  <div class="inst-hero">
+    <div>
+      <div class="eyebrow">AlphaGen Institutional Resources</div>
+      <h1>Your research desk. <em>Your brand.</em></h1>
+      <p class="lede">Institutional-grade market research for your clients, written from primary sources, independently fact-checked, and delivered ready to send. Run it under the AlphaGen name at no cost, or under your own brand as if your firm had a full research team.</p>
+      <div class="cta-row"><a class="btn" href="#pilot">Request a pilot</a><a class="btn ghost" href="#sample">See a sample edition</a></div>
+      <div class="inst-who"><span>Proprietary trading firms</span><span>Registered investment advisers</span><span>Broker-dealers</span><span>Family offices</span><span>Banks &amp; credit unions</span></div>
+    </div>
+    <div class="inst-proof">
+      <div class="card"><span class="ico">01</span><div><b>Primary sources only</b><p>Every figure traces to the Fed, Treasury, BLS, BEA, EIA, or a company's SEC filing, with the link attached.</p></div></div>
+      <div class="card"><span class="ico">02</span><div><b>Independently fact-checked</b><p>A separate fact desk re-verifies published figures against the source. Corrections are logged openly.</p></div></div>
+      <div class="card"><span class="ico">03</span><div><b>Built for compliance review</b><p>General, impersonal market commentary with no recommendations or price targets, delivered on a fixed cadence your compliance team can review.</p></div></div>
+    </div>
+  </div>
+  <div class="deskstats" data-deskstats="pieces,coverage,sources,markets,companies,deals"></div>
+  <p class="levels-note">Live counts from the AlphaGen desk.</p>
+</div>
+
+<section>
+  <div class="wrap">
+    {sec_head("What partners receive", "Everything your clients read, ready to send")}
+    <div class="deliver">
+      <div class="card"><span class="k">Weekly</span><h3>The Market Brief</h3><p>A client-ready email covering rates, equities, credit, and macro, formatted for your email platform.</p></div>
+      <div class="card"><span class="k">Weekly</span><h3>Chart pack</h3><p>Branded charts built from official data, sized for email, decks, and client meetings.</p></div>
+      <div class="card"><span class="k">Weekly</span><h3>Social-ready posts</h3><p>LinkedIn captions with matching graphics, formatted to load into social compliance platforms such as Hearsay Relate for review and scheduling.</p></div>
+      <div class="card"><span class="k">Monthly</span><h3>The Outlook</h3><p>A polished PDF on rates, credit, and equities that advisors can send, print, or present.</p></div>
+      <div class="card"><span class="k">Live</span><h3>Research feed</h3><p>The AlphaGen Wire and market data embedded on your own website, updated through the trading day.</p></div>
+      <div class="card"><span class="k">Event-driven</span><h3>Fast takes</h3><p>Same-day notes on Fed decisions, CPI, jobs reports, and major earnings, so your clients hear it from you first.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="sample">
+  <div class="wrap">
+    {sec_head("Sample edition", "See it under your brand", "<p>Built live from this week's AlphaGen research. Switch the branding to see how a private-label edition reads to your clients.</p>")}
+    <div class="sample" id="sample-edition">
+      <div><div class="toggle" role="group" aria-label="Branding"><button type="button" data-brand="alphagen" aria-pressed="true">AlphaGen co-branded</button><button type="button" data-brand="firm" aria-pressed="false">Your brand (example)</button></div><div class="mail"><div class="chart-load">Loading sample edition…</div></div></div>
+      <div><div class="card-h"><span>Matching social post</span><span>Ready for review</span></div><div class="social-cap"></div>
+      <p class="levels-note" style="margin-top:12px">"Example Wealth Partners" is a placeholder to illustrate private-label branding. Partner editions carry your firm's own disclosures.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    {sec_head("Partnership options", "Two ways to run it")}
+    <div class="tiers">
+      <div class="tier"><span class="tn">Co-branded</span><div class="tp">Free</div><p class="td">Share AlphaGen research with your clients under the AlphaGen name.</p><ul><li>Weekly Market Brief</li><li>Weekly chart pack</li><li>"Shared by [your firm]" introduction</li><li>Social-ready posts</li></ul><a class="btn ghost" href="#pilot">Get started</a></div>
+      <div class="tier feat"><span class="tn">Private label</span><div class="tp">Your brand</div><p class="td">The full program under your firm's name, logo, colors, and sign-off.</p><ul><li>Everything in Co-branded</li><li>Your branding throughout</li><li>Monthly Outlook PDF</li><li>Your disclosures and review workflow</li><li>Coverage focus by client base</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
+      <div class="tier"><span class="tn">Enterprise</span><div class="tp">Custom</div><p class="td">For multi-office firms, platforms, and teams.</p><ul><li>Multiple brands or offices</li><li>Live research feed on your site</li><li>Custom coverage and cadence</li><li>Data delivery for your tools</li><li>Dedicated desk contact</li></ul><a class="btn ghost" href="#pilot">Talk to us</a></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    {sec_head("How it works", "Live in days, not months")}
+    <div class="steps">
+      <div class="step"><h3>Brief us on your firm</h3><p>Your clients, coverage priorities, branding, and compliance workflow.</p></div>
+      <div class="step"><h3>Review a sample</h3><p>We deliver a full edition under your brand for your team and compliance to review.</p></div>
+      <div class="step"><h3>Go live</h3><p>Editions arrive on a fixed schedule, ready for your review and distribution.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="pilot">
+  <div class="wrap">
+    <div class="pilot">
+      <div>
+        <div class="eyebrow">Request a pilot</div>
+        <h2 class="sec">Try it with your clients for 30 days.</h2>
+        <p style="color:var(--steel)">Tell us about your firm and we'll send a sample edition built for your clients.</p>
+        <p class="fine">Prefer email? Reach the desk at <b style="color:var(--paper)">desk@alphagenresearch.com</b>.</p>
+      </div>
+      <form id="pilot-form" name="pilot" method="POST" data-netlify="true" netlify-honeypot="company_url">
+        <input type="hidden" name="form-name" value="pilot">
+        <p hidden><label>Leave blank <input name="company_url"></label></p>
+        <label>Name<input name="name" autocomplete="name" required></label>
+        <label>Work email<input type="email" name="email" autocomplete="email" required></label>
+        <label>Firm<input name="firm" autocomplete="organization" required></label>
+        <label>Firm type<select name="firm_type"><option>Proprietary trading firm</option><option>Registered investment adviser</option><option>Broker-dealer</option><option>Family office</option><option>Bank or credit union</option><option>Other</option></select></label>
+        <label>Clients or accounts served<select name="size"><option>Under 100</option><option>100–1,000</option><option>1,000–10,000</option><option>10,000+</option></select></label>
+        <label>Interested in<select name="tier"><option>Private label</option><option>Co-branded (free)</option><option>Enterprise</option><option>Not sure yet</option></select></label>
+        <label class="full">Anything we should know?<textarea name="notes" rows="3"></textarea></label>
+        <div class="form-err" hidden>That didn't go through. Please email desk@alphagenresearch.com instead.</div>
+        <button class="btn" type="submit">Request a pilot</button>
+      </form>
+    </div>
+  </div>
+</section>'''
+page("institutional.html", "/institutional", "Institutional Resources", "AlphaGen Institutional Resources: source-verified market research for prop firms, RIAs, and broker-dealers, co-branded or private label, built for compliance review.", "institutional", inst, slip=False)
 
 # ---------- research + notes ----------
 page("research.html", "/research", "Research", "AlphaGen Notes, the Morning Brief, The Close, The Week Ahead, and the AlphaGen newsletter.", "research",
@@ -732,7 +839,7 @@ def rfc(iso):
 rss = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>AlphaGen Research</title><link>' + SITE + '</link><description>AlphaGen Notes and briefs on debt, equities, and macro.</description>' + \
       "".join(f'<item><title>{E(n["title"])}</title><link>{SITE}/notes/{n["id"]}</link><guid>{SITE}/notes/{n["id"]}</guid><pubDate>{rfc(n["time"])}</pubDate><description>{E(n.get("dek",""))}</description></item>' for n in items) + "</channel></rss>\n"
 write("rss.xml", rss)
-urls = ["/", "/wire", "/equities", "/earnings", "/deals", "/stocks", "/rates", "/fed", "/auctions", "/credit", "/dashboard", "/macro", "/global", "/housing", "/commodities", "/crypto", "/charts", "/research", "/search", "/about", "/methodology", "/standards", "/disclosures", "/privacy", "/terms"] + \
+urls = ["/", "/institutional", "/wire", "/equities", "/earnings", "/deals", "/stocks", "/rates", "/fed", "/auctions", "/credit", "/dashboard", "/macro", "/global", "/housing", "/commodities", "/crypto", "/charts", "/research", "/search", "/about", "/methodology", "/standards", "/disclosures", "/privacy", "/terms"] + \
        [f"/notes/{n['id']}" for n in live_notes] + [f"/stock/{s}" for s in stocks] + [f"/charts/{c['id']}" for c in charts.get("items", []) if is_live(c) and slug_ok(c.get("id"))]
 write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{SITE}{u}</loc></url>" for u in urls) + "</urlset>\n")
 write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
