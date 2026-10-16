@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:11:29Z",
+ "updated": "2026-10-16T11:19:01Z",
  "note": "Times are ET. Blank time means the agency schedule lists no time.",
  "items": [
   {
@@ -141,6 +141,16 @@
    "importance": 1,
    "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
    "id": "2026-10-28-metroareaemploymentsep"
+  },
+  {
+   "id": "2026-10-28-business-employment-dynamics-q1",
+   "date": "2026-10-28",
+   "time": "10:00",
+   "name": "Business Employment Dynamics (Q1)",
+   "agency": "BLS",
+   "category": "Labor",
+   "importance": 1,
+   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
   },
   {
    "date": "2026-10-28",

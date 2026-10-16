@@ -1,6 +1,103 @@
 {
-  "updated": "2026-10-15T23:54:38Z",
+  "updated": "2026-10-16T11:19:01Z",
   "items": [
+    {
+      "id": "2026-10-16-tfc-q3",
+      "time": "2026-10-16T11:21:01Z",
+      "tag": "EARNINGS",
+      "headline": "Truist Q3 EPS falls to $0.56 on a $1.4B securities loss; adjusted EPS $1.16",
+      "take": "Truist reported third-quarter net income available to common shareholders of $0.68 billion, or $0.56 a diluted share, versus $1.04 a year earlier, as total revenue fell to $3.75 billion from $5.19 billion. Excluding a $0.90-a-share loss on AFS securities sales, a $0.36-a-share reserve recapture and $0.06 of impacts tied to the sale of Regional Acceptance Corporation loans, adjusted EPS was $1.16; taxable-equivalent net interest income rose to $3.71 billion and the margin was 3.00%. The quarter is a deliberate reset rather than an operating miss: adjusted ROTCE of 14.6% versus 7.2% reported shows how much of the hit was one-time.",
+      "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
+      "ticker": "NYSE:TFC"
+    },
+    {
+      "id": "2026-10-16-tfc-rac-sale-reserve-release",
+      "time": "2026-10-16T11:26:01Z",
+      "tag": "CREDIT",
+      "headline": "Truist sells RAC loans and releases $581M of reserves",
+      "take": "Truist recorded a $253 million provision benefit, including a $581 million release of remaining allowance tied to Regional Acceptance Corporation, while the RAC sale pushed the net charge-off ratio to 0.77%, of which 39 basis points relate to RAC, including $251 million of charge-offs on the transfer to held for sale. The RAC sale accounted for $5.5 billion of a $5.9 billion drop in period-end loans held for investment, and preliminary CET1 eased to 10.7% from 10.9% in the second quarter after $1.2 billion of buybacks. Moving a book with elevated losses off the balance sheet means future charge-off ratios should be read against a smaller, different loan base.",
+      "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
+      "ticker": "NYSE:TFC"
+    },
+    {
+      "id": "2026-10-16-cfg-q3",
+      "time": "2026-10-16T11:31:01Z",
+      "tag": "EARNINGS",
+      "headline": "Citizens Q3 EPS rises to $1.41 from $1.05 on a 12.6% jump in net interest income",
+      "take": "Citizens Financial reported third-quarter net income of $636 million and diluted EPS of $1.41, versus $494 million and $1.05 a year earlier, on total revenue of $2,322 million versus $2,118 million. Net interest income rose to $1,675 million from $1,488 million as the net interest margin widened to 3.18% from 2.99%, while the provision fell to $125 million from $154 million. Margin expansion is doing the heavy lifting here, with expenses up only modestly at $1,393 million versus $1,335 million.",
+      "source_name": "Citizens Financial Q3 2026 financial supplement (SEC 8-K, Ex. 99.3)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000759944/000075994426000206/q326financialsupplement.htm",
+      "ticker": "NYSE:CFG"
+    },
+    {
+      "id": "2026-10-16-ea-hicp-final-sep",
+      "time": "2026-10-16T11:36:01Z",
+      "tag": "GLOBAL",
+      "headline": "Euro-area inflation at 3.8% in September in final data, up from 3.2%",
+      "take": "Eurostat put euro-area annual HICP inflation at 3.8% in September, up from 3.2% in August and 2.2% a year earlier; EU inflation was also 3.8%. Energy contributed 1.71 percentage points and services 1.52 points, with services inflation at 3.2% versus 3.0% in August. The services uptick matters more for the ECB than the energy spike, because it is the part of inflation that policy rates are meant to lean against.",
+      "source_name": "Eurostat: Euro indicators, HICP September 2026 (16 October 2026)",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+    },
+    {
+      "id": "2026-10-16-rf-q3",
+      "time": "2026-10-16T11:41:01Z",
+      "tag": "EARNINGS",
+      "headline": "Regions Q3 EPS of $0.71, up 16%, as margin widens to 3.68%",
+      "take": "Regions reported third-quarter net income available to common shareholders of $611 million, or $0.71 a diluted share, which it said was up 11% and 16% from a year earlier; adjusted EPS was $0.73. Total revenue rose to $1,973 million from $1,916 million, with net interest income of $1,298 million versus $1,257 million and a 3.68% margin versus 3.59%. Revenue growth of about 3% is modest, so the earnings gain rests largely on lower credit costs.",
+      "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
+      "ticker": "NYSE:RF"
+    },
+    {
+      "id": "2026-10-16-mtb-q3",
+      "time": "2026-10-16T11:46:01Z",
+      "tag": "EARNINGS",
+      "headline": "M&T Q3 EPS climbs to $5.04 even as net income slips to $775M",
+      "take": "M&T Bank reported third-quarter diluted EPS of $5.04 versus $4.82 a year earlier, although net income fell to $775 million from $792 million. Taxable-equivalent net interest income rose to $1,805 million from $1,773 million, but the margin narrowed to 3.65% from 3.69%, and estimated CET1 fell to 10.16% from 10.99% after $323 million of buybacks in the quarter. Per-share growth on lower profit is a buyback story, and the lower capital ratio limits how long that lever can run at this pace.",
+      "source_name": "M&T Bank Q3 2026 results release (M&T investor relations)",
+      "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
+      "ticker": "NYSE:MTB"
+    },
+    {
+      "id": "2026-10-16-ea-energy-hicp-18-9",
+      "time": "2026-10-16T11:51:01Z",
+      "tag": "ENERGY",
+      "headline": "Euro-area energy prices up 18.9% on the year in September",
+      "take": "Eurostat's final September data show euro-area energy prices up 18.9% year over year, versus 14.3% in August, with a 4.0% month-on-month rise; energy alone added 1.71 percentage points to 3.8% headline inflation. Among large economies, national rates were 5.0% in Spain, 4.2% in Italy, 3.4% in France and 3.3% in Germany. The spread across countries reflects how differently energy costs pass through to households, which complicates a single ECB response.",
+      "source_name": "Eurostat: Euro indicators, HICP September 2026 (16 October 2026)",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+    },
+    {
+      "id": "2026-10-16-rf-charge-offs-0-29",
+      "time": "2026-10-16T11:56:01Z",
+      "tag": "CREDIT",
+      "headline": "Regions' net charge-offs fall to 0.29% of loans from 0.55% a year ago",
+      "take": "Regions reported third-quarter net charge-offs of $72 million, an annualized 0.29% of average loans, versus $135 million and 0.55% a year earlier. Average loans rose to $99.2 billion from $96.6 billion, while average deposits were roughly flat at $129.1 billion versus $129.6 billion. Halving losses while loans grew points to a cleaner credit book, though flat deposits leave funding growth as the constraint.",
+      "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
+      "ticker": "NYSE:RF"
+    },
+    {
+      "id": "2026-10-16-import-prices-ip-today",
+      "time": "2026-10-16T12:01:01Z",
+      "tag": "MACRO",
+      "headline": "September import prices at 8:30 a.m. and industrial production at 9:15 a.m. today",
+      "take": "BLS publishes U.S. Import and Export Price Indexes for September at 8:30 a.m. ET today, and the Federal Reserve releases its G.17 industrial production and capacity utilization report at 9:15 a.m. ET. After this week's producer-price data, import prices will show how much of the energy shock is arriving from abroad, and the output report will show whether factories are absorbing higher costs or cutting back.",
+      "source_name": "BLS release schedule (October 2026); Federal Reserve G.17 release dates",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "id": "2026-10-16-mtb-loan-growth",
+      "time": "2026-10-16T12:06:01Z",
+      "tag": "EQUITIES",
+      "headline": "M&T average loans rise 5.4% to $143.3B; charge-offs ease to 0.35%",
+      "take": "M&T's average loans rose to $143,296 million in the third quarter from $135,890 million a year earlier, and average deposits rose to $166,777 million from $162,576 million. Net charge-offs fell to an annualized 0.35% of average loans from 0.42%, while the provision rose to $135 million from $125 million. Loan growth at this pace alongside easing losses shows a lender still finding demand to put capital to work, not just protecting it.",
+      "source_name": "M&T Bank Q3 2026 results release (M&T investor relations)",
+      "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
+      "ticker": "NYSE:MTB"
+    },
     {
       "id": "2026-10-15-wire-lufthansa-tap",
       "time": "2026-10-15T23:58:00Z",
