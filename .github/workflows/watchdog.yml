@@ -1,0 +1,30 @@
+name: Wire watchdog
+on:
+  schedule: [{ cron: "55 * * * *" }]
+  workflow_dispatch:
+permissions: { contents: read, issues: write }
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: data }
+      - id: c
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, datetime as dt
+          now = dt.datetime.now(dt.timezone.utc); et = now - dt.timedelta(hours=4)
+          upd = dt.datetime.fromisoformat(json.load(open("wire.json"))["updated"].replace("Z","+00:00"))
+          age = (now - upd).total_seconds() / 60
+          active = 7*60+40 <= et.hour*60+et.minute <= 23*60+40
+          print(f"age={int(age)}"); print(f"stale={'yes' if active and age > 100 else 'no'}")
+          PY
+      - if: steps.c.outputs.stale == 'yes'
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          n=$(gh issue list -R ${{ github.repository }} --label wire-stale --state open --json number --jq length)
+          [ "$n" = "0" ] && gh label create wire-stale -R ${{ github.repository }} --color d73a4a 2>/dev/null; [ "$n" = "0" ] && gh issue create -R ${{ github.repository }} --label wire-stale --title "AlphaGen Wire has not updated in ${{ steps.c.outputs.age }} minutes" --body "The hourly AlphaGen Desk has not published to the Wire for ${{ steps.c.outputs.age }} minutes. Check the 'AlphaGen Desk (hourly)' scheduled task's recent runs in Claude, or ask Claude to re-run it. This issue closes itself when the Wire updates." || true
+      - if: steps.c.outputs.stale == 'no'
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          for n in $(gh issue list -R ${{ github.repository }} --label wire-stale --state open --json number --jq '.[].number'); do gh issue close $n -R ${{ github.repository }} -c "Wire is updating again."; done || true

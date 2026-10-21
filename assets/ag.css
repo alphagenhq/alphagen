@@ -633,3 +633,4 @@ a.desk-c:hover{border-color:var(--signal);transform:translateY(-2px)}
 .ai-faq p{margin:6px 0 0;color:var(--steel);font-size:.92rem}
 @media (max-width:900px){.ai-convo,.ai-faq{grid-template-columns:1fr}.ai-reads{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:640px){.ai-qa{padding:16px}.ai-qa .q{font-size:1.08rem}}
+.tag.livef{background:rgba(61,220,151,.14);color:#3ddc97;border-color:rgba(61,220,151,.4)}

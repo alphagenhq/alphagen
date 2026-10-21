@@ -93,7 +93,7 @@ function renderWire(v){
   items.forEach(it=>{
     const fresh=(Date.now()-new Date(it.time))<60*60000;
     const a=document.createElement("article"); a.className="wire-item"+(!wireFirst&&!wireSeen.has(it.id)?" enter":"");
-    a.innerHTML='<div class="wire-meta"><span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span>'+(it.checked?'<span class="chk" title="Figures re-checked against the source by the AlphaGen fact desk">✓ Source-checked</span>':"")+'</div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.correction?'<p class="corr"><b>Correction:</b> '+esc(it.correction)+'</p>':"")+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
+    a.innerHTML='<div class="wire-meta">'+(it.live?'<span class="tag livef">● Live filing</span>':'')+'<span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span>'+(it.checked?'<span class="chk" title="Figures re-checked against the source by the AlphaGen fact desk">✓ Source-checked</span>':"")+'</div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.correction?'<p class="corr"><b>Correction:</b> '+esc(it.correction)+'</p>':"")+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
     v.el.appendChild(a);
   });
 }
@@ -102,7 +102,7 @@ function drawWire(){wireViews.forEach(renderWire);drawCrawl();const items=live(W
   $$("[data-wire-updated]").forEach(e=>{if(items[0])e.textContent="Latest "+ago(items[0].time)});
   $$("[data-wire-count]").forEach(e=>{const today=nyParts(new Date()).date;e.textContent=items.filter(i=>nyParts(new Date(i.time)).date===today).length});
 }
-function loadWire(){return getJSON("/wire.json").then(d=>{WIRE=d;drawWire()}).catch(()=>{if(!WIRE){WIRE={items:[]};drawWire()}})}
+function loadWire(){const lv=fetch("https://raw.githubusercontent.com/alphagenhq/alphagen/data/live.json?t="+Math.floor(Date.now()/60000),{cache:"no-store"}).then(r=>r.ok?r.json():{items:[]}).catch(()=>({items:[]}));return Promise.all([getJSON("/wire.json").catch(()=>({items:[]})),lv]).then(([w,l])=>{const cut=Date.now()-36*3600e3;const li=(l.items||[]).filter(i=>new Date(i.time)>cut);WIRE={updated:w.updated,items:(w.items||[]).concat(li).sort((a,b)=>new Date(b.time)-new Date(a.time))};drawWire()})}
 if(wireViews.length||$("[data-wire-count]")||$("#crawl")){loadWire();setInterval(loadWire,60000);setInterval(drawWire,30000)}
 $$("[data-wire-filters]").forEach(bar=>{
   const v=wireViews.find(w=>w.el.id===bar.dataset.wireFilters); if(!v) return;

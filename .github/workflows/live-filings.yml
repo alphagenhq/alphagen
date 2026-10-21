@@ -1,0 +1,24 @@
+name: Live SEC filings
+on:
+  schedule: [{ cron: "*/5 * * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: live-filings, cancel-in-progress: false }
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main, path: site, sparse-checkout: .github }
+      - uses: actions/checkout@v4
+        with: { ref: data, path: data }
+      - run: python3 site/.github/scripts/live_filings.py data
+      - name: Publish
+        working-directory: data
+        run: |
+          git config user.name "AlphaGen"; git config user.email "alphagenhq@users.noreply.github.com"
+          git add live.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "AlphaGen live filings $(date -u +%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase origin data && git push origin HEAD:data && exit 0; sleep 5; done; exit 1
