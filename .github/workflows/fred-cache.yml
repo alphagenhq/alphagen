@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: { ref: data }
+      - run: mkdir -p fred && python3 .github/scripts/fred_probe.py
       - run: python3 .github/scripts/fred_cache.py
       - name: Commit
         run: |
