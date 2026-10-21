@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-21T20:39:46Z",
+ "updated": "2026-10-21T21:13:02Z",
  "items": [
+  {
+   "id": "live-0000070858-26-000494-5.02",
+   "time": "2026-10-21T21:07:03Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Bank of America reports an executive or board change",
+   "take": "Bank of America reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 5:07 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BAC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000494/0000070858-26-000494-index.htm",
+   "ticker": "NYSE:BAC"
+  },
+  {
+   "id": "live-0001628280-26-066738-2.02",
+   "time": "2026-10-21T20:41:42Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Tesla releases financial results",
+   "take": "Tesla filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:41 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, TSLA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/0001628280-26-066738-index.htm",
+   "ticker": "NASDAQ:TSLA"
+  },
+  {
+   "id": "live-0001193125-26-427920-5.02",
+   "time": "2026-10-21T20:37:17Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Dell Technologies reports an executive or board change",
+   "take": "Dell Technologies reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:37 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, DELL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526427920/0001193125-26-427920-index.htm",
+   "ticker": "NYSE:DELL"
+  },
   {
    "id": "live-0001067701-26-000036-2.02",
    "time": "2026-10-21T20:25:20Z",
