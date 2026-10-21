@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-21T19:32:40Z",
+ "updated": "2026-10-21T20:39:46Z",
  "items": [
+  {
+   "id": "live-0001067701-26-000036-2.02",
+   "time": "2026-10-21T20:25:20Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "United Rentals releases financial results",
+   "take": "United Rentals filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:25 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, URI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1067701/000106770126000036/0001067701-26-000036-index.htm",
+   "ticker": "NYSE:URI"
+  },
+  {
+   "id": "live-0000051143-26-000093-2.02",
+   "time": "2026-10-21T20:19:17Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "International Business Machines releases financial results",
+   "take": "International Business Machines filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:19 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, IBM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000093/0000051143-26-000093-index.htm",
+   "ticker": "NYSE:IBM"
+  },
+  {
+   "id": "live-0001179929-26-000042-2.02",
+   "time": "2026-10-21T20:18:59Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Molina Healthcare releases financial results",
+   "take": "Molina Healthcare filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:18 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MOH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1179929/000117992926000042/0001179929-26-000042-index.htm",
+   "ticker": "NYSE:MOH"
+  },
+  {
+   "id": "live-0001051470-26-000085-2.02",
+   "time": "2026-10-21T20:17:48Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Crown Castle releases financial results",
+   "take": "Crown Castle filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:17 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CCI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000085/0001051470-26-000085-index.htm",
+   "ticker": "NYSE:CCI"
+  },
+  {
+   "id": "live-0000092380-26-000104-2.02",
+   "time": "2026-10-21T20:16:24Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Southwest Airlines releases financial results",
+   "take": "Southwest Airlines filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:16 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LUV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000104/0000092380-26-000104-index.htm",
+   "ticker": "NYSE:LUV"
+  },
+  {
+   "id": "live-0000707549-26-000052-2.02",
+   "time": "2026-10-21T20:13:03Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "LAM Research releases financial results",
+   "take": "LAM Research filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:13 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LRCX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000052/0000707549-26-000052-index.htm",
+   "ticker": "NASDAQ:LRCX"
+  },
+  {
+   "id": "live-0001506307-26-000130-2.02",
+   "time": "2026-10-21T20:10:58Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Kinder Morgan releases financial results",
+   "take": "Kinder Morgan filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:10 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KMI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000130/0001506307-26-000130-index.htm",
+   "ticker": "NYSE:KMI"
+  },
   {
    "id": "live-0001437749-26-033069-1.01",
    "time": "2026-10-21T13:08:48Z",
