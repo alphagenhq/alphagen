@@ -2,12 +2,12 @@
 Facts only (company, filing type, item, time, link). No AI, no analysis."""
 import json, os, re, sys, urllib.request, datetime as dt, html
 from zoneinfo import ZoneInfo
-FIX = {"Jpmorgan": "JPMorgan", "At&T": "AT&T", "Ibm": "IBM", "Amd": "AMD", "Rtx": "RTX", "Ge": "GE", "Hp": "HP", "Ups": "UPS", "Cvs": "CVS", "Csx": "CSX", "Pnc": "PNC", "Us": "U.S.", "Nvidia": "NVIDIA", "Paypal": "PayPal", "Mcdonald's": "McDonald's", "Exxonmobil": "ExxonMobil", "Blackrock": "BlackRock", "Spacex": "SpaceX", "Dupont": "DuPont", "Mcdonalds": "McDonald's"}
+FIX = {"Jpmorgan": "JPMorgan", "At&T": "AT&T", "Ibm": "IBM", "Amd": "AMD", "Rtx": "RTX", "Ge": "GE", "Hp": "HP", "Ups": "UPS", "Cvs": "CVS", "Csx": "CSX", "Pnc": "PNC", "Us": "U.S.", "Nvidia": "NVIDIA", "Paypal": "PayPal", "Mcdonald's": "McDonald's", "Exxonmobil": "ExxonMobil", "Blackrock": "BlackRock", "Spacex": "SpaceX", "Dupont": "DuPont", "Mcdonalds": "McDonald's", "Moodys": "Moody's", "Nextera": "NextEra", "Ebay": "eBay", "Paypal": "PayPal", "Jetblue": "JetBlue", "Fedex": "FedEx", "Doordash": "DoorDash", "Coinbase": "Coinbase", "Lowes": "Lowe's", "Kohls": "Kohl's", "Mckesson": "McKesson", "Blackstone": "Blackstone", "Kkr": "KKR"}
 def nice(name):
     name = re.sub(r"\s*/[A-Z]{2}/?$", "", name).strip().rstrip(".")
     name = re.sub(r",?\s+(INC|CORP|CORPORATION|CO|LTD|PLC|LLC|N\.V|S\.A|HOLDINGS INC|COMPANY)\.?$", "", name, flags=re.I).strip()
     name = re.sub(r"\s*&$", "", name).strip()
-    return " ".join(w.lower() if w.lower() in ("of","and","the") and i else FIX.get(w.title(), w if "&" in w or re.search(r"\d", w) else w.title()) for i, w in enumerate(name.split()))
+    return " ".join(w.lower() if w.lower() in ("of","and","the") and i else w.upper() if len(w) <= 3 and w.isalpha() and w.lower() not in ("of","and","the","new","one","inc") else FIX.get(w.title(), w if "&" in w or re.search(r"\d", w) else w.title()) for i, w in enumerate(name.split()))
 from xml.etree import ElementTree as ET
 UA = {"User-Agent": "AlphaGen Research desk@alphagenresearch.com", "Accept-Encoding": "identity"}
 OUT = sys.argv[1]
@@ -26,7 +26,7 @@ for row in json.loads(get("https://www.sec.gov/files/company_tickers_exchange.js
     cik, name, t, ex = row
     if t and t.upper() in WATCH and str(cik) not in tick:
         exch = {"Nasdaq": "NASDAQ", "NYSE": "NYSE", "CBOE": "CBOE"}.get(ex or "", "NYSE")
-        tick[str(cik)] = (t.upper(), exch)
+        tick[str(cik)] = (t.upper(), exch, name)
 ns = {"a": "http://www.w3.org/2005/Atom"}
 feed = ET.fromstring(get("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&company=&dateb=&owner=include&start=0&count=100&output=atom"))
 try: cur = json.load(open(os.path.join(OUT, "live.json")))
@@ -39,7 +39,9 @@ for e in feed.findall("a:entry", ns):
     if not m or title.startswith("8-K/A"): continue
     name, cik = m.group(1), str(int(m.group(2)))
     if cik not in tick: continue
-    t, ex = tick[cik]
+    t, ex, secname = tick[cik]
+    norm = lambda x: re.sub(r"[^a-z0-9]", "", x.lower())[:8]
+    if norm(secname) != norm(name): continue
     summ = html.unescape(e.findtext("a:summary", "", ns))
     link = e.find("a:link", ns).get("href")
     acc = re.search(r"AccNo:</b>\s*([\d-]+)", summ) or re.search(r"(\d{10}-\d{2}-\d{6})", link)
