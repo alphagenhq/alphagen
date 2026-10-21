@@ -566,50 +566,68 @@ inst = f'''<div class="wrap">
     <div>
       <div class="eyebrow">AlphaGen Advisor Intelligence</div>
       <h1>Prepared in minutes. <em>Not hours.</em></h1>
-      <p class="lede">Daily market intelligence built for financial advisors. High-level, easy-to-digest briefings with ready-to-use client talking points, so your advisors spend their day bringing in new assets instead of catching up on the news.</p>
-      <div class="cta-row"><a class="btn" href="#pilot">Request a pilot</a><a class="btn ghost" href="#sample">See today's briefing</a></div>
+      <p class="lede">Advisor Intelligence turns every market day into short, plain-English briefings with ready-to-use client talking points. Your advisors stay current on macro, policy, earnings, and debt in minutes, then spend the rest of the day on what grows the firm: new clients and new assets.</p>
+      <div class="cta-row"><a class="btn" href="#pilot">Request a pilot</a><a class="btn ghost" href="#example">See it in action</a></div>
       <div class="inst-who"><span>Registered investment advisers</span><span>Broker-dealers</span><span>Wealth management teams</span><span>Family offices</span><span>Banks &amp; credit unions</span></div>
     </div>
     <div class="inst-proof">
-      <div class="card"><span class="ico">01</span><div><b>Built for client conversations</b><p>Every briefing ends with talking points an advisor can bring straight into a client call or review meeting.</p></div></div>
-      <div class="card"><span class="ico">02</span><div><b>High-level, fast to read</b><p>The few things that matter today, explained in plain English. Advisors read it in minutes, not hours.</p></div></div>
-      <div class="card"><span class="ico">03</span><div><b>Primary sources, compliance-ready</b><p>Every figure traces to the Fed, Treasury, BLS, BEA, or a company's SEC filing. General commentary with no recommendations or price targets.</p></div></div>
+      <div class="card"><span class="ico">01</span><div><b>Built for client conversations</b><p>Every briefing ends with talking points an advisor can use word for word on a client call or in a review meeting.</p></div></div>
+      <div class="card"><span class="ico">02</span><div><b>High-level and fast to read</b><p>Only what matters today, explained clearly. No jargon, no 40-page reports, no hunting across a dozen sources.</p></div></div>
+      <div class="card"><span class="ico">03</span><div><b>Sourced and compliance-friendly</b><p>Every figure links to the Fed, Treasury, BLS, BEA, or a company's SEC filing. General education only: no recommendations, no price targets.</p></div></div>
     </div>
   </div>
   <div class="deskstats" data-deskstats="pieces,coverage,sources,markets,companies,deals"></div>
-  <p class="levels-note">Live counts from the AlphaGen desk.</p>
+  <p class="levels-note">Live counts from the AlphaGen research desk that powers every briefing.</p>
 </div>
 
 <section>
   <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Why firms use it</div><h2 class="sec">Less catch-up. More new money.</h2></div><p>Advisors who spend the morning reading ten sources are not prospecting, onboarding, or meeting clients. Advisor Intelligence does the reading for them.</p></div>
+    <div class="sec-head"><div><div class="eyebrow">The problem</div><h2 class="sec">Less catch-up. More new money.</h2></div><p>Clients expect their advisor to know what is happening in markets. Keeping up means reading agency releases, earnings reports, and Fed statements every day. That is time not spent prospecting, onboarding, or meeting clients. Advisor Intelligence does the reading for them.</p></div>
     <div class="ai-why">
-      <div class="card"><span class="k">Time back</span><h3>Hours of research, done for you</h3><p>One briefing replaces the daily scramble across news sites, agency releases, and earnings calls.</p></div>
-      <div class="card"><span class="k">Better meetings</span><h3>Ready for every client call</h3><p>Relevant data and clear explanations, so advisors walk into meetings prepared and confident.</p></div>
-      <div class="card"><span class="k">Client trust</span><h3>Impress clients with education</h3><p>Advisors who can explain what is happening, and why it matters, stand out from the ones who cannot.</p></div>
+      <div class="card"><span class="k">Time back</span><h3>The research is done for you</h3><p>One briefing replaces the daily scramble across news sites, government releases, and earnings calls. Advisors start the day informed instead of behind.</p></div>
+      <div class="card"><span class="k">Better meetings</span><h3>Ready for any client question</h3><p>When a client asks about rates, inflation, or a company in their portfolio, your advisor already has a clear, accurate answer.</p></div>
+      <div class="card"><span class="k">Client trust</span><h3>Advisors who educate, win</h3><p>Clients stay with, and refer, the advisor who can explain what is happening and why it matters. Advisor Intelligence makes every advisor that advisor.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="example">
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">See it in action</div><h2 class="sec">A client asks. Your advisor is ready.</h2></div><p>Two real examples built from this week's briefings. Every number comes straight from the original source.</p></div>
+    <div class="ai-convo">
+      <div class="ai-qa">
+        <div class="q"><span>Client</span>"Mortgage rates are back above 7%. What's going on?"</div>
+        <div class="a"><span>Advisor, using this morning's talking points</span>"It starts with long-term Treasury yields. The 10-year closed at 5.15% on October 19, and mortgage rates follow that yield closely. That's why the 30-year average is 7.40%, up from 6.95% four weeks earlier. You can see it in construction too: housing starts slowed to a 1.22 million annual pace in September, 7.4% below a year ago."</div>
+        <div class="src">Sources: Federal Reserve H.15 · Freddie Mac PMMS · U.S. Census Bureau</div>
+      </div>
+      <div class="ai-qa">
+        <div class="q"><span>Client</span>"Are big companies still doing well with everything going on?"</div>
+        <div class="a"><span>Advisor, using this morning's talking points</span>"Some major industrial companies just raised their outlooks. RTX, GE Aerospace, and Northrop Grumman all lifted their 2026 guidance on October 20. GE Aerospace's orders were up 49% from a year ago, well ahead of its 18% adjusted revenue growth, so new business is coming in faster than it can be delivered."</div>
+        <div class="src">Sources: RTX, GE Aerospace, and Northrop Grumman Q3 2026 earnings releases (SEC filings)</div>
+      </div>
     </div>
   </div>
 </section>
 
 <section>
   <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Topics covered</div><h2 class="sec">Everything a client might ask about</h2></div></div>
+    <div class="sec-head"><div><div class="eyebrow">Topics covered</div><h2 class="sec">Everything a client might ask about</h2></div><p>Eight areas, covered every market day, always at the level a client conversation needs.</p></div>
     <div class="ai-topics">
-      <div class="ai-topic"><span class="n">01</span><b>Macro</b><p>Inflation, jobs, growth, and what the data means for portfolios.</p></div>
-      <div class="ai-topic"><span class="n">02</span><b>Policy</b><p>The Fed, Treasury, and fiscal decisions that move rates and markets.</p></div>
-      <div class="ai-topic"><span class="n">03</span><b>Geopolitics</b><p>Global events explained through their market impact.</p></div>
+      <div class="ai-topic"><span class="n">01</span><b>Macro</b><p>Inflation, jobs, and growth, and what the data means for portfolios.</p></div>
+      <div class="ai-topic"><span class="n">02</span><b>Policy</b><p>Fed, Treasury, and fiscal decisions that move rates and markets.</p></div>
+      <div class="ai-topic"><span class="n">03</span><b>Geopolitics</b><p>Global events, explained through their impact on markets.</p></div>
       <div class="ai-topic"><span class="n">04</span><b>Earnings</b><p>What major companies reported and what changed in their outlook.</p></div>
-      <div class="ai-topic"><span class="n">05</span><b>Equities</b><p>Sectors and companies driving the market, and why.</p></div>
+      <div class="ai-topic"><span class="n">05</span><b>Equities</b><p>The sectors and companies driving the market, and why.</p></div>
       <div class="ai-topic"><span class="n">06</span><b>Debt</b><p>Treasury yields, auctions, credit, and the national debt.</p></div>
       <div class="ai-topic"><span class="n">07</span><b>Trends</b><p>The bigger themes shaping markets over months, not days.</p></div>
-      <div class="ai-topic feat"><span class="n">08</span><b>Advisor talking points</b><p>Plain-English points ready to use in client conversations.</p></div>
+      <div class="ai-topic feat"><span class="n">08</span><b>Advisor talking points</b><p>Plain-English points, ready to use in client conversations.</p></div>
     </div>
   </div>
 </section>
 
 <section id="sample">
   <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Sample briefing</div><h2 class="sec">See it under your brand</h2></div><p>Built live from today's AlphaGen research. Switch the branding to see how a private-label edition reads to your advisors.</p></div>
+    <div class="sec-head"><div><div class="eyebrow">Sample briefing</div><h2 class="sec">What lands in your advisors' inbox</h2></div><p>Built live from the AlphaGen desk. Switch the branding to see how a private-label edition looks under your firm's name.</p></div>
     <div class="sample" id="sample-edition">
       <div><div class="toggle" role="group" aria-label="Branding"><button type="button" data-brand="alphagen" aria-pressed="true">AlphaGen</button><button type="button" data-brand="firm" aria-pressed="false">Your brand (example)</button></div><div class="mail"><div class="chart-load">Loading today's briefing…</div></div></div>
       <div><div class="card-h"><span>Advisor talking points</span><span>Ready for client calls</span></div><div class="social-cap ai-tp"></div>
@@ -620,11 +638,29 @@ inst = f'''<div class="wrap">
 
 <section>
   <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Plans</div><h2 class="sec">Choose how often your advisors are briefed</h2></div><p>Every plan is available under the AlphaGen name or fully private label with your firm's branding and disclosures.</p></div>
-        <div class="tiers">
-      <div class="tier"><span class="tn">Base</span><div class="tp">1 read<small> / day</small></div><p class="td">Start every day prepared.</p><div class="ai-slots"><span class="on">Pre-market</span><span>Midday</span><span>Close</span><span>Before bed</span></div><ul><li>Pre-Market Daily, before the open</li><li>All eight topics covered</li><li>Advisor talking points</li><li>Email delivery to your team</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
-      <div class="tier feat"><span class="tn">Moderate</span><div class="tp">2 reads<small> / day</small></div><p class="td">Open prepared, close informed.</p><div class="ai-slots"><span class="on">Pre-market</span><span>Midday</span><span class="on">Close</span><span>Before bed</span></div><ul><li>Pre-Market Daily</li><li>At the Close recap</li><li>All eight topics covered</li><li>Talking points in every edition</li><li>Private-label branding available</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
-      <div class="tier"><span class="tn">Most</span><div class="tp">4 reads<small> / day</small></div><p class="td">Always current, all day.</p><div class="ai-slots"><span class="on">Pre-market</span><span class="on">Midday</span><span class="on">Close</span><span class="on">Before bed</span></div><ul><li>Pre-Market, Midday, At the Close, and Before Bed</li><li>All eight topics covered</li><li>Talking points in every edition</li><li>Private-label branding available</li><li>Priority coverage requests</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+    <div class="sec-head"><div><div class="eyebrow">Plans</div><h2 class="sec">Choose how often your advisors are briefed</h2></div><p>Every plan is available under the AlphaGen name or fully private label, with your firm's branding and disclosures.</p></div>
+    <div class="ai-reads">
+      <div><b>Pre-Market</b><p>What happened overnight, what's on today's calendar, and the talking points for the day.</p></div>
+      <div><b>Midday</b><p>What has moved since the open and why it matters.</p></div>
+      <div><b>At the Close</b><p>The day's data, earnings, and Fed or Treasury news, wrapped up.</p></div>
+      <div><b>Before Bed</b><p>After-hours earnings and what to watch tomorrow.</p></div>
+    </div>
+    <div class="tiers">
+      <div class="tier"><span class="tn">Base</span><div class="tp">1 read<small> / day</small></div><p class="td">Start every day prepared.</p><ul><li>Pre-Market Daily, before the open</li><li>All eight topics covered</li><li>Advisor talking points</li><li>Email delivery to your team</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+      <div class="tier feat"><span class="tn">Moderate</span><div class="tp">2 reads<small> / day</small></div><p class="td">Open prepared, close informed.</p><ul><li>Pre-Market Daily</li><li>At the Close recap</li><li>All eight topics covered</li><li>Talking points in every edition</li><li>Private-label branding available</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
+      <div class="tier"><span class="tn">Most</span><div class="tp">4 reads<small> / day</small></div><p class="td">Always current, all day.</p><ul><li>Pre-Market, Midday, At the Close, and Before Bed</li><li>All eight topics covered</li><li>Talking points in every edition</li><li>Private-label branding available</li><li>Priority coverage requests</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head"><div><div class="eyebrow">Questions firms ask</div><h2 class="sec">Built to fit how your firm works</h2></div></div>
+    <div class="ai-faq">
+      <div><b>Is this investment advice?</b><p>No. Briefings are general market education and commentary. They contain no recommendations, price targets, or personalized advice, so advisors can share the ideas within your firm's existing policies.</p></div>
+      <div><b>Can our compliance team review it?</b><p>Yes. Briefings arrive on a fixed schedule in a consistent format, and every figure links to its primary source, which makes review fast.</p></div>
+      <div><b>Can it carry our brand?</b><p>Yes. Private-label editions use your firm's name, logo, colors, and disclosures. Your advisors and clients see your brand, not ours.</p></div>
+      <div><b>Where does the information come from?</b><p>Official sources only: the Federal Reserve, U.S. Treasury, Bureau of Labor Statistics, Bureau of Economic Analysis, Census Bureau, and company SEC filings.</p></div>
     </div>
   </div>
 </section>
@@ -634,7 +670,7 @@ inst = f'''<div class="wrap">
     <div class="sec-head"><div><div class="eyebrow">How it works</div><h2 class="sec">Live in days, not months</h2></div></div>
     <div class="steps">
       <div class="step"><h3>Tell us about your firm</h3><p>Your advisors, client base, branding, and compliance workflow.</p></div>
-      <div class="step"><h3>Review a sample week</h3><p>We deliver briefings under your brand for your team and compliance to review.</p></div>
+      <div class="step"><h3>Review a sample week</h3><p>We deliver a week of briefings under your brand for your team and compliance to review.</p></div>
       <div class="step"><h3>Go live</h3><p>Briefings land in your advisors' inboxes on schedule, every market day.</p></div>
     </div>
   </div>
@@ -655,7 +691,7 @@ inst = f'''<div class="wrap">
         <label>Name<input name="name" autocomplete="name" required></label>
         <label>Work email<input type="email" name="email" autocomplete="email" required></label>
         <label>Firm<input name="firm" autocomplete="organization" required></label>
-        <label>Firm type<select name="firm_type"><option>Registered investment adviser</option><option>Broker-dealer</option><option>Wealth management team</option><option>Family office</option><option>Bank or credit union</option><option>Proprietary trading firm</option><option>Other</option></select></label>
+        <label>Firm type<select name="firm_type"><option>Registered investment adviser</option><option>Broker-dealer</option><option>Wealth management team</option><option>Family office</option><option>Bank or credit union</option><option>Other</option></select></label>
         <label>Number of advisors<select name="size"><option>1–10</option><option>11–50</option><option>51–250</option><option>250+</option></select></label>
         <label>Plan<select name="tier"><option>Moderate (2 reads / day)</option><option>Base (1 read / day)</option><option>Most (4 reads / day)</option><option>Not sure yet</option></select></label>
         <label class="full">Anything we should know?<textarea name="notes" rows="3"></textarea></label>

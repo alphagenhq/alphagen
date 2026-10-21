@@ -459,7 +459,10 @@ $$("[data-deskstats]").forEach(el=>{
   const brands={alphagen:{name:"AlphaGen",accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. For informational purposes only; not investment advice."},
     firm:{name:"Example Firm",accent:"#c9a24b",logo:'<span class="mock-mark">EF</span>',word:'Example <span style="color:#c9a24b">Wealth Partners</span>',from:"Example Wealth Partners",foot:"Research prepared for Example Wealth Partners clients. For informational purposes only; not investment advice. [Your firm's disclosures appear here.]"}};
   let mode="alphagen", D=null;
-  const tps=n=>{const t=(n&&n.talking_points)||[];return t.length?t:((n&&n.key_points)||[]).slice(0,3)};
+  const EX=["The 10-year Treasury yield closed at 5.15% on October 19, and mortgage rates follow it closely. That is why the average 30-year mortgage rate is 7.40%, up from 6.95% four weeks earlier.",
+    "RTX, GE Aerospace, and Northrop Grumman all raised their 2026 outlooks on October 20. GE Aerospace's orders rose 49% from a year earlier, far faster than its 18% adjusted revenue growth.",
+    "AT&T's adjusted earnings rose to $0.65 a share from $0.54 a year earlier. Reported earnings fell because of a non-cash charge tied to its Mexico wireless business, which it plans to sell."];
+  const tps=n=>{const t=(n&&n.talking_points)||[];return t.length?t:EX};
   const draw=()=>{if(!D)return;const b=brands[mode];
     const brief=D.n.find(n=>n.series==="morning-brief")||D.n[0]; const ch=D.c[0]; const wires=D.w.slice(0,3); const tp=tps(brief);
     const ed=brief&&brief.series==="the-close"?"At the Close":"Pre-Market Daily";
@@ -471,7 +474,7 @@ $$("[data-deskstats]").forEach(el=>{
     ${wires.length?`<div class="mail-sec"><div class="mail-kick">What else moved</div>${wires.map(w=>`<p class="mail-w"><b>${esc(w.headline)}</b></p>`).join("")}</div>`:""}
     ${(brief&&(brief.talking_points||[]).length)?`<div class="mail-sec"><div class="mail-kick">Talking points for client calls</div><ul>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ul></div>`:""}
     <div class="mail-foot">${esc(b.foot)}</div>`;
-    const cap=root.querySelector(".social-cap"); if(cap&&brief){cap.innerHTML=`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div><p><b>${esc(brief.title)}</b></p><ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol><p class="tp-src">From today's ${esc(ed)} · every figure linked to its primary source</p>`}
+    const cap=root.querySelector(".social-cap"); if(cap&&brief){cap.innerHTML=`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div>${(brief.talking_points||[]).length?`<p><b>${esc(brief.title)}</b></p>`:""}<ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol><p class="tp-src">${(brief&&(brief.talking_points||[]).length)?`From the latest ${esc(ed)}`:"Example talking points from Oct. 20–21 briefings"} · every figure linked to its primary source</p>`}
   };
   root.querySelectorAll("[data-brand]").forEach(btn=>btn.addEventListener("click",()=>{mode=btn.dataset.brand;root.querySelectorAll("[data-brand]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
   load().then(d=>{D=d;draw()});

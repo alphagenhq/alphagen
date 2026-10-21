@@ -615,3 +615,21 @@ a.desk-c:hover{border-color:var(--signal);transform:translateY(-2px)}
 @media (max-width:900px){.ai-why{grid-template-columns:1fr}.ai-topics{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:640px){.ai-topic{padding:12px 13px}.ai-topic b{font-size:1.02rem}.ai-topic p{font-size:.8rem}}
 @media (max-width:640px){.mail-head{flex-wrap:wrap;padding:14px 16px;gap:6px}.mail-sec{padding:14px 16px}.mail-meta{padding:10px 16px}}
+.ai-convo{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.ai-qa{display:grid;gap:12px;align-content:start;background:var(--panel);border:1px solid var(--rule);border-radius:12px;padding:22px}
+.ai-qa span{display:block;font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:6px;font-style:normal}
+.ai-qa .q{font-family:var(--display);font-stretch:88%;font-size:1.25rem;line-height:1.3;color:var(--paper)}
+.ai-qa .q span{color:var(--mute)}
+.ai-qa .a{color:var(--paper);font-size:.98rem;line-height:1.6;padding:14px 16px;border-left:3px solid var(--signal);background:var(--signal-soft);border-radius:0 8px 8px 0}
+.ai-qa .a span{color:var(--signal-2)}
+.ai-qa .src{font-family:var(--mono);font-size:.64rem;color:var(--mute)}
+.ai-reads{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:18px}
+.ai-reads div{border-top:2px solid var(--signal);padding-top:10px}
+.ai-reads b{font-family:var(--display);font-stretch:88%;font-size:1.05rem}
+.ai-reads p{margin:4px 0 0;color:var(--steel);font-size:.86rem}
+.ai-faq{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 28px}
+.ai-faq div{border-top:1px solid var(--rule);padding-top:14px}
+.ai-faq b{font-family:var(--display);font-stretch:88%;font-size:1.1rem}
+.ai-faq p{margin:6px 0 0;color:var(--steel);font-size:.92rem}
+@media (max-width:900px){.ai-convo,.ai-faq{grid-template-columns:1fr}.ai-reads{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){.ai-qa{padding:16px}.ai-qa .q{font-size:1.08rem}}
