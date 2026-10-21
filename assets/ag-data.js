@@ -14,10 +14,9 @@ const SERIES_COLORS=["#4c8dff","#f2b84b","#36c98b","#c58cff","#ff6b6b"];
 const fredCache={};
 function fred(id,start){
   const k=id+start; if(fredCache[k]) return fredCache[k];
-  return fredCache[k]=fetch("/api/fred/"+id+"/"+start,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.text()}).then(t=>{
-    if(/^\s*</.test(t)) throw 0;
-    return t.trim().split(/\r?\n/).slice(1).map(l=>{const [d,v]=l.split(",");return {d,v:parseFloat(v)}}).filter(o=>o.d&&!isNaN(o.v));
-  });
+  const parse=t=>{if(/^\s*</.test(t)) throw 0; const o=t.trim().split(/\r?\n/).slice(1).map(l=>{const [d,v]=l.split(",");return {d,v:parseFloat(v)}}).filter(o=>o.d&&!isNaN(o.v)&&o.d>=start); if(!o.length) throw 0; return o};
+  const get=u=>fetch(u,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.text()}).then(parse);
+  return fredCache[k]=get("https://raw.githubusercontent.com/alphagenhq/alphagen/data/fred/"+id+".csv").catch(()=>get("/api/fred/"+id+"/"+start));
 }
 function transform(obs,t){
   if(t==="yoy"){const m=new Map(obs.map(o=>[o.d,o.v]));return obs.map(o=>{const [y,mo,d]=o.d.split("-");const p=m.get((+y-1)+"-"+mo+"-"+d);return p?{d:o.d,v:(o.v/p-1)*100}:null}).filter(Boolean)}
