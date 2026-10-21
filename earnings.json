@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-21T20:51:18Z",
+  "updated": "2026-10-21T21:46:05Z",
   "items": [
+    {
+      "id": "2026-10-21-META-Q3",
+      "time": "2026-10-21T21:49:05Z",
+      "ticker": "NASDAQ:META",
+      "name": "Meta Platforms",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 64.601,
+      "revenue_yoy": 26.1,
+      "eps": 3.83,
+      "eps_yoy": 264.8,
+      "take": "Revenue rose to $64.6B and diluted EPS was $3.83, with costs including a $9.89B charge tied to an agreement with state attorneys general; Q4 revenue guided to $73-$76B.",
+      "source_name": "Meta third quarter 2026 results release",
+      "source_url": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html",
+      "checked": "2026-10-21T21:46:05Z"
+    },
+    {
+      "id": "2026-10-21-TSLA-Q3",
+      "time": "2026-10-21T21:50:05Z",
+      "ticker": "NASDAQ:TSLA",
+      "name": "Tesla",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 28.046,
+      "revenue_yoy": -0.2,
+      "eps": 0.22,
+      "eps_yoy": -43.6,
+      "take": "Revenue was $28,046M versus $28,095M a year earlier; GAAP EPS was $0.22 versus $0.39, and free cash flow was $1,531M versus $3,990M.",
+      "source_name": "Tesla Q3 2026 Update (Exhibit 99.1 to Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026066738/exhibit9914.htm",
+      "checked": "2026-10-21T21:46:05Z"
+    },
     {
       "id": "2026-10-21-IBM-Q3",
       "time": "2026-10-21T20:51:18Z",

@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-21T20:51:18Z",
+  "updated": "2026-10-21T21:46:05Z",
   "items": [
+    {
+      "id": "2026-10-21-meta-q3",
+      "tag": "EARNINGS",
+      "headline": "Meta Q3 revenue $64.6B, up 26%; EPS $3.83 includes $9.89B legal charge",
+      "take": "Meta reported third-quarter revenue of $64,601 million versus $51,242 million a year earlier, net income of $9,860 million versus $2,709 million, and diluted EPS of $3.83 versus $1.05. Income from operations was $12,988 million versus $20,535 million, a 20% operating margin versus 40%, with costs including a $9.89 billion charge tied to an agreement with state attorneys general. Free cash flow was negative $2.12 billion, and with 2026 capex guided to $135-$145 billion, spending is the line to watch against Q4 revenue guidance of $73-$76 billion.",
+      "source_name": "Meta third quarter 2026 results release, Oct. 21, 2026",
+      "source_url": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html",
+      "ticker": "NASDAQ:META",
+      "time": "2026-10-21T21:48:05Z",
+      "checked": "2026-10-21T21:46:05Z"
+    },
+    {
+      "id": "2026-10-21-tsla-q3",
+      "tag": "EARNINGS",
+      "headline": "Tesla Q3 revenue $28.05B vs. $28.10B; GAAP EPS $0.22 vs. $0.39",
+      "take": "Tesla reported third-quarter revenue of $28,046 million versus $28,095 million a year earlier, GAAP net income of $787 million versus $1,373 million, and GAAP diluted EPS of $0.22 versus $0.39 (non-GAAP $0.48 versus $0.50). Income from operations was $718 million versus $1,624 million, and capital expenditures were $4,732 million versus $2,248 million. Free cash flow fell to $1,531 million from $3,990 million, so the cash-flow gap is tied to higher spending on flat revenue.",
+      "source_name": "Tesla Q3 2026 Update (Exhibit 99.1 to Form 8-K), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026066738/exhibit9914.htm",
+      "ticker": "NASDAQ:TSLA",
+      "time": "2026-10-21T21:57:05Z",
+      "checked": "2026-10-21T21:46:05Z"
+    },
+    {
+      "id": "2026-10-21-bls-usual-weekly-earnings-q3",
+      "tag": "MACRO",
+      "headline": "BLS: median weekly earnings $1,232 in Q3, up 1.5% vs. CPI up 3.5%",
+      "take": "The Bureau of Labor Statistics reported median usual weekly earnings of full-time wage and salary workers of $1,232 in the third quarter of 2026 (not seasonally adjusted), 1.5% above a year earlier, compared with a 3.5% gain in the Consumer Price Index over the same period. The seasonally adjusted median was $1,239 versus $1,258 in the second quarter, and women's median earnings were 83.4% of men's. Nominal pay growth running below the CPI gain means the typical full-time worker's earnings lost ground in real terms over the year.",
+      "source_name": "BLS Usual Weekly Earnings of Wage and Salary Workers, Q3 2026 (USDL-26-1604)",
+      "source_url": "https://www.bls.gov/news.release/archives/wkyeng_10212026.htm",
+      "time": "2026-10-21T22:06:05Z",
+      "checked": "2026-10-21T21:46:05Z"
+    },
+    {
+      "id": "2026-10-21-tcbi-q3",
+      "tag": "EARNINGS",
+      "headline": "Texas Capital Q3 EPS $2.28 vs. $2.18; total revenue $356.6M",
+      "take": "Texas Capital Bancshares reported third-quarter diluted EPS of $2.28 versus $2.18 a year earlier, net income available to common stockholders of $99.4 million versus $100.9 million, and total revenue of $356.6 million versus $340.4 million. Total assets were $32.35 billion and total deposits $27.72 billion at Sept. 30, 2026. EPS rose while net income to common slipped, which points to a lower share count.",
+      "source_name": "Texas Capital Bancshares third quarter 2026 results release, Oct. 21, 2026",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385896/25908/en/texas-capital-bancshares-inc-announces-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:TCBI",
+      "time": "2026-10-21T22:15:05Z",
+      "checked": "2026-10-21T21:46:05Z"
+    },
+    {
+      "id": "2026-10-21-banf-q3",
+      "tag": "EARNINGS",
+      "headline": "BancFirst Q3 EPS $1.97 vs. $1.85; net income $67.3M",
+      "take": "BancFirst reported third-quarter net income of $67.3 million versus $62.7 million a year earlier and diluted EPS of $1.97 versus $1.85. At Sept. 30, 2026, total assets were $15.02 billion, total loans $8.73 billion and total deposits $12.70 billion, versus $14.20 billion, $8.29 billion and $12.12 billion a year earlier. Deposits and loans both grew from a year ago, which supports the earnings gain.",
+      "source_name": "BancFirst Corporation third quarter 2026 earnings release, Oct. 21, 2026",
+      "source_url": "https://www.prnewswire.com/news-releases/bancfirst-corporation-reports-third-quarter-earnings-302916046.html",
+      "ticker": "NASDAQ:BANF",
+      "time": "2026-10-21T22:24:05Z",
+      "checked": "2026-10-21T21:46:05Z"
+    },
     {
       "id": "2026-10-21-ibm-q3",
       "tag": "EARNINGS",
