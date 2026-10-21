@@ -1,6 +1,112 @@
 {
-  "updated": "2026-10-16T12:34:06Z",
+  "updated": "2026-10-21T15:09:59Z",
   "items": [
+    {
+      "id": "2026-10-20-rtx-q3-guidance-raise",
+      "tag": "EARNINGS",
+      "headline": "RTX Q3 sales rise to $25.0B, 12% organic; 2026 adjusted EPS outlook raised to $7.65-$7.75",
+      "take": "RTX reported third-quarter sales of $24.97 billion versus $22.48 billion a year earlier, with organic growth of 12%, and adjusted EPS of $2.26 versus $1.70. Backlog stood at $340 billion, and the company lifted its 2026 adjusted sales outlook to $97.0-$97.5 billion from $95.0-$96.0 billion. Free cash flow fell to $2.12 billion from $4.03 billion, so the quarter's strength showed up in orders and earnings rather than cash.",
+      "source_name": "RTX Q3 2026 earnings release (SEC 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000101829/000010182926000030/a2026-10x208xkerexhibit99.htm",
+      "time": "2026-10-21T15:09:59Z",
+      "ticker": "NYSE:RTX"
+    },
+    {
+      "id": "2026-10-20-ge-q3-orders-49",
+      "tag": "EARNINGS",
+      "headline": "GE Aerospace Q3 orders up 49% to $19.0B; 2026 adjusted EPS guide lifted to $8.00-$8.10",
+      "take": "GE Aerospace reported third-quarter orders of $19.0 billion, up 49%, and adjusted revenue of $13.29 billion, up 18%; adjusted EPS rose to $2.25 from $1.66. The company raised its 2026 adjusted EPS guidance to $8.00-$8.10 from $7.65-$7.85 and free cash flow to $9.1-$9.4 billion. Orders growing far faster than revenue widens the gap between demand and what the company can deliver near term.",
+      "source_name": "GE Aerospace Q3 2026 earnings release (SEC 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm",
+      "time": "2026-10-21T15:13:59Z",
+      "ticker": "NYSE:GE"
+    },
+    {
+      "id": "2026-10-20-noc-q3-backlog",
+      "tag": "EARNINGS",
+      "headline": "Northrop Grumman backlog reaches $109.6B; Q3 sales up to $11.1B",
+      "take": "Northrop Grumman reported third-quarter sales of $11.12 billion versus $10.42 billion a year earlier and diluted EPS of $7.89 versus $7.67. Backlog rose to $109.6 billion at Sept. 30 from $95.7 billion at the end of 2025, and 2026 MTM-adjusted EPS guidance moved up to $29.35-$29.75 from $28.60-$29.10. A $13.9 billion backlog build in nine months gives the company revenue visibility well beyond the current year.",
+      "source_name": "Northrop Grumman Q3 2026 earnings release (SEC 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001133421/000113342126000037/noc-09302026xearningsrelea.htm",
+      "time": "2026-10-21T15:17:59Z",
+      "ticker": "NYSE:NOC"
+    },
+    {
+      "id": "2026-10-20-mmm-q3-eps-guide",
+      "tag": "EARNINGS",
+      "headline": "3M Q3 adjusted EPS $2.50 vs. $2.23; 2026 adjusted EPS guide set at $9.10-$9.15",
+      "take": "3M reported third-quarter GAAP sales of $6.58 billion versus $6.52 billion, with adjusted organic growth of 3.3%, and adjusted EPS of $2.50 versus $2.23. The company now guides 2026 adjusted EPS to $9.10-$9.15 and adjusted free cash flow to about $4.8 billion. With organic growth in the low single digits, the EPS gain is coming mainly from margins rather than volume.",
+      "source_name": "3M Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000066740/000006674026000308/q32026-8kerexx991.htm",
+      "time": "2026-10-21T15:21:59Z",
+      "ticker": "NYSE:MMM"
+    },
+    {
+      "id": "2026-10-21-t-q3-results",
+      "tag": "EARNINGS",
+      "headline": "AT&T Q3 revenue rises 5.3% to $32.3B; adjusted EPS $0.65 vs. $0.54",
+      "take": "AT&T reported third-quarter revenues of $32.3 billion versus $30.7 billion and adjusted EPS of $0.65 versus $0.54; diluted EPS fell to $0.13 from $1.29 on a non-cash impairment tied to its held-for-sale Mexico wireless business and separation charges. It reported 379,000 postpaid phone net adds and 442,000 fiber net adds, and its 2026 outlook calls for free cash flow of $18 billion-plus. The gap between GAAP and adjusted EPS this quarter comes from the charges AT&T identified, while adjusted earnings grew.",
+      "source_name": "AT&T Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-3q2026exhibit991.htm",
+      "time": "2026-10-21T15:25:59Z",
+      "ticker": "NYSE:T"
+    },
+    {
+      "id": "2026-10-19-fitb-q3-comerica",
+      "tag": "EARNINGS",
+      "headline": "Fifth Third Q3 diluted EPS $0.90; adjusted $1.13 after $171M merger charges",
+      "take": "Fifth Third reported third-quarter net income to common shareholders of $828 million, or $0.90 a diluted share versus $0.91 a year earlier; excluding certain items, EPS was $1.13. Net interest income was $2.27 billion, and after-tax merger-related charges were $171 million as the bank completed the systems conversion for its Comerica acquisition. With the conversion done, the remaining question is how quickly merger charges fade from reported results.",
+      "source_name": "Fifth Third Bancorp Q3 2026 earnings release",
+      "source_url": "https://s23.q4cdn.com/252949160/files/content_files/Q3-2026-Earnings-Release-Final.pdf",
+      "time": "2026-10-21T15:29:59Z",
+      "ticker": "NYSE:FITB"
+    },
+    {
+      "id": "2026-10-20-maximus-agile-defense",
+      "tag": "DEALS",
+      "headline": "Maximus agrees to buy Agile Defense for $660M cash plus up to $50M earnout",
+      "take": "Maximus Federal Services agreed on Oct. 19 to acquire Agile Defense from Arclight Equity Holdings for $660 million in cash, reduced by debt and certain expenses, plus up to $50 million in contingent payments tied to revenue milestones. Closing is expected in Maximus's first quarter of fiscal 2027, and no shareholder vote is required. The earnout structure ties up to about 7.6% of the base price to post-closing revenue performance.",
+      "source_name": "Maximus Form 8-K, Oct. 20, 2026 (Equity Purchase Agreement)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001032220/000103222026000038/mms-20261019.htm",
+      "time": "2026-10-21T15:33:59Z",
+      "ticker": "NYSE:MMS"
+    },
+    {
+      "id": "2026-10-20-housing-starts-sep",
+      "tag": "HOUSING",
+      "headline": "September housing starts fall to 1.221M annualized, 7.4% below a year earlier",
+      "take": "Housing starts ran at a seasonally adjusted annual rate of 1,221,000 in September, 5.2% below August's revised 1,288,000 and 7.4% below September 2025, per Census; the monthly drop is not statistically significant. Single-family starts were 859,000, and building permits were 1,400,000, 3.0% below a year earlier. Permits held near August's level even as starts slipped, so the pipeline of approved projects has not shrunk the way groundbreakings have.",
+      "source_name": "U.S. Census Bureau, New Residential Construction, September 2026",
+      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+      "time": "2026-10-21T15:37:59Z"
+    },
+    {
+      "id": "2026-10-20-mortgage-30y-7-40",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate holds at 7.40%, up 45 bp in four weeks",
+      "take": "Freddie Mac's 30-year fixed mortgage average was 7.40% for the week ending Oct. 15, unchanged from Oct. 8 and up from 6.95% on Sept. 17. The next reading is due Oct. 22. Rates at this level line up with September's soft starts data.",
+      "source_name": "Freddie Mac PMMS via FRED (MORTGAGE30US)",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "time": "2026-10-21T15:41:59Z"
+    },
+    {
+      "id": "2026-10-19-ust10y-5-15",
+      "tag": "RATES",
+      "headline": "10-year Treasury yield ends Oct. 19 at 5.15%, up 6 bp from Friday",
+      "take": "The 10-year Treasury constant-maturity yield was 5.15% on Oct. 19, up from 5.09% on Oct. 16 and below 5.21% on Oct. 13, per Fed H.15 data on FRED. Long-end yields above 5% keep pressure on mortgage rates and corporate refinancing costs heading into the Oct. 28 FOMC decision.",
+      "source_name": "Federal Reserve H.15 via FRED (DGS10)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "time": "2026-10-21T15:45:59Z"
+    },
+    {
+      "id": "2026-10-16-debt-40-39t",
+      "tag": "DEBT",
+      "headline": "Total public debt outstanding reaches $40.39T as of Oct. 16",
+      "take": "Total public debt outstanding was $40.388 trillion on Oct. 16, per Treasury's Debt to the Penny data, with $32.532 trillion held by the public and $7.855 trillion in intragovernmental holdings. Debt held by the public, the portion financed in markets, is about 81% of the total and is the portion refinanced through Treasury auctions.",
+      "source_name": "U.S. Treasury, Debt to the Penny (FiscalData)",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny",
+      "time": "2026-10-21T15:49:59Z"
+    },
     {
       "id": "2026-10-16-trv-q3",
       "tag": "EARNINGS",

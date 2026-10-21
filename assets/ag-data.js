@@ -459,16 +459,19 @@ $$("[data-deskstats]").forEach(el=>{
   const brands={alphagen:{name:"AlphaGen",accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. For informational purposes only; not investment advice."},
     firm:{name:"Example Firm",accent:"#c9a24b",logo:'<span class="mock-mark">EF</span>',word:'Example <span style="color:#c9a24b">Wealth Partners</span>',from:"Example Wealth Partners",foot:"Research prepared for Example Wealth Partners clients. For informational purposes only; not investment advice. [Your firm's disclosures appear here.]"}};
   let mode="alphagen", D=null;
+  const tps=n=>{const t=(n&&n.talking_points)||[];return t.length?t:((n&&n.key_points)||[]).slice(0,3)};
   const draw=()=>{if(!D)return;const b=brands[mode];
-    const brief=D.n.find(n=>n.series==="morning-brief")||D.n[0]; const ch=D.c[0]; const wires=D.w.slice(0,3);
+    const brief=D.n.find(n=>n.series==="morning-brief")||D.n[0]; const ch=D.c[0]; const wires=D.w.slice(0,3); const tp=tps(brief);
+    const ed=brief&&brief.series==="the-close"?"At the Close":"Pre-Market Daily";
     root.style.setProperty("--brand",b.accent);
-    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)}</span><span><b>Subject:</b> ${esc(brief?brief.title:"This week in markets")}</span></div>
-    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(new Date().toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric"}))}</span></div>
-    ${brief?`<div class="mail-sec"><div class="mail-kick">This week's thesis</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,4).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
-    ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the week</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ")+".")}</p></div>`:""}
+    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(ed)}: ${esc(brief?brief.title.replace(/^[^:]+:\s*/,""):"Today in markets")}</span></div>
+    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(ed)} · ${esc(new Date(brief?brief.time:Date.now()).toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",timeZone:"America/New_York"}))}</span></div>
+    ${brief?`<div class="mail-sec"><div class="mail-kick">The big picture</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,4).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
+    ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the day</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ")+".")}</p></div>`:""}
     ${wires.length?`<div class="mail-sec"><div class="mail-kick">What else moved</div>${wires.map(w=>`<p class="mail-w"><b>${esc(w.headline)}</b></p>`).join("")}</div>`:""}
+    ${(brief&&(brief.talking_points||[]).length)?`<div class="mail-sec"><div class="mail-kick">Talking points for client calls</div><ul>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ul></div>`:""}
     <div class="mail-foot">${esc(b.foot)}</div>`;
-    const cap=root.querySelector(".social-cap"); if(cap&&brief){const k=(brief.key_points||[])[0]||brief.dek||"";cap.innerHTML=`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div><p>${esc(brief.title)}</p><p>${esc(k)}</p><p class="sc-tags">#markets #macro #investing</p>`}
+    const cap=root.querySelector(".social-cap"); if(cap&&brief){cap.innerHTML=`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div><p><b>${esc(brief.title)}</b></p><ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol><p class="tp-src">From today's ${esc(ed)} · every figure linked to its primary source</p>`}
   };
   root.querySelectorAll("[data-brand]").forEach(btn=>btn.addEventListener("click",()=>{mode=btn.dataset.brand;root.querySelectorAll("[data-brand]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
   load().then(d=>{D=d;draw()});
