@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-21T19:51:32Z",
+  "updated": "2026-10-21T20:51:18Z",
   "items": [
+    {
+      "id": "2026-10-21-ibm-q3",
+      "tag": "EARNINGS",
+      "headline": "IBM Q3 revenue $17.1B, up 5%; operating EPS $2.95 vs. $2.65",
+      "take": "IBM reported third-quarter revenue of $17.1 billion versus $16.3 billion a year earlier, with Software at $7.8 billion (up 8%), Consulting $5.3 billion (flat) and Infrastructure $3.7 billion (up 4%). GAAP diluted EPS from continuing operations was $2.31 versus $1.84, operating EPS $2.95 versus $2.65, and free cash flow $3.0 billion versus $2.4 billion. IBM kept its 4%-5% constant-currency revenue growth outlook and now expects free cash flow to rise by more than $1 billion for the year, which puts the software mix at the center of the story.",
+      "source_name": "IBM third-quarter 2026 results release, Oct. 21, 2026",
+      "source_url": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS",
+      "ticker": "NYSE:IBM",
+      "time": "2026-10-21T20:59:18Z",
+      "checked": "2026-10-21T20:51:18Z"
+    },
+    {
+      "id": "2026-10-21-txn-q3",
+      "tag": "EARNINGS",
+      "headline": "Texas Instruments Q3 revenue $6.06B, up 28%; EPS $2.62; Q4 EPS guide $2.45-$2.79",
+      "take": "TI reported third-quarter revenue of $6.06 billion, net income of $2.43 billion and earnings per share of $2.62; revenue rose 11% sequentially and 28% from a year ago, and operating profit was $2,874 million versus $1,663 million. Trailing-12-month free cash flow was $8.4 billion, and the company guided fourth-quarter revenue of $5.80-$6.30 billion and EPS of $2.45-$2.79. The guidance midpoint implies a modest step down in revenue from the third quarter.",
+      "source_name": "Texas Instruments Q3 2026 earnings release, Oct. 21, 2026",
+      "source_url": "https://investor.ti.com/news-releases/news-release-details/ti-reports-third-quarter-2026-financial-results-and-shareholder",
+      "ticker": "NASDAQ:TXN",
+      "time": "2026-10-21T21:09:18Z",
+      "checked": "2026-10-21T20:51:18Z"
+    },
+    {
+      "id": "2026-10-21-csx-q3",
+      "tag": "EARNINGS",
+      "headline": "CSX Q3 revenue $4.02B, up 12%; net earnings $1.05B, EPS $0.57 vs. $0.37",
+      "take": "CSX reported third-quarter revenue of $4.02 billion, up 12% year over year, with volume of 1.69 million units, 5% higher. Operating income was $1.57 billion versus $1.09 billion and net earnings were $1.05 billion, or $0.57 per diluted share, versus $0.37 a year earlier; the prior-year quarter included a $164 million non-cash goodwill impairment, and excluding it EPS was $0.44. The year-ago impairment flatters the GAAP comparison, so the adjusted prior-year base is the cleaner yardstick.",
+      "source_name": "CSX Corp. Q3 2026 results release, Oct. 21, 2026",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385878/0/en/csx-corp-announces-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:CSX",
+      "time": "2026-10-21T21:19:18Z",
+      "checked": "2026-10-21T20:51:18Z"
+    },
+    {
+      "id": "2026-10-21-rs-q3",
+      "tag": "EARNINGS",
+      "headline": "Reliance Q3 net sales $5.21B, up 42.8%; EPS $7.84 vs. $3.59",
+      "take": "Reliance reported record third-quarter net sales of $5.21 billion versus $3.65 billion a year earlier, with diluted EPS of $7.84 versus $3.59 and non-GAAP EPS of $8.02 versus $3.64. Tons sold were 1,867.2 thousand, up 15.6% from a year ago, and the quarterly dividend was declared at $1.25 a share. Management attributed the results to higher price levels for most carbon steel products, and pricing rather than volume drove most of the year-over-year gain.",
+      "source_name": "Reliance, Inc. Q3 2026 results release, Oct. 21, 2026",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385894/0/en/reliance-inc-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NYSE:RS",
+      "time": "2026-10-21T21:29:18Z",
+      "checked": "2026-10-21T20:51:18Z"
+    },
+    {
+      "id": "2026-10-21-cci-q3",
+      "tag": "EARNINGS",
+      "headline": "Crown Castle Q3 AFFO $530M, up 8%; full-year outlook updated",
+      "take": "Crown Castle reported third-quarter AFFO of $530 million, or $1.24 per share, up 8% and 11% from the third quarter of 2025, and site rental revenues of $966 million, down 4.5% year over year. Diluted net income per share was $0.67 versus $0.74. The company raised its 2026 outlook midpoints for Adjusted EBITDA by $25 million and AFFO by $5 million, to $1,980 million for AFFO. The outlook change is small relative to the full-year AFFO figure.",
+      "source_name": "Crown Castle Q3 2026 results release, Oct. 21, 2026",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385925/7657/en/crown-castle-reports-third-quarter-2026-results-and-updates-outlook-for-full-year-2026.html",
+      "ticker": "NYSE:CCI",
+      "time": "2026-10-21T21:39:18Z",
+      "checked": "2026-10-21T20:51:18Z"
+    },
     {
       "id": "2026-10-20-salesforce-braze",
       "tag": "DEALS",
