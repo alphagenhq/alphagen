@@ -1,0 +1,137 @@
+{
+ "updated": "2026-10-21T18:56:16Z",
+ "items": [
+  {
+   "id": "live-0001437749-26-033069-1.01",
+   "time": "2026-10-21T13:08:48Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Banzai International discloses a material agreement",
+   "take": "Banzai International reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 9:08 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PARA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm",
+   "ticker": "NASDAQ:PARA"
+  },
+  {
+   "id": "live-0001104659-26-117576-2.02",
+   "time": "2026-10-21T11:48:25Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Cencora releases financial results",
+   "take": "Cencora filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:48 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, COR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465926117576/0001104659-26-117576-index.htm",
+   "ticker": "NYSE:COR"
+  },
+  {
+   "id": "live-0000753308-26-000077-2.02",
+   "time": "2026-10-21T11:40:10Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Nextera Energy releases financial results",
+   "take": "Nextera Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:40 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NEE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/0000753308-26-000077-index.htm",
+   "ticker": "NYSE:NEE"
+  },
+  {
+   "id": "live-0001628280-26-066601-2.02",
+   "time": "2026-10-21T11:36:13Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Abbott Laboratories releases financial results",
+   "take": "Abbott Laboratories filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:36 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ABT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/0001628280-26-066601-index.htm",
+   "ticker": "NYSE:ABT"
+  },
+  {
+   "id": "live-0001156375-26-000065-2.02",
+   "time": "2026-10-21T11:13:51Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Cme Group releases financial results",
+   "take": "Cme Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:13 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CME Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000065/0001156375-26-000065-index.htm",
+   "ticker": "NASDAQ:CME"
+  },
+  {
+   "id": "live-0001628280-26-066596-2.02",
+   "time": "2026-10-21T11:04:41Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Philip Morris International releases financial results",
+   "take": "Philip Morris International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:04 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026066596/0001628280-26-066596-index.htm",
+   "ticker": "NYSE:PM"
+  },
+  {
+   "id": "live-0001628280-26-066594-2.02",
+   "time": "2026-10-21T10:57:57Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Moodys releases financial results",
+   "take": "Moodys filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MCO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026066594/0001628280-26-066594-index.htm",
+   "ticker": "NYSE:MCO"
+  },
+  {
+   "id": "live-0000073124-26-000063-2.02",
+   "time": "2026-10-21T10:39:37Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Northern Trust releases financial results",
+   "take": "Northern Trust filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:39 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NTRS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/73124/000007312426000063/0000073124-26-000063-index.htm",
+   "ticker": "NASDAQ:NTRS"
+  },
+  {
+   "id": "live-0000732717-26-000370-2.02",
+   "time": "2026-10-21T10:32:08Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "AT&T releases financial results",
+   "take": "AT&T filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:32 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, T Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000370/0000732717-26-000370-index.htm",
+   "ticker": "NYSE:T"
+  },
+  {
+   "id": "live-0000097745-26-000173-2.02",
+   "time": "2026-10-21T10:03:16Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Thermo Fisher Scientific releases financial results",
+   "take": "Thermo Fisher Scientific filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:03 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, TMO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000173/0000097745-26-000173-index.htm",
+   "ticker": "NYSE:TMO"
+  },
+  {
+   "id": "live-0001156039-26-000068-2.02",
+   "time": "2026-10-21T10:01:36Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Elevance Health releases financial results",
+   "take": "Elevance Health filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:01 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ELV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000068/0001156039-26-000068-index.htm",
+   "ticker": "NYSE:ELV"
+  },
+  {
+   "id": "live-0000313616-26-000201-2.02",
+   "time": "2026-10-20T21:43:14Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Danaher releases financial results",
+   "take": "Danaher filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:43 PM ET, Oct 20. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, DHR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000201/0000313616-26-000201-index.htm",
+   "ticker": "NYSE:DHR"
+  }
+ ]
+}
