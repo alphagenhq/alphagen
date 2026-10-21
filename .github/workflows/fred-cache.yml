@@ -1,0 +1,23 @@
+name: FRED data cache
+on:
+  push:
+    branches: [data]
+    paths-ignore: ["fred/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: fred-cache, cancel-in-progress: true }
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: data }
+      - run: python3 .github/scripts/fred_cache.py
+      - name: Commit
+        run: |
+          git config user.name "AlphaGen"; git config user.email "alphagenhq@users.noreply.github.com"
+          git add fred
+          git diff --cached --quiet && exit 0
+          git commit -m "AlphaGen FRED cache $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase origin data && git push origin HEAD:data && exit 0; sleep 5; done; exit 1
