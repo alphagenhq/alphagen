@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-16T11:45:33Z",
+  "updated": "2026-10-21T15:09:59Z",
   "items": [
+    {
+      "id": "2026-10-19-maximus-agile-defense",
+      "time": "2026-10-21T15:09:59Z",
+      "type": "M&A",
+      "headline": "Maximus to acquire Agile Defense for $660M cash plus up to $50M earnout",
+      "parties": "Acquirer: Maximus Federal Services, Inc. (subsidiary of Maximus, Inc.); Target: Agile Defense, LLC; Seller: Arclight Equity Holdings, LLC",
+      "value": 0.66,
+      "value_text": "$660M cash + up to $50M contingent",
+      "status": "Announced",
+      "announced": "2026-10-19",
+      "sector": "Government Services / Technology",
+      "take": "The $660 million cash price is reduced by Agile Defense's indebtedness and certain transaction expenses, with up to $50 million more tied to revenue milestones in the 12 months after closing. Closing is expected in Maximus's fiscal first quarter of 2027 and requires no shareholder approval.",
+      "source_name": "Maximus Form 8-K, Oct. 20, 2026 (Equity Purchase Agreement)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001032220/000103222026000038/mms-20261019.htm",
+      "tickers": [
+        "NYSE:MMS"
+      ]
+    },
     {
       "id": "2026-10-16-intl-seaways-bruton",
       "time": "2026-10-16T11:47:00Z",

@@ -1,6 +1,55 @@
 {
- "updated": "2026-10-16T12:34:06Z",
+ "updated": "2026-10-21T15:09:59Z",
  "items": [
+  {
+   "id": "2026-10-21-aerospace-defense-backlogs",
+   "time": "2026-10-21T15:09:59Z",
+   "tag": "EQUITIES",
+   "title": "Aerospace and defense: backlogs are growing faster than sales",
+   "dek": "RTX, GE Aerospace and Northrop Grumman all raised 2026 guidance on Oct. 20, and all three are booking demand faster than they can ship it.",
+   "key_points": [
+    "RTX: Q3 sales $24.97B (+12% organic), backlog $340B; 2026 adjusted EPS outlook raised to $7.65-$7.75 from $7.10-$7.25.",
+    "GE Aerospace: Q3 orders $19.0B (+49%) vs. adjusted revenue $13.29B (+18%); 2026 adjusted EPS guide raised to $8.00-$8.10.",
+    "Northrop Grumman: backlog $109.6B at Sept. 30, up from $95.7B at end-2025; 2026 MTM-adjusted EPS guide raised to $29.35-$29.75.",
+    "Cash lagged at two of three: RTX Q3 free cash flow $2.12B vs. $4.03B a year earlier; GE $2.04B vs. $2.36B."
+   ],
+   "body": [
+    "Three major U.S. aerospace and defense companies reported on Oct. 20, and the common thread was not the quarter itself but the order book behind it. RTX, GE Aerospace and Northrop Grumman each raised full-year guidance, and each is taking in demand faster than it is converting that demand to revenue.",
+    {
+     "h": "Orders outrunning output"
+    },
+    "GE Aerospace reported third-quarter orders of $19.0 billion, up 49%, against adjusted revenue of $13.29 billion, up 18%. RTX ended the quarter with a $340 billion backlog after 12% organic sales growth. Northrop Grumman's backlog rose to $109.6 billion at Sept. 30 from $95.7 billion at the end of 2025, a $13.9 billion build in nine months on quarterly sales of $11.12 billion.",
+    "When orders grow roughly two to three times faster than revenue, as at GE, the constraint on growth shifts from demand to capacity: supply chains, labor and factory throughput. That is a better problem than weak demand, but it means near-term results depend on execution more than on new wins.",
+    {
+     "h": "Guidance moved up across the board"
+    },
+    "RTX raised its 2026 adjusted sales outlook to $97.0-$97.5 billion from $95.0-$96.0 billion, organic growth to 10%-11% from 8%-9%, and adjusted EPS to $7.65-$7.75 from $7.10-$7.25. GE Aerospace lifted adjusted EPS guidance to $8.00-$8.10 from $7.65-$7.85 and operating profit to $10.9-$11.0 billion. Northrop moved MTM-adjusted EPS guidance to $29.35-$29.75 from $28.60-$29.10.",
+    {
+     "h": "The cash caveat"
+    },
+    "Cash flow was the weaker line. RTX's third-quarter free cash flow was $2.12 billion versus $4.03 billion a year earlier, and GE Aerospace's was $2.04 billion versus $2.36 billion, even as both raised full-year free cash flow ranges. Northrop went the other way, with adjusted free cash flow of $1.81 billion versus $1.26 billion.",
+    "The AlphaGen read: the sector's earnings story for 2026 is now about converting large order books into deliveries. The guidance raises show management confidence in that conversion; the uneven quarterly cash numbers are the place to watch for whether production is keeping pace."
+   ],
+   "sources": [
+    {
+     "name": "RTX Q3 2026 earnings release (SEC 8-K, Ex. 99)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000101829/000010182926000030/a2026-10x208xkerexhibit99.htm"
+    },
+    {
+     "name": "GE Aerospace Q3 2026 earnings release (SEC 8-K, Ex. 99)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm"
+    },
+    {
+     "name": "Northrop Grumman Q3 2026 earnings release (SEC 8-K, Ex. 99)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001133421/000113342126000037/noc-09302026xearningsrelea.htm"
+    }
+   ],
+   "tickers": [
+    "NYSE:RTX",
+    "NYSE:GE",
+    "NYSE:NOC"
+   ]
+  },
   {
    "id": "2026-10-16-fed-plumbing-tga",
    "time": "2026-10-16T12:34:06Z",
