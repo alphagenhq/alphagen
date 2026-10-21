@@ -2,17 +2,6 @@
  "updated": "2026-10-21T18:56:16Z",
  "items": [
   {
-   "id": "live-0001437749-26-033069-1.01",
-   "time": "2026-10-21T13:08:48Z",
-   "tag": "DEALS",
-   "live": true,
-   "headline": "Banzai International discloses a material agreement",
-   "take": "Banzai International reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 9:08 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, PARA Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm",
-   "ticker": "NASDAQ:PARA"
-  },
-  {
    "id": "live-0001104659-26-117576-2.02",
    "time": "2026-10-21T11:48:25Z",
    "tag": "EARNINGS",
@@ -28,8 +17,8 @@
    "time": "2026-10-21T11:40:10Z",
    "tag": "EARNINGS",
    "live": true,
-   "headline": "Nextera Energy releases financial results",
-   "take": "Nextera Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:40 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "headline": "NextEra Energy releases financial results",
+   "take": "NextEra Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:40 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
    "source_name": "SEC EDGAR, NEE Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/0000753308-26-000077-index.htm",
    "ticker": "NYSE:NEE"
@@ -50,8 +39,8 @@
    "time": "2026-10-21T11:13:51Z",
    "tag": "EARNINGS",
    "live": true,
-   "headline": "Cme Group releases financial results",
-   "take": "Cme Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:13 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "headline": "CME Group releases financial results",
+   "take": "CME Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:13 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
    "source_name": "SEC EDGAR, CME Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000065/0001156375-26-000065-index.htm",
    "ticker": "NASDAQ:CME"
@@ -72,8 +61,8 @@
    "time": "2026-10-21T10:57:57Z",
    "tag": "EARNINGS",
    "live": true,
-   "headline": "Moodys releases financial results",
-   "take": "Moodys filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "headline": "Moody's releases financial results",
+   "take": "Moody's filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
    "source_name": "SEC EDGAR, MCO Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026066594/0001628280-26-066594-index.htm",
    "ticker": "NYSE:MCO"
