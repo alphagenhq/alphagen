@@ -1,27 +1,7 @@
 {
- "updated": "2026-10-16T11:19:01Z",
+ "updated": "2026-10-22T12:49:51Z",
  "note": "Times are ET. Blank time means the agency schedule lists no time.",
  "items": [
-  {
-   "date": "2026-10-14",
-   "time": "08:30",
-   "name": "Consumer Price Index (Sep)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 3,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-14-consumerpriceindexsep"
-  },
-  {
-   "date": "2026-10-14",
-   "time": "08:30",
-   "name": "Real Earnings (Sep)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-14-realearningssep"
-  },
   {
    "date": "2026-10-15",
    "time": "08:30",
