@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-22T18:45:57Z",
+  "updated": "2026-10-22T19:52:16Z",
   "items": [
+    {
+      "id": "2026-10-22-AAL-Q3",
+      "time": "2026-10-22T19:55:16Z",
+      "ticker": "NASDAQ:AAL",
+      "name": "American Airlines Group",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 16.34,
+      "revenue_yoy": 19.3,
+      "eps": -0.41,
+      "eps_yoy": null,
+      "take": "Total revenue was $16.3B versus $13.7B; GAAP net loss was $269M versus $114M. Adjusted loss per share was $(0.28) versus $(0.17).",
+      "source_name": "American Airlines Q3 2026 earnings release (Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386182/0/en/american-sets-new-revenue-records-amid-historic-fuel-cost-pressure.html",
+      "checked": "2026-10-22T19:52:16Z"
+    },
+    {
+      "id": "2026-10-20-SCCO-Q3",
+      "time": "2026-10-22T20:11:16Z",
+      "ticker": "NYSE:SCCO",
+      "name": "Southern Copper Corporation",
+      "period": "Q3 2026",
+      "report_date": "2026-10-20",
+      "revenue": 4.7,
+      "revenue_yoy": 39.1,
+      "eps": 2.15,
+      "eps_yoy": 62.9,
+      "take": "Net sales were $4,696.6M versus $3,377.3M; net income attributable was $1,801.8M versus $1,107.6M. Mined copper production was 232,396 tonnes, down 1.1%.",
+      "source_name": "Southern Copper 3Q26 earnings release (Oct. 20, 2026, SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/scco-ex99d1.htm",
+      "checked": "2026-10-22T19:52:16Z"
+    },
     {
       "id": "2026-10-22-TSCO-Q3",
       "time": "2026-10-22T18:48:57Z",

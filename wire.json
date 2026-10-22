@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-22T18:45:57Z",
+  "updated": "2026-10-22T19:52:16Z",
   "items": [
+    {
+      "id": "2026-10-22-aal-q3",
+      "time": "2026-10-22T19:54:16Z",
+      "tag": "EARNINGS",
+      "headline": "American Airlines Q3 revenue $16.3B, up 19.3%; GAAP net loss $269M",
+      "take": "American Airlines reported Q3 total revenue of $16.3 billion versus $13.69 billion a year earlier, up 19.3%. The GAAP net loss was $269 million, or $(0.41) per diluted share, versus a $114 million loss, or $(0.17), in Q3 2025; the adjusted loss was $182 million, or $(0.28) per share. The loss widened despite the revenue gain, with fuel costs a major factor (see separate item).",
+      "source_name": "American Airlines Q3 2026 earnings release (Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386182/0/en/american-sets-new-revenue-records-amid-historic-fuel-cost-pressure.html",
+      "ticker": "NASDAQ:AAL",
+      "checked": "2026-10-22T19:52:16Z"
+    },
+    {
+      "id": "2026-10-22-aal-fuel-guidance",
+      "time": "2026-10-22T20:02:16Z",
+      "tag": "ENERGY",
+      "headline": "American Airlines Q3 jet fuel cost $3.85/gal vs. $2.37; sees Q4 near $4.70",
+      "take": "American's aircraft fuel and related taxes were $4.64 billion in Q3 versus $2.77 billion a year earlier, up 67.5%, at an average of $3.85 per gallon versus $2.37. It expects about $4.70 per gallon in Q4 and guides an adjusted loss of $(1.10) to $(0.50) per share for Q4 and $(1.60) to $(1.00) for 2026. Year-end liquidity was $11.8 billion.",
+      "source_name": "American Airlines Q3 2026 earnings release (Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386182/0/en/american-sets-new-revenue-records-amid-historic-fuel-cost-pressure.html",
+      "ticker": "NASDAQ:AAL",
+      "checked": "2026-10-22T19:52:16Z"
+    },
+    {
+      "id": "2026-10-20-scco-q3",
+      "time": "2026-10-22T20:10:16Z",
+      "tag": "EARNINGS",
+      "headline": "Southern Copper Q3 net sales $4.70B, up 39.1%; diluted EPS $2.15 vs. $1.32",
+      "take": "Southern Copper reported 3Q26 net sales of $4,696.6 million versus $3,377.3 million in 3Q25, up 39.1%. Net income attributable to the company was $1,801.8 million versus $1,107.6 million, up 62.7%, and diluted EPS was $2.15 versus $1.32. Mined copper production was 232,396 tonnes versus 234,892 tonnes, down 1.1%, so the revenue gain came without higher copper output.",
+      "source_name": "Southern Copper 3Q26 earnings release (Oct. 20, 2026, SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/scco-ex99d1.htm",
+      "ticker": "NYSE:SCCO",
+      "checked": "2026-10-22T19:52:16Z"
+    },
+    {
+      "id": "2026-10-20-scco-capex-dividend",
+      "time": "2026-10-22T20:18:16Z",
+      "tag": "COMMODITIES",
+      "headline": "Southern Copper Q3 capex $515.8M, up 47.7%; quarterly dividend $1.30",
+      "take": "Southern Copper spent $515.8 million on capital investments in 3Q26 versus $349.2 million in 3Q25, up 47.7% and equal to 28.6% of quarterly net income. The board authorized a $1.30 per share cash dividend plus a stock dividend of 0.0106 shares per share, payable Nov. 19 to holders of record Nov. 3. Mined zinc output fell 7.9% to 41,880 tonnes.",
+      "source_name": "Southern Copper 3Q26 earnings release (Oct. 20, 2026, SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/scco-ex99d1.htm",
+      "ticker": "NYSE:SCCO",
+      "checked": "2026-10-22T19:52:16Z"
+    },
+    {
+      "id": "2026-10-20-alk-q3",
+      "time": "2026-10-22T20:26:16Z",
+      "tag": "EARNINGS",
+      "headline": "Alaska Air Q3 revenue $4.31B, up 14%; GAAP loss $1.32/share; fuel $3.94/gal",
+      "take": "Alaska Air Group reported Q3 total operating revenue of $4,308 million versus $3,766 million a year earlier, up 14%. GAAP net loss was $147 million, or $(1.32) per share, versus net income of $73 million, or $0.62, while aircraft fuel expense rose 60% to $1,214 million. It guides a full-year 2026 adjusted loss of $(5.50) to $(5.00) per share, including $1.8 billion of fuel expense above plan.",
+      "source_name": "Alaska Air Group Q3 2026 earnings release (Oct. 20, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/alaska-air-group-reports-third-quarter-2026-results-302914716.html",
+      "ticker": "NYSE:ALK",
+      "checked": "2026-10-22T19:52:16Z"
+    },
     {
       "id": "2026-10-22-tsco-q3",
       "time": "2026-10-22T18:47:57Z",
