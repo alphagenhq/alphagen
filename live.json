@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-22T10:57:43Z",
+ "updated": "2026-10-22T11:33:27Z",
  "items": [
+  {
+   "id": "live-0000916365-26-000069-2.02",
+   "time": "2026-10-22T11:26:41Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Tractor Supply releases financial results",
+   "take": "Tractor Supply filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:26 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, TSCO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/916365/000091636526000069/0000916365-26-000069-index.htm",
+   "ticker": "NASDAQ:TSCO"
+  },
+  {
+   "id": "live-0001120193-26-000017-2.02",
+   "time": "2026-10-22T11:26:37Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Nasdaq releases financial results",
+   "take": "Nasdaq filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:26 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NDAQ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/0001120193-26-000017-index.htm",
+   "ticker": "NASDAQ:NDAQ"
+  },
+  {
+   "id": "live-0001628280-26-066783-2.02",
+   "time": "2026-10-22T11:05:59Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Comcast releases financial results",
+   "take": "Comcast filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:05 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CMCSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/0001628280-26-066783-index.htm",
+   "ticker": "NASDAQ:CMCSA"
+  },
+  {
+   "id": "live-0000080424-26-000250-2.02",
+   "time": "2026-10-22T11:02:49Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Procter & Gamble releases financial results",
+   "take": "Procter & Gamble filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:02 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000250/0000080424-26-000250-index.htm",
+   "ticker": "NYSE:PG"
+  },
+  {
+   "id": "live-0000006201-26-000064-2.02",
+   "time": "2026-10-22T11:00:25Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "American Airlines Group releases financial results",
+   "take": "American Airlines Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AAL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000064/0000006201-26-000064-index.htm",
+   "ticker": "NASDAQ:AAL"
+  },
+  {
+   "id": "live-0001751788-26-000155-2.02",
+   "time": "2026-10-22T10:57:56Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "DOW releases financial results",
+   "take": "DOW filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, DOW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1751788/000175178826000155/0001751788-26-000155-index.htm",
+   "ticker": "NYSE:DOW"
+  },
   {
    "id": "live-0001193125-26-428297-2.02",
    "time": "2026-10-22T10:55:08Z",
