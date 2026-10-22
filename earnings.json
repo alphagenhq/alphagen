@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T01:56:17Z",
+  "updated": "2026-10-22T02:54:52Z",
   "items": [
+    {
+      "id": "2026-10-21-ABT-Q3",
+      "time": "2026-10-22T02:57:52Z",
+      "ticker": "NYSE:ABT",
+      "name": "Abbott Laboratories",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 13.01,
+      "revenue_yoy": 14.5,
+      "eps": 0.53,
+      "eps_yoy": -43.6,
+      "take": "Net sales were $13,013M versus $11,369M; diluted EPS was $0.53 GAAP versus $0.94 and $1.42 adjusted versus $1.30.",
+      "source_name": "Abbott Q3 2026 earnings release",
+      "source_url": "https://prnewswire.com/news-releases/abbott-reports-third-quarter-2026-results-and-reaffirms-full-year-eps-guidance-302915370.html",
+      "checked": "2026-10-22T02:54:52Z"
+    },
     {
       "id": "2026-10-21-GL-Q3",
       "time": "2026-10-22T02:17:17Z",

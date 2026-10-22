@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-21T19:51:32Z",
+  "updated": "2026-10-22T02:54:52Z",
   "items": [
+    {
+      "id": "2026-10-19-ttm-ophir",
+      "time": "2026-10-22T03:28:52Z",
+      "type": "M&A",
+      "headline": "TTM Technologies to acquire MKS's Ophir Optics business for about $650M",
+      "parties": "Acquirer: TTM Technologies, Inc.; Target: Ophir Optics business of MKS Inc.",
+      "value": 0.65,
+      "value_text": "Approx. $650M all-cash, subject to customary closing adjustments",
+      "status": "Announced",
+      "announced": "2026-10-19",
+      "sector": "Technology / Optics",
+      "take": "TTM would pay approximately $650 million in cash, roughly 10.3x expected FY 2027 Adjusted EBITDA of Ophir Optics without synergies. Closing is expected in the second quarter of 2027, subject to regulatory approvals and customary conditions.",
+      "source_name": "TTM Technologies 8-K, Exhibit 99.1 (Oct. 19, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001116942/000119312526424707/d187690dex991.htm",
+      "tickers": [
+        "NASDAQ:TTMI"
+      ],
+      "checked": "2026-10-22T02:54:52Z"
+    },
     {
       "id": "2026-10-20-salesforce-braze",
       "time": "2026-10-21T19:52:32Z",

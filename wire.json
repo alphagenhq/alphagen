@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-22T01:56:17Z",
+  "updated": "2026-10-22T02:54:52Z",
   "items": [
+    {
+      "id": "2026-10-22-abt-q3",
+      "tag": "EARNINGS",
+      "headline": "Abbott Q3 sales $13.01B, up 14.5%; GAAP EPS $0.53 vs. $0.94",
+      "take": "Abbott reported third-quarter net sales of $13,013 million versus $11,369 million a year earlier, up 14.5% as reported and 7.0% on a comparable basis. Diluted EPS was $0.53 versus $0.94 on a GAAP basis, and $1.42 versus $1.30 adjusted. The gap between GAAP and adjusted EPS is the figure to watch alongside the sales growth.",
+      "source_name": "Abbott Q3 2026 earnings release",
+      "source_url": "https://prnewswire.com/news-releases/abbott-reports-third-quarter-2026-results-and-reaffirms-full-year-eps-guidance-302915370.html",
+      "ticker": "NYSE:ABT",
+      "time": "2026-10-22T02:56:52Z",
+      "checked": "2026-10-22T02:54:52Z"
+    },
+    {
+      "id": "2026-10-22-abt-guidance-diagnostics",
+      "tag": "EQUITIES",
+      "headline": "Abbott reaffirms 2026 adj. EPS $5.50-$5.55; Q4 guide $1.62-$1.67",
+      "take": "Abbott's release gives full-year 2026 adjusted diluted EPS of $5.50 to $5.55, Q4 adjusted diluted EPS of $1.62 to $1.67, and full-year comparable sales growth of about 6.0%. Diagnostics sales were $3,305 million, up 46.7% as reported and 6.4% comparable; the release says the reported figure reflects the Exact Sciences acquisition, which closed March 23, 2026. Medical Devices was the largest segment at $5,826 million.",
+      "source_name": "Abbott Q3 2026 earnings release",
+      "source_url": "https://prnewswire.com/news-releases/abbott-reports-third-quarter-2026-results-and-reaffirms-full-year-eps-guidance-302915370.html",
+      "ticker": "NYSE:ABT",
+      "time": "2026-10-22T03:03:52Z",
+      "checked": "2026-10-22T02:54:52Z"
+    },
+    {
+      "id": "2026-10-22-gty-q3",
+      "tag": "EARNINGS",
+      "headline": "Getty Realty Q3 revenue $63.0M, up 13.3%; AFFO $0.64/share vs. $0.62",
+      "take": "Getty Realty reported third-quarter total revenues of $62,990 thousand versus $55,591 thousand a year earlier and net earnings of $25,606 thousand versus $23,348 thousand, or $0.40 per share in both periods. FFO was $0.61 per share versus $0.66, while AFFO was $0.64 per share versus $0.62. Revenue growth outpaced the change in per-share AFFO.",
+      "source_name": "Getty Realty Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385885/0/en/getty-realty-corp-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:GTY",
+      "time": "2026-10-22T03:11:52Z",
+      "checked": "2026-10-22T02:54:52Z"
+    },
+    {
+      "id": "2026-10-22-gty-guidance-acquisitions",
+      "tag": "EQUITIES",
+      "headline": "Getty Realty raises 2026 AFFO guide to $2.53-$2.54; $502.3M invested YTD",
+      "take": "Getty Realty raised its 2026 AFFO guidance to $2.53 to $2.54 per diluted share from $2.52 to $2.54. It invested $297.4 million across 68 properties in Q3 at a 6.9% initial cash yield and $502.3 million year to date at 7.2%. The release cites a committed pipeline of more than $75 million for 29 properties.",
+      "source_name": "Getty Realty Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385885/0/en/getty-realty-corp-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:GTY",
+      "time": "2026-10-22T03:19:52Z",
+      "checked": "2026-10-22T02:54:52Z"
+    },
+    {
+      "id": "2026-10-19-ttm-ophir",
+      "tag": "DEALS",
+      "headline": "TTM to acquire MKS's Ophir Optics business for about $650M in cash",
+      "take": "TTM Technologies agreed to acquire the Ophir Optics business from MKS Inc. for approximately $650 million in cash, subject to customary closing adjustments, with closing expected in the second quarter of 2027. TTM's release puts the price at roughly 10.3x expected FY 2027 Adjusted EBITDA of Ophir Optics, without synergies, and the deal excludes the Ophir Instruments laser characterization business. Closing remains subject to regulatory approvals and other customary conditions.",
+      "source_name": "TTM Technologies 8-K, Exhibit 99.1 (Oct. 19, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001116942/000119312526424707/d187690dex991.htm",
+      "ticker": "NASDAQ:TTMI",
+      "time": "2026-10-22T03:27:52Z",
+      "checked": "2026-10-22T02:54:52Z"
+    },
     {
       "id": "2026-10-22-spcx-q3",
       "tag": "EARNINGS",
