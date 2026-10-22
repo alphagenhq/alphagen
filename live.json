@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T21:06:07Z",
+ "updated": "2026-10-22T21:38:13Z",
  "items": [
+  {
+   "id": "live-0001104659-26-118193-5.02",
+   "time": "2026-10-22T21:15:22Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Citigroup reports an executive or board change",
+   "take": "Citigroup reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 5:15 PM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, C Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/831001/000110465926118193/0001104659-26-118193-index.htm",
+   "ticker": "NYSE:C"
+  },
   {
    "id": "live-0001193125-26-429079-5.02",
    "time": "2026-10-22T21:00:13Z",
