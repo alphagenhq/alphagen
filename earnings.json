@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-22T19:52:16Z",
+  "updated": "2026-10-22T20:50:32Z",
   "items": [
+    {
+      "id": "2026-10-20-EWBC-Q3",
+      "time": "2026-10-22T20:53:32Z",
+      "ticker": "NASDAQ:EWBC",
+      "name": "East West Bancorp",
+      "period": "Q3 2026",
+      "report_date": "2026-10-20",
+      "revenue": 0.823,
+      "revenue_yoy": 5.8,
+      "eps": 2.76,
+      "eps_yoy": 4.2,
+      "take": "Total revenue was $823M versus $778M; net income was $382M versus $368M. Total loans were $59.7B and deposits $71.5B at Sept. 30.",
+      "source_name": "East West Bancorp Q3 2026 earnings release",
+      "source_url": "https://www.businesswire.com/news/home/20261020732692/en/East-West-Bancorp-Reports-Record-Quarterly-Net-Income-of-$382-Million-and-Record-Quarterly-Diluted-Earnings-Per-Share-of-$2.76-on-Record-Total-Revenue",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-21-LBRT-Q3",
+      "time": "2026-10-22T20:59:32Z",
+      "ticker": "NYSE:LBRT",
+      "name": "Liberty Energy",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 1.196,
+      "revenue_yoy": 26.3,
+      "eps": -0.24,
+      "eps_yoy": null,
+      "take": "Revenue was $1,196.2M versus $947.4M; net loss was $39.1M versus net income of $43.1M. Capex was $621.9M versus $113.0M.",
+      "source_name": "Liberty Energy Q3 2026 earnings release",
+      "source_url": "https://www.businesswire.com/news/home/20261021907753/en/Liberty-Energy-Inc.-Announces-Third-Quarter-2026-Financial-and-Operational-Results",
+      "checked": "2026-10-22T20:50:32Z"
+    },
     {
       "id": "2026-10-22-AAL-Q3",
       "time": "2026-10-22T19:55:16Z",

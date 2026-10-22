@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-22T17:08:44Z",
+  "updated": "2026-10-22T20:51:32Z",
   "items": [
+    {
+      "id": "2026-10-22-the-close",
+      "time": "2026-10-22T20:51:32Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Fuel costs and capex weigh on results as central banks diverge",
+      "dek": "Union Pacific and Liberty Energy reported fuel and capital-spending pressure, while Korea held rates and Turkey cut.",
+      "key_points": [
+        "Union Pacific: fuel unfavorably affected the Q3 operating ratio by 140 basis points; Q3 revenue was $7,197M, up 15%, and diluted EPS was $3.49 versus $3.01.",
+        "Liberty Energy: Q3 revenue rose 26.3% to $1,196.2M, but it posted a $39.1M net loss as capex reached $621.9M versus $113.0M.",
+        "Lazard: Q3 GAAP net revenue was $814M versus $748M, yet GAAP diluted EPS fell to $0.26 from $0.65.",
+        "Bank of Korea held its Base Rate at 3.00% on a 7-0 vote; Turkey's central bank cut its one-week repo rate to 36% from 37%."
+      ],
+      "talking_points": [
+        "Union Pacific said higher fuel prices hurt its operating ratio by 140 basis points this quarter, a reminder that energy costs can squeeze profit margins even when revenue and shipping volumes are growing.",
+        "Liberty Energy's revenue grew 26% but it posted a loss after spending $621.9 million on equipment, showing that companies investing heavily for future demand can see current earnings fall first.",
+        "The Bank of Korea held rates at 3.00% while Turkey's central bank cut to 36%, so central banks worldwide are moving in different directions, and everyday investors should not assume one path for all."
+      ],
+      "body": [
+        "Thursday's results were a study in how input costs and investment spending can separate revenue growth from profit growth, while two central banks took different steps on the same day.",
+        {
+          "h": "Fuel and capital spending"
+        },
+        "Union Pacific reported third-quarter operating revenue of $7,197 million versus $6,244 million a year earlier, up 15.3% by our calculation. Operating income rose to $2,943 million from $2,549 million. Reported diluted EPS was $3.49 versus $3.01, and adjusted diluted EPS was $3.53 versus $3.08. Revenue carloads grew 6%. The company said higher fuel prices unfavorably affected its operating ratio by 140 basis points, and that its reported 2026 operating ratio is challenged by high fuel prices while the core business is improving. It affirmed high-single-digit reported EPS growth for 2026 and listed a $3.5 billion capital plan as updated.",
+        "Liberty Energy shows the other side of heavy investment. Its revenue was $1,196.2 million versus $947.4 million a year earlier, up 26.3%, and adjusted EBITDA was $141.6 million. But it reported a net loss of $39.1 million, or $(0.24) per diluted share, against net income of $43.1 million, or $0.26. Capital expenditures were $621.9 million versus $113.0 million. The company also described a strategic development agreement covering 1.2 GW of integrated power services at data center campuses, with a first energy service agreement of about 500 MW targeted by December 2026 and phased energization from Q4 2027 through Q1 2029. It declared a $0.10 quarterly dividend, up from $0.09.",
+        {
+          "h": "Advisory and banking"
+        },
+        "Lazard reported GAAP net revenue of $814 million versus $748 million, up 8.8%. Financial Advisory revenue was $470 million versus $427 million, and Asset Management revenue was $357 million versus $327 million. Even so, GAAP diluted EPS fell to $0.26 from $0.65, and adjusted diluted EPS to $0.36 from $0.56. The company repurchased $33 million of stock in the quarter. East West Bancorp, which reported earlier in the week, posted Q3 net income of $382 million versus $368 million and diluted EPS of $2.76 versus $2.65.",
+        {
+          "h": "Central banks go separate ways"
+        },
+        "The Bank of Korea held its Base Rate at 3.00% on Oct. 22, with all seven board members voting for the hold. It reported September consumer price inflation of 2.9% and core inflation of 2.8%, and said it will decide the timing and pace of further increases after reviewing third-quarter GDP and October inflation data. The Central Bank of the Republic of Turkiye moved the other way, lowering its one-week repo auction rate by 1 percentage point to 36%. It said recent figures confirm a deceleration in underlying inflation, while flagging elevated energy prices as an upside risk.",
+        {
+          "h": "What to watch"
+        },
+        "Fuel is the common thread between the railroad's margin comment and the Turkish committee's inflation warning. In the United States, the next official events are the Federal Open Market Committee meeting on Oct. 27-28 and the advance third-quarter GDP and September PCE releases on Oct. 29, according to the schedule cited in this morning's brief."
+      ],
+      "sources": [
+        {
+          "name": "Union Pacific Q3 2026 earnings release",
+          "url": "https://www.up.com/press-releases/financial/3q26-earnings-261022"
+        },
+        {
+          "name": "Liberty Energy Q3 2026 earnings release",
+          "url": "https://www.businesswire.com/news/home/20261021907753/en/Liberty-Energy-Inc.-Announces-Third-Quarter-2026-Financial-and-Operational-Results"
+        },
+        {
+          "name": "Lazard Q3 2026 results release",
+          "url": "https://www.prnewswire.com/news-releases/lazard-reports-third-quarter-and-nine-month-2026-results-302916068.html"
+        },
+        {
+          "name": "East West Bancorp Q3 2026 earnings release",
+          "url": "https://www.businesswire.com/news/home/20261020732692/en/East-West-Bancorp-Reports-Record-Quarterly-Net-Income-of-$382-Million-and-Record-Quarterly-Diluted-Earnings-Per-Share-of-$2.76-on-Record-Total-Revenue"
+        },
+        {
+          "name": "Bank of Korea Monetary Policy Decision (Oct. 22, 2026)",
+          "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng"
+        },
+        {
+          "name": "Central Bank of the Republic of Turkiye press release 2026-45",
+          "url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/announcements/press+releases/2026/ano2026-45"
+        }
+      ],
+      "tickers": [
+        "NYSE:UNP",
+        "NYSE:LBRT",
+        "NYSE:LAZ",
+        "NASDAQ:EWBC"
+      ],
+      "checked": "2026-10-22T20:50:32Z"
+    },
     {
       "id": "2026-10-22-organic-growth-split",
       "time": "2026-10-22T17:08:44Z",

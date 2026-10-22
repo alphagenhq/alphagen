@@ -1,6 +1,81 @@
 {
-  "updated": "2026-10-22T19:52:16Z",
+  "updated": "2026-10-22T20:50:32Z",
   "items": [
+    {
+      "id": "2026-10-22-unp-fuel-outlook",
+      "time": "2026-10-22T20:52:32Z",
+      "tag": "ENERGY",
+      "headline": "Union Pacific: fuel cut Q3 operating ratio by 140 bp; 2026 capital plan $3.5B",
+      "take": "Union Pacific said higher fuel prices unfavorably affected its Q3 operating ratio by 140 basis points, and that its reported 2026 operating ratio is challenged by high fuel prices while the core business is improving. It affirmed high-single-digit reported EPS growth for 2026 and listed a $3.5 billion capital plan as updated. Fuel is the company's own explanation for why the reported operating ratio improved only 10 basis points despite 15% revenue growth.",
+      "source_name": "Union Pacific Q3 2026 earnings release",
+      "source_url": "https://www.up.com/press-releases/financial/3q26-earnings-261022",
+      "ticker": "NYSE:UNP",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-22-bok-hold-300",
+      "time": "2026-10-22T20:59:32Z",
+      "tag": "GLOBAL",
+      "headline": "Bank of Korea holds Base Rate at 3.00%, 7-0; September CPI 2.9%",
+      "take": "The Bank of Korea held its Base Rate at 3.00% on Oct. 22 with all seven Monetary Policy Board members in favor. It put September consumer price inflation at 2.9% and core at 2.8%, and said it will set the timing and pace of further increases after reviewing Q3 GDP and October inflation data. A hold paired with language about further increases keeps Seoul on a tightening bias.",
+      "source_name": "Bank of Korea Monetary Policy Decision (Oct. 22, 2026)",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?nttId=11065825&menuNo=400423&relate=Y&depth=400423&programType=newsDataEng",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-22-tcmb-cut-36",
+      "time": "2026-10-22T21:06:32Z",
+      "tag": "GLOBAL",
+      "headline": "Turkey's central bank cuts one-week repo rate to 36% from 37%",
+      "take": "The Central Bank of the Republic of Turkiye lowered its one-week repo auction rate by 1 percentage point to 36% on Oct. 22, with the overnight lending rate cut to 39% from 40% and the overnight borrowing rate to 34.5% from 35.5%. The committee said recent figures confirm a deceleration in underlying inflation, but flagged elevated energy prices as an upside risk. The easing is gradual and conditioned on that energy risk.",
+      "source_name": "Central Bank of the Republic of Turkiye press release 2026-45",
+      "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/en/tcmb+en/main+menu/announcements/press+releases/2026/ano2026-45",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-20-ewbc-q3",
+      "time": "2026-10-22T21:13:32Z",
+      "tag": "EARNINGS",
+      "headline": "East West Bancorp Q3 net income $382M; diluted EPS $2.76 vs. $2.65",
+      "take": "East West Bancorp reported Q3 2026 total revenue of $823 million versus $778 million a year earlier, up 5.8%. Net income was $382 million versus $368 million, and diluted EPS was $2.76 versus $2.65, up 4.2%. Total loans were $59.7 billion and total deposits $71.5 billion at Sept. 30, so earnings growth ran ahead of revenue growth.",
+      "source_name": "East West Bancorp Q3 2026 earnings release",
+      "source_url": "https://www.businesswire.com/news/home/20261020732692/en/East-West-Bancorp-Reports-Record-Quarterly-Net-Income-of-$382-Million-and-Record-Quarterly-Diluted-Earnings-Per-Share-of-$2.76-on-Record-Total-Revenue",
+      "ticker": "NASDAQ:EWBC",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-21-lbrt-q3",
+      "time": "2026-10-22T21:20:32Z",
+      "tag": "EARNINGS",
+      "headline": "Liberty Energy Q3 revenue $1,196.2M, up 26%; net loss $39.1M",
+      "take": "Liberty Energy reported Q3 2026 revenue of $1,196.2 million versus $947.4 million a year earlier, up 26.3%. It posted a net loss of $39.1 million, or $(0.24) per diluted share, versus net income of $43.1 million, or $0.26; adjusted EBITDA was $141.6 million. Capital expenditures were $621.9 million versus $113.0 million, so spending rose about 5.5x as revenue grew.",
+      "source_name": "Liberty Energy Q3 2026 earnings release",
+      "source_url": "https://www.businesswire.com/news/home/20261021907753/en/Liberty-Energy-Inc.-Announces-Third-Quarter-2026-Financial-and-Operational-Results",
+      "ticker": "NYSE:LBRT",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-21-lbrt-power-1-2gw",
+      "time": "2026-10-22T21:27:32Z",
+      "tag": "ENERGY",
+      "headline": "Liberty Energy signs development agreement for 1.2 GW of data-center power",
+      "take": "Liberty Energy said a strategic development agreement with a frontier AI lab and an infrastructure platform covers 1.2 GW of integrated power services at data center campuses, with a significant prepayment of capacity fees. It targets execution of a first energy service agreement for about 500 MW by December 2026, with phased energization from Q4 2027 through Q1 2029. The timetable shows revenue from the power build-out is years away, while Q3 capex has already risen.",
+      "source_name": "Liberty Energy Q3 2026 earnings release",
+      "source_url": "https://www.businesswire.com/news/home/20261021907753/en/Liberty-Energy-Inc.-Announces-Third-Quarter-2026-Financial-and-Operational-Results",
+      "ticker": "NYSE:LBRT",
+      "checked": "2026-10-22T20:50:32Z"
+    },
+    {
+      "id": "2026-10-22-lazard-segments-buyback",
+      "time": "2026-10-22T21:34:32Z",
+      "tag": "EQUITIES",
+      "headline": "Lazard Q3: Financial Advisory $470M, Asset Management $357M; $33M buyback",
+      "take": "Lazard's Q3 GAAP net revenue was $470 million in Financial Advisory versus $427 million (up 10%) and $357 million in Asset Management versus $327 million (up 9%). It repurchased $33 million of common stock in the quarter, with about $224 million of authorization remaining at Sept. 30. Both segments grew at similar rates, yet GAAP diluted EPS fell to $0.26 from $0.65.",
+      "source_name": "Lazard Q3 2026 results release",
+      "source_url": "https://www.prnewswire.com/news-releases/lazard-reports-third-quarter-and-nine-month-2026-results-302916068.html",
+      "ticker": "NYSE:LAZ",
+      "checked": "2026-10-22T20:50:32Z"
+    },
     {
       "id": "2026-10-22-aal-q3",
       "time": "2026-10-22T19:54:16Z",
