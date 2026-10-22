@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-22T14:09:31Z",
+  "updated": "2026-10-22T18:45:57Z",
   "items": [
+    {
+      "id": "2026-10-21-cencora-aon",
+      "time": "2026-10-22T19:04:57Z",
+      "type": "M&A",
+      "headline": "Cencora agrees to acquire remaining equity of American Oncology Network; EV $2.4B",
+      "parties": "Acquirer: Cencora; Target: American Oncology Network",
+      "value": 2.4,
+      "value_text": "Enterprise value $2.4B ($2.3B at closing plus CVRs of up to $100M)",
+      "status": "Announced",
+      "announced": "2026-10-21",
+      "sector": "Healthcare services",
+      "take": "Cencora, which holds about 4%, agreed to acquire all equity it does not own; assuming a 25% stockholder rollover it expects to pay about $1.7B to reach 75%. Closing is subject to regulatory clearances and AON stockholder approval.",
+      "source_name": "Cencora press release (Oct. 21, 2026)",
+      "source_url": "https://www.cencora.com/newsroom/cencora-to-acquire-american-oncology-network",
+      "tickers": [
+        "NYSE:COR"
+      ],
+      "checked": "2026-10-22T18:45:57Z"
+    },
     {
       "id": "2026-10-19-merckkgaa-silence",
       "time": "2026-10-22T14:32:31Z",

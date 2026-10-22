@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T17:45:01Z",
+  "updated": "2026-10-22T18:45:57Z",
   "items": [
+    {
+      "id": "2026-10-22-TSCO-Q3",
+      "time": "2026-10-22T18:48:57Z",
+      "ticker": "NASDAQ:TSCO",
+      "name": "Tractor Supply Company",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 3.91,
+      "revenue_yoy": 5.1,
+      "eps": 0.43,
+      "eps_yoy": null,
+      "take": "Net sales were $3.91B versus $3.72B; comparable store sales rose 0.4%. Diluted EPS was $0.43 versus $0.49 and net income $224.7M versus $259.3M.",
+      "source_name": "Tractor Supply Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000916365/000091636526000069/ex991-q32026earningsrelease.htm",
+      "checked": "2026-10-22T18:45:57Z"
+    },
     {
       "id": "2026-10-22-DOW-Q3",
       "time": "2026-10-22T17:58:01Z",
