@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T12:10:47Z",
+ "updated": "2026-10-22T13:00:10Z",
  "items": [
+  {
+   "id": "live-0001628280-26-066795-2.02",
+   "time": "2026-10-22T12:20:14Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Valero Energy releases financial results",
+   "take": "Valero Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:20 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, VLO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026066795/0001628280-26-066795-index.htm",
+   "ticker": "NYSE:VLO"
+  },
+  {
+   "id": "live-0001193125-26-428384-2.02",
+   "time": "2026-10-22T12:20:13Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Norfolk Southern releases financial results",
+   "take": "Norfolk Southern filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:20 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NSC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/702165/000119312526428384/0001193125-26-428384-index.htm",
+   "ticker": "NYSE:NSC"
+  },
   {
    "id": "live-0000100885-26-000319-2.02",
    "time": "2026-10-22T11:46:52Z",
