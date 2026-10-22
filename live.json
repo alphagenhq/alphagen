@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-21T21:13:02Z",
+ "updated": "2026-10-22T10:19:53Z",
  "items": [
+  {
+   "id": "live-0000773840-26-000141-2.02",
+   "time": "2026-10-22T10:02:13Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Honeywell International releases financial results",
+   "take": "Honeywell International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:02 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HON Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000141/0000773840-26-000141-index.htm",
+   "ticker": "NASDAQ:HON"
+  },
+  {
+   "id": "live-0001004980-26-000056-2.02",
+   "time": "2026-10-22T01:04:50Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "PG&E releases financial results",
+   "take": "PG&E filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 9:04 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PCG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498026000056/0001004980-26-000056-index.htm",
+   "ticker": "NYSE:PCG"
+  },
   {
    "id": "live-0000070858-26-000494-5.02",
    "time": "2026-10-21T21:07:03Z",
