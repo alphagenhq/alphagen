@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T20:29:41Z",
+ "updated": "2026-10-22T21:06:07Z",
  "items": [
+  {
+   "id": "live-0001193125-26-429079-5.02",
+   "time": "2026-10-22T21:00:13Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Brown & Brown reports an executive or board change",
+   "take": "Brown & Brown reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 5:00 PM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BRO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/79282/000119312526429079/0001193125-26-429079-index.htm",
+   "ticker": "NYSE:BRO"
+  },
   {
    "id": "live-0001397187-26-000135-5.02",
    "time": "2026-10-22T20:15:47Z",
