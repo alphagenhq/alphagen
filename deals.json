@@ -1,6 +1,44 @@
 {
-  "updated": "2026-10-22T02:54:52Z",
+  "updated": "2026-10-22T14:09:31Z",
   "items": [
+    {
+      "id": "2026-10-19-merckkgaa-silence",
+      "time": "2026-10-22T14:32:31Z",
+      "type": "M&A",
+      "headline": "Merck KGaA to acquire Silence Therapeutics for $20.00 per ADS in cash, about $1.3B",
+      "parties": "Acquirer: Merck KGaA, Darmstadt, Germany; Target: Silence Therapeutics plc",
+      "value": 1.3,
+      "value_text": "About $1.3B equity value ($20.00 per ADS in cash); enterprise value $1.1B",
+      "status": "Announced",
+      "announced": "2026-10-19",
+      "sector": "Biotechnology",
+      "take": "The $20.00 per-ADS cash price is a 130% premium to the Oct. 16 close and 82% above the 30-day VWAP of $10.99. Holders of about 14% of the voting power signed a support agreement; closing is expected in Q1 2027.",
+      "source_name": "Silence Therapeutics press release (Oct. 19, 2026)",
+      "source_url": "https://silence-therapeutics.com/investors/press-releases/press-releases-details/2026/Silence-Therapeutics-Enters-into-Agreement-to-be-Acquired-by-Merck-KGaA-Darmstadt-Germany/default.aspx",
+      "tickers": [
+        "NASDAQ:SLN"
+      ],
+      "checked": "2026-10-22T14:09:31Z"
+    },
+    {
+      "id": "2026-10-21-cognizant-dyflex",
+      "time": "2026-10-22T14:46:31Z",
+      "type": "M&A",
+      "headline": "Cognizant to acquire DyFlex Solutions, an Australia-based SAP Platinum Partner",
+      "parties": "Acquirer: Cognizant; Target: DyFlex Solutions",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-21",
+      "sector": "IT Services",
+      "take": "DyFlex was founded in 2011, has over 300 people and provides SAP advisory, implementation and managed services across Australia and New Zealand. Closing is expected in the first quarter of 2027, subject to regulatory approvals.",
+      "source_name": "Cognizant press release (Oct. 21, 2026)",
+      "source_url": "https://investors.cognizant.com/news-and-events/news/news-details/2026/Cognizant-to-Acquire-DyFlex-Solutions-Accelerating-AI-Led-Enterprise-Transformation-for-SAP-Clients-in-Australia-and-New-Zealand/default.aspx",
+      "tickers": [
+        "NASDAQ:CTSH"
+      ],
+      "checked": "2026-10-22T14:09:31Z"
+    },
     {
       "id": "2026-10-19-ttm-ophir",
       "time": "2026-10-22T03:28:52Z",
