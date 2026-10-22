@@ -1,77 +1,106 @@
 {
- "updated": "2026-10-16T12:34:06Z",
- "items": [
-  {
-   "id": "2026-10-16-brent-wti",
-   "time": "2026-10-16T12:34:06Z",
-   "title": "The oil shock is a Brent shock: a $25 gap over WTI",
-   "subtitle": "Brent (Europe) and WTI (Cushing, Okla.) crude oil spot prices, daily, dollars per barrel",
-   "series": [
+  "updated": "2026-10-22T11:52:24Z",
+  "items": [
     {
-     "id": "DCOILBRENTEU",
-     "label": "Brent",
-     "t": "lvl"
+      "id": "2026-10-22-ten-year-real-breakeven",
+      "time": "2026-10-22T11:52:24Z",
+      "title": "What's in a 5% 10-year yield: 2.77% real, 2.35% inflation compensation",
+      "subtitle": "10-year Treasury constant maturity yield, 10-year TIPS yield and 10-year breakeven inflation rate, daily, percent",
+      "series": [
+        {
+          "id": "DGS10",
+          "label": "10-year yield",
+          "t": "lvl"
+        },
+        {
+          "id": "DFII10",
+          "label": "10-year TIPS (real) yield",
+          "t": "lvl"
+        },
+        {
+          "id": "T10YIE",
+          "label": "10-year breakeven",
+          "t": "lvl"
+        }
+      ],
+      "start": "2025-01-01",
+      "units": "%",
+      "take": "The 10-year Treasury yield was 5.12% on October 20, down from 5.19% on October 14. The 10-year TIPS (real) yield was 2.77% on October 20 versus 2.84% on October 14, and the 10-year breakeven inflation rate was 2.35% on both dates. The 7 basis point decline in the nominal yield over those four sessions therefore came entirely from the real component, since 2.77% plus 2.35% equals 5.12%. Breakeven inflation holding steady while real yields set the level means the bond market's price for inflation is not what is driving long-term borrowing costs.",
+      "source": "Board of Governors of the Federal Reserve System (H.15) via FRED (DGS10, DFII10, T10YIE)",
+      "source_url": "https://fred.stlouisfed.org/series/DFII10",
+      "checked": "2026-10-22T11:52:24Z"
     },
     {
-     "id": "DCOILWTICO",
-     "label": "WTI",
-     "t": "lvl"
-    }
-   ],
-   "start": "2025-01-01",
-   "units": "",
-   "take": "Brent crude was $126.55 a barrel on October 14 and WTI was $101.91, a spread of $24.64. On October 8 the gap was $31.92, with Brent at $130.18 and WTI at $98.26, so the spread has narrowed by $7.28 in four trading sessions as WTI rose and Brent eased. Even after that narrowing, a premium of this size says the shock is concentrated in internationally traded, seaborne crude rather than U.S. inland supply. That matters for inflation abroad, where Brent-linked fuel costs bite hardest, and for U.S. refiners and exporters, which are buying crude far below the global benchmark.",
-   "source": "U.S. Energy Information Administration via FRED (DCOILBRENTEU, DCOILWTICO)",
-   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-   "checked": "2026-10-16T12:34:06Z"
-  },
-  {
-   "id": "2026-10-15-credit-spreads",
-   "time": "2026-10-15T12:11:06Z",
-   "title": "Junk spreads are widening; investment grade is not",
-   "subtitle": "ICE BofA US High Yield and US Corporate (IG) option-adjusted spreads, daily, %",
-   "series": [
-    {
-     "id": "BAMLH0A0HYM2",
-     "label": "High-yield OAS",
-     "t": "lvl"
+      "id": "2026-10-16-brent-wti",
+      "time": "2026-10-16T12:34:06Z",
+      "title": "The oil shock is a Brent shock: a $25 gap over WTI",
+      "subtitle": "Brent (Europe) and WTI (Cushing, Okla.) crude oil spot prices, daily, dollars per barrel",
+      "series": [
+        {
+          "id": "DCOILBRENTEU",
+          "label": "Brent",
+          "t": "lvl"
+        },
+        {
+          "id": "DCOILWTICO",
+          "label": "WTI",
+          "t": "lvl"
+        }
+      ],
+      "start": "2025-01-01",
+      "units": "",
+      "take": "Brent crude was $126.55 a barrel on October 14 and WTI was $101.91, a spread of $24.64. On October 8 the gap was $31.92, with Brent at $130.18 and WTI at $98.26, so the spread has narrowed by $7.28 in four trading sessions as WTI rose and Brent eased. Even after that narrowing, a premium of this size says the shock is concentrated in internationally traded, seaborne crude rather than U.S. inland supply. That matters for inflation abroad, where Brent-linked fuel costs bite hardest, and for U.S. refiners and exporters, which are buying crude far below the global benchmark.",
+      "source": "U.S. Energy Information Administration via FRED (DCOILBRENTEU, DCOILWTICO)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "checked": "2026-10-16T12:34:06Z"
     },
     {
-     "id": "BAMLC0A0CM",
-     "label": "Investment-grade OAS",
-     "t": "lvl"
-    }
-   ],
-   "start": "2023-11-01",
-   "units": "%",
-   "take": "The ICE BofA US High Yield option-adjusted spread stood at 3.16% on October 13, up 56 basis points from its 2026 low of 2.60% on August 28 and 33 basis points above its January 2 level of 2.83%. The investment-grade spread was 0.83%, only 4 basis points wider than on January 2. That divergence suggests investors are repricing risk in lower-rated, more energy- and consumer-sensitive borrowers rather than in credit broadly. With bank releases this week showing higher card-loss provisions, high-yield is the spread to watch for signs the oil shock is reaching corporate balance sheets.",
-   "source": "ICE Data Indices via FRED (BAMLH0A0HYM2, BAMLC0A0CM)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-   "checked": "2026-10-15T17:51:00Z"
-  },
-  {
-   "id": "2026-10-14-2s10s",
-   "time": "2026-10-14T19:55:00Z",
-   "title": "From inverted to positive: the 2s10s Treasury curve",
-   "subtitle": "2-year and 10-year Treasury yields, daily, %",
-   "series": [
-    {
-     "id": "DGS10",
-     "label": "10-year Treasury",
-     "t": "lvl"
+      "id": "2026-10-15-credit-spreads",
+      "time": "2026-10-15T12:11:06Z",
+      "title": "Junk spreads are widening; investment grade is not",
+      "subtitle": "ICE BofA US High Yield and US Corporate (IG) option-adjusted spreads, daily, %",
+      "series": [
+        {
+          "id": "BAMLH0A0HYM2",
+          "label": "High-yield OAS",
+          "t": "lvl"
+        },
+        {
+          "id": "BAMLC0A0CM",
+          "label": "Investment-grade OAS",
+          "t": "lvl"
+        }
+      ],
+      "start": "2023-11-01",
+      "units": "%",
+      "take": "The ICE BofA US High Yield option-adjusted spread stood at 3.16% on October 13, up 56 basis points from its 2026 low of 2.60% on August 28 and 33 basis points above its January 2 level of 2.83%. The investment-grade spread was 0.83%, only 4 basis points wider than on January 2. That divergence suggests investors are repricing risk in lower-rated, more energy- and consumer-sensitive borrowers rather than in credit broadly. With bank releases this week showing higher card-loss provisions, high-yield is the spread to watch for signs the oil shock is reaching corporate balance sheets.",
+      "source": "ICE Data Indices via FRED (BAMLH0A0HYM2, BAMLC0A0CM)",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "checked": "2026-10-15T17:51:00Z"
     },
     {
-     "id": "DGS2",
-     "label": "2-year Treasury",
-     "t": "lvl"
+      "id": "2026-10-14-2s10s",
+      "time": "2026-10-14T19:55:00Z",
+      "title": "From inverted to positive: the 2s10s Treasury curve",
+      "subtitle": "2-year and 10-year Treasury yields, daily, %",
+      "series": [
+        {
+          "id": "DGS10",
+          "label": "10-year Treasury",
+          "t": "lvl"
+        },
+        {
+          "id": "DGS2",
+          "label": "2-year Treasury",
+          "t": "lvl"
+        }
+      ],
+      "start": "2019-01-01",
+      "units": "%",
+      "take": "As of October 13, the 10-year Treasury yielded 5.21% and the 2-year 4.79%, a positive spread of 42 basis points on the Treasury's daily par curve. The chart shows how different that is from 2022 through 2024, when 2-year yields sat above 10-year yields for an extended stretch. A positive slope with both yields this high means lenders are demanding more to lend long, which feeds directly into mortgage, corporate, and federal borrowing costs.",
+      "source": "U.S. Treasury via FRED (DGS10, DGS2)",
+      "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
+      "checked": "2026-10-14T20:48:00Z"
     }
-   ],
-   "start": "2019-01-01",
-   "units": "%",
-   "take": "As of October 13, the 10-year Treasury yielded 5.21% and the 2-year 4.79%, a positive spread of 42 basis points on the Treasury's daily par curve. The chart shows how different that is from 2022 through 2024, when 2-year yields sat above 10-year yields for an extended stretch. A positive slope with both yields this high means lenders are demanding more to lend long, which feeds directly into mortgage, corporate, and federal borrowing costs.",
-   "source": "U.S. Treasury via FRED (DGS10, DGS2)",
-   "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
-   "checked": "2026-10-14T20:48:00Z"
-  }
- ]
+  ]
 }
