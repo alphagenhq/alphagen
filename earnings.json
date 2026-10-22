@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-22T14:54:52Z",
+  "updated": "2026-10-22T15:46:38Z",
   "items": [
+    {
+      "id": "2026-10-22-CBRE-Q3",
+      "time": "2026-10-22T15:46:38Z",
+      "ticker": "NYSE:CBRE",
+      "name": "CBRE Group, Inc.",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 11.5,
+      "revenue_yoy": 12.7,
+      "eps": 1.52,
+      "eps_yoy": 25.6,
+      "take": "Revenue was $11,517M versus $10,221M; GAAP diluted EPS was $1.52 versus $1.21 and core EPS $2.05 versus $1.60.",
+      "source_name": "CBRE Q3 2026 earnings release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261022365868/en/CBRE-Group-Inc.-Reports-Financial-Results-for-Q3-2026",
+      "checked": "2026-10-22T15:46:38Z"
+    },
+    {
+      "id": "2026-10-21-LUV-Q3",
+      "time": "2026-10-22T16:10:38Z",
+      "ticker": "NYSE:LUV",
+      "name": "Southwest Airlines Co.",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 8.4,
+      "revenue_yoy": 21.2,
+      "eps": 0.55,
+      "eps_yoy": 450.0,
+      "take": "Operating revenues were $8,422M versus $6,949M; GAAP diluted EPS was $0.55 versus $0.10 and adjusted diluted EPS $0.66 versus $0.11.",
+      "source_name": "Southwest Airlines Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/southwest-airlines-reports-third-quarter-2026-results-record-revenue-performance-drives-year-over-year-margin-expansion-302915995.html",
+      "checked": "2026-10-22T15:46:38Z"
+    },
     {
       "id": "2026-10-22-CMCSA-Q3",
       "time": "2026-10-22T14:54:52Z",

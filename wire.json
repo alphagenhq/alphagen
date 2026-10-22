@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-22T14:54:52Z",
+  "updated": "2026-10-22T15:46:38Z",
   "items": [
+    {
+      "id": "2026-10-22-cbre-q3",
+      "tag": "EARNINGS",
+      "headline": "CBRE Q3 revenue $11.5B, up 13%; GAAP EPS $1.52, core EPS $2.05",
+      "take": "CBRE reported Q3 2026 revenue of $11,517M versus $10,221M a year earlier, GAAP diluted EPS of $1.52 versus $1.21 and core EPS of $2.05 versus $1.60. Net income attributable to CBRE was $443M versus $363M. Per-share earnings grew faster than revenue, showing profit growth outpacing the top line in the quarter.",
+      "source_name": "CBRE Q3 2026 earnings release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261022365868/en/CBRE-Group-Inc.-Reports-Financial-Results-for-Q3-2026",
+      "ticker": "NYSE:CBRE",
+      "time": "2026-10-22T15:46:38Z",
+      "checked": "2026-10-22T15:46:38Z"
+    },
+    {
+      "id": "2026-10-22-cbre-infrastructure-sales",
+      "tag": "EQUITIES",
+      "headline": "CBRE: critical infrastructure services revenue up 80%; property sales up 28%",
+      "take": "CBRE said Q3 2026 revenue from critical infrastructure services rose 80% in the Building Operations & Experience segment, citing data center services and the Pearce Services acquisition. Global property sales revenue rose 28% (29% in local currency), with U.S. sales up 37%, and year-to-date share repurchases were nearly $1.2B. Data center-related activity and transaction volumes both contributed to the quarter.",
+      "source_name": "CBRE Q3 2026 earnings release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261022365868/en/CBRE-Group-Inc.-Reports-Financial-Results-for-Q3-2026",
+      "ticker": "NYSE:CBRE",
+      "time": "2026-10-22T15:58:38Z",
+      "checked": "2026-10-22T15:46:38Z"
+    },
+    {
+      "id": "2026-10-22-luv-q3",
+      "tag": "EARNINGS",
+      "headline": "Southwest Q3 revenue $8.42B, up 21%; diluted EPS $0.55 vs. $0.10",
+      "take": "Southwest Airlines reported Q3 2026 operating revenues of $8,422M versus $6,949M, operating income of $379M versus $35M, and net income of $270M versus $54M. Diluted EPS was $0.55 versus $0.10 and adjusted diluted EPS was $0.66 versus $0.11, with unit revenue up 21.6% to 18.55 cents. The operating margin was 4.5%, up 4.0 points, so profit rose from a low base alongside the revenue gain.",
+      "source_name": "Southwest Airlines Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/southwest-airlines-reports-third-quarter-2026-results-record-revenue-performance-drives-year-over-year-margin-expansion-302915995.html",
+      "ticker": "NYSE:LUV",
+      "time": "2026-10-22T16:10:38Z",
+      "checked": "2026-10-22T15:46:38Z"
+    },
+    {
+      "id": "2026-10-22-luv-guidance",
+      "tag": "EQUITIES",
+      "headline": "Southwest guides Q4 adjusted EPS $0.55-$0.80; full-year $2.60-$2.85",
+      "take": "Southwest guided Q4 2026 adjusted EPS to $0.55-$0.80 and full-year 2026 adjusted EPS to $2.60-$2.85, based on the forward fuel curve as of Oct. 15, 2026. It expects Q4 unit revenue up 19%-21%, capacity up 3%-4% and CASM-X up 4.0%-4.5%, with 2026 net capital spending of $2.5B-$2.75B. Guided revenue per seat-mile growth well above cost growth is the key swing factor in the Q4 range.",
+      "source_name": "Southwest Airlines Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/southwest-airlines-reports-third-quarter-2026-results-record-revenue-performance-drives-year-over-year-margin-expansion-302915995.html",
+      "ticker": "NYSE:LUV",
+      "time": "2026-10-22T16:22:38Z",
+      "checked": "2026-10-22T15:46:38Z"
+    },
     {
       "id": "2026-10-22-cmcsa-q3",
       "tag": "EARNINGS",
