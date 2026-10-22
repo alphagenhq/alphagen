@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-22T17:08:44Z",
+  "updated": "2026-10-22T17:45:01Z",
   "items": [
+    {
+      "id": "2026-10-22-DOW-Q3",
+      "time": "2026-10-22T17:58:01Z",
+      "ticker": "NYSE:DOW",
+      "name": "Dow Inc.",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 11.267,
+      "revenue_yoy": 13.0,
+      "eps": 0.62,
+      "eps_yoy": 675.0,
+      "take": "Net sales were $11,267M versus $9,973M; GAAP diluted EPS was $0.62 versus $0.08 and operating EPS $0.71 versus $(0.19).",
+      "source_name": "Dow Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001751788/000175178826000155/exhibit991enrschedules3q26.htm",
+      "checked": "2026-10-22T17:45:01Z"
+    },
+    {
+      "id": "2026-10-21-ROL-Q3",
+      "time": "2026-10-22T18:12:01Z",
+      "ticker": "NYSE:ROL",
+      "name": "Rollins, Inc.",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 1.08967,
+      "revenue_yoy": 6.2,
+      "eps": 0.33,
+      "eps_yoy": -2.9,
+      "take": "Revenues were $1,089.7M versus $1,026.1M, with organic revenues up 4.4%; diluted EPS was $0.33 versus $0.34 and adjusted EPS $0.34 versus $0.35.",
+      "source_name": "Rollins Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/rollins-inc-reports-third-quarter-2026-financial-results-302915958.html",
+      "checked": "2026-10-22T17:45:01Z"
+    },
     {
       "id": "2026-10-21-PM-Q3",
       "time": "2026-10-22T17:09:44Z",

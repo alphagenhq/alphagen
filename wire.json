@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-22T17:08:44Z",
+  "updated": "2026-10-22T17:44:53Z",
   "items": [
+    {
+      "id": "2026-10-22-dow-q3",
+      "time": "2026-10-22T17:56:53Z",
+      "tag": "EARNINGS",
+      "headline": "Dow Q3 net sales $11.3B, up 13%; GAAP EPS $0.62 vs. $0.08",
+      "take": "Dow reported Q3 net sales of $11,267M versus $9,973M a year earlier, GAAP diluted EPS of $0.62 versus $0.08, and operating EPS of $0.71 versus $(0.19). Operating EPS excludes significant items totaling $0.09 per share. The swing in operating EPS from a loss to a profit is the main change versus Q3 2025.",
+      "source_name": "Dow Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001751788/000175178826000155/exhibit991enrschedules3q26.htm",
+      "ticker": "NYSE:DOW",
+      "checked": "2026-10-22T17:44:53Z"
+    },
+    {
+      "id": "2026-10-22-dow-cashflow",
+      "time": "2026-10-22T18:03:53Z",
+      "tag": "EQUITIES",
+      "headline": "Dow cash from operations $1.84B in Q3 vs. $1.13B; $253M paid in dividends",
+      "take": "Dow reported Q3 cash flow from operations (continuing operations) of $1,839M versus $1,130M in Q3 2025; nine-month cash from operations was $4,287M versus $764M. The company returned $253M in dividends in the quarter and said it is on track for the upsized $700M in growth and productivity benefits in 2026. The nine-month comparison shows how much of the improvement is year-to-date rather than a single quarter.",
+      "source_name": "Dow Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001751788/000175178826000155/exhibit991enrschedules3q26.htm",
+      "ticker": "NYSE:DOW",
+      "checked": "2026-10-22T17:44:53Z"
+    },
+    {
+      "id": "2026-10-21-rol-q3",
+      "time": "2026-10-22T18:10:53Z",
+      "tag": "EARNINGS",
+      "headline": "Rollins Q3 revenue $1.09B, up 6.2%; diluted EPS $0.33 vs. $0.34",
+      "take": "Rollins reported Q3 revenues of $1,089.7M versus $1,026.1M, with organic revenues up 4.4%. Net income was $157.9M versus $163.5M and diluted EPS was $0.33 versus $0.34; adjusted EPS was $0.34 versus $0.35. Reported growth outpaced organic growth, while earnings per share slipped slightly.",
+      "source_name": "Rollins Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/rollins-inc-reports-third-quarter-2026-financial-results-302915958.html",
+      "ticker": "NYSE:ROL",
+      "checked": "2026-10-22T17:44:53Z"
+    },
+    {
+      "id": "2026-10-21-rol-segments-cashflow",
+      "time": "2026-10-22T18:17:53Z",
+      "tag": "EQUITIES",
+      "headline": "Rollins commercial revenue up 7.7%; operating cash flow $242M, up 26.4%",
+      "take": "Rollins said Q3 residential revenue was $499.7M (up 4.9%, organic 2.3%), commercial $360.7M (up 7.7%, organic 6.6%), and termite and ancillary $217.9M (up 6.5%, organic 5.3%). Operating cash flow was $242M, up 26.4%, and included a $63M benefit from the timing of a tax refund. Commercial showed the strongest organic growth of the three lines.",
+      "source_name": "Rollins Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/rollins-inc-reports-third-quarter-2026-financial-results-302915958.html",
+      "ticker": "NYSE:ROL",
+      "checked": "2026-10-22T17:44:53Z"
+    },
+    {
+      "id": "2026-10-22-vc-q3-guidance",
+      "time": "2026-10-22T18:24:53Z",
+      "tag": "EARNINGS",
+      "headline": "Visteon Q3 sales $970M; $77M warranty charges; EBITDA guide lowered to $370M-$410M",
+      "take": "Visteon reported Q3 net sales of $970M versus $917M and net income attributable to Visteon of $5M, or $0.19 per diluted share, versus a $(0.40) loss per share. Adjusted EBITDA was $46M including $77M of exceptional warranty charges. It raised 2026 sales guidance to $3.80B-$3.85B and set adjusted EBITDA at $370M-$410M, a range the release describes as lowered.",
+      "source_name": "Visteon Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/visteon-announces-third-quarter-2026-financial-results-302916099.html",
+      "ticker": "NASDAQ:VC",
+      "checked": "2026-10-22T17:44:53Z"
+    },
     {
       "id": "2026-10-22-freddie-732",
       "time": "2026-10-22T17:08:44Z",
