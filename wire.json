@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-22T14:09:31Z",
+  "updated": "2026-10-22T14:54:52Z",
   "items": [
+    {
+      "id": "2026-10-22-cmcsa-q3",
+      "tag": "EARNINGS",
+      "headline": "Comcast Q3 revenue $29.3B; diluted EPS $0.97 vs. $0.90, adjusted $1.07",
+      "take": "Comcast reported Q3 2026 revenue of $29,298M versus $31,198M a year earlier (up 0.5% pro forma), net income attributable to Comcast of $3,448M, diluted EPS of $0.97 versus $0.90 and adjusted EPS of $1.07 versus $1.12. Adjusted EBITDA was $9,106M versus $9,669M and free cash flow $4,211M versus $4,945M. GAAP earnings rose while adjusted EPS and cash flow fell, a gap that shows the reported and underlying pictures diverging this quarter.",
+      "source_name": "Comcast Q3 2026 earnings release (SEC Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001166691/000162828026066783/ex991-9302026.htm",
+      "ticker": "NASDAQ:CMCSA",
+      "time": "2026-10-22T14:54:52Z",
+      "checked": "2026-10-22T14:54:52Z"
+    },
+    {
+      "id": "2026-10-22-cmcsa-broadband-buyback",
+      "tag": "EQUITIES",
+      "headline": "Comcast loses 144,000 broadband customers in Q3; buyback suspended",
+      "take": "Comcast reported domestic broadband residential customers fell by 144,000 in Q3 2026 versus a loss of 91,000 a year earlier, while domestic wireless lines rose by 368,000 versus 414,000. It paid $1.2B in dividends and said it suspended its share repurchase program beginning in the third quarter, with the pause expected to continue through the proposed separation into two independent publicly traded companies. Capital return is shifting entirely to dividends while the separation is pending.",
+      "source_name": "Comcast Q3 2026 earnings release (SEC Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001166691/000162828026066783/ex991-9302026.htm",
+      "ticker": "NASDAQ:CMCSA",
+      "time": "2026-10-22T15:06:52Z",
+      "checked": "2026-10-22T14:54:52Z"
+    },
+    {
+      "id": "2026-10-22-bfh-q3",
+      "tag": "CREDIT",
+      "headline": "Bread Financial Q3 net revenue $1,017M; net loss rate 6.40% vs. 7.39%",
+      "take": "Bread Financial reported Q3 2026 total net revenue of $1,017M versus $971M, net income of $156M versus $188M and diluted EPS of $3.82 versus $3.96; the prior-year quarter included a $38M favorable discrete tax item. The net loss rate fell 99 basis points to 6.40%, and the quarterly common dividend rose 9% to $0.25 per share. A prior-year tax benefit larger than the $32M net income decline means the comparison is distorted by that item.",
+      "source_name": "Bread Financial Q3 2026 earnings release (SEC Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001101215/000110121526000087/exh9913q26bfhepr_final.htm",
+      "ticker": "NYSE:BFH",
+      "time": "2026-10-22T15:18:52Z",
+      "checked": "2026-10-22T14:54:52Z"
+    },
+    {
+      "id": "2026-10-22-syf-q3",
+      "tag": "CREDIT",
+      "headline": "Synchrony Q3 net earnings $892M, diluted EPS $2.68; net charge-offs 4.79%",
+      "take": "Synchrony reported Q3 2026 net earnings of $892M, down 17% from a year earlier, and diluted EPS of $2.68 versus $2.86. Purchase volume was $49.7B, up 8%, loan receivables were $103.3B, up 3%, and the net charge-off rate was 4.79% versus 5.16%. It returned $1.2B to shareholders, including $1.1B of repurchases and $110M of dividends. Improving charge-offs alongside lower earnings suggest credit losses were not what pulled earnings down this quarter.",
+      "source_name": "Synchrony Q3 2026 earnings release (SEC Form 8-K, reported Oct. 20)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001601712/000160171226000040/earningsrelease3q26.htm",
+      "ticker": "NYSE:SYF",
+      "time": "2026-10-22T15:30:52Z",
+      "checked": "2026-10-22T14:54:52Z"
+    },
     {
       "id": "2026-10-22-dol-claims-194k",
       "tag": "MACRO",
