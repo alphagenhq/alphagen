@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T11:33:27Z",
+ "updated": "2026-10-22T12:10:47Z",
  "items": [
+  {
+   "id": "live-0000100885-26-000319-2.02",
+   "time": "2026-10-22T11:46:52Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Union Pacific releases financial results",
+   "take": "Union Pacific filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:46 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, UNP Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000319/0000100885-26-000319-index.htm",
+   "ticker": "NYSE:UNP"
+  },
   {
    "id": "live-0000916365-26-000069-2.02",
    "time": "2026-10-22T11:26:41Z",
