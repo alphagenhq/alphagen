@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T13:00:10Z",
+ "updated": "2026-10-22T20:29:41Z",
  "items": [
+  {
+   "id": "live-0001397187-26-000135-5.02",
+   "time": "2026-10-22T20:15:47Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Lululemon Athletica reports an executive or board change",
+   "take": "Lululemon Athletica reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:15 PM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LULU Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000135/0001397187-26-000135-index.htm",
+   "ticker": "NASDAQ:LULU"
+  },
+  {
+   "id": "live-0001164727-26-000041-2.02",
+   "time": "2026-10-22T20:05:51Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Newmont releases financial results",
+   "take": "Newmont filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:05 PM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NEM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000041/0001164727-26-000041-index.htm",
+   "ticker": "NYSE:NEM"
+  },
   {
    "id": "live-0001628280-26-066795-2.02",
    "time": "2026-10-22T12:20:14Z",
