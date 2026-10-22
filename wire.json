@@ -1,6 +1,49 @@
 {
-  "updated": "2026-10-22T15:46:38Z",
+  "updated": "2026-10-22T17:08:44Z",
   "items": [
+    {
+      "id": "2026-10-22-freddie-732",
+      "time": "2026-10-22T17:08:44Z",
+      "tag": "HOUSING",
+      "headline": "Freddie Mac: 30-year mortgage rate averages 7.32%, down from 7.40%",
+      "take": "Freddie Mac's Primary Mortgage Market Survey for Oct. 22 showed the 30-year fixed-rate mortgage averaging 7.32%, versus 7.40% last week and 6.19% a year ago. The 15-year averaged 6.68%, versus 6.71% last week and 5.44% a year ago. The weekly decline is 8 basis points, while the 30-year rate remains 113 basis points above its year-ago level.",
+      "source_name": "Freddie Mac PMMS release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386709/0/en/mortgage-rates-decrease-to-7-32.html",
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-21-pm-q3",
+      "time": "2026-10-22T17:24:44Z",
+      "tag": "EARNINGS",
+      "headline": "Philip Morris Q3 net revenue $11.4B; adjusted EPS $2.36, reported $2.12",
+      "take": "Philip Morris International reported Q3 2026 net revenues of $11,438M versus $10,845M a year earlier, up 5.5% (7.1% organically). Reported diluted EPS was $2.12 versus $2.23, down 4.9%, while adjusted diluted EPS was $2.36 versus $2.24, up 5.4%. The company's full-year adjusted diluted EPS forecast is $8.29 to $8.44, and reported EPS moved in the opposite direction from adjusted EPS in the quarter.",
+      "source_name": "Philip Morris International Q3 2026 earnings release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001413329/000162828026066596/earningsreleasepm-ex991xq3.htm",
+      "ticker": "NYSE:PM",
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-22-alle-q3",
+      "time": "2026-10-22T17:41:44Z",
+      "tag": "EARNINGS",
+      "headline": "Allegion Q3 revenue $1.17B, up 9.6%; adjusted EPS $2.60",
+      "take": "Allegion reported Q3 2026 revenue of $1,172.6M versus $1,070.2M, up 9.6% reported and 7.2% organic. Reported diluted EPS was $2.59 versus $2.18, and adjusted EPS was $2.60 versus $2.30. The 2026 outlook calls for adjusted EPS of $9.05 to $9.10 and organic revenue growth of 5.0% to 6.0%.",
+      "source_name": "Allegion Q3 2026 earnings release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001579241/000157924126000032/exhibit991-pressreleasedat.htm",
+      "ticker": "NYSE:ALLE",
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-22-sna-q3",
+      "time": "2026-10-22T17:58:44Z",
+      "tag": "EARNINGS",
+      "headline": "Snap-on Q3 net sales $1.18B; diluted EPS $4.64 versus $5.02",
+      "take": "Snap-on reported Q3 2026 net sales of $1,183.7M versus $1,190.8M, with organic sales down 2.8% and acquisitions adding $25.6M. Diluted EPS was $4.64 versus $5.02; the year-ago quarter included a $22.0M benefit, or $0.31 per diluted share after tax, from the settlement of a legal matter. Operating earnings before financial services were $248.1M, or 21.0% of net sales, versus $278.5M, or 23.4%.",
+      "source_name": "Snap-on Q3 2026 earnings release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000091440/000009144026000169/q32026pressreleaseforpress.htm",
+      "ticker": "NYSE:SNA",
+      "checked": "2026-10-22T17:08:44Z"
+    },
     {
       "id": "2026-10-22-cbre-q3",
       "tag": "EARNINGS",

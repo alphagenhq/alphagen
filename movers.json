@@ -1,77 +1,101 @@
 {
-  "updated": "2026-10-22T14:09:31Z",
+  "updated": "2026-10-22T17:08:44Z",
   "items": [
     {
-      "id": "2026-10-22-UNP",
-      "time": "2026-10-22T14:09:31Z",
-      "ticker": "NYSE:UNP",
-      "name": "Union Pacific",
-      "headline": "Q3 EPS rises and operating ratio falls to 59.1% on higher carloads",
-      "catalyst": "Union Pacific reported Q3 diluted EPS of $3.49, up 16%, adjusted EPS of $3.53, up 15%, an operating ratio of 59.1% (58.8% adjusted) and revenue carloads up 6%.",
-      "thesis": "Volume growth and margin improving together is the combination investors look for in a railroad. The next test is whether that holds as the company's other filings and regulatory events develop.",
-      "source_name": "Union Pacific Q3 2026 earnings release (investor relations)",
-      "source_url": "https://investor.unionpacific.com/news",
-      "checked": "2026-10-22T14:09:31Z"
+      "id": "2026-10-22-PM",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "PM",
+      "name": "Philip Morris International",
+      "headline": "Updates 2026 adjusted EPS forecast for currency only after Q3 results",
+      "catalyst": "Q3 net revenues were $11,438M versus $10,845M; adjusted diluted EPS was $2.36 versus $2.24 and the full-year adjusted EPS forecast is $8.29 to $8.44.",
+      "thesis": "The release separates currency effects from operating changes, and it says organic operating income growth is now more likely in the middle or lower half of its 7% to 9% range. That wording is the part of the update to watch.",
+      "source_name": "Philip Morris International Q3 2026 earnings release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001413329/000162828026066596/earningsreleasepm-ex991xq3.htm",
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-22-SNA",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "SNA",
+      "name": "Snap-on",
+      "headline": "Q3 sales dip and EPS falls against a year-ago legal settlement benefit",
+      "catalyst": "Q3 net sales were $1,183.7M versus $1,190.8M and diluted EPS was $4.64 versus $5.02; the year-ago quarter included a $0.31 per-share legal settlement benefit.",
+      "thesis": "Organic sales fell 2.8% and operating margin before financial services narrowed to 21.0% from 23.4%. Part of that gap reflects the prior-year benefit, which the release put at 190 basis points.",
+      "source_name": "Snap-on Q3 2026 earnings release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000091440/000009144026000169/q32026pressreleaseforpress.htm",
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-22-ALLE",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "ALLE",
+      "name": "Allegion",
+      "headline": "Q3 revenue and EPS rise; 2026 adjusted EPS outlook of $9.05 to $9.10",
+      "catalyst": "Q3 revenue was $1,172.6M versus $1,070.2M and adjusted EPS was $2.60 versus $2.30.",
+      "thesis": "Organic revenue grew 7.2% in the quarter, while the 2026 outlook calls for organic growth of 5.0% to 6.0%. The gap between the two is the comparison to watch when the company reports again.",
+      "source_name": "Allegion Q3 2026 earnings release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001579241/000157924126000032/exhibit991-pressreleasedat.htm",
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-22-NDAQ",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "NDAQ",
+      "name": "Nasdaq",
+      "headline": "Q3 solutions revenue and annualized recurring revenue rise",
+      "catalyst": "Q3 net revenue was $1,481M versus $1,315M; non-GAAP diluted EPS was $1.04 versus $0.88 and annualized recurring revenue was $3,365M.",
+      "thesis": "Solutions revenue grew 17% reported to $1,172M, and annualized recurring revenue was up 12% reported. The headline of the release features both figures.",
+      "source_name": "Nasdaq Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386185/6948/en/nasdaq-reports-third-quarter-2026-results-strong-execution-drives-1-2-billion-of-solutions-revenue-record-arr-of-3-4-billion.html",
+      "checked": "2026-10-22T17:08:44Z"
     },
     {
       "id": "2026-10-22-HON",
-      "time": "2026-10-22T14:09:31Z",
-      "ticker": "NASDAQ:HON",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "HON",
       "name": "Honeywell Technologies",
-      "headline": "Raises 2026 adjusted EPS outlook after Q3 beat on prior-year",
+      "headline": "Raises 2026 adjusted EPS outlook after Q3 results",
       "catalyst": "Honeywell reported Q3 sales of $4,994M, up 1% reported and 7% organic, adjusted EPS of $2.27 versus $1.70, and raised its 2026 adjusted EPS outlook to $8.40-$8.45 from $8.05-$8.35.",
       "thesis": "The new range lifts the midpoint by about $0.23 per share. The gap between 1% reported and 7% organic growth shows portfolio changes are shaping the headline sales line.",
       "source_name": "Honeywell Q3 2026 earnings release",
       "source_url": "https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-reports-third-quarter-results-raises-full-year-2026-outlook",
-      "checked": "2026-10-22T14:09:31Z"
+      "checked": "2026-10-22T17:08:44Z"
     },
     {
       "id": "2026-10-22-LMT",
-      "time": "2026-10-22T14:09:31Z",
-      "ticker": "NYSE:LMT",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "LMT",
       "name": "Lockheed Martin",
       "headline": "Lifts 2026 EPS and free cash flow outlook after Q3",
       "catalyst": "Lockheed Martin reported Q3 sales of $20.7B, up 11% from $18.6B, diluted EPS of $7.97 versus $6.95, and raised 2026 diluted EPS to about $30.35-$30.75 and free cash flow to about $7.8-$8.0B.",
       "thesis": "The free cash flow range rose by roughly $0.8B at both ends, a larger step than the EPS raise. Cash conversion is the detail behind this update.",
       "source_name": "Lockheed Martin Q3 2026 earnings release",
       "source_url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-third-quarter-2026-financial-results-302916797.html",
-      "checked": "2026-10-22T14:09:31Z"
+      "checked": "2026-10-22T17:08:44Z"
+    },
+    {
+      "id": "2026-10-22-UNP",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "UNP",
+      "name": "Union Pacific",
+      "headline": "Q3 EPS rises as operating ratio improves on higher carloads",
+      "catalyst": "Union Pacific reported Q3 diluted EPS of $3.49, up 16%, adjusted EPS of $3.53, up 15%, an operating ratio of 59.1% (58.8% adjusted) and revenue carloads up 6%.",
+      "thesis": "Volume growth and margin improving together is the combination investors look for in a railroad. The next test is whether that holds as the company's other filings and regulatory events develop.",
+      "source_name": "Union Pacific Q3 2026 earnings release (investor relations)",
+      "source_url": "https://investor.unionpacific.com/news",
+      "checked": "2026-10-22T17:08:44Z"
     },
     {
       "id": "2026-10-22-TXN",
-      "time": "2026-10-22T14:09:31Z",
-      "ticker": "NASDAQ:TXN",
+      "time": "2026-10-22T17:08:44Z",
+      "ticker": "TXN",
       "name": "Texas Instruments",
-      "headline": "Q3 EPS $2.62 and a wide Q4 guidance range",
+      "headline": "Q3 results and a wide fourth-quarter guidance range",
       "catalyst": "Texas Instruments reported Q3 revenue of $6.06B and EPS of $2.62, and guided Q4 revenue to $5.80B-$6.30B and EPS to $2.45-$2.79.",
       "thesis": "A Q4 revenue range spanning $0.5B signals management sees a wide spread of outcomes for demand. The midpoint of $6.05B sits just below Q3 revenue.",
       "source_name": "Texas Instruments Q3 2026 earnings release",
       "source_url": "https://investor.ti.com/news-releases/news-release-details/ti-reports-third-quarter-2026-financial-results-and-shareholder",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-22-IBM",
-      "time": "2026-10-22T14:09:31Z",
-      "ticker": "NYSE:IBM",
-      "name": "IBM",
-      "headline": "Q3 operating EPS $2.95; free cash flow outlook raised",
-      "catalyst": "IBM reported Q3 revenue of $17.1B, up 5%, software revenue of $7.8B, up 8%, operating EPS of $2.95 versus $2.65, and now expects full-year free cash flow to rise by more than $1 billion year over year.",
-      "thesis": "Revenue growth outlook is unchanged at 4% to 5% at constant currency, so the change is on cash generation rather than sales.",
-      "source_name": "IBM Q3 2026 earnings release",
-      "source_url": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-22-DOV",
-      "time": "2026-10-22T14:09:31Z",
-      "ticker": "NYSE:DOV",
-      "name": "Dover",
-      "headline": "Q3 adjusted EPS $2.88 versus $2.62 on 7% organic growth",
-      "catalyst": "Dover reported Q3 revenue of $2.23B, up 8% (7% organic), adjusted EPS from continuing operations of $2.88 versus $2.62, with 2026 adjusted EPS guidance of $10.60-$10.75.",
-      "thesis": "Reported and organic growth are within a point of each other, so the gain reflects the existing businesses. Guidance implies full-year growth of 7% to 8% on revenue.",
-      "source_name": "Dover Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/dover-reports-third-quarter-2026-results-302916126.html",
-      "checked": "2026-10-22T14:09:31Z"
+      "checked": "2026-10-22T17:08:44Z"
     }
   ]
 }

@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-22T11:52:24Z",
+  "updated": "2026-10-22T17:08:44Z",
   "items": [
+    {
+      "id": "2026-10-22-organic-growth-split",
+      "time": "2026-10-22T17:08:44Z",
+      "tag": "EQUITIES",
+      "title": "Organic growth splits Allegion, Philip Morris and Snap-on",
+      "dek": "Allegion and Philip Morris grew organic sales by more than 7%; Snap-on's organic sales fell 2.8%.",
+      "key_points": [
+        "Allegion: Q3 revenue $1,172.6M (+9.6%), organic +7.2%; 2026 organic growth guided to 5.0%-6.0%.",
+        "Philip Morris International: Q3 net revenues $11,438M (+5.5%, +7.1% organic); full-year adjusted EPS forecast $8.29-$8.44.",
+        "Snap-on: Q3 net sales $1,183.7M (-0.6%), organic sales -2.8%; diluted EPS $4.64 vs. $5.02, with a $0.31 legal settlement benefit in the year-ago quarter.",
+        "Reported EPS diverged from adjusted at Philip Morris: $2.12 (-4.9%) vs. $2.36 (+5.4%)."
+      ],
+      "body": [
+        "Three U.S. companies that sell very different products reported third-quarter results on Oct. 21 and 22, and the most useful comparison is not profit but how much of each company's sales growth came from underlying volume and pricing rather than acquisitions or currency.",
+        {
+          "h": "Organic growth separates the group"
+        },
+        "Allegion, which makes locks and access hardware, reported revenue of $1,172.6 million versus $1,070.2 million a year earlier, up 9.6%, with organic growth of 7.2%. Philip Morris International reported net revenues of $11,438 million versus $10,845 million, up 5.5% reported and 7.1% organically. Snap-on moved the other way: net sales were $1,183.7 million versus $1,190.8 million, a 0.6% decline, with organic sales down 2.8% and acquisitions adding $25.6 million.",
+        "Reported and organic growth diverge in both directions. At Allegion the reported rate was 2.4 percentage points above the organic one, and at Philip Morris it was 1.6 points below. The release passages we read do not break those gaps down, so we do not attribute them. At Snap-on, acquisitions are what kept reported sales close to flat.",
+        {
+          "h": "Earnings per share tell a more mixed story"
+        },
+        "Allegion's reported diluted EPS rose to $2.59 from $2.18, and adjusted EPS rose to $2.60 from $2.30. Philip Morris reported diluted EPS of $2.12, down 4.9% from $2.23, while adjusted diluted EPS grew 5.4% to $2.36 from $2.24. Snap-on's diluted EPS fell to $4.64 from $5.02, a 7.6% decline.",
+        "The Snap-on comparison needs care. The year-ago quarter included a $22.0 million operating benefit from the settlement of a legal matter, worth $0.31 per diluted share after tax, according to the release. By our arithmetic, removing that $0.31 puts the prior-year figure at $4.71, so the underlying decline is smaller than the headline one, though still a decline. Operating earnings before financial services were $248.1 million, or 21.0% of net sales, versus $278.5 million, or 23.4%. The release says the prior-year benefit was 190 basis points of that margin.",
+        {
+          "h": "What the guidance says"
+        },
+        "Allegion guided 2026 adjusted EPS to $9.05 to $9.10 and organic revenue growth to 5.0% to 6.0%. The 7.2% organic growth in the quarter is above the top of that annual range. Philip Morris guided full-year adjusted diluted EPS to $8.29 to $8.44, up 9.9% to 11.9% from $7.54 in 2025, and said the update was for currency only. It also said organic operating income growth of 7% to 9% is now more likely to land in the middle or lower half of the range.",
+        {
+          "h": "Why it matters"
+        },
+        "Reported growth can be assembled from acquisitions and currency, which is why organic figures are the cleaner read on demand. On that measure, this week's three reports show two companies growing underlying sales at more than 7% and one shrinking, and a one-time item from last year complicating the earnings comparison for the third. Investors comparing these companies should look past the headline growth rate to the organic line and the prior-year adjustments."
+      ],
+      "sources": [
+        {
+          "name": "Allegion Q3 2026 earnings release (SEC Form 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001579241/000157924126000032/exhibit991-pressreleasedat.htm"
+        },
+        {
+          "name": "Philip Morris International Q3 2026 earnings release (SEC Form 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001413329/000162828026066596/earningsreleasepm-ex991xq3.htm"
+        },
+        {
+          "name": "Snap-on Q3 2026 earnings release (SEC Form 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000091440/000009144026000169/q32026pressreleaseforpress.htm"
+        }
+      ],
+      "tickers": [
+        "NYSE:ALLE",
+        "NYSE:PM",
+        "NYSE:SNA"
+      ],
+      "checked": "2026-10-22T17:08:44Z"
+    },
     {
       "id": "2026-10-22-morning-brief",
       "time": "2026-10-22T11:52:24Z",
