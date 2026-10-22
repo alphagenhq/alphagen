@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-22T20:50:32Z",
+  "updated": "2026-10-22T22:56:18Z",
   "items": [
+    {
+      "id": "2026-10-22-enva-q3",
+      "time": "2026-10-22T22:58:18Z",
+      "tag": "EARNINGS",
+      "headline": "Enova Q3 revenue $1.01B, up 26%; diluted EPS $4.06 vs. $3.03",
+      "take": "Enova International reported Q3 total revenue of $1,009.2 million versus $802.7 million a year earlier, and net income of $107.3 million versus $80.3 million. Diluted EPS was $4.06 versus $3.03; adjusted EPS was $4.48 versus $3.36. Revenue growth outpaced earnings-per-share growth only modestly, with net revenue margin rising to 61% from 57%.",
+      "source_name": "Enova Q3 2026 earnings release",
+      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
+      "ticker": "NYSE:ENVA",
+      "checked": "2026-10-22T22:56:18Z"
+    },
+    {
+      "id": "2026-10-22-tgs-q3",
+      "time": "2026-10-22T23:10:18Z",
+      "tag": "ENERGY",
+      "headline": "TGS Q3 revenue $397M vs. $388M; order backlog $679M, up 52%",
+      "take": "TGS reported Q3 revenue of USD 397 million versus USD 388 million a year earlier, and EBIT of USD 86 million versus USD 94 million, including a USD 41 million gain from the sale of its well data business. Order backlog was USD 679 million, up 52% year over year, and Q3 order inflow was USD 357 million. The company said contract revenues were its highest since Q4 2024.",
+      "source_name": "TGS Q3 2026 results release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386018/0/en/tgs-announces-q3-2026-results.html",
+      "ticker": "OSE:TGS",
+      "checked": "2026-10-22T22:56:18Z"
+    },
+    {
+      "id": "2026-10-22-enva-receivables",
+      "time": "2026-10-22T23:22:18Z",
+      "tag": "CREDIT",
+      "headline": "Enova combined loan receivables up 30% to a record $5.9B; charge-offs 8.1%",
+      "take": "Enova said period-end combined loan and finance receivables rose 30% from a year earlier to a record $5.9 billion, with the consolidated net charge-off ratio at 8.1% versus 8.5% in Q3 2025. It repurchased $46 million of common stock in the quarter. Faster balance growth alongside a lower reported charge-off ratio is the combination the company is pointing to.",
+      "source_name": "Enova Q3 2026 earnings release",
+      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
+      "ticker": "NYSE:ENVA",
+      "checked": "2026-10-22T22:56:18Z"
+    },
+    {
+      "id": "2026-10-22-tgs-multiclient-guide",
+      "time": "2026-10-22T23:34:18Z",
+      "tag": "ENERGY",
+      "headline": "TGS trims 2026 multi-client investment guide to ~$510M from ~$550M",
+      "take": "TGS said it now expects 2026 multi-client investments of approximately USD 510 million, compared with prior guidance of approximately USD 550 million, and declared a dividend of USD 0.155 per share payable in Q4 2026. The company attributed the change to deferring some multi-client projects as contract work grew. Lower multi-client spend alongside a larger backlog points to a mix shift toward contract work.",
+      "source_name": "TGS Q3 2026 results release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386018/0/en/tgs-announces-q3-2026-results.html",
+      "ticker": "OSE:TGS",
+      "checked": "2026-10-22T22:56:18Z"
+    },
     {
       "id": "2026-10-22-unp-fuel-outlook",
       "time": "2026-10-22T20:52:32Z",

@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T20:50:32Z",
+  "updated": "2026-10-22T22:56:18Z",
   "items": [
+    {
+      "id": "2026-10-22-ENVA-Q3",
+      "time": "2026-10-22T22:58:18Z",
+      "ticker": "NYSE:ENVA",
+      "name": "Enova International",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 1.009,
+      "revenue_yoy": 25.7,
+      "eps": 4.06,
+      "eps_yoy": 34.0,
+      "take": "Total revenue was $1,009.2M versus $802.7M; net income $107.3M versus $80.3M. Combined loan receivables rose 30% to a record $5.9B.",
+      "source_name": "Enova Q3 2026 earnings release",
+      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
+      "checked": "2026-10-22T22:56:18Z"
+    },
     {
       "id": "2026-10-20-EWBC-Q3",
       "time": "2026-10-22T20:53:32Z",
