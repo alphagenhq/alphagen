@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-21T21:46:05Z",
+  "updated": "2026-10-22T00:50:22Z",
   "items": [
+    {
+      "id": "2026-10-21-tmo-q3",
+      "tag": "EARNINGS",
+      "headline": "Thermo Fisher Q3 revenue $12.14B, up 9%; GAAP EPS $4.64 vs. $4.27",
+      "take": "Thermo Fisher reported third-quarter revenue of $12.14 billion versus $11.12 billion a year earlier, with organic growth of 6%. GAAP diluted EPS was $4.64 versus $4.27 and adjusted EPS was $6.68 versus $5.79. The gap between reported and organic growth, and between GAAP and adjusted EPS, is worth watching when the company updates 2026 guidance on its call.",
+      "source_name": "Thermo Fisher Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000097745/000009774526000173/q32026earnings8kex99_1.htm",
+      "ticker": "NYSE:TMO",
+      "time": "2026-10-22T00:53:22Z",
+      "checked": "2026-10-22T00:50:22Z"
+    },
+    {
+      "id": "2026-10-21-tdy-q3",
+      "tag": "EARNINGS",
+      "headline": "Teledyne Q3 net sales $1,684.9M, up 9.4%; outlook raised",
+      "take": "Teledyne reported third-quarter net sales of $1,684.9 million versus $1,539.5 million a year earlier, GAAP diluted EPS of $5.82 versus $4.65, and non-GAAP EPS of $6.72 versus $5.57. It raised full-year 2026 GAAP EPS outlook to $21.71-$21.87 and non-GAAP to $25.40-$25.50. EPS growth outpaced sales growth, roughly 25% GAAP against 9.4% for sales.",
+      "source_name": "Teledyne Q3 2026 earnings release (Form 8-K), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001094285/000109428526000055/q3-2026earningsrelease.htm",
+      "ticker": "NYSE:TDY",
+      "time": "2026-10-22T00:58:22Z",
+      "checked": "2026-10-22T00:50:22Z"
+    },
+    {
+      "id": "2026-10-21-lvs-q3",
+      "tag": "EARNINGS",
+      "headline": "Las Vegas Sands Q3 net revenue $3.22B vs. $3.33B; dividend raised 20% for 2027",
+      "take": "Las Vegas Sands reported third-quarter net revenue of $3.22 billion versus $3.33 billion a year earlier, diluted EPS of $0.48 versus $0.61, and consolidated adjusted property EBITDA of $1.12 billion versus $1.34 billion. It repurchased $950 million of common stock in the quarter and announced a 20% increase in its recurring dividend to $1.44 per share annually for 2027. Returning capital while revenue and EBITDA fell year over year is the contrast in this report.",
+      "source_name": "Las Vegas Sands Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001300514/000130051426000099/lvs_ex991x09302026.htm",
+      "ticker": "NYSE:LVS",
+      "time": "2026-10-22T01:04:22Z",
+      "checked": "2026-10-22T00:50:22Z"
+    },
+    {
+      "id": "2026-10-21-medp-q3",
+      "tag": "EARNINGS",
+      "headline": "Medpace Q3 revenue $716.0M, up 8.5%; backlog up 5.6% to $3.17B",
+      "take": "Medpace reported third-quarter revenue of $716.0 million versus $659.9 million a year earlier and GAAP diluted EPS of $4.84 versus $3.86. Backlog as of Sept. 30 was $3,167.2 million, up 5.6%, and net new business awards were $873.4 million. It forecasts 2026 revenue of $2.835-$2.855 billion; backlog growing slower than revenue is the detail to track.",
+      "source_name": "Medpace Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001668397/000166839726000034/medp-20261021exx991.htm",
+      "ticker": "NASDAQ:MEDP",
+      "time": "2026-10-22T01:10:22Z",
+      "checked": "2026-10-22T00:50:22Z"
+    },
+    {
+      "id": "2026-10-21-oii-q3",
+      "tag": "EARNINGS",
+      "headline": "Oceaneering Q3 revenue $785M, up 6%; net income $52.6M, down 26%",
+      "take": "Oceaneering reported third-quarter revenue of $785 million versus $742.9 million a year earlier, net income attributable of $52.6 million versus $71.3 million, and GAAP diluted EPS of $0.52 versus $0.71. Adjusted EBITDA rose 7% to $119 million and free cash flow was $142 million. The company initiated full-year 2027 EBITDA guidance of $430-$480 million.",
+      "source_name": "Oceaneering Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000073756/000007375626000152/exhibit_991x8kx3qx2026.htm",
+      "ticker": "NYSE:OII",
+      "time": "2026-10-22T01:16:22Z",
+      "checked": "2026-10-22T00:50:22Z"
+    },
+    {
+      "id": "2026-10-21-seic-buyback",
+      "tag": "EQUITIES",
+      "headline": "SEI board raises stock repurchase program by $800M to about $925.6M available",
+      "take": "SEI Investments disclosed in a Form 8-K that its board on Oct. 20, 2026 approved an additional $800.0 million for its stock repurchase program, raising the available authorization to approximately $925.6 million. The filing was made alongside its third-quarter earnings report for the quarter ended Sept. 30, 2026. Authorizations set a ceiling for buybacks rather than a commitment to execute them.",
+      "source_name": "SEI Investments Form 8-K, Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000350894/000035089426000051/seic-20261021.htm",
+      "ticker": "NASDAQ:SEIC",
+      "time": "2026-10-22T01:22:22Z",
+      "checked": "2026-10-22T00:50:22Z"
+    },
     {
       "id": "2026-10-21-meta-q3",
       "tag": "EARNINGS",
