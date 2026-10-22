@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-22T00:50:22Z",
+  "updated": "2026-10-22T01:56:17Z",
   "items": [
+    {
+      "id": "2026-10-21-GL-Q3",
+      "time": "2026-10-22T02:17:17Z",
+      "ticker": "NYSE:GL",
+      "name": "Globe Life",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 1.6,
+      "revenue_yoy": 5.5,
+      "eps": 4.62,
+      "eps_yoy": -2.3,
+      "take": "Total revenue was $1,595.9M versus $1,513.0M; net operating income per diluted share was $4.84 versus $4.81.",
+      "source_name": "Globe Life Q3 2026 earnings release",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000320335/000032033526000224/q3fy2026earningsrelease.htm",
+      "checked": "2026-10-22T01:56:17Z"
+    },
+    {
+      "id": "2026-10-21-ONB-Q3",
+      "time": "2026-10-22T02:25:17Z",
+      "ticker": "NASDAQ:ONB",
+      "name": "Old National Bancorp",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 0.72,
+      "revenue_yoy": 1.0,
+      "eps": 0.66,
+      "eps_yoy": 43.5,
+      "take": "Net income applicable to common shares was $250.0M versus $178.5M; total revenue (FTE) was $720.4M versus $713.0M.",
+      "source_name": "Old National Bancorp 3Q26 earnings release",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000707179/000162828026066598/onb_exhibit991er3q26.htm",
+      "checked": "2026-10-22T01:56:17Z"
+    },
     {
       "id": "2026-10-21-TMO-Q3",
       "time": "2026-10-22T00:55:22Z",

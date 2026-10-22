@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-22T00:50:22Z",
+  "updated": "2026-10-22T01:56:17Z",
   "items": [
+    {
+      "id": "2026-10-22-spcx-q3",
+      "tag": "EARNINGS",
+      "headline": "SpaceX Q3 revenue $14.58B vs. $5.58B; net income $4.40B, diluted EPS $0.35",
+      "take": "SpaceX reported third-quarter revenue of $14,575 million versus $5,576 million a year earlier, net income of $4,404 million versus a $1,054 million loss, and diluted EPS of $0.35 versus $(0.36). Super Intelligence segment revenue was $7,560 million versus $813 million and Connectivity was $5,248 million versus $3,097 million. Segment mix is the story: Super Intelligence and Connectivity together made up about 88% of quarterly revenue.",
+      "source_name": "SpaceX Q3 2026 earnings release (SEC filing)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
+      "ticker": "NASDAQ:SPCX",
+      "time": "2026-10-22T01:59:17Z",
+      "checked": "2026-10-22T01:56:17Z"
+    },
+    {
+      "id": "2026-10-22-japan-trade-sep",
+      "tag": "GLOBAL",
+      "headline": "Japan Sept exports up 16.7% to ¥10.97T; imports up 18.9%, deficit ¥536.6B",
+      "take": "Japan's Ministry of Finance provisional data show September exports of ¥10,972,254 million versus ¥9,404,854 million a year earlier and imports of ¥11,508,812 million versus ¥9,682,557 million, leaving a deficit of ¥536,558 million versus ¥277,703 million. Electrical machinery exports rose 30.3% and semiconductors rose 49.4%. Imports grew faster than exports, which is why the deficit roughly doubled.",
+      "source_name": "Japan Ministry of Finance, Trade Statistics (Sept. 2026 provisional), Oct. 21, 2026",
+      "source_url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026094e.pdf",
+      "time": "2026-10-22T02:07:17Z",
+      "checked": "2026-10-22T01:56:17Z"
+    },
+    {
+      "id": "2026-10-22-gl-q3",
+      "tag": "EARNINGS",
+      "headline": "Globe Life Q3 revenue $1.60B; net operating EPS $4.84 vs. $4.81",
+      "take": "Globe Life reported third-quarter total revenue of $1,595.9 million versus $1,513.0 million a year earlier, net income per diluted share of $4.62 versus $4.73, and net operating income per diluted share of $4.84 versus $4.81. It adjusted full-year 2026 earnings guidance to a range of $15.35 to $15.65. GAAP EPS slipped about 2% while revenue grew about 5.5%.",
+      "source_name": "Globe Life Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000320335/000032033526000224/q3fy2026earningsrelease.htm",
+      "ticker": "NYSE:GL",
+      "time": "2026-10-22T02:15:17Z",
+      "checked": "2026-10-22T01:56:17Z"
+    },
+    {
+      "id": "2026-10-22-onb-q3",
+      "tag": "EARNINGS",
+      "headline": "Old National Q3 EPS $0.66 vs. $0.46; net income to common $250.0M",
+      "take": "Old National reported third-quarter net income applicable to common shares of $250.0 million versus $178.5 million a year earlier and diluted EPS of $0.66 versus $0.46. Total revenue on a fully taxable-equivalent basis was $720.4 million versus $713.0 million, and period-end loans were $51.2 billion. Earnings rose far faster than revenue, about 40% against 1%, so the year-over-year gain came mostly from below the revenue line.",
+      "source_name": "Old National Bancorp 3Q26 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000707179/000162828026066598/onb_exhibit991er3q26.htm",
+      "ticker": "NASDAQ:ONB",
+      "time": "2026-10-22T02:23:17Z",
+      "checked": "2026-10-22T01:56:17Z"
+    },
+    {
+      "id": "2026-10-22-japan-fuel-imports",
+      "tag": "ENERGY",
+      "headline": "Japan Sept mineral fuel imports up 39.4% to ¥2.35T; petroleum up 51.1%",
+      "take": "Japan's September provisional trade data show mineral fuel imports of ¥2,346,269 million, up 39.4% from a year earlier and contributing 6.9 points to total import growth. Petroleum imports rose 51.1% and LNG imports rose 39.2%. Fuel accounted for more of the import increase than any other category named in the release.",
+      "source_name": "Japan Ministry of Finance, Trade Statistics (Sept. 2026 provisional), Oct. 21, 2026",
+      "source_url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026094e.pdf",
+      "time": "2026-10-22T02:31:17Z",
+      "checked": "2026-10-22T01:56:17Z"
+    },
+    {
+      "id": "2026-10-22-gl-buyback-guidance",
+      "tag": "EQUITIES",
+      "headline": "Globe Life lifts 2026 buyback to $725M-$775M; 2027 EPS est. $16.10-$17.10",
+      "take": "Globe Life said it repurchased 1.1 million shares in the third quarter at a total cost of $185 million and now expects to spend $725 million to $775 million on repurchases for full-year 2026, compared with prior guidance of $670 million to $700 million. For 2027 it estimates net operating income per share of $16.10 to $17.10. The higher buyback range is a capital-return signal that sits alongside a trimmed 2026 earnings range.",
+      "source_name": "Globe Life Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000320335/000032033526000224/q3fy2026earningsrelease.htm",
+      "ticker": "NYSE:GL",
+      "time": "2026-10-22T02:39:17Z",
+      "checked": "2026-10-22T01:56:17Z"
+    },
     {
       "id": "2026-10-21-tmo-q3",
       "tag": "EARNINGS",
