@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-22T10:19:53Z",
+ "updated": "2026-10-22T10:57:43Z",
  "items": [
+  {
+   "id": "live-0001193125-26-428297-2.02",
+   "time": "2026-10-22T10:55:08Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Blackstone releases financial results",
+   "take": "Blackstone filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:55 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526428297/0001193125-26-428297-index.htm",
+   "ticker": "NYSE:BX"
+  },
+  {
+   "id": "live-0001628280-26-066780-2.02",
+   "time": "2026-10-22T10:26:08Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Lockheed Martin releases financial results",
+   "take": "Lockheed Martin filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:26 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LMT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066780/0001628280-26-066780-index.htm",
+   "ticker": "NYSE:LMT"
+  },
+  {
+   "id": "live-0000049196-26-000084-2.02",
+   "time": "2026-10-22T10:19:09Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Huntington Bancshares releases financial results",
+   "take": "Huntington Bancshares filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:19 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HBAN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/0000049196-26-000084-index.htm",
+   "ticker": "NASDAQ:HBAN"
+  },
   {
    "id": "live-0000773840-26-000141-2.02",
    "time": "2026-10-22T10:02:13Z",
