@@ -1,6 +1,94 @@
 {
-  "updated": "2026-10-22T22:56:18Z",
+  "updated": "2026-10-22T23:49:57Z",
   "items": [
+    {
+      "id": "2026-10-22-omc-q3",
+      "time": "2026-10-22T23:51:57Z",
+      "tag": "EARNINGS",
+      "headline": "Omnicom Q3 revenue $6.42B; diluted EPS $2.38 vs. $1.75; adjusted $2.73",
+      "take": "Omnicom reported Q3 revenue of $6,422.8 million versus $4,037.1 million a year earlier, net income attributable to Omnicom of $656.0 million versus $341.3 million, and diluted EPS of $2.38 versus $1.75. The release says the year-over-year change mostly reflects the Interpublic acquisition, which closed Nov. 26, 2025; core operations revenue was $6,010.7 million, with organic growth of 7.2%. Reported comparisons therefore overstate underlying growth, and the core figures are the cleaner read.",
+      "source_name": "Omnicom Q3 2026 earnings release",
+      "source_url": "https://www.prnewswire.com/news-releases/omnicom-reports-third-quarter-2026-results-302917375.html",
+      "ticker": "NYSE:OMC",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-omc-margin-synergies",
+      "time": "2026-10-22T23:59:57Z",
+      "tag": "EQUITIES",
+      "headline": "Omnicom adjusted EBITA $1,130.1M, 17.6% margin; $0.80 quarterly dividend declared",
+      "take": "Omnicom's Q3 adjusted EBITA was $1,130.1 million at a 17.6% margin, versus $651.0 million at 16.1% a year earlier, and operating income was $991.7 million versus $530.1 million. Non-GAAP adjusted diluted EPS was $2.73 versus $2.24, and dividends declared per share were $0.80 versus $0.70. The CEO said the company is on track to deliver $900 million in cost-reduction synergies in 2026.",
+      "source_name": "Omnicom Q3 2026 earnings release",
+      "source_url": "https://www.prnewswire.com/news-releases/omnicom-reports-third-quarter-2026-results-302917375.html",
+      "ticker": "NYSE:OMC",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-nvr-q3",
+      "time": "2026-10-23T00:07:57Z",
+      "tag": "EARNINGS",
+      "headline": "NVR Q3 net income $248.6M, diluted EPS $89.45 vs. $112.33",
+      "take": "NVR reported Q3 net income of $248.6 million versus $342.7 million a year earlier, and diluted EPS of $89.45 versus $112.33. Consolidated revenues were $2.40 billion versus $2.61 billion, and homebuilding gross profit margin was 18.3% versus 21.0%. Revenue and margin both declined from a year earlier.",
+      "source_name": "NVR Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000906163/000090616326000099/q32026ex991_earningsrelease.htm",
+      "ticker": "NYSE:NVR",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-nvr-orders-backlog",
+      "time": "2026-10-23T00:15:57Z",
+      "tag": "HOUSING",
+      "headline": "NVR Q3 new orders 4,391 units vs. 4,735; backlog 10,121 units, up 10%",
+      "take": "NVR's Q3 new orders were 4,391 units versus 4,735 a year earlier, at an average price of $442,100 versus $464,800. Settlements were 5,268 units at an average price of $445,900. Backlog at Sept. 30 was 10,121 units, up 10% from 9,165, and $4.59 billion, up 4%, so orders fell while the order book still grew year over year.",
+      "source_name": "NVR Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000906163/000090616326000099/q32026ex991_earningsrelease.htm",
+      "ticker": "NYSE:NVR",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-dhr-q3",
+      "time": "2026-10-23T00:23:57Z",
+      "tag": "EARNINGS",
+      "headline": "Danaher Q3 sales $6.55B, up 8.5%; diluted EPS $1.75 vs. $1.27",
+      "take": "Danaher reported Q3 sales of $6,554 million versus $6,053 million a year earlier, up 8.5%, with core sales growth of 3.0% (5.5% excluding respiratory testing). Net earnings were $1,235 million versus $908 million, and diluted EPS was $1.75 versus $1.27. Adjusted diluted EPS from continuing operations was $2.11 versus $1.89.",
+      "source_name": "Danaher Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm",
+      "ticker": "NYSE:DHR",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-dhr-guidance-fcf",
+      "time": "2026-10-23T00:31:57Z",
+      "tag": "EQUITIES",
+      "headline": "Danaher raises 2026 adjusted EPS outlook to $8.57-$8.62; Q3 free cash flow $1.63B",
+      "take": "Danaher raised its full-year 2026 adjusted diluted EPS guidance for continuing operations to $8.57-$8.62 from $8.45-$8.60 and guides to core sales growth of approximately 2.5%. Q3 operating cash flow from continuing operations was $1,886 million versus $1,662 million, and free cash flow was $1,632 million versus $1,370 million. Cash generation grew faster than reported sales in the quarter.",
+      "source_name": "Danaher Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm",
+      "ticker": "NYSE:DHR",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-vrsn-q3",
+      "time": "2026-10-23T00:37:57Z",
+      "tag": "EARNINGS",
+      "headline": "Verisign Q3 revenue $443.0M vs. $419.1M; diluted EPS $2.35 vs. $2.27",
+      "take": "Verisign reported Q3 revenue of $443.0 million versus $419.1 million a year earlier, operating income of $296.5 million versus $284.3 million, and net income of $212.6 million versus $212.8 million. Diluted EPS was $2.35 versus $2.27. Net income was essentially flat while diluted EPS rose, which implies a smaller diluted share count.",
+      "source_name": "Verisign Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001014473/000101447326000038/q32026earningsrelease.htm",
+      "ticker": "NASDAQ:VRSN",
+      "checked": "2026-10-22T23:52:57Z"
+    },
+    {
+      "id": "2026-10-22-vrsn-domains-buyback",
+      "time": "2026-10-23T00:43:57Z",
+      "tag": "EQUITIES",
+      "headline": "Verisign .com/.net base 182.5M, up 6.1%; $189M buyback in Q3",
+      "take": "Verisign said the .com and .net domain name base was 182.5 million registrations at Sept. 30, 2026, up 6.1% year over year, with a net increase of 3.36 million in Q3. It repurchased 0.7 million shares for $189 million in the quarter and had $1.36 billion remaining under its authorization at quarter-end.",
+      "source_name": "Verisign Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001014473/000101447326000038/q32026earningsrelease.htm",
+      "ticker": "NASDAQ:VRSN",
+      "checked": "2026-10-22T23:52:57Z"
+    },
     {
       "id": "2026-10-22-enva-q3",
       "time": "2026-10-22T22:58:18Z",
