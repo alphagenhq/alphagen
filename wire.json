@@ -1,6 +1,81 @@
 {
-  "updated": "2026-10-23T18:51:12Z",
+  "updated": "2026-10-23T19:53:33Z",
   "items": [
+    {
+      "id": "2026-10-23-alv-q3",
+      "tag": "EARNINGS",
+      "headline": "Autoliv Q3 net sales $2,693M vs. $2,706M; diluted EPS $2.13 vs. $2.28",
+      "take": "Autoliv reported Q3 2026 net sales of $2,693 million versus $2,706 million a year earlier, operating margin of 9.4% versus 9.9%, and diluted EPS of $2.13 versus $2.28 (adjusted $2.19 versus $2.32). The company attributes the operating income decline mainly to a supplier settlement compensation received in Q3 2025. Sales were roughly flat year over year while profit measures slipped modestly.",
+      "source_name": "Autoliv Q3 2026 financial report (PR Newswire, Oct. 23, 2026)",
+      "source_url": "https://prnewswire.com/news-releases/financial-report-july---september-2026-302918000.html",
+      "ticker": "NYSE:ALV",
+      "time": "2026-10-23T19:52:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
+    {
+      "id": "2026-10-23-alv-buyback-guidance",
+      "tag": "EQUITIES",
+      "headline": "Autoliv repurchased 1.23M shares for $150M in Q3; 2026 cash flow view ~$1.2B",
+      "take": "Autoliv repurchased and retired 1.23 million shares for $150 million in Q3 2026, versus $100 million a year earlier, and paid dividends of $63 million ($0.87 per share). Q3 operating cash flow was $239 million versus $258 million, and the company's full-year 2026 guidance is organic sales growth of around 0%, adjusted operating margin of around 10.5% and operating cash flow of around $1.2 billion. Its leverage ratio was 1.3x.",
+      "source_name": "Autoliv Q3 2026 financial report (PR Newswire, Oct. 23, 2026)",
+      "source_url": "https://prnewswire.com/news-releases/financial-report-july---september-2026-302918000.html",
+      "ticker": "NYSE:ALV",
+      "time": "2026-10-23T20:00:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
+    {
+      "id": "2026-10-23-amr-prelim-q3",
+      "tag": "COMMODITIES",
+      "headline": "Alpha Metallurgical prelim Q3 net loss $9.3M; Met segment sold 3.9M tons",
+      "take": "Alpha Metallurgical Resources preliminarily reported a Q3 2026 net loss of $9.3 million, or $0.73 per diluted share, with adjusted EBITDA of $29.4 million and coal revenues of $560.6 million. Met segment tons sold were 3.9 million at a net realized price of $121.09 per ton against a cost of coal sales of $106.93 per ton (a $14.16 per-ton non-GAAP margin). Cash was $334.1 million and liquidity $443.4 million at Sept. 30; the company says the figures are preliminary and will release definitive results Nov. 6.",
+      "source_name": "Alpha Metallurgical preliminary Q3 2026 results (PR Newswire, Oct. 23, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/alpha-announces-preliminary-financial-results-for-third-quarter-2026-302917499.html",
+      "ticker": "NYSE:AMR",
+      "time": "2026-10-23T20:08:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
+    {
+      "id": "2026-10-23-bolt-prana-pipe",
+      "tag": "DEALS",
+      "headline": "Bolt Biotherapeutics acquires Prana Therapies; $120M private placement",
+      "take": "Bolt Biotherapeutics announced Oct. 23 a sign-and-close reverse merger with Prana Therapies, paid in 430,746 Bolt common shares and 16,360.929 shares of Series D non-voting convertible preferred stock. Concurrently it is selling 13,995.311 Series D shares at $8,574.30 each for $120 million in upfront gross proceeds, with warrants for up to $60 million more, and the private placement is expected to close Oct. 26. The Series D converts to common only after Bolt stockholder approval under Nasdaq rules.",
+      "source_name": "Bolt Biotherapeutics press release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387280/0/en/bolt-biotherapeutics-announces-acquisition-of-prana-therapies-and-120-million-concurrent-private-placement-to-advance-pra-216-in-multiple-high-value-inflammatory-indications.html",
+      "ticker": "NASDAQ:BOLT",
+      "time": "2026-10-23T20:16:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
+    {
+      "id": "2026-10-23-fomc-oct-27-28",
+      "tag": "FED",
+      "headline": "FOMC meets Oct. 27-28; press conference listed for 2:30 p.m. ET Oct. 28",
+      "take": "The Federal Reserve Board's October calendar lists a two-day FOMC meeting on Oct. 27-28, with an FOMC entry at 2:00 p.m. ET and a press conference at 2:30 p.m. ET on Oct. 28. The FOMC meeting calendar does not mark the October meeting as a Summary of Economic Projections meeting. It is the one scheduled policy event of the week for rates markets.",
+      "source_name": "Federal Reserve Board, Calendar: October 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "time": "2026-10-23T20:24:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
+    {
+      "id": "2026-10-23-colgate-q3-oct-30",
+      "tag": "EARNINGS",
+      "headline": "Colgate-Palmolive to hold Q3 earnings call Friday Oct. 30 at 8:30 a.m. ET",
+      "take": "Colgate-Palmolive said it will webcast its 2026 third-quarter earnings call on Friday, Oct. 30, 2026, at 8:30 a.m. ET, hosted by Chairman, President and CEO Noel Wallace, CFO Stan Sutula and EVP of Investor Relations Claire Ross. The earnings release and prepared materials will be on its investor events page. It adds to a heavy Oct. 28-30 earnings stretch already on the Wire.",
+      "source_name": "Colgate-Palmolive press release (Business Wire, Oct. 16, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261016095297/en/Colgate-Palmolive-Webcasts-2026-Third-Quarter-Earnings-Conference-Call-October-30-2026-830-a.m.-ET",
+      "ticker": "NYSE:CL",
+      "time": "2026-10-23T20:32:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
+    {
+      "id": "2026-10-23-fed-stat-calendar-oct-26-30",
+      "tag": "MACRO",
+      "headline": "Fed data week: H.6 Oct. 27, H.4.1 Oct. 29, H.8 Oct. 30; H.15 daily",
+      "take": "The Federal Reserve Board's calendar lists H.6 Money Stock Measures on Oct. 27 at 1:00 p.m. ET, H.4.1 Factors Affecting Reserve Balances on Oct. 29 at 4:30 p.m., and H.8 Assets and Liabilities of Commercial Banks on Oct. 30 at 4:15 p.m. H.15 Selected Interest Rates is scheduled daily at 4:15 p.m. Oct. 26-30, and H.10 Foreign Exchange Rates on Oct. 26 at 4:15 p.m. Together they give the week's official read on bank balance sheets, reserves and the yield curve around the FOMC meeting.",
+      "source_name": "Federal Reserve Board, Calendar: October 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "time": "2026-10-23T20:40:33Z",
+      "checked": "2026-10-23T19:53:33Z"
+    },
     {
       "id": "2026-10-23-stba-q3",
       "tag": "CREDIT",
