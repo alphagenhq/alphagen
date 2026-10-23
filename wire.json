@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-23T02:50:15Z",
+  "updated": "2026-10-23T10:45:51Z",
   "items": [
+    {
+      "id": "2026-10-22-sam-q3",
+      "time": "2026-10-23T10:50:51Z",
+      "tag": "EARNINGS",
+      "headline": "Boston Beer Q3 net revenue $520.1M vs. $537.5M; diluted EPS $4.21 vs. $4.25",
+      "take": "Boston Beer reported Q3 2026 net revenue of $520.1 million versus $537.5 million, net income of $43.2 million versus $46.2 million, and GAAP diluted EPS of $4.21 versus $4.25; non-GAAP diluted EPS was $4.37. Depletions were down 5% and shipments down 4.9% to about 1.8 million barrels, while gross margin rose to 51.7% from 50.8%. Revenue fell about 3.2% on lower volume, with margin improvement cushioning the hit to earnings.",
+      "source_name": "Boston Beer Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386919/0/en/boston-beer-reports-third-quarter-financial-results.html",
+      "ticker": "NYSE:SAM",
+      "checked": "2026-10-23T10:45:51Z"
+    },
+    {
+      "id": "2026-10-22-sam-guidance-litigation",
+      "time": "2026-10-23T10:57:51Z",
+      "tag": "EQUITIES",
+      "headline": "Boston Beer lifts 2026 non-GAAP EPS floor to $9.00; range $9.00-$10.50",
+      "take": "Boston Beer now expects 2026 non-GAAP EPS of $9.00 to $10.50, up from $8.50 to $10.50, and cut its tariff cost estimate to $18 million-$22 million from $20 million-$30 million. Year-to-date GAAP results show a net loss of $50.5 million, including litigation expense of $194.5 million, or $14.51 per share; the company held $308.1 million of cash with no debt at Sept. 26. The gap between GAAP and non-GAAP guidance is driven by that litigation charge.",
+      "source_name": "Boston Beer Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386919/0/en/boston-beer-reports-third-quarter-financial-results.html",
+      "ticker": "NYSE:SAM",
+      "checked": "2026-10-23T10:45:51Z"
+    },
+    {
+      "id": "2026-10-22-fcfs-q3",
+      "time": "2026-10-23T11:04:51Z",
+      "tag": "EARNINGS",
+      "headline": "FirstCash Q3 revenue $1,101.2M vs. $935.6M; diluted EPS $2.33 vs. $1.86",
+      "take": "FirstCash reported Q3 2026 revenue of $1,101.167 million versus $935.579 million, net income of $101.152 million versus $82.807 million, and GAAP diluted EPS of $2.33 versus $1.86; adjusted diluted EPS was $2.68 versus $2.26. The company said revenue and segment income from its pawn segments each increased 28%. Revenue rose about 17.7% while GAAP EPS rose about 25.3%, so earnings grew faster than sales.",
+      "source_name": "FirstCash Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386126/0/en/firstcash-reports-record-third-quarter-operating-results-revenues-and-earnings-from-pawn-segments-grow-28-declares-10-increase-in-quarterly-cash-dividend.html",
+      "ticker": "NASDAQ:FCFS",
+      "checked": "2026-10-23T10:45:51Z"
+    },
+    {
+      "id": "2026-10-22-fcfs-dividend-stores",
+      "time": "2026-10-23T11:11:51Z",
+      "tag": "EQUITIES",
+      "headline": "FirstCash declares $0.46 quarterly dividend, annualized $1.84 vs. $1.68; 3,352 stores",
+      "take": "FirstCash's board declared a $0.46 per share fourth-quarter dividend, payable Nov. 24 to holders of record Nov. 13; the annualized rate is $1.84 versus $1.68 previously, which the company describes as a 10% increase. It had 3,352 locations at Sept. 30, including 1,215 in the U.S., 1,839 in Latin America and 298 in the U.K., with 14 added in Q3. The dividend increase is modest next to the 28% pawn-segment growth the company reported.",
+      "source_name": "FirstCash Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386126/0/en/firstcash-reports-record-third-quarter-operating-results-revenues-and-earnings-from-pawn-segments-grow-28-declares-10-increase-in-quarterly-cash-dividend.html",
+      "ticker": "NASDAQ:FCFS",
+      "checked": "2026-10-23T10:45:51Z"
+    },
     {
       "id": "2026-10-21-wcn-q3",
       "time": "2026-10-23T02:51:15Z",

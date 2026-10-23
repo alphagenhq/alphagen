@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-23T02:50:15Z",
+  "updated": "2026-10-23T10:45:51Z",
   "items": [
+    {
+      "id": "2026-10-22-SAM-Q3",
+      "time": "2026-10-23T10:50:51Z",
+      "ticker": "NYSE:SAM",
+      "name": "Boston Beer",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 0.52,
+      "revenue_yoy": -3.2,
+      "eps": 4.21,
+      "take": "Net revenue was $520.1M versus $537.5M and diluted EPS was $4.21 versus $4.25; non-GAAP EPS guidance range now $9.00-$10.50.",
+      "source_name": "Boston Beer Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386919/0/en/boston-beer-reports-third-quarter-financial-results.html",
+      "checked": "2026-10-23T10:45:51Z",
+      "eps_yoy": -0.9
+    },
+    {
+      "id": "2026-10-22-FCFS-Q3",
+      "time": "2026-10-23T10:57:51Z",
+      "ticker": "NASDAQ:FCFS",
+      "name": "FirstCash",
+      "period": "Q3 2026",
+      "report_date": "2026-10-22",
+      "revenue": 1.1,
+      "revenue_yoy": 17.7,
+      "eps": 2.33,
+      "take": "Revenue was $1,101.2M versus $935.6M; adjusted EPS was $2.68 versus $2.26 and the quarterly dividend was set at $0.46.",
+      "source_name": "FirstCash Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386126/0/en/firstcash-reports-record-third-quarter-operating-results-revenues-and-earnings-from-pawn-segments-grow-28-declares-10-increase-in-quarterly-cash-dividend.html",
+      "checked": "2026-10-23T10:45:51Z",
+      "eps_yoy": 25.3
+    },
     {
       "id": "2026-10-21-WCN-Q3",
       "time": "2026-10-23T02:51:15Z",
