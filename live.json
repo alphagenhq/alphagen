@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T12:10:48Z",
+ "updated": "2026-10-23T20:21:32Z",
  "items": [
+  {
+   "id": "live-0001193125-26-430424-1.01",
+   "time": "2026-10-23T20:05:52Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Marvell Technology discloses a material agreement",
+   "take": "Marvell Technology reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:05 PM ET, Oct 23. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MRVL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526430424/0001193125-26-430424-index.htm",
+   "ticker": "NASDAQ:MRVL"
+  },
   {
    "id": "live-0001193125-26-429481-5.02",
    "time": "2026-10-23T12:09:09Z",
