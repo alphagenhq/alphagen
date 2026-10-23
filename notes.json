@@ -1,6 +1,85 @@
 {
-  "updated": "2026-10-22T20:51:32Z",
+  "updated": "2026-10-23T11:47:05Z",
   "items": [
+    {
+      "id": "2026-10-23-morning-brief",
+      "time": "2026-10-23T11:47:05Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: Mortgage rates ease to 7.32% as bank earnings arrive and FOMC week nears",
+      "dek": "A thin official calendar leaves rates and corporate results in focus, with the Fed, GDP and PCE data, and three Treasury note auctions next week.",
+      "key_points": [
+        "BEA lists only GDP (advance, Q3) and Personal Income and Outlays (Sept) between today and Oct. 30, both 8:30 a.m. ET Oct. 29; the Fed calendar shows no FOMC events or speeches today.",
+        "Freddie Mac: the 30-year fixed mortgage rate averaged 7.32% as of Oct. 22, down from 7.40% a week earlier and 6.19% a year ago; the 15-year was 6.68%.",
+        "10-year Treasury yield was 5.13% on Oct. 21, versus 5.12% on Oct. 20 and 5.09% on Oct. 16 (Federal Reserve H.15 via FRED).",
+        "Earnings: First Citizens Q3 net income $606M (new $1.2B repurchase plan); Flagstar provision $76M versus $18M in Q2; Rithm Capital reports before the NYSE open, call at 8:00 a.m. ET.",
+        "Next week: FOMC Oct. 27-28 (press conference Oct. 28, 2:30 p.m. ET); Treasury 2-, 5- and 7-year note auctions on Oct. 26, 27 and 29."
+      ],
+      "talking_points": [
+        "Mortgage rates averaged 7.32% last week, down slightly from 7.40% the week before, but still well above the 6.19% of a year ago, so borrowing costs for homebuyers remain a real hurdle.",
+        "The 10-year Treasury yield was 5.13% on October 21, and because mortgage rates tend to track long-term Treasury yields, that benchmark is a useful gauge of what home financing may cost.",
+        "First Citizens announced a plan to buy back up to $1.2 billion of its shares through 2027, a reminder that banks weigh returning capital to shareholders alongside lending to customers."
+      ],
+      "body": [
+        "Friday's official calendar is thin. The Bureau of Economic Analysis lists only two releases between today and October 30, GDP (advance estimate) for the third quarter and Personal Income and Outlays for September, both at 8:30 a.m. ET on October 29. The Federal Reserve Board's calendar for today shows no speeches or FOMC events, with the commercial paper release at 1:00 p.m. and the H.8 and H.15 statistical releases at 4:15 p.m. ET.",
+        "The clearest rate datapoint arrived yesterday. Freddie Mac's survey showed the 30-year fixed mortgage rate averaging 7.32% as of October 22, down from 7.40% a week earlier and 6.19% a year ago. The 15-year rate was 6.68%, versus 6.71% a week earlier and 5.44% a year ago. FRED shows the 30-year series at 7.03% on September 24 and 7.28% on October 1, so the latest reading is lower than the past two weeks but higher than late September.",
+        "Treasury yields remain the backdrop. The 10-year constant maturity yield was 5.13% on October 21, versus 5.12% on October 20 and 5.09% on October 16, according to the Federal Reserve's H.15 data on FRED. The October 22 observation had not yet been published when this note was written. Our Chart of the Day looks at how the mortgage rate and the 10-year yield have moved together.",
+        "Earnings flow continues. First Citizens BancShares reported third-quarter net income of $606 million versus $672 million in the second quarter, and announced a repurchase plan of up to $1.2 billion through 2027. Flagstar Bank's provision for credit losses was $76 million versus $18 million in the second quarter. Rogers Communications reported revenue of C$5,443 million versus C$5,348 million, and Balchem reported net sales of $290.7 million, up 8.6%. Rithm Capital said it will release results before the New York Stock Exchange opens today, with its call at 8:00 a.m. ET.",
+        "Overseas, the Statistics Bureau of Japan's schedule lists the national September consumer price index for today, October 23. We have not yet read the figures from the Bureau, so we make no statement about the result here.",
+        "Looking ahead, the Federal Open Market Committee meets October 27-28, with a press conference at 2:30 p.m. ET on October 28. Treasury's tentative auction schedule lists 2-year notes on Monday, October 26, 5-year notes on Tuesday, October 27 and 7-year notes on Thursday, October 29. Those auctions, the FOMC decision and the GDP and PCE data on October 29 make next week the busiest of the month for rates."
+      ],
+      "sources": [
+        {
+          "name": "Freddie Mac: Primary Mortgage Market Survey",
+          "url": "https://www.freddiemac.com/pmms"
+        },
+        {
+          "name": "FRED: 30-Year Fixed Rate Mortgage Average (MORTGAGE30US)",
+          "url": "https://fred.stlouisfed.org/series/mortgage30us"
+        },
+        {
+          "name": "FRED: 10-Year Treasury Constant Maturity Yield (DGS10)",
+          "url": "https://fred.stlouisfed.org/series/dgs10"
+        },
+        {
+          "name": "Federal Reserve Board: October 2026 calendar",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        },
+        {
+          "name": "BEA: Release Schedule",
+          "url": "https://www.bea.gov/news/schedule"
+        },
+        {
+          "name": "U.S. Treasury: Tentative Auction Schedule",
+          "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
+        },
+        {
+          "name": "Statistics Bureau of Japan: CPI Schedule of Release",
+          "url": "https://www.stat.go.jp/english/data/cpi/1582.html"
+        },
+        {
+          "name": "First Citizens BancShares Q3 2026 release",
+          "url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-reports-third-quarter-2026-earnings-announces-additional-share-repurchase-plan-302917517.html"
+        },
+        {
+          "name": "Flagstar Q3 2026 release",
+          "url": "https://www.prnewswire.com/news-releases/flagstar-bank-reports-third-quarter-2026-net-income-attributable-to-common-stockholders-of-0-01-per-diluted-share-302917577.html"
+        },
+        {
+          "name": "Rogers Q3 2026 release",
+          "url": "https://www.globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html"
+        },
+        {
+          "name": "Balchem Q3 2026 release",
+          "url": "https://www.globenewswire.com/news-release/2026/10/23/3387159/8153/en/balchem-corporation-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "Rithm Capital: Q3 2026 earnings schedule",
+          "url": "https://www.businesswire.com/news/home/20261012213742/en/Rithm-Capital-Corp.-Schedules-Third-Quarter-2026-Earnings-Release-and-Conference-Call"
+        }
+      ],
+      "checked": "2026-10-23T11:47:05Z"
+    },
     {
       "id": "2026-10-22-the-close",
       "time": "2026-10-22T20:51:32Z",

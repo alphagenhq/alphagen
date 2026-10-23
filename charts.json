@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-22T11:52:24Z",
+  "updated": "2026-10-23T11:47:05Z",
   "items": [
+    {
+      "id": "2026-10-23-mortgage-vs-10yr",
+      "time": "2026-10-23T11:47:05Z",
+      "title": "A 7.32% mortgage and a 5.13% 10-year: the housing rate gap",
+      "subtitle": "Freddie Mac 30-year fixed mortgage average (weekly) and 10-year Treasury constant maturity yield (daily), percent",
+      "series": [
+        {
+          "id": "MORTGAGE30US",
+          "label": "30-year mortgage rate",
+          "t": "lvl"
+        },
+        {
+          "id": "DGS10",
+          "label": "10-year Treasury yield",
+          "t": "lvl"
+        }
+      ],
+      "start": "2025-01-01",
+      "units": "%",
+      "take": "The 30-year fixed mortgage rate averaged 7.32% for the week ending October 22, down from 7.40% on October 15 and October 8, and up from 7.03% on September 24. The 10-year Treasury yield was 5.13% on October 21 versus 5.10% on October 15. On October 15 the mortgage rate was 2.30 percentage points above the 10-year yield (7.40% less 5.10%). Freddie Mac reported a year-ago average of 6.19%.",
+      "source": "Freddie Mac PMMS and Federal Reserve H.15 via FRED",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-10-23T11:47:05Z"
+    },
     {
       "id": "2026-10-22-ten-year-real-breakeven",
       "time": "2026-10-22T11:52:24Z",

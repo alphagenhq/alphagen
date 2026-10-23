@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-23T10:45:51Z",
+  "updated": "2026-10-23T11:47:05Z",
   "items": [
+    {
+      "id": "2026-10-23-RCI-Q3",
+      "time": "2026-10-23T12:07:05Z",
+      "ticker": "NYSE:RCI",
+      "name": "Rogers Communications",
+      "period": "Q3 2026",
+      "report_date": "2026-10-23",
+      "revenue": 5.443,
+      "revenue_yoy": 1.8,
+      "eps": 0.88,
+      "take": "Revenue was C$5,443M versus C$5,348M and diluted EPS was C$0.88 versus C$10.54, which included a non-cash MLSE revaluation gain; amounts in Canadian dollars.",
+      "source_name": "Rogers Q3 2026 results release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-23T11:47:05Z",
+      "eps_yoy": -91.7
+    },
+    {
+      "id": "2026-10-23-BCPC-Q3",
+      "time": "2026-10-23T12:17:05Z",
+      "ticker": "NASDAQ:BCPC",
+      "name": "Balchem",
+      "period": "Q3 2026",
+      "report_date": "2026-10-23",
+      "revenue": 0.291,
+      "revenue_yoy": 8.6,
+      "eps": 1.46,
+      "take": "Net sales were $290.7M versus $267.6M and GAAP diluted EPS was $1.46 versus $1.24; adjusted EPS was $1.57 versus $1.35.",
+      "source_name": "Balchem Q3 2026 results release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387159/8153/en/balchem-corporation-reports-third-quarter-2026-financial-results.html",
+      "checked": "2026-10-23T11:47:05Z",
+      "eps_yoy": 17.7
+    },
     {
       "id": "2026-10-22-SAM-Q3",
       "time": "2026-10-23T10:50:51Z",
