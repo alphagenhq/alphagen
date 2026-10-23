@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T15:00:48Z",
+  "updated": "2026-10-23T15:51:21Z",
   "items": [
+    {
+      "id": "2026-10-23-SLB-Q3",
+      "time": "2026-10-23T15:53:21Z",
+      "ticker": "NYSE:SLB",
+      "name": "SLB",
+      "period": "Q3 2026",
+      "report_date": "2026-10-23",
+      "revenue": 9.449,
+      "revenue_yoy": 5.8,
+      "eps": 0.49,
+      "take": "Revenue was $9,449M versus $8,928M and GAAP diluted EPS was $0.49 versus $0.50; EPS excluding charges and credits was $0.64 versus $0.69. The board approved a $0.295 quarterly dividend.",
+      "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
+      "checked": "2026-10-23T15:51:21Z",
+      "eps_yoy": -2.0
+    },
     {
       "id": "2026-10-23-AXP-Q3",
       "time": "2026-10-23T15:00:48Z",

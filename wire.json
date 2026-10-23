@@ -1,6 +1,59 @@
 {
-  "updated": "2026-10-23T15:00:42Z",
+  "updated": "2026-10-23T15:51:21Z",
   "items": [
+    {
+      "id": "2026-10-23-slb-q3",
+      "time": "2026-10-23T15:53:21Z",
+      "tag": "EARNINGS",
+      "headline": "SLB Q3 revenue $9.45B, up 6%; diluted EPS $0.49 vs. $0.50",
+      "take": "SLB reported Q3 2026 revenue of $9,449 million versus $8,928 million a year earlier and $8,972 million in Q2. GAAP net income attributable to SLB was $735 million versus $739 million, and GAAP diluted EPS was $0.49 versus $0.50; EPS excluding charges and credits was $0.64 versus $0.69. Revenue grew while per-share earnings slipped, so the mix of segments below is where the story sits.",
+      "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
+      "ticker": "NYSE:SLB",
+      "checked": "2026-10-23T15:51:21Z"
+    },
+    {
+      "id": "2026-10-23-slb-segments",
+      "time": "2026-10-23T16:05:21Z",
+      "tag": "ENERGY",
+      "headline": "SLB North America revenue $2.40B, up 24%; Production Systems $4.00B",
+      "take": "SLB's North America revenue was $2,401 million versus $1,930 million a year earlier, while International was $6,993 million versus $6,916 million. Production Systems revenue was $4,000 million versus $3,474 million; Reservoir Performance and Well Construction each fell 3%, to $1,634 million and $2,888 million. The release says the ChampionX businesses, acquired in July 2025, contributed $956 million of North America revenue in Q3 2026, so the 24% figure is not like-for-like.",
+      "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
+      "ticker": "NYSE:SLB",
+      "checked": "2026-10-23T15:51:21Z"
+    },
+    {
+      "id": "2026-10-23-slb-capital-return",
+      "time": "2026-10-23T16:17:21Z",
+      "tag": "EQUITIES",
+      "headline": "SLB repurchased 12.9M shares for $656M in Q3; quarterly dividend $0.295",
+      "take": "SLB generated $1.51 billion of cash flow from operations and $828 million of free cash flow in Q3 2026, and repurchased 12.9 million shares for $656 million. The board approved a quarterly dividend of $0.295 per share, payable Jan. 7, 2027 to holders of record Dec. 2. Full-year 2026 capital investment is still expected to be about $2.5 billion.",
+      "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
+      "ticker": "NYSE:SLB",
+      "checked": "2026-10-23T15:51:21Z"
+    },
+    {
+      "id": "2026-10-23-h41-tga-945b",
+      "time": "2026-10-23T16:29:21Z",
+      "tag": "FED",
+      "headline": "Treasury's cash at the Fed $945.2B on Oct. 21, up $59.3B on the week",
+      "take": "The Fed's H.4.1 for the week ended Oct. 21 shows the Treasury General Account at $945,153 million on Wednesday, up $59,330 million from a week earlier. Reserve balances were $2,969,522 million and reverse repurchase agreements $334,083 million; total Fed assets were $6,753,604 million, down $2,035 million. A larger Treasury balance drains reserves from the banking system, which is why the TGA is watched alongside funding markets.",
+      "source_name": "Federal Reserve Board H.4.1 (released Oct. 22, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/h41/current/",
+      "checked": "2026-10-23T15:51:21Z"
+    },
+    {
+      "id": "2026-10-23-h15-oct-21-curve",
+      "time": "2026-10-23T16:41:21Z",
+      "tag": "RATES",
+      "headline": "Treasury 2-year yield 4.81% on Oct. 21; 10-year 5.13%, 30-year 5.42%",
+      "take": "The Fed's H.15 shows the 2-year Treasury constant-maturity yield at 4.81% on Oct. 21, up from 4.77% on Oct. 19, while the 10-year was 5.13% and the 30-year 5.42%. The 3-month yield was 4.25% against an effective fed funds rate of 3.88%. That leaves the 2s10s spread at 32 basis points, with the FOMC meeting Oct. 27-28.",
+      "source_name": "Federal Reserve Board H.15 Selected Interest Rates",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "checked": "2026-10-23T15:51:21Z"
+    },
     {
       "id": "2026-10-23-axp-q3",
       "tag": "EARNINGS",
