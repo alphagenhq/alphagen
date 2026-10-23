@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-23T00:45:44Z",
+  "updated": "2026-10-23T01:56:03Z",
   "items": [
+    {
+      "id": "2026-10-20-htz-oro-mobility-jv",
+      "time": "2026-10-23T01:58:03Z",
+      "tag": "DEALS",
+      "headline": "Hertz sells 50% of Oro Mobility voting units to investors for about $80.9M cash",
+      "take": "Hertz disclosed in an 8-K (Items 1.01 and 7.01) that Cohen Private Ventures and funds affiliated with Certares and/or Knighthead bought Class A units of Oro Mobility Holdings for about $80.89 million in cash, closing October 19, 2026. The units carry 50% of the voting units and about 15.86% of the common units, and Hertz put about $60.03 million of cash plus Oro business assets into the entity first. The structure splits control evenly while Hertz keeps most of the economics.",
+      "source_name": "Hertz Global Holdings Form 8-K (event date Oct. 16, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001657853/000095010326015848/dp255212_8k.htm",
+      "ticker": "NASDAQ:HTZ",
+      "checked": "2026-10-23T01:56:03Z"
+    },
+    {
+      "id": "2026-10-20-htz-notes-repurchase",
+      "time": "2026-10-23T02:10:03Z",
+      "tag": "CREDIT",
+      "headline": "Hertz to repurchase $51.1M of 8.000% 2029 exchangeable notes for about $20.9M",
+      "take": "In the same 8-K, Hertz agreed to repurchase about $51.1 million principal of its 8.000% Exchangeable Senior Second-Lien Secured Paid-in-Kind Notes due 2029 from certain Certares and/or Knighthead affiliates for about $20.86 million, which the filing describes as a 60% discount to par. By our calculation the price is 40.8% of principal. The filing does not state how Hertz will use proceeds from the investor purchase or the note repurchase.",
+      "source_name": "Hertz Global Holdings Form 8-K (event date Oct. 16, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001657853/000095010326015848/dp255212_8k.htm",
+      "ticker": "NASDAQ:HTZ",
+      "checked": "2026-10-23T01:56:03Z"
+    },
+    {
+      "id": "2026-10-20-htz-oro-fleet-lease-services",
+      "time": "2026-10-23T02:22:03Z",
+      "tag": "EQUITIES",
+      "headline": "Hertz-Oro deal: fleet leases of about $13.7M a month, 0.5% royalty on new rental revenue",
+      "take": "Under the Oro Mobility agreements in Hertz's 8-K, Hertz leases or subleases fleet vehicles to the new entity at about $13.7 million per month with an average term of about 4.5 years. A services agreement dated October 19 has IT, security and systems support moving to the entity within 12 months, and a 24-month royalty-bearing trademark license carries a royalty of 0.5% of new rental customer revenue. The entity's six-person board has three Hertz designees and three designated by the investors.",
+      "source_name": "Hertz Global Holdings Form 8-K (event date Oct. 16, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001657853/000095010326015848/dp255212_8k.htm",
+      "ticker": "NASDAQ:HTZ",
+      "checked": "2026-10-23T01:56:03Z"
+    },
+    {
+      "id": "2026-10-22-forge-nano-nasdaq-listing",
+      "time": "2026-10-23T02:34:03Z",
+      "tag": "IPO",
+      "headline": "Forge Nano Holdings lists on Nasdaq as NANO after merger with SPAC Archimedes Tech II",
+      "take": "Forge Nano announced October 22 that, following its business combination with Archimedes Tech SPAC Partners II Co. (NASDAQ: ATII), the combined Forge Nano Holdings, Inc. common stock and warrants trade on Nasdaq as NANO and NANOW, with a ceremonial bell ringing expected October 28. The release does not disclose merger proceeds, PIPE size or valuation. It cites a $100 million U.S. Department of Energy grant for domestic battery manufacturing.",
+      "source_name": "Forge Nano press release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386912/0/en/forge-nano-lists-on-nasdaq-bringing-atomic-scale-innovation-to-american-semiconductor-and-battery-manufacturing.html",
+      "ticker": "NASDAQ:NANO",
+      "checked": "2026-10-23T01:56:03Z"
+    },
     {
       "id": "2026-10-22-jakk-q3",
       "time": "2026-10-23T00:47:38Z",

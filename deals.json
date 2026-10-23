@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-22T18:45:57Z",
+  "updated": "2026-10-23T01:56:03Z",
   "items": [
+    {
+      "id": "2026-10-20-hertz-oro-mobility",
+      "time": "2026-10-23T02:01:03Z",
+      "type": "PE",
+      "headline": "Investors buy 50% of Oro Mobility voting units from Hertz for about $80.9M",
+      "parties": "Acquirer: Cohen Private Ventures and funds affiliated with Certares and/or Knighthead; Seller: The Hertz Corporation; Target: Oro Mobility Holdings LLC",
+      "value": 0.081,
+      "value_text": "About $80.89M cash for Class A units (about 15.86% of common units; 50% of voting units)",
+      "status": "Completed",
+      "announced": "2026-10-20",
+      "sector": "Auto rental / mobility",
+      "take": "The investors' purchase closed October 19, 2026, after Hertz contributed Oro business assets and about $60.03 million of cash to the entity. Hertz also agreed to repurchase about $51.1 million principal of its 2029 exchangeable notes from certain investor affiliates for about $20.86 million.",
+      "source_name": "Hertz Global Holdings Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001657853/000095010326015848/dp255212_8k.htm",
+      "tickers": [
+        "NASDAQ:HTZ"
+      ],
+      "checked": "2026-10-23T01:56:03Z"
+    },
     {
       "id": "2026-10-21-cencora-aon",
       "time": "2026-10-22T19:04:57Z",
