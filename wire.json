@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-23T17:51:00Z",
+  "updated": "2026-10-23T18:51:12Z",
   "items": [
+    {
+      "id": "2026-10-23-stba-q3",
+      "tag": "CREDIT",
+      "headline": "S&T Bancorp Q3 net income $38.6M; diluted EPS $1.09 vs. $0.91",
+      "take": "S&T Bancorp reported Q3 2026 net income of $38.6 million versus $35.0 million in Q3 2025, and diluted EPS of $1.09 versus $0.91 a year earlier and $1.02 in Q2. The company called the EPS figure a record high. Earnings rose on both a quarterly and annual basis even as total assets edged down to $9.89 billion from $9.94 billion at June 30.",
+      "source_name": "S&T Bancorp Q3 2026 earnings release (8-K Ex. 99.1, Oct. 22, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000719220/000071922026000114/stba-ex991earningspressrel.htm",
+      "ticker": "NASDAQ:STBA",
+      "time": "2026-10-23T18:52:12Z",
+      "checked": "2026-10-23T18:51:12Z"
+    },
+    {
+      "id": "2026-10-23-stba-margin-balance",
+      "tag": "CREDIT",
+      "headline": "S&T Bancorp NIM widens 7 bp to 4.06%; deposits $8.06B; dividend $0.37",
+      "take": "S&T Bancorp said its fully taxable equivalent net interest margin (non-GAAP) expanded 7 basis points to 4.06% in Q3 2026. Total portfolio loans were $8.05 billion and total deposits $8.06 billion at Sept. 30, versus $7.98 billion and $7.92 billion a year earlier; dividends declared were $0.37 per share versus $0.34. Wider margin with roughly flat loans and deposits shows earnings growth here came from pricing rather than balance sheet expansion.",
+      "source_name": "S&T Bancorp Q3 2026 earnings release (8-K Ex. 99.1, Oct. 22, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000719220/000071922026000114/stba-ex991earningspressrel.htm",
+      "ticker": "NASDAQ:STBA",
+      "time": "2026-10-23T19:05:12Z",
+      "checked": "2026-10-23T18:51:12Z"
+    },
+    {
+      "id": "2026-10-23-boeing-q3-oct-27",
+      "tag": "EARNINGS",
+      "headline": "Boeing to release Q3 results Oct. 27; call at 10:30 a.m. ET",
+      "take": "Boeing said it will release third-quarter 2026 results on Tuesday, Oct. 27, with a conference call at 10:30 a.m. ET led by CEO Kelly Ortberg and CFO Jay Malave. The webcast, news release and presentation materials will be posted on Boeing's investor site. The company did not give a release time on its announcement page.",
+      "source_name": "Boeing investor relations (announced Sept. 30, 2026)",
+      "source_url": "https://boeing.mediaroom.com/2026-09-30-Boeing-to-Release-Third-Quarter-Results-on-October-27",
+      "ticker": "NYSE:BA",
+      "time": "2026-10-23T19:18:12Z",
+      "checked": "2026-10-23T18:51:12Z"
+    },
+    {
+      "id": "2026-10-23-orly-q3-oct-28",
+      "tag": "EARNINGS",
+      "headline": "O'Reilly to report Q3 results after 3:30 p.m. CT Oct. 28; call Oct. 29",
+      "take": "O'Reilly Automotive said its third-quarter 2026 results will be released after 3:30 p.m. Central Time on Wednesday, Oct. 28, 2026. The conference call is Thursday, Oct. 29, at 10:00 a.m. Central Time, with a webcast on the company's investor relations site. A replay will be available through Oct. 28, 2027.",
+      "source_name": "O'Reilly Automotive 8-K Ex. 99.1 (Oct. 1, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000898173/000089817326000048/orly-ex99d1.htm",
+      "ticker": "NASDAQ:ORLY",
+      "time": "2026-10-23T19:31:12Z",
+      "checked": "2026-10-23T18:51:12Z"
+    },
     {
       "id": "2026-10-23-crh-arcosa-completed",
       "tag": "DEALS",
