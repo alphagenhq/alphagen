@@ -1,6 +1,65 @@
 {
-  "updated": "2026-10-23T17:03:18Z",
+  "updated": "2026-10-23T20:55:18Z",
   "items": [
+    {
+      "id": "2026-10-23-the-close",
+      "time": "2026-10-23T20:55:18Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Autos trim outlooks, Atlanta's FHLB grows its balance sheet",
+      "dek": "Autoliv and Gentex reported softer profits on flat sales, while FHLB Atlanta and Orchid Island posted opposite results from mortgage-linked balance sheets.",
+      "key_points": [
+        "Autoliv: Q3 net sales $2,693M vs. $2,706M; diluted EPS $2.13 vs. $2.28; 2026 adjusted operating margin guided to around 10.5%.",
+        "Gentex: Q3 sales $647.7M vs. $655.2M; 2026 revenue now about $2.65B vs. $2.65B-$2.75B before.",
+        "FHLB Atlanta: Q3 net income $126M vs. $155M; total assets $166.7B vs. $146.2B at Dec. 31, 2025.",
+        "Orchid Island: Q3 net loss of $178.9M, or $(0.90) per share, vs. net income of $72.1M a year earlier."
+      ],
+      "talking_points": [
+        "Autoliv and Gentex both reported roughly flat sales but lower profit per share, which shows that costs and mix can matter as much as revenue when you read a company's quarterly results.",
+        "Gentex lowered its 2026 gross margin range to 34.0% to 34.5% and cited higher precious metal costs, a reminder that raw material prices can change a company's outlook even when demand is steady.",
+        "Orchid Island swung to a quarterly loss while its book value fell to $6.02 per share, so investors in mortgage-linked funds should look at book value and dividends together, not income alone."
+      ],
+      "body": [
+        "Friday's company reports pointed to a familiar pattern: sales that held roughly steady while profit measures slipped, plus two very different results from mortgage-linked balance sheets.",
+        {
+          "h": "Autos: flat sales, softer profit"
+        },
+        "Autoliv reported third-quarter net sales of $2,693 million versus $2,706 million a year earlier, a decline of 0.5% by our calculation. Operating income was $254 million versus $267 million, down 4.9%, and diluted EPS was $2.13 versus $2.28. Adjusted diluted EPS was $2.19 versus $2.32. For 2026 the company guides organic sales growth of around 0%, an adjusted operating margin of around 10.5%, which it describes as the low end of its previously stated 10.5% to 11% range, and operating cash flow of around $1.2 billion.",
+        "Gentex reported net sales of $647.7 million versus $655.2 million, down 1.1% by our calculation. GAAP net income attributable to the company was $90.6 million versus $101.0 million, and diluted EPS was $0.43 versus $0.46, while adjusted diluted EPS was flat at $0.47. Gross margin was 33.4% versus 34.4%, which Gentex attributed to higher precious metal costs and lower-than-anticipated sales. It now expects 2026 consolidated revenue of approximately $2.65 billion, versus $2.65 billion to $2.75 billion before, and gross margin of 34.0% to 34.5%, versus 34.5% to 35.5%. The company repurchased 5.7 million shares for $132.6 million in the quarter.",
+        {
+          "h": "Mortgage-linked balance sheets diverge"
+        },
+        "The Federal Home Loan Bank of Atlanta reported preliminary third-quarter net income of $126 million versus $155 million, a decline of 18.7% by our calculation. Total assets were $166.7 billion at Sept. 30 versus $146.2 billion at Dec. 31, 2025, up 14.0%, and period-end advances were $105.2 billion versus $95.0 billion, up 10.8%. Average advances, however, were $95.2 billion in the quarter versus $102.8 billion a year earlier. The board approved an annualized dividend rate of 6.20 percent, to be credited on Oct. 27, and retained earnings stood at $3.1 billion. The figures are approximate until the Form 10-Q, expected on or about Nov. 5.",
+        "Orchid Island Capital reported a net loss of $178.9 million, or $(0.90) per share, against net income of $72.1 million, or $0.53 per share, in the third quarter of 2025. Book value per share was $6.02 at Sept. 30, and dividends declared were $0.30 per share versus $0.36 a year earlier.",
+        {
+          "h": "What the day shows"
+        },
+        "None of these releases gave a single common explanation, and each company's own statements should be read on their own terms. The practical takeaway from the day is narrower: in the auto-parts reports, cost and mix language did more work than demand language, and in the mortgage-linked reports, the balance sheet and the income statement told different stories in the same quarter. We will keep tracking company guidance and official data as the week of Oct. 26 begins."
+      ],
+      "sources": [
+        {
+          "name": "Autoliv Q3 2026 financial report (PR Newswire)",
+          "url": "https://prnewswire.com/news-releases/financial-report-july---september-2026-302918000.html"
+        },
+        {
+          "name": "Gentex Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "FHLBank Atlanta Q3 2026 release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/22/3386818/2953/en/federal-home-loan-bank-of-atlanta-announces-third-quarter-2026-operating-highlights-and-declares-dividend.html"
+        },
+        {
+          "name": "Orchid Island Capital Q3 2026 release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/22/3386896/24811/en/orchid-island-capital-announces-third-quarter-2026-results.html"
+        }
+      ],
+      "tickers": [
+        "NYSE:ALV",
+        "NASDAQ:GNTX"
+      ],
+      "checked": "2026-10-23T20:55:18Z"
+    },
     {
       "id": "2026-10-23-guidance-split",
       "time": "2026-10-23T17:03:18Z",

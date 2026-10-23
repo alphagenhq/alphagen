@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-23T19:53:33Z",
+  "updated": "2026-10-23T20:55:18Z",
   "items": [
+    {
+      "id": "2026-10-23-fhlb-atlanta-q3",
+      "time": "2026-10-23T20:48:00Z",
+      "tag": "CREDIT",
+      "headline": "FHLB Atlanta Q3 net income $126M vs. $155M; advances $105.2B",
+      "take": "The Federal Home Loan Bank of Atlanta reported preliminary Q3 2026 net income of $126 million versus $155 million a year earlier, with total assets of $166.7 billion at Sept. 30 versus $146.2 billion at Dec. 31, 2025. Period-end advances were $105.2 billion versus $95.0 billion at year-end, while average advances were $95.2 billion in Q3 versus $102.8 billion a year earlier. Balance sheet growth alongside lower earnings is the contrast to note; figures are unaudited until the 10-Q.",
+      "source_name": "FHLBank Atlanta Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386818/2953/en/federal-home-loan-bank-of-atlanta-announces-third-quarter-2026-operating-highlights-and-declares-dividend.html",
+      "checked": "2026-10-23T20:55:18Z"
+    },
+    {
+      "id": "2026-10-23-fhlb-atlanta-dividend-620",
+      "time": "2026-10-23T21:05:00Z",
+      "tag": "CREDIT",
+      "headline": "FHLB Atlanta board approves 6.20% annualized dividend rate",
+      "take": "The Federal Home Loan Bank of Atlanta said its board approved an annualized dividend rate of 6.20 percent on Oct. 22, 2026, to be credited to members' daily investment accounts at the close of business on Oct. 27. Retained earnings were $3.1 billion at Sept. 30, up $106 million from Dec. 31, 2025. The bank expects to file its Form 10-Q on or about Nov. 5.",
+      "source_name": "FHLBank Atlanta Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386818/2953/en/federal-home-loan-bank-of-atlanta-announces-third-quarter-2026-operating-highlights-and-declares-dividend.html",
+      "checked": "2026-10-23T20:55:18Z"
+    },
+    {
+      "id": "2026-10-23-orchid-island-q3",
+      "time": "2026-10-23T21:22:00Z",
+      "tag": "HOUSING",
+      "headline": "Orchid Island Q3 net loss $178.9M, or $(0.90)/share; book value $6.02",
+      "take": "Orchid Island Capital reported a Q3 2026 net loss of $178.9 million, or $(0.90) per share, versus net income of $72.1 million, or $0.53 per share, in Q3 2025. Book value per share was $6.02 at Sept. 30, 2026, and dividends declared were $0.30 per share versus $0.36 a year earlier. The swing from profit to loss shows how sharply an agency mortgage-securities portfolio can reprice in one quarter.",
+      "source_name": "Orchid Island Capital Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386896/24811/en/orchid-island-capital-announces-third-quarter-2026-results.html",
+      "checked": "2026-10-23T20:55:18Z"
+    },
     {
       "id": "2026-10-23-alv-q3",
       "tag": "EARNINGS",
