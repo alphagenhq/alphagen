@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T20:21:32Z",
+ "updated": "2026-10-23T20:57:19Z",
  "items": [
+  {
+   "id": "live-0001104659-26-118496-1.01",
+   "time": "2026-10-23T20:34:15Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Workday discloses a material agreement",
+   "take": "Workday reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:34 PM ET, Oct 23. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, WDAY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1327811/000110465926118496/0001104659-26-118496-index.htm",
+   "ticker": "NASDAQ:WDAY"
+  },
   {
    "id": "live-0001193125-26-430424-1.01",
    "time": "2026-10-23T20:05:52Z",
