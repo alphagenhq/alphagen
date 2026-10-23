@@ -1,6 +1,47 @@
 {
-  "updated": "2026-10-23T22:01:44Z",
+  "updated": "2026-10-23T22:50:13Z",
   "items": [
+    {
+      "id": "2026-10-23-lycia-ipo-priced",
+      "time": "2026-10-23T22:53:13Z",
+      "tag": "IPO",
+      "headline": "Lycia Therapeutics prices upsized IPO: 17.64M shares at $18.00, about $317.5M gross",
+      "take": "Lycia Therapeutics said on Oct. 22 it priced its upsized initial public offering of 17,640,000 shares at $18.00 per share, for gross proceeds of about $317.5 million before underwriting discounts and expenses; underwriters hold a 30-day option on up to 2,646,000 more shares. Shares are expected to begin trading on the Nasdaq Global Select Market under \"LYCA\" on Oct. 23, with closing expected Oct. 26. A sizable raise for a newly listed biotech shows the IPO window for the sector remains open.",
+      "source_name": "Lycia Therapeutics pricing release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3387000/0/en/lycia-therapeutics-announces-pricing-of-upsized-initial-public-offering.html",
+      "ticker": "NASDAQ:LYCA",
+      "checked": "2026-10-23T22:50:13Z"
+    },
+    {
+      "id": "2026-10-23-ca-retail-aug",
+      "time": "2026-10-23T23:02:13Z",
+      "tag": "GLOBAL",
+      "headline": "Canada August retail sales rise 1.2% to $74.6B; September flash estimate +0.7%",
+      "take": "Statistics Canada reported retail sales increased 1.2% to $74.6 billion in August, with volumes also up 1.2% and sales higher in all nine subsectors, led by motor vehicle and parts dealers (+1.2%). Core retail, excluding gasoline stations and motor vehicle and parts dealers, rose 1.1%, and the unofficial flash estimate puts September up 0.7%. A broad-based gain heading into the Bank of Canada's Oct. 28 decision is one more input for policymakers to weigh.",
+      "source_name": "Statistics Canada, The Daily: Retail trade, August 2026 (Oct. 23, 2026)",
+      "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261023/dq261023a-eng.htm",
+      "checked": "2026-10-23T22:50:13Z"
+    },
+    {
+      "id": "2026-10-23-fed-cp-oct-21",
+      "time": "2026-10-23T23:14:13Z",
+      "tag": "CREDIT",
+      "headline": "Fed: commercial paper outstanding $1,502.6B on Oct. 21, up $22.7B on the week",
+      "take": "The Federal Reserve's commercial paper release shows $1,502.6 billion outstanding on Oct. 21 (seasonally adjusted), up $22.7 billion from Oct. 14: financial $617.7 billion (+$19.7 billion), nonfinancial $380.5 billion (+$9.3 billion) and asset-backed $504.4 billion (-$6.3 billion). One-day AA nonfinancial paper was 3.88% and AA financial 3.87%. The week's growth came from financial issuers, the short-term funding channel to watch.",
+      "source_name": "Federal Reserve Board, Commercial Paper Rates and Outstanding Summary (posted Oct. 22, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/cp/",
+      "checked": "2026-10-23T22:50:13Z"
+    },
+    {
+      "id": "2026-10-23-statcan-wk-ahead",
+      "time": "2026-10-23T23:26:13Z",
+      "tag": "GLOBAL",
+      "headline": "Statistics Canada: August payrolls Oct. 29, August GDP by industry Oct. 30",
+      "take": "Statistics Canada's official release calendar lists payroll employment, earnings and hours, and job vacancies for August on Oct. 29, followed by gross domestic product by industry for August on Oct. 30. The Labour Force Survey for October is scheduled for Nov. 6, and October CPI for Nov. 16. The two late-October releases land right after the Bank of Canada's Oct. 28 rate decision.",
+      "source_name": "Statistics Canada, 2026-2027 major economic release dates",
+      "source_url": "https://www150.statcan.gc.ca/n1/release-diffusion/2026-eng.pdf",
+      "checked": "2026-10-23T22:50:13Z"
+    },
     {
       "id": "2026-10-23-cpss-q3",
       "time": "2026-10-23T22:06:44Z",

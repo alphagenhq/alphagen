@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-23T17:51:00Z",
+  "updated": "2026-10-23T22:50:13Z",
   "items": [
+    {
+      "id": "2026-10-22-lycia-ipo",
+      "time": "2026-10-23T22:54:13Z",
+      "type": "IPO",
+      "headline": "Lycia Therapeutics prices upsized IPO at $18.00 per share, about $317.5M gross",
+      "parties": "Issuer: Lycia Therapeutics; Underwriters: Jefferies, TD Cowen, Evercore ISI, Guggenheim Securities (joint book-runners)",
+      "value": 0.3175,
+      "value_text": "About $317.5M gross proceeds (17,640,000 shares at $18.00)",
+      "status": "Priced",
+      "announced": "2026-10-22",
+      "sector": "Biotechnology",
+      "take": "Lycia priced 17,640,000 shares at $18.00, with a 30-day underwriter option for up to 2,646,000 more shares. Trading on Nasdaq Global Select under \"LYCA\" was expected to begin Oct. 23, with closing expected Oct. 26.",
+      "source_name": "Lycia Therapeutics pricing release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3387000/0/en/lycia-therapeutics-announces-pricing-of-upsized-initial-public-offering.html",
+      "tickers": [
+        "NASDAQ:LYCA"
+      ],
+      "checked": "2026-10-23T22:50:13Z"
+    },
     {
       "id": "2026-10-23-crh-arcosa",
       "time": "2026-10-23T17:52:00Z",
