@@ -1,6 +1,94 @@
 {
-  "updated": "2026-10-22T23:49:57Z",
+  "updated": "2026-10-23T00:45:44Z",
   "items": [
+    {
+      "id": "2026-10-22-jakk-q3",
+      "time": "2026-10-23T00:47:38Z",
+      "tag": "EARNINGS",
+      "headline": "JAKKS Pacific Q3 net sales $254.2M, up 20%; diluted EPS $2.48 vs. $1.74",
+      "take": "JAKKS Pacific reported Q3 net sales of $254.2 million versus $211.2 million a year earlier, net income of $29.9 million versus $19.9 million, and diluted EPS of $2.48 versus $1.74. Adjusted EBITDA was $44.4 million versus $36.5 million. The release gives no financial outlook, so the quarter stands as a reported result rather than a signal on holiday demand.",
+      "source_name": "JAKKS Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386876/0/en/jakks-pacific-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:JAKK",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-21-hxl-q3",
+      "time": "2026-10-23T00:53:38Z",
+      "tag": "EARNINGS",
+      "headline": "Hexcel Q3 sales $496.4M, up 8.8%; adjusted EPS $0.50 vs. $0.37",
+      "take": "Hexcel reported Q3 net sales of $496.4 million versus $456.2 million, GAAP diluted EPS of $0.50 versus $0.26, and adjusted diluted EPS of $0.50 versus $0.37. Commercial Aerospace sales were $330.3 million versus $274.2 million, up 20.5%. The company left 2026 guidance unchanged, so the commercial aerospace line is the driver to watch.",
+      "source_name": "Hexcel Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000717605/000119312526427875/hxl-ex99_1.htm",
+      "ticker": "NASDAQ:HXL",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-21-hxl-buyback-authorization",
+      "time": "2026-10-23T00:59:38Z",
+      "tag": "EQUITIES",
+      "headline": "Hexcel raises buyback authorization to $750.0M from $381M; no Q3 repurchases",
+      "take": "Hexcel did not repurchase shares in Q3 2026, and about $380.6 million of authorization remained at Sept. 30. The board then raised the total authorization to $750.0 million from $381 million. 2026 guidance was left unchanged at sales of $2.025 billion to $2.125 billion and adjusted EPS of $2.30 to $2.40, so the larger authorization adds capacity rather than signalling near-term repurchases.",
+      "source_name": "Hexcel Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000717605/000119312526427875/hxl-ex99_1.htm",
+      "ticker": "NASDAQ:HXL",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-21-son-q3",
+      "time": "2026-10-23T01:05:38Z",
+      "tag": "EARNINGS",
+      "headline": "Sonoco Q3 net sales $2,042M, down 4.2%; GAAP loss $7.36/share on $829M impairment",
+      "take": "Sonoco reported Q3 net sales of $2,042 million versus $2,131 million and a GAAP diluted loss of $7.36 per share versus EPS of $1.23, including an $829 million non-cash goodwill impairment. Adjusted diluted EPS was $1.67 versus $1.92. Excluding the impairment, the operating picture is a modest decline, with adjusted EBITDA of $352 million versus $386 million.",
+      "source_name": "Sonoco Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385952/26553/en/sonoco-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:SON",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-21-son-guidance-term-loans",
+      "time": "2026-10-23T01:11:38Z",
+      "tag": "CREDIT",
+      "headline": "Sonoco sets 2026 adjusted EPS at $5.30-$5.50; adds $800M term loans, draws $500M",
+      "take": "Sonoco's revised 2026 outlook calls for net sales of $7.20 billion to $7.40 billion, adjusted EPS of $5.30 to $5.50 and adjusted EBITDA of $1.20 billion to $1.25 billion. On Sept. 25 it added $800 million in term loan facilities and drew $500 million to refinance a term loan due in 2028. The release attributes Q3 pressure to price/cost and weather-hit vegetable harvests in Consumer Packaging.",
+      "source_name": "Sonoco Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385952/26553/en/sonoco-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:SON",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-20-isrg-q3",
+      "time": "2026-10-23T01:17:38Z",
+      "tag": "EARNINGS",
+      "headline": "Intuitive Q3 revenue $3.05B, up 22%; GAAP EPS $1.49 vs. $1.95; non-GAAP $3.00",
+      "take": "Intuitive reported Q3 revenue of $3.05 billion versus $2.51 billion, GAAP diluted EPS of $1.49 versus $1.95, and non-GAAP diluted EPS of $3.00 versus $2.40. GAAP EPS includes a $450 million pre-tax antitrust litigation charge. Net income attributable to Intuitive was $523 million versus $704 million, so the GAAP decline reflects the charge rather than weaker operations.",
+      "source_name": "Intuitive Q3 2026 earnings release",
+      "source_url": "https://isrg.intuitive.com/news-releases/news-release-details/intuitive-announces-third-quarter-earnings-6/",
+      "ticker": "NASDAQ:ISRG",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-20-isrg-procedures-installed-base",
+      "time": "2026-10-23T01:23:38Z",
+      "tag": "EQUITIES",
+      "headline": "Intuitive Q3 da Vinci placements 546 vs. 427; installed base 12,094, up 12%",
+      "take": "Intuitive placed 546 da Vinci systems in Q3 versus 427 a year earlier, including 315 da Vinci 5 systems, and ended September with an installed base of 12,094, up 12%. Worldwide procedures grew about 15%, with da Vinci up about 14% and Ion up about 31%. Full-year da Vinci procedure growth is guided to about 14% to 15%, which the company says should land closer to the midpoint.",
+      "source_name": "Intuitive Q3 2026 earnings release",
+      "source_url": "https://isrg.intuitive.com/news-releases/news-release-details/intuitive-announces-third-quarter-earnings-6/",
+      "ticker": "NASDAQ:ISRG",
+      "checked": "2026-10-23T00:45:44Z"
+    },
+    {
+      "id": "2026-10-22-jakk-segments",
+      "time": "2026-10-23T01:29:38Z",
+      "tag": "EQUITIES",
+      "headline": "JAKKS Q3 dolls and role-play sales $119.2M, up 29%; North America up 27.5%",
+      "take": "JAKKS reported Toys/Consumer Products sales of $192.0 million, up 23%, led by Dolls, Role-Play/Dress-Up at $119.2 million versus $92.3 million. Costumes were $62.2 million, up 12.9%, while North America sales rose 27.5% to $208.8 million and International fell 4.3% to $45.4 million. Growth was concentrated in the U.S. market, a mix that leaves results tied to North American retail demand.",
+      "source_name": "JAKKS Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386876/0/en/jakks-pacific-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:JAKK",
+      "checked": "2026-10-23T00:45:44Z"
+    },
     {
       "id": "2026-10-22-omc-q3",
       "time": "2026-10-22T23:51:57Z",
