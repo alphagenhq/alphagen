@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-23T20:55:18Z",
+  "updated": "2026-10-23T22:01:44Z",
   "items": [
+    {
+      "id": "2026-10-23-cpss-q3",
+      "time": "2026-10-23T22:06:44Z",
+      "tag": "CREDIT",
+      "headline": "Consumer Portfolio Services Q3 net income $7.0M; originations $815.3M, up 108.5%",
+      "take": "Consumer Portfolio Services reported Q3 2026 total revenue of $131.9 million versus $108.4 million a year earlier, net income of $7.0 million versus $4.9 million, and diluted EPS of $0.30 versus $0.20. Contracts purchased were $815.3 million versus $391.1 million, while total delinquencies including repossession inventory were 12.29% versus 13.96% and annualized net charge-offs were 7.26% versus 8.01%. Higher origination volume alongside lower delinquencies is the combination to watch as the owned portfolio grows.",
+      "source_name": "Consumer Portfolio Services Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386937/13171/en/consumer-portfolio-services-announces-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:CPSS",
+      "checked": "2026-10-23T22:01:44Z"
+    },
+    {
+      "id": "2026-10-23-uscb-q3",
+      "time": "2026-10-23T22:16:44Z",
+      "tag": "CREDIT",
+      "headline": "USCB Financial Q3 diluted EPS $0.51 vs. $0.45; net interest margin 3.37%",
+      "take": "USCB Financial Holdings reported Q3 2026 net income of $9.5 million and diluted EPS of $0.51, versus $0.45 in Q3 2025 and $0.49 in Q2 2026. Net interest margin was 3.37% versus 3.14% a year earlier and 3.49% in Q2, total assets were $3.0 billion, loans held for investment $2.3 billion, and non-performing loans 0.33% of total loans versus 0.06% a year earlier. Earnings grew from a year ago while the margin slipped from the prior quarter and non-performing loans rose.",
+      "source_name": "USCB Financial Holdings Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386932/0/en/uscb-financial-holdings-inc-reports-third-quarter-2026-fully-diluted-eps-of-0-51-roaa-of-1-27-and-roae-of-16-03.html",
+      "ticker": "NASDAQ:USCB",
+      "checked": "2026-10-23T22:01:44Z"
+    },
+    {
+      "id": "2026-10-23-alpine-q3-guidance",
+      "time": "2026-10-23T22:26:44Z",
+      "tag": "EQUITIES",
+      "headline": "Alpine Income Property Trust raises 2026 AFFO view to $2.20-$2.22 per share",
+      "take": "Alpine Income Property Trust reported Q3 2026 AFFO of $0.55 per diluted share versus $0.46 a year earlier and net income to common stockholders of $0.18 per diluted share versus $(0.09). It raised 2026 AFFO guidance to $2.20-$2.22 from $2.12-$2.15 and investment volume guidance to $310-$350 million from $170-$200 million, and disclosed a pending $117.3 million acquisition of a 13-property industrial portfolio expected to close in Q4 2026. The guidance raise comes alongside a much larger planned investment volume.",
+      "source_name": "Alpine Income Property Trust Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386888/0/en/alpine-income-property-trust-reports-third-quarter-2026-operating-and-financial-results.html",
+      "ticker": "NYSE:PINE",
+      "checked": "2026-10-23T22:01:44Z"
+    },
+    {
+      "id": "2026-10-23-bdn-q3",
+      "time": "2026-10-23T22:36:44Z",
+      "tag": "EARNINGS",
+      "headline": "Brandywine Realty Q3 core FFO $0.14 vs. $0.16; 2026 EPS view cut to $(0.64)-$(0.62)",
+      "take": "Brandywine Realty Trust reported Q3 2026 net loss of $(0.13) per share versus $(0.15) a year earlier, FFO of $0.05 per diluted share versus $0.16, and core FFO of $0.14 versus $0.16, with core FFO excluding a $15.4 million loss on early extinguishment of debt. It revised 2026 loss per share guidance to $(0.64)-$(0.62) from $(0.45)-$(0.41) and set core FFO guidance at $0.54-$0.56. Same-store occupancy was 88.8% at Sept. 30 versus 89.8% a year earlier.",
+      "source_name": "Brandywine Realty Trust Q3 2026 release (GlobeNewswire, Oct. 21, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385942/0/en/brandywine-realty-trust-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:BDN",
+      "checked": "2026-10-23T22:01:44Z"
+    },
     {
       "id": "2026-10-23-fhlb-atlanta-q3",
       "time": "2026-10-23T20:48:00Z",
