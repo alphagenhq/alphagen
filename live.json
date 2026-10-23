@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T21:38:13Z",
+ "updated": "2026-10-23T11:05:08Z",
  "items": [
+  {
+   "id": "live-0001193125-26-429435-2.02",
+   "time": "2026-10-23T11:04:15Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "SLB Limited releases financial results",
+   "take": "SLB Limited filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:04 AM ET, Oct 23. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, SLB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526429435/0001193125-26-429435-index.htm",
+   "ticker": "NYSE:SLB"
+  },
+  {
+   "id": "live-0000004962-26-000405-2.02",
+   "time": "2026-10-23T11:00:36Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "American Express releases financial results",
+   "take": "American Express filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Oct 23. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AXP Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000405/0000004962-26-000405-index.htm",
+   "ticker": "NYSE:AXP"
+  },
   {
    "id": "live-0001104659-26-118193-5.02",
    "time": "2026-10-22T21:15:22Z",
