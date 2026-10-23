@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-23T17:02:57Z",
+  "updated": "2026-10-23T17:51:00Z",
   "items": [
+    {
+      "id": "2026-10-23-crh-arcosa",
+      "time": "2026-10-23T17:52:00Z",
+      "type": "M&A",
+      "headline": "CRH completes acquisition of Arcosa; total enterprise value about $8.5B",
+      "parties": "Acquirer: CRH; Target: Arcosa, Inc.",
+      "value": 8.5,
+      "value_text": "Total enterprise value of approximately $8.5B",
+      "status": "Completed",
+      "announced": "2026-06-22",
+      "sector": "Building materials and infrastructure products",
+      "take": "CRH said on Oct. 23, 2026 that it has completed its acquisition of Arcosa under the agreement dated June 22, 2026. It will update full-year 2026 guidance for the deal with its third-quarter results on Oct. 29.",
+      "source_name": "CRH press release (Oct. 23, 2026)",
+      "source_url": "https://www.crh.com/media/press-releases/2026/crh-completes-8-5b-acquisition-of-arcosa/",
+      "tickers": [
+        "NYSE:CRH"
+      ],
+      "checked": "2026-10-23T17:51:00Z"
+    },
     {
       "id": "2026-10-23-zymeworks-roche-zw209",
       "time": "2026-10-23T17:02:57Z",

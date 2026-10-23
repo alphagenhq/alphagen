@@ -1,6 +1,57 @@
 {
-  "updated": "2026-10-23T17:02:57Z",
+  "updated": "2026-10-23T17:51:00Z",
   "items": [
+    {
+      "id": "2026-10-23-crh-arcosa-completed",
+      "tag": "DEALS",
+      "headline": "CRH completes acquisition of Arcosa; total enterprise value about $8.5B",
+      "take": "CRH said Oct. 23 that it has completed its acquisition of Arcosa, Inc., described as a leading U.S. provider of aggregates and critical infrastructure products, at a total enterprise value of approximately $8.5 billion under the June 22, 2026 agreement. CRH said it will issue updated full-year 2026 guidance reflecting the acquisition with its third-quarter results on Oct. 29. That release is the first place to look for how the deal changes CRH's reported figures.",
+      "source_name": "CRH press release (Oct. 23, 2026)",
+      "source_url": "https://www.crh.com/media/press-releases/2026/crh-completes-8-5b-acquisition-of-arcosa/",
+      "ticker": "NYSE:CRH",
+      "time": "2026-10-23T17:52:00Z",
+      "checked": "2026-10-23T17:51:00Z"
+    },
+    {
+      "id": "2026-10-23-fhlb-desmoines-q3",
+      "tag": "CREDIT",
+      "headline": "FHLB Des Moines Q3 net income $200M vs. $259M; advances $136.1B",
+      "take": "The Federal Home Loan Bank of Des Moines reported preliminary Q3 2026 net income of $200 million versus $259 million in Q3 2025, with net interest income of $314 million versus $335 million. Advances were $136,089 million at Sept. 30, up $25.9 billion from $110,230 million at Dec. 31, 2025, and total assets were $217,362 million. Balance sheet growth alongside lower quarterly income is the pattern to note, and other expense rose to $103 million from $59 million.",
+      "source_name": "Federal Home Loan Bank of Des Moines Q3 2026 release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387474/3898/en/federal-home-loan-bank-of-des-moines-announces-third-quarter-2026-financial-results-declares-dividend.html",
+      "time": "2026-10-23T18:01:00Z",
+      "checked": "2026-10-23T17:51:00Z"
+    },
+    {
+      "id": "2026-10-23-fhlb-desmoines-dividend",
+      "tag": "CREDIT",
+      "headline": "FHLB Des Moines dividend 9.95% on activity stock; $194M payable Nov. 10",
+      "take": "FHLB Des Moines declared annualized dividend rates of 9.95% on average activity-based stock and 6.95% on average membership stock, unchanged from the prior quarter, with total payments of $194 million expected Nov. 10, 2026. Retained earnings were $3,985 million versus $3,797 million at year-end 2025, and the regulatory capital ratio was 5.45% versus 5.54%. Dividends are paid to member institutions that hold the bank's stock, so the rate reflects the bank's earnings returned to members.",
+      "source_name": "Federal Home Loan Bank of Des Moines Q3 2026 release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387474/3898/en/federal-home-loan-bank-of-des-moines-announces-third-quarter-2026-financial-results-declares-dividend.html",
+      "time": "2026-10-23T18:10:00Z",
+      "checked": "2026-10-23T17:51:00Z"
+    },
+    {
+      "id": "2026-10-23-bea-gdp-pio-oct-29",
+      "tag": "MACRO",
+      "headline": "BEA to release Q3 advance GDP and September income and outlays Oct. 29",
+      "take": "The Bureau of Economic Analysis schedule lists \"GDP (Advance Estimate), 3rd Quarter 2026\" and \"Personal Income and Outlays, September 2026\" for Oct. 29 at 8:30 a.m. ET. U.S. International Trade in Goods and Services for September follows on Nov. 4 at 8:30 a.m. Both Oct. 29 releases land the morning after the FOMC's Oct. 28 decision and on the same day as the ECB's.",
+      "source_name": "BEA release schedule",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "time": "2026-10-23T18:19:00Z",
+      "checked": "2026-10-23T17:51:00Z"
+    },
+    {
+      "id": "2026-10-23-ecb-oct-28-29",
+      "tag": "GLOBAL",
+      "headline": "ECB Governing Council meets Oct. 28-29; press conference Oct. 29",
+      "take": "The ECB's calendar shows its October monetary policy meeting on Oct. 28 and 29, with a press conference on Oct. 29. The next meeting is Dec. 16-17, with a press conference on Dec. 17. The Oct. 29 decision shares a day with U.S. advance Q3 GDP, so U.S. and euro-area signals arrive together.",
+      "source_name": "ECB: Meetings of the Governing Council",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+      "time": "2026-10-23T18:28:00Z",
+      "checked": "2026-10-23T17:51:00Z"
+    },
     {
       "id": "2026-10-23-gntx-q3",
       "time": "2026-10-23T17:02:57Z",
