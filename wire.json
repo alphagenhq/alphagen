@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-23T12:45:53Z",
+  "updated": "2026-10-23T13:56:24Z",
   "items": [
+    {
+      "id": "2026-10-22-pg-q1-fy27",
+      "tag": "EARNINGS",
+      "headline": "P&G fiscal Q1 sales rise 4% to $23.3B; diluted EPS $1.97 vs. $1.95",
+      "take": "Procter & Gamble's July-September net sales were $23,276 million versus $22,386 million a year earlier, up 4%, with organic sales growth also 4%. Diluted EPS was $1.97 versus $1.95 and core EPS was $2.00 versus $1.99, each up 1%. Sales growth outpacing per-share earnings growth by that margin is the pattern to watch as the Thorne deal enters the numbers.",
+      "source_name": "P&G Q1 fiscal 2027 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm",
+      "ticker": "NYSE:PG",
+      "time": "2026-10-23T13:58:00Z",
+      "checked": "2026-10-23T13:56:24Z"
+    },
+    {
+      "id": "2026-10-22-pg-guidance-thorne",
+      "tag": "EQUITIES",
+      "headline": "P&G lifts FY27 all-in sales growth view to 2%-4% after Thorne closes",
+      "take": "P&G updated its fiscal 2027 all-in net sales growth range to 2% to 4%, reflecting the Thorne acquisition as of October 1, 2026, while keeping organic sales growth at 1% to 3%. Core EPS growth stays in line to 3% against fiscal 2026 core EPS of $6.89, and diluted EPS growth stays 1% to 5% against $6.62. Only the reported-sales range moved; the per-share outlook did not.",
+      "source_name": "P&G Q1 fiscal 2027 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm",
+      "ticker": "NYSE:PG",
+      "time": "2026-10-23T14:07:00Z",
+      "checked": "2026-10-23T13:56:24Z"
+    },
+    {
+      "id": "2026-10-22-gild-pepstar-hcxt2001",
+      "tag": "DEALS",
+      "headline": "Gilead to buy PepStar's oral IL-23R inhibitor HCXT-2001 for $1.275B cash",
+      "take": "Gilead agreed to acquire PepStar Therapeutics' oral IL-23R inhibitor program, HCXT-2001, for $1.275 billion in cash payable at closing, subject to customary adjustments. Closing is expected in the fourth quarter of 2026, and Gilead expects the deal to reduce GAAP and non-GAAP EPS by approximately $0.79 to $0.83. The asset is in Phase 1, so the price is being paid for a program whose safety and efficacy have not been established.",
+      "source_name": "Gilead press release (Oct. 22, 2026)",
+      "source_url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-investigational-oral-il-23r-inhibitor-hcxt-2001-strengthening-its-inflammation-pipeline-in-ibd",
+      "ticker": "NASDAQ:GILD",
+      "time": "2026-10-23T14:16:00Z",
+      "checked": "2026-10-23T13:56:24Z"
+    },
+    {
+      "id": "2026-10-23-zyme-roche-zw209",
+      "tag": "DEALS",
+      "headline": "Zymeworks licenses DLL3 T cell engager ZW209 to Roche; $55M upfront",
+      "take": "Zymeworks and Roche agreed a deal for ZW209, a trispecific T cell engager targeting DLL3, with $55 million upfront, $40 million on initiation of the Phase 1b trial, and up to $718 million in further milestones. Tiered royalties run from high-single-digit to mid-teen percentages of global net sales, and Roche funds the Phase 1a trial. The deal remains subject to expiration or termination of the HSR Act waiting period.",
+      "source_name": "Zymeworks press release (SEC Form 8-K, Oct. 23, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001937653/000193765326000055/finalpr.htm",
+      "ticker": "NASDAQ:ZYME",
+      "time": "2026-10-23T14:25:00Z",
+      "checked": "2026-10-23T13:56:24Z"
+    },
+    {
+      "id": "2026-10-22-pg-capital-return",
+      "tag": "EQUITIES",
+      "headline": "P&G paid $2.60B in dividends and $1.25B in buybacks in the September quarter",
+      "take": "P&G's 10-Q for the quarter ended September 30 shows cash dividends paid of $2,603 million and cash paid for common stock repurchases of $1,250 million, about $3,853 million in total. Common dividends declared were $1.0885 per share. The release's fiscal 2027 plan calls for dividends above $10 billion and about $5 billion of share repurchases.",
+      "source_name": "P&G Form 10-Q, quarter ended Sept. 30, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000256/pg-20260930.htm",
+      "ticker": "NYSE:PG",
+      "time": "2026-10-23T14:34:00Z",
+      "checked": "2026-10-23T13:56:24Z"
+    },
+    {
+      "id": "2026-10-23-verizon-q3-oct-26",
+      "tag": "EARNINGS",
+      "headline": "Verizon to report Q3 2026 results Monday, Oct. 26; webcast at 8:30 a.m. ET",
+      "take": "Verizon said it will report third-quarter 2026 earnings on Monday, October 26, with a webcast beginning at 8:30 a.m. ET. The press release and financial tables will be posted to its investor relations site at 7:00 a.m. ET. It is a first large-cap telecom read after AT&T and Comcast reported this week.",
+      "source_name": "Verizon earnings date announcement (Sept. 28, 2026)",
+      "source_url": "https://www.verizon.com/about/news/verizon-q3-2026-earnings-report-date",
+      "ticker": "NYSE:VZ",
+      "time": "2026-10-23T14:43:00Z",
+      "checked": "2026-10-23T13:56:24Z"
+    },
     {
       "id": "2026-10-23-lkq-prelim-q3",
       "tag": "EARNINGS",

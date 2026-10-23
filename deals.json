@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-23T01:56:03Z",
+  "updated": "2026-10-23T13:56:24Z",
   "items": [
+    {
+      "id": "2026-10-22-gilead-pepstar",
+      "time": "2026-10-23T14:16:00Z",
+      "type": "M&A",
+      "headline": "Gilead to acquire PepStar's oral IL-23R inhibitor HCXT-2001 for $1.275B cash",
+      "parties": "Acquirer: Gilead Sciences, Inc.; Target: PepStar Therapeutics Limited (HCXT-2001 program)",
+      "value": 1.275,
+      "value_text": "$1.275B cash at closing, subject to customary adjustments; no milestones stated",
+      "status": "Announced",
+      "announced": "2026-10-22",
+      "sector": "Biotechnology",
+      "take": "Gilead is acquiring an oral macrocyclic peptide IL-23R inhibitor that is in Phase 1 clinical trials, with closing expected in the fourth quarter of 2026. Gilead expects the transaction to reduce GAAP and non-GAAP EPS by approximately $0.79 to $0.83.",
+      "source_name": "Gilead press release (Oct. 22, 2026)",
+      "source_url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-investigational-oral-il-23r-inhibitor-hcxt-2001-strengthening-its-inflammation-pipeline-in-ibd",
+      "tickers": [
+        "NASDAQ:GILD"
+      ],
+      "checked": "2026-10-23T13:56:24Z"
+    },
     {
       "id": "2026-10-20-hertz-oro-mobility",
       "time": "2026-10-23T02:01:03Z",

@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T11:47:05Z",
+  "updated": "2026-10-23T13:56:24Z",
   "items": [
+    {
+      "id": "2026-10-22-PG-Q1",
+      "time": "2026-10-23T13:58:00Z",
+      "ticker": "NYSE:PG",
+      "name": "Procter & Gamble",
+      "period": "Q1 FY2027",
+      "report_date": "2026-10-22",
+      "revenue": 23.276,
+      "revenue_yoy": 4.0,
+      "eps": 1.97,
+      "take": "Net sales were $23,276M versus $22,386M and diluted EPS was $1.97 versus $1.95; core EPS was $2.00 versus $1.99 and organic sales growth was 4%.",
+      "source_name": "P&G Q1 fiscal 2027 earnings release (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm",
+      "checked": "2026-10-23T13:56:24Z",
+      "eps_yoy": 1.0
+    },
     {
       "id": "2026-10-23-RCI-Q3",
       "time": "2026-10-23T12:07:05Z",
