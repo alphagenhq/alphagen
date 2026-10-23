@@ -1,476 +1,446 @@
 {
- "updated": "2026-10-22T12:49:51Z",
- "note": "Times are ET. Blank time means the agency schedule lists no time.",
- "items": [
-  {
-   "date": "2026-10-15",
-   "time": "08:30",
-   "name": "Producer Price Index (Sep)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 2,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-15-producerpriceindexsep"
-  },
-  {
-   "date": "2026-10-15",
-   "time": "08:30",
-   "name": "Advance Retail Sales (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 3,
-   "source_url": "https://www.census.gov/retail/release_schedule.html",
-   "id": "2026-10-15-advanceretailsalessep"
-  },
-  {
-   "id": "2026-10-15-mtis",
-   "date": "2026-10-15",
-   "time": "",
-   "name": "Manufacturing & Trade Inventories and Sales (Aug)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
-  },
-  {
-   "date": "2026-10-16",
-   "time": "08:30",
-   "name": "Import & Export Prices (Sep)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-16-importexportpricessep"
-  },
-  {
-   "id": "2026-10-16-industrial-production",
-   "date": "2026-10-16",
-   "time": "09:15",
-   "name": "Industrial Production & Capacity Utilization (Sep)",
-   "agency": "Federal Reserve",
-   "category": "Growth",
-   "importance": 2,
-   "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "08:30",
-   "name": "Housing Starts & Permits (Sep)",
-   "agency": "Census",
-   "category": "Housing",
-   "importance": 2,
-   "source_url": "https://www.census.gov/construction/soc/schedule.html",
-   "id": "2026-10-20-housingstartspermitssep"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00",
-   "name": "State Employment & Unemployment (Sep)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-20-stateemploymentunemploymentsep"
-  },
-  {
-   "date": "2026-10-21",
-   "time": "10:00",
-   "name": "Usual Weekly Earnings (Q3)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-21-usualweeklyearningsq3"
-  },
-  {
-   "date": "2026-10-27",
-   "time": "08:30",
-   "name": "Durable Goods Orders (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 2,
-   "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html",
-   "id": "2026-10-27-durablegoodsorderssep"
-  },
-  {
-   "date": "2026-10-27",
-   "time": "10:00",
-   "name": "New Home Sales (Sep)",
-   "agency": "Census",
-   "category": "Housing",
-   "importance": 2,
-   "source_url": "https://www.census.gov/construction/soc/schedule.html",
-   "id": "2026-10-27-newhomesalessep"
-  },
-  {
-   "id": "2026-10-28-boc-decision",
-   "date": "2026-10-28",
-   "time": "09:45",
-   "name": "Bank of Canada rate decision (with MPR)",
-   "agency": "Bank of Canada",
-   "category": "Fed",
-   "importance": 2,
-   "source_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "10:00",
-   "name": "Metro Area Employment (Sep)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-28-metroareaemploymentsep"
-  },
-  {
-   "id": "2026-10-28-business-employment-dynamics-q1",
-   "date": "2026-10-28",
-   "time": "10:00",
-   "name": "Business Employment Dynamics (Q1)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "",
-   "name": "FOMC rate decision",
-   "agency": "Federal Reserve",
-   "category": "Fed",
-   "importance": 3,
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "id": "2026-10-28-fomcratedecision"
-  },
-  {
-   "date": "2026-10-29",
-   "time": "08:30",
-   "name": "GDP, Advance Estimate (Q3)",
-   "agency": "BEA",
-   "category": "Growth",
-   "importance": 3,
-   "source_url": "https://www.bea.gov/news/schedule/full",
-   "id": "2026-10-29-gdpadvanceestimateq3"
-  },
-  {
-   "date": "2026-10-29",
-   "time": "08:30",
-   "name": "Personal Income & Outlays incl. PCE (Sep)",
-   "agency": "BEA",
-   "category": "Inflation",
-   "importance": 3,
-   "source_url": "https://www.bea.gov/news/schedule/full",
-   "id": "2026-10-29-personalincomeoutlaysinclpcese"
-  },
-  {
-   "date": "2026-10-29",
-   "time": "10:00",
-   "name": "Consumer Expenditures (Annual 2025)",
-   "agency": "BLS",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-29-consumerexpendituresannual2025"
-  },
-  {
-   "id": "2026-10-29-ecb-decision",
-   "date": "2026-10-29",
-   "time": "",
-   "name": "ECB monetary policy decision",
-   "agency": "ECB",
-   "category": "Fed",
-   "importance": 2,
-   "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
-  },
-  {
-   "date": "2026-10-30",
-   "time": "08:30",
-   "name": "Employment Cost Index (Q3)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 2,
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "id": "2026-10-30-employmentcostindexq3"
-  },
-  {
-   "id": "2026-10-30-boj-decision",
-   "date": "2026-10-30",
-   "time": "",
-   "name": "Bank of Japan policy decision (with Outlook Report)",
-   "agency": "Bank of Japan",
-   "category": "Fed",
-   "importance": 2,
-   "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
-  },
-  {
-   "date": "2026-11-02",
-   "time": "10:00",
-   "name": "Construction Spending (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/construction/c30/release.html",
-   "id": "2026-11-02-constructionspendingsep"
-  },
-  {
-   "date": "2026-11-03",
-   "time": "10:00",
-   "name": "JOLTS Job Openings (Sep)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 2,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-03-joltsjobopeningssep"
-  },
-  {
-   "id": "2026-11-03-factory-orders",
-   "date": "2026-11-03",
-   "time": "10:00",
-   "name": "Factory Orders, full report (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html"
-  },
-  {
-   "date": "2026-11-04",
-   "time": "08:30",
-   "name": "Trade Balance (Sep)",
-   "agency": "BEA",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.bea.gov/news/schedule/full",
-   "id": "2026-11-04-tradebalancesep"
-  },
-  {
-   "date": "2026-11-05",
-   "time": "08:30",
-   "name": "Productivity & Costs, prelim (Q3)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-05-productivitycostsprelimq3"
-  },
-  {
-   "id": "2026-11-05-boe-decision",
-   "date": "2026-11-05",
-   "time": "",
-   "name": "Bank of England MPC decision (with Monetary Policy Report)",
-   "agency": "Bank of England",
-   "category": "Fed",
-   "importance": 2,
-   "source_url": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "08:30",
-   "name": "Employment Situation / Jobs Report (Oct)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 3,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-06-employmentsituationjobsreporto"
-  },
-  {
-   "date": "2026-11-10",
-   "time": "08:30",
-   "name": "Consumer Price Index (Oct)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 3,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-10-consumerpriceindexoct"
-  },
-  {
-   "id": "2026-11-10-real-earnings",
-   "date": "2026-11-10",
-   "time": "08:30",
-   "name": "Real Earnings (Oct)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
-  },
-  {
-   "date": "2026-11-13",
-   "time": "08:30",
-   "name": "Producer Price Index (Oct)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 2,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-13-producerpriceindexoct"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "08:30",
-   "name": "Advance Retail Sales (Oct)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 3,
-   "source_url": "https://www.census.gov/retail/release_schedule.html",
-   "id": "2026-11-17-advanceretailsalesoct"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "08:30",
-   "name": "Import & Export Prices (Oct)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-17-importexportpricesoct"
-  },
-  {
-   "id": "2026-11-17-industrial-production",
-   "date": "2026-11-17",
-   "time": "09:15",
-   "name": "Industrial Production & Capacity Utilization (Oct)",
-   "agency": "Federal Reserve",
-   "category": "Growth",
-   "importance": 2,
-   "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
-  },
-  {
-   "id": "2026-11-17-mtis",
-   "date": "2026-11-17",
-   "time": "",
-   "name": "Manufacturing & Trade Inventories and Sales (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
-  },
-  {
-   "date": "2026-11-18",
-   "time": "08:30",
-   "name": "Housing Starts & Permits (Oct)",
-   "agency": "Census",
-   "category": "Housing",
-   "importance": 2,
-   "source_url": "https://www.census.gov/construction/soc/schedule.html",
-   "id": "2026-11-18-housingstartspermitsoct"
-  },
-  {
-   "date": "2026-11-20",
-   "time": "10:00",
-   "name": "State Employment & Unemployment (Oct)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-20-stateemploymentunemploymentoct"
-  },
-  {
-   "id": "2026-11-24-ip-annual-revision",
-   "date": "2026-11-24",
-   "time": "12:00",
-   "name": "Industrial Production Annual Revision",
-   "agency": "Federal Reserve",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "08:30",
-   "name": "GDP, Second Estimate & Corporate Profits (Q3)",
-   "agency": "BEA",
-   "category": "Growth",
-   "importance": 2,
-   "source_url": "https://www.bea.gov/news/schedule/full",
-   "id": "2026-11-25-gdpsecondestimatecorporateprof"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "08:30",
-   "name": "Personal Income & Outlays incl. PCE (Oct)",
-   "agency": "BEA",
-   "category": "Inflation",
-   "importance": 3,
-   "source_url": "https://www.bea.gov/news/schedule/full",
-   "id": "2026-11-25-personalincomeoutlaysinclpceoc"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "08:30",
-   "name": "Durable Goods Orders (Oct)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 2,
-   "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html",
-   "id": "2026-11-25-durablegoodsordersoct"
-  },
-  {
-   "date": "2026-11-25",
-   "time": "10:00",
-   "name": "New Home Sales (Oct)",
-   "agency": "Census",
-   "category": "Housing",
-   "importance": 2,
-   "source_url": "https://www.census.gov/construction/soc/schedule.html",
-   "id": "2026-11-25-newhomesalesoct"
-  },
-  {
-   "id": "2026-12-01-jolts",
-   "date": "2026-12-01",
-   "time": "10:00",
-   "name": "JOLTS Job Openings (Oct)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 2,
-   "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
-  },
-  {
-   "id": "2026-12-01-construction-spending",
-   "date": "2026-12-01",
-   "time": "10:00",
-   "name": "Construction Spending (Oct)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/construction/c30/release.html"
-  },
-  {
-   "id": "2026-12-04-jobs-report",
-   "date": "2026-12-04",
-   "time": "08:30",
-   "name": "Employment Situation / Jobs Report (Nov)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 3,
-   "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
-  },
-  {
-   "id": "2026-12-09-boc-decision",
-   "date": "2026-12-09",
-   "time": "09:45",
-   "name": "Bank of Canada rate decision",
-   "agency": "Bank of Canada",
-   "category": "Fed",
-   "importance": 2,
-   "source_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/"
-  },
-  {
-   "date": "2026-12-09",
-   "time": "",
-   "name": "FOMC rate decision (with projections)",
-   "agency": "Federal Reserve",
-   "category": "Fed",
-   "importance": 3,
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "id": "2026-12-09-fomcratedecisionwithprojection"
-  },
-  {
-   "id": "2026-12-16-industrial-production",
-   "date": "2026-12-16",
-   "time": "09:15",
-   "name": "Industrial Production & Capacity Utilization (Nov)",
-   "agency": "Federal Reserve",
-   "category": "Growth",
-   "importance": 2,
-   "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
-  }
- ]
+  "updated": "2026-10-23T12:45:53Z",
+  "note": "Times are ET. Blank time means the agency schedule lists no time.",
+  "items": [
+    {
+      "date": "2026-10-16",
+      "time": "08:30",
+      "name": "Import & Export Prices (Sep)",
+      "agency": "BLS",
+      "category": "Inflation",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "id": "2026-10-16-importexportpricessep"
+    },
+    {
+      "id": "2026-10-16-industrial-production",
+      "date": "2026-10-16",
+      "time": "09:15",
+      "name": "Industrial Production & Capacity Utilization (Sep)",
+      "agency": "Federal Reserve",
+      "category": "Growth",
+      "importance": 2,
+      "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "08:30",
+      "name": "Housing Starts & Permits (Sep)",
+      "agency": "Census",
+      "category": "Housing",
+      "importance": 2,
+      "source_url": "https://www.census.gov/construction/soc/schedule.html",
+      "id": "2026-10-20-housingstartspermitssep"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "10:00",
+      "name": "State Employment & Unemployment (Sep)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "id": "2026-10-20-stateemploymentunemploymentsep"
+    },
+    {
+      "date": "2026-10-21",
+      "time": "10:00",
+      "name": "Usual Weekly Earnings (Q3)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "id": "2026-10-21-usualweeklyearningsq3"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "08:30",
+      "name": "Durable Goods Orders (Sep)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 2,
+      "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html",
+      "id": "2026-10-27-durablegoodsorderssep"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "10:00",
+      "name": "New Home Sales (Sep)",
+      "agency": "Census",
+      "category": "Housing",
+      "importance": 2,
+      "source_url": "https://www.census.gov/construction/soc/schedule.html",
+      "id": "2026-10-27-newhomesalessep"
+    },
+    {
+      "id": "2026-10-28-boc-decision",
+      "date": "2026-10-28",
+      "time": "09:45",
+      "name": "Bank of Canada rate decision (with MPR)",
+      "agency": "Bank of Canada",
+      "category": "Fed",
+      "importance": 2,
+      "source_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "10:00",
+      "name": "Metro Area Employment (Sep)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "id": "2026-10-28-metroareaemploymentsep"
+    },
+    {
+      "id": "2026-10-28-business-employment-dynamics-q1",
+      "date": "2026-10-28",
+      "time": "10:00",
+      "name": "Business Employment Dynamics (Q1)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "",
+      "name": "FOMC rate decision",
+      "agency": "Federal Reserve",
+      "category": "Fed",
+      "importance": 3,
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "id": "2026-10-28-fomcratedecision"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:30",
+      "name": "GDP, Advance Estimate (Q3)",
+      "agency": "BEA",
+      "category": "Growth",
+      "importance": 3,
+      "source_url": "https://www.bea.gov/news/schedule/full",
+      "id": "2026-10-29-gdpadvanceestimateq3"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:30",
+      "name": "Personal Income & Outlays incl. PCE (Sep)",
+      "agency": "BEA",
+      "category": "Inflation",
+      "importance": 3,
+      "source_url": "https://www.bea.gov/news/schedule/full",
+      "id": "2026-10-29-personalincomeoutlaysinclpcese"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:00",
+      "name": "Consumer Expenditures (Annual 2025)",
+      "agency": "BLS",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "id": "2026-10-29-consumerexpendituresannual2025"
+    },
+    {
+      "id": "2026-10-29-ecb-decision",
+      "date": "2026-10-29",
+      "time": "",
+      "name": "ECB monetary policy decision",
+      "agency": "ECB",
+      "category": "Fed",
+      "importance": 2,
+      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "08:30",
+      "name": "Employment Cost Index (Q3)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 2,
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "id": "2026-10-30-employmentcostindexq3"
+    },
+    {
+      "id": "2026-10-30-boj-decision",
+      "date": "2026-10-30",
+      "time": "",
+      "name": "Bank of Japan policy decision (with Outlook Report)",
+      "agency": "Bank of Japan",
+      "category": "Fed",
+      "importance": 2,
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "10:00",
+      "name": "Construction Spending (Sep)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.census.gov/construction/c30/release.html",
+      "id": "2026-11-02-constructionspendingsep"
+    },
+    {
+      "date": "2026-11-03",
+      "time": "10:00",
+      "name": "JOLTS Job Openings (Sep)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 2,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-03-joltsjobopeningssep"
+    },
+    {
+      "id": "2026-11-03-factory-orders",
+      "date": "2026-11-03",
+      "time": "10:00",
+      "name": "Factory Orders, full report (Sep)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "08:30",
+      "name": "Trade Balance (Sep)",
+      "agency": "BEA",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.bea.gov/news/schedule/full",
+      "id": "2026-11-04-tradebalancesep"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "08:30",
+      "name": "Productivity & Costs, prelim (Q3)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-05-productivitycostsprelimq3"
+    },
+    {
+      "id": "2026-11-05-boe-decision",
+      "date": "2026-11-05",
+      "time": "",
+      "name": "Bank of England MPC decision (with Monetary Policy Report)",
+      "agency": "Bank of England",
+      "category": "Fed",
+      "importance": 2,
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "08:30",
+      "name": "Employment Situation / Jobs Report (Oct)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 3,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-06-employmentsituationjobsreporto"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "08:30",
+      "name": "Consumer Price Index (Oct)",
+      "agency": "BLS",
+      "category": "Inflation",
+      "importance": 3,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-10-consumerpriceindexoct"
+    },
+    {
+      "id": "2026-11-10-real-earnings",
+      "date": "2026-11-10",
+      "time": "08:30",
+      "name": "Real Earnings (Oct)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "08:30",
+      "name": "Producer Price Index (Oct)",
+      "agency": "BLS",
+      "category": "Inflation",
+      "importance": 2,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-13-producerpriceindexoct"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "08:30",
+      "name": "Advance Retail Sales (Oct)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 3,
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "id": "2026-11-17-advanceretailsalesoct"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "08:30",
+      "name": "Import & Export Prices (Oct)",
+      "agency": "BLS",
+      "category": "Inflation",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-17-importexportpricesoct"
+    },
+    {
+      "id": "2026-11-17-industrial-production",
+      "date": "2026-11-17",
+      "time": "09:15",
+      "name": "Industrial Production & Capacity Utilization (Oct)",
+      "agency": "Federal Reserve",
+      "category": "Growth",
+      "importance": 2,
+      "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
+    },
+    {
+      "id": "2026-11-17-mtis",
+      "date": "2026-11-17",
+      "time": "",
+      "name": "Manufacturing & Trade Inventories and Sales (Sep)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "08:30",
+      "name": "Housing Starts & Permits (Oct)",
+      "agency": "Census",
+      "category": "Housing",
+      "importance": 2,
+      "source_url": "https://www.census.gov/construction/soc/schedule.html",
+      "id": "2026-11-18-housingstartspermitsoct"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "10:00",
+      "name": "State Employment & Unemployment (Oct)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 1,
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
+      "id": "2026-11-20-stateemploymentunemploymentoct"
+    },
+    {
+      "id": "2026-11-24-ip-annual-revision",
+      "date": "2026-11-24",
+      "time": "12:00",
+      "name": "Industrial Production Annual Revision",
+      "agency": "Federal Reserve",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "08:30",
+      "name": "GDP, Second Estimate & Corporate Profits (Q3)",
+      "agency": "BEA",
+      "category": "Growth",
+      "importance": 2,
+      "source_url": "https://www.bea.gov/news/schedule/full",
+      "id": "2026-11-25-gdpsecondestimatecorporateprof"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "08:30",
+      "name": "Personal Income & Outlays incl. PCE (Oct)",
+      "agency": "BEA",
+      "category": "Inflation",
+      "importance": 3,
+      "source_url": "https://www.bea.gov/news/schedule/full",
+      "id": "2026-11-25-personalincomeoutlaysinclpceoc"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "08:30",
+      "name": "Durable Goods Orders (Oct)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 2,
+      "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html",
+      "id": "2026-11-25-durablegoodsordersoct"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "10:00",
+      "name": "New Home Sales (Oct)",
+      "agency": "Census",
+      "category": "Housing",
+      "importance": 2,
+      "source_url": "https://www.census.gov/construction/soc/schedule.html",
+      "id": "2026-11-25-newhomesalesoct"
+    },
+    {
+      "id": "2026-12-01-jolts",
+      "date": "2026-12-01",
+      "time": "10:00",
+      "name": "JOLTS Job Openings (Oct)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 2,
+      "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
+    },
+    {
+      "id": "2026-12-01-construction-spending",
+      "date": "2026-12-01",
+      "time": "10:00",
+      "name": "Construction Spending (Oct)",
+      "agency": "Census",
+      "category": "Growth",
+      "importance": 1,
+      "source_url": "https://www.census.gov/construction/c30/release.html"
+    },
+    {
+      "id": "2026-12-04-jobs-report",
+      "date": "2026-12-04",
+      "time": "08:30",
+      "name": "Employment Situation / Jobs Report (Nov)",
+      "agency": "BLS",
+      "category": "Labor",
+      "importance": 3,
+      "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
+    },
+    {
+      "id": "2026-12-09-boc-decision",
+      "date": "2026-12-09",
+      "time": "09:45",
+      "name": "Bank of Canada rate decision",
+      "agency": "Bank of Canada",
+      "category": "Fed",
+      "importance": 2,
+      "source_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/"
+    },
+    {
+      "date": "2026-12-09",
+      "time": "",
+      "name": "FOMC rate decision (with projections)",
+      "agency": "Federal Reserve",
+      "category": "Fed",
+      "importance": 3,
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "id": "2026-12-09-fomcratedecisionwithprojection"
+    },
+    {
+      "id": "2026-12-16-industrial-production",
+      "date": "2026-12-16",
+      "time": "09:15",
+      "name": "Industrial Production & Capacity Utilization (Nov)",
+      "agency": "Federal Reserve",
+      "category": "Growth",
+      "importance": 2,
+      "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
+    }
+  ]
 }
