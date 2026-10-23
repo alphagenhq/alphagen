@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T11:05:08Z",
+ "updated": "2026-10-23T12:10:48Z",
  "items": [
+  {
+   "id": "live-0001193125-26-429481-5.02",
+   "time": "2026-10-23T12:09:09Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Fiserv reports an executive or board change",
+   "take": "Fiserv reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 8:09 AM ET, Oct 23. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FISV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000119312526429481/0001193125-26-429481-index.htm",
+   "ticker": "NASDAQ:FISV"
+  },
   {
    "id": "live-0001193125-26-429435-2.02",
    "time": "2026-10-23T11:04:15Z",
