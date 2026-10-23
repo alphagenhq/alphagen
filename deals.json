@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-23T13:56:24Z",
+  "updated": "2026-10-23T17:02:57Z",
   "items": [
+    {
+      "id": "2026-10-23-zymeworks-roche-zw209",
+      "time": "2026-10-23T17:02:57Z",
+      "type": "M&A",
+      "headline": "Zymeworks licenses DLL3 T cell engager ZW209 to Roche; $55M upfront",
+      "parties": "Licensor: Zymeworks Inc.; Licensee: Roche",
+      "value": null,
+      "value_text": "$55M upfront; $40M on Phase 1b initiation; up to $718M in further milestones",
+      "status": "Announced",
+      "announced": "2026-10-23",
+      "sector": "Biotechnology",
+      "take": "Roche receives the exclusive global right to develop and commercialize ZW209, and Zymeworks keeps eligibility for milestones and tiered royalties from high-single-digit to mid-teen percentages on net sales. Roche funds the Phase 1a trial, and the agreement is conditioned on expiration or termination of the HSR Act waiting period.",
+      "source_name": "Zymeworks press release (SEC Form 8-K, Oct. 23, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001937653/000193765326000055/finalpr.htm",
+      "tickers": [
+        "NASDAQ:ZYME"
+      ],
+      "checked": "2026-10-23T17:02:57Z"
+    },
     {
       "id": "2026-10-22-gilead-pepstar",
       "time": "2026-10-23T14:16:00Z",

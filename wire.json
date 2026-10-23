@@ -1,6 +1,81 @@
 {
-  "updated": "2026-10-23T15:51:21Z",
+  "updated": "2026-10-23T17:02:57Z",
   "items": [
+    {
+      "id": "2026-10-23-gntx-q3",
+      "time": "2026-10-23T17:02:57Z",
+      "tag": "EARNINGS",
+      "headline": "Gentex Q3 sales $647.7M vs. $655.2M; diluted EPS $0.43 vs. $0.46",
+      "take": "Gentex reported Q3 2026 net sales of $647.7 million versus $655.2 million a year earlier, with GAAP net income of $90.6 million versus $101.0 million and diluted EPS of $0.43 versus $0.46. Adjusted diluted EPS was $0.47 in both periods, and gross margin was 33.4% versus 34.4%, which the company attributed mainly to higher precious metal costs and lower-than-expected sales. Sales slipped 1.1% while GAAP EPS fell 6.5%, so the gap between GAAP and flat adjusted EPS is the detail to read in the release.",
+      "source_name": "Gentex Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:GNTX",
+      "checked": "2026-10-23T17:02:57Z"
+    },
+    {
+      "id": "2026-10-23-gntx-guidance-cut",
+      "time": "2026-10-23T17:10:57Z",
+      "tag": "EQUITIES",
+      "headline": "Gentex narrows 2026 revenue view to ~$2.65B; gross margin 34.0%-34.5%",
+      "take": "Gentex now expects 2026 consolidated revenue of approximately $2.65 billion, versus a prior $2.65-$2.75 billion range, and gross margin of 34.0%-34.5%, versus 34.5%-35.5% before. Its 2027 revenue outlook of $2.80-$2.90 billion is maintained and assumes primary-market light vehicle production declines about 1%. The prior range's upper half has been removed while 2027 is held, so the 2027 outlook is held while the 2026 range is trimmed.",
+      "source_name": "Gentex Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:GNTX",
+      "checked": "2026-10-23T17:02:57Z"
+    },
+    {
+      "id": "2026-10-23-gntx-buyback-dividend",
+      "time": "2026-10-23T17:19:57Z",
+      "tag": "EQUITIES",
+      "headline": "Gentex bought 5.7M shares for $132.6M in Q3; dividend held at $0.12",
+      "take": "Gentex repurchased 5.7 million shares for $132.6 million in Q3 2026, at an average of $23.44 per share, and 11.6 million shares for $270.2 million year to date. The quarterly dividend declared was $0.12 per share, unchanged from Q3 2025. Q3 buybacks were nearly half of the nine-month total, which is a notable weighting in a quarter when net income fell.",
+      "source_name": "Gentex Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:GNTX",
+      "checked": "2026-10-23T17:02:57Z"
+    },
+    {
+      "id": "2026-10-23-pfbc-q3",
+      "time": "2026-10-23T17:27:57Z",
+      "tag": "CREDIT",
+      "headline": "Preferred Bank Q3 diluted EPS $2.73 vs. $2.84; deposits $6.55B",
+      "take": "Preferred Bank reported Q3 2026 net income of $32.9 million, down $3.0 million from $35.9 million in Q3 2025 and down from $33.5 million in Q2, with diluted EPS of $2.73 versus $2.84 a year earlier. Total deposits were $6.55 billion, up $77.7 million from June 30, and total assets were $7.82 billion. The quarterly dividend was $0.80 per share, up from $0.75 a year earlier, so payouts rose while per-share earnings fell.",
+      "source_name": "Preferred Bank Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387214/18770/en/preferred-bank-reports-third-quarter-results.html",
+      "ticker": "NASDAQ:PFBC",
+      "checked": "2026-10-23T17:02:57Z"
+    },
+    {
+      "id": "2026-10-23-xom-q3-oct-30",
+      "time": "2026-10-23T17:35:57Z",
+      "tag": "ENERGY",
+      "headline": "ExxonMobil to release Q3 2026 results Friday, Oct. 30, at 5:30 a.m. CT",
+      "take": "ExxonMobil said it will release third-quarter 2026 financial results on Friday, Oct. 30, 2026, with the press release at 5:30 a.m. CT and a live conference call at 8:30 a.m. CT. The date is one week from today and gives energy readers a fixed point to compare with SLB's Oct. 23 results.",
+      "source_name": "ExxonMobil investor relations announcement",
+      "source_url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1212/exxonmobil-to-release-third-quarter-2026-financial-results",
+      "ticker": "NYSE:XOM",
+      "checked": "2026-10-23T17:02:57Z"
+    },
+    {
+      "id": "2026-10-23-boe-bank-rate-3-75",
+      "time": "2026-10-23T17:44:57Z",
+      "tag": "GLOBAL",
+      "headline": "Bank of England Bank Rate stands at 3.75%; next MPC announcement Nov. 5",
+      "take": "The Bank of England's website lists the current Bank Rate at 3.75%, published Sept. 17, 2026, with the next announcement due Nov. 5, 2026. The page does not state the Committee's vote split. Norges Bank's next decision is on the same day, Nov. 5, 2026.",
+      "source_name": "Bank of England: Interest rates and Bank Rate",
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
+      "checked": "2026-10-23T17:02:57Z"
+    },
+    {
+      "id": "2026-10-23-norges-policy-rate-4-5",
+      "time": "2026-10-23T17:52:57Z",
+      "tag": "GLOBAL",
+      "headline": "Norges Bank policy rate 4.5%; next decision Nov. 5",
+      "take": "Norges Bank lists its policy rate at 4.5%, published Sept. 24, 2026, and says the next policy rate decision will be announced on Nov. 5, 2026. The Bank of England's next decision is on the same day. Two European central banks with a Nov. 5 announcement make that date a shared checkpoint for global rates.",
+      "source_name": "Norges Bank: Policy rate",
+      "source_url": "https://www.norges-bank.no/en/topics/Monetary-policy/Policy-rate/",
+      "checked": "2026-10-23T17:02:57Z"
+    },
     {
       "id": "2026-10-23-slb-q3",
       "time": "2026-10-23T15:53:21Z",

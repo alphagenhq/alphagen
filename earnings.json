@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T15:51:21Z",
+  "updated": "2026-10-23T17:02:57Z",
   "items": [
+    {
+      "id": "2026-10-23-GNTX-Q3",
+      "time": "2026-10-23T17:02:57Z",
+      "ticker": "NASDAQ:GNTX",
+      "name": "Gentex",
+      "period": "Q3 2026",
+      "report_date": "2026-10-23",
+      "revenue": 0.648,
+      "revenue_yoy": -1.1,
+      "eps": 0.43,
+      "eps_yoy": -6.5,
+      "take": "Net sales were $647.7M versus $655.2M and GAAP diluted EPS was $0.43 versus $0.46; adjusted diluted EPS was $0.47 in both periods. Full-year 2026 revenue is now expected at approximately $2.65B, versus a prior $2.65B-$2.75B.",
+      "source_name": "Gentex Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html",
+      "checked": "2026-10-23T17:02:57Z"
+    },
     {
       "id": "2026-10-23-SLB-Q3",
       "time": "2026-10-23T15:53:21Z",
