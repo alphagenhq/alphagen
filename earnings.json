@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T00:45:44Z",
+  "updated": "2026-10-23T02:50:15Z",
   "items": [
+    {
+      "id": "2026-10-21-WCN-Q3",
+      "time": "2026-10-23T02:51:15Z",
+      "ticker": "NYSE:WCN",
+      "name": "Waste Connections",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 2.64,
+      "revenue_yoy": 7.3,
+      "eps": 1.43,
+      "eps_yoy": 28.8,
+      "take": "Revenue was $2,638.1M versus $2,458.4M; adjusted EPS was $1.58 versus $1.44 and adjusted EBITDA margin 34.0% versus 33.8%. The company raised its 2026 outlook for the second time this year.",
+      "source_name": "Waste Connections Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001318220/000110465926117838/wcn-ex99d1.htm",
+      "checked": "2026-10-23T02:50:15Z"
+    },
     {
       "id": "2026-10-20-ISRG-Q3",
       "time": "2026-10-23T00:47:38Z",

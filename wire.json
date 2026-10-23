@@ -1,6 +1,71 @@
 {
-  "updated": "2026-10-23T01:56:03Z",
+  "updated": "2026-10-23T02:50:15Z",
   "items": [
+    {
+      "id": "2026-10-21-wcn-q3",
+      "time": "2026-10-23T02:51:15Z",
+      "tag": "EARNINGS",
+      "headline": "Waste Connections Q3 revenue $2,638.1M vs. $2,458.4M; diluted EPS $1.43 vs. $1.11",
+      "take": "Waste Connections reported Q3 2026 revenue of $2,638.081 million versus $2,458.378 million a year earlier, net income of $359.224 million versus $286.271 million, and diluted EPS of $1.43 versus $1.11. Adjusted EPS was $1.58 versus $1.44, and adjusted EBITDA was $895.781 million, a 34.0% margin versus 33.8%. Revenue growth of about 7.3% came with a margin that barely moved, so most of the profit gain came from volume and pricing rather than from margin expansion.",
+      "source_name": "Waste Connections Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001318220/000110465926117838/wcn-ex99d1.htm",
+      "ticker": "NYSE:WCN",
+      "checked": "2026-10-23T02:50:15Z"
+    },
+    {
+      "id": "2026-10-21-wcn-outlook-dividend",
+      "time": "2026-10-23T02:59:15Z",
+      "tag": "EQUITIES",
+      "headline": "Waste Connections raises 2026 outlook to ~$10.09B revenue; quarterly dividend $0.350",
+      "take": "Waste Connections' updated 2026 outlook calls for revenue of approximately $10.09 billion, adjusted EBITDA of approximately $3.345 billion, and adjusted free cash flow of $1.40 billion to $1.45 billion; the release calls it the second increase this year. The quarterly dividend was $0.350 per share versus $0.315, and acquisitions closed year to date represent approximately $130 million in annualized revenues. The outlook excludes additional acquisitions, so the raise reflects the existing book of business.",
+      "source_name": "Waste Connections Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001318220/000110465926117838/wcn-ex99d1.htm",
+      "ticker": "NYSE:WCN",
+      "checked": "2026-10-23T02:50:15Z"
+    },
+    {
+      "id": "2026-10-22-myfw-q3",
+      "time": "2026-10-23T03:08:15Z",
+      "tag": "EARNINGS",
+      "headline": "First Western Q3 diluted EPS $0.60 vs. $0.32; assets under management $7.21B",
+      "take": "First Western Financial reported Q3 2026 net income available to common shareholders of $5,981 thousand versus $3,186 thousand a year earlier and diluted EPS of $0.60 versus $0.32. Assets under management were $7.21 billion, down 2.9% from Q3 2025, and loans held for investment were $2.81 billion, up 8.4%. Earnings growth came while managed assets shrank, so balance-sheet lending rather than fee-based assets drove the improvement.",
+      "source_name": "First Western Financial Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386936/0/en/first-western-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:MYFW",
+      "checked": "2026-10-23T02:50:15Z"
+    },
+    {
+      "id": "2026-10-22-spfi-q3",
+      "time": "2026-10-23T03:17:15Z",
+      "tag": "CREDIT",
+      "headline": "South Plains Financial Q3 net income $20.8M vs. $16.3M; loans $3.83B vs. $3.05B",
+      "take": "South Plains Financial, parent of City Bank, reported Q3 2026 net income of $20,765 thousand versus $16,318 thousand and diluted EPS of $1.06 versus $0.96. Loans held for investment were $3,831 million versus $3,054 million and total deposits were $4,661 million versus $3,881 million, with total assets of $5,411 million versus $4,479 million. Loans grew about 25.5% year over year while diluted EPS rose about 10.4%, so earnings grew more slowly than the balance sheet.",
+      "source_name": "South Plains Financial Q3 2026 earnings release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386906/0/en/south-plains-financial-inc-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:SPFI",
+      "checked": "2026-10-23T02:50:15Z"
+    },
+    {
+      "id": "2026-10-23-boj-oct-29-30",
+      "time": "2026-10-23T03:26:15Z",
+      "tag": "GLOBAL",
+      "headline": "Bank of Japan Policy Board meets Oct. 29-30; Outlook Report due Oct. 30",
+      "take": "The Bank of Japan's published 2026 schedule has its next Monetary Policy Meeting on October 29-30, with the quarterly Outlook Report scheduled for October 30. The remaining 2026 meeting after that is December 17-18. The October meeting is the one that carries updated forecasts, so it is the Bank's main scheduled communication before year-end.",
+      "source_name": "Bank of Japan, Monetary Policy Meetings schedule",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+      "checked": "2026-10-23T02:50:15Z"
+    },
+    {
+      "id": "2026-10-23-intel-q3-oct-29",
+      "time": "2026-10-23T03:35:15Z",
+      "tag": "EARNINGS",
+      "headline": "Intel to report Q3 2026 results Oct. 29 after the market closes",
+      "take": "Intel announced it will release third-quarter 2026 financial results on Thursday, October 29, 2026, promptly after the market closes, with its earnings call at 2:00 p.m. PDT the same day. The date falls on the first day of the Bank of Japan's October 29-30 policy meeting. A large semiconductor report and a major central bank meeting therefore land on the same day.",
+      "source_name": "Intel Investor Relations",
+      "source_url": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results",
+      "ticker": "NASDAQ:INTC",
+      "checked": "2026-10-23T02:50:15Z"
+    },
     {
       "id": "2026-10-20-htz-oro-mobility-jv",
       "time": "2026-10-23T01:58:03Z",
