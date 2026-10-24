@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-24T02:56:00Z",
+  "updated": "2026-10-24T10:51:00Z",
   "items": [
+    {
+      "id": "2026-10-24-boj-fsr-oct",
+      "time": "2026-10-24T10:53:00Z",
+      "tag": "GLOBAL",
+      "headline": "BOJ Financial System Report: Japan's system 'stable on the whole'; banks pass oil, AI, rate stress",
+      "take": "The Bank of Japan's October 2026 Financial System Report, released Oct. 23, says Japan's financial system \"has been maintaining stability on the whole,\" with firms' loan demand rising and banks lending actively. It finds Japanese banks have enough capital and stable funding to withstand a global-financial-crisis-level stress and a compound shock of higher oil prices, an AI-expectations decline and sharply higher interest rates, and flags the Middle East, AI-related investment profitability and foreign non-bank intermediaries for close monitoring. The stress-test framing shows the central bank is probing energy and AI-valuation channels alongside traditional credit risk.",
+      "source_name": "Bank of Japan, Financial System Report (October 2026)",
+      "source_url": "https://www.boj.or.jp/en/research/brp/fsr/fsr261023.htm",
+      "checked": "2026-10-24T10:51:00Z"
+    },
+    {
+      "id": "2026-10-24-mistras-go-shop-oct-27",
+      "time": "2026-10-24T11:16:00Z",
+      "tag": "DEALS",
+      "headline": "MISTRAS go-shop for $20.35/share H.I.G. buyout runs to 11:59 p.m. ET Oct. 27",
+      "take": "Affiliates of H.I.G. Capital agreed on Sept. 18 to acquire MISTRAS Group (NYSE: MG) for $20.35 per share in cash, an implied enterprise value of about $866 million including debt. A 40-day go-shop lets MISTRAS, advised by Baird, solicit competing proposals until 11:59 p.m. ET on Oct. 27, 2026, with closing expected in late 2026 or early 2027 subject to stockholder approval and regulatory clearances. The go-shop deadline is the next scheduled checkpoint; the release gives no assurance a superior offer will emerge.",
+      "source_name": "MISTRAS Group release, Form 8-K Ex. 99.1 (Sept. 18, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001436126/000114036126037107/ef20082419_ex99-1.htm",
+      "ticker": "NYSE:MG",
+      "checked": "2026-10-24T10:51:00Z"
+    },
+    {
+      "id": "2026-10-24-penske-pag-take-private-q3-oct-28",
+      "time": "2026-10-24T11:39:00Z",
+      "tag": "DEALS",
+      "headline": "Penske Automotive: $212/share take-private pending; Q3 results due Oct. 28, no call",
+      "take": "Penske Automotive Group (NYSE: PAG) agreed on Oct. 15 to be taken private by Motown Acquisition Corp., owned by Penske Corporation and Mitsui & Co., at $212.00 per share in cash for holders outside the investor group, an enterprise value of about $16.3 billion. Closing is expected in the first quarter of 2027, subject to regulatory approvals and a majority of outstanding shares plus a majority of votes cast by unaffiliated stockholders. PAG will report Q3 2026 results on Oct. 28 with no earnings call, so the release is the only scheduled disclosure before the vote process.",
+      "source_name": "Penske Automotive Group release (PR Newswire, Oct. 15, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/penske-automotive-group-announces-agreement-to-be-taken-private-by-penske-corporation-and-mitsui--co-302909412.html",
+      "ticker": "NYSE:PAG",
+      "checked": "2026-10-24T10:51:00Z"
+    },
     {
       "id": "2026-10-24-cubi-q3",
       "time": "2026-10-24T02:56:00Z",
