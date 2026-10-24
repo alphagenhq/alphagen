@@ -1,6 +1,49 @@
 {
-  "updated": "2026-10-24T10:51:00Z",
+  "updated": "2026-10-24T11:58:00Z",
   "items": [
+    {
+      "id": "2026-10-24-h15-oct-22-curve",
+      "time": "2026-10-24T11:58:00Z",
+      "tag": "RATES",
+      "headline": "Treasury yields fall 13-17 bp across 2- to 30-year maturities on Oct. 22: Fed H.15",
+      "take": "The Federal Reserve's H.15 release of Oct. 23 shows Treasury constant maturity yields on Oct. 22 of 4.65% at 2 years (4.81% on Oct. 21), 4.78% at 5 years (4.95%), 4.96% at 10 years (5.13%) and 5.29% at 30 years (5.42%), declines of 16, 17, 17 and 13 basis points. The 3-month yield was 4.22% (4.25%) and the effective federal funds rate was 3.88% on each day from Oct. 16 to 22. The one-day move took the 10-year below its Oct. 16 level of 5.09%, reversing the prior week's rise.",
+      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates (Oct. 23, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "checked": "2026-10-24T11:58:00Z"
+    },
+    {
+      "id": "2026-10-24-ritm-q3",
+      "time": "2026-10-24T12:08:00Z",
+      "tag": "EARNINGS",
+      "headline": "Rithm Capital Q3 GAAP diluted EPS $0.38 vs. $0.04 in Q2; dividend held at $0.25",
+      "take": "Rithm Capital reported Oct. 23 that Q3 2026 GAAP net income was $261.3 million, or $0.38 per diluted share versus $0.04 in Q2, with earnings available for distribution of $315.3 million, or $0.55 per diluted share ($0.60 in Q2). Total revenues were $1,756.4 million versus $1,282.3 million in Q2, a 37.0% sequential rise by AlphaGen's calculation. The company declared a $0.25 common dividend, unchanged from Q2, and reported book value of $12.51 per common share.",
+      "source_name": "Rithm Capital Corp., Q3 2026 results release (Oct. 23, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
+      "ticker": "NYSE:RITM",
+      "checked": "2026-10-24T11:58:00Z"
+    },
+    {
+      "id": "2026-10-24-ritm-newrez-genesis",
+      "time": "2026-10-24T12:18:00Z",
+      "tag": "HOUSING",
+      "headline": "Rithm: Newrez origination volume $12.9B, down 21% y/y; servicing UPB $878.9B",
+      "take": "Rithm's Q3 release shows Newrez funded origination volume of $12.9 billion, down 19% from Q2 and 21% from a year earlier, while total servicing UPB reached $878.9 billion, including $282.8 billion of third-party servicing (about $596.1 billion on the company's own book by subtraction). Genesis Capital's residential transition loan originations were $1.5 billion, up 25% year over year. The split shows the servicing book growing in scale while origination volume contracts, a combination that leans on recurring servicing income.",
+      "source_name": "Rithm Capital Corp., Q3 2026 results release (Oct. 23, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
+      "ticker": "NYSE:RITM",
+      "checked": "2026-10-24T11:58:00Z"
+    },
+    {
+      "id": "2026-10-24-navios-tender-nov-2",
+      "time": "2026-10-24T12:28:00Z",
+      "tag": "DEALS",
+      "headline": "Navios extends Series G/H ADS tender offer to Nov. 2 after court order; $12.00 cash",
+      "take": "Navios Maritime Holdings said Oct. 23 it is extending its tender offer for its Series G and Series H ADSs until 11:59 p.m. New York City time on Nov. 2, 2026, after an Oct. 21 trial court order in the Katz Litigation. The company will pay $12.00 in cash per share, and about 84,980 Series H ADSs and 5,125 Series G ADSs had been validly tendered and not withdrawn. The offer is not conditioned on any minimum tender or additional financing, though other conditions in the Offer to Purchase apply.",
+      "source_name": "Navios Maritime Holdings Inc. release via GlobeNewswire (Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387624/0/en/navios-maritime-holdings-inc-extends-tender-offer-for-its-series-g-and-series-h-american-depository-shares-until-11-59-p-m-on-november-2-2026.html",
+      "ticker": "NYSE:NM",
+      "checked": "2026-10-24T11:58:00Z"
+    },
     {
       "id": "2026-10-24-boj-fsr-oct",
       "time": "2026-10-24T10:53:00Z",
