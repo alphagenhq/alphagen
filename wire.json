@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-24T12:44:07Z",
+  "updated": "2026-10-24T13:50:26Z",
   "items": [
+    {
+      "id": "2026-10-24-eia-gas-storage-3644",
+      "time": "2026-10-24T13:51:26Z",
+      "tag": "ENERGY",
+      "headline": "Gas storage reaches 3,644 Bcf in week ended Oct. 16 after 77 Bcf build, EIA data show",
+      "take": "EIA's weekly storage table shows Lower 48 working gas at 3,644 Bcf for the week ending Oct. 16, up from 3,567 Bcf a week earlier, a 77 Bcf net change. Stocks have risen in each of the five weeks since Sept. 11, when they stood at 3,298 Bcf. The next storage release is scheduled for Oct. 29.",
+      "source_name": "EIA Weekly Natural Gas Storage (Lower 48 working gas)",
+      "source_url": "https://www.eia.gov/dnav/ng/ng_stor_wkly_s1_w.htm",
+      "checked": "2026-10-24T13:50:26Z"
+    },
+    {
+      "id": "2026-10-24-h8-oct-14-assets-deposits",
+      "time": "2026-10-24T14:00:26Z",
+      "tag": "FED",
+      "headline": "Fed H.8: commercial bank deposits $19.81T and total assets $26.14T in week to Oct. 14",
+      "take": "The Fed's H.8 release of Oct. 23 shows seasonally adjusted deposits at all commercial banks of $19,810.3 billion for the week ending Oct. 14, up $38.7 billion on the week. Total assets rose $38.0 billion to $26,138.3 billion and loans and leases in bank credit rose $29.3 billion to $14,213.7 billion. On a monthly annualized basis, September loans and leases grew 7.3% and deposits 5.8%.",
+      "source_name": "Federal Reserve Board H.8 release, Oct. 23, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h8/current/h8.pdf",
+      "checked": "2026-10-24T13:50:26Z"
+    },
+    {
+      "id": "2026-10-24-h8-ci-loans-2992",
+      "time": "2026-10-24T14:09:26Z",
+      "tag": "CREDIT",
+      "headline": "Fed H.8: commercial and industrial loans at $2,992.6B, up $4.8B on the week to Oct. 14",
+      "take": "Commercial and industrial loans at all commercial banks stood at $2,992.6 billion (seasonally adjusted) in the week ending Oct. 14, versus $2,987.8 billion a week earlier. The same release lists cash assets of $3,213.5 billion and total securities in bank credit of $5,781.4 billion. Business loans added $4.8 billion on the week, a smaller gain than total loans and leases at $29.3 billion.",
+      "source_name": "Federal Reserve Board H.8 release, Oct. 23, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h8/current/h8.pdf",
+      "checked": "2026-10-24T13:50:26Z"
+    },
+    {
+      "id": "2026-10-24-bls-eci-oct-30-week-ahead",
+      "time": "2026-10-24T14:18:26Z",
+      "tag": "MACRO",
+      "headline": "BLS week ahead: Employment Cost Index for Q3 due Oct. 30 at 8:30 a.m. ET",
+      "take": "BLS's October schedule lists the Employment Cost Index for third quarter 2026 on Friday, Oct. 30, at 8:30 a.m. ET. Earlier that week, metro-area employment and Business Employment Dynamics for Q1 2026 come out Oct. 28 at 10:00 a.m., and Consumer Expenditures for annual 2025 on Oct. 29 at 10:00 a.m.",
+      "source_name": "BLS Schedule of Selected Releases for October 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
+      "checked": "2026-10-24T13:50:26Z"
+    },
+    {
+      "id": "2026-10-24-bls-nov-calendar-jobs-cpi",
+      "time": "2026-10-24T14:27:26Z",
+      "tag": "MACRO",
+      "headline": "BLS calendar: JOLTS Nov. 3, jobs report Nov. 6, CPI Nov. 10, PPI Nov. 13",
+      "take": "BLS lists JOLTS for Tuesday, Nov. 3 at 10:00 a.m. ET, Productivity and Costs on Nov. 5, and the Employment Situation on Friday, Nov. 6 at 8:30 a.m. ET. The Consumer Price Index and Real Earnings follow Tuesday, Nov. 10 at 8:30 a.m., and the Producer Price Index on Friday, Nov. 13 at 8:30 a.m. Nov. 11 is a Veterans Day holiday with no release scheduled.",
+      "source_name": "BLS Schedule of Selected Releases for November 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched.htm",
+      "checked": "2026-10-24T13:50:26Z"
+    },
     {
       "id": "2026-10-24-bx-q3-de",
       "time": "2026-10-24T12:48:07Z",
