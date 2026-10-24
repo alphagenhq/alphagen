@@ -1,6 +1,66 @@
 {
-  "updated": "2026-10-24T15:55:11Z",
+  "updated": "2026-10-24T16:44:58Z",
   "items": [
+    {
+      "id": "2026-10-24-fed-h41-reserves-2-963t",
+      "tag": "FED",
+      "headline": "Fed reserve balances average $2.963T in week to Oct. 21, down $59.5B: H.4.1",
+      "take": "The Fed's H.4.1 shows reserve balances with Federal Reserve Banks averaging $2,962.6 billion in the week ended Oct. 21, down $59.5 billion from the prior week and up $29.6 billion from a year earlier. The Wednesday Oct. 21 level was $2,969.5 billion. Treasury General Account averaged $952.0 billion, up $68.6 billion on the week, so Treasury cash building is the line that moves against reserves in the same release.",
+      "source_name": "Federal Reserve Board H.4.1 (release of Oct. 22, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/h41/current/",
+      "time": "2026-10-24T16:52:58Z",
+      "checked": "2026-10-24T16:44:58Z"
+    },
+    {
+      "id": "2026-10-24-fed-h41-holdings-oct-21",
+      "tag": "FED",
+      "headline": "Fed holds $4,571.2B Treasuries and $1,897.3B MBS in week to Oct. 21: H.4.1",
+      "take": "H.4.1 shows U.S. Treasury securities held outright averaging $4,571.2 billion in the week ended Oct. 21, up $1.3 billion on the week and $374.8 billion from a year earlier. Mortgage-backed securities averaged $1,897.3 billion, down $0.8 billion on the week and $187.3 billion on the year. The year-over-year changes show the portfolio's composition shifting toward Treasuries and away from MBS.",
+      "source_name": "Federal Reserve Board H.4.1 (release of Oct. 22, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/h41/current/",
+      "time": "2026-10-24T17:01:58Z",
+      "checked": "2026-10-24T16:44:58Z"
+    },
+    {
+      "id": "2026-10-24-rba-cash-rate-4-60-nov-3",
+      "tag": "GLOBAL",
+      "headline": "RBA cash rate target at 4.60% after unanimous 25 bp hike; next decision Nov. 3",
+      "take": "The Reserve Bank of Australia's Monetary Policy Board raised the cash rate target by 25 basis points to 4.60% on Sept. 29, and its statement said the decision was unanimous. The Board said the three increases in the cash rate target since the beginning of the year have tightened financial conditions and the economy appears to be slowing. The RBA lists its next scheduled update for Nov. 3 at 2:30 p.m. Sydney time, the next test of whether the Board keeps tightening or pauses.",
+      "source_name": "Reserve Bank of Australia, Monetary Policy Decision (Sept. 29, 2026)",
+      "source_url": "https://www.rba.gov.au/media-releases/2026/mr-26-27.html",
+      "time": "2026-10-24T17:10:58Z",
+      "checked": "2026-10-24T16:44:58Z"
+    },
+    {
+      "id": "2026-10-24-eia-crude-412-5m-oct-16",
+      "tag": "ENERGY",
+      "headline": "U.S. commercial crude stocks fall 3.1M barrels to 412.5M in week ended Oct. 16: EIA",
+      "take": "EIA data show U.S. commercial crude oil stocks (excluding lease stock) at 412.5 million barrels in the week ending Oct. 16, down 3.1 million from 415.6 million a week earlier and down from 427.3 million on Sept. 25. Strategic Petroleum Reserve crude stood at 282.7 million barrels, down 0.3 million on the week. Commercial crude has fallen in each of the three weeks since Sept. 25, a steady draw through early October.",
+      "source_name": "EIA Weekly Petroleum Status Report, U.S. stocks (week ending Oct. 16, 2026)",
+      "source_url": "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm",
+      "time": "2026-10-24T17:19:58Z",
+      "checked": "2026-10-24T16:44:58Z"
+    },
+    {
+      "id": "2026-10-24-eia-gasoline-distillate-oct-16",
+      "tag": "ENERGY",
+      "headline": "U.S. gasoline stocks fall 3.0M barrels to 205.3M; distillate up 1.7M to 104.3M: EIA",
+      "take": "EIA reports total motor gasoline inventories at 205.3 million barrels in the week ending Oct. 16, down 3.0 million from 208.3 million. Distillate fuel oil stocks rose 1.7 million barrels to 104.3 million, and kerosene-type jet fuel stood at 42.6 million. The opposite weekly moves in gasoline and distillate show the two products drawing on different supply-and-demand balances.",
+      "source_name": "EIA Weekly Petroleum Status Report, U.S. stocks (week ending Oct. 16, 2026)",
+      "source_url": "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm",
+      "time": "2026-10-24T17:28:58Z",
+      "checked": "2026-10-24T16:44:58Z"
+    },
+    {
+      "id": "2026-10-24-cftc-emini-sp500-positions-oct-20",
+      "tag": "EQUITIES",
+      "headline": "CFTC: non-commercial E-mini S&P 500 futures net short 142,671 contracts at Oct. 20",
+      "take": "The CFTC's futures-only Commitments of Traders report, with positions as of Oct. 20, shows E-mini S&P 500 (CME) open interest of 1,935,470 contracts. Non-commercial traders held 215,885 long and 358,556 short positions, a net short of 142,671 contracts, plus 48,982 spreading. Non-commercial positioning is a gauge of speculative futures exposure, not a forecast of index direction.",
+      "source_name": "CFTC Commitments of Traders, CME futures only (positions as of Oct. 20, 2026)",
+      "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
+      "time": "2026-10-24T17:37:58Z",
+      "checked": "2026-10-24T16:44:58Z"
+    },
     {
       "id": "2026-10-24-h15-3m-vs-effr-oct-22",
       "tag": "RATES",
