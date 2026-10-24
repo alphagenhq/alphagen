@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-24T00:44:56Z",
+  "updated": "2026-10-24T02:56:00Z",
   "items": [
+    {
+      "id": "2026-10-24-cubi-q3",
+      "time": "2026-10-24T02:56:00Z",
+      "tag": "CREDIT",
+      "headline": "Customers Bancorp Q3 diluted EPS $2.25 vs. $2.20; NIM 3.19% vs. 3.46%",
+      "take": "Customers Bancorp reported Q3 2026 net income available to common shareholders of $78.4 million and diluted EPS of $2.25, versus $2.05 in Q2 2026 and $2.20 in Q3 2025; as-adjusted EPS was $2.27. Tax-equivalent net interest margin was 3.19% (Q2: 3.17%, Q3 2025: 3.46%). Earnings grew year over year even as the margin narrowed, so the gain came from a larger balance sheet rather than wider spreads.",
+      "source_name": "Customers Bancorp Q3 2026 earnings release (Form 8-K Ex. 99.1, Oct. 22, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001488813/000148881326000100/q326pressrelease.htm",
+      "ticker": "NYSE:CUBI",
+      "checked": "2026-10-24T02:56:00Z"
+    },
+    {
+      "id": "2026-10-24-cubi-balance-sheet",
+      "time": "2026-10-24T03:06:00Z",
+      "tag": "CREDIT",
+      "headline": "Customers Bancorp deposits $22.56B, up $831M on the quarter; CET1 12.6%",
+      "take": "Customers Bancorp ended Q3 2026 with total assets of $27.41 billion (Q2: $26.52 billion; Q3 2025: $24.26 billion) and total deposits of $22.56 billion (Q2: $21.73 billion; Q3 2025: $20.41 billion). Its estimated CET1 capital ratio was 12.6%, versus 12.9% in Q2 and 13.0% a year earlier. Assets grew about 13% year over year while the capital ratio slipped 0.4 point, a trade-off worth watching as growth continues.",
+      "source_name": "Customers Bancorp Q3 2026 earnings release (Form 8-K Ex. 99.1, Oct. 22, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001488813/000148881326000100/q326pressrelease.htm",
+      "ticker": "NYSE:CUBI",
+      "checked": "2026-10-24T02:56:00Z"
+    },
+    {
+      "id": "2026-10-24-treasury-sfh-investor-nprm",
+      "time": "2026-10-24T03:16:00Z",
+      "tag": "HOUSING",
+      "headline": "Treasury proposes rule limiting large investors' single-family home buying from 2027",
+      "take": "Treasury on Oct. 22 issued proposed regulations implementing Section 1001 of the 21st Century ROAD to Housing Act. Starting January 7, 2027, large institutional investors would generally be barred from buying single-family homes unless the purchase is an excepted purchase, such as build-to-rent, renovate-to-rent or a homeownership program; the statute defines a large investor partly as one with investment control over at least 350 single-family homes. Public comments are due within 30 days after Federal Register publication, so the final exceptions will determine how much institutional buying the rule actually reaches.",
+      "source_name": "U.S. Treasury press release (Oct. 22, 2026)",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0665/",
+      "checked": "2026-10-24T02:56:00Z"
+    },
+    {
+      "id": "2026-10-24-treasury-outbound-investment-nprm",
+      "time": "2026-10-24T03:26:00Z",
+      "tag": "MACRO",
+      "headline": "Treasury proposes outbound investment rule for AI, chips, quantum, hypersonics, biotech",
+      "take": "Treasury on Oct. 22 issued a proposed rule to update the Outbound Investment Security Program under the Comprehensive Outbound Investment Security (COINS) Act. It would require U.S. persons to notify Treasury of certain transactions with covered foreign persons engaged in notifiable technologies and bar certain other transactions tied to prohibited technologies, across semiconductors and microelectronics, AI, quantum information technologies, high-performance computing and supercomputing, and hypersonic systems; the Secretary also added biotechnology. Final regulations will set an effective date, so U.S. investors with cross-border exposure to these sectors have a compliance rule to track.",
+      "source_name": "U.S. Treasury press release (Oct. 22, 2026)",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0667/",
+      "checked": "2026-10-24T02:56:00Z"
+    },
+    {
+      "id": "2026-10-24-cboe-buyback-dividend",
+      "time": "2026-10-24T03:36:00Z",
+      "tag": "EQUITIES",
+      "headline": "Cboe adds $550M to share repurchase authorization; Q4 dividend $0.86",
+      "take": "Cboe Global Markets said on Oct. 22 that its board increased the share repurchase authorization by an additional $550 million, and declared a Q4 2026 dividend of $0.86 per share, payable Dec. 15 to holders of record Nov. 30. The release put remaining availability under existing authorizations at $536.8 million as of June 30, 2026. The added $550 million is close to the $536.8 million of availability the company reported at mid-year, so it meaningfully extends the buyback runway.",
+      "source_name": "Cboe Global Markets release (PR Newswire, Oct. 22, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/cboe-global-markets-announces-increase-in-share-repurchase-authorization-declares-fourth-quarter-2026-dividend-302917368.html",
+      "ticker": "CBOE:CBOE",
+      "checked": "2026-10-24T02:56:00Z"
+    },
+    {
+      "id": "2026-10-24-purr-buyback-100m",
+      "time": "2026-10-24T03:46:00Z",
+      "tag": "CRYPTO",
+      "headline": "Hyperliquid Strategies lifts stock repurchase program from $30M to up to $100M",
+      "take": "Hyperliquid Strategies Inc (Nasdaq: PURR) announced Oct. 23 that it increased its stock repurchase program from $30 million to up to $100 million, with about $72 million remaining available under the increased authorization. The release did not state shares repurchased to date. A company returning capital through buybacks while focused on accumulating HYPE shows how crypto-treasury companies are weighing token accumulation against share repurchases.",
+      "source_name": "Hyperliquid Strategies Inc release (PR Newswire, Oct. 23, 2026)",
+      "source_url": "https://prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
+      "ticker": "NASDAQ:PURR",
+      "checked": "2026-10-24T02:56:00Z"
+    },
     {
       "id": "2026-10-23-bpop-q3",
       "time": "2026-10-24T00:46:56Z",
