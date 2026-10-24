@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-24T16:44:58Z",
+  "updated": "2026-10-24T17:50:24Z",
   "items": [
+    {
+      "id": "2026-10-24-uk-psf-sep-borrowing",
+      "tag": "GLOBAL",
+      "headline": "UK September public borrowing £24.5B, up £1.8B on year; FYTD £97.8B: ONS",
+      "take": "ONS puts UK public sector net borrowing (excluding banks) at £24.5 billion in September 2026, up £1.8 billion from £22.8 billion a year earlier and £1.9 billion above the OBR forecast. Borrowing for the financial year to September is £97.8 billion, down £4.4 billion on the year but £6.0 billion above forecast, or 3.1% of GDP. Borrowing is lower than a year ago for the year to date yet above the OBR's forecast, so the comparison depends on which benchmark is used.",
+      "source_name": "ONS Public sector finances, UK: September 2026 (released Oct. 21, 2026)",
+      "source_url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2026",
+      "time": "2026-10-24T17:55:24Z",
+      "checked": "2026-10-24T17:50:24Z"
+    },
+    {
+      "id": "2026-10-24-uk-psf-sep-debt-interest",
+      "tag": "DEBT",
+      "headline": "UK debt interest £10.9B in September, highest for the month since 1997: ONS",
+      "take": "ONS reports central government debt interest payable of £10.9 billion in September 2026, up £1.6 billion (16.6%) on a year earlier and £2.0 billion above forecast, the highest September figure since monthly records began in 1997. ONS attributes £4.0 billion of the month's total to the capital uplift on index-linked gilts, which tracks RPI inflation. Because the uplift is tied to RPI inflation, index-linked gilts link inflation readings directly to monthly debt interest.",
+      "source_name": "ONS Public sector finances, UK: September 2026 (released Oct. 21, 2026)",
+      "source_url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2026",
+      "time": "2026-10-24T18:05:24Z",
+      "checked": "2026-10-24T17:50:24Z"
+    },
+    {
+      "id": "2026-10-24-uk-psf-net-debt-3-005t",
+      "tag": "GLOBAL",
+      "headline": "UK public sector net debt provisionally £3,005.0B, above £3 trillion for first time: ONS",
+      "take": "ONS provisionally estimates public sector net debt at £3,005.0 billion at end-September 2026, up £91.7 billion on a year earlier and, per the bulletin, above £3 trillion for the first time. As a share of GDP it is 94.0%, 0.7 percentage points lower than a year earlier and 1.2 points below the OBR forecast. Debt is rising in pounds while shrinking relative to the economy, so the GDP ratio is the number that frames the fiscal debate.",
+      "source_name": "ONS Public sector finances, UK: September 2026 (released Oct. 21, 2026)",
+      "source_url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2026",
+      "time": "2026-10-24T18:15:24Z",
+      "checked": "2026-10-24T17:50:24Z"
+    },
+    {
+      "id": "2026-10-24-census-oct-27-durables-new-home-sales",
+      "tag": "HOUSING",
+      "headline": "Census week ahead: durable goods and new home sales both due Oct. 27",
+      "take": "The Census Bureau's economic indicators calendar lists the Advance Report on Durable Goods for September at 8:30 a.m. and New Residential Sales for September at 10:00 a.m. on Oct. 27. The prior new home sales release put August at a seasonally adjusted annual rate of 684,000, up 6.4% from July's 643,000, with 8.5 months' supply at the current sales rate. That August change was not statistically significant, so the September print is the first test of whether the rebound holds.",
+      "source_name": "U.S. Census Bureau economic indicators calendar; New Residential Sales, August 2026",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+      "time": "2026-10-24T18:25:24Z",
+      "checked": "2026-10-24T17:50:24Z"
+    },
+    {
+      "id": "2026-10-24-census-oct-28-advance-indicators-hvs",
+      "tag": "MACRO",
+      "headline": "Census calendar: advance indicators Oct. 28; trade, factory orders and construction follow",
+      "take": "Census lists the Advance Economic Indicators Report for September at 8:30 a.m. and Housing Vacancies and Homeownership for Q3 at 10:00 a.m. on Oct. 28. Construction Spending for September follows Nov. 2 at 10:00 a.m., the full factory orders report Nov. 3 at 10:00 a.m., and U.S. International Trade in Goods and Services Nov. 4 at 8:30 a.m. These releases arrive alongside the Oct. 29 BEA GDP and personal income reports, so a cluster of Q3 data lands within about a week.",
+      "source_name": "U.S. Census Bureau economic indicators calendar",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+      "time": "2026-10-24T18:35:24Z",
+      "checked": "2026-10-24T17:50:24Z"
+    },
     {
       "id": "2026-10-24-fed-h41-reserves-2-963t",
       "tag": "FED",
