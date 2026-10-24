@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-24T17:50:24Z",
+  "updated": "2026-10-24T20:50:00Z",
   "items": [
+    {
+      "id": "2026-10-24-wm-q3-oct-27",
+      "tag": "EARNINGS",
+      "headline": "WM to report Q3 results Oct. 27 after the close; call Oct. 28 at 10 a.m. ET",
+      "take": "WM said it will publish third-quarter 2026 results on Tuesday, Oct. 27, after the market closes, with a conference call on Wednesday, Oct. 28, at 10:00 a.m. ET. The announcement did not give an exact release time. The report is one of several large industrial and services results due ahead of the week's Fed and GDP data.",
+      "source_name": "WM investor relations (Business Wire, Sept. 24, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20260924859097/en/WM-Sets-Date-for-Third-Quarter-2026-Earnings-Conference-Call",
+      "ticker": "NYSE:WM",
+      "time": "2026-10-24T20:50:00Z",
+      "checked": "2026-10-24T20:50:00Z"
+    },
+    {
+      "id": "2026-10-24-stlfsi4-oct-16",
+      "tag": "MACRO",
+      "headline": "St. Louis Fed stress index at -0.6328 for week ended Oct. 16, up from -0.7205",
+      "take": "The St. Louis Fed Financial Stress Index (STLFSI4) read -0.6328 for the week ending Oct. 16, up from -0.7205 the prior week, per FRED. The index treats zero as normal financial market conditions, so a negative reading points to below-average stress. The next update is scheduled for Oct. 28.",
+      "source_name": "FRED, St. Louis Fed (STLFSI4)",
+      "source_url": "https://fred.stlouisfed.org/series/STLFSI4",
+      "time": "2026-10-24T21:00:00Z",
+      "checked": "2026-10-24T20:50:00Z"
+    },
+    {
+      "id": "2026-10-24-dlr-q3-oct-29",
+      "tag": "EARNINGS",
+      "headline": "Digital Realty to report Q3 results Oct. 29 after close; call at 5 p.m. ET",
+      "take": "Digital Realty said it will release third-quarter 2026 results on Thursday, Oct. 29, after the market closes, with a conference call at 5:00 p.m. ET (4:00 p.m. CT). The company announced the schedule on Oct. 1. Data-center operators' results are one place the AI infrastructure build-out shows up in reported numbers.",
+      "source_name": "Digital Realty investor relations (GlobeNewswire, Oct. 1, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/01/3373379/0/en/digital-realty-schedules-third-quarter-2026-earnings-release-and-conference-call.html",
+      "ticker": "NYSE:DLR",
+      "time": "2026-10-24T21:10:00Z",
+      "checked": "2026-10-24T20:50:00Z"
+    },
+    {
+      "id": "2026-10-24-eg-q3-oct-28",
+      "tag": "EARNINGS",
+      "headline": "Everest Group to report Q3 results Oct. 28 after NYSE close; call Oct. 29, 8 a.m. ET",
+      "take": "Everest Group said it will release third-quarter 2026 results on Oct. 28 after the NYSE market close, with its earnings call on Thursday, Oct. 29, at 8:00 a.m. ET. No exact release time was given. Reinsurers' results offer a read on catastrophe losses and pricing for the quarter.",
+      "source_name": "Everest Group investor relations (Business Wire, Sept. 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20260929180033/en/Everest-Group-to-Hold-Third-Quarter-2026-Earnings-Conference-Call-on-Thursday-October-29-2026",
+      "ticker": "NYSE:EG",
+      "time": "2026-10-24T21:20:00Z",
+      "checked": "2026-10-24T20:50:00Z"
+    },
+    {
+      "id": "2026-10-24-eme-q3-oct-29",
+      "tag": "EARNINGS",
+      "headline": "EMCOR to report Q3 results Oct. 29 before the open; webcast at 10:30 a.m. ET",
+      "take": "EMCOR Group said it will release third-quarter 2026 results on Thursday, Oct. 29, before the market opens, with a call and webcast at 10:30 a.m. EDT. The contractor reports the same morning as several other large-cap companies. The announcement page did not state its own issue date.",
+      "source_name": "EMCOR Group investor relations (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261015004053/en/EMCOR-Group-Inc.-Sets-Third-Quarter-2026-Earnings-Release-Date-and-Webcast",
+      "ticker": "NYSE:EME",
+      "time": "2026-10-24T21:30:00Z",
+      "checked": "2026-10-24T20:50:00Z"
+    },
     {
       "id": "2026-10-24-uk-psf-sep-borrowing",
       "tag": "GLOBAL",
