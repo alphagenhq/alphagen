@@ -1,6 +1,68 @@
 {
-  "updated": "2026-10-23T22:50:13Z",
+  "updated": "2026-10-24T00:44:56Z",
   "items": [
+    {
+      "id": "2026-10-23-bpop-q3",
+      "time": "2026-10-24T00:46:56Z",
+      "tag": "CREDIT",
+      "headline": "Popular Q3 diluted EPS $4.21 vs $3.14 a year earlier; NIM 3.63%",
+      "take": "Popular, Inc. reported third-quarter 2026 net income of about $266 million and diluted EPS of $4.21, versus $4.35 in Q2 2026 and $3.14 in Q3 2025. Net interest income was $698.9 million (Q3 2025: $646.5 million), net interest margin was 3.63% (Q3 2025: 3.51%), and the CET1 ratio was 16.06%. Year-over-year margin expansion alongside a lower provision ($58.6 million vs $75.1 million) shows the earnings gain came from both revenue and credit costs.",
+      "source_name": "Popular, Inc. Q3 2026 results release (Business Wire, Oct. 22, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261022462462/en/Popular-Inc.-Announces-Third-Quarter-2026-Financial-Results",
+      "ticker": "NASDAQ:BPOP",
+      "checked": "2026-10-24T00:44:56Z"
+    },
+    {
+      "id": "2026-10-23-bpop-dividend-buyback",
+      "time": "2026-10-24T00:53:56Z",
+      "tag": "EQUITIES",
+      "headline": "Popular lifts quarterly dividend 20% to $0.90; repurchased $179M of stock in Q3",
+      "take": "Popular said it declared a 20% increase in its quarterly common stock dividend to $0.90 per share and repurchased $179 million of common stock during the third quarter, for $236 million returned to shareholders in the quarter. Total assets were $77.8 billion at Sept. 30, down $1.2 billion from the second quarter, and total deposits were $68.7 billion versus $70.2 billion at June 30. Capital return is rising even as the balance sheet shrank modestly quarter to quarter.",
+      "source_name": "Popular, Inc. Q3 2026 results release (Business Wire, Oct. 22, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261022462462/en/Popular-Inc.-Announces-Third-Quarter-2026-Financial-Results",
+      "ticker": "NASDAQ:BPOP",
+      "checked": "2026-10-24T00:44:56Z"
+    },
+    {
+      "id": "2026-10-23-bollore-q3-revenue",
+      "time": "2026-10-24T01:00:56Z",
+      "tag": "GLOBAL",
+      "headline": "Bolloré Q3 revenue EUR 937M, 9-month revenue EUR 2,581M, up 21% at constant scope",
+      "take": "Bolloré said Q3 2026 group revenue totaled EUR 937 million, up 53% at constant scope and exchange rates, versus a reported EUR 630 million in Q3 2025 (about +49% on a reported basis by our calculation). Revenue for the first nine months was EUR 2,581 million, up 21% at constant scope and exchange rates, against EUR 2,178 million a year earlier (about +19% reported). The gap between constant-scope and reported growth shows how much scope and currency effects matter when reading the group's headline numbers.",
+      "source_name": "Bolloré Q3 2026 financial information (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387508/0/en/bollor%C3%A9-financial-information-for-the-third-quarter-of-2026.html",
+      "checked": "2026-10-24T00:44:56Z"
+    },
+    {
+      "id": "2026-10-23-urw-q3-trading-update",
+      "time": "2026-10-24T01:08:56Z",
+      "tag": "GLOBAL",
+      "headline": "Unibail-Rodamco-Westfield keeps 2026 AREPS guidance at EUR 9.15-9.30",
+      "take": "In its Q3-2026 trading update on Oct. 22, Unibail-Rodamco-Westfield said 9M-2026 tenant sales rose 5.2%, footfall 2.2% and like-for-like turnover 2.4%, with Shopping Centres like-for-like gross rental income up 3.8%. EPRA Shopping Centres vacancy stood at 3.9%, and the company said 2026 Adjusted Recurring Earnings per Share is expected to be within its EUR 9.15 to EUR 9.30 guidance. Reaffirming rather than raising the range suggests operating momentum is on plan but not above it.",
+      "source_name": "Unibail-Rodamco-Westfield Q3-2026 trading update (GlobeNewswire, Oct. 22, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386729/0/en/unibail-rodamco-westfield-q3-2026-trading-update-continued-operating-momentum-supports-2026-outlook.html",
+      "checked": "2026-10-24T00:44:56Z"
+    },
+    {
+      "id": "2026-10-23-eq-genesta",
+      "time": "2026-10-24T01:16:56Z",
+      "tag": "DEALS",
+      "headline": "eQ Plc agrees to acquire Nordic real estate manager Genesta, up to EUR 15.5M",
+      "take": "eQ Plc said on Oct. 23 it will acquire Genesta Property Nordic AB, a Nordic real estate asset manager with approximately EUR 1 billion in assets across three funds, for a maximum debt-free value of EUR 15.5 million before adjustments: a EUR 11.5 million base price (about EUR 5.75 million in cash and 680,471 new eQ shares at EUR 8.45) plus a EUR 4.0 million earn-out tied to fundraising within two years of closing. Closing is expected at the latest during Q1 2027, subject to regulatory approvals and customary conditions. Small in size against eQ Group's EUR 14.3 billion of AUM, the deal adds real estate fund capacity.",
+      "source_name": "eQ Plc inside information release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387036/0/en/inside-information-eq-plc-to-acquire-genesta-strengthening-its-international-growth-platform-and-nordic-real-estate-asset-management-business.html",
+      "checked": "2026-10-24T00:44:56Z"
+    },
+    {
+      "id": "2026-10-23-dayforce-ribbon-ai",
+      "time": "2026-10-24T01:24:56Z",
+      "tag": "DEALS",
+      "headline": "Dayforce signs agreement to acquire Ribbon AI to add agentic recruiting",
+      "take": "Dayforce, Inc. said on Oct. 23 it has signed an agreement to acquire Ribbon AI Inc., an AI recruiting technology company, and plans to integrate the technology following the close of the transaction. Financial terms and expected closing timing were not stated in the release. Another HR-software vendor buying AI capability rather than building it fits the pattern of tuck-in deals in the category.",
+      "source_name": "Dayforce release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387210/0/en/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting.html",
+      "checked": "2026-10-24T00:44:56Z"
+    },
     {
       "id": "2026-10-23-lycia-ipo-priced",
       "time": "2026-10-23T22:53:13Z",

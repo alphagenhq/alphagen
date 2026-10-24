@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-23T22:50:13Z",
+  "updated": "2026-10-24T00:44:56Z",
   "items": [
+    {
+      "id": "2026-10-23-eq-genesta",
+      "time": "2026-10-24T01:17:56Z",
+      "type": "M&A",
+      "headline": "eQ Plc to acquire Genesta Property Nordic",
+      "parties": "Acquirer: eQ Plc; Target: Genesta Property Nordic AB; Sellers: Caprock Ventures AB, Philip Björk Invest II AB, Pinetwig AB, Ted Söderlund Invest AB",
+      "value": null,
+      "value_text": "Up to EUR 15.5M debt-free (EUR 11.5M base + up to EUR 4.0M earn-out)",
+      "status": "Announced",
+      "announced": "2026-10-23",
+      "sector": "Asset management",
+      "take": "eQ agreed to acquire Genesta, a Nordic real estate asset manager with approximately EUR 1 billion in assets across three funds. Base price is EUR 11.5M (about half cash, half new eQ shares) and closing is expected at the latest in Q1 2027, subject to regulatory approvals.",
+      "source_name": "eQ Plc inside information release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387036/0/en/inside-information-eq-plc-to-acquire-genesta-strengthening-its-international-growth-platform-and-nordic-real-estate-asset-management-business.html",
+      "tickers": [],
+      "checked": "2026-10-24T00:44:56Z"
+    },
+    {
+      "id": "2026-10-23-dayforce-ribbon-ai",
+      "time": "2026-10-24T01:25:56Z",
+      "type": "M&A",
+      "headline": "Dayforce to acquire Ribbon AI",
+      "parties": "Acquirer: Dayforce, Inc.; Target: Ribbon AI Inc.",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-23",
+      "sector": "HR software",
+      "take": "Dayforce signed an agreement to acquire Ribbon AI, an AI recruiting technology company. The release does not state terms or an expected closing date.",
+      "source_name": "Dayforce release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387210/0/en/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting.html",
+      "tickers": [],
+      "checked": "2026-10-24T00:44:56Z"
+    },
     {
       "id": "2026-10-22-lycia-ipo",
       "time": "2026-10-23T22:54:13Z",
