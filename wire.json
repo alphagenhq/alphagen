@@ -1,6 +1,76 @@
 {
-  "updated": "2026-10-24T14:51:07Z",
+  "updated": "2026-10-24T15:55:11Z",
   "items": [
+    {
+      "id": "2026-10-24-h15-3m-vs-effr-oct-22",
+      "tag": "RATES",
+      "headline": "3-month Treasury yield 34 bp above effective fed funds rate on Oct. 22: Fed H.15",
+      "take": "The Fed's H.15 shows the 3-month Treasury constant-maturity yield at 4.22% on Oct. 22 against an effective federal funds rate of 3.88%, a gap of 34 basis points. On Oct. 21 the yield was 4.25%, a 37 bp gap. A bill yield that sits above the policy-rate benchmark is one way to read the short end of the curve as pricing less easing than a cut-friendly path would imply.",
+      "source_name": "Federal Reserve Board H.15 Selected Interest Rates (release of Oct. 23, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "time": "2026-10-24T15:58:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
+    {
+      "id": "2026-10-24-h15-2s10s-31bp",
+      "tag": "RATES",
+      "headline": "2s10s Treasury spread at 31 bp on Oct. 22 as 2-year yield falls to 4.65%: Fed H.15",
+      "take": "H.15 data show the 2-year Treasury yield at 4.65% on Oct. 22, down from 4.81% a day earlier, while the 10-year fell to 4.96% from 5.13%. The 10-year minus 2-year spread was 31 bp, against 32 bp on Oct. 21. The front end fell 16 bp and the 10-year 17 bp, so the curve shifted lower in near-parallel fashion rather than steepening or flattening.",
+      "source_name": "Federal Reserve Board H.15 Selected Interest Rates (release of Oct. 23, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "time": "2026-10-24T16:05:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
+    {
+      "id": "2026-10-24-fed-cp-aa-rates-oct-22",
+      "tag": "CREDIT",
+      "headline": "AA nonfinancial commercial paper yields 3.95% at 30 days on Oct. 22: Fed",
+      "take": "The Fed's commercial paper release shows AA nonfinancial rates of 3.90% for 1-day paper and 3.95% for 30-day paper on Oct. 22, data posted Oct. 23. The effective federal funds rate was 3.88% the same day, so top-tier 30-day paper priced 7 bp above it. Short-dated funding for high-grade corporate borrowers is trading close to the policy-rate benchmark.",
+      "source_name": "Federal Reserve Board Commercial Paper Rates and Outstanding (data as of Oct. 22, 2026)",
+      "source_url": "https://www.federalreserve.gov/releases/cp/",
+      "time": "2026-10-24T16:12:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
+    {
+      "id": "2026-10-24-eia-gasoline-4-284",
+      "tag": "ENERGY",
+      "headline": "U.S. regular gasoline $4.284 a gallon on Oct. 19, down 4.7 cents on the week: EIA",
+      "take": "EIA's weekly retail survey, released Oct. 20, puts U.S. regular gasoline at $4.284 a gallon on Oct. 19, down $0.047 from the prior week and up $1.265 from a year ago. On-highway diesel was $6.276, up $0.097 on the week and up $2.656 from a year ago. Fuel costs are easing at the pump while diesel keeps rising, which keeps freight-cost pressure in focus; the next release is Oct. 27.",
+      "source_name": "U.S. Energy Information Administration Gasoline and Diesel Fuel Update",
+      "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
+      "time": "2026-10-24T16:19:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
+    {
+      "id": "2026-10-24-eia-california-gasoline-6-031",
+      "tag": "ENERGY",
+      "headline": "California regular gasoline $6.031 on Oct. 19; Gulf Coast lowest at $3.784: EIA",
+      "take": "EIA's Oct. 19 survey shows California with the highest state regular-gasoline price at $6.031 a gallon and the West Coast region at $5.557. The Gulf Coast was the lowest region at $3.784, against the U.S. average of $4.284. The $2.25 gap between California and the Gulf Coast averages shows how unevenly fuel costs reach households by region.",
+      "source_name": "U.S. Energy Information Administration Gasoline and Diesel Fuel Update",
+      "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
+      "time": "2026-10-24T16:26:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
+    {
+      "id": "2026-10-24-ecb-mir-aug-2026",
+      "tag": "GLOBAL",
+      "headline": "Euro-area household mortgage cost of borrowing up 6 bp to 3.60% in August: ECB",
+      "take": "The ECB's bank interest rate statistics for August, released Oct. 1, show the composite cost of borrowing for house purchase at 3.60%, up 6 bp, and for new loans to corporations at 3.77%, described as broadly unchanged. New consumption loans averaged 7.92%, up 33 bp. Household borrowing costs are rising while corporate costs are flat, ahead of the Governing Council's Oct. 28-29 meeting.",
+      "source_name": "European Central Bank Euro area bank interest rate statistics: August 2026",
+      "source_url": "https://www.ecb.europa.eu/press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "time": "2026-10-24T16:33:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
+    {
+      "id": "2026-10-24-fed-board-closed-oct-27",
+      "tag": "FED",
+      "headline": "Fed Board schedules closed monetary policy meeting Oct. 27 at 9:30 a.m.",
+      "take": "The Federal Reserve Board's Oct. 21 advance notice says a closed Board meeting will be held at 9:30 a.m. on Oct. 27 for discussion of monetary policy issues. The Fed's October calendar lists the two-day FOMC meeting for Oct. 27-28 at 2:00 p.m. and a press conference on Oct. 28 at 2:30 p.m. The notice does not describe the closed session's agenda.",
+      "source_name": "Federal Reserve Board Recent Postings (Advance Notice of a Meeting, Oct. 21, 2026)",
+      "source_url": "https://www.federalreserve.gov/recentpostings.htm",
+      "time": "2026-10-24T16:40:11Z",
+      "checked": "2026-10-24T15:55:11Z"
+    },
     {
       "id": "2026-10-24-mrvl-revolver-3b",
       "tag": "CREDIT",
