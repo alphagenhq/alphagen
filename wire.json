@@ -1,6 +1,58 @@
 {
-  "updated": "2026-10-24T13:50:26Z",
+  "updated": "2026-10-24T14:51:07Z",
   "items": [
+    {
+      "id": "2026-10-24-mrvl-revolver-3b",
+      "tag": "CREDIT",
+      "headline": "Marvell signs $3B revolving credit agreement, replacing $1.5B facility",
+      "take": "Marvell's 8-K says it entered a Third Amended and Restated Revolving Credit Agreement on Oct. 22 with Bank of America as administrative agent, providing up to $3 billion of revolving loans, expandable by up to $2 billion, with a five-year term. It replaces a $1.5 billion revolver dated June 30, 2025, and no revolving loans were outstanding at the effective date. A larger facility with nothing drawn points to a bigger standby liquidity buffer rather than new borrowing.",
+      "source_name": "Marvell Technology Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526430424/d147430d8k.htm",
+      "ticker": "NASDAQ:MRVL",
+      "time": "2026-10-24T14:56:07Z",
+      "checked": "2026-10-24T14:51:07Z"
+    },
+    {
+      "id": "2026-10-24-nath-smithfield-vote",
+      "tag": "DEALS",
+      "headline": "Nathan's Famous stockholders approve Smithfield merger; 3.23M shares voted for",
+      "take": "Nathan's 8-K (Item 5.07) reports that at the Oct. 23 special meeting 3,229,773 shares voted for the merger proposal, 28,025 against and 18,213 abstained, with 3,276,011 of 4,097,661 record-date shares present. Stockholders also approved the non-binding merger-related compensation proposal, 2,263,635 to 888,724. The merger agreement with Smithfield Foods is dated Jan. 20, 2026; the vote clears a stockholder approval step, though the filing does not state a closing date.",
+      "source_name": "Nathan's Famous Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000069733/000110465926118467/tm2628126d27_8k.htm",
+      "ticker": "NASDAQ:NATH",
+      "time": "2026-10-24T15:06:07Z",
+      "checked": "2026-10-24T14:51:07Z"
+    },
+    {
+      "id": "2026-10-24-hy-oas-3-40",
+      "tag": "CREDIT",
+      "headline": "High-yield spread widens to 3.40% on Oct. 22 from 3.27% a day earlier: FRED",
+      "take": "The ICE BofA US High Yield option-adjusted spread was 3.40% on Oct. 22, up 13 bp from 3.27% on Oct. 21 and above the 3.16% AlphaGen reported for Oct. 13. The prior readings were 3.31% on Oct. 16, 3.29% on Oct. 19 and 3.33% on Oct. 20. A one-day move of that size stands out within a narrow recent range, but it is a single observation.",
+      "source_name": "FRED: ICE BofA US High Yield Index OAS (BAMLH0A0HYM2)",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "time": "2026-10-24T15:16:07Z",
+      "checked": "2026-10-24T14:51:07Z"
+    },
+    {
+      "id": "2026-10-24-ig-oas-0-89",
+      "tag": "CREDIT",
+      "headline": "Investment-grade spread at 0.89% on Oct. 22, up from 0.83% on Oct. 13: FRED",
+      "take": "The ICE BofA US Corporate Index option-adjusted spread was 0.89% on Oct. 22, after 0.88% on Oct. 21 and 0.83% on Oct. 13, a 6 bp rise over that stretch. The high-yield spread rose 13 bp in a single day on Oct. 22, more than investment grade has moved since Oct. 13, so the latest widening was concentrated in lower-rated credit.",
+      "source_name": "FRED: ICE BofA US Corporate Index OAS (BAMLC0A0CM)",
+      "source_url": "https://fred.stlouisfed.org/data/BAMLC0A0CM",
+      "time": "2026-10-24T15:26:07Z",
+      "checked": "2026-10-24T14:51:07Z"
+    },
+    {
+      "id": "2026-10-24-sofr-3-90",
+      "tag": "RATES",
+      "headline": "SOFR 3.90% on Oct. 22, 10 bp below the Fed's 4.00% target-range ceiling",
+      "take": "The New York Fed's Secured Overnight Financing Rate was 3.90% on Oct. 22, up from 3.88% on Oct. 21 and 3.87% on Oct. 19, per FRED. The upper limit of the federal funds target range was 4.00% as of Oct. 23, so SOFR sat 10 bp under the ceiling. The FOMC meets Oct. 27-28, and the next SOFR print is scheduled for Oct. 26.",
+      "source_name": "FRED: Secured Overnight Financing Rate (SOFR)",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "time": "2026-10-24T15:36:07Z",
+      "checked": "2026-10-24T14:51:07Z"
+    },
     {
       "id": "2026-10-24-eia-gas-storage-3644",
       "time": "2026-10-24T13:51:26Z",
