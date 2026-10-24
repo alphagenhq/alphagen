@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-23T19:53:33Z",
+  "updated": "2026-10-24T12:44:07Z",
   "items": [
+    {
+      "id": "2026-10-24-PKG-Q3",
+      "time": "2026-10-24T12:44:07Z",
+      "ticker": "NYSE:PKG",
+      "name": "Packaging Corporation of America",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 2.602,
+      "revenue_yoy": 12.5,
+      "eps": 2.93,
+      "eps_yoy": 16.7,
+      "take": "Net sales were $2,601.7M versus $2,313.4M and diluted EPS was $2.93 versus $2.51 (excluding special items $3.04 versus $2.73). Q4 EPS excluding special items is expected at $2.81.",
+      "source_name": "Packaging Corporation of America Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000075677/000119312526428056/pkg-ex99_1.htm",
+      "checked": "2026-10-24T12:44:07Z"
+    },
+    {
+      "id": "2026-10-24-WAB-Q3",
+      "time": "2026-10-24T12:44:07Z",
+      "ticker": "NYSE:WAB",
+      "name": "Wabtec",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 3.12,
+      "revenue_yoy": 8.1,
+      "eps": 2.42,
+      "eps_yoy": 33.7,
+      "take": "Net sales were $3,120M versus $2,886M and GAAP diluted EPS was $2.42 versus $1.81 (adjusted $2.83 versus $2.32). 2026 adjusted EPS guidance was raised to $10.85-$11.05.",
+      "source_name": "Wabtec Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000943452/000094345226000017/a3q26pressreleaseword.htm",
+      "checked": "2026-10-24T12:44:07Z"
+    },
     {
       "id": "2026-10-23-ALV-Q3",
       "time": "2026-10-23T19:52:33Z",

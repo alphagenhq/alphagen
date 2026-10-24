@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-24T11:58:00Z",
+  "updated": "2026-10-24T12:44:07Z",
   "items": [
+    {
+      "id": "2026-10-24-bx-q3-de",
+      "time": "2026-10-24T12:48:07Z",
+      "tag": "EARNINGS",
+      "headline": "Blackstone Q3 distributable earnings $1.32 per share vs. $1.52 a year earlier",
+      "take": "Blackstone reported Oct. 22 that third-quarter distributable earnings were $1,715.7 million, or $1.32 per common share, versus $1,889.5 million and $1.52 in the third quarter of 2025. GAAP net income attributable to Blackstone Inc. was $662.4 million versus $624.9 million. The release shows earnings per share falling faster than total distributable earnings, which AlphaGen calculates as 13% versus 9%.",
+      "source_name": "Blackstone Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001393818/000119312526428297/d160590dex991.htm",
+      "ticker": "NYSE:BX",
+      "checked": "2026-10-24T12:44:07Z"
+    },
+    {
+      "id": "2026-10-24-bx-aum-dividend",
+      "time": "2026-10-24T12:57:07Z",
+      "tag": "EQUITIES",
+      "headline": "Blackstone AUM $1,368.3B at Sept. 30; Q3 inflows $63.3B; dividend $1.12",
+      "take": "Blackstone said total assets under management were $1,368.3 billion at Sept. 30, 2026, up 10% from $1,241.7 billion a year earlier, with $63.3 billion of inflows in the quarter and $271.6 billion over the last twelve months. It declared a $1.12 dividend per common share, payable Nov. 9 to holders of record on Nov. 2, versus $1.29 for the third quarter of 2025. Assets grew year over year while the declared per-share dividend was lower than a year earlier.",
+      "source_name": "Blackstone Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001393818/000119312526428297/d160590dex991.htm",
+      "ticker": "NYSE:BX",
+      "checked": "2026-10-24T12:44:07Z"
+    },
+    {
+      "id": "2026-10-24-pkg-q3",
+      "time": "2026-10-24T13:06:07Z",
+      "tag": "EARNINGS",
+      "headline": "Packaging Corp of America Q3 net sales $2,601.7M vs. $2,313.4M; diluted EPS $2.93",
+      "take": "Packaging Corporation of America reported Oct. 21 third-quarter net sales of $2,601.7 million versus $2,313.4 million a year earlier, net income of $262.3 million versus $226.9 million, and diluted EPS of $2.93 versus $2.51. Excluding special items, EPS was $3.04 versus $2.73, which the company said was $0.13 above its prior Q3 guidance of $2.91. By AlphaGen's calculation, sales rose 12.5% and reported EPS rose 16.7%.",
+      "source_name": "Packaging Corporation of America Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000075677/000119312526428056/pkg-ex99_1.htm",
+      "ticker": "NYSE:PKG",
+      "checked": "2026-10-24T12:44:07Z"
+    },
+    {
+      "id": "2026-10-24-pkg-q4-outlook",
+      "time": "2026-10-24T13:15:07Z",
+      "tag": "EARNINGS",
+      "headline": "Packaging Corp guides Q4 EPS ex-special items to $2.81; three mills face maintenance outages",
+      "take": "Packaging Corporation of America expects fourth-quarter earnings of $2.81 per share excluding special items, versus $3.04 in the third quarter on the same basis. The company expects shipments per day at or around last year's Q4 level, two fewer shipping days than Q3, and lower containerboard production because of maintenance outages at three mills. Higher outage expenses and rising freight, fiber, chemical and energy costs frame the step down.",
+      "source_name": "Packaging Corporation of America Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000075677/000119312526428056/pkg-ex99_1.htm",
+      "ticker": "NYSE:PKG",
+      "checked": "2026-10-24T12:44:07Z"
+    },
+    {
+      "id": "2026-10-24-wab-q3",
+      "time": "2026-10-24T13:24:07Z",
+      "tag": "EARNINGS",
+      "headline": "Wabtec Q3 sales $3.12B, up 8.1%; adjusted EPS $2.83 vs. $2.32; 2026 EPS guide raised",
+      "take": "Wabtec reported third-quarter net sales of $3,120 million versus $2,886 million, GAAP diluted EPS of $2.42 versus $1.81, and adjusted diluted EPS of $2.83 versus $2.32. Cash from operations was $455 million versus $367 million. It raised 2026 adjusted EPS guidance to $10.85-$11.05, up $0.20 at the midpoint, while continuing to expect revenue of $12.30-$12.60 billion.",
+      "source_name": "Wabtec Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000943452/000094345226000017/a3q26pressreleaseword.htm",
+      "ticker": "NYSE:WAB",
+      "checked": "2026-10-24T12:44:07Z"
+    },
+    {
+      "id": "2026-10-24-wab-backlog",
+      "time": "2026-10-24T13:33:07Z",
+      "tag": "EQUITIES",
+      "headline": "Wabtec total backlog $31.4B at Sept. 30, up 22.9%; 12-month backlog $9.0B",
+      "take": "Wabtec's total backlog was $31,435 million at Sept. 30, 2026 versus $25,577 million a year earlier, up 22.9%, and its 12-month backlog was $8,992 million versus $8,267 million, up 8.8%. Total backlog is growing much faster than the portion expected to convert in the next 12 months, which AlphaGen reads as a longer-dated order book rather than near-term revenue.",
+      "source_name": "Wabtec Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000943452/000094345226000017/a3q26pressreleaseword.htm",
+      "ticker": "NYSE:WAB",
+      "checked": "2026-10-24T12:44:07Z"
+    },
     {
       "id": "2026-10-24-h15-oct-22-curve",
       "time": "2026-10-24T11:58:00Z",
