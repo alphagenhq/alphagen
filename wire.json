@@ -1,6 +1,46 @@
 {
-  "updated": "2026-10-25T12:44:47Z",
+  "updated": "2026-10-25T13:45:04Z",
   "items": [
+    {
+      "id": "2026-10-25-nyfed-tariff-passthrough",
+      "time": "2026-10-25T13:55:00Z",
+      "tag": "MACRO",
+      "headline": "NY Fed: each 1-pt rise in average tariffs lifts consumer goods prices about 0.25%",
+      "take": "New York Fed staff (Amiti, Heise, Weinstein) estimate that each one-percentage-point rise in average tariffs raises consumer goods prices by about 0.25% after one year, with roughly two-thirds coming through imported consumer goods. They find about 90% of the 2025 tariffs passed through to U.S. import prices, and project the tariff contribution to 12-month inflation reaching roughly zero by August 2026 before turning negative. The authors' result frames tariffs as a price-level effect that drops out of year-over-year comparisons, which matters for how goods inflation is read.",
+      "source_name": "New York Fed, Liberty Street Economics (Oct. 6)",
+      "source_url": "https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/",
+      "checked": "2026-10-25T13:45:04Z"
+    },
+    {
+      "id": "2026-10-25-nyfed-firm-investment-monetary-policy",
+      "time": "2026-10-25T14:10:00Z",
+      "tag": "FED",
+      "headline": "NY Fed study: most firms' investment responds little to monetary policy",
+      "take": "A New York Fed Liberty Street post (Oct. 7) finds investment by most firms in most periods responds little to monetary policy, though investment falls when rates rise for all firms. For about 5% of firm-quarters, a monetary shock raising the fed funds rate 1 percentage point lowers capital growth by 4 percentage points, and small and young firms respond most. The takeaway is that rate transmission runs through a minority of firms at any given time, with the sample limited to publicly listed Compustat firms.",
+      "source_name": "New York Fed, Liberty Street Economics (Oct. 7)",
+      "source_url": "https://libertystreeteconomics.newyorkfed.org/2026/10/firm-heterogeneity-and-the-response-of-investment-to-monetary-policy/",
+      "checked": "2026-10-25T13:45:04Z"
+    },
+    {
+      "id": "2026-10-25-boj-koeda-neutral-rate",
+      "time": "2026-10-25T14:25:00Z",
+      "tag": "GLOBAL",
+      "headline": "BOJ's Koeda: neutral rate 'considerably above 1 percent' ahead of Oct. 29-30 meeting",
+      "take": "In an Oct. 15 speech, BOJ Policy Board member Junko Koeda said the September hike raised the overnight call rate to around 1.25%, that the neutral interest rate is \"considerably above 1 percent,\" and that the Bank \"should not become overly cautious about raising the policy interest rate.\" She also said the median of item-level inflation is in the early 2% range. Her remarks are one board member's view and set the tone going into the Oct. 29-30 meeting, which carries an Outlook Report.",
+      "source_name": "Bank of Japan (speech by Junko Koeda, Oct. 15)",
+      "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/data/ko261015a1.pdf",
+      "checked": "2026-10-25T13:45:04Z"
+    },
+    {
+      "id": "2026-10-25-boj-sept-summary-of-opinions",
+      "time": "2026-10-25T14:40:00Z",
+      "tag": "GLOBAL",
+      "headline": "BOJ Sept. meeting opinions: several backed a hike, others favored holding",
+      "take": "The BOJ's Summary of Opinions for the Sept. 17-18 meeting, released Oct. 1, shows several members supported raising the policy rate while others preferred holding because CPI had been below 2%. Members described underlying inflation as \"fairly close to 2 percent\" and said further hikes should be gradual and flexible, with the pace faster if upward price deviation appears. The split on timing is the backdrop for the Oct. 29-30 meeting.",
+      "source_name": "Bank of Japan, Summary of Opinions (Sept. 17-18 meeting)",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+      "checked": "2026-10-25T13:45:04Z"
+    },
     {
       "id": "2026-10-25-treasury-auctions-oct-26-29",
       "time": "2026-10-25T13:34:00Z",
