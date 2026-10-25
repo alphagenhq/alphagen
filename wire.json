@@ -1,6 +1,66 @@
 {
-  "updated": "2026-10-25T13:45:04Z",
+  "updated": "2026-10-25T14:50:37Z",
   "items": [
+    {
+      "id": "2026-10-25-nfci-oct-16",
+      "time": "2026-10-25T14:46:00Z",
+      "tag": "CREDIT",
+      "headline": "Chicago Fed NFCI at -0.496 for week ended Oct. 16, looser than average",
+      "take": "The Chicago Fed National Financial Conditions Index read -0.496 for the week ending October 16, 2026, up from -0.502 the prior week and -0.508 on October 2. Per the series notes, positive values indicate financial conditions tighter than average, so a negative reading means looser than average. Conditions have stayed loose while edging up for three straight weeks; the next reading is due October 28.",
+      "source_name": "Chicago Fed via FRED (NFCI)",
+      "source_url": "https://fred.stlouisfed.org/series/NFCI",
+      "checked": "2026-10-25T14:50:37Z"
+    },
+    {
+      "id": "2026-10-25-anfci-oct-16",
+      "time": "2026-10-25T14:55:00Z",
+      "tag": "MACRO",
+      "headline": "Chicago Fed adjusted NFCI at -0.518 for week ended Oct. 16",
+      "take": "The Chicago Fed's Adjusted National Financial Conditions Index, which isolates financial conditions uncorrelated with economic conditions, was -0.518 for the week ending October 16, 2026, versus -0.524 the prior week. Negative values indicate conditions looser than average. Both the adjusted and unadjusted gauges rose by 0.006 on the week, computed from the published readings.",
+      "source_name": "Chicago Fed via FRED (ANFCI)",
+      "source_url": "https://fred.stlouisfed.org/series/ANFCI",
+      "checked": "2026-10-25T14:50:37Z"
+    },
+    {
+      "id": "2026-10-25-feds-semiliquid-388b",
+      "time": "2026-10-25T15:04:00Z",
+      "tag": "CREDIT",
+      "headline": "Fed note: semiliquid retail funds grew from $15B in 2018 to $388B in 2025",
+      "take": "A Federal Reserve Board FEDS Note by Logan George and Chaehee Shin finds total net assets of interval funds, tender offer funds and non-traded perpetual-life BDCs rose from $15 billion in 2018 to $388 billion in 2025, while total mutual fund net assets grew 33% over the same period. The interval and tender offer figures are lower-bound estimates, and non-traded BDC assets were about $307 billion at 2025Q4. The growth rate of roughly 26 times in seven years makes these vehicles a fast-growing channel for retail exposure to private credit.",
+      "source_name": "Federal Reserve Board, FEDS Notes (Oct. 14)",
+      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
+      "checked": "2026-10-25T14:50:37Z"
+    },
+    {
+      "id": "2026-10-25-feds-semiliquid-holdings",
+      "time": "2026-10-25T15:13:00Z",
+      "tag": "CREDIT",
+      "headline": "Fed note: interval funds hold 49.5% private credit; non-traded BDC debt-to-equity 0.90",
+      "take": "In the Fed Board's 2025Q4 sample of 207 funds, interval funds held 49.5% of value-weighted assets in private credit, tender offer funds 13.4%, and non-traded BDCs 93.4% in loans. Average debt-to-equity was 0.27 for interval funds, 0.09 for tender offer funds and 0.90 for non-traded BDCs, and average default or non-accrual rates were 0.6%, 2.4% and 1.4%. The note cites defined contribution plans holding over $13.9 trillion as of September 2025, which frames why retail access to these funds draws regulatory attention.",
+      "source_name": "Federal Reserve Board, FEDS Notes (Oct. 14)",
+      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/the-rise-of-semiliquid-funds-for-retail-investors-20261014.html",
+      "checked": "2026-10-25T14:50:37Z"
+    },
+    {
+      "id": "2026-10-25-cftc-ust10y-positions-oct-20",
+      "time": "2026-10-25T15:22:00Z",
+      "tag": "RATES",
+      "headline": "CFTC: 10-year note futures show asset managers net long 2.93M, leveraged funds net short 2.11M",
+      "take": "CFTC's Traders in Financial Futures report for October 20, 2026 shows UST 10Y note open interest of 5,868,295 contracts, with asset managers long 3,675,600 and short 750,184 (net long 2,925,416) and leveraged funds long 567,553 and short 2,674,777 (net short 2,107,224). Those net figures are computed from the report's long and short columns. Asset managers and leveraged funds sit on opposite sides of the 10-year contract, with asset managers' net long equal to about 50% of open interest.",
+      "source_name": "CFTC, Traders in Financial Futures (Oct. 20 data)",
+      "source_url": "https://www.cftc.gov/dea/futures/financial_lf.htm",
+      "checked": "2026-10-25T14:50:37Z"
+    },
+    {
+      "id": "2026-10-25-cftc-ust2y-ultra-positions-oct-20",
+      "time": "2026-10-25T15:31:00Z",
+      "tag": "DEBT",
+      "headline": "CFTC: 2-year note futures asset managers net long 1.72M vs leveraged funds net short 1.29M",
+      "take": "In CFTC's October 20, 2026 financial futures report, UST 2Y note open interest was 4,533,571 contracts: asset managers were long 2,461,884 and short 738,304 (net long 1,723,580), while leveraged funds were long 771,136 and short 2,056,684 (net short 1,285,548). For Ultra UST Bond, open interest was 2,364,949, asset managers net long 849,383 and leveraged funds net short 804,808. Net figures are computed from the report's columns, so the same asset-manager-long, leveraged-fund-short split shows up in all three contracts.",
+      "source_name": "CFTC, Traders in Financial Futures (Oct. 20 data)",
+      "source_url": "https://www.cftc.gov/dea/futures/financial_lf.htm",
+      "checked": "2026-10-25T14:50:37Z"
+    },
     {
       "id": "2026-10-25-nyfed-tariff-passthrough",
       "time": "2026-10-25T13:55:00Z",
