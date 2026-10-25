@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-25T21:44:39Z",
+  "updated": "2026-10-25T22:45:02Z",
   "items": [
+    {
+      "id": "2026-10-25-hal-q3",
+      "time": "2026-10-25T22:45:02Z",
+      "tag": "EARNINGS",
+      "headline": "Halliburton Q3 revenue $5.7B, diluted EPS $0.50; adjusted EPS $0.60",
+      "take": "Halliburton reported third-quarter 2026 revenue of $5.7 billion, flat with the second quarter, and net income attributable to the company of $417 million, or $0.50 per diluted share. Adjusted net income was $501 million, or $0.60 per diluted share, versus $461 million, or $0.55, in Q2. AlphaGen notes the release compares against the prior quarter rather than the year-ago period.",
+      "source_name": "Halliburton Q3 2026 results release (Oct. 20, 2026)",
+      "source_url": "https://www.halliburton.com/en/about-us/press-release/halliburton-announces-third-quarter-2026-results",
+      "ticker": "NYSE:HAL",
+      "checked": "2026-10-25T22:45:02Z"
+    },
+    {
+      "id": "2026-10-25-hal-segments-buyback",
+      "time": "2026-10-25T22:54:02Z",
+      "tag": "EARNINGS",
+      "headline": "Halliburton: Completion and Production revenue $3.1B; ~$250M repurchased in Q3",
+      "take": "Halliburton's Completion and Production revenue was $3.1 billion, down $113 million (4%) sequentially, with operating income of $457 million; Drilling and Evaluation revenue was $2.6 billion, up $102 million (4%), with operating income of $391 million. The company repurchased approximately $250 million of common stock and paid dividends of $0.17 per share in the quarter. AlphaGen reads the segment split as the two divisions moving in opposite directions from Q2.",
+      "source_name": "Halliburton Q3 2026 results release (Oct. 20, 2026)",
+      "source_url": "https://www.halliburton.com/en/about-us/press-release/halliburton-announces-third-quarter-2026-results",
+      "ticker": "NYSE:HAL",
+      "checked": "2026-10-25T22:45:02Z"
+    },
+    {
+      "id": "2026-10-25-has-q3",
+      "time": "2026-10-25T23:03:02Z",
+      "tag": "EARNINGS",
+      "headline": "Hasbro Q3 revenue $1,595.3M, up 15%; diluted EPS $2.77 vs $1.64",
+      "take": "Hasbro reported third-quarter 2026 net revenues of $1,595.3 million versus $1,387.5 million a year earlier, and net earnings attributable to Hasbro of $394.5 million versus $233.2 million. Diluted EPS was $2.77 versus $1.64; adjusted diluted EPS was $2.90 versus $1.68. AlphaGen notes Wizards of the Coast and Digital Gaming revenue of $747.2 million, up from $572.0 million, was the largest driver of the increase.",
+      "source_name": "Hasbro Q3 2026 financial results release (Oct. 20, 2026)",
+      "source_url": "https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-third-quarter-2026-financial-results",
+      "ticker": "NASDAQ:HAS",
+      "checked": "2026-10-25T22:45:02Z"
+    },
+    {
+      "id": "2026-10-25-has-guidance-raise",
+      "time": "2026-10-25T23:12:02Z",
+      "tag": "EARNINGS",
+      "headline": "Hasbro raises 2026 outlook: revenue growth 7-9% in constant currency",
+      "take": "Hasbro's 2026 guidance calls for total revenue up 7% to 9% in constant currency, previously 5% to 7%, and adjusted operating margin of 27% to 28%, previously 25% to 26%. Adjusted EBITDA is guided to $1.575 billion to $1.625 billion, versus $1.45 billion to $1.50 billion before. AlphaGen notes all three measures moved up together in the release.",
+      "source_name": "Hasbro Q3 2026 financial results release (Oct. 20, 2026)",
+      "source_url": "https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-third-quarter-2026-financial-results",
+      "ticker": "NASDAQ:HAS",
+      "checked": "2026-10-25T22:45:02Z"
+    },
+    {
+      "id": "2026-10-25-cftc-wti-positions-oct-20",
+      "time": "2026-10-25T23:21:02Z",
+      "tag": "COMMODITIES",
+      "headline": "CFTC: WTI crude managed money long 163,413, short 127,226 as of Oct. 20",
+      "take": "CFTC's Oct. 20 report shows NYMEX WTI-Physical managed money long positions at 163,413 contracts (down 8,560 on the week) and short at 127,226 (down 4,173), a net long of 36,187 contracts. Open interest was 1,835,144, down 65,035 from Oct. 13. AlphaGen notes both sides of managed-money positioning shrank alongside the drop in open interest.",
+      "source_name": "CFTC Commitments of Traders, Petroleum (Futures Only), Oct. 20, 2026",
+      "source_url": "https://www.cftc.gov/dea/futures/petroleum_lf.htm",
+      "checked": "2026-10-25T22:45:02Z"
+    },
+    {
+      "id": "2026-10-25-cftc-gold-copper-positions-oct-20",
+      "time": "2026-10-25T23:30:02Z",
+      "tag": "COMMODITIES",
+      "headline": "CFTC: gold non-commercial longs 237,142 contracts; copper open interest up 13,287",
+      "take": "CFTC's Oct. 20 futures-only report shows COMEX gold non-commercial long positions at 237,142 contracts (down 8,158) against shorts of 37,277 (down 144), with open interest of 402,279, up 5,934. Copper open interest rose 13,287 to 327,119, with non-commercial longs of 98,535 (down 9,024). AlphaGen notes this report groups traders as non-commercial rather than managed money.",
+      "source_name": "CFTC Commitments of Traders, CMX (Futures Only), Oct. 20, 2026",
+      "source_url": "https://www.cftc.gov/dea/futures/deacmxsf.htm",
+      "checked": "2026-10-25T22:45:02Z"
+    },
     {
       "id": "2026-10-25-treasury-dealer-meetings-oct-29-30",
       "time": "2026-10-25T21:54:39Z",

@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-25T00:45:32Z",
+  "updated": "2026-10-25T22:45:02Z",
   "items": [
+    {
+      "id": "2026-10-20-HAL-Q3",
+      "time": "2026-10-25T22:45:02Z",
+      "ticker": "NYSE:HAL",
+      "name": "Halliburton",
+      "period": "Q3 2026",
+      "report_date": "2026-10-20",
+      "revenue": 5.7,
+      "revenue_yoy": null,
+      "eps": 0.5,
+      "eps_yoy": null,
+      "take": "Revenue was $5.7B, flat with Q2; net income attributable to the company was $417M, or $0.50 per diluted share. Adjusted EPS was $0.60 versus $0.55 in Q2.",
+      "source_name": "Halliburton Q3 2026 results release (Oct. 20, 2026)",
+      "source_url": "https://www.halliburton.com/en/about-us/press-release/halliburton-announces-third-quarter-2026-results",
+      "checked": "2026-10-25T22:45:02Z"
+    },
+    {
+      "id": "2026-10-20-HAS-Q3",
+      "time": "2026-10-25T23:03:02Z",
+      "ticker": "NASDAQ:HAS",
+      "name": "Hasbro",
+      "period": "Q3 2026",
+      "report_date": "2026-10-20",
+      "revenue": 1.5953,
+      "revenue_yoy": 15.0,
+      "eps": 2.77,
+      "eps_yoy": 68.9,
+      "take": "Net revenues were $1,595.3M versus $1,387.5M; diluted EPS was $2.77 versus $1.64 and adjusted diluted EPS $2.90 versus $1.68. Hasbro raised its 2026 guidance.",
+      "source_name": "Hasbro Q3 2026 financial results release (Oct. 20, 2026)",
+      "source_url": "https://investor.hasbro.com/news-releases/news-release-details/hasbro-reports-third-quarter-2026-financial-results",
+      "checked": "2026-10-25T22:45:02Z"
+    },
     {
       "id": "2026-10-21-FAF-Q3",
       "time": "2026-10-25T00:47:00Z",
