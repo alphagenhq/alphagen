@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-25T01:49:54Z",
+ "updated": "2026-10-25T11:50:27Z",
  "items": [
+  {
+   "id": "2026-10-25-g17-sep-ip",
+   "time": "2026-10-25T11:50:00Z",
+   "tag": "MACRO",
+   "headline": "Fed G.17: September industrial production up 0.7%, 2.2% above a year earlier",
+   "take": "The Federal Reserve's G.17 release says industrial production rose 0.7 percent in September after edging up 0.1 percent in August, with August revised up from 0.0 percent. Total output stood at 104.0 percent of its 2017 average and was 2.2 percent above its year-earlier level. Utilities output rose 3.5 percent in the month, so the headline gain leaned on weather-sensitive output more than on factories.",
+   "source_name": "Federal Reserve Board G.17 Industrial Production and Capacity Utilization (Oct. 16, 2026)",
+   "source_url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
+   "checked": "2026-10-25T11:50:27Z"
+  },
+  {
+   "id": "2026-10-25-g17-sep-capacity-mfg",
+   "time": "2026-10-25T12:00:00Z",
+   "tag": "MACRO",
+   "headline": "Fed G.17: capacity utilization 76.9% in September; manufacturing output up 0.3%",
+   "take": "Capacity utilization moved up to 76.9 percent in September, the Fed reported, with August revised up from 76.3 percent to 76.4 percent. Manufacturing output rose 0.3 percent in September, and August was revised from -0.3 percent to -0.2 percent. Mining output rose 0.2 percent; the factory gain was far smaller than the 0.7 percent increase in the overall index.",
+   "source_name": "Federal Reserve Board G.17 Industrial Production and Capacity Utilization (Oct. 16, 2026)",
+   "source_url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
+   "checked": "2026-10-25T11:50:27Z"
+  },
+  {
+   "id": "2026-10-25-fed-feds-private-credit-z1",
+   "time": "2026-10-25T12:10:00Z",
+   "tag": "CREDIT",
+   "headline": "Fed adds private credit to Financial Accounts from September 2026 release",
+   "take": "A Fed Board FEDS Note dated Oct. 16 says private credit assets under management reached over $2.6 trillion as of 2025:Q4, up from about $350 billion in 2012, and that integration into the Financial Accounts (Z.1) begins with the September 2026 release. Private credit was about 6 percent of total nonfinancial business debt in 2025:Q4 ($1.31 trillion of $23.29 trillion). The authors say the change does not substantially change business-debt trends overall, but it gives policymakers a first official sector-level view of a market that was previously recorded mostly as miscellaneous liabilities.",
+   "source_name": "Federal Reserve Board FEDS Note: Introducing Private Credit into the Financial Accounts of the United States (Oct. 16, 2026)",
+   "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
+   "checked": "2026-10-25T11:50:27Z"
+  },
+  {
+   "id": "2026-10-25-fed-feds-private-credit-sectors",
+   "time": "2026-10-25T12:20:00Z",
+   "tag": "CREDIT",
+   "headline": "Fed note sizes private credit: private debt funds $939B, BDCs $572B in assets",
+   "take": "The Fed's FEDS Note puts 2025:Q4 assets at about $939 billion for private debt funds, with private credit loans about 60 percent of that, and about $572 billion for business development companies, about 80 percent in private credit loans. Interval and tender offer funds held about $292 billion, up from $100 billion in 2021, and middle-market CLOs held $54 billion of private credit loans. The fast growth of the interval-fund channel is the part of the estimate worth watching.",
+   "source_name": "Federal Reserve Board FEDS Note: Introducing Private Credit into the Financial Accounts of the United States (Oct. 16, 2026)",
+   "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
+   "checked": "2026-10-25T11:50:27Z"
+  },
+  {
+   "id": "2026-10-25-fed-feds-bond-hedge",
+   "time": "2026-10-25T12:30:00Z",
+   "tag": "RATES",
+   "headline": "Fed note: stock-bond correlation turned negative after 2021, weakening bond hedge",
+   "take": "A Fed FEDS Note (Oct. 16) finds the correlation of U.S. stock returns with changes in 10-year yields was 0.4 in 2000-2021 and -0.09 after 2021; the euro-area figures were 0.41 and -0.02 and the U.K.'s 0.31 and -0.14. The U.S. 10-year yield's response to inflation news rose from a coefficient of 0.048 (2000-2019) to 0.155 post-2021. The authors attribute the shift to inflation dynamics and the mix of shocks, not to a change in bonds themselves, and say the hedge could improve if inflation eases.",
+   "source_name": "Federal Reserve Board FEDS Note: Government Bonds' Safe-Haven Property and Inflationary Pressures (Oct. 16, 2026)",
+   "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
+   "checked": "2026-10-25T11:50:27Z"
+  },
   {
    "id": "2026-10-25-gbci-q3",
    "time": "2026-10-25T01:55:00Z",
