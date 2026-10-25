@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-25T20:55:28Z",
+  "updated": "2026-10-25T21:44:39Z",
   "items": [
+    {
+      "id": "2026-10-25-treasury-dealer-meetings-oct-29-30",
+      "time": "2026-10-25T21:54:39Z",
+      "tag": "DEBT",
+      "headline": "Treasury dealer agenda: dealer meetings set for Oct. 29-30; responses due Oct. 26",
+      "take": "Treasury's November 2026 dealer agenda lists Treasury Dealer Meetings on Oct. 29 to Oct. 30, 2026, with a response deadline of 12:00 p.m. on Monday, Oct. 26. The document does not give dates for a refunding announcement, refunding statement or financing estimates. AlphaGen notes the dealer meetings fall in the same week as the FOMC and Q3 GDP releases.",
+      "source_name": "U.S. Treasury: Dealer Agenda, November 2026 (OMB Control No. 1505-0261)",
+      "source_url": "https://home.treasury.gov/system/files/221/Dealer-Agenda-November-2026.pdf",
+      "checked": "2026-10-25T21:44:39Z"
+    },
     {
       "id": "2026-10-25-h10-oct-16-dollar-index",
       "time": "2026-10-25T20:57:28Z",
