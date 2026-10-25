@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-25T22:45:02Z",
+  "updated": "2026-10-25T23:55:17Z",
   "items": [
+    {
+      "id": "2026-10-25-ea-ca-aug-9b",
+      "time": "2026-10-25T23:57:17Z",
+      "tag": "GLOBAL",
+      "headline": "Euro-area current account surplus €9B in August, down from €27B in July: ECB",
+      "take": "The ECB reported a seasonally and working-day adjusted euro-area current account surplus of €9 billion in August 2026, a decrease of €18 billion from €27 billion in July. Over the 12 months to August the surplus was €250 billion, or 1.5% of euro-area GDP, versus €290 billion (1.8%) a year earlier. AlphaGen notes the 12-month surplus has narrowed by €40 billion over the year.",
+      "source_name": "ECB press release: Euro area monthly balance of payments, August 2026 (Oct. 20, 2026; Banque de France copy)",
+      "source_url": "https://www.banque-france.fr/system/files/2026-10/ecb-press-release_20261020_Euro-area-monthly-balance-of-payments-August-2026.pdf",
+      "checked": "2026-10-25T23:55:17Z"
+    },
+    {
+      "id": "2026-10-25-ea-goods-services-12m",
+      "time": "2026-10-26T00:08:17Z",
+      "tag": "GLOBAL",
+      "headline": "Euro-area 12-month goods surplus €290B vs €320B a year earlier: ECB",
+      "take": "In the 12 months to August 2026 the euro-area goods surplus was €290 billion, down from €320 billion a year earlier, while the services surplus rose to €153 billion from €140 billion. The secondary income deficit widened to €207 billion from €179 billion. AlphaGen notes the services surplus gain offset only part of the goods decline.",
+      "source_name": "ECB press release: Euro area monthly balance of payments, August 2026 (Oct. 20, 2026; Banque de France copy)",
+      "source_url": "https://www.banque-france.fr/system/files/2026-10/ecb-press-release_20261020_Euro-area-monthly-balance-of-payments-August-2026.pdf",
+      "checked": "2026-10-25T23:55:17Z"
+    },
+    {
+      "id": "2026-10-25-ea-nonresident-debt-659b",
+      "time": "2026-10-26T00:19:17Z",
+      "tag": "GLOBAL",
+      "headline": "Non-residents' net buying of euro-area debt securities €659B over 12 months: ECB",
+      "take": "Non-residents' net purchases of euro-area debt securities were €659 billion in the 12 months to August 2026, up from €412 billion a year earlier, and their net purchases of euro-area equity were €446 billion, up from €419 billion. Euro-area residents' net direct investment in non-euro area assets rose to €424 billion from €211 billion. AlphaGen notes the debt-security inflow figure is the largest of the portfolio flows in the release.",
+      "source_name": "ECB press release: Euro area monthly balance of payments, August 2026 (Oct. 20, 2026; Banque de France copy)",
+      "source_url": "https://www.banque-france.fr/system/files/2026-10/ecb-press-release_20261020_Euro-area-monthly-balance-of-payments-August-2026.pdf",
+      "checked": "2026-10-25T23:55:17Z"
+    },
+    {
+      "id": "2026-10-25-eurosystem-omo-1927b",
+      "time": "2026-10-26T00:30:17Z",
+      "tag": "GLOBAL",
+      "headline": "Eurosystem open market operations net balance falls €7.1B to €1,927.5B: ECB",
+      "take": "The ECB's weekly statement for Oct. 16, 2026 shows the net balance of open market operations and standing facilities fell by €7.1 billion to €1,927.5 billion, primarily due to the change in the level of the deposit facility. Base money rose by €3.8 billion to €3,923.5 billion. AlphaGen notes the two measures moved in opposite directions on the week.",
+      "source_name": "ECB consolidated financial statement of the Eurosystem as at Oct. 16, 2026 (Banque de France copy)",
+      "source_url": "https://www.banque-france.fr/en/press-release/consolidated-financial-statement-eurosystem-16-october-2026",
+      "checked": "2026-10-25T23:55:17Z"
+    },
+    {
+      "id": "2026-10-25-eurosystem-pspp-pepp-oct-16",
+      "time": "2026-10-26T00:41:17Z",
+      "tag": "GLOBAL",
+      "headline": "Eurosystem holds €1,642.7B in PSPP and €1,268.8B in PEPP as of Oct. 16: ECB",
+      "take": "Eurosystem holdings of securities for monetary policy purposes as of Oct. 16, 2026 included €1,642.7 billion under the public sector purchase programme (weekly redemptions €3.4 billion) and €1,268.8 billion under the pandemic emergency purchase programme (€0.8 billion). Corporate sector purchase programme holdings were €212.0 billion, covered bond programme 3 €185.6 billion and asset-backed securities €1.7 billion; those rows sum to €3,310.8 billion by AlphaGen's calculation. The statement lists no new purchases in any programme.",
+      "source_name": "ECB consolidated financial statement of the Eurosystem as at Oct. 16, 2026 (Banque de France copy)",
+      "source_url": "https://www.banque-france.fr/en/press-release/consolidated-financial-statement-eurosystem-16-october-2026",
+      "checked": "2026-10-25T23:55:17Z"
+    },
     {
       "id": "2026-10-25-hal-q3",
       "time": "2026-10-25T22:45:02Z",
