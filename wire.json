@@ -1,6 +1,66 @@
 {
-  "updated": "2026-10-25T16:44:16Z",
+  "updated": "2026-10-25T18:51:11Z",
   "items": [
+    {
+      "id": "2026-10-25-fomc-minutes-year-end-hike",
+      "time": "2026-10-25T18:53:11Z",
+      "tag": "FED",
+      "headline": "Fed minutes: most participants saw another rate increase likely appropriate by year end",
+      "take": "The minutes of the Sept. 15-16 FOMC meeting, last updated Oct. 7, say most participants judged that another increase in the target range for the federal funds rate would likely be appropriate by year end. The Committee had voted 12-0 to raise the range by 1/4 point to 3-3/4 to 4 percent, and participants described inflation risk as skewed to the upside. With the next meeting on Oct. 27-28, the minutes frame the question as pace and timing of further tightening rather than whether it is on the table.",
+      "source_name": "Federal Reserve Board: FOMC minutes, Sept. 15-16, 2026",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+      "checked": "2026-10-25T18:51:11Z"
+    },
+    {
+      "id": "2026-10-25-sep-fed-funds-median-4-1",
+      "time": "2026-10-25T19:02:11Z",
+      "tag": "FED",
+      "headline": "Fed Sept. projections: median fed funds rate 4.1% for 2026, up from 3.8% in June",
+      "take": "The Sept. 16 Summary of Economic Projections shows a median federal funds rate of 4.1% for 2026 (June: 3.8%), 4.1% for 2027 (3.6%) and 3.9% for 2028 (3.4%), with a longer-run median of 3.2% (3.1%). The current target range is 3-3/4 to 4 percent, so the 2026 median sits above the top of that range. The projections move the rate path higher in every year shown, which is the backdrop for the Oct. 27-28 meeting.",
+      "source_name": "Federal Reserve Board: FOMC projection materials, Sept. 16, 2026",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
+      "checked": "2026-10-25T18:51:11Z"
+    },
+    {
+      "id": "2026-10-25-sep-inflation-growth-medians",
+      "time": "2026-10-25T19:11:11Z",
+      "tag": "MACRO",
+      "headline": "Fed Sept. projections: 2026 PCE inflation 3.7%, core 3.4%, unemployment 4.1%, GDP 2.3%",
+      "take": "Median FOMC projections from Sept. 16 for 2026 are: PCE inflation 3.7% (June: 3.6%), core PCE inflation 3.4% (3.3%), unemployment rate 4.1% (4.3%) and real GDP growth 2.3% (2.2%). For 2027, PCE inflation is projected at 2.3% and core at 2.5%, unchanged from June. Officials marked inflation up and unemployment down for 2026, a combination that supports the case for firmer policy.",
+      "source_name": "Federal Reserve Board: FOMC projection materials, Sept. 16, 2026",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
+      "checked": "2026-10-25T18:51:11Z"
+    },
+    {
+      "id": "2026-10-25-bls-ppi-12mo-6-3",
+      "time": "2026-10-25T19:20:11Z",
+      "tag": "MACRO",
+      "headline": "BLS: PPI final demand up 6.3% in 12 months to September, largest since December 2022",
+      "take": "The Producer Price Index for final demand rose 6.3% over the 12 months ended September 2026, which BLS describes as the largest 12-month increase since 6.4% in December 2022. Final demand goods rose 9.8% and final demand services 4.9%; the data are not seasonally adjusted and subject to revision for four months. The goods-services gap shows how much of the pipeline pressure is concentrated in physical inputs.",
+      "source_name": "BLS: The Economics Daily, Producer Price Index up 6.3 percent in September",
+      "source_url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm",
+      "checked": "2026-10-25T18:51:11Z"
+    },
+    {
+      "id": "2026-10-25-bls-ppi-energy-transport",
+      "time": "2026-10-25T19:29:11Z",
+      "tag": "ENERGY",
+      "headline": "BLS PPI: gasoline up 64.3%, No. 2 diesel up 115.2% over 12 months to September",
+      "take": "BLS reports final demand energy prices up 35.4% over the 12 months ended September, led by gasoline (+64.3%), No. 2 diesel (+115.2%) and home heating oil and distillates (+117.5%). Transportation and warehousing services rose 16.0%, including truck freight and water freight (both +19.3%) and airline passenger services (+16.6%). Fuel costs appear to be passing into freight and travel prices, which is how an energy shock reaches services.",
+      "source_name": "BLS: The Economics Daily, Producer Price Index up 6.3 percent in September",
+      "source_url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm",
+      "checked": "2026-10-25T18:51:11Z"
+    },
+    {
+      "id": "2026-10-25-fed-iorb-3-90",
+      "time": "2026-10-25T19:38:11Z",
+      "tag": "FED",
+      "headline": "Fed minutes: interest on reserve balances raised to 3.90%, primary credit rate to 4.0%",
+      "take": "The Sept. 15-16 FOMC minutes record that the interest rate on reserve balances was raised to 3.90 percent and the primary credit rate to 4.0 percent alongside the 1/4-point increase in the target range to 3-3/4 to 4 percent. The minutes also say the Desk had paused reserve management purchases and that the pace of future purchases was not on a preset course. Both rates are administered by the Fed, so they will move only if the Committee changes policy on Oct. 28.",
+      "source_name": "Federal Reserve Board: FOMC minutes, Sept. 15-16, 2026",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+      "checked": "2026-10-25T18:51:11Z"
+    },
     {
       "id": "2026-10-25-fomc-oct-27-28",
       "time": "2026-10-25T16:46:16Z",
