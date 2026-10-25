@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T23:50:07Z",
+  "updated": "2026-10-25T00:45:32Z",
   "items": [
+    {
+      "id": "2026-10-21-FAF-Q3",
+      "time": "2026-10-25T00:47:00Z",
+      "ticker": "NYSE:FAF",
+      "name": "First American Financial",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": 2.085,
+      "revenue_yoy": 5.3,
+      "eps": 1.72,
+      "eps_yoy": -6.5,
+      "take": "Net income was $177.0M and diluted EPS $1.72 versus $1.84 a year earlier (adjusted EPS $1.78 versus $1.70). Total revenues were $2,084.6M versus $1,978.9M.",
+      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
+      "checked": "2026-10-25T00:45:32Z"
+    },
     {
       "id": "2026-10-22-COLB-Q3",
       "time": "2026-10-25T00:15:07Z",

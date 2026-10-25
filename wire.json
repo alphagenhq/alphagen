@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-24T23:50:07Z",
+  "updated": "2026-10-25T00:45:32Z",
   "items": [
+    {
+      "id": "2026-10-25-faf-q3",
+      "time": "2026-10-25T00:47:00Z",
+      "tag": "EARNINGS",
+      "headline": "First American Q3 net income $177.0M, diluted EPS $1.72 vs $1.84 a year earlier",
+      "take": "First American Financial reported third-quarter 2026 total revenues of $2,084.6M, versus $1,978.9M a year earlier, and net income of $177.0M versus $189.6M. Net income per diluted share was $1.72 versus $1.84, while adjusted EPS was $1.78 versus $1.70. Revenue rose 5.3% on the year while GAAP diluted EPS fell 6.5%, so the quarter shows higher revenue paired with lower reported profit.",
+      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
+      "ticker": "NYSE:FAF",
+      "checked": "2026-10-25T00:45:32Z"
+    },
+    {
+      "id": "2026-10-25-faf-margins",
+      "time": "2026-10-25T00:59:00Z",
+      "tag": "EQUITIES",
+      "headline": "First American title pretax margin 12.4% vs 12.9%; home warranty 9.9% vs 14.1%",
+      "take": "In Q3 2026, First American's Title Insurance and Services segment reported total revenues of $1,972.9M, versus $1,835.9M a year earlier. Its pretax margin was 12.4% versus 12.9%, with an adjusted pretax margin of 12.7% versus 12.9%; the Home Warranty pretax margin was 9.9% versus 14.1%. Segment revenue grew about 7.5% while margins narrowed, so title-segment profit did not keep pace with sales.",
+      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
+      "ticker": "NYSE:FAF",
+      "checked": "2026-10-25T00:45:32Z"
+    },
+    {
+      "id": "2026-10-25-faf-dividend",
+      "time": "2026-10-25T01:11:00Z",
+      "tag": "EQUITIES",
+      "headline": "First American raises common dividend 11% to annual rate of $2.44 per share",
+      "take": "First American's Q3 2026 release states it raised the common stock dividend by 11 percent to an annual rate of $2.44 per share. Cash dividends declared per share were $0.61 in the quarter versus $0.55 in the prior-year quarter. The increase comes in a quarter when GAAP net income per diluted share was $1.72, down from $1.84.",
+      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
+      "ticker": "NYSE:FAF",
+      "checked": "2026-10-25T00:45:32Z"
+    },
+    {
+      "id": "2026-10-25-ccne-q3",
+      "time": "2026-10-25T01:23:00Z",
+      "tag": "CREDIT",
+      "headline": "CNB Financial Q3 diluted EPS $0.91 vs $0.69; net interest margin 3.89%",
+      "take": "CNB Financial Corporation reported third-quarter 2026 net income of $28.1M and diluted EPS of $0.91, versus $20.0M and $0.69 in the third quarter of 2025 and $0.91 in the second quarter. Net interest margin was 3.89%, compared with 3.88% in Q2 and 3.69% a year earlier. Net income rose about 40% on the year, while EPS was flat on the quarter.",
+      "source_name": "CNB Financial Corporation Q3 2026 earnings release (Oct. 21, 2026)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/21/3385899/0/en/cnb-financial-corporation-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:CCNE",
+      "checked": "2026-10-25T00:45:32Z"
+    },
+    {
+      "id": "2026-10-25-ccne-balance-sheet",
+      "time": "2026-10-25T01:35:00Z",
+      "tag": "CREDIT",
+      "headline": "CNB Financial total assets $8.39B, deposits $7.05B at Sept. 30",
+      "take": "CNB Financial had total assets of $8,385.1M, total deposits of $7,047.9M and total loans receivable including syndicated of $6,620.6M at Sept. 30, 2026. Assets were $47.1M lower than at June 30, while loans receivable rose $106.8M on the quarter. Year over year, assets rose 1.4%, deposits 2.1% and loans receivable 2.1%.",
+      "source_name": "CNB Financial Corporation Q3 2026 earnings release (Oct. 21, 2026)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/21/3385899/0/en/cnb-financial-corporation-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:CCNE",
+      "checked": "2026-10-25T00:45:32Z"
+    },
     {
       "id": "2026-10-24-wtfc-q3",
       "time": "2026-10-24T23:55:07Z",
