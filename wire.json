@@ -1,6 +1,66 @@
 {
-  "updated": "2026-10-25T18:51:11Z",
+  "updated": "2026-10-25T20:55:28Z",
   "items": [
+    {
+      "id": "2026-10-25-h10-oct-16-dollar-index",
+      "time": "2026-10-25T20:57:28Z",
+      "tag": "FX",
+      "headline": "Fed H.10: broad dollar index at 121.4048 on Oct. 16; euro $1.1231, yen 158.00",
+      "take": "The Fed's H.10 release dated Oct. 19 lists a broad dollar index of 121.4048 on Oct. 16, versus 122.0037 on Oct. 14 and 121.4433 on Oct. 13. The euro was $1.1231 per euro, the British pound $1.3330 per pound and the yen 158.00 per dollar on Oct. 16. The index was 0.5989 points below its Oct. 14 reading, and the Fed's next H.10 posting, Oct. 26 at 4:15 p.m. ET, will show how the dollar fared going into the FOMC week.",
+      "source_name": "Federal Reserve Board: H.10 Foreign Exchange Rates, Oct. 19, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h10/current/",
+      "checked": "2026-10-25T20:55:28Z"
+    },
+    {
+      "id": "2026-10-25-h15-1y-4-41",
+      "time": "2026-10-25T21:05:28Z",
+      "tag": "RATES",
+      "headline": "1-year Treasury yield 4.41% on Oct. 22, down 11 bp in a day; 6-month 4.29%",
+      "take": "Fed H.15 shows the 1-year constant-maturity Treasury yield at 4.41% on Oct. 22, down from 4.52% on Oct. 21, and the 6-month yield at 4.29%, down from 4.35%. The 1-year sits 53 bp above the 3.88% effective federal funds rate. With the FOMC meeting Oct. 27-28, the gap between the 1-year yield and the funds rate is a figure worth watching.",
+      "source_name": "Federal Reserve Board: H.15 Selected Interest Rates, Oct. 22, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "checked": "2026-10-25T20:55:28Z"
+    },
+    {
+      "id": "2026-10-25-h15-prime-7-00",
+      "time": "2026-10-25T21:13:28Z",
+      "tag": "FED",
+      "headline": "Fed H.15: bank prime loan rate 7.00%, 3.00 points above 4.00% primary credit rate",
+      "take": "The H.15 release lists the bank prime loan rate at 7.00% and the discount window primary credit rate at 4.00% on both Oct. 21 and Oct. 22. The effective federal funds rate was 3.88% on each day. Prime-linked borrowing costs, such as many credit card and small-business loans, would move with the policy rate if the FOMC changes the target range on Oct. 28.",
+      "source_name": "Federal Reserve Board: H.15 Selected Interest Rates, Oct. 22, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "checked": "2026-10-25T20:55:28Z"
+    },
+    {
+      "id": "2026-10-25-h8-loans-leases-14-214t",
+      "time": "2026-10-25T21:21:28Z",
+      "tag": "CREDIT",
+      "headline": "Fed H.8: bank loans and leases $14,213.7B in week to Oct. 14, up $29.3B",
+      "take": "Loans and leases in bank credit at all U.S. commercial banks stood at $14,213.7B in the week ended Oct. 14, up $29.3B from $14,184.4B a week earlier, seasonally adjusted. Total assets rose $38.0B to $26,138.3B. The next H.8 is scheduled for Oct. 30 at 4:15 p.m. ET and will show whether loan growth continued into the FOMC week.",
+      "source_name": "Federal Reserve Board: H.8 Assets and Liabilities of Commercial Banks, Oct. 23, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
+      "checked": "2026-10-25T20:55:28Z"
+    },
+    {
+      "id": "2026-10-25-h8-treasury-agency-4-784t",
+      "time": "2026-10-25T21:29:28Z",
+      "tag": "DEBT",
+      "headline": "Fed H.8: bank Treasury and agency securities $4,783.8B, up $21.6B on the week",
+      "take": "Commercial banks held $4,783.8B of Treasury and agency securities in the week ended Oct. 14, up $21.6B from $4,762.2B. Total securities in bank credit were $5,781.4B, up $16.3B, seasonally adjusted. Banks added to their government-backed holdings in the week, with cash assets little changed at $3,213.5B, up $5.2B.",
+      "source_name": "Federal Reserve Board: H.8 Assets and Liabilities of Commercial Banks, Oct. 23, 2026",
+      "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
+      "checked": "2026-10-25T20:55:28Z"
+    },
+    {
+      "id": "2026-10-25-fed-calendar-no-speeches-oct-26-31",
+      "time": "2026-10-25T21:37:28Z",
+      "tag": "FED",
+      "headline": "Fed calendar: no speeches or hearings listed Oct. 26-31; H.10 and CP data due Oct. 26",
+      "take": "The Federal Reserve Board's October calendar lists the two-day FOMC meeting on Oct. 27-28, with the press conference at 2:30 p.m. ET on Oct. 28, and no speeches, hearings or stress-test events for Oct. 26-31. Statistical releases include Commercial Paper at 1:00 p.m. and H.10 foreign exchange rates at 4:15 p.m. on Oct. 26, plus G.20 finance companies on Oct. 30 with an approximate publication date. The quiet speaker calendar leaves the FOMC statement and press conference as the main Fed communication of the week.",
+      "source_name": "Federal Reserve Board: Calendar, October 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
+      "checked": "2026-10-25T20:55:28Z"
+    },
     {
       "id": "2026-10-25-fomc-minutes-year-end-hike",
       "time": "2026-10-25T18:53:11Z",
