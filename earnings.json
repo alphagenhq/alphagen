@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-26T02:45:18Z",
+  "updated": "2026-10-26T14:04:35Z",
   "items": [
+    {
+      "id": "2026-10-20-KEY-Q3",
+      "time": "2026-10-26T14:27:35Z",
+      "ticker": "NYSE:KEY",
+      "name": "KeyCorp",
+      "period": "Q3 2026",
+      "report_date": "2026-10-20",
+      "revenue": 2.04,
+      "revenue_yoy": 8.0,
+      "eps_yoy": 24.4,
+      "eps": 0.51,
+      "take": "KeyCorp reported diluted EPS of $0.51 versus $0.41 a year earlier on revenue of $2.04 billion, which it described as a record. Estimated CET1 ratio was 11.1%.",
+      "source_name": "KeyCorp press release (Oct. 20, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/keycorp-reports-third-quarter-2026-net-income-of-537-million-or-0-51-per-diluted-common-share-diluted-eps-increased-24-year-over-year-302913241.html",
+      "checked": "2026-10-26T14:04:35Z"
+    },
+    {
+      "id": "2026-10-21-LOB-Q3",
+      "time": "2026-10-26T14:45:35Z",
+      "ticker": "NYSE:LOB",
+      "name": "Live Oak Bancshares",
+      "period": "Q3 2026",
+      "report_date": "2026-10-21",
+      "revenue": null,
+      "revenue_yoy": null,
+      "eps_yoy": -5.5,
+      "eps": 0.52,
+      "take": "Live Oak reported diluted EPS of $0.52 versus $0.55 a year earlier. Net interest margin was 3.30% versus 3.33%.",
+      "source_name": "Live Oak Bancshares press release (Oct. 21, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385917/36594/en/live-oak-bancshares-inc-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-26T14:04:35Z"
+    },
     {
       "id": "2026-10-23-RCI-Q3",
       "time": "2026-10-26T02:53:18Z",
