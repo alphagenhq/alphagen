@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-26T12:38:36Z",
+ "updated": "2026-10-26T20:18:00Z",
  "items": [
+  {
+   "id": "live-0001628280-26-067283-2.02",
+   "time": "2026-10-26T20:11:58Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Public Storage releases financial results",
+   "take": "Public Storage filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:11 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/0001628280-26-067283-index.htm",
+   "ticker": "NYSE:PSA"
+  },
+  {
+   "id": "live-0000874766-26-000079-2.02",
+   "time": "2026-10-26T20:07:35Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Hartford Insurance Group releases financial results",
+   "take": "Hartford Insurance Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:07 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HIG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/874766/000087476626000079/0000874766-26-000079-index.htm",
+   "ticker": "NYSE:HIG"
+  },
+  {
+   "id": "live-0000813672-26-000116-2.02",
+   "time": "2026-10-26T20:03:09Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Cadence Design Systems releases financial results",
+   "take": "Cadence Design Systems filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:03 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CDNS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000116/0000813672-26-000116-index.htm",
+   "ticker": "NASDAQ:CDNS"
+  },
   {
    "id": "live-0001104659-26-118604-5.02",
    "time": "2026-10-26T11:15:26Z",
