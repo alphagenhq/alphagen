@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-23T20:57:19Z",
+ "updated": "2026-10-26T11:08:21Z",
  "items": [
+  {
+   "id": "live-0000732712-26-000049-2.02",
+   "time": "2026-10-26T11:00:28Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Verizon Communications releases financial results",
+   "take": "Verizon Communications filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, VZ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000049/0000732712-26-000049-index.htm",
+   "ticker": "NYSE:VZ"
+  },
+  {
+   "id": "live-0001171843-26-006805-5.02",
+   "time": "2026-10-26T11:00:23Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Autozone reports an executive or board change",
+   "take": "Autozone reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 7:00 AM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AZO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/866787/000117184326006805/0001171843-26-006805-index.htm",
+   "ticker": "NYSE:AZO"
+  },
+  {
+   "id": "live-0001140361-26-040706-5.02",
+   "time": "2026-10-26T10:35:32Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "KKR & Co. reports an executive or board change",
+   "take": "KKR & Co. reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:35 AM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KKR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1404912/000114036126040706/0001140361-26-040706-index.htm",
+   "ticker": "NYSE:KKR"
+  },
   {
    "id": "live-0001104659-26-118496-1.01",
    "time": "2026-10-23T20:34:15Z",
