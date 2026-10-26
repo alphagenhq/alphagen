@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-26T14:04:35Z",
+  "updated": "2026-10-26T14:58:24Z",
   "items": [
+    {
+      "id": "2026-10-26-umios-high-liner",
+      "time": "2026-10-26T15:00:24Z",
+      "tag": "DEALS",
+      "ticker": "TSX:HLF",
+      "headline": "Umios to acquire High Liner Foods for C$27.00 per share in cash, about C$804M",
+      "take": "Umios Corporation agreed to acquire High Liner Foods for C$27.00 per share in cash, valuing the equity at approximately C$804 million, in a court-approved plan of arrangement. Completion is expected in January 2027, subject to approval by 75% of votes cast by High Liner shareholders, Competition Act (Canada) approval and U.S. Hart-Scott-Rodino clearance. Shareholders holding about 45.4% of shares have signed voting support agreements, which lowers the shareholder-vote hurdle.",
+      "source_name": "Umios press release (Oct. 26, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919412.html",
+      "checked": "2026-10-26T14:58:24Z"
+    },
+    {
+      "id": "2026-10-26-umios-high-liner-financing",
+      "time": "2026-10-26T15:12:24Z",
+      "tag": "CREDIT",
+      "ticker": "TSX:HLF",
+      "headline": "Umios to fund High Liner purchase mainly with interest-bearing debt and cash on hand",
+      "take": "Umios said it will fund the C$804 million equity purchase of High Liner Foods mainly with interest-bearing debt and cash on hand. The release does not disclose an enterprise value or premium. The financing structure means the deal adds to Umios' borrowings rather than being paid in stock.",
+      "source_name": "Umios press release (Oct. 26, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919412.html",
+      "checked": "2026-10-26T14:58:24Z"
+    },
+    {
+      "id": "2026-10-26-edvr-q3",
+      "time": "2026-10-26T15:24:24Z",
+      "tag": "EARNINGS",
+      "ticker": "OTCQX:EDVR",
+      "headline": "Endeavor Bancorp Q3 diluted EPS $0.44 vs $0.36 a year ago; net income $2.12M",
+      "take": "Endeavor Bancorp reported Q3 2026 net income of $2.12 million, or $0.44 per diluted share, versus $1.89 million ($0.40) in Q2 2026 and $1.73 million ($0.36) in Q3 2025. Net interest margin was 4.41%, unchanged from Q2 and up from 4.09% a year earlier. Per-share earnings rose 22% year over year.",
+      "source_name": "Endeavor Bancorp press release (Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388133/0/en/endeavor-bancorp-reports-record-net-income-of-2-1-million-for-the-third-quarter-of-2026-tangible-book-value-increases-to-15-46-and-nim-remains-strong-at-4-41.html",
+      "checked": "2026-10-26T14:58:24Z"
+    },
+    {
+      "id": "2026-10-26-edvr-balance-sheet",
+      "time": "2026-10-26T15:36:24Z",
+      "tag": "CREDIT",
+      "ticker": "OTCQX:EDVR",
+      "headline": "Endeavor Bancorp loans $644.9M, down from $664.8M in Q2; deposits $731.2M",
+      "take": "Endeavor reported total loans of $644.9 million at Sept. 30, down from $664.8 million at June 30 and up from $632.6 million a year earlier. Total deposits were $731.2 million versus $725.0 million at June 30 and $678.3 million a year earlier. Tangible book value per share rose to $15.46 from $15.11 at June 30.",
+      "source_name": "Endeavor Bancorp press release (Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388133/0/en/endeavor-bancorp-reports-record-net-income-of-2-1-million-for-the-third-quarter-of-2026-tangible-book-value-increases-to-15-46-and-nim-remains-strong-at-4-41.html",
+      "checked": "2026-10-26T14:58:24Z"
+    },
     {
       "id": "2026-10-26-bfst-q3",
       "time": "2026-10-26T14:09:35Z",
@@ -5255,50 +5299,6 @@
       "ticker": "TSX:FFH",
       "time": "2026-10-14T21:50:00Z",
       "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-13-humana-blackrock-centerwell-jv",
-      "tag": "DEALS",
-      "headline": "BlackRock's HPS buys WCAS stake, valued near $2.8B, in Humana CenterWell clinics JV",
-      "take": "Funds managed by HPS Investment Partners, part of BlackRock, will buy WCAS's equity in Humana's CenterWell clinic joint ventures, valued at about $2.8 billion, and own a majority of a new JV covering nearly 150 clinics. The new JV drops the put option, and Humana gets the right to buy clinics back starting in 2028. Humana says removing the put should significantly reduce balance-sheet liabilities, while CenterWell keeps managing the clinics.",
-      "source_name": "Humana 8-K, Exhibit 99 press release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000049071/000004907126000060/blackrockstrategicjvpressr.htm",
-      "ticker": "NYSE:HUM",
-      "time": "2026-10-14T21:57:00Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-14-cipher-digital-converts",
-      "tag": "DEALS",
-      "headline": "Cipher Digital prices $850M of 0.00% convertible notes due 2032",
-      "take": "Cipher Digital priced $850 million of 0.00% convertible notes due 2032 with a conversion price of about $15.31, a 35% premium, and net proceeds of about $835.1 million before about $89.7 million of capped calls. The cash goes to its Barber Lake project and HPC build-out. Zero-coupon converts remain a common way for AI data-center developers to fund build-outs.",
-      "source_name": "Cipher Digital 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001819989/000119312526421035/d77312dex991.htm",
-      "ticker": "NASDAQ:CIFR",
-      "time": "2026-10-14T22:04:00Z",
-      "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-13-brookdale-welltower-30",
-      "tag": "DEALS",
-      "headline": "Brookdale to buy 30 leased communities from Welltower for $290M",
-      "take": "Brookdale agreed to buy 30 leased communities from Welltower for $290 million, cutting about $17.8 million of 2027 cash rent, and closed a separate $157 million purchase of 17 communities. Its owned share of units rises toward nearly 80% after closing. Buying out leases is how Brookdale is shrinking fixed rent obligations.",
-      "source_name": "Brookdale press release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html",
-      "ticker": "NYSE:BKD",
-      "time": "2026-10-14T22:25:00Z",
-      "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-14-c-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:C",
-      "headline": "Citigroup Q3 EPS rises to $2.85 on $23.8B of revenue; NII up 14%",
-      "take": "Citigroup reported third-quarter net income of $5.2 billion, or $2.85 per diluted share, versus $3.8 billion, or $1.86, a year earlier, on revenues of $23.8 billion against $22.1 billion. Net interest income rose 14%, RoTCE was 11.5% and the bank returned $4.1 billion to shareholders with a CET1 ratio of 12.8%. Revenue growing about 8% while reported expenses fell 2% is the operating leverage Citi has been promising, though the prior-year comparison included a Banamex-related goodwill impairment.",
-      "source_name": "Citigroup 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000831001/000110465926115323/c-ex99d1.htm",
-      "time": "2026-10-14T21:16:14Z",
-      "checked": "2026-10-14T22:06:09Z"
     }
   ]
 }

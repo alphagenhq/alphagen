@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-26T14:04:47Z",
+  "updated": "2026-10-26T14:58:24Z",
   "items": [
+    {
+      "id": "2026-10-26-umios-high-liner",
+      "type": "M&A",
+      "headline": "Umios to acquire High Liner Foods for C$27.00 per share in cash",
+      "parties": "Acquirer: Umios Corporation; Target: High Liner Foods Incorporated",
+      "value": null,
+      "value_text": "C$804M equity value (approx.)",
+      "status": "Announced",
+      "announced": "2026-10-26",
+      "sector": "Food",
+      "take": "Umios agreed to buy High Liner for C$27.00 per share in cash, about C$804 million in equity value, funded mainly with interest-bearing debt and cash on hand. Completion is expected in January 2027, subject to a 75% shareholder vote, Competition Act and HSR clearance; holders of about 45.4% have signed voting support agreements.",
+      "source_name": "Umios press release (Oct. 26, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919412.html",
+      "tickers": [
+        "TSX:HLF",
+        "TSE:1333"
+      ],
+      "time": "2026-10-26T14:58:24Z",
+      "checked": "2026-10-26T14:58:24Z"
+    },
     {
       "id": "2026-10-07-tcbx-great-plains",
       "type": "M&A",
