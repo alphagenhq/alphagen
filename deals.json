@@ -1,6 +1,64 @@
 {
-  "updated": "2026-10-24T00:44:56Z",
+  "updated": "2026-10-26T11:52:07Z",
   "items": [
+    {
+      "id": "2026-10-26-eqt-range",
+      "type": "M&A",
+      "headline": "EQT to acquire Range Resources in all-stock deal; pro forma EV over $50B",
+      "parties": "Acquirer: EQT Corp; Target: Range Resources Corp",
+      "value": null,
+      "value_text": "All-stock; 0.987 EQT shares per Range share (no dollar price stated; combined pro forma EV over $50B)",
+      "status": "Announced",
+      "announced": "2026-10-26",
+      "sector": "Natural gas",
+      "take": "Each Range share will be exchanged for 0.987 EQT shares, leaving Range holders with about 27% of the combined company. EQT expects $325 million of base annual synergies within two years and closing in the first quarter of 2027, subject to regulatory and shareholder approvals.",
+      "source_name": "EQT Corp. Form 8-K, Exhibit 99.1 press release (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm",
+      "tickers": [
+        "NYSE:EQT",
+        "NYSE:RRC"
+      ],
+      "time": "2026-10-26T11:52:07Z",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-ovintiv-logan",
+      "type": "M&A",
+      "headline": "Ovintiv to acquire Logan Energy for C$1.40 per share in cash; about US$890M",
+      "parties": "Acquirer: Ovintiv Inc.; Target: Logan Energy Corp.",
+      "value": 0.89,
+      "value_text": "About C$1.26B (about US$890M), including Logan's expected net debt at closing",
+      "status": "Announced",
+      "announced": "2026-10-26",
+      "sector": "Oil and gas",
+      "take": "Ovintiv will fund the all-cash deal from cash on hand, credit facility borrowings and commercial paper, and Logan will spin out Logan Oil Corp. to its shareholders. Closing is expected early in Q1 2027, subject to Logan shareholder, court and regulatory approvals.",
+      "source_name": "Ovintiv Inc. Form 8-K, Exhibit 99.1 press release (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001792580/000095014226002834/eh260846976_ex9901.htm",
+      "tickers": [
+        "NYSE:OVV"
+      ],
+      "time": "2026-10-26T11:55:07Z",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-corxel-amanat",
+      "type": "IPO",
+      "headline": "Corxel US to go public via business combination with Amanat Acquisition Corp",
+      "parties": "SPAC: Amanat Acquisition Corp; Target: Corxel Pharmaceuticals, Inc. (Corxel US)",
+      "value": null,
+      "value_text": "Undisclosed valuation; about $377M expected gross proceeds (about $75M trust plus about $300M PIPE)",
+      "status": "Announced",
+      "announced": "2026-10-26",
+      "sector": "Biotech (obesity)",
+      "take": "The combined company is expected to list on the Nasdaq Capital Market under a new name and ticker, with closing expected in the first half of 2027. The release says proceeds are expected to support the company through 2029; the $377M assumes no Amanat shareholder redemptions.",
+      "source_name": "Corxel US and Amanat Acquisition Corp release (GlobeNewswire, Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387902/0/en/corxel-us-and-amanat-acquisition-corp-announce-definitive-business-combination-agreement-to-create-publicly-listed-obesity-focused-biopharmaceutical-company.html",
+      "tickers": [
+        "NASDAQ:AMAN"
+      ],
+      "time": "2026-10-26T11:58:07Z",
+      "checked": "2026-10-26T11:52:07Z"
+    },
     {
       "id": "2026-10-23-eq-genesta",
       "time": "2026-10-24T01:17:56Z",

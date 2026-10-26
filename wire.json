@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-26T02:45:18Z",
+  "updated": "2026-10-26T11:52:07Z",
   "items": [
+    {
+      "id": "2026-10-26-eqt-range-merger",
+      "time": "2026-10-26T11:52:07Z",
+      "tag": "DEALS",
+      "ticker": "NYSE:EQT",
+      "headline": "EQT to acquire Range Resources in all-stock deal; 0.987 EQT shares per Range share",
+      "take": "EQT said each Range common share will be exchanged for 0.987 EQT shares, leaving EQT holders with about 73% and Range holders about 27% of the combined company, which it put at a pro forma enterprise value over $50 billion. EQT expects $325 million of base annual synergies within two years, with a pathway to more than $600 million long term, and closing in the first quarter of 2027. The release states no dollar purchase price, so the $50 billion figure describes combined size, not deal value.",
+      "source_name": "EQT Corp. Form 8-K, Exhibit 99.1 press release (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-ovv-logan",
+      "time": "2026-10-26T12:01:07Z",
+      "tag": "DEALS",
+      "ticker": "NYSE:OVV",
+      "headline": "Ovintiv to acquire Logan Energy at C$1.40 per share in cash; about US$890M",
+      "take": "Ovintiv agreed to buy Logan Energy for C$1.40 per share in cash, a total value of about C$1.26 billion (about US$890 million) that includes Logan's expected net debt at closing. The release describes about 266,000 net acres in the Montney oil window and Logan production of about 20 MBOE/d, and says Logan will spin out Logan Oil Corp. to its shareholders; closing is expected early in the first quarter of 2027. No premium is stated, and because the value includes net debt it is not an equity-only figure.",
+      "source_name": "Ovintiv Inc. Form 8-K, Exhibit 99.1 press release (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001792580/000095014226002834/eh260846976_ex9901.htm",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-corxel-amanat",
+      "time": "2026-10-26T12:10:07Z",
+      "tag": "DEALS",
+      "ticker": "NASDAQ:AMAN",
+      "headline": "Corxel US, Amanat Acquisition Corp agree to combine; about $377M proceeds expected",
+      "take": "Amanat Acquisition Corp (Nasdaq: AMAN) and Corxel US, an obesity-focused biopharma, signed a definitive business combination agreement, with the combined company expected to list on the Nasdaq Capital Market under a name and ticker still to be announced. The release cites about $75 million in Amanat's trust account and an expected PIPE of about $300 million, for approximately $377 million of total expected gross proceeds assuming no redemptions; closing is expected in the first half of 2027. No pro forma valuation is disclosed, so deal size cannot be compared with other biotech listings yet.",
+      "source_name": "Corxel US and Amanat Acquisition Corp release (GlobeNewswire, Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387902/0/en/corxel-us-and-amanat-acquisition-corp-announce-definitive-business-combination-agreement-to-create-publicly-listed-obesity-focused-biopharmaceutical-company.html",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-hbt-q3",
+      "time": "2026-10-26T12:19:07Z",
+      "tag": "EARNINGS",
+      "ticker": "NASDAQ:HBT",
+      "headline": "HBT Financial Q3 net income $31.4M, or $0.86 per diluted share, vs $19.8M and $0.63",
+      "take": "HBT Financial reported third-quarter 2026 net income of $31.4 million, or $0.86 per diluted share, versus $19.8 million, or $0.63, a year earlier and $27.8 million, or $0.76, in the second quarter. By our calculation net income rose 58.8% and diluted EPS rose 36.5% year over year. Return on average assets was 1.85% and the efficiency ratio 48.73%.",
+      "source_name": "HBT Financial Q3 2026 results release (GlobeNewswire, Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387987/0/en/hbt-financial-inc-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-hbt-margin-capital",
+      "time": "2026-10-26T12:28:07Z",
+      "tag": "CREDIT",
+      "ticker": "NASDAQ:HBT",
+      "headline": "HBT net interest margin 4.35% vs 4.13% a year ago; CET1 ratio 12.94%",
+      "take": "HBT Financial's net interest margin was 4.35% in Q3 2026 versus 4.13% a year earlier and 4.32% in Q2. Total assets were $6.7 billion, loans $4.78 billion and deposits $5.75 billion at Sept. 30, with nonperforming assets at 0.16% of total assets and a common equity tier 1 ratio of 12.94%. Tri-County Financial Group's stockholder vote on HBT's pending acquisition of it is scheduled for Oct. 29, with closing expected early in Q1 2027, subject to approvals.",
+      "source_name": "HBT Financial Q3 2026 results release (GlobeNewswire, Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387987/0/en/hbt-financial-inc-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-10-26T11:52:07Z"
+    },
+    {
+      "id": "2026-10-26-amkor-q3-due",
+      "time": "2026-10-26T12:37:07Z",
+      "tag": "EARNINGS",
+      "ticker": "NASDAQ:AMKR",
+      "headline": "Amkor to report Q3 results after Nasdaq close today; call at 5 p.m. ET",
+      "take": "Amkor Technology said it will issue third-quarter 2026 results after the close of trading on Monday, Oct. 26, with a conference call and webcast at 5 p.m. ET. The company's announcement was issued Oct. 5. Figures will be added to the Wire once the release is out.",
+      "source_name": "Amkor Technology announcement of Q3 2026 results date (Nasdaq, Oct. 5, 2026)",
+      "source_url": "https://www.nasdaq.com/press-release/amkor-technology-announce-third-quarter-2026-financial-results-october-26-2026-2026",
+      "checked": "2026-10-26T11:52:07Z"
+    },
     {
       "id": "2026-10-25-rci-q3",
       "time": "2026-10-26T02:53:18Z",
@@ -5230,73 +5296,6 @@
       "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-dallas.htm",
       "time": "2026-10-14T20:45:00Z",
       "checked": "2026-10-14T22:06:09Z"
-    },
-    {
-      "id": "2026-10-13-wfc-q3",
-      "tag": "EARNINGS",
-      "headline": "Wells Fargo earns $1.87 a share in Q3 as provisions rise to $1.0B",
-      "take": "Wells Fargo reported third-quarter net income of $6.0 billion, or $1.87 per diluted share, versus $1.66 a year earlier, on revenue of $21.9 billion and net interest income of $12.5 billion. The provision for credit losses rose to $1.03 billion from $681 million, partly on a higher allowance for commercial and industrial and auto loans, and the CET1 ratio was an estimated 10.0%. Higher reserves alongside $2.5 billion of buybacks show a bank comfortable returning capital while building cushions.",
-      "source_name": "Wells Fargo 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm",
-      "ticker": "NYSE:WFC",
-      "time": "2026-10-14T20:38:00Z",
-      "checked": "2026-10-14T22:06:09Z"
-    },
-    {
-      "id": "2026-10-14-stt-q3",
-      "tag": "EARNINGS",
-      "headline": "State Street Q3 EPS rises to $3.69 as net interest income climbs 21%",
-      "take": "State Street reported third-quarter diluted EPS of $3.69, up 33%, on total revenue of $4.0 billion, up 13%, with fee revenue up 11% and net interest income up 21%. Assets under custody and/or administration hit a record $59.2 trillion. Fee revenue is still about 78% of the total, so the custody franchise remains a play on market levels and flows more than on rates.",
-      "source_name": "State Street 8-K earnings release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000093751/000009375126000592/a3q26earningspressrelease.htm",
-      "ticker": "NYSE:STT",
-      "time": "2026-10-14T20:31:00Z",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-blk-q3",
-      "tag": "EARNINGS",
-      "headline": "BlackRock AUM reaches $15.5T after $205B of Q3 net inflows",
-      "take": "BlackRock ended the third quarter with $15.5 trillion in assets under management, up 15% from a year earlier, after $205 billion of net inflows in the quarter. Revenue rose 19% to $7.75 billion and as-adjusted diluted EPS rose 38% to $15.93. Flows are broad across ETFs, private markets and cash, which keeps organic fee growth less dependent on equity market direction.",
-      "source_name": "BlackRock 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm",
-      "ticker": "NYSE:BLK",
-      "time": "2026-10-14T20:24:00Z",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-asml-q3",
-      "tag": "EARNINGS",
-      "headline": "ASML posts €11.7B Q3 sales, guides Q4 to €14.2B–€15.2B",
-      "take": "ASML reported third-quarter total net sales of €11.7 billion and net income of €5.0 billion at a 57.5% gross margin, and guided fourth-quarter sales of €14.2 billion to €15.2 billion. Full-year 2026 sales are now expected at €44 billion to €45 billion, and the company said planned supply for 2027 and 2028 will not fully meet customer demand. When the lithography bottleneck says it is capacity-constrained two years out, chip-equipment demand is being set by supply, not orders.",
-      "source_name": "ASML Q3 2026 press release, Form 6-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
-      "ticker": "NASDAQ:ASML",
-      "time": "2026-10-14T20:17:00Z",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-bac-q3",
-      "tag": "EARNINGS",
-      "headline": "Bank of America Q3 net income falls to $6.9B on a $1.2B regulatory charge",
-      "take": "Bank of America earned $6.9 billion, or $0.91 per diluted share, in the third quarter, down from $8.3 billion, or $1.04, a year earlier. Results include a $1.2 billion non-tax-deductible charge, or $0.17 a share, to accrue for civil money penalties tied to Bank Secrecy Act consent orders, while net interest income rose 8% to $16.4 billion. The core lending engine is growing; most of the profit decline is a compliance bill, not a credit problem, with provisions roughly flat at $1.3 billion.",
-      "source_name": "Bank of America 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac09302026ex991.htm",
-      "ticker": "NYSE:BAC",
-      "time": "2026-10-14T20:10:00Z",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-ms-q3",
-      "time": "2026-10-14T19:46:00Z",
-      "tag": "EARNINGS",
-      "headline": "Morgan Stanley Q3 net revenues rise to $20.3B; EPS $3.03 vs $2.80",
-      "take": "Morgan Stanley reported third-quarter net revenues of $20.3 billion, up from $18.2 billion a year earlier, with net income of $4.9 billion, or $3.03 per diluted share, versus $4.6 billion, or $2.80, and a 22.6% return on tangible common equity. Revenue up roughly 11.6% and EPS up about 8% point to strong capital generation at a major dealer, a supportive backdrop for large-bank senior debt.",
-      "source_name": "Morgan Stanley Q3 2026 earnings release",
-      "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf",
-      "ticker": "NYSE:MS",
-      "correction": "Corrected Morgan Stanley's year-over-year revenue growth from roughly 11.5% to 11.6% ($20,338M vs $18,224M per the earnings release).",
-      "checked": "2026-10-14T20:48:00Z"
     }
   ]
 }

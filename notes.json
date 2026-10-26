@@ -1,6 +1,79 @@
 {
-  "updated": "2026-10-23T20:55:18Z",
+  "updated": "2026-10-26T11:52:07Z",
   "items": [
+    {
+      "id": "2026-10-26-morning-brief",
+      "time": "2026-10-26T11:52:07Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: EQT-Range tops a deal-heavy Monday as FOMC week begins",
+      "dek": "The Fed's calendar is quiet until Wednesday's decision, while EQT, Ovintiv and Corxel announced deals and HBT Financial reported.",
+      "key_points": [
+        "Federal Reserve calendar: FOMC meets Oct. 27-28; decision Oct. 28 at 2:00 p.m. ET, press conference at 2:30 p.m.; no speeches listed Oct. 23-31.",
+        "Today's Fed releases: commercial paper at 1:00 p.m. ET; H.10 foreign exchange rates and H.15 interest rates at 4:15 p.m.; H.6 money stock follows tomorrow at 1:00 p.m.",
+        "EQT to acquire Range Resources: 0.987 EQT shares per Range share; pro forma enterprise value over $50B; $325M base annual synergies within two years; close expected Q1 2027.",
+        "Ovintiv to acquire Logan Energy for C$1.40 per share in cash, about C$1.26B (US$890M) including expected net debt; Corxel US and Amanat Acquisition Corp announced a business combination with about $377M expected gross proceeds.",
+        "Earnings: HBT Financial Q3 net income $31.4M, or $0.86 per diluted share, versus $19.8M and $0.63; Amkor reports after the close, call at 5:00 p.m. ET."
+      ],
+      "talking_points": [
+        "The Federal Reserve meets October 27 and 28, with its policy decision scheduled for 2:00 p.m. ET on the 28th, followed by a press conference at 2:30 p.m., so that is the date to watch.",
+        "EQT's deal for Range Resources is all stock, meaning Range holders receive EQT shares instead of cash, and the companies expect the combination to close in the first quarter of 2027 after approvals.",
+        "HBT Financial's net interest margin rose to 4.35% from 4.13% a year ago, showing how a bank's earnings depend on the gap between what it earns on loans and pays on deposits."
+      ],
+      "body": [
+        "Monday opens with a light official calendar and a busy corporate one. The Federal Reserve Board's October calendar shows two statistical releases today: commercial paper at 1:00 p.m. ET and the H.10 foreign exchange rates at 4:15 p.m., alongside the daily H.15 interest-rate release at 4:15 p.m. The same calendar lists no speeches between October 23 and 31.",
+        {
+          "h": "The Fed week"
+        },
+        "The Federal Open Market Committee meets October 27 and 28. The calendar lists the policy decision at 2:00 p.m. ET on October 28 and the press conference at 2:30 p.m. Before that, the H.6 money stock release is due at 1:00 p.m. ET tomorrow, and the weekly H.4.1 balance sheet report follows on Thursday at 4:30 p.m. Bank balance sheet data from the H.8 comes out Friday at 4:15 p.m.",
+        {
+          "h": "Deals announced this morning"
+        },
+        "Natural gas produced the largest announcement. EQT said each Range Resources share will be exchanged for 0.987 EQT shares, leaving EQT holders with about 73% of the combined company and Range holders about 27%. EQT put the pro forma enterprise value at over $50 billion, expects $325 million of base annual synergies within two years, and expects the transaction to close in the first quarter of 2027, subject to regulatory and shareholder approvals. The release gives no dollar purchase price, so the $50 billion describes combined size rather than the value of the deal.",
+        "Separately, Ovintiv agreed to acquire Logan Energy for C$1.40 per share in cash, a total value of about C$1.26 billion, or about US$890 million, including Logan's expected net debt at closing. Ovintiv described about 266,000 net acres in the Montney oil window and Logan production of about 20 MBOE/d. Logan will spin out Logan Oil Corp. to its shareholders, and closing is expected early in the first quarter of 2027.",
+        "In biotech, Corxel US and Amanat Acquisition Corp, a special purpose acquisition company, announced a definitive business combination. The release cites about $75 million in Amanat's trust account and an expected PIPE of about $300 million, for roughly $377 million of gross proceeds if no Amanat shareholders redeem. No pro forma valuation was disclosed, and closing is expected in the first half of 2027.",
+        {
+          "h": "Earnings"
+        },
+        "HBT Financial reported third-quarter net income of $31.4 million, or $0.86 per diluted share, versus $19.8 million, or $0.63, a year earlier. Its net interest margin was 4.35% versus 4.13%, and it said Tri-County Financial Group's stockholders vote on HBT's pending acquisition of Tri-County on October 29. After the close, Amkor Technology is scheduled to release third-quarter results, with its conference call at 5:00 p.m. ET.",
+        "One gap in this morning's brief: the Treasury's auction schedule and the latest FRED rate series could not be read in this run, so rate levels and auction details are left out rather than carried over from earlier days."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve Board: October 2026 calendar",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        },
+        {
+          "name": "EQT Corp. Form 8-K, Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm"
+        },
+        {
+          "name": "Ovintiv Inc. Form 8-K, Exhibit 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001792580/000095014226002834/eh260846976_ex9901.htm"
+        },
+        {
+          "name": "Corxel US and Amanat Acquisition Corp release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3387902/0/en/corxel-us-and-amanat-acquisition-corp-announce-definitive-business-combination-agreement-to-create-publicly-listed-obesity-focused-biopharmaceutical-company.html"
+        },
+        {
+          "name": "HBT Financial Q3 2026 results release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3387987/0/en/hbt-financial-inc-announces-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "Amkor Technology Q3 2026 results date announcement (Nasdaq)",
+          "url": "https://www.nasdaq.com/press-release/amkor-technology-announce-third-quarter-2026-financial-results-october-26-2026-2026"
+        }
+      ],
+      "tickers": [
+        "NYSE:EQT",
+        "NYSE:RRC",
+        "NYSE:OVV",
+        "NASDAQ:AMAN",
+        "NASDAQ:HBT",
+        "NASDAQ:AMKR"
+      ],
+      "checked": "2026-10-26T11:52:07Z"
+    },
     {
       "id": "2026-10-23-the-close",
       "time": "2026-10-23T20:55:18Z",
