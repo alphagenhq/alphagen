@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-26T14:58:24Z",
+  "updated": "2026-10-26T15:55:38Z",
   "items": [
+    {
+      "id": "2026-10-26-vz-q3",
+      "time": "2026-10-26T15:56:38Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:VZ",
+      "headline": "Verizon Q3 revenue $34.3B, up 1.5%; diluted EPS $1.25 vs $1.17",
+      "take": "Verizon reported third-quarter 2026 operating revenue of $34,313 million versus $33,821 million a year earlier, and diluted EPS of $1.25 versus $1.17. Net income attributable to Verizon was $5,198 million versus $4,950 million. Revenue growth was modest against faster EPS growth, which points to profit rising more than sales this quarter.",
+      "source_name": "Verizon Form 8-K Exhibit 99 (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000732712/000073271226000049/a2026q3exhibit99.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
+    {
+      "id": "2026-10-26-vz-guidance",
+      "time": "2026-10-26T16:04:38Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:VZ",
+      "headline": "Verizon raises 2026 adjusted EPS outlook to $5.04-$5.06; Q3 postpaid phone adds 406,000",
+      "take": "Verizon raised its full-year 2026 adjusted EPS guidance to $5.04 to $5.06, or 7.0 to 7.5 percent growth, up from 6.0 to 7.0 percent, and postpaid phone net additions to 1.1 million to 1.2 million. Third-quarter postpaid phone net additions were 406,000 versus 44,000 a year earlier, and free cash flow was $7.8 billion, up 12.1 percent. The subscriber swing is the main driver behind the higher outlook.",
+      "source_name": "Verizon Form 8-K Exhibit 99 (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000732712/000073271226000049/a2026q3exhibit99.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
+    {
+      "id": "2026-10-26-boh-q3",
+      "time": "2026-10-26T16:13:38Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:BOH",
+      "headline": "Bank of Hawaii Q3 diluted EPS $1.49 vs $1.20; net income $64.3M",
+      "take": "Bank of Hawaii reported third-quarter 2026 net income of $64.3 million, or $1.49 per diluted share, versus $53.3 million and $1.20 in the third quarter of 2025. The board declared a quarterly dividend of $0.70 per share, the same as a year earlier. The year-over-year gain in earnings coincided with a wider margin and a lower efficiency ratio.",
+      "source_name": "Bank of Hawaii Form 8-K Exhibit 99.1 (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000046195/000004619526000062/ex991earningsrelease093026.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
+    {
+      "id": "2026-10-26-boh-margin-capital",
+      "time": "2026-10-26T16:22:38Z",
+      "tag": "CREDIT",
+      "ticker": "NYSE:BOH",
+      "headline": "Bank of Hawaii net interest margin 2.82% vs 2.46%; CET1 ratio 12.10%",
+      "take": "Bank of Hawaii's net interest margin was 2.82% in the third quarter of 2026 versus 2.46% a year earlier, and its CET1 ratio was 12.10% at Sept. 30 versus 11.98% a year before (preliminary). Total loans and leases were $14.4 billion, up 2.1% from Dec. 31, 2025, while total deposits were $20.5 billion, down 3.3% over the same span. Loans growing while deposits shrink is a funding mix worth watching for regional banks.",
+      "source_name": "Bank of Hawaii Form 8-K Exhibit 99.1 (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000046195/000004619526000062/ex991earningsrelease093026.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
+    {
+      "id": "2026-10-26-dea-q3",
+      "time": "2026-10-26T16:31:38Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:DEA",
+      "headline": "Easterly Government Properties Q3 FFO $0.79/share vs $0.74; raises low end of 2026 guide",
+      "take": "Easterly Government Properties reported third-quarter 2026 total revenues of $93.6 million versus $86.2 million and fully diluted FFO per share of $0.79 versus $0.74. Core FFO per share was $0.78 versus $0.76, and the company raised the lower end of its 2026 Core FFO range to $3.08-$3.13 while introducing a 2027 range of $3.09-$3.17. The narrow guidance bands signal steady, lease-driven cash flow.",
+      "source_name": "Easterly Government Properties Form 8-K Exhibit 99.1 (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001622194/000162219426000032/dea-ex99_1.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
+    {
+      "id": "2026-10-26-med-q3",
+      "time": "2026-10-26T16:40:38Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:MED",
+      "headline": "Medifast Q3 revenue $72.0M, down 19.4%; net loss $17.5M, or $1.57 per share",
+      "take": "Medifast reported third-quarter 2026 revenue of $72.0 million, down 19.4% from $89.4 million, and a net loss of $17.5 million, or $1.57 per share, versus a loss of $2.3 million, or $0.21 per share. Independent active earning coaches were 10,200 versus 19,500 a year earlier, and it guides fourth-quarter revenue of $55-$75 million. The halving of the coach base is the key driver behind the sales decline.",
+      "source_name": "Medifast Form 8-K earnings release (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000910329/000162828026067151/medq32026earningsrelease.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
     {
       "id": "2026-10-26-umios-high-liner",
       "time": "2026-10-26T15:00:24Z",
@@ -5236,68 +5302,6 @@
       "source_name": "EIA Short-Term Energy Outlook, October 2026",
       "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
       "time": "2026-10-14T21:58:00Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-14-freddie-740",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate climbs to 7.40%, up 110 bp from a year ago",
-      "take": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed rate at 7.40% for the week of Oct. 8, up from 7.28% a week earlier and 6.30% a year ago; the 15-year averaged 6.73%. That is a 12 basis point weekly rise and 110 basis points over the year. With the 10-year Treasury above 5%, mortgage rates have little room to ease, which keeps affordability the binding constraint on home sales.",
-      "source_name": "Freddie Mac Primary Mortgage Market Survey",
-      "source_url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-average-740",
-      "time": "2026-10-14T22:02:00Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-14-steo-diesel",
-      "tag": "ENERGY",
-      "headline": "EIA: East Coast distillate stocks ran 32% below normal in September",
-      "take": "EIA says East Coast distillate inventories were 32% below the five-year seasonal average in September and expects them to stay about 20% below average through winter. It forecasts retail diesel at $5.19 a gallon for 2026, easing to $4.49 in 2027, and says tight global diesel markets are boosting refiners' crude demand. That matches the Dallas Fed's Beige Book report that diesel was the most commonly cited factor driving up costs in its district, a channel that reaches freight and goods prices with a lag.",
-      "source_name": "EIA Short-Term Energy Outlook, October 2026",
-      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
-      "time": "2026-10-14T22:06:00Z",
-      "correction": "Corrected the Dallas Fed Beige Book reference: diesel was the most commonly cited cost driver, not the top cost driver.",
-      "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-14-ea-flash-hicp",
-      "tag": "GLOBAL",
-      "headline": "Euro area flash inflation rose to 3.8% in September on 18.8% energy",
-      "take": "Eurostat's flash estimate put euro area annual inflation at 3.8% in September, up from 3.2% in August, with energy at 18.8% versus 14.3%. Inflation excluding energy, food, alcohol and tobacco was estimated at 2.5%, against 2.4% in August, and services rose to 3.2%. As in the U.S., the headline jump is mostly energy, which leaves the ECB weighing a supply shock against a still-contained core.",
-      "source_name": "Eurostat euro indicators, flash estimate September 2026",
-      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap",
-      "time": "2026-10-14T22:10:00Z",
-      "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-14-yen-158",
-      "tag": "FX",
-      "headline": "Yen at 158.34 per dollar on Oct. 9, per Fed H.10 data",
-      "take": "The Federal Reserve's H.10 noon buying rate put the dollar at 158.34 yen on Oct. 9, versus 157.97 on Oct. 5, according to the FRED series updated Oct. 13. The dollar edged higher against the yen on three of the four trading days from Oct. 6 to Oct. 9, dipping only on Oct. 7. With U.S. 10-year yields above 5%, the rate gap with Japan continues to favor the dollar, keeping yen weakness a live issue for Japanese policymakers.",
-      "source_name": "Federal Reserve H.10 via FRED (DEXJPUS)",
-      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
-      "time": "2026-10-14T22:14:00Z",
-      "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-14-wpsr-thursday",
-      "tag": "ENERGY",
-      "headline": "EIA's weekly petroleum report moves to Thursday, Oct. 15",
-      "take": "EIA says the next Weekly Petroleum Status Report will be released Thursday, Oct. 15, at 12:00 p.m. and 2:00 p.m. Eastern Time because of the federal closure on Monday, Oct. 12. EIA has also discontinued the full-report PDF, effective Sept. 23. With distillate stocks already tight, Thursday's inventory figures are the next official read on whether winter fuel supplies are rebuilding.",
-      "source_name": "EIA Weekly Petroleum Status Report",
-      "source_url": "https://www.eia.gov/petroleum/supply/weekly/",
-      "time": "2026-10-14T22:18:00Z",
-      "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-14-fairfax-idbi-bank",
-      "tag": "DEALS",
-      "headline": "Fairfax named strategic buyer for 60.72% of IDBI Bank at about $5.6B",
-      "take": "India's government declared a Fairfax subsidiary the strategic buyer for a 60.72% stake in IDBI Bank at INR 81 a share, about INR 528.78 billion (roughly $5.6 billion), a premium of about 23% to book value. No binding agreements are signed yet, and Fairfax plans to contribute its Digit insurers and Fairfax India's IIFL Capital stake to the bank. The deal still needs Reserve Bank of India, SEBI and, for the Digit piece, insurance-regulator approval.",
-      "source_name": "Fairfax Financial press release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3381180/0/en/fairfax-declared-strategic-buyer-in-auction-to-acquire-interest-in-idbi-bank-plans-to-contribute-digit-insurance-and-iifl-capital-to-idbi-bank.html",
-      "ticker": "TSX:FFH",
-      "time": "2026-10-14T21:50:00Z",
       "checked": "2026-10-15T12:08:25Z"
     }
   ]

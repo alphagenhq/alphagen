@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T14:04:35Z",
+  "updated": "2026-10-26T15:55:38Z",
   "items": [
+    {
+      "id": "2026-10-26-VZ-Q3",
+      "time": "2026-10-26T15:56:38Z",
+      "ticker": "NYSE:VZ",
+      "name": "Verizon Communications",
+      "period": "Q3 2026",
+      "report_date": "2026-10-26",
+      "revenue": 34.313,
+      "revenue_yoy": 1.5,
+      "eps_yoy": 6.8,
+      "eps": 1.25,
+      "take": "Verizon reported diluted EPS of $1.25 versus $1.17 a year earlier on operating revenue of $34,313 million versus $33,821 million. It raised full-year 2026 adjusted EPS guidance to $5.04-$5.06.",
+      "source_name": "Verizon Form 8-K Exhibit 99 (Oct. 26, 2026)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000732712/000073271226000049/a2026q3exhibit99.htm",
+      "checked": "2026-10-26T15:55:38Z"
+    },
     {
       "id": "2026-10-20-KEY-Q3",
       "time": "2026-10-26T14:27:35Z",
