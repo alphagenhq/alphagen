@@ -1,6 +1,56 @@
 {
-  "updated": "2026-10-25T23:55:17Z",
+  "updated": "2026-10-26T00:44:59Z",
   "items": [
+    {
+      "id": "2026-10-26-rbnz-ocr-2-75-oct-28",
+      "time": "2026-10-26T00:49:59Z",
+      "tag": "FX",
+      "headline": "RBNZ OCR at 2.75% after Sept. 2 hike; next review Oct. 28 at 2 p.m. NZT",
+      "take": "The Reserve Bank of New Zealand raised the Official Cash Rate 25 basis points to 2.75% on Sept. 2, with the MPC saying inflation rose to 4.1% in the June quarter because of higher fuel prices. The Bank's calendar lists the next Monetary Policy Review and OCR decision for Wednesday, Oct. 28 at 2:00 p.m. NZT, with a media conference at 3:00 p.m. AlphaGen notes the MPC framed the move as gradual removal of stimulus, so fuel-driven inflation is the variable that frames that review.",
+      "source_name": "Reserve Bank of New Zealand: Monetary Policy Review and OCR, October 2026",
+      "source_url": "https://www.rbnz.govt.nz/news-and-events/events/2026/october/monetary-policy-review-and-ocr-october-2026",
+      "checked": "2026-10-26T00:44:59Z"
+    },
+    {
+      "id": "2026-10-26-bok-q3-gdp-oct-27",
+      "time": "2026-10-26T01:00:59Z",
+      "tag": "GLOBAL",
+      "headline": "Bank of Korea calendar: Q3 advance GDP Oct. 27; September interest rates Oct. 29",
+      "take": "The Bank of Korea's statistical calendar lists the Q3 2026 real GDP advance estimate for Oct. 27 at 08:00 and the Consumer Survey Index for October the same day at 06:00. September interest-rate statistics follow on Oct. 29 at 12:00, and the preliminary September balance of payments on Nov. 5 at 08:00. The calendar notes the times are when media can publish and the schedule may change; AlphaGen flags the GDP print as the main Asian growth data point ahead of this week's central bank meetings.",
+      "source_name": "Bank of Korea: Statistical Calendar",
+      "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+      "checked": "2026-10-26T00:44:59Z"
+    },
+    {
+      "id": "2026-10-26-ecb-m3-aug-3-5",
+      "time": "2026-10-26T01:11:59Z",
+      "tag": "GLOBAL",
+      "headline": "Euro-area M3 growth 3.5% in August, up from 3.4% in July: ECB",
+      "take": "The ECB reported annual M3 growth of 3.5% in August 2026, up from 3.4% in July, while the narrower M1 aggregate grew 2.9%, down from 3.1%. The ECB's release calendar lists the September monetary developments for Oct. 27 at 10:00 CET. AlphaGen notes broad money growth and M1 moved in opposite directions in August.",
+      "source_name": "ECB: Monetary developments in the euro area, August 2026 (Sept. 25, 2026)",
+      "source_url": "https://www.ecb.europa.eu/press/stats/md/html/ecb.md2608~406f8d243d.en.html",
+      "checked": "2026-10-26T00:44:59Z"
+    },
+    {
+      "id": "2026-10-26-ecb-loans-aug-hh-nfc",
+      "time": "2026-10-26T01:22:59Z",
+      "tag": "CREDIT",
+      "headline": "Euro-area adjusted loans to firms grow 4.2% in August, down from 4.4%: ECB",
+      "take": "The ECB said adjusted loans to non-financial corporations grew 4.2% annually in August 2026, down from 4.4% in July, while adjusted loans to households grew 3.1%, unchanged from July. AlphaGen notes the corporate-lending slowdown came as the ECB's Governing Council prepares for its Oct. 28-29 meeting.",
+      "source_name": "ECB: Monetary developments in the euro area, August 2026 (Sept. 25, 2026)",
+      "source_url": "https://www.ecb.europa.eu/press/stats/md/html/ecb.md2608~406f8d243d.en.html",
+      "checked": "2026-10-26T00:44:59Z"
+    },
+    {
+      "id": "2026-10-26-boj-opinions-nov-10",
+      "time": "2026-10-26T01:33:59Z",
+      "tag": "GLOBAL",
+      "headline": "BoJ calendar: Outlook Report Oct. 30, Summary of Opinions Nov. 10, minutes Dec. 23",
+      "take": "The Bank of Japan's schedule lists its October Monetary Policy Meeting for Oct. 29-30, with the Outlook for Economic Activity and Prices released Oct. 30. The Summary of Opinions is due Nov. 10 and the minutes Dec. 23. AlphaGen notes the Nov. 10 summary is the first look at individual board views after the meeting.",
+      "source_name": "Bank of Japan: Monetary Policy Meetings schedule",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+      "checked": "2026-10-26T00:44:59Z"
+    },
     {
       "id": "2026-10-25-ea-ca-aug-9b",
       "time": "2026-10-25T23:57:17Z",
