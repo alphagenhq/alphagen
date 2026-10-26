@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-26T00:44:59Z",
+  "updated": "2026-10-26T01:44:25Z",
   "items": [
+    {
+      "id": "2026-10-26-nar-existing-pending-nov",
+      "time": "2026-10-26T01:49:25Z",
+      "tag": "HOUSING",
+      "headline": "NAR schedule: October existing-home sales Nov. 12; pending sales Nov. 18",
+      "take": "NAR's 2026 statistical release schedule lists October Existing-Home Sales for Thursday, Nov. 12, and the October Pending Home Sales Index for Wednesday, Nov. 18. NAR says all releases are distributed at 10 a.m. Eastern. The November reports follow on Dec. 9 and Dec. 17, giving the housing calendar two prints each month.",
+      "source_name": "National Association of Realtors",
+      "source_url": "https://www.nar.realtor/newsroom/nar-releases-2026-statistical-news-release-schedule",
+      "checked": "2026-10-26T01:44:25Z"
+    },
+    {
+      "id": "2026-10-26-eia-wpsr-oct-28",
+      "time": "2026-10-26T02:04:25Z",
+      "tag": "ENERGY",
+      "headline": "EIA: weekly petroleum report follows standard Wednesday schedule, Oct. 28 at 10:30 a.m.",
+      "take": "EIA's Weekly Petroleum Status Report schedule lists no exception for the week of Oct. 26-Nov. 1, so the standard release time of 10:30 a.m. Eastern on Wednesday applies. That puts the next crude and product inventory data on Oct. 28, the same day as the Fed decision window the FOMC calendar sets.",
+      "source_name": "U.S. Energy Information Administration",
+      "source_url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
+      "checked": "2026-10-26T01:44:25Z"
+    },
+    {
+      "id": "2026-10-26-census-trade-nov-4-dec-8",
+      "time": "2026-10-26T02:19:25Z",
+      "tag": "MACRO",
+      "headline": "Census: September trade report due Nov. 4; October report Dec. 8, both 8:30 a.m. ET",
+      "take": "The Census Bureau's foreign trade schedule lists the U.S. International Trade in Goods and Services report for Wednesday, Nov. 4, covering September, and Tuesday, Dec. 8, covering October. Census states all releases occur at 8:30 a.m. Eastern. The September report is the next full trade-balance reading after the third-quarter GDP advance estimate.",
+      "source_name": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/foreign-trade/schedule.html",
+      "checked": "2026-10-26T01:44:25Z"
+    },
     {
       "id": "2026-10-26-rbnz-ocr-2-75-oct-28",
       "time": "2026-10-26T00:49:59Z",
