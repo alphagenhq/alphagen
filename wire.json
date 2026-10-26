@@ -1,6 +1,37 @@
 {
-  "updated": "2026-10-26T15:55:38Z",
+  "updated": "2026-10-26T17:00:03Z",
   "items": [
+    {
+      "id": "2026-10-26-dallasfed-tmos-production",
+      "time": "2026-10-26T17:08:03Z",
+      "tag": "MACRO",
+      "headline": "Dallas Fed Texas factory output index 15.8 in October vs 29.5 in September",
+      "take": "The Dallas Fed's Texas Manufacturing Outlook Survey, released Oct. 26, put the production index at 15.8 in October versus 29.5 in September, and the new orders index at 9.3 versus 30.7. The Dallas Fed headlined the report \"Texas manufacturing activity remains solid, though pace of growth moderates.\" Both readings fell by double digits, while the general business activity index rose to 13.4 from 9.8.",
+      "source_name": "Dallas Fed Texas Manufacturing Outlook Survey (Oct. 26, 2026)",
+      "source_url": "https://www.dallasfed.org/research/surveys/tmos/2026/2610",
+      "checked": "2026-10-26T17:00:03Z"
+    },
+    {
+      "id": "2026-10-26-dallasfed-tmos-prices-jobs",
+      "time": "2026-10-26T17:18:03Z",
+      "tag": "MACRO",
+      "headline": "Dallas Fed: Texas raw-material prices-paid index 55.3 in October vs 52.2",
+      "take": "In the Dallas Fed's October Texas Manufacturing Outlook Survey, the raw materials prices paid index was 55.3, up from 52.2 in September, while the employment index was 11.6 versus 15.1. The general business activity index was 13.4 versus 9.8. Higher input-price readings alongside slower hiring and orders growth is a mix worth watching ahead of this week's FOMC meeting.",
+      "source_name": "Dallas Fed Texas Manufacturing Outlook Survey (Oct. 26, 2026)",
+      "source_url": "https://www.dallasfed.org/research/surveys/tmos/2026/2610",
+      "checked": "2026-10-26T17:00:03Z"
+    },
+    {
+      "id": "2026-10-26-frsb-q3",
+      "time": "2026-10-26T17:28:03Z",
+      "tag": "EARNINGS",
+      "ticker": "OTCQX:FRSB",
+      "headline": "First Resource Bancorp Q3 diluted EPS $0.98 vs $0.75; net income $2.94M",
+      "take": "First Resource Bancorp reported third-quarter 2026 net income of $2,940,474 versus $2,258,166 a year earlier, and diluted EPS of $0.98 versus $0.75. Net interest margin was 4.06% versus 3.87%. Total assets were $887.6 million and deposits $789.6 million at Sept. 30, so earnings growth came alongside a larger balance sheet.",
+      "source_name": "First Resource Bancorp press release via PR Newswire (Oct. 26, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/first-resource-bancorp-inc-reports-record-third-quarter-2026-financial-results-302918236.html",
+      "checked": "2026-10-26T17:00:03Z"
+    },
     {
       "id": "2026-10-26-vz-q3",
       "time": "2026-10-26T15:56:38Z",
@@ -5272,37 +5303,6 @@
       "source_url": "https://www.prnewswire.com/news-releases/select-water-solutions-inc-announces-pricing-of-upsized-900-million-of-7-625-senior-notes-due-2034--302909132.html",
       "time": "2026-10-14T23:00:00Z",
       "checked": "2026-10-15T01:52:36Z"
-    },
-    {
-      "id": "2026-10-14-jpm-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:JPM",
-      "headline": "JPMorgan Q3 net income rises 6% to $15.3B; EPS $5.57 vs $5.07",
-      "take": "JPMorgan Chase reported third-quarter net income of $15.3 billion, or $5.57 per share, versus $14.4 billion, or $5.07, a year earlier, on reported revenue of $50.2 billion against $46.4 billion. Net interest income rose 13% to $27.1 billion, the provision for credit losses fell to $2.7 billion from $3.4 billion, and net charge-offs dropped $389 million to $2.2 billion. Falling credit costs contrast with the higher provision Wells Fargo reported, though JPMorgan also scaled net buybacks back to $664 million.",
-      "source_name": "JPMorgan Chase 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm",
-      "time": "2026-10-14T21:50:00Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-14-steo-brent-105",
-      "tag": "ENERGY",
-      "headline": "EIA sees Brent averaging $105 in Q4 after a $114 September",
-      "take": "EIA's October Short-Term Energy Outlook says Brent averaged $114 per barrel in September, $23 above August, and forecasts $105 for 4Q26, $96 for full-year 2026 and $84 for 2027. EIA assumes Middle East oil flows stay constrained through the fourth quarter. The forecast path implies relief in 2027, but it hinges on supply recovering rather than demand cooling, which keeps energy the swing factor for inflation.",
-      "source_name": "EIA Short-Term Energy Outlook, October 2026",
-      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
-      "time": "2026-10-14T21:54:00Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-14-steo-shut-ins",
-      "tag": "COMMODITIES",
-      "headline": "EIA: Middle East shut-ins eased to 4.8M b/d in September from 10.9M peak",
-      "take": "EIA estimates Middle East shut-in oil production averaged 4.8 million barrels a day in September, down from a peak of 10.9 million b/d in May, and forecasts 4.5 million b/d in 4Q26. It estimates global oil inventories fell by an average of 1.9 million b/d in 3Q26, with a further draw of about 0.7 million b/d expected in 4Q26. Supply is coming back, but inventories are still being drawn, so the market has little cushion if flows disrupt again.",
-      "source_name": "EIA Short-Term Energy Outlook, October 2026",
-      "source_url": "https://www.eia.gov/outlooks/steo/archives/oct26.pdf",
-      "time": "2026-10-14T21:58:00Z",
-      "checked": "2026-10-15T12:08:25Z"
     }
   ]
 }
