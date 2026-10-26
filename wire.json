@@ -1,6 +1,71 @@
 {
-  "updated": "2026-10-26T01:44:25Z",
+  "updated": "2026-10-26T02:45:18Z",
   "items": [
+    {
+      "id": "2026-10-25-rci-q3",
+      "time": "2026-10-26T02:53:18Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:RCI",
+      "headline": "Rogers Q3 revenue C$5,443M, up 2%; adjusted EBITDA C$2,535M, up 1%",
+      "take": "Rogers reported Q3 2026 total revenue of C$5,443M versus C$5,348M a year earlier, adjusted EBITDA of C$2,535M versus C$2,515M, and free cash flow of C$1,370M versus C$829M. Net income was C$495M versus C$5,768M, with the comparison reflecting a $5 billion non-cash gain on its MLSE stake in Q3 2025. The cash-flow rebound outpaced a flat EBITDA line, which is the part of the quarter worth watching.",
+      "source_name": "Rogers Communications Q3 2026 results release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-26T02:45:18Z"
+    },
+    {
+      "id": "2026-10-25-rci-eps-dividend",
+      "time": "2026-10-26T03:01:18Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:RCI",
+      "headline": "Rogers Q3 diluted EPS C$0.88 vs C$10.54; adjusted C$1.29 vs C$1.37",
+      "take": "Rogers' Q3 diluted EPS attributable to shareholders was C$0.88 versus C$10.54 a year earlier; adjusted diluted EPS was C$1.29 versus C$1.37. The company declared a C$0.50 per share dividend on Oct. 22 and reaffirmed its 2026 outlook. Adjusted EPS slipped while the reported swing was driven by last year's one-time gain.",
+      "source_name": "Rogers Communications Q3 2026 results release (GlobeNewswire, Oct. 23, 2026)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-26T02:45:18Z"
+    },
+    {
+      "id": "2026-10-25-enva-q3",
+      "time": "2026-10-26T03:09:18Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:ENVA",
+      "headline": "Enova Q3 revenue $1,009.2M, up 26%; diluted EPS $4.06 vs $3.03",
+      "take": "Enova reported Q3 2026 total revenue of $1,009,172K versus $802,678K a year earlier, net income of $107,304K versus $80,314K, and adjusted EPS of $4.48 versus $3.36. The company repurchased $46 million of stock in the quarter and began Q4 with $252 million of repurchase capacity. Revenue and EPS grew at a similar pace, which points to growth driven by balance-sheet expansion rather than margin.",
+      "source_name": "Enova Q3 2026 results release (PR Newswire, Oct. 22, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
+      "checked": "2026-10-26T02:45:18Z"
+    },
+    {
+      "id": "2026-10-25-enva-receivables",
+      "time": "2026-10-26T03:17:18Z",
+      "tag": "CREDIT",
+      "ticker": "NYSE:ENVA",
+      "headline": "Enova combined receivables $5.90B, up 30%; Q3 originations $2.57B, up 31%",
+      "take": "Enova's combined loan and finance receivable balance, including accrued fees and interest, was $5,897,876K at Sept. 30, 2026 versus $4,521,110K a year earlier. Q3 originations and purchases were $2,567,480K versus $1,961,439K. Receivables and originations both grew about 30%, so the loan book is expanding broadly in line with revenue.",
+      "source_name": "Enova Q3 2026 results release (PR Newswire, Oct. 22, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
+      "checked": "2026-10-26T02:45:18Z"
+    },
+    {
+      "id": "2026-10-25-ritm-q3",
+      "time": "2026-10-26T03:25:18Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:RITM",
+      "headline": "Rithm Q3 GAAP EPS $0.38; earnings available for distribution $0.55 per share",
+      "take": "Rithm Capital reported Q3 2026 GAAP net income attributable to common stockholders of $217.1M, or $0.38 per diluted share, versus $20.2M, or $0.04, in Q2. Earnings available for distribution were $315.3M, or $0.55 per diluted share, versus $0.60 in Q2, and book value per common share was $12.51. GAAP earnings rose sharply from Q2 while distributable earnings eased, and the $0.25 common dividend stayed unchanged.",
+      "source_name": "Rithm Capital Q3 2026 results release (Business Wire, Oct. 23, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
+      "checked": "2026-10-26T02:45:18Z"
+    },
+    {
+      "id": "2026-10-25-boj-accounts-oct-20",
+      "time": "2026-10-26T03:33:18Z",
+      "tag": "GLOBAL",
+      "headline": "BoJ accounts: JGB holdings ¥504.0T on Oct. 20, up ¥368.7B from Oct. 10",
+      "take": "The Bank of Japan's accounts for Oct. 20 show JGBs held of ¥504.0T versus ¥503.6T on Oct. 10, a rise of ¥368.7B. Total assets were ¥625.0T, up ¥345.3B, while current deposits rose ¥10.19T to ¥418.3T. The balance sheet is still expanding at the margin even as the BoJ heads into its Oct. 29-30 policy meeting.",
+      "source_name": "Bank of Japan Accounts (October 20)",
+      "source_url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "checked": "2026-10-26T02:45:18Z"
+    },
     {
       "id": "2026-10-26-nar-existing-pending-nov",
       "time": "2026-10-26T01:49:25Z",
@@ -5231,47 +5296,6 @@
       "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/3q2026.pdf",
       "ticker": "NYSE:MS",
       "correction": "Corrected Morgan Stanley's year-over-year revenue growth from roughly 11.5% to 11.6% ($20,338M vs $18,224M per the earnings release).",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-cpi-headline",
-      "time": "2026-10-14T19:10:00Z",
-      "tag": "MACRO",
-      "headline": "September CPI jumps 0.6%, with gasoline doing most of the work",
-      "take": "Headline CPI rose 0.6% in September after 0.4% in August, putting the 12-month rate at 3.7%. BLS says gasoline rose 9.1% on the month and accounted for over half of the increase. This is an energy shock showing up in the headline, and the market is treating it as a policy problem.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-cpi-core-gap",
-      "time": "2026-10-14T19:08:00Z",
-      "tag": "MACRO",
-      "headline": "The gap that matters: headline at 3.7%, core at 2.6%",
-      "take": "Core CPI, which strips out food and energy, rose 0.3% in September and 2.6% over the past year. Energy is up 20.4% year over year. The question for the Fed is whether energy prices leak into everything else. Shelter, the stickiest piece, rose 0.4% on the month and 3.2% on the year.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-14-fomc-oct",
-      "time": "2026-10-14T19:06:00Z",
-      "tag": "FED",
-      "headline": "Fed meets October 27–28 with inflation moving the wrong way",
-      "take": "The FOMC's next two-day meeting is October 27–28, with the press conference on the 28th. Today's CPI gives the committee a hotter headline print to weigh against a calmer core. The Fed also released its Beige Book, its regional read on the economy, at 2:00 p.m. ET today.",
-      "source_name": "Federal Reserve",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-      "checked": "2026-10-14T20:48:00Z"
-    },
-    {
-      "id": "2026-10-13-gs-q3",
-      "time": "2026-10-14T19:04:00Z",
-      "tag": "EARNINGS",
-      "headline": "Goldman posts $18.68B in Q3 revenue and $17.01 a share",
-      "take": "Goldman reported third-quarter net revenues of $18.68 billion and net earnings of $5.29 billion, or $17.01 per diluted share, for an 18.7% annualized return on equity. Global Banking & Markets brought in $13.46 billion, about 72% of the total. Trading and deal desks are carrying the quarter.",
-      "source_name": "Goldman Sachs 8-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm",
-      "ticker": "NYSE:GS",
       "checked": "2026-10-14T20:48:00Z"
     }
   ]

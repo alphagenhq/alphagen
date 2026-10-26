@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-25T22:45:02Z",
+  "updated": "2026-10-26T02:45:18Z",
   "items": [
+    {
+      "id": "2026-10-23-RCI-Q3",
+      "time": "2026-10-26T02:53:18Z",
+      "ticker": "NYSE:RCI",
+      "name": "Rogers Communications",
+      "period": "Q3 2026",
+      "report_date": "2026-10-23",
+      "revenue": 5.443,
+      "revenue_yoy": 1.8,
+      "eps": 0.88,
+      "eps_yoy": -91.7,
+      "take": "Revenue was C$5,443M versus C$5,348M a year earlier; adjusted EBITDA C$2,535M. Diluted EPS of C$0.88 compares with C$10.54, which included a $5 billion non-cash MLSE gain. Figures are in Canadian dollars.",
+      "source_name": "Rogers Communications Q3 2026 results release (Oct. 23, 2026)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-26T02:45:18Z"
+    },
+    {
+      "id": "2026-10-23-RITM-Q3",
+      "time": "2026-10-26T03:25:18Z",
+      "ticker": "NYSE:RITM",
+      "name": "Rithm Capital",
+      "period": "Q3 2026",
+      "report_date": "2026-10-23",
+      "revenue": null,
+      "revenue_yoy": null,
+      "eps": 0.38,
+      "eps_yoy": null,
+      "take": "GAAP net income attributable to common stockholders was $217.1M, or $0.38 per diluted share; earnings available for distribution were $0.55 per diluted share. Book value per common share was $12.51.",
+      "source_name": "Rithm Capital Q3 2026 results release (Oct. 23, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
+      "checked": "2026-10-26T02:45:18Z"
+    },
     {
       "id": "2026-10-20-HAL-Q3",
       "time": "2026-10-25T22:45:02Z",
