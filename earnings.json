@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-26T15:55:38Z",
+  "updated": "2026-10-26T21:49:53Z",
   "items": [
+    {
+      "id": "2026-10-26-HIG-Q3",
+      "time": "2026-10-26T21:52:00Z",
+      "ticker": "NYSE:HIG",
+      "name": "The Hartford Insurance Group",
+      "period": "Q3 2026",
+      "report_date": "2026-10-26",
+      "revenue": 7.22,
+      "revenue_yoy": 3.9,
+      "eps_yoy": 27.9,
+      "eps": 4.82,
+      "take": "The Hartford reported diluted EPS of $4.82 versus $3.77 a year earlier on total revenues of $7,220 million versus $6,946 million. Core earnings were $956 million versus $1,022 million.",
+      "source_name": "The Hartford press release via Business Wire (Oct. 26, 2026)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-the-hartford-reports-strong-third-quarter-2026-financial-results",
+      "checked": "2026-10-26T21:49:53Z"
+    },
+    {
+      "id": "2026-10-26-RMBS-Q3",
+      "time": "2026-10-26T22:20:00Z",
+      "ticker": "NASDAQ:RMBS",
+      "name": "Rambus",
+      "period": "Q3 2026",
+      "report_date": "2026-10-26",
+      "revenue": 0.218,
+      "revenue_yoy": 22.3,
+      "eps_yoy": 56.8,
+      "eps": 0.69,
+      "take": "Rambus reported GAAP diluted EPS of $0.69 versus $0.44 a year earlier on revenue of $218.3 million versus $178.5 million. It guided fourth-quarter revenue to $227 million to $233 million.",
+      "source_name": "Rambus press release via Business Wire (Oct. 26, 2026)",
+      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-rambus-reports-third-quarter-2026-financial-results",
+      "checked": "2026-10-26T21:49:53Z"
+    },
     {
       "id": "2026-10-26-VZ-Q3",
       "time": "2026-10-26T15:56:38Z",
