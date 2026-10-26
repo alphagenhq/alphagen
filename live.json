@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-26T11:08:21Z",
+ "updated": "2026-10-26T12:38:36Z",
  "items": [
+  {
+   "id": "live-0001104659-26-118604-5.02",
+   "time": "2026-10-26T11:15:26Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "FedEx reports an executive or board change",
+   "take": "FedEx reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 7:15 AM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FDX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926118604/0001104659-26-118604-index.htm",
+   "ticker": "NYSE:FDX"
+  },
   {
    "id": "live-0000732712-26-000049-2.02",
    "time": "2026-10-26T11:00:28Z",
