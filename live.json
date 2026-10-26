@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-26T20:18:00Z",
+ "updated": "2026-10-26T20:57:45Z",
  "items": [
+  {
+   "id": "live-0001193125-26-432117-2.02",
+   "time": "2026-10-26T20:54:01Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Nucor releases financial results",
+   "take": "Nucor filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:54 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NUE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/73309/000119312526432117/0001193125-26-432117-index.htm",
+   "ticker": "NYSE:NUE"
+  },
+  {
+   "id": "live-0000766704-26-000043-2.02",
+   "time": "2026-10-26T20:33:01Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Welltower releases financial results",
+   "take": "Welltower filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:33 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, WELL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/766704/000076670426000043/0000766704-26-000043-index.htm",
+   "ticker": "NYSE:WELL"
+  },
+  {
+   "id": "live-0001193125-26-431976-5.02",
+   "time": "2026-10-26T20:20:29Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Nasdaq reports an executive or board change",
+   "take": "Nasdaq reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:20 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NDAQ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000119312526431976/0001193125-26-431976-index.htm",
+   "ticker": "NASDAQ:NDAQ"
+  },
   {
    "id": "live-0001628280-26-067283-2.02",
    "time": "2026-10-26T20:11:58Z",
