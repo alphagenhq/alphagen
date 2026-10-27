@@ -1,6 +1,70 @@
 {
-  "updated": "2026-10-27T14:45:42Z",
+  "updated": "2026-10-27T16:57:10Z",
   "items": [
+    {
+      "id": "2026-10-27-shw-q3",
+      "time": "2026-10-27T16:59:10Z",
+      "tag": "EARNINGS",
+      "headline": "Sherwin-Williams Q3 sales $6.86B vs $6.36B; net income down 1.5%",
+      "take": "Sherwin-Williams reported Q3 2026 consolidated net sales of $6,860.0 million versus $6,358.2 million, up 7.9%. Diluted EPS was $3.38 versus $3.35 and net income was $821.0 million versus $833.1 million. Sales grew faster than profit in the quarter, with per-share earnings roughly flat.",
+      "source_name": "Sherwin-Williams Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/the-sherwin-williams-company-reports-2026-third-quarter-financial-results-302920605.html",
+      "ticker": "NYSE:SHW",
+      "checked": "2026-10-27T16:57:10Z"
+    },
+    {
+      "id": "2026-10-27-shw-guide",
+      "time": "2026-10-27T17:07:10Z",
+      "tag": "EQUITIES",
+      "headline": "Sherwin-Williams narrows 2026 adjusted EPS guide to $11.85-$12.15",
+      "take": "Sherwin-Williams narrowed full-year 2026 adjusted diluted EPS guidance to $11.85 to $12.15 and revised diluted EPS guidance to $10.92 to $11.22. It expects full-year net sales up a mid to high-single-digit percentage and a mid-single-digit increase in the fourth quarter. A narrower range signals less uncertainty about the year-end outcome than a wide one does.",
+      "source_name": "Sherwin-Williams Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/the-sherwin-williams-company-reports-2026-third-quarter-financial-results-302920605.html",
+      "ticker": "NYSE:SHW",
+      "checked": "2026-10-27T16:57:10Z"
+    },
+    {
+      "id": "2026-10-27-bce-lacaisse-tower",
+      "time": "2026-10-27T17:15:10Z",
+      "tag": "DEALS",
+      "headline": "BCE: La Caisse to buy 49.9% of Bell tower company for C$2.45B",
+      "take": "Bell Canada and La Caisse announced a partnership under which La Caisse will acquire a 49.9% stake in TowerCo, a newly formed wireless tower company, for C$2.45 billion subject to customary adjustments, which the release says values TowerCo at about C$4.91 billion. Bell keeps a 50.1% controlling interest, and closing is expected in Q1 2027 pending regulatory approvals. The structure raises capital while keeping control of the towers.",
+      "source_name": "BCE press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
+      "checked": "2026-10-27T16:57:10Z"
+    },
+    {
+      "id": "2026-10-27-eneos-tpc-closed",
+      "time": "2026-10-27T17:23:10Z",
+      "tag": "DEALS",
+      "headline": "ENEOS Holdings completes acquisition of TPC Group",
+      "take": "TPC Group announced the completion of its acquisition by ENEOS Holdings, Inc. in a release dated Oct. 27, 2026. The release excerpt reviewed does not disclose a purchase price. The completed transaction moves TPC Group into ENEOS ownership.",
+      "source_name": "TPC Group / ENEOS press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388927/15270/en/eneos-holdings-closes-deal-to-acquire-tpc-group.html",
+      "checked": "2026-10-27T16:57:10Z"
+    },
+    {
+      "id": "2026-10-27-cts-q3",
+      "time": "2026-10-27T17:31:10Z",
+      "tag": "EARNINGS",
+      "headline": "CTS Q3 sales $149.6M, diluted EPS $0.61 vs $0.46; raises 2026 outlook",
+      "take": "CTS reported Q3 2026 sales of $149.6 million versus $143.0 million, net income of $17.8 million versus $13.7 million, and diluted EPS of $0.61 versus $0.46. Adjusted diluted EPS was $0.77 versus $0.60. It raised 2026 sales guidance to $580-$590 million from $565-$585 million and adjusted EPS guidance to $2.78-$2.88 from $2.55-$2.70.",
+      "source_name": "CTS Q3 2026 earnings release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388903/0/en/cts-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:CTS",
+      "checked": "2026-10-27T16:57:10Z"
+    },
+    {
+      "id": "2026-10-27-ssd-q3",
+      "time": "2026-10-27T17:39:10Z",
+      "tag": "EARNINGS",
+      "headline": "Simpson Manufacturing Q3 net sales $638.1M vs $623.5M; EPS $2.68",
+      "take": "Simpson Manufacturing reported Q3 2026 net sales of $638.1 million, up 2.3% from $623.5 million, and diluted EPS of $2.68 versus $2.58. Net income was $109.1 million versus $107.4 million, and adjusted EBITDA was $167.2 million versus $155.7 million. The company estimates 2026 consolidated operating margin of 20.0% to 20.5%, including a projected $11.0 million land-sale gain now expected in Q4.",
+      "source_name": "Simpson Manufacturing Q3 2026 earnings release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-third-quarter-financial-results-and-updates-2026-guidance-302918800.html",
+      "ticker": "NYSE:SSD",
+      "checked": "2026-10-27T16:57:10Z"
+    },
     {
       "id": "2026-10-27-thff-q3",
       "time": "2026-10-27T14:50:42Z",
@@ -5251,69 +5315,6 @@
       "source_name": "Recursion Pharmaceuticals Form 8-K (SEC EDGAR)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm",
       "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-15-euro-dollar-h10",
-      "time": "2026-10-15T18:20:00Z",
-      "tag": "FX",
-      "headline": "Euro slips to $1.1193 on Oct. 9 as the Fed's broad dollar index firms",
-      "take": "Federal Reserve H.10 data on FRED put the euro at $1.1193 on Oct. 9, down from $1.1262 on Oct. 6, while the Fed's nominal broad dollar index rose to 121.60 from 120.90 over the same days. Both series were last updated Oct. 13. With the 10-year Treasury yield at 5.21% on Oct. 13 per FRED, rate differentials remain a support for the dollar against the euro for now.",
-      "source_name": "Federal Reserve H.10 via FRED (DEXUSEU, DTWEXBGS)",
-      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
-      "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-14-berkshire-bending-spoons-placement",
-      "tag": "DEALS",
-      "ticker": "NASDAQ:BSP",
-      "headline": "Berkshire Hathaway to buy $330M of new Bending Spoons shares, lifting stake to 4%",
-      "take": "Bending Spoons will issue 10 million new ordinary shares to Berkshire Hathaway at $33.00 per share, a $330 million private placement subject to customary closing conditions, after Berkshire invested $600 million at the July 2026 IPO. Berkshire's total ownership rises to 4%. The company framed the cash as added flexibility for acquisitions, which makes this fuel for its roll-up strategy as much as a vote of confidence.",
-      "source_name": "Bending Spoons press release",
-      "source_url": "https://investors.bendingspoons.com/newsroom/berkshire-hathaway-invests-further-in-bending-spoons",
-      "time": "2026-10-15T17:44:00Z",
-      "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-13-icon-series-d",
-      "tag": "DEALS",
-      "headline": "ICON raises $200M Series D co-led by Baillie Gifford and BlackRock funds",
-      "take": "ICON raised a $200 million Series D co-led by Baillie Gifford and funds managed by BlackRock, with Tiger Global and Norwest among participants. The 3D-printed construction company says it is on pace for 4x revenue growth in 2026, has built more than 270 homes and structures, and its ICON Prime unit has received more than $370 million in government contracts. Crossover leads point to a company being set up for a later public listing.",
-      "source_name": "ICON press release",
-      "source_url": "https://www.iconbuild.com/newsroom/icon-raises-seriesd",
-      "time": "2026-10-15T17:52:00Z",
-      "correction": "Corrected '270 printed buildings' to 'more than 270 homes and structures' and attributed the $370 million in government contracts to ICON Prime, per the release.",
-      "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-13-souffle-series-b",
-      "tag": "DEALS",
-      "headline": "Soufflé Therapeutics closes $135M Series B led by Juvia Group",
-      "take": "Soufflé Therapeutics closed an oversubscribed $135 million Series B led by Juvia Group, adding TCG Crossover, BB Biotech, Fidelity and Balyasny as new investors. Proceeds fund first clinical studies in FSHD, heart failure and a muscle and metabolic program. Crossover participation at Series B usually signals an eventual IPO path once clinical data arrive.",
-      "source_name": "Soufflé Therapeutics press release",
-      "source_url": "https://www.souffletx.com/news/press-releases/101326/",
-      "time": "2026-10-15T17:59:00Z",
-      "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-15-fmc-q3-guidance-cut",
-      "time": "2026-10-15T17:20:55Z",
-      "tag": "EQUITIES",
-      "headline": "FMC cuts Q3 revenue view to $65M–$125M on price cuts to channel inventory",
-      "take": "FMC now expects third-quarter revenue of $65 million to $125 million and adjusted EBITDA of negative $565 million to negative $510 million, versus July guidance of $840 million to $900 million (ex-India) and $120 million to $140 million. The cut includes a $625 million to $675 million hit from lowering prices on FMC products held by channel customers in Brazil, Argentina, the U.S. and Canada, and the company flagged a possible material non-cash intangible impairment. This is a deliberate reset of the channel to post-patent, generic-era pricing, and the covenant talks it plans with banks make the balance sheet the next thing to watch.",
-      "source_name": "FMC Corp. 8-K, Exhibit 99.1 (Oct. 15, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000037785/000003778526000149/ex99110152026.htm",
-      "ticker": "NYSE:FMC",
-      "checked": "2026-10-15T17:51:00Z"
-    },
-    {
-      "id": "2026-10-15-empire-oct-25-5",
-      "time": "2026-10-15T17:24:55Z",
-      "tag": "MACRO",
-      "headline": "Empire State factory index jumps to 25.5 in October from 7.6",
-      "take": "The New York Fed's general business conditions index rose 17.9 points to 25.5 in October, and new orders climbed to 23.2 from 2.0. Prices paid eased to 59.5 from 63.1, while the six-month outlook index fell to 21.0 from 29.0. Current activity is strong but firms are less upbeat about the months ahead, and input-price pressure remains elevated even after the slight dip.",
-      "source_name": "Federal Reserve Bank of New York, Empire State Manufacturing Survey via FRED (GACDISA066MSFRBNY)",
-      "source_url": "https://fred.stlouisfed.org/data/GACDISA066MSFRBNY",
-      "checked": "2026-10-15T17:51:00Z"
     }
   ]
 }
