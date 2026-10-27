@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-26T23:44:00Z",
+  "updated": "2026-10-27T02:44:06Z",
   "items": [
+    {
+      "id": "2026-10-27-acuity-parameter",
+      "time": "2026-10-27T02:50:00Z",
+      "tag": "DEALS",
+      "ticker": "NYSE:AYI",
+      "headline": "Acuity agrees to acquire Parameter Technologies for $675M purchase price",
+      "take": "Acuity Inc. announced an agreement to acquire Parameter Technologies, which operates the RLE Technologies and CellWatch brands, at a stated purchase price of $675 million. Acuity said it will fund the deal with $500 million of borrowings plus balance-sheet cash, with closing expected in the second quarter of fiscal 2027 subject to customary conditions including the HSR waiting period. The release does not say whether the price includes earnouts or debt, so the headline figure should be read as stated.",
+      "source_name": "Acuity Inc. press release (Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388087/28689/en/acuity-announces-agreement-to-acquire-parameter-technologies.html",
+      "checked": "2026-10-27T02:44:06Z"
+    },
+    {
+      "id": "2026-10-27-truelink-jci-intrusion",
+      "time": "2026-10-27T03:05:00Z",
+      "tag": "DEALS",
+      "ticker": "NYSE:JCI",
+      "headline": "Truelink Capital to acquire Johnson Controls' global intrusion products business",
+      "take": "Truelink Capital signed a definitive agreement to acquire Johnson Controls' global intrusion products business, whose brands include DSC, Qolsys, PowerG, Visonic, Bentel and Sur-Gard. Financial terms were not disclosed, and closing is expected in the first half of calendar 2027, subject to customary conditions and regulatory approvals. Truelink's 2024 purchase of Air Distribution Technologies was also a Johnson Controls carve-out.",
+      "source_name": "Truelink Capital press release (Oct. 26, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/truelink-capital-signs-definitive-agreement-to-acquire-johnson-controls-global-intrusion-products-business-302919844.html",
+      "checked": "2026-10-27T02:44:06Z"
+    },
+    {
+      "id": "2026-10-27-boc-oct28-mpr",
+      "time": "2026-10-27T03:20:00Z",
+      "tag": "GLOBAL",
+      "headline": "Bank of Canada sets Oct. 28 rate announcement, with Monetary Policy Report",
+      "take": "The Bank of Canada's published 2026 schedule lists a policy rate announcement on Oct. 28 at 9:45 a.m. ET. The October announcement is published concurrently with the Monetary Policy Report, as are those in January, April and July. It arrives the same day the Fed's FOMC meeting concludes.",
+      "source_name": "Bank of Canada 2026 schedule",
+      "source_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+      "checked": "2026-10-27T02:44:06Z"
+    },
     {
       "id": "2026-10-26-amkor-q3",
       "time": "2026-10-26T23:46:00Z",
@@ -5277,38 +5309,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
       "time": "2026-10-15T11:30:05Z",
       "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-15-bny-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:BK",
-      "headline": "BNY Q3 EPS rises 24% to $2.34; custody and administration assets hit $63.4T",
-      "take": "BNY reported third-quarter revenue of $5.68 billion, up 12%, and diluted EPS of $2.34 versus $1.88, with fee revenue up 12% to $4.08 billion and net interest income up 15% to $1.42 billion. Assets under custody and/or administration reached $63.4 trillion, and the bank returned $1.4 billion to shareholders. A 38.5% pre-tax margin and 29.0% return on tangible common equity show operating leverage in the custody model, extending the pattern State Street showed a day earlier.",
-      "source_name": "BNY 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001390777/000139077726000104/ex991_earningsreleasex3q26.htm",
-      "time": "2026-10-15T11:34:05Z",
-      "checked": "2026-10-15T17:51:00Z"
-    },
-    {
-      "id": "2026-10-15-usb-credit-card-provision",
-      "tag": "CREDIT",
-      "ticker": "NYSE:USB",
-      "headline": "U.S. Bancorp provision rises to $654M, including $135M for an acquired card book",
-      "take": "U.S. Bancorp's third-quarter provision for credit losses was $654 million versus $571 million a year earlier, including a $135 million initial provision tied to loans acquired in its small business credit card portfolio purchase. The net charge-off ratio improved to 0.51% from 0.56%. Stripping out the purchase accounting, underlying loss content looks stable rather than deteriorating, which matters more for credit sentiment than the headline provision.",
-      "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
-      "time": "2026-10-15T11:38:05Z",
-      "checked": "2026-10-15T17:51:00Z"
-    },
-    {
-      "id": "2026-10-15-waller-sep-signal",
-      "tag": "FED",
-      "headline": "Waller: policy to focus on the inflation side 'for at least the near term'",
-      "take": "In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, and that 16 of the 18 participants who submitted dots anticipated at least one more hike; he said the hikes do not need to come at consecutive meetings. He cited a 3% 12-month core PCE inflation rate. The framing keeps an October move live but signals the committee would rather pace tightening than pre-commit, which leaves incoming data such as the Beige Book's energy pass-through doing the deciding.",
-      "source_name": "Federal Reserve, Governor Waller speech, Oct. 8, 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-      "time": "2026-10-15T11:43:05Z",
-      "checked": "2026-10-15T12:54:47Z"
     }
   ]
 }

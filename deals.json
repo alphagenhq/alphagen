@@ -1,6 +1,44 @@
 {
-  "updated": "2026-10-26T14:58:24Z",
+  "updated": "2026-10-27T02:44:06Z",
   "items": [
+    {
+      "id": "2026-10-26-acuity-parameter",
+      "time": "2026-10-27T02:44:06Z",
+      "type": "M&A",
+      "headline": "Acuity to acquire Parameter Technologies for $675M purchase price",
+      "parties": "Acquirer: Acuity Inc.; Target: Parameter Technologies",
+      "value": 0.675,
+      "value_text": "$675M purchase price",
+      "status": "Announced",
+      "announced": "2026-10-26",
+      "sector": "Industrial technology",
+      "take": "Acuity agreed to buy Parameter Technologies (RLE Technologies and CellWatch brands), which provides leak detection and environmental and battery monitoring for data centers and critical infrastructure. It will fund the deal with $500 million of borrowings and balance-sheet cash; closing is expected in Q2 of fiscal 2027, subject to HSR.",
+      "source_name": "Acuity Inc. press release (Oct. 26, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388087/28689/en/acuity-announces-agreement-to-acquire-parameter-technologies.html",
+      "tickers": [
+        "NYSE:AYI"
+      ],
+      "checked": "2026-10-27T02:44:06Z"
+    },
+    {
+      "id": "2026-10-26-truelink-jci-intrusion",
+      "time": "2026-10-27T02:44:06Z",
+      "type": "PE",
+      "headline": "Truelink Capital to acquire Johnson Controls' global intrusion products business",
+      "parties": "Acquirer: Truelink Capital; Seller: Johnson Controls; Target: Global intrusion products business",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-26",
+      "sector": "Security products",
+      "take": "Truelink Capital signed a definitive agreement for the business behind the DSC, Qolsys, PowerG, Visonic, Bentel and Sur-Gard brands; financial terms were not disclosed. Closing is expected in the first half of calendar 2027, and the business is to operate as a standalone company.",
+      "source_name": "Truelink Capital press release (Oct. 26, 2026)",
+      "source_url": "https://www.prnewswire.com/news-releases/truelink-capital-signs-definitive-agreement-to-acquire-johnson-controls-global-intrusion-products-business-302919844.html",
+      "tickers": [
+        "NYSE:JCI"
+      ],
+      "checked": "2026-10-27T02:44:06Z"
+    },
     {
       "id": "2026-10-26-umios-high-liner",
       "type": "M&A",
