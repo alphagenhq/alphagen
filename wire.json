@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-27T18:49:51Z",
+  "updated": "2026-10-27T20:01:17Z",
   "items": [
+    {
+      "id": "2026-10-27-ko-q3",
+      "tag": "EARNINGS",
+      "headline": "Coca-Cola Q3 revenue $13,380M vs $12,455M; GAAP EPS $0.93 vs $0.86",
+      "take": "Coca-Cola reported Q3 2026 net operating revenues of $13,380 million versus $12,455 million a year earlier, up 7%, with organic revenue growth of 7% and unit case volume up 5%. GAAP diluted EPS was $0.93 versus $0.86, and comparable EPS was $0.91, up 11%. Volume and pricing both appear to be supporting the top line, though the release leads with organic growth.",
+      "source_name": "Coca-Cola Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-067403/a2026q3earningsreleaseex-9.htm",
+      "ticker": "NYSE:KO",
+      "time": "2026-10-27T20:04:17Z",
+      "checked": "2026-10-27T20:01:17Z"
+    },
+    {
+      "id": "2026-10-27-ko-outlook",
+      "tag": "EQUITIES",
+      "headline": "Coca-Cola lifts 2026 outlook: comparable EPS growth at least 11%, FCF at least $13.0B",
+      "take": "Coca-Cola now expects 2026 organic revenue growth of at least 5% (prior: approximately 5%) and comparable EPS growth of at least 11% (prior: 9% to 10%). Free cash flow is now expected to be at least $13.0 billion versus approximately $12.4 billion previously, with an underlying effective tax rate of 19.7%. Each of the four targets was revised in the favorable direction.",
+      "source_name": "Coca-Cola Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-067403/a2026q3earningsreleaseex-9.htm",
+      "ticker": "NYSE:KO",
+      "time": "2026-10-27T20:12:17Z",
+      "checked": "2026-10-27T20:01:17Z"
+    },
+    {
+      "id": "2026-10-27-iqv-q3",
+      "tag": "EARNINGS",
+      "headline": "IQVIA Q3 revenue $4,428M vs $4,100M; adj. EPS $3.34 vs $3.00; guide raised",
+      "take": "IQVIA reported Q3 2026 revenue of $4,428 million versus $4,100 million, up 8.0%, with GAAP diluted EPS of $2.10 versus $1.93 and adjusted diluted EPS of $3.34 versus $3.00. Net new bookings were $3.2 billion, a 1.2x book-to-bill, and full-year 2026 guidance is now revenue of $17,350 million to $17,500 million and adjusted EPS of $12.90 to $13.00. R&DS contracted backlog stood at $32.6 billion after an approximately $2.1 billion adjustment for inactive trials, a reminder that bookings strength and backlog quality are separate questions.",
+      "source_name": "IQVIA Q3 2026 earnings release (8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001478242/000162828026067406/iqv-q3x2026earningspressre.htm",
+      "ticker": "NYSE:IQV",
+      "time": "2026-10-27T20:20:17Z",
+      "checked": "2026-10-27T20:01:17Z"
+    },
+    {
+      "id": "2026-10-27-sofi-q3",
+      "tag": "EARNINGS",
+      "headline": "SoFi Q3 net revenue $1,385M vs $962M; net income $241M; members 17.1M",
+      "take": "SoFi reported Q3 2026 total net revenue of $1,385.1 million versus $961.6 million a year earlier, up 44%, with GAAP net income of $241.0 million versus $139.4 million and diluted EPS of $0.18 versus $0.11. Members reached 17.1 million versus 12.6 million, and products reached nearly 26.7 million versus 18.6 million. Member and product growth ran at 35% and 44%, respectively.",
+      "source_name": "SoFi Technologies Q3 2026 earnings release",
+      "source_url": "https://investors.sofi.com/news/news-details/2026/SoFi-Reports-Third-Quarter-2026-with-Record-Net-Revenue-of-1-4-Billion-Net-Income-of-241-Million-and-Raises-Full-Year-Guidance/default.aspx",
+      "ticker": "NASDAQ:SOFI",
+      "time": "2026-10-27T20:28:17Z",
+      "checked": "2026-10-27T20:01:17Z"
+    },
+    {
+      "id": "2026-10-27-sofi-guide",
+      "tag": "EQUITIES",
+      "headline": "SoFi raises 2026 view: adj. net revenue about $5.04B, net income about $840M",
+      "take": "SoFi's raised 2026 guidance calls for adjusted net revenue of approximately $5.04 billion, net income of approximately $840 million, and EPS of approximately $0.61. Management continues to expect total members to rise by at least 30% year over year. Q3 adjusted net revenue was $1,371 million.",
+      "source_name": "SoFi Technologies Q3 2026 earnings release",
+      "source_url": "https://investors.sofi.com/news/news-details/2026/SoFi-Reports-Third-Quarter-2026-with-Record-Net-Revenue-of-1-4-Billion-Net-Income-of-241-Million-and-Raises-Full-Year-Guidance/default.aspx",
+      "ticker": "NASDAQ:SOFI",
+      "time": "2026-10-27T20:36:17Z",
+      "checked": "2026-10-27T20:01:17Z"
+    },
+    {
+      "id": "2026-10-27-nvs-q3",
+      "tag": "EARNINGS",
+      "headline": "Novartis Q3 net sales $14,522M vs $13,909M; core EPS $2.46; raises core op income view",
+      "take": "Novartis reported Q3 2026 net sales of $14,522 million versus $13,909 million, up 4% in both USD and constant currencies, and core operating income of $6,036 million, up 11%. Core EPS was $2.46 versus $2.25, while IFRS net income was $1,196 million versus $3,930 million and EPS $0.63 versus $2.04. Full-year core operating income is now expected to be in line to grow low single digit in constant currencies, versus a low single-digit decline previously; the gap between IFRS and core results is large this quarter and worth reading in the release's reconciliation.",
+      "source_name": "Novartis Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388691/0/en/novartis-delivered-sales-growth-and-core-margin-expansion-in-q3-raised-fy-core-operating-income-guidance.html",
+      "ticker": "NYSE:NVS",
+      "time": "2026-10-27T20:44:17Z",
+      "checked": "2026-10-27T20:01:17Z"
+    },
     {
       "id": "2026-10-27-rcl-q3",
       "tag": "EARNINGS",
@@ -5251,70 +5317,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
       "ticker": "NASDAQ:IBKR",
       "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-15-jbht-q3",
-      "time": "2026-10-15T21:20:10Z",
-      "tag": "EARNINGS",
-      "headline": "J.B. Hunt Q3 revenue rises 20% to $3.68B; diluted EPS $1.82 vs $1.76",
-      "take": "J.B. Hunt reported Q3 operating revenues of $3.68 billion versus $3.05 billion a year earlier, operating income of $247.1 million versus $242.7 million and diluted EPS of $1.82 versus $1.76. Intermodal revenue rose 20% to $1.83 billion while Dedicated operating income fell 22% to $81.7 million. Revenue grew about ten times faster than operating income, so the quarter is a volume story with margins still squeezed.",
-      "source_name": "J.B. Hunt 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm",
-      "ticker": "NASDAQ:JBHT",
-      "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-15-aa-q3",
-      "time": "2026-10-15T21:26:10Z",
-      "tag": "EARNINGS",
-      "headline": "Alcoa Q3 net income rises to $483M, or $1.81 a share; revenue $3.70B",
-      "take": "Alcoa reported Q3 revenue of $3,704 million versus $3,966 million in Q2 and $2,995 million a year earlier, with net income attributable to Alcoa of $483 million, or $1.81 a diluted share, versus $232 million, or $0.88, a year ago. Adjusted EBITDA excluding special items was $789 million, down from $901 million in Q2, and free cash flow was $472 million. The year-over-year gain is large, but the sequential dip in revenue and adjusted EBITDA shows the quarter came off a stronger Q2.",
-      "source_name": "Alcoa 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm",
-      "ticker": "NYSE:AA",
-      "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-15-h15-10y-519",
-      "time": "2026-10-15T21:32:10Z",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield eases to 5.19% on Oct. 14; 2s10s narrows to 37 bp",
-      "take": "The Fed's H.15 release shows the 10-year constant-maturity Treasury yield at 5.19% on October 14, down from 5.21% on October 13, while the 2-year rose to 4.82% from 4.79%; the 30-year slipped to 5.52% from 5.56%. That narrows the 2-year/10-year spread to 37 basis points from 42. Front-end yields rising as the long end eases is the pattern of a market leaning toward more Fed tightening rather than toward a growth scare.",
-      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
-      "source_url": "https://federalreserve.gov/releases/h15/",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-h15-tips-284",
-      "time": "2026-10-15T21:38:10Z",
-      "tag": "RATES",
-      "headline": "10-year TIPS real yield dips to 2.84%, leaving a 2.35% breakeven",
-      "take": "Per the Fed's H.15, the 10-year inflation-indexed yield fell to 2.84% on October 14 from 2.88% on October 13, against a 5.19% nominal 10-year. That puts the implied 10-year breakeven at 2.35%, up from 2.33% a day earlier. Real yields doing most of the easing while breakevens edge up suggests investors are still adding inflation compensation after this week's price data.",
-      "source_name": "Federal Reserve, H.15 Selected Interest Rates",
-      "source_url": "https://federalreserve.gov/releases/h15/",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-ibkr-margin-loans",
-      "time": "2026-10-15T21:44:10Z",
-      "tag": "CREDIT",
-      "headline": "Interactive Brokers margin loans up 36% to $105.2B; customer credits $186.2B",
-      "take": "Interactive Brokers said customer margin loans increased 36% to $105.2 billion and customer credits rose 20% to $186.2 billion in the third quarter, while customer equity grew 27% to $964.7 billion. Margin borrowing growing faster than client equity is a measure of rising leverage among retail and active traders, a balance worth watching if volatility picks up.",
-      "source_name": "Interactive Brokers 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
-      "ticker": "NASDAQ:IBKR",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-jbht-intermodal-loads",
-      "time": "2026-10-15T21:50:10Z",
-      "tag": "EQUITIES",
-      "headline": "J.B. Hunt intermodal loads rise 8% to 585,582 in Q3",
-      "take": "J.B. Hunt's intermodal segment handled 585,582 loads in Q3 versus 539,907 a year earlier, and segment operating income rose 18% to $147.5 million; Integrated Capacity Solutions revenue jumped 57% to $434 million. Rail-intermodal volume growing at a high-single-digit pace is a constructive read on U.S. goods shipping, even as diesel costs pressure trucking margins.",
-      "source_name": "J.B. Hunt 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm",
-      "ticker": "NASDAQ:JBHT",
-      "checked": "2026-10-15T22:38:47Z"
     }
   ]
 }
