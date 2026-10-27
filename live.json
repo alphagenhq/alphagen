@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-27T13:36:42Z",
+ "updated": "2026-10-27T20:35:08Z",
  "items": [
+  {
+   "id": "live-0001039684-26-000036-2.02",
+   "time": "2026-10-27T20:27:53Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Oneok Inc /New/ releases financial results",
+   "take": "Oneok Inc /New/ filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:27 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, OKE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1039684/000103968426000036/0001039684-26-000036-index.htm",
+   "ticker": "NYSE:OKE"
+  },
+  {
+   "id": "live-0001413447-26-000057-2.02",
+   "time": "2026-10-27T20:23:37Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "NXP Semiconductors releases financial results",
+   "take": "NXP Semiconductors filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:23 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NXPI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/0001413447-26-000057-index.htm",
+   "ticker": "NASDAQ:NXPI"
+  },
+  {
+   "id": "live-0000079879-26-000315-2.02",
+   "time": "2026-10-27T20:22:56Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "PPG Industries releases financial results",
+   "take": "PPG Industries filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:22 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PPG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/79879/000007987926000315/0000079879-26-000315-index.htm",
+   "ticker": "NYSE:PPG"
+  },
+  {
+   "id": "live-0001091667-26-000064-5.02",
+   "time": "2026-10-27T20:16:44Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Charter Communications reports an executive or board change",
+   "take": "Charter Communications reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:16 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CHTR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000064/0001091667-26-000064-index.htm",
+   "ticker": "NASDAQ:CHTR"
+  },
+  {
+   "id": "live-0001628280-26-067590-2.02",
+   "time": "2026-10-27T20:16:03Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "LPL Financial releases financial results",
+   "take": "LPL Financial filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:16 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LPLA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1397911/000162828026067590/0001628280-26-067590-index.htm",
+   "ticker": "NASDAQ:LPLA"
+  },
+  {
+   "id": "live-0001783879-26-000164-2.02",
+   "time": "2026-10-27T20:06:05Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Robinhood Markets releases financial results",
+   "take": "Robinhood Markets filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:06 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HOOD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000164/0001783879-26-000164-index.htm",
+   "ticker": "NASDAQ:HOOD"
+  },
+  {
+   "id": "live-0001403161-26-000126-2.02",
+   "time": "2026-10-27T20:05:22Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Visa releases financial results",
+   "take": "Visa filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:05 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, V Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000126/0001403161-26-000126-index.htm",
+   "ticker": "NYSE:V"
+  },
   {
    "id": "live-0000049826-26-000057-2.02",
    "time": "2026-10-27T13:20:19Z",
