@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-27T12:06:24Z",
+ "updated": "2026-10-27T13:03:15Z",
  "items": [
+  {
+   "id": "2026-10-27-backlog-cash",
+   "time": "2026-10-27T13:03:15Z",
+   "tag": "EQUITIES",
+   "title": "Backlog vs. cash: record orders at Boeing, a lower cash outlook at Celestica",
+   "dek": "Order books are growing at several companies that reported this week, but free cash flow and guidance are telling different stories.",
+   "key_points": [
+    "Boeing: total backlog $745.4B at Sept. 30; Q3 free cash flow $464M and operating cash flow $1,496M versus $1,123M.",
+    "Itron: backlog $4.3B and Q3 bookings $482M on revenue of $599.3M.",
+    "Celestica: 2026 revenue outlook raised to $21.0B from $20.5B, free cash flow outlook cut to $460M from $600M.",
+    "Centene: adjusted EPS guidance raised to greater than $5.20 while at-risk membership fell to 25,698,200 from 27,968,100."
+   ],
+   "body": [
+    "Backlog is the number companies cite when they want to describe future demand, and cash flow is the number that shows what the business keeps in the meantime. Several reports on Oct. 26-27 put the two side by side.",
+    "Boeing is the largest example. Its total backlog was $745.4 billion at Sept. 30, of which Commercial Airplanes was $611.8 billion, yet third-quarter free cash flow was $464 million on revenue of $24,188 million. Operating cash flow was $1,496 million versus $1,123 million a year earlier. The backlog is roughly 31 times a single quarter of revenue, which shows how long the delivery schedule is.",
+    {
+     "h": "Backlog builds at other companies"
+    },
+    "Itron reported backlog of $4.3 billion against quarterly revenue of $599.3 million, with Q3 bookings of $482 million. Hubbell did not give a backlog figure but said backlog continued to build, alongside net sales of $1,872.5 million versus $1,502.4 million and a raised adjusted EPS outlook of $20.40 to $20.60.",
+    {
+     "h": "Growth does not always mean more cash"
+    },
+    "Celestica shows the other side. Q3 revenue was $5,829.7 million versus $3,194.0 million, and it raised its 2026 revenue outlook to $21.0 billion from $20.5 billion. But it cut its free cash flow outlook to $460 million from $600 million. Faster growth can absorb cash before it returns it, and the two guidance lines moved in opposite directions in the same release.",
+    "Centene gives a different version: it raised adjusted diluted EPS guidance to greater than $5.20, while at-risk membership was 25,698,200 versus 27,968,100 a year ago. Earnings guidance and the size of the book do not have to move together.",
+    {
+     "h": "What to watch"
+    },
+    "The practical read for investors is to pair every backlog or guidance headline with the cash flow line from the same release, and to check which earnings measure, GAAP or adjusted, is being cited. A large backlog describes orders placed, not profit or cash received, and the timing of deliveries decides when it converts. The Federal Reserve decision on Wednesday is the next scheduled event that can affect how markets value that timing."
+   ],
+   "sources": [
+    {
+     "name": "Boeing Form 8-K Ex. 99.1 (Q3 2026)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm"
+    },
+    {
+     "name": "Itron press release via GlobeNewswire (Oct. 27, 2026)",
+     "url": "https://www.globenewswire.com/news-release/2026/10/27/3388994/0/en/itron-announces-third-quarter-2026-financial-results.html"
+    },
+    {
+     "name": "Hubbell Form 8-K Ex. 99.1 (Oct. 27, 2026)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000048898/000162828026067421/exhibit991_10272026.htm"
+    },
+    {
+     "name": "Celestica Form 8-K Ex. 99.1 (Q3 2026)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm"
+    },
+    {
+     "name": "Centene press release (Oct. 27, 2026)",
+     "url": "https://investors.centene.com/2026-10-27-CENTENE-CORPORATION-REPORTS-THIRD-QUARTER-2026-RESULTS"
+    }
+   ],
+   "tickers": [
+    "NYSE:BA",
+    "NASDAQ:ITRI",
+    "NYSE:HUBB",
+    "NYSE:CLS",
+    "NYSE:CNC"
+   ],
+   "checked": "2026-10-27T13:03:15Z"
+  },
   {
    "id": "2026-10-27-morning-brief",
    "time": "2026-10-27T12:06:24Z",
@@ -714,7 +774,7 @@
     "Interactive Brokers earned $0.69 a diluted share versus $0.59 on net revenues of $1.91 billion, with net interest income up 19% to $1.15 billion; the dividend rises to $0.15.",
     "J.B. Hunt's revenue rose 20% to $3.68 billion, but operating income rose only to $247.1 million from $242.7 million.",
     "Alcoa's net income attributable to the company rose to $483 million from $232 million a year earlier, though revenue fell from Q2 to $3,704 million.",
-    "TSMC guided Q4 revenue to US$52.3 billion–$54.3 billion after Q3 revenue of US$46.72 billion.",
+    "TSMC guided Q4 revenue to US$52.3 billion\u2013$54.3 billion after Q3 revenue of US$46.72 billion.",
     "Per the Fed's H.15, the 10-year yield was 5.19% on October 14 and the 2-year 4.82%, a 37-basis-point spread."
    ],
    "body": [
@@ -774,8 +834,8 @@
    "title": "Crop protection's reset: FMC reprices the channel as Corteva fights in court",
    "dek": "FMC's guidance cut and Corteva's legal fight over its split show the crop-input business working through price deflation and governance risk at the same time.",
    "key_points": [
-    "FMC now guides Q3 revenue to $65 million–$125 million and adjusted EBITDA to negative $565 million–$510 million, versus July guidance of $840 million–$900 million and $120 million–$140 million.",
-    "The cut includes a $625 million–$675 million impact from lowering prices on FMC products held by channel customers in Brazil, Argentina, the U.S. and Canada.",
+    "FMC now guides Q3 revenue to $65 million\u2013$125 million and adjusted EBITDA to negative $565 million\u2013$510 million, versus July guidance of $840 million\u2013$900 million and $120 million\u2013$140 million.",
+    "The cut includes a $625 million\u2013$675 million impact from lowering prices on FMC products held by channel customers in Brazil, Argentina, the U.S. and Canada.",
     "FMC said a triggering event for intangible impairment testing occurred as of Sept. 30 and that it plans to discuss further covenant modifications with its bank group.",
     "Corteva disclosed a temporary restraining order, now stayed pending a Seventh Circuit motion, that would bar dividends and buybacks after its Oct. 1 separation from Vylor."
    ],
@@ -824,7 +884,7 @@
    "dek": "UnitedHealth, Prologis and ManpowerGroup add non-financial evidence to a week dominated by bank results and an energy-driven inflation shock.",
    "key_points": [
     "UnitedHealth Q3 adjusted EPS rose to $4.69 from $2.92 as its medical care ratio fell to 88.4% from 89.9%, even as revenues slipped to $112.69 billion.",
-    "Prologis lifted the midpoint of 2026 core FFO guidance to $6.25–$6.29 after signing 60 million square feet of leases at 95.1% average occupancy.",
+    "Prologis lifted the midpoint of 2026 core FFO guidance to $6.25\u2013$6.29 after signing 60 million square feet of leases at 95.1% average occupancy.",
     "ManpowerGroup revenue grew 5.2% in constant currency to $4.84 billion, and management cited improving demand.",
     "Initial jobless claims were 199,000 in the week ending Oct. 10, with the four-week average at 198,500."
    ],
@@ -837,11 +897,11 @@
     {
      "h": "Logistics: lean inventories, cleared slack"
     },
-    "Prologis reported core FFO of $1.60 per share versus $1.49 and total revenues of $2.388 billion versus $2.214 billion. Average occupancy was 95.1% and period-end occupancy 95.6%, and net effective rent change on its share of leases was 38.0%. CEO Daniel S. Letter said customers \"are running lean on inventory, and excess capacity within their networks has largely cleared.\" Core FFO guidance moved to $6.25–$6.29 from $6.22–$6.30, while the net EPS range was cut to $4.05–$4.15. Lean inventories with little spare space is a configuration where any restocking shows up quickly in leasing.",
+    "Prologis reported core FFO of $1.60 per share versus $1.49 and total revenues of $2.388 billion versus $2.214 billion. Average occupancy was 95.1% and period-end occupancy 95.6%, and net effective rent change on its share of leases was 38.0%. CEO Daniel S. Letter said customers \"are running lean on inventory, and excess capacity within their networks has largely cleared.\" Core FFO guidance moved to $6.25\u2013$6.29 from $6.22\u2013$6.30, while the net EPS range was cut to $4.05\u2013$4.15. Lean inventories with little spare space is a configuration where any restocking shows up quickly in leasing.",
     {
      "h": "Labor: still tight at the margin"
     },
-    "ManpowerGroup reported Q3 revenues of $4.84 billion versus $4.63 billion, up 5.2% in constant currency, and guided Q4 diluted EPS to $1.03–$1.13. Staffing demand tends to turn before payrolls do, so growth here is a useful counterpoint to fears that energy costs are already forcing cuts. Thursday's claims report fits: initial claims of 199,000 and insured unemployment of 1.71 million show few layoffs.",
+    "ManpowerGroup reported Q3 revenues of $4.84 billion versus $4.63 billion, up 5.2% in constant currency, and guided Q4 diluted EPS to $1.03\u2013$1.13. Staffing demand tends to turn before payrolls do, so growth here is a useful counterpoint to fears that energy costs are already forcing cuts. Thursday's claims report fits: initial claims of 199,000 and insured unemployment of 1.71 million show few layoffs.",
     {
      "h": "What it means"
     },
@@ -1023,8 +1083,8 @@
     "Two of 12 Districts reported moderate growth, three modest, four slight and three no significant change, per the October Beige Book (information through Oct. 5).",
     "\"Higher oil prices permeated all District reports\"; four Districts said price increases accelerated, three called price growth robust and eight moderate.",
     "Most Districts saw little or no change in consumer spending, and over half said it was driven by high-income households.",
-    "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%–4%, but hikes need not come at consecutive meetings.",
-    "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%–4.50%."
+    "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%\u20134%, but hikes need not come at consecutive meetings.",
+    "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%\u20134.50%."
    ],
    "body": [
     "The Fed's October Beige Book, compiled by the Philadelphia Fed from information collected on or before Oct. 5, describes an economy that is barely growing while its cost base is rising. Two of the 12 Districts reported moderate growth, three modest growth, four slight growth and three no significant change.",
@@ -1039,11 +1099,11 @@
     {
      "h": "What the Fed is weighing"
     },
-    "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%–4.50%.",
+    "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%\u20134%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%\u20134.50%.",
     {
      "h": "The AlphaGen read"
     },
-    "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27–28 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
+    "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27\u201328 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
    ],
    "sources": [
     {
@@ -1183,7 +1243,7 @@
      "h": "Rates backdrop"
     },
     "The Fed's H.15 release shows the 10-year Treasury yield at 5.21% on October 13, down from 5.28% on October 7, and the 30-year at 5.56% from 5.67%. The 2-year held at 4.79% and the 3-month constant-maturity yield edged up to 4.26%, well above the 3.88% effective federal funds rate. The long end has eased while the front end has not, which keeps pressure on bank funding costs even as longer-dated borrowing rates get some relief.",
-    "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27–28."
+    "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27\u201328."
    ],
    "sources": [
     {
@@ -1284,7 +1344,7 @@
     "Headline CPI rose 0.6% in September after 0.4% in August; the 12-month rate is 3.7%.",
     "Gasoline rose 9.1% on the month and accounted for over half of the headline increase.",
     "Core CPI rose 0.3% on the month and 2.6% on the year. Energy is up 20.4% year over year.",
-    "The FOMC meets October 27–28, with the decision on the 28th."
+    "The FOMC meets October 27\u201328, with the decision on the 28th."
    ],
    "body": [
     "September's CPI report delivered a hot headline and a calm core. The Bureau of Labor Statistics reported that the all-items index rose 0.6% on a seasonally adjusted basis, after a 0.4% gain in August, lifting the 12-month rate to 3.7%.",
@@ -1302,7 +1362,7 @@
    ],
    "sources": [
     {
-     "name": "U.S. Bureau of Labor Statistics, Consumer Price Index – September 2026",
+     "name": "U.S. Bureau of Labor Statistics, Consumer Price Index \u2013 September 2026",
      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
     },
     {

@@ -1,89 +1,89 @@
 {
-  "updated": "2026-10-23T17:02:57Z",
-  "items": [
-    {
-      "id": "2026-10-23-AXP",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "AXP",
-      "name": "American Express",
-      "headline": "Raises 2026 EPS guidance after Q3 results",
-      "catalyst": "Q3 revenues net of interest expense were $20,062M versus $18,426M; diluted EPS was $5.42 versus $4.14 (adjusted $4.68) and 2026 EPS guidance is $18.30 to $18.60 ($17.60 to $17.90 adjusted).",
-      "thesis": "Billed business was $454.0B versus $421.0B, and the provision for credit losses was $1.0B versus $1.3B, which the release attributes to a reserve release this quarter against a reserve build last year. Reported EPS includes a GBTG gain, so adjusted EPS is the cleaner comparison.",
-      "source_name": "American Express Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm",
-      "checked": "2026-10-23T17:02:57Z"
-    },
-    {
-      "id": "2026-10-23-DHR",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "DHR",
-      "name": "Danaher",
-      "headline": "Raises 2026 adjusted EPS guidance after Q3 results",
-      "catalyst": "Q3 sales were $6,554M versus $6,053M with core sales growth of 3.0%; adjusted diluted EPS was $2.11 versus $1.89, and full-year adjusted EPS guidance is now $8.57 to $8.62 versus $8.45 to $8.60 before.",
-      "thesis": "Excluding respiratory testing, core growth was 5.5%, according to the release. Free cash flow was $1,632M versus $1,370M, so cash generation grew faster than core sales.",
-      "source_name": "Danaher Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm",
-      "checked": "2026-10-23T17:02:57Z"
-    },
-    {
-      "id": "2026-10-23-AAL",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "AAL",
-      "name": "American Airlines Group",
-      "headline": "Q3 loss widens as fuel expense climbs $1.9B; Q4 outlook issued",
-      "catalyst": "Q3 total operating revenues were $16,335M versus $13,691M, up 19.3%, but fuel expense was $4,635M versus $2,767M and the GAAP net loss was $269M versus $114M.",
-      "thesis": "The company guides a Q4 adjusted loss per share of $(1.10) to $(0.50) and a full-year loss of $(1.60) to $(1.00), assuming fuel of about $4.70 per gallon in Q4. Fuel is the variable the outlook leans on.",
-      "source_name": "American Airlines Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000006201/000000620126000064/a8kerexhibit991q3-26.htm",
-      "checked": "2026-10-23T17:02:57Z"
-    },
-    {
-      "id": "2026-10-23-DOW",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "DOW",
-      "name": "Dow Inc.",
-      "headline": "Operating EPS turns positive in Q3 as sales rise in all segments",
-      "catalyst": "Q3 net sales were $11,267M versus $9,973M; GAAP diluted EPS was $0.62 versus $0.08, and operating EPS was $0.71 versus a loss of $0.19.",
-      "thesis": "Cash from operations in continuing operations was $1,839M versus $1,130M. The release gives no Q4 guidance but says self-help actions are on track to deliver more than $1B of EBITDA uplift in both 2026 and 2027.",
-      "source_name": "Dow Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001751788/000175178826000155/exhibit991enrschedules3q26.htm",
-      "checked": "2026-10-23T17:02:57Z"
-    },
-    {
-      "id": "2026-10-23-SLB",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "SLB",
-      "name": "SLB",
-      "headline": "Q3 revenue grows while per-share earnings dip slightly",
-      "catalyst": "Q3 revenue was $9,449M versus $8,928M; GAAP diluted EPS was $0.49 versus $0.50 and EPS excluding charges and credits was $0.64 versus $0.69.",
-      "thesis": "North America revenue was $2,401M, up 24%, but that includes ChampionX and was up 13% excluding the acquisition. SLB repurchased 12.9M shares for $656M and still expects about $2.5B of 2026 capital investment.",
-      "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
-      "checked": "2026-10-23T17:02:57Z"
-    },
-    {
-      "id": "2026-10-23-GNTX",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "GNTX",
-      "name": "Gentex",
-      "headline": "Narrows 2026 revenue and gross margin outlook after Q3",
-      "catalyst": "Q3 net sales were $647.7M versus $655.2M and GAAP diluted EPS was $0.43 versus $0.46; 2026 revenue is now expected at approximately $2.65B versus $2.65B to $2.75B before.",
-      "thesis": "Gross margin guidance moved to 34.0% to 34.5% from 34.5% to 35.5%, and the company attributed lower Q3 margin to higher precious metal costs and lower-than-expected sales. The 2027 revenue outlook of $2.80B to $2.90B was maintained.",
-      "source_name": "Gentex Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html",
-      "checked": "2026-10-23T17:02:57Z"
-    },
-    {
-      "id": "2026-10-23-ZYME",
-      "time": "2026-10-23T17:02:57Z",
-      "ticker": "ZYME",
-      "name": "Zymeworks",
-      "headline": "Licenses ZW209 to Roche with $55M upfront",
-      "catalyst": "Zymeworks and Roche agreed a license for ZW209, a DLL3-targeting T cell engager, with $55M upfront, $40M on Phase 1b initiation and up to $718M in further milestones.",
-      "thesis": "Royalties are tiered from high-single-digit to mid-teen percentages, and Roche funds the Phase 1a trial. The agreement remains conditioned on the HSR Act waiting period expiring or terminating.",
-      "source_name": "Zymeworks press release (SEC Form 8-K, Oct. 23, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001937653/000193765326000055/finalpr.htm",
-      "checked": "2026-10-23T17:02:57Z"
-    }
-  ]
+ "updated": "2026-10-27T13:03:15Z",
+ "items": [
+  {
+   "id": "2026-10-27-CNC",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "CNC",
+   "name": "Centene",
+   "headline": "Raises 2026 EPS guidance after Q3 results",
+   "catalyst": "Q3 revenues were $50,647M versus $49,690M, adjusted diluted EPS $0.58 versus $0.50, and 2026 adjusted EPS guidance is now greater than $5.20, up $0.40.",
+   "thesis": "At-risk membership fell to 25,698,200 from 27,968,100 a year earlier, while the health benefits ratio was 92.7%, unchanged. Guidance rose on a smaller member base.",
+   "source_name": "Centene press release (Oct. 27, 2026)",
+   "source_url": "https://investors.centene.com/2026-10-27-CENTENE-CORPORATION-REPORTS-THIRD-QUARTER-2026-RESULTS",
+   "checked": "2026-10-27T13:03:15Z"
+  },
+  {
+   "id": "2026-10-27-DGX",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "DGX",
+   "name": "Quest Diagnostics",
+   "headline": "Raises 2026 revenue and EPS guidance",
+   "catalyst": "Q3 net revenues were $3,097M versus $2,816M; 2026 adjusted EPS guidance rose to $11.25-$11.35 from $11.05-$11.25.",
+   "thesis": "Reported diluted EPS was $2.78 versus $2.16 and revenue guidance moved to $12.065B-$12.105B from $11.95B-$12.05B.",
+   "source_name": "Quest Diagnostics Form 8-K Ex. 99.1 (Q3 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001022079/000102207926000097/dgx093020268-kex991.htm",
+   "checked": "2026-10-27T13:03:15Z"
+  },
+  {
+   "id": "2026-10-27-HUBB",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "HUBB",
+   "name": "Hubbell",
+   "headline": "Raises 2026 adjusted EPS outlook",
+   "catalyst": "Q3 net sales were $1,872.5M versus $1,502.4M and 2026 adjusted diluted EPS guidance is $20.40-$20.60.",
+   "thesis": "Adjusted diluted EPS was $5.91 versus $5.17, and the release says backlog continued to build in the quarter.",
+   "source_name": "Hubbell Form 8-K Ex. 99.1 (Oct. 27, 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000048898/000162828026067421/exhibit991_10272026.htm",
+   "checked": "2026-10-27T13:03:15Z"
+  },
+  {
+   "id": "2026-10-27-ROP",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "ROP",
+   "name": "Roper Technologies",
+   "headline": "Lifts full-year adjusted EPS guidance",
+   "catalyst": "Q3 adjusted DEPS was $5.89 versus $5.14; 2026 guidance is $22.35-$22.40 versus $22.15-$22.30 before.",
+   "thesis": "GAAP diluted EPS was $4.88 versus $3.68 on revenue of about $2.17 billion, and Q4 adjusted DEPS is guided at $5.95-$6.00.",
+   "source_name": "Roper Technologies Form 8-K earnings release (Q3 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000882835/000088283526000042/a2026q3earningsrelease.htm",
+   "checked": "2026-10-27T13:03:15Z"
+  },
+  {
+   "id": "2026-10-27-CLS",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "CLS",
+   "name": "Celestica",
+   "headline": "Raises revenue outlook but cuts free cash flow outlook",
+   "catalyst": "Q3 revenue was $5,829.7M versus $3,194.0M and 2026 revenue outlook is $21.0B (from $20.5B), adjusted EPS $11.55 (from $11.30).",
+   "thesis": "Free cash flow outlook was cut to $460M from $600M, so growth is arriving with a lower cash forecast.",
+   "source_name": "Celestica Form 8-K Ex. 99.1 (Q3 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001030894/000103089426000049/cls-20260930prcondensedfs.htm",
+   "checked": "2026-10-27T13:03:15Z"
+  },
+  {
+   "id": "2026-10-27-TRU",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "TRU",
+   "name": "TransUnion",
+   "headline": "Raises adjusted EPS guidance after Q3",
+   "catalyst": "Q3 revenue was $1,312.5M versus $1,169.5M; 2026 adjusted diluted EPS guidance is $4.81-$4.88 and revenue guidance is $5,131M-$5,162M.",
+   "thesis": "Diluted EPS was $0.81 versus $0.49 and adjusted diluted EPS $1.25 versus $1.10; the release says it is keeping the high end of revenue guidance.",
+   "source_name": "TransUnion Form 8-K Ex. 99.1 (Q3 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001552033/000155203326000056/exhibit99109302026.htm",
+   "checked": "2026-10-27T13:03:15Z"
+  },
+  {
+   "id": "2026-10-27-BA",
+   "time": "2026-10-27T13:03:15Z",
+   "ticker": "BA",
+   "name": "Boeing",
+   "headline": "Smaller Q3 loss with record backlog",
+   "catalyst": "Q3 revenue was $24,188M versus $23,270M, loss per share $(0.26) versus $(7.14), free cash flow $464M.",
+   "thesis": "Total backlog was $745.4B at Sept. 30, and the release says 737-10 was certified in October with 777-9 first delivery on track for 2027.",
+   "source_name": "Boeing Form 8-K Ex. 99.1 (Q3 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm",
+   "checked": "2026-10-27T13:03:15Z"
+  }
+ ]
 }
