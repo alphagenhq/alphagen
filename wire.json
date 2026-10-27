@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-27T02:44:06Z",
+  "updated": "2026-10-27T10:51:32Z",
   "items": [
+    {
+      "id": "2026-10-27-transunion-q3",
+      "time": "2026-10-27T10:56:32Z",
+      "tag": "EARNINGS",
+      "ticker": "NYSE:TRU",
+      "headline": "TransUnion Q3 revenue $1,312.5M vs $1,169.5M; diluted EPS $0.81 vs $0.49",
+      "take": "TransUnion reported Q3 2026 revenue of $1,312.5 million, up 12.2% from $1,169.5 million, and net income attributable to the company of $156.2 million versus $96.6 million. Diluted EPS was $0.81 versus $0.49, and adjusted diluted EPS was $1.25 versus $1.10. Adjusted EBITDA margin slipped to 35.4% from 36.3% even as the dollar figure rose even as revenue grew 12.2%.",
+      "source_name": "TransUnion press release (Oct. 27, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388788/0/en/transunion-announces-strong-third-quarter-2026-results.html",
+      "checked": "2026-10-27T10:51:32Z"
+    },
+    {
+      "id": "2026-10-27-transunion-guide",
+      "time": "2026-10-27T11:03:32Z",
+      "tag": "CREDIT",
+      "ticker": "NYSE:TRU",
+      "headline": "TransUnion 2026 guide: revenue $5,131M-$5,162M, adj. EPS $4.81-$4.88",
+      "take": "TransUnion's release gives 2026 revenue guidance of $5,131 million to $5,162 million, adjusted EBITDA of $1,808 million to $1,827 million and adjusted diluted EPS of $4.81 to $4.88, and says it is raising its adjusted EPS guidance. Q3 adjusted EBITDA was $465 million versus $425 million a year earlier. The guidance ranges give a reference point for how the company sees the rest of the year.",
+      "source_name": "TransUnion press release (Oct. 27, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388788/0/en/transunion-announces-strong-third-quarter-2026-results.html",
+      "checked": "2026-10-27T10:51:32Z"
+    },
+    {
+      "id": "2026-10-27-innio-q3",
+      "time": "2026-10-27T11:10:32Z",
+      "tag": "EARNINGS",
+      "ticker": "NASDAQ:INIO",
+      "headline": "INNIO Q3 net sales $1,167.9M vs $742.7M; net income $109.2M vs $39.5M",
+      "take": "INNIO reported Q3 2026 net sales of $1,167.9 million versus $742.7 million, up 57%, and net income of $109.2 million versus $39.5 million. Adjusted EBITDA was $245.4 million versus $144.2 million, a 21.0% margin, and diluted EPS was $0.15 versus $0.05. The release was issued at 06:30 ET, the 57% sales growth is the headline figure to watch against the raised guidance.",
+      "source_name": "INNIO press release (Oct. 27, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388791/0/en/innio-reports-record-third-quarter-2026-financial-results-with-revenue-up-57-net-income-up-176-and-adjusted-ebitda-up-70-raises-2026-full-year-guidance.html",
+      "checked": "2026-10-27T10:51:32Z"
+    },
+    {
+      "id": "2026-10-27-innio-guide",
+      "time": "2026-10-27T11:17:32Z",
+      "tag": "EARNINGS",
+      "ticker": "NASDAQ:INIO",
+      "headline": "INNIO lifts 2026 revenue view to $3.9B-$4.0B and adj. EBITDA to $780M-$800M",
+      "take": "INNIO raised full-year 2026 guidance to total revenue of $3.9 billion to $4.0 billion from $3.8 billion to $3.9 billion, and adjusted EBITDA to $780 million to $800 million from $720 million to $740 million. FY2025 actuals in the release were $2.6 billion of revenue and $549 million of adjusted EBITDA. The raised ranges imply a step up from last year's base, measured on the company's own adjusted EBITDA definition.",
+      "source_name": "INNIO press release (Oct. 27, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388791/0/en/innio-reports-record-third-quarter-2026-financial-results-with-revenue-up-57-net-income-up-176-and-adjusted-ebitda-up-70-raises-2026-full-year-guidance.html",
+      "checked": "2026-10-27T10:51:32Z"
+    },
+    {
+      "id": "2026-10-27-smithfield-q3",
+      "time": "2026-10-27T11:24:32Z",
+      "tag": "EARNINGS",
+      "ticker": "NASDAQ:SFD",
+      "headline": "Smithfield Q3 sales $3,437M vs $3,747M; diluted EPS $0.23 vs $0.63",
+      "take": "Smithfield Foods reported Q3 2026 sales of $3,437 million versus $3,747 million, down 8.3%, and net income attributable to Smithfield of $89 million versus $248 million. Diluted EPS was $0.23 versus $0.63, and adjusted diluted EPS was $0.26 versus $0.58. Adjusted operating profit was $145 million versus $310 million, with the margin falling to 4.2% from 8.3%.",
+      "source_name": "Smithfield Foods press release (Oct. 27, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388740/12889/en/smithfield-foods-reports-third-quarter-results.html",
+      "checked": "2026-10-27T10:51:32Z"
+    },
+    {
+      "id": "2026-10-27-smithfield-segments",
+      "time": "2026-10-27T11:31:32Z",
+      "tag": "COMMODITIES",
+      "ticker": "NASDAQ:SFD",
+      "headline": "Smithfield Fresh Pork Q3 operating loss $89M vs profit $10M; Packaged Meats profit $230M",
+      "take": "Smithfield's Packaged Meats segment grew operating profit to $230 million from $226 million on sales of $1,982 million, while Fresh Pork swung to an $89 million operating loss from a $10 million profit and Hog Production earned $34 million versus $89 million. The company said upstream segments were challenged by lower pork commodity markets. It guides 2026 total adjusted operating profit of $900 million to $1,000 million, with Packaged Meats the only segment that grew operating profit.",
+      "source_name": "Smithfield Foods press release (Oct. 27, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388740/12889/en/smithfield-foods-reports-third-quarter-results.html",
+      "checked": "2026-10-27T10:51:32Z"
+    },
     {
       "id": "2026-10-27-acuity-parameter",
       "time": "2026-10-27T02:50:00Z",
@@ -5243,72 +5309,6 @@
       "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "time": "2026-10-15T12:25:06Z",
       "checked": "2026-10-15T16:46:43Z"
-    },
-    {
-      "id": "2026-10-15-penske-automotive-take-private",
-      "tag": "DEALS",
-      "ticker": "NYSE:PAG",
-      "headline": "Penske Automotive to be taken private by Penske Corp. and Mitsui at $212 a share",
-      "take": "Penske Automotive agreed to be acquired by a buyer owned by Penske Corporation and Mitsui for $212.00 per share in cash, valuing the company at an enterprise value of about $16.3 billion. Penske is expected to own about 64% and Mitsui 36% after closing, expected in the first quarter of 2027, subject to regulatory approvals and a majority vote of unaffiliated stockholders. The majority-of-the-minority condition is the key protection for public holders in a buyout led by the controlling shareholder.",
-      "source_name": "Penske Automotive Group 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001019849/000114036126039664/ef20083688_ex99-1.htm",
-      "time": "2026-10-15T11:45:00Z",
-      "checked": "2026-10-15T17:51:00Z"
-    },
-    {
-      "id": "2026-10-13-alaunos-velaris",
-      "tag": "DEALS",
-      "ticker": "NASDAQ:TCRT",
-      "headline": "Alaunos completes Velaris Therapeutics acquisition alongside $350M private placement",
-      "take": "Alaunos Therapeutics completed its acquisition of PAH drug developer Velaris Therapeutics alongside a private placement of convertible preferred stock raising about $350 million, led by Fairmount with Venrock, T. Rowe Price-advised accounts, Wellington and Janus Henderson participating. Purchase terms were not disclosed, and the company expects its funding to last into 2029. The deal effectively recapitalizes Alaunos around Velaris's ActRII-targeted pipeline.",
-      "source_name": "Alaunos Therapeutics press release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/13/3379885/0/en/alaunos-therapeutics-announces-acquisition-of-velaris-therapeutics.html",
-      "time": "2026-10-15T12:18:00Z",
-      "checked": "2026-10-15T16:46:43Z"
-    },
-    {
-      "id": "2026-10-15-tsmc-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:TSM",
-      "headline": "TSMC Q3 revenue up 50.9% to NT$1.49T; Q4 guided to $52.3B–$54.3B",
-      "take": "TSMC reported third-quarter revenue of NT$1,494.24 billion (US$46.72 billion), up 50.9% from a year earlier in NT$ terms, with net income and diluted EPS both up 68.7% to NT$763.06 billion and NT$29.43 (US$4.60 per ADR unit); gross margin was 66.4% and 3nm and 5nm made up 33% and 28% of wafer revenue. It guided fourth-quarter revenue to US$52.3 billion to US$54.3 billion with a 65%–67% gross margin. The guide's midpoint implies roughly 14% sequential growth in dollar terms, the clearest read yet that leading-edge demand, including the 2nm ramp, is still growing strongly.",
-      "source_name": "TSMC 3Q26 earnings release, Form 6-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
-      "time": "2026-10-15T11:16:05Z",
-      "correction": "Clarified that 50.9% growth is in NT$ terms and replaced 'still accelerating' since the Q4 guide midpoint (+14.1% q/q) is below Q3's 16.2% q/q US$ growth.",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-15-beige-book-national",
-      "tag": "FED",
-      "headline": "Beige Book: 'Higher oil prices permeated all District reports'",
-      "take": "The Fed's October Beige Book, based on information collected through Oct. 5, says two of 12 Districts reported moderate growth, three modest, four slight and three no significant change; four Districts said the pace of price increases picked up, three called price growth robust and eight moderate. Labor markets were little changed and most Districts saw flat or slightly lower consumer spending, with over half noting it was driven by high-income households. Ahead of the Oct. 27–28 FOMC, the mix of soft demand and broadening energy pass-through is the stagflation-tinged picture the committee has to weigh.",
-      "source_name": "Federal Reserve, Beige Book, October 2026",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
-      "time": "2026-10-15T11:20:05Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-15-pnc-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:PNC",
-      "headline": "PNC Q3 EPS rises to $4.97 as net interest income climbs 15%",
-      "take": "PNC earned $2.10 billion, or $4.97 a diluted share, in the third quarter versus $1.82 billion and $4.35 a year earlier; adjusted EPS was $5.09 excluding FirstBank integration costs and net significant items. Revenue rose 11% from a year earlier to $6.56 billion on net interest income of $4.21 billion, up 15%, while net loan charge-offs rose to $257 million from $179 million. Spread income is doing the work as fee revenue cooled from the second quarter, and the release's own planning assumption of two more Fed hikes suggests that tailwind has further to run.",
-      "source_name": "PNC Financial Services Group, Q3 2026 earnings release",
-      "source_url": "https://investor.pnc.com/news-events/financial-press-releases/detail/700/pnc-reports-third-quarter-2026-net-income-of-2-1-billion-4-97-diluted-eps-or-5-09-as-adjusted",
-      "time": "2026-10-15T11:25:05Z",
-      "checked": "2026-10-15T12:08:25Z"
-    },
-    {
-      "id": "2026-10-15-usb-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:USB",
-      "headline": "U.S. Bancorp Q3 EPS rises to $1.34 on 13% noninterest income growth",
-      "take": "U.S. Bancorp's third-quarter net income rose to $2.20 billion, or $1.34 a diluted share, from $2.00 billion and $1.22, on taxable-equivalent net revenue of $7.97 billion versus $7.33 billion. Noninterest income rose 13.1% to $3.48 billion and net interest income 5.6% to $4.49 billion, while the efficiency ratio improved to 55.9% from 57.2%. Fee growth outpacing spread income is the notable split here, though no buybacks in the quarter shows capital is still being conserved.",
-      "source_name": "U.S. Bancorp 8-K, Q3 2026 earnings release (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036104/000003610426000054/a3q26earningsrelease.htm",
-      "time": "2026-10-15T11:30:05Z",
-      "checked": "2026-10-15T12:08:25Z"
     }
   ]
 }
