@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T10:06:10Z",
+ "updated": "2026-10-27T10:44:37Z",
  "items": [
+  {
+   "id": "live-0000914208-26-000367-1.01",
+   "time": "2026-10-27T10:40:40Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Invesco discloses a material agreement",
+   "take": "Invesco reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 6:40 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, IVZ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000367/0000914208-26-000367-index.htm",
+   "ticker": "NYSE:IVZ"
+  },
+  {
+   "id": "live-0000884887-26-000042-2.02",
+   "time": "2026-10-27T10:32:00Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Royal Caribbean Cruises releases financial results",
+   "take": "Royal Caribbean Cruises filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:32 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, RCL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000042/0000884887-26-000042-index.htm",
+   "ticker": "NYSE:RCL"
+  },
+  {
+   "id": "live-0000036966-26-000184-5.02",
+   "time": "2026-10-27T10:17:15Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "First Horizon reports an executive or board change",
+   "take": "First Horizon reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:17 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FHN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36966/000003696626000184/0000036966-26-000184-index.htm",
+   "ticker": "NYSE:FHN"
+  },
   {
    "id": "live-0001628280-26-067381-2.02",
    "time": "2026-10-27T10:05:34Z",
