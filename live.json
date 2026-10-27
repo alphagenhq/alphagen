@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-26T21:32:52Z",
+ "updated": "2026-10-27T10:06:10Z",
  "items": [
+  {
+   "id": "live-0001628280-26-067381-2.02",
+   "time": "2026-10-27T10:05:34Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "United Parcel Service releases financial results",
+   "take": "United Parcel Service filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:05 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, UPS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026067381/0001628280-26-067381-index.htm",
+   "ticker": "NYSE:UPS"
+  },
+  {
+   "id": "live-0001585689-26-000049-2.02",
+   "time": "2026-10-27T10:01:05Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Hilton Worldwide releases financial results",
+   "take": "Hilton Worldwide filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:01 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HLT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568926000049/0001585689-26-000049-index.htm",
+   "ticker": "NYSE:HLT"
+  },
+  {
+   "id": "live-0001071739-26-000194-2.02",
+   "time": "2026-10-26T23:05:38Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Centene releases financial results",
+   "take": "Centene filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:05 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CNC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000194/0001071739-26-000194-index.htm",
+   "ticker": "NYSE:CNC"
+  },
+  {
+   "id": "live-0000318154-26-000144-5.02",
+   "time": "2026-10-26T21:58:26Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Amgen reports an executive or board change",
+   "take": "Amgen reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 5:58 PM ET, Oct 26. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AMGN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000144/0000318154-26-000144-index.htm",
+   "ticker": "NASDAQ:AMGN"
+  },
   {
    "id": "live-0001193125-26-432142-2.02",
    "time": "2026-10-26T21:03:30Z",
