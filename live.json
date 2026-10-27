@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-27T12:45:41Z",
+ "updated": "2026-10-27T13:36:42Z",
  "items": [
+  {
+   "id": "live-0000049826-26-000057-2.02",
+   "time": "2026-10-27T13:20:19Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Illinois Tool Works releases financial results",
+   "take": "Illinois Tool Works filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 9:20 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ITW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49826/000004982626000057/0000049826-26-000057-index.htm",
+   "ticker": "NYSE:ITW"
+  },
   {
    "id": "live-0000831259-26-000045-2.02",
    "time": "2026-10-27T12:08:34Z",
