@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-27T22:44:53Z",
+  "updated": "2026-10-27T23:50:06Z",
   "items": [
+    {
+      "id": "2026-10-27-lpla-q3",
+      "time": "2026-10-27T23:51:06Z",
+      "tag": "EARNINGS",
+      "headline": "LPL Financial Q3 revenue $5,344M vs $4,552M; GAAP EPS $4.52; adj. EPS $5.97",
+      "take": "LPL Financial reported Q3 2026 total revenue of $5,344.0 million versus $4,552.0 million a year earlier (up 17% by our calculation), net income of $357 million and GAAP diluted EPS of $4.52 versus a loss of $0.37 in Q3 2025. Adjusted EPS rose 15% to $5.97 from $5.20. The year-ago quarter carried $538 million of acquisition costs versus $83 million this quarter, which flatters the GAAP comparison.",
+      "source_name": "LPL Financial Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389614/29579/en/lpl-financial-announces-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:LPLA",
+      "checked": "2026-10-27T23:50:06Z"
+    },
+    {
+      "id": "2026-10-27-lpla-assets",
+      "time": "2026-10-27T23:59:06Z",
+      "tag": "EQUITIES",
+      "headline": "LPL total client assets $2,564.6B; organic net new assets $29.1B in Q3",
+      "take": "LPL said total client assets were $2,564.6 billion at quarter-end versus $2,314.5 billion a year earlier, an 11% increase, with advisory assets of $1,561.0 billion and brokerage assets of $1,003.6 billion. Total organic net new assets were $29.1 billion versus $32.7 billion in Q3 2025, and recruited assets were $24 billion, down 26% from a year ago. Asset growth continued while organic inflows slowed from the prior-year quarter.",
+      "source_name": "LPL Financial Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389614/29579/en/lpl-financial-announces-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:LPLA",
+      "checked": "2026-10-27T23:50:06Z"
+    },
+    {
+      "id": "2026-10-27-exe-q3",
+      "time": "2026-10-28T00:07:06Z",
+      "tag": "ENERGY",
+      "headline": "Expand Energy Q3 net income $519M vs $547M; production 7.54 Bcfe/d",
+      "take": "Expand Energy reported Q3 2026 total revenues and other of $3,286 million versus $2,966 million, net income of $519 million versus $547 million, and diluted EPS of $2.24 versus $2.28. Adjusted net income was $338 million versus $234 million, and net production was 7.54 Bcfe/d versus 7.33 Bcfe/d, 92% natural gas. Higher volumes and a wider non-GAAP profit contrasted with slightly lower GAAP earnings.",
+      "source_name": "Expand Energy Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389592/0/en/expand-energy-corporation-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:EXE",
+      "checked": "2026-10-27T23:50:06Z"
+    },
+    {
+      "id": "2026-10-27-exe-capital-buyback",
+      "time": "2026-10-28T00:15:06Z",
+      "tag": "ENERGY",
+      "headline": "Expand Energy updates 2026 capex guide to ~$3B; repurchased $305M in Q3",
+      "take": "Expand Energy said it updated its 2026 capital investment guidance to approximately $3 billion, with 11-12 rigs and average production of 7.45-7.55 Bcfe/d. It repurchased $305 million of stock in Q3 and has $1 billion of remaining capacity under its expanded authorization, and declared a base dividend of $0.575 per share payable December 3. The release does not state the prior capex figure.",
+      "source_name": "Expand Energy Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389592/0/en/expand-energy-corporation-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:EXE",
+      "checked": "2026-10-27T23:50:06Z"
+    },
+    {
+      "id": "2026-10-27-exls-q3-guide",
+      "time": "2026-10-28T00:23:06Z",
+      "tag": "EARNINGS",
+      "headline": "EXL raises 2026 revenue guide to $2.430B-$2.440B; Q3 revenue $634.0M",
+      "take": "EXL reported Q3 2026 revenues of $634.0 million versus $529.6 million, GAAP diluted EPS of $0.45 versus $0.36 and adjusted diluted EPS of $0.62 versus $0.48. It now expects 2026 revenue of $2.430-$2.440 billion, up from $2.390-$2.415 billion, and adjusted diluted EPS of $2.34-$2.36, up from $2.25-$2.29. Both revenue and per-share results rose year over year, and the full-year ranges moved higher.",
+      "source_name": "EXL Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389591/9060/en/exl-reports-2026-third-quarter-results.html",
+      "ticker": "NASDAQ:EXLS",
+      "checked": "2026-10-27T23:50:06Z"
+    },
+    {
+      "id": "2026-10-27-czr-q3",
+      "time": "2026-10-28T00:31:06Z",
+      "tag": "EARNINGS",
+      "headline": "Caesars Q3 net revenues $2,940M vs $2,869M; net loss $(123)M",
+      "take": "Caesars Entertainment reported Q3 2026 net revenues of $2,940 million versus $2,869 million, a net loss attributable to Caesars of $123 million versus $55 million, and a diluted loss per share of $0.61 versus $0.27. Consolidated Adjusted EBITDA was $865 million versus $884 million; segment net revenues were $930 million in Las Vegas versus $952 million and $1,627 million in Regional versus $1,536 million. Revenue edged up while the loss widened.",
+      "source_name": "Caesars Entertainment Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001590895/000159089526000032/ex991-2026q3ceiearningsrel.htm",
+      "ticker": "NASDAQ:CZR",
+      "checked": "2026-10-27T23:50:06Z"
+    },
     {
       "id": "2026-10-27-nxpi-q3",
       "time": "2026-10-27T22:46:53Z",
@@ -5257,68 +5323,6 @@
       "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
       "ticker": "NYSE:RF",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-mtb-q3",
-      "time": "2026-10-16T11:46:01Z",
-      "tag": "EARNINGS",
-      "headline": "M&T Q3 EPS climbs to $5.04 even as net income slips to $775M",
-      "take": "M&T Bank reported third-quarter diluted EPS of $5.04 versus $4.82 a year earlier, although net income fell to $775 million from $792 million. Taxable-equivalent net interest income rose to $1,805 million from $1,773 million, but the margin narrowed to 3.65% from 3.69%, and estimated CET1 fell to 10.16% from 10.99% after $323 million of buybacks in the quarter. Per-share growth on lower profit is a buyback story, and the lower capital ratio limits how long that lever can run at this pace.",
-      "source_name": "M&T Bank Q3 2026 results release (M&T investor relations)",
-      "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
-      "ticker": "NYSE:MTB",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-ea-energy-hicp-18-9",
-      "time": "2026-10-16T11:51:01Z",
-      "tag": "ENERGY",
-      "headline": "Euro-area energy prices up 18.9% on the year in September",
-      "take": "Eurostat's final September data show euro-area energy prices up 18.9% year over year, versus 14.3% in August, with a 4.0% month-on-month rise; energy alone added 1.71 percentage points to 3.8% headline inflation. Among large economies, national rates were 5.0% in Spain, 4.2% in Italy, 3.4% in France and 3.3% in Germany. The spread across countries reflects how differently energy costs pass through to households, which complicates a single ECB response.",
-      "source_name": "Eurostat: Euro indicators, HICP September 2026 (16 October 2026)",
-      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-rf-charge-offs-0-29",
-      "time": "2026-10-16T11:56:01Z",
-      "tag": "CREDIT",
-      "headline": "Regions' net charge-offs fall to 0.29% of loans from 0.55% a year ago",
-      "take": "Regions reported third-quarter net charge-offs of $72 million, an annualized 0.29% of average loans, versus $135 million and 0.55% a year earlier. Average loans rose to $99.2 billion from $96.6 billion, while average deposits were roughly flat at $129.1 billion versus $129.6 billion. Halving losses while loans grew points to a cleaner credit book, though flat deposits leave funding growth as the constraint.",
-      "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
-      "ticker": "NYSE:RF",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-import-prices-ip-today",
-      "time": "2026-10-16T12:01:01Z",
-      "tag": "MACRO",
-      "headline": "September import prices at 8:30 a.m. and industrial production at 9:15 a.m. today",
-      "take": "BLS publishes U.S. Import and Export Price Indexes for September at 8:30 a.m. ET today, and the Federal Reserve releases its G.17 industrial production and capacity utilization report at 9:15 a.m. ET. After this week's producer-price data, import prices will show how much of the energy shock is arriving from abroad, and the output report will show whether factories are absorbing higher costs or cutting back.",
-      "source_name": "BLS release schedule (October 2026); Federal Reserve G.17 release dates",
-      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
-    },
-    {
-      "id": "2026-10-16-mtb-loan-growth",
-      "time": "2026-10-16T12:06:01Z",
-      "tag": "EQUITIES",
-      "headline": "M&T average loans rise 5.4% to $143.3B; charge-offs ease to 0.35%",
-      "take": "M&T's average loans rose to $143,296 million in the third quarter from $135,890 million a year earlier, and average deposits rose to $166,777 million from $162,576 million. Net charge-offs fell to an annualized 0.35% of average loans from 0.42%, while the provision rose to $135 million from $125 million. Loan growth at this pace alongside easing losses shows a lender still finding demand to put capital to work, not just protecting it.",
-      "source_name": "M&T Bank Q3 2026 results release (M&T investor relations)",
-      "source_url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-corporation-nysemtb-announces-third-quarter-2026-results",
-      "ticker": "NYSE:MTB"
-    },
-    {
-      "id": "2026-10-15-wire-lufthansa-tap",
-      "time": "2026-10-15T23:58:00Z",
-      "tag": "DEALS",
-      "headline": "Portugal picks Lufthansa to buy 44.9% of TAP for €1.025B",
-      "take": "Portugal's government selected Lufthansa Group's offer of EUR 1.025 billion for a 44.9 percent stake in TAP Air Portugal, rising to up to EUR 1.2 billion for 49.9 percent; Lufthansa expects to sign the agreements shortly, with completion subject to regulatory approval. AlphaGen read: this gives Lufthansa a minority foothold in TAP's Atlantic network, and the regulatory reviews are the remaining gate.",
-      "source_name": "Lufthansa Group press release",
-      "source_url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-welcomes-selection-of-its-offer-in-tap-air-portugal-privatization-process/",
-      "ticker": "XETRA:LHA",
       "checked": "2026-10-16T11:59:19Z"
     }
   ]
