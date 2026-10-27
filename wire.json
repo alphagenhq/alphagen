@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-27T21:44:29Z",
+  "updated": "2026-10-27T22:44:53Z",
   "items": [
+    {
+      "id": "2026-10-27-nxpi-q3",
+      "time": "2026-10-27T22:46:53Z",
+      "tag": "EARNINGS",
+      "headline": "NXP Q3 revenue $3,786M vs $3,173M; GAAP EPS $3.48 vs $2.48",
+      "take": "NXP reported Q3 2026 revenue of $3,786 million versus $3,173 million a year earlier (up 19% by our calculation), with GAAP diluted EPS of $3.48 versus $2.48 and non-GAAP diluted EPS of $4.20 versus $3.11. Revenue and per-share earnings both rose by double digits, a broad gain in the chipmaker's results.",
+      "source_name": "NXP Semiconductors Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389631/0/en/nxp-semiconductors-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:NXPI",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-nxpi-guide-buyback",
+      "time": "2026-10-27T22:54:53Z",
+      "tag": "EQUITIES",
+      "headline": "NXP guides Q4 revenue $3,750M-$3,950M; announces $5B buyback authorization",
+      "take": "NXP's Q4 2026 revenue guidance is $3,750 million to $3,950 million (midpoint $3,850 million), with non-GAAP diluted EPS guided to $4.14-$4.58. The release also cites a newly announced $5 billion share repurchase authorization. The guidance midpoint sits above Q3's $3,786 million, pointing to continued sequential growth if realized.",
+      "source_name": "NXP Semiconductors Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389631/0/en/nxp-semiconductors-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:NXPI",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-csgp-q3",
+      "time": "2026-10-27T23:02:53Z",
+      "tag": "EARNINGS",
+      "headline": "CoStar Q3 revenue $952M vs $834M; net income $74M vs $(31)M loss",
+      "take": "CoStar reported Q3 2026 revenue of $952 million versus $834 million a year earlier (up 14% by our calculation), net income of $74 million versus a $31 million loss, and diluted EPS of $0.18 versus $(0.07). Adjusted EBITDA was $229 million versus $114 million. Earnings swung to a profit on revenue growth, a sharp improvement in profitability.",
+      "source_name": "CoStar Group Q3 2026 results (company IR)",
+      "source_url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-reports-record-third-quarter-revenue-952-million",
+      "ticker": "NASDAQ:CSGP",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-csgp-guide",
+      "time": "2026-10-27T23:10:53Z",
+      "tag": "EQUITIES",
+      "headline": "CoStar raises 2026 adjusted EBITDA guide to $820M-$840M; revenue $3.75B-$3.77B",
+      "take": "CoStar now guides full-year 2026 adjusted EBITDA to $820 million to $840 million, up $30 million at the midpoint from its July guidance, and revenue to $3.75 billion to $3.77 billion. A midpoint raise just one quarter after the prior outlook signals management sees profit running ahead of its earlier plan.",
+      "source_name": "CoStar Group Q3 2026 results (company IR)",
+      "source_url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-reports-record-third-quarter-revenue-952-million",
+      "ticker": "NASDAQ:CSGP",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-slde-q3",
+      "time": "2026-10-27T23:18:53Z",
+      "tag": "EARNINGS",
+      "headline": "Slide Insurance Q3 revenue $361.1M vs $265.7M; net income $138.2M vs $111.0M",
+      "take": "Slide Insurance Holdings reported Q3 2026 total revenue of $361.1 million versus $265.7 million (up 36% by our calculation), net income of $138.2 million versus $111.0 million, and diluted EPS of $1.09 versus $0.79. Revenue grew faster than net income, so margins narrowed versus the year-ago quarter.",
+      "source_name": "Slide Insurance Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389639/0/en/slide-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:SLDE",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-slde-guide",
+      "time": "2026-10-27T23:26:53Z",
+      "tag": "CREDIT",
+      "headline": "Slide Insurance lifts 2026 net income guide to $500M-$520M from $455M-$470M",
+      "take": "Slide raised its full-year 2026 net income expectation to $500 million-$520 million from a prior $455 million-$470 million, and says the range includes up to $50 million of pre-tax losses tied to Hurricane Isaias in Q4. The raise lifts the midpoint by about $55 million, even after allowing for that storm-loss estimate.",
+      "source_name": "Slide Insurance Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389639/0/en/slide-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:SLDE",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-fcf-q3",
+      "time": "2026-10-27T23:34:53Z",
+      "tag": "CREDIT",
+      "headline": "First Commonwealth Q3 net income $44.9M, EPS $0.45; adds $25M buyback",
+      "take": "First Commonwealth reported Q3 2026 net income of $44.9 million and diluted EPS of $0.45, versus $44.6 million and $0.44 in Q2. The board declared a $0.14 quarterly dividend payable Nov. 20 to holders of record Nov. 6 and authorized an additional $25 million share repurchase program. Earnings were nearly flat sequentially.",
+      "source_name": "First Commonwealth Q3 2026 earnings (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389703/0/en/first-commonwealth-announces-third-quarter-2026-earnings-declares-quarterly-dividend-and-announces-additional-share-repurchase-authorization.html",
+      "ticker": "NASDAQ:FCF",
+      "checked": "2026-10-27T22:44:53Z"
+    },
     {
       "id": "2026-10-27-hood-q3",
       "time": "2026-10-27T21:46:29Z",
@@ -5242,79 +5319,6 @@
       "source_name": "Lufthansa Group press release",
       "source_url": "https://newsroom.lufthansagroup.com/en/lufthansa-group-welcomes-selection-of-its-offer-in-tap-air-portugal-privatization-process/",
       "ticker": "XETRA:LHA",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-wire-skeleton-siemens",
-      "time": "2026-10-16T00:07:00Z",
-      "tag": "DEALS",
-      "headline": "Siemens leads nine-figure round valuing Skeleton Technologies above $1B",
-      "take": "Skeleton Technologies says a nine-figure round led by Siemens lifts its valuation above $1 billion; the money mainly funds U.S. manufacturing expansion, and the company plans to invest more than $200 million in scale-up and R&D in Silicon Valley. AlphaGen read: a strategic lead from Siemens links Skeleton's supercapacitor tech more tightly to data-center power demand, though the round size was not disclosed.",
-      "source_name": "Skeleton Technologies press release",
-      "source_url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
-      "ticker": "XETRA:SIE",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-wire-hulic-riso",
-      "time": "2026-10-16T00:16:00Z",
-      "tag": "DEALS",
-      "headline": "Hulic tenders at ¥295 a share to take Riso Kyoiku private",
-      "take": "Hulic, holder of 50.87% of Riso Kyoiku Group, launched a tender offer at 295 yen per share running October 14 to November 26, 2026, aiming to make the company a wholly owned subsidiary and delist it. AlphaGen read: it adds to the run of Japanese parent-subsidiary buyouts as groups simplify listed structures.",
-      "source_name": "Riso Kyoiku Group tender offer announcement",
-      "source_url": "https://www.riso-kyoikugroup.com/img/20261013_03_ENG.pdf",
-      "ticker": "TSE:3003",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-wire-nokia-aurelius",
-      "time": "2026-10-16T00:26:00Z",
-      "tag": "DEALS",
-      "headline": "Nokia agrees to sell Enterprise Campus Edge unit to AURELIUS",
-      "take": "Nokia signed a definitive agreement to sell its Enterprise Campus Edge private-wireless business, serving nearly 900 customers, to AURELIUS; terms were not disclosed and closing is expected in the first half of 2027. AlphaGen read: the carve-out continues Nokia's portfolio narrowing, moving a niche enterprise unit to a carve-out specialist.",
-      "source_name": "Nokia press release",
-      "source_url": "https://www.nokia.com/newsroom/nokia-to-sell-enterprise-campus-edge-business-to-aurelius/",
-      "ticker": "NYSE:NOK",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-ecb-schnabel-imf-exit",
-      "time": "2026-10-15T23:25:00Z",
-      "tag": "GLOBAL",
-      "headline": "ECB's Schnabel to leave the Executive Board on Jan. 3, 2027 for an IMF role",
-      "take": "The ECB's Governing Council agreed with its Ethics Committee on Sept. 24 that Isabel Schnabel's planned IMF role, starting Jan. 4, 2027, raised no conflict-of-interest concerns, so no cooling-off period applies; she resigned from the ECB effective Jan. 3, 2027, according to the Council's non-rate decisions published Oct. 2. The same release shows collateral and haircut guideline changes taking effect Nov. 30. Schnabel's exit opens one of the six Executive Board seats just as euro-area policy is wrestling with an energy-driven inflation shock, making the succession a policy story as much as a personnel one.",
-      "source_name": "European Central Bank: Decisions taken by the Governing Council (2 October 2026)",
-      "source_url": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "checked": "2026-10-15T23:58:00Z"
-    },
-    {
-      "id": "2026-10-15-cbo-fy2026-deficit-2t",
-      "time": "2026-10-15T23:35:00Z",
-      "tag": "DEBT",
-      "headline": "CBO pegs the FY2026 federal deficit at $2.0T, $218B wider than FY2025",
-      "take": "The Congressional Budget Office estimates the fiscal 2026 deficit at $2.0 trillion, $218 billion more than in fiscal 2025. Revenues rose an estimated $169 billion, or 3%, while outlays climbed $386 billion, or 6%, led by net interest on the debt, major benefit programs, defense and education. With spending growth running at twice the pace of receipts and interest costs among the leaders, Treasury supply pressure on the long end is unlikely to ease into fiscal 2027.",
-      "source_name": "Congressional Budget Office: Monthly Budget Review, September 2026",
-      "source_url": "https://www.cbo.gov/publication/61985",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-cftc-crypto-anprm",
-      "time": "2026-10-15T23:40:00Z",
-      "tag": "CRYPTO",
-      "headline": "CFTC seeks comment on rules for retail crypto trades and a 'crypto asset market'",
-      "take": "The CFTC issued an advance notice of proposed rulemaking on 'Regulation Crypto Asset Transactions' and 'Regulation Crypto Asset Markets,' covering retail commodity transactions in crypto assets under section 2(c)(2)(D) of the Commodity Exchange Act, including a proposed designated-contract-market subcategory called a 'crypto asset market.' Comments are due 60 days after Federal Register publication. An ANPRM is the earliest stage of rulemaking, but it signals the CFTC intends to build a dedicated venue framework for retail crypto spot-style trading rather than regulate it case by case.",
-      "source_name": "CFTC Press Release 9307-26",
-      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-boe-benjamin-repo-leverage",
-      "time": "2026-10-15T23:45:00Z",
-      "tag": "CREDIT",
-      "headline": "BoE flags gilt repo leverage; policy proposals due in early 2027",
-      "take": "Bank of England executive director Nathanaël Benjamin said 'doing nothing is not an option' on gilt repo resilience and that 'out-of-control leverage is unwelcome,' with a comprehensive update and potential policy proposals planned for early 2027. He cited Bank research estimating that more central clearing could have cut gilt repo exposures on UK dealer balance sheets by 40% to 60% during the 2020 'dash for cash.' Central clearing and tighter haircuts would raise the cost of leveraged basis trades, a risk worth watching for hedge-fund demand at gilt and, by extension, Treasury auctions.",
-      "source_name": "Bank of England: Speech by Nathanaël Benjamin (ISDA forum)",
-      "source_url": "https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum",
       "checked": "2026-10-16T11:59:19Z"
     }
   ]

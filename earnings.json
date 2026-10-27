@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-27T21:44:29Z",
+  "updated": "2026-10-27T22:44:53Z",
   "items": [
+    {
+      "id": "2026-10-27-NXPI-Q3",
+      "time": "2026-10-27T22:46:53Z",
+      "ticker": "NASDAQ:NXPI",
+      "name": "NXP Semiconductors",
+      "period": "Q3 2026",
+      "revenue": 3.79,
+      "revenue_yoy": 19.3,
+      "eps_yoy": 40.3,
+      "eps": 3.48,
+      "take": "NXP reported Q3 2026 revenue of $3,786 million versus $3,173 million a year earlier (up 19% by our calculation), with GAAP diluted EPS of $3.48 versus $2.48 and non-GAAP diluted EPS of $4.20 versus $3.11. Revenue and per-share earnings both rose by double digits, a broad gain in the chipmaker's results.",
+      "source_name": "NXP Semiconductors Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389631/0/en/nxp-semiconductors-reports-third-quarter-2026-results.html",
+      "report_date": "2026-10-27",
+      "checked": "2026-10-27T22:44:53Z"
+    },
+    {
+      "id": "2026-10-27-CSGP-Q3",
+      "time": "2026-10-27T23:02:53Z",
+      "ticker": "NASDAQ:CSGP",
+      "name": "CoStar Group",
+      "period": "Q3 2026",
+      "revenue": 0.95,
+      "revenue_yoy": 14.1,
+      "eps_yoy": null,
+      "eps": 0.18,
+      "take": "CoStar reported Q3 2026 revenue of $952 million versus $834 million a year earlier (up 14% by our calculation), net income of $74 million versus a $31 million loss, and diluted EPS of $0.18 versus $(0.07). Adjusted EBITDA was $229 million versus $114 million. Earnings swung to a profit on revenue growth, a sharp improvement in profitability.",
+      "source_name": "CoStar Group Q3 2026 results (company IR)",
+      "source_url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-reports-record-third-quarter-revenue-952-million",
+      "report_date": "2026-10-27",
+      "checked": "2026-10-27T22:44:53Z"
+    },
     {
       "id": "2026-10-27-HOOD-Q3",
       "time": "2026-10-27T21:46:29Z",
