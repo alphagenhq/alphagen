@@ -1,6 +1,93 @@
 {
-  "updated": "2026-10-27T20:01:17Z",
+  "updated": "2026-10-27T20:49:45Z",
   "items": [
+    {
+      "id": "2026-10-27-rrc-q3",
+      "time": "2026-10-27T20:51:45Z",
+      "tag": "ENERGY",
+      "headline": "Range Resources Q3 net income $175.3M vs $144.3M; production 2.50 Bcfe/d",
+      "take": "Range reported Q3 2026 GAAP net income of $175.3 million, or $0.75 per diluted share, versus $144.3 million and $0.60 a year earlier; total revenues and other income were $842.8 million versus $748.5 million, up 12.6% by our calculation. Production averaged 2,499,104 mcfe per day versus 2,227,831, and net debt was about $794 million at Sept. 30 versus about $1,218 million at Dec. 31, 2025. Cash generation grew faster than revenue, a pattern worth watching as the EQT merger moves toward closing.",
+      "source_name": "Range Resources Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389652/0/en/range-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:RRC",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-rrc-no-call",
+      "time": "2026-10-27T20:57:45Z",
+      "tag": "DEALS",
+      "headline": "Range will not host Q3 call because of pending merger with EQT",
+      "take": "Range's Q3 release describes a \"pending transaction with EQT Corporation\" and states that, due to the pending merger, it will not host a conference call or webcast. It also reported no share repurchases in the quarter, with $1.4 billion of authorization remaining. With no call, the release and the merger filings become the main disclosure channels.",
+      "source_name": "Range Resources Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389652/0/en/range-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:RRC",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-nbhc-q3",
+      "time": "2026-10-27T21:03:45Z",
+      "tag": "CREDIT",
+      "headline": "National Bank Holdings reports Q3 net loss of $8.8M; NIM 4.00%",
+      "take": "National Bank Holdings reported a Q3 2026 net loss of $8.8 million, or $(0.20) per diluted share, versus net income of $26.5 million ($0.58) in Q2 and $35.3 million ($0.92) in Q3 2025. Net interest margin (FTE) was 4.00% versus 3.94% in Q2 and 3.98% a year earlier, and total assets were $12.73 billion versus $10.15 billion at Sept. 30, 2025. The margin held up while the bottom line turned negative, so the drivers sit below net interest income.",
+      "source_name": "National Bank Holdings Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389654/0/en/national-bank-holdings-corporation-announces-third-quarter-2026-financial-results.html",
+      "ticker": "NYSE:NBHC",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-aat-q3",
+      "time": "2026-10-27T21:09:45Z",
+      "tag": "EARNINGS",
+      "headline": "American Assets Trust Q3 FFO $0.56/share vs $0.49; raises 2026 FFO range",
+      "take": "American Assets Trust reported Q3 2026 FFO of $0.56 per diluted share versus $0.49, and net income of $0.13 per diluted share versus $0.07. Total revenue was $114.3 million versus $109.6 million, up 4.3% by our calculation. The company raised 2026 FFO guidance to $2.04-$2.10 from $1.96-$2.10, with office occupancy at 85.8% versus 81.9% a year earlier.",
+      "source_name": "American Assets Trust Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389636/34254/en/american-assets-trust-inc-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NYSE:AAT",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-orn-q3",
+      "time": "2026-10-27T21:15:45Z",
+      "tag": "EARNINGS",
+      "headline": "Orion Group Q3 revenue $256.2M vs $225.1M; backlog $645M; guide reiterated",
+      "take": "Orion Group Holdings reported Q3 2026 revenue of $256.2 million versus $225.1 million, up 13.8% by our calculation, with GAAP net income of $5.5 million versus $3.3 million and diluted EPS of $0.14 versus $0.08. Adjusted EBITDA was $17.9 million versus $13.1 million, and backlog was $645 million at Sept. 30 versus $640 million at Dec. 31, 2025. The company reiterated 2026 revenue guidance of $900-$950 million.",
+      "source_name": "Orion Group Holdings Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389606/9652/en/orion-group-holdings-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:ORN",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-phar-q3",
+      "time": "2026-10-27T21:21:45Z",
+      "tag": "EARNINGS",
+      "headline": "Pharming Q3 revenue $117.6M vs $97.3M; tightens 2026 guide to $380-$390M",
+      "take": "Pharming reported Q3 2026 total revenues of $117.6 million versus $97.3 million, up 20.9% by our calculation, with Joenja revenue of $23.8 million and a net profit of $22.4 million versus $7.5 million. Cash stood at $190.9 million, and 2026 revenue guidance was tightened to $380-$390 million from $375-$395 million. Phase II topline data in the broader CVID population is expected in November 2026.",
+      "source_name": "Pharming Group Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388693/0/en/pharming-group-reports-third-quarter-2026-financial-results-strong-revenue-growth-joenja-apds-expansion-and-cvid-topline-data-in-november.html",
+      "ticker": "NASDAQ:PHAR",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-boom-q3",
+      "time": "2026-10-27T21:27:45Z",
+      "tag": "EARNINGS",
+      "headline": "DMC Global Q3 sales $172.8M vs $151.5M; net income $9.7M vs loss of $3.1M",
+      "take": "DMC Global reported Q3 2026 net sales of $172.8 million versus $151.5 million, up 14.1% by our calculation, and net income attributable to DMC of $9.7 million, or $0.59 per diluted share, versus a net loss of $3.1 million. Adjusted EBITDA attributable to DMC was $19.0 million including $5.4 million of tariff refunds, versus $8.6 million. Q4 sales are guided to $154-$164 million.",
+      "source_name": "DMC Global Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389610/0/en/dmc-global-reports-third-quarter-financial-results.html",
+      "ticker": "NASDAQ:BOOM",
+      "checked": "2026-10-27T20:49:45Z"
+    },
+    {
+      "id": "2026-10-27-fmcc-q3-date",
+      "time": "2026-10-27T21:33:45Z",
+      "tag": "HOUSING",
+      "headline": "Freddie Mac to report Q3 results before the open Thursday, Oct. 29",
+      "take": "Freddie Mac said it will report third-quarter 2026 financial results before U.S. markets open on Thursday, Oct. 29, 2026, with a media webcast at 9 a.m. ET. The company's results are one of the few direct looks at the mortgage-finance system's earnings this week.",
+      "source_name": "Freddie Mac release-date notice (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389655/0/en/freddie-mac-announces-release-date-for-third-quarter-2026-financial-results.html",
+      "checked": "2026-10-27T20:49:45Z"
+    },
     {
       "id": "2026-10-27-ko-q3",
       "tag": "EARNINGS",
@@ -5229,94 +5316,6 @@
       "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-tcgx-acquisition-corp-ii-announces-pricing-of-100000000-initial-public-offering",
       "ticker": "NASDAQ:TCXB",
       "checked": "2026-10-15T23:58:00Z"
-    },
-    {
-      "id": "2026-10-15-wire-dsg-gradeeight",
-      "time": "2026-10-15T23:10:00Z",
-      "tag": "DEALS",
-      "headline": "DSG to buy GradeEight for about $145M ahead of its own take-private",
-      "take": "DSG's Lawson Products agreed to acquire GradeEight Holdings, with about $110 million in annual sales, for approximately $145 million, funded by revolver borrowings and cash, with closing expected in the fourth quarter. AlphaGen read: DSG keeps doing MRO bolt-ons while its going-private merger with LKCM Headwater affiliates is still pending.",
-      "source_name": "Distribution Solutions Group 8-K (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000703604/000119312526421808/d172705d8k.htm",
-      "ticker": "NASDAQ:DSGR",
-      "checked": "2026-10-15T23:58:00Z"
-    },
-    {
-      "id": "2026-10-15-fhn-q3",
-      "time": "2026-10-15T22:00:00Z",
-      "tag": "EARNINGS",
-      "headline": "First Horizon swings to a Q3 loss of $0.20 a share on a $4.5B mortgage sale",
-      "take": "First Horizon reported a third-quarter net loss available to common shareholders of $94 million, or $0.20 a diluted share, versus earnings of $0.50 a year earlier; excluding notable items of $0.73 a share, adjusted EPS was $0.53 versus $0.51. Net interest income (FTE) rose to $686 million from $678 million while the net interest margin slipped to 3.48% from 3.55%. The loss is an accounting reset rather than a credit event: the bank is taking the hit now to swap low-yielding mortgages for room to grow loans.",
-      "source_name": "First Horizon Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm",
-      "ticker": "NYSE:FHN",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-fhn-mortgage-sale",
-      "time": "2026-10-15T22:04:00Z",
-      "tag": "CREDIT",
-      "headline": "First Horizon books a $473M pretax loss to sell ~$4.5B of low-yield mortgages",
-      "take": "First Horizon recorded a $473 million pretax loss in noninterest income (part of notable items totaling $347 million after tax), mainly from moving about $4.5 billion of lower-yielding consumer mortgages to held for sale; the bank says the sale will be accretive to earnings going forward. Period-end loans fell to $59.8 billion from $63.1 billion a year earlier, deposits rose to $67.7 billion from $65.5 billion, and preliminary CET1 was 10.3% versus 11.0%. With mortgage rates above 7%, regional banks still carrying loans written at much lower coupons face the same choice: hold them and accept thin spreads, or crystallize the loss and redeploy the capital.",
-      "source_name": "First Horizon Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000036966/000003696626000178/a3q2026earningsrelease.htm",
-      "ticker": "NYSE:FHN",
-      "correction": "Clarified that the $347 million after-tax figure is the total of all notable items, not the after-tax amount of the $473 million mortgage-sale loss alone.",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-warsh-georgieva-bangkok",
-      "time": "2026-10-15T22:08:00Z",
-      "tag": "FED",
-      "headline": "Warsh joins IMF's Georgieva for a Bangkok fireside chat at 11:30 p.m. ET tonight",
-      "take": "The Federal Reserve Board calendar lists a discussion with Chairman Kevin Warsh at 11:30 p.m. ET on Oct. 15, a fireside chat with IMF Managing Director Kristalina Georgieva in Bangkok, Thailand. The Board's G.17 industrial production release follows at 9:15 a.m. on Oct. 16. Remarks this close to the Oct. 27–28 FOMC meeting will be read for how the Fed weighs the energy-driven jump in producer and consumer prices against slowing activity abroad.",
-      "source_name": "Federal Reserve Board calendar, October 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-wire-proofpoint-varonis",
-      "time": "2026-10-15T21:33:00Z",
-      "tag": "DEALS",
-      "headline": "Proofpoint to buy Varonis for $49.75 a share in cash, about $6.3B",
-      "take": "Proofpoint agreed to acquire Varonis for $49.75 a share in cash, about $6.3 billion, a 52% premium to Varonis' June 22 close before initial sale rumors and 17% above its September 1 close. Thoma Bravo committed equity and secured debt financing commitments, and closing is expected in the first half of 2027 subject to Varonis shareholder and regulatory approvals. The deal adds data-security software to Proofpoint's email and human-risk platform as private capital keeps consolidating listed security vendors.",
-      "source_name": "Proofpoint press release",
-      "source_url": "https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security",
-      "ticker": "NASDAQ:VRNS",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-wire-nasdaq-level",
-      "time": "2026-10-15T21:59:00Z",
-      "tag": "DEALS",
-      "headline": "Nasdaq closes LeveL Markets buy, adding a top-three U.S. ATS",
-      "take": "Nasdaq completed its acquisition of LeveL Markets, which it says is the third-largest U.S. alternative trading system by volume and processes hundreds of millions of shares daily across more than 7,000 symbols; terms were not disclosed. LeveL will keep running as a FINRA-registered ATS. Owning the venue gives Nasdaq a direct share of off-exchange equity flow.",
-      "source_name": "Nasdaq press release",
-      "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-completes-acquisition-level-markets-advancing-its-always",
-      "ticker": "NASDAQ:NDAQ",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-wire-26north-mei",
-      "time": "2026-10-15T21:46:00Z",
-      "tag": "DEALS",
-      "headline": "26North to buy MEI Industrial Solutions from Olympus; terms undisclosed",
-      "take": "26North agreed to acquire MEI Industrial Solutions, a Dallas-based mover and installer of heavy equipment for data centers, semiconductor plants and other advanced manufacturing, from Olympus Partners; terms were not disclosed and closing is expected in Q4 2026. MEI has 30 operating locations and nearly 2,500 U.S. employees. The deal targets services capacity tied to the data-center build-out rather than the hardware itself.",
-      "source_name": "26North press release (Business Wire)",
-      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-26north-to-acquire-mei-industrial-solutions-a-leading-provider-of-critical-equipment-services-for-data-centers-and-advanced-manufacturing",
-      "ticker": "",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-ibkr-q3",
-      "time": "2026-10-15T21:14:10Z",
-      "tag": "EARNINGS",
-      "headline": "Interactive Brokers Q3 EPS rises to $0.69 as net interest income climbs 19%",
-      "take": "Interactive Brokers reported Q3 GAAP diluted EPS of $0.69 versus $0.59 a year earlier, and $0.67 as adjusted versus $0.57, on reported net revenues of $1.91 billion versus $1.66 billion. Net interest income rose 19% to $1.15 billion, commissions rose 12% to $602 million and the pretax margin was 78%. The mix matters: with net interest income nearly double commissions, results lean more on client cash and margin balances than on trading volume.",
-      "source_name": "Interactive Brokers 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
-      "ticker": "NASDAQ:IBKR",
-      "checked": "2026-10-15T21:50:56Z"
     }
   ]
 }

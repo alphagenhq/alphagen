@@ -1,6 +1,80 @@
 {
-  "updated": "2026-10-27T16:57:10Z",
+  "updated": "2026-10-27T20:50:14Z",
   "items": [
+    {
+      "id": "2026-10-27-the-close",
+      "time": "2026-10-27T20:50:14Z",
+      "tag": "EARNINGS",
+      "series": "the-close",
+      "title": "The Close: Range goes quiet for its merger, a bank posts a loss, and a driller turns profitable",
+      "dek": "Tuesday evening reports from Range Resources, National Bank Holdings, DMC Global, Orion and Pharming showed revenue growth alongside very different bottom lines.",
+      "key_points": [
+        "Range Resources: Q3 net income $175.3M vs $144.3M; production 2,499,104 mcfe/d vs 2,227,831; no call due to pending EQT merger.",
+        "National Bank Holdings: Q3 net loss of $8.8M, or $(0.20) per share, vs net income of $35.3M; net interest margin 4.00%.",
+        "DMC Global: Q3 sales $172.8M vs $151.5M; net income $9.7M vs a $3.1M loss; Q4 sales guided to $154-$164M.",
+        "Orion: revenue $256.2M vs $225.1M; backlog $645M; 2026 guidance reiterated. Pharming: revenue $117.6M vs $97.3M."
+      ],
+      "talking_points": [
+        "Range Resources grew third-quarter net income to $175.3 million and said it will skip its earnings call because of its pending EQT merger, so the written release is the main update for shareholders.",
+        "National Bank Holdings reported a $8.8 million quarterly loss even though its net interest margin edged up to 4.00%, a reminder that a bank's margin is only one part of its overall results.",
+        "DMC Global swung to a $9.7 million profit from a loss a year earlier, which shows how a company's earnings can turn quickly even when sales grow at a more modest pace."
+      ],
+      "body": [
+        "Several companies reported after Tuesday's session, and the common thread was revenue growth paired with widely different profit outcomes. This recap uses only figures from each company's own release.",
+        {
+          "h": "Energy: Range keeps it to the release"
+        },
+        "Range Resources reported third-quarter GAAP net income of $175.3 million, or $0.75 per diluted share, versus $144.3 million and $0.60 a year earlier. Total revenues and other income were $842.8 million versus $748.5 million, an increase of 12.6% by our calculation, and production averaged 2,499,104 mcfe per day versus 2,227,831, up 12.2%. Net debt was about $794 million at Sept. 30, versus about $1,218 million at Dec. 31, 2025. The release refers to a pending transaction with EQT Corporation and says Range will not host a conference call or webcast because of the pending merger.",
+        {
+          "h": "Banks and real estate"
+        },
+        "National Bank Holdings reported a net loss of $8.8 million, or $(0.20) per diluted share, versus net income of $26.5 million in the second quarter and $35.3 million in the third quarter of 2025. Net interest margin on a fully taxable-equivalent basis was 4.00% versus 3.94% in the second quarter and 3.98% a year earlier. Total assets were about $12.73 billion, compared with about $10.15 billion at Sept. 30, 2025. American Assets Trust reported funds from operations of $0.56 per diluted share versus $0.49, and raised its 2026 FFO range to $2.04 to $2.10 from $1.96 to $2.10. Its office occupancy was 85.8% versus 81.9% a year earlier.",
+        {
+          "h": "Industrials and health care"
+        },
+        "DMC Global reported net sales of $172.8 million versus $151.5 million, up 14.1% by our calculation, and net income attributable to DMC of $9.7 million versus a net loss of $3.1 million. Its adjusted EBITDA attributable to DMC was $19.0 million including $5.4 million of tariff refunds, versus $8.6 million, and it guided fourth-quarter sales to $154 million to $164 million. Orion Group Holdings reported revenue of $256.2 million versus $225.1 million, GAAP net income of $5.5 million versus $3.3 million, and backlog of $645 million, and reiterated 2026 revenue guidance of $900 million to $950 million. Pharming reported total revenues of $117.6 million versus $97.3 million, a net profit of $22.4 million versus $7.5 million, and tightened 2026 revenue guidance to $380 million to $390 million.",
+        {
+          "h": "What to watch"
+        },
+        "Freddie Mac said it will report third-quarter results before U.S. markets open on Thursday, Oct. 29, with a media webcast at 9 a.m. ET. Pharming expects Phase II topline data in the broader CVID population in November 2026. Today's reports are unaudited and preliminary until each company files its Form 10-Q or equivalent, so figures may be revised."
+      ],
+      "sources": [
+        {
+          "name": "Range Resources Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389652/0/en/range-announces-third-quarter-2026-results.html"
+        },
+        {
+          "name": "National Bank Holdings Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389654/0/en/national-bank-holdings-corporation-announces-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "American Assets Trust Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389636/34254/en/american-assets-trust-inc-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "DMC Global Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389610/0/en/dmc-global-reports-third-quarter-financial-results.html"
+        },
+        {
+          "name": "Orion Group Holdings Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389606/9652/en/orion-group-holdings-reports-third-quarter-2026-results.html"
+        },
+        {
+          "name": "Pharming Group Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3388693/0/en/pharming-group-reports-third-quarter-2026-financial-results-strong-revenue-growth-joenja-apds-expansion-and-cvid-topline-data-in-november.html"
+        },
+        {
+          "name": "Freddie Mac release-date notice (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389655/0/en/freddie-mac-announces-release-date-for-third-quarter-2026-financial-results.html"
+        }
+      ],
+      "tickers": [
+        "NYSE:RRC",
+        "NYSE:NBHC",
+        "NASDAQ:BOOM"
+      ],
+      "checked": "2026-10-27T20:50:14Z"
+    },
     {
       "id": "2026-10-27-sales-vs-profit",
       "time": "2026-10-27T16:57:10Z",
