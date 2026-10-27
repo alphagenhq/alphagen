@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-27T10:44:37Z",
+ "updated": "2026-10-27T11:22:03Z",
  "items": [
+  {
+   "id": "live-0001193125-26-432665-2.02",
+   "time": "2026-10-27T11:17:11Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "HCA Healthcare releases financial results",
+   "take": "HCA Healthcare filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:17 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HCA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526432665/0001193125-26-432665-index.htm",
+   "ticker": "NYSE:HCA"
+  },
+  {
+   "id": "live-0000064040-26-000053-2.02",
+   "time": "2026-10-27T11:15:06Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "S&P Global releases financial results",
+   "take": "S&P Global filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:15 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, SPGI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000053/0000064040-26-000053-index.htm",
+   "ticker": "NYSE:SPGI"
+  },
+  {
+   "id": "live-0000089800-26-000054-2.02",
+   "time": "2026-10-27T11:04:25Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Sherwin Williams releases financial results",
+   "take": "Sherwin Williams filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:04 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, SHW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89800/000008980026000054/0000089800-26-000054-index.htm",
+   "ticker": "NYSE:SHW"
+  },
+  {
+   "id": "live-0001053507-26-000154-2.02",
+   "time": "2026-10-27T11:03:35Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "American Tower releases financial results",
+   "take": "American Tower filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:03 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AMT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000154/0001053507-26-000154-index.htm",
+   "ticker": "NYSE:AMT"
+  },
+  {
+   "id": "live-0001818874-26-000065-2.02",
+   "time": "2026-10-27T11:02:59Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Sofi Technologies releases financial results",
+   "take": "Sofi Technologies filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:02 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, SOFI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/0001818874-26-000065-index.htm",
+   "ticker": "NASDAQ:SOFI"
+  },
+  {
+   "id": "live-0001633917-26-000086-2.02",
+   "time": "2026-10-27T11:02:43Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "PayPal Holdings releases financial results",
+   "take": "PayPal Holdings filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:02 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PYPL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm",
+   "ticker": "NASDAQ:PYPL"
+  },
+  {
+   "id": "live-0000914208-26-000370-2.02",
+   "time": "2026-10-27T11:01:23Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Invesco releases financial results",
+   "take": "Invesco filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:01 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, IVZ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000370/0000914208-26-000370-index.htm",
+   "ticker": "NYSE:IVZ"
+  },
+  {
+   "id": "live-0001628280-26-067403-2.02",
+   "time": "2026-10-27T10:58:13Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Coca Cola releases financial results",
+   "take": "Coca Cola filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:58 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067403/0001628280-26-067403-index.htm",
+   "ticker": "NYSE:KO"
+  },
+  {
+   "id": "live-0000833444-26-000101-2.02",
+   "time": "2026-10-27T10:58:11Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Johnson Controls International releases financial results",
+   "take": "Johnson Controls International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:58 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, JCI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000101/0000833444-26-000101-index.htm",
+   "ticker": "NYSE:JCI"
+  },
   {
    "id": "live-0000914208-26-000367-1.01",
    "time": "2026-10-27T10:40:40Z",
