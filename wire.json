@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-27T20:49:45Z",
+  "updated": "2026-10-27T21:44:29Z",
   "items": [
+    {
+      "id": "2026-10-27-hood-q3",
+      "time": "2026-10-27T21:46:29Z",
+      "tag": "EARNINGS",
+      "headline": "Robinhood Q3 revenue $1,424M vs $1,274M; net income $476M vs $556M",
+      "take": "Robinhood reported Q3 2026 total net revenues of $1,424 million versus $1,274 million a year earlier (up 12% by our calculation), net income of $476 million versus $556 million, and diluted EPS of $0.51 versus $0.61. Funded Customers reached 28.7 million and Total Platform Assets $396 billion. Revenue grew while profit fell, so costs and other items outpaced the top line this quarter.",
+      "source_name": "Robinhood Q3 2026 results (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001783879/000178387926000164/q32026robinhoodexhibit991.htm",
+      "ticker": "NASDAQ:HOOD",
+      "checked": "2026-10-27T21:44:29Z"
+    },
+    {
+      "id": "2026-10-27-hood-outlook",
+      "time": "2026-10-27T21:54:29Z",
+      "tag": "EQUITIES",
+      "headline": "Robinhood trims top of 2026 adj. opex and SBC outlook to $2.675B-$2.75B",
+      "take": "Robinhood lowered the top end of its 2026 Adjusted Operating Expenses and SBC outlook by $25 million, to $2.675 billion-$2.75 billion from $2.675 billion-$2.775 billion. The outlook excludes provision for credit losses, costs related to pending acquisitions, and potential significant regulatory matters. The company gave no 2026 outlook for total operating expenses, so the range covers only part of its cost base.",
+      "source_name": "Robinhood Q3 2026 results (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001783879/000178387926000164/q32026robinhoodexhibit991.htm",
+      "ticker": "NASDAQ:HOOD",
+      "checked": "2026-10-27T21:44:29Z"
+    },
+    {
+      "id": "2026-10-27-bxp-q3",
+      "time": "2026-10-27T22:02:29Z",
+      "tag": "HOUSING",
+      "headline": "BXP Q3 FFO $1.89/share vs $1.74; 2026 FFO guide $7.06-$7.08",
+      "take": "BXP reported Q3 2026 FFO of $1.89 per diluted share versus $1.74 a year earlier, total revenue of $911.4 million versus $871.5 million, and net income attributable to BXP of $0.71 per diluted share versus a loss of $0.77. Its 2026 FFO per diluted share guidance is $7.06 to $7.08, a midpoint of $7.07. A $0.05 higher midpoint implies a prior midpoint near $7.02, per our calculation from the release.",
+      "source_name": "BXP Q3 2026 press release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001037540/000103754026000041/q32026pressrelease.htm",
+      "ticker": "NYSE:BXP",
+      "checked": "2026-10-27T21:44:29Z"
+    },
+    {
+      "id": "2026-10-27-bxp-occupancy",
+      "time": "2026-10-27T22:12:29Z",
+      "tag": "HOUSING",
+      "headline": "BXP portfolio 89.4% occupied, 91.9% leased at Sept. 30; 74 leases signed in Q3",
+      "take": "BXP said total portfolio occupancy was 89.4% at Sept. 30, 2026, up 100 basis points from Q2, with 91.9% leased, up 60 basis points. It executed 74 leases totaling about 1.2 million square feet in Q3 with a weighted-average term of 10.3 years. The 250 basis point gap between leased and occupied space represents about 1.1 million square feet of future lease commencements.",
+      "source_name": "BXP Q3 2026 press release (SEC Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001037540/000103754026000041/q32026pressrelease.htm",
+      "ticker": "NYSE:BXP",
+      "checked": "2026-10-27T21:44:29Z"
+    },
+    {
+      "id": "2026-10-27-qnb-q3",
+      "time": "2026-10-27T22:24:29Z",
+      "tag": "CREDIT",
+      "headline": "QNB Corp Q3 GAAP loss $14.8M on restructuring; adj. net income $7.2M",
+      "take": "QNB Corp reported a Q3 2026 GAAP net loss of $14,774,000, or $(2.67) per diluted share, versus net income of $3,648,000 a year earlier, reflecting a $27,713,000 net loss from a balance sheet restructuring. Adjusted (non-GAAP) net income was $7,207,000, or $1.30 per share, and tax-equivalent NIM was 3.25% versus 2.72%. Total assets were $2.36 billion at Sept. 30 versus $1.91 billion at Dec. 31, 2025, with Victory Bancorp (closed April 1, 2026) in the base.",
+      "source_name": "QNB Corp Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389512/0/en/qnb-corp-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-27T21:44:29Z"
+    },
     {
       "id": "2026-10-27-rrc-q3",
       "time": "2026-10-27T20:51:45Z",
@@ -5262,60 +5316,6 @@
       "source_name": "Bank of England: Speech by Nathanaël Benjamin (ISDA forum)",
       "source_url": "https://www.bankofengland.co.uk/speech/2026/october/nathanael-benjamin-speech-at-isda-derivatives-trading-and-treasury-forum",
       "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-boe-weekly-reserves",
-      "time": "2026-10-15T23:50:00Z",
-      "tag": "GLOBAL",
-      "headline": "BoE reserve balances slip £3.6B to £645.9B; short-term repo at £132.1B",
-      "take": "Reserve balances at the Bank of England fell to £645.9 billion in the week to Oct. 14 from £649.6 billion a week earlier, while short-term repo lending eased to £132.1 billion from £133.4 billion, per the Bank's weekly report. The loan to the Asset Purchase Facility was unchanged at £521.8 billion. Repo usage of more than £130 billion shows banks are leaning steadily on Bank facilities as quantitative tightening drains reserves.",
-      "source_name": "Bank of England Weekly Report, 14 October 2026",
-      "source_url": "https://www.bankofengland.co.uk/weekly-report/2026/14-october-2026",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-meta-q3-date",
-      "time": "2026-10-15T23:55:00Z",
-      "tag": "EARNINGS",
-      "headline": "Meta will report Q3 results after the close on Oct. 21",
-      "take": "Meta Platforms said it will release third-quarter 2026 results after market close on Wednesday, Oct. 21, with a conference call at 4:30 p.m. ET. Its capital-spending commentary will be an early read on how large platforms are budgeting for AI infrastructure into 2027.",
-      "source_name": "Meta Investor Relations",
-      "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx",
-      "ticker": "NASDAQ:META",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-15-wire-jio-rhp",
-      "time": "2026-10-15T22:43:00Z",
-      "tag": "IPO",
-      "headline": "Jio Platforms files IPO prospectus; all-primary issue of up to 270M shares",
-      "take": "Jio Platforms' red herring prospectus dated October 14 covers a fresh issue of up to 270,000,000 equity shares with no offer for sale; anchor bidding is October 19 and the public issue runs October 21-23, with listing on BSE and NSE. AlphaGen read: with no selling shareholders, the offering is a pure capital raise for the company, and the size of the syndicate signals how much global distribution is being lined up.",
-      "source_name": "Jio Platforms Red Herring Prospectus",
-      "source_url": "https://myjiostatic.cdn.jio.com/cms/assets/iv3/Red%20Herring%20Prospectus.pdf",
-      "ticker": "",
-      "checked": "2026-10-15T23:58:00Z"
-    },
-    {
-      "id": "2026-10-15-wire-tko-svc",
-      "time": "2026-10-15T22:52:00Z",
-      "tag": "DEALS",
-      "headline": "TKO goes public with $2.0B cash bid for Service Properties Trust hotels",
-      "take": "TKO LLC said its October 7 letter of intent offers $2.0 billion in cash for SVC's hospitality portfolio, that it has had no meaningful response, and that it will put $50 million in escrow once SVC signs an NDA. AlphaGen read: it is an unsolicited, non-binding approach, so the next marker is whether SVC's board engages or discloses other bids.",
-      "source_name": "TKO LLC press release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/tko-hotels-calls-on-service-properties-trust-to-engage-on-2-0-billion-all-cash-offer-to-acquire-hospitality-portfolio-302909178.html",
-      "ticker": "NASDAQ:SVC",
-      "checked": "2026-10-15T23:58:00Z"
-    },
-    {
-      "id": "2026-10-15-wire-tcgx-ii",
-      "time": "2026-10-15T23:01:00Z",
-      "tag": "IPO",
-      "headline": "TCGX Acquisition Corp. II prices $100M shares-only SPAC IPO",
-      "take": "TCGX Acquisition Corp. II sold 10,000,000 Class A shares at $10.00 for $100 million, with Nasdaq trading under TCXB from October 16 and no warrants or over-allotment option. AlphaGen read: dropping warrants trims dilution for a future healthcare target and reflects a cleaner SPAC structure.",
-      "source_name": "TCGX Acquisition Corp. II press release (Business Wire)",
-      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-tcgx-acquisition-corp-ii-announces-pricing-of-100000000-initial-public-offering",
-      "ticker": "NASDAQ:TCXB",
-      "checked": "2026-10-15T23:58:00Z"
     }
   ]
 }
