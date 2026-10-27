@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-27T12:06:24Z",
+ "updated": "2026-10-27T13:47:42Z",
  "items": [
+  {
+   "id": "2026-10-27-arcc-mfic",
+   "time": "2026-10-27T13:47:42Z",
+   "type": "M&A",
+   "headline": "Ares Capital to acquire MidCap Financial Investment Corporation",
+   "parties": "Acquirer: Ares Capital Corporation; Target: MidCap Financial Investment Corporation",
+   "value": 2.6,
+   "value_text": "About $2.6B total enterprise value",
+   "status": "Announced",
+   "announced": "2026-10-27",
+   "sector": "Financials",
+   "take": "Ares Capital agreed to acquire MFIC for total consideration of $10.88 per fully diluted share, about $1.21 in cash and about $9.67 in Ares Capital stock. Closing is expected in the first half of 2027, subject to MFIC stockholder and regulatory approvals.",
+   "source_name": "Ares Capital press release (SEC Form 8-K Ex. 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001287750/000110465926118958/tm2628314d1_ex99-1.htm",
+   "tickers": [
+    "NASDAQ:ARCC",
+    "NASDAQ:MFIC"
+   ],
+   "checked": "2026-10-27T13:47:42Z"
+  },
+  {
+   "id": "2026-10-27-gwre-hx",
+   "time": "2026-10-27T13:48:42Z",
+   "type": "M&A",
+   "headline": "Guidewire to acquire hyperexponential for $1.7B cash plus up to $400M contingent",
+   "parties": "Acquirer: Guidewire; Target: hyperexponential",
+   "value": 1.7,
+   "value_text": "$1.7B base cash plus up to $400M contingent",
+   "status": "Announced",
+   "announced": "2026-10-27",
+   "sector": "Software",
+   "take": "Guidewire signed a definitive agreement to acquire London-based hyperexponential for a base price of $1.7 billion in cash plus up to $400 million contingent on recurring revenue targets. Funding is $1.0 billion of new term loan plus existing cash; closing is expected in Guidewire fiscal Q2 2027.",
+   "source_name": "Guidewire press release",
+   "source_url": "https://ir.guidewire.com/news-releases/news-release-details/guidewire-signs-definitive-agreement-acquire-hyperexponential",
+   "tickers": [
+    "NYSE:GWRE"
+   ],
+   "checked": "2026-10-27T13:47:42Z"
+  },
   {
    "id": "2026-10-26-radnet-onrad",
    "time": "2026-10-27T12:48:24Z",

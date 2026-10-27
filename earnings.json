@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-27T13:03:15Z",
+ "updated": "2026-10-27T13:47:42Z",
  "items": [
+  {
+   "id": "2026-10-27-ITW-Q3",
+   "time": "2026-10-27T13:47:42Z",
+   "ticker": "NYSE:ITW",
+   "name": "Illinois Tool Works",
+   "period": "Q3 2026",
+   "report_date": "2026-10-27",
+   "revenue": 4.236,
+   "revenue_yoy": 4.4,
+   "eps_yoy": 6.8,
+   "eps": 3.0,
+   "take": "ITW reported Q3 2026 operating revenue of $4,236 million versus $4,059 million and GAAP EPS of $3.00 versus $2.81; organic growth was 3.8% and operating margin 27.8%.",
+   "source_name": "ITW press release (Oct. 27, 2026)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388906/31446/en/itw-reports-third-quarter-2026-results.html",
+   "checked": "2026-10-27T13:47:42Z"
+  },
+  {
+   "id": "2026-10-27-EEFT-Q3",
+   "time": "2026-10-27T13:48:42Z",
+   "ticker": "NASDAQ:EEFT",
+   "name": "Euronet Worldwide",
+   "period": "Q3 2026",
+   "report_date": "2026-10-27",
+   "revenue": 1.1611,
+   "revenue_yoy": 1.3,
+   "eps_yoy": -8.0,
+   "eps": 2.53,
+   "take": "Euronet reported Q3 2026 revenues of $1,161.1 million versus $1,145.7 million and diluted EPS of $2.53 versus $2.75; adjusted EPS was $3.55 versus $3.62.",
+   "source_name": "Euronet press release (Oct. 27, 2026)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388917/23467/en/euronet-worldwide-reports-third-quarter-2026-financial-results.html",
+   "checked": "2026-10-27T13:47:42Z"
+  },
+  {
+   "id": "2026-10-27-ARCC-Q3",
+   "time": "2026-10-27T13:49:42Z",
+   "ticker": "NASDAQ:ARCC",
+   "name": "Ares Capital",
+   "period": "Q3 2026",
+   "report_date": "2026-10-27",
+   "revenue": 0.763,
+   "revenue_yoy": -2.4,
+   "eps_yoy": -22.8,
+   "eps": 0.44,
+   "take": "Ares Capital reported Q3 2026 total investment income of $763 million versus $782 million and GAAP EPS of $0.44 versus $0.57; core EPS was $0.46 versus $0.50 and NAV per share $19.31.",
+   "source_name": "Ares Capital press release (SEC Form 8-K Ex. 99.1, Oct. 27, 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001287750/000162828026067382/arccq3-2026exhibit991.htm",
+   "checked": "2026-10-27T13:47:42Z"
+  },
   {
    "id": "2026-10-27-CNC-Q3",
    "time": "2026-10-27T13:03:15Z",
@@ -1654,7 +1702,7 @@
    "revenue_yoy": 7.8,
    "eps": 0.86,
    "eps_yoy": 4.9,
-   "take": "Total revenues rose to $2.388 billion from $2.214 billion, and core FFO rose to $1.60 a share from $1.49. Prologis narrowed 2026 core FFO guidance to $6.25\u2013$6.29 and cut net EPS guidance to $4.05\u2013$4.15.",
+   "take": "Total revenues rose to $2.388 billion from $2.214 billion, and core FFO rose to $1.60 a share from $1.49. Prologis narrowed 2026 core FFO guidance to $6.25–$6.29 and cut net EPS guidance to $4.05–$4.15.",
    "source_name": "Prologis, Q3 2026 earnings release",
    "source_url": "https://ir.prologis.com/news-events/press-releases/detail/1055/prologis-reports-third-quarter-2026-results",
    "checked": "2026-10-15T16:46:43Z"
@@ -1702,7 +1750,7 @@
    "revenue_yoy": 50.9,
    "eps": 29.43,
    "eps_yoy": 68.7,
-   "take": "Revenue and EPS are in New Taiwan dollars (NT$ billions; diluted EPS NT$29.43, or US$4.60 per ADR); US$ revenue was $46.72 billion. TSMC guided Q4 revenue to US$52.3B\u2013$54.3B with a 65%\u201367% gross margin.",
+   "take": "Revenue and EPS are in New Taiwan dollars (NT$ billions; diluted EPS NT$29.43, or US$4.60 per ADR); US$ revenue was $46.72 billion. TSMC guided Q4 revenue to US$52.3B–$54.3B with a 65%–67% gross margin.",
    "source_name": "TSMC 3Q26 earnings release, Form 6-K (SEC)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
    "checked": "2026-10-15T12:08:25Z"
@@ -1782,7 +1830,7 @@
    "revenue_yoy": 5.9,
    "eps": 0.09,
    "eps_yoy": -95.8,
-   "take": "Sales rose 5.9% on 7.7% Innovative Medicine growth, but diluted EPS fell to $0.09 on special items including a one-time charge for the proposed talc litigation resolution; adjusted EPS was $2.59. J&J raised 2026 guidance to $101.0B\u2013$101.4B of sales and $11.05\u2013$11.15 of adjusted EPS.",
+   "take": "Sales rose 5.9% on 7.7% Innovative Medicine growth, but diluted EPS fell to $0.09 on special items including a one-time charge for the proposed talc litigation resolution; adjusted EPS was $2.59. J&J raised 2026 guidance to $101.0B–$101.4B of sales and $11.05–$11.15 of adjusted EPS.",
    "source_name": "Johnson & Johnson 8-K, Exhibit 99.1 (SEC)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm",
    "checked": "2026-10-15T01:52:36Z"
