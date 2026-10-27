@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-27T16:57:10Z",
+  "updated": "2026-10-27T17:50:04Z",
   "items": [
+    {
+      "id": "2026-10-27-asm-q3",
+      "time": "2026-10-27T17:58:04Z",
+      "tag": "EARNINGS",
+      "headline": "ASM International Q3 revenue €1,159.4M vs €800.0M; operating margin 32.7%",
+      "take": "ASM International reported Q3 2026 revenue of €1,159.4 million versus €800.0 million in Q3 2025 (45% reported, 44% at constant currency) and €1,003.1 million in Q2. Operating margin was 32.7% versus 30.3% a year earlier, and gross margin was 52.0%. Revenue rose far faster than costs, lifting margins on a year-over-year basis.",
+      "source_name": "ASM International Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/27/3389491/0/en/asm-reports-third-quarter-2026-results.html",
+      "ticker": "EURONEXT:ASM",
+      "checked": "2026-10-27T17:50:04Z"
+    },
+    {
+      "id": "2026-10-27-asm-outlook",
+      "time": "2026-10-27T18:10:04Z",
+      "tag": "GLOBAL",
+      "headline": "ASM guides Q4 revenue €1,230M ±5%; 2027 revenue seen above €5.7B",
+      "take": "ASM said it expects Q4 2026 revenue of €1,230 million +/-5% at constant currencies, full-year 2026 revenue up approximately 35%, and 2027 revenue of more than €5.7 billion. It also authorized a new share buyback of up to €300 million. The 2027 projection is stated as company guidance, not an outcome.",
+      "source_name": "ASM International Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/27/3389491/0/en/asm-reports-third-quarter-2026-results.html",
+      "ticker": "EURONEXT:ASM",
+      "checked": "2026-10-27T17:50:04Z"
+    },
+    {
+      "id": "2026-10-27-glxy-q3",
+      "time": "2026-10-27T18:22:04Z",
+      "tag": "CRYPTO",
+      "headline": "Galaxy Q3 net income $323M vs Q2 loss of $85M; diluted EPS $0.66",
+      "take": "Galaxy Digital reported Q3 2026 net income of $323 million versus a net loss of $85 million in Q2, with diluted EPS of $0.66. Adjusted EBITDA was $455 million versus negative $77 million in Q2. The release compares against Q2, so the swing reflects a quarter-over-quarter turnaround, not a year-over-year gain.",
+      "source_name": "Galaxy Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/galaxy-announces-third-quarter-2026-financial-results-302920339.html",
+      "ticker": "NASDAQ:GLXY",
+      "checked": "2026-10-27T17:50:04Z"
+    },
+    {
+      "id": "2026-10-27-glxy-datacenters",
+      "time": "2026-10-27T18:34:04Z",
+      "tag": "CRYPTO",
+      "headline": "Galaxy data centers Q3 adj. gross profit $79M vs $20M; $3.5B notes for Helios",
+      "take": "Galaxy's Data Centers segment posted Q3 adjusted gross profit of $79 million versus $20 million in Q2, and total assets rose to $16.4 billion from $10.8 billion. The company completed a $3.5 billion senior secured notes offering to fund construction of Helios I, Phase II. The balance sheet is expanding alongside its data-center build-out.",
+      "source_name": "Galaxy Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/galaxy-announces-third-quarter-2026-financial-results-302920339.html",
+      "ticker": "NASDAQ:GLXY",
+      "checked": "2026-10-27T17:50:04Z"
+    },
     {
       "id": "2026-10-27-shw-q3",
       "time": "2026-10-27T16:59:10Z",
@@ -5272,49 +5316,6 @@
       "source_url": "https://www.prnewswire.com/news-releases/chubby-group-closes-50m-series-a-led-by-prysm-capital-at-500m-valuation-signs-deal-to-purchase-47-gen-korean-bbq-restaurants-302910258.html",
       "correction": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release.",
       "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-14-harmonic-security-series-b",
-      "time": "2026-10-15T19:31:00Z",
-      "tag": "DEALS",
-      "headline": "Harmonic Security raises $50M Series B led by Crosspoint",
-      "take": "Harmonic Security raised a $50 million Series B led by Crosspoint Capital Partners with existing investors participating, taking total funding to $76 million; it has over 90 staff across the US and UK. Proceeds go to engineering and go-to-market expansion. AlphaGen read: AI-usage governance is attracting dedicated security capital.",
-      "source_name": "Harmonic Security press release (Business Wire)",
-      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-14-harmonic-security-raises-50-million-series-b-enabling-safe-ai-adoption-for-millions-more-employees",
-      "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-15-schw-q3",
-      "time": "2026-10-15T18:08:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:SCHW",
-      "headline": "Schwab Q3 revenue rises 17% to a record $7.17B; core net new assets $190.4B",
-      "take": "Charles Schwab reported third-quarter total net revenues of $7.171 billion versus $6.135 billion a year earlier, with GAAP diluted EPS of $1.62 against $1.26 and adjusted EPS of $1.69 against $1.31. Net interest revenue rose to $3.476 billion from $3.050 billion, core net new assets reached $190.4 billion and total client assets stood at $13.33 trillion. A 52.7% GAAP pre-tax margin shows asset gathering and spread income compounding together, which leaves the bigger sensitivity in how client cash behaves if rates stay above 5% at the long end.",
-      "source_name": "Charles Schwab Q3 2026 earnings release",
-      "source_url": "https://content.schwab.com/web/retail/public/about-schwab/schwab_q3_2026_earnings_release.pdf",
-      "correction": "Source link changed from a third-party repost (stockhouse.com) to Schwab's own earnings release; figures unchanged.",
-      "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-15-freddie-740-unchanged",
-      "time": "2026-10-15T18:12:00Z",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate holds at 7.40%; 15-year eases to 6.71%",
-      "take": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed rate at 7.40% this week, unchanged from a week earlier and up from 6.27% a year ago; the 15-year averaged 6.71%, down from 6.73%. That leaves the 30-year 113 basis points above its year-ago level. A pause near 7.4% is not relief: with the 10-year Treasury yield still above 5%, financing costs remain the main brake on home purchases heading into the fall.",
-      "source_name": "Freddie Mac Primary Mortgage Market Survey",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/15/3381991/0/en/mortgage-rates-hold-steady-at-7-40.html",
-      "checked": "2026-10-15T18:57:36Z"
-    },
-    {
-      "id": "2026-10-15-rxrx-offering-sanofi",
-      "time": "2026-10-15T18:16:00Z",
-      "tag": "EQUITIES",
-      "ticker": "NASDAQ:RXRX",
-      "headline": "Recursion prices $200M stock sale at $3.25 a share; Sanofi options first candidate",
-      "take": "Recursion's Oct. 15 8-K says it agreed to sell 61.54 million shares at $3.25 each for about $200 million in gross proceeds, and put preliminary Sept. 30 cash, equivalents and restricted cash at about $561 million, which it expects, with the offering, to fund operations into 2029. Sanofi optioned the first development candidate from their collaboration, triggering a $10 million milestone, and Recursion reported that 87% of 16 efficacy-evaluable patients in its REC-4881 trial had reduced polyp burden. The raise buys runway into 2029, but at the cost of dilution priced at a low per-share level.",
-      "source_name": "Recursion Pharmaceuticals Form 8-K (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1601830/000160183026000128/rxrx-20261015.htm",
-      "checked": "2026-10-15T18:57:36Z"
     }
   ]
 }
