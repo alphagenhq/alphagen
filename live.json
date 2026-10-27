@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-27T11:22:03Z",
+ "updated": "2026-10-27T12:01:15Z",
  "items": [
+  {
+   "id": "live-0001628280-26-067411-2.02",
+   "time": "2026-10-27T11:30:23Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Boeing releases financial results",
+   "take": "Boeing filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:30 AM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026067411/0001628280-26-067411-index.htm",
+   "ticker": "NYSE:BA"
+  },
   {
    "id": "live-0001193125-26-432665-2.02",
    "time": "2026-10-27T11:17:11Z",
