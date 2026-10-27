@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T20:35:08Z",
+ "updated": "2026-10-27T21:14:03Z",
  "items": [
+  {
+   "id": "live-0001701605-26-000033-2.02",
+   "time": "2026-10-27T21:05:54Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Baker Hughes releases financial results",
+   "take": "Baker Hughes filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:05 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BKR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000033/0001701605-26-000033-index.htm",
+   "ticker": "NASDAQ:BKR"
+  },
+  {
+   "id": "live-0001193125-26-434414-2.02",
+   "time": "2026-10-27T21:03:44Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Universal Health Services releases financial results",
+   "take": "Universal Health Services filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:03 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, UHS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526434414/0001193125-26-434414-index.htm",
+   "ticker": "NYSE:UHS"
+  },
+  {
+   "id": "live-0001104659-26-119188-2.02",
+   "time": "2026-10-27T20:38:40Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Waste Management releases financial results",
+   "take": "Waste Management filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:38 PM ET, Oct 27. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, WM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/823768/000110465926119188/0001104659-26-119188-index.htm",
+   "ticker": "NYSE:WM"
+  },
   {
    "id": "live-0001039684-26-000036-2.02",
    "time": "2026-10-27T20:27:53Z",
