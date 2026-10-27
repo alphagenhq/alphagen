@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-27T17:50:04Z",
+  "updated": "2026-10-27T18:49:51Z",
   "items": [
+    {
+      "id": "2026-10-27-rcl-q3",
+      "tag": "EARNINGS",
+      "headline": "Royal Caribbean Q3 revenue $5,591M vs $5,139M; adj. EPS $6.57 vs $5.75",
+      "take": "Royal Caribbean reported Q3 2026 total revenues of $5,591 million versus $5,139 million a year earlier, net income of $1,735 million, and diluted EPS of $6.45 versus $5.74. Adjusted EPS was $6.57 versus $5.75, and the company now expects full-year 2026 adjusted EPS of $17.85 to $17.95. Revenue grew about 8.8% year over year, with earnings growing faster than sales.",
+      "source_name": "Royal Caribbean Group Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/royal-caribbean-group-reports-third-quarter-results-above-expectations-and-raises-full-year-guidance-302920572.html",
+      "ticker": "NYSE:RCL",
+      "time": "2026-10-27T18:51:51Z",
+      "checked": "2026-10-27T18:49:51Z"
+    },
+    {
+      "id": "2026-10-27-ivz-q3",
+      "tag": "EARNINGS",
+      "headline": "Invesco Q3 operating revenues $1,873.2M vs $1,640.4M; AUM $2,537.8B",
+      "take": "Invesco reported Q3 2026 operating revenues of $1,873.2 million versus $1,640.4 million, diluted EPS of $0.65 versus $0.66, and adjusted diluted EPS of $0.72 versus $0.61. Total assets under management were $2,537.8 billion at September 30, with net long-term flows of $35.1 billion in the quarter. Revenue rose about 14.2% year over year while GAAP EPS was roughly flat.",
+      "source_name": "Invesco Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/invesco-reports-results-for-the-three-months-ended-september-30-2026-302920535.html",
+      "ticker": "NYSE:IVZ",
+      "time": "2026-10-27T19:01:51Z",
+      "checked": "2026-10-27T18:49:51Z"
+    },
+    {
+      "id": "2026-10-27-cms-q3",
+      "tag": "EARNINGS",
+      "headline": "CMS Energy Q3 adj. EPS $1.44 vs $0.93; reaffirms 2026 guide $3.83-$3.90",
+      "take": "CMS Energy reported Q3 2026 adjusted EPS of $1.44 versus $0.93 a year earlier, while reported EPS was $0.39 versus $0.92. It reaffirmed 2026 adjusted EPS guidance of $3.83 to $3.90 and 2027 guidance of $4.08 to $4.17. The wide gap between reported and adjusted EPS is worth reading against the company's reconciliation.",
+      "source_name": "CMS Energy Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/cms-energy-announces-third-quarter-results-reaffirms-2026-and-2027-adjusted-eps-guidance-302920059.html",
+      "ticker": "NYSE:CMS",
+      "time": "2026-10-27T19:11:51Z",
+      "checked": "2026-10-27T18:49:51Z"
+    },
+    {
+      "id": "2026-10-27-itri-q3",
+      "tag": "EARNINGS",
+      "headline": "Itron Q3 revenue $599M vs $582M; non-GAAP EPS $1.94 vs $1.54",
+      "take": "Itron reported Q3 2026 revenue of $599.3 million versus $581.6 million, GAAP diluted EPS of $1.61 versus $1.41, and non-GAAP diluted EPS of $1.94 versus $1.54. It guided Q4 revenue to $621 million to $636 million and full-year 2026 revenue to $2.37 billion to $2.385 billion. Revenue rose about 3.0% year over year, with profit growing much faster.",
+      "source_name": "Itron Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388994/0/en/itron-announces-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:ITRI",
+      "time": "2026-10-27T19:21:51Z",
+      "checked": "2026-10-27T18:49:51Z"
+    },
+    {
+      "id": "2026-10-27-rgen-q3",
+      "tag": "EARNINGS",
+      "headline": "Repligen Q3 revenue $209.3M vs $188.8M; sets FY revenue guide $844-$852M",
+      "take": "Repligen reported Q3 2026 revenue of $209.3 million versus $188.8 million, a GAAP diluted loss of $0.68 per share versus EPS of $0.26, and adjusted diluted EPS of $0.53 versus $0.46. Full-year 2026 guidance is for revenue of $844 million to $852 million and adjusted diluted EPS of $2.05 to $2.09. Revenue rose about 10.9% year over year while GAAP results swung to a loss.",
+      "source_name": "Repligen Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388843/24603/en/repligen-reports-third-quarter-2026-financial-results-and-updates-full-year-2026-financial-guidance.html",
+      "ticker": "NASDAQ:RGEN",
+      "time": "2026-10-27T19:31:51Z",
+      "checked": "2026-10-27T18:49:51Z"
+    },
     {
       "id": "2026-10-27-asm-q3",
       "time": "2026-10-27T17:58:04Z",
@@ -5260,62 +5315,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000728535/000143774926032715/ex_1025956.htm",
       "ticker": "NASDAQ:JBHT",
       "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-alcoa-output-guidance",
-      "time": "2026-10-15T21:56:10Z",
-      "tag": "COMMODITIES",
-      "headline": "Alcoa reaffirms 2026 aluminum output of 2.4–2.6M tonnes after 649 kmt Q3",
-      "take": "Alcoa produced 649,000 metric tons of aluminum and 2,467,000 tons of alumina in Q3, with aluminum shipments of 693,000 tons, and reaffirmed 2026 guidance for 2.4–2.6 million tons of aluminum production and 9.5–9.6 million tons of alumina. It flagged about $30 million of unfavorable raw material and maintenance costs and about $30 million of higher alumina costs in its Q4 aluminum segment. Steady volumes put the onus for Q4 earnings on prices and input costs rather than on production.",
-      "source_name": "Alcoa 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001675149/000119312526422891/aa-ex99_1.htm",
-      "ticker": "NYSE:AA",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-ibkr-dividend-015",
-      "time": "2026-10-15T22:02:10Z",
-      "tag": "EQUITIES",
-      "headline": "Interactive Brokers lifts quarterly dividend to $0.15 from $0.0875",
-      "take": "Interactive Brokers declared an increase in its quarterly cash dividend to $0.15 a share from $0.0875, payable December 14, 2026, alongside 35% growth in customer accounts to 5.58 million. A 71% higher payout signals management's confidence that its interest-driven earnings base is durable, though it remains a small share of earnings.",
-      "source_name": "Interactive Brokers 8-K, Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000154/ibkr-ex99_1.htm",
-      "ticker": "NASDAQ:IBKR",
-      "checked": "2026-10-15T22:38:47Z"
-    },
-    {
-      "id": "2026-10-15-intuit-sequence",
-      "time": "2026-10-15T18:51:00Z",
-      "tag": "DEALS",
-      "ticker": "NASDAQ:INTU",
-      "headline": "Intuit to buy AI revenue-management platform Sequence; terms undisclosed",
-      "take": "Intuit signed an agreement to acquire Sequence, a London- and New York-based platform that automates quote-to-revenue work including pricing, billing, collections and revenue recognition; terms were not disclosed. Sequence will be used to strengthen Intuit Enterprise Suite and QuickBooks Online Advanced for mid-market businesses. AlphaGen read: a tuck-in that extends Intuit's push up-market into revenue operations.",
-      "source_name": "Intuit press release",
-      "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence",
-      "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-15-sakuu-pyrophyte-spac",
-      "time": "2026-10-15T19:04:00Z",
-      "tag": "DEALS",
-      "ticker": "NYSE:PAII",
-      "headline": "Sakuu to list via Pyrophyte II SPAC at $600M pre-money equity value",
-      "take": "Sakuu, maker of Kavian dry-printing equipment for battery electrodes, agreed to combine with Pyrophyte Acquisition Corp. II at an implied $600 million pre-money equity value; the combined company is expected to trade on the NYSE as SAKU. Both boards approved the deal, which still needs shareholder votes and an S-4 filing. AlphaGen read: with no PIPE or trust figure disclosed, the cash actually delivered at close is the key unknown.",
-      "source_name": "Sakuu / Pyrophyte press release (Business Wire)",
-      "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-15-sakuu-corporation-to-go-public-via-business-combination-with-pyrophyte-acquisition-corp-ii",
-      "checked": "2026-10-15T21:50:56Z"
-    },
-    {
-      "id": "2026-10-15-chubby-group-series-a-gen",
-      "time": "2026-10-15T19:17:00Z",
-      "tag": "DEALS",
-      "ticker": "NASDAQ:GENK",
-      "headline": "Chubby Group raises $50M at $500M valuation, signs LOI for GEN's 47 U.S. restaurants",
-      "take": "Chubby Group closed a $50 million Series A led by Prysm Capital at a $500 million valuation and signed a letter of intent to take over GEN Restaurant Group's 47 U.S. restaurants and four development sites, valued at up to $100 million and with part of the consideration a note convertible into Chubby equity at a $1.5 billion valuation. The first 12 locations are targeted for November 1, 2026, subject to definitive agreements and approvals. AlphaGen read: the GEN transfer is conditional, so the binding piece today is the equity raise.",
-      "source_name": "Chubby Group press release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/chubby-group-closes-50m-series-a-led-by-prysm-capital-at-500m-valuation-signs-deal-to-purchase-47-gen-korean-bbq-restaurants-302910258.html",
-      "correction": "Clarified that the convertible note is part of the consideration for the GEN assets, not the full payment, per the release.",
-      "checked": "2026-10-15T21:50:56Z"
     }
   ]
 }
