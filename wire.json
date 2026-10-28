@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-28T14:50:54Z",
+  "updated": "2026-10-28T15:45:24Z",
   "items": [
+    {
+      "id": "2026-10-28-cstm-q3",
+      "time": "2026-10-28T15:47:24Z",
+      "tag": "EARNINGS",
+      "headline": "Constellium Q3 revenue $2,639M vs $2,166M; diluted EPS $0.84 vs $0.62",
+      "take": "Constellium reported Q3 2026 revenue of $2,639 million versus $2,166 million, net income of $119 million versus $88 million, diluted EPS of $0.84 versus $0.62, and Adjusted EBITDA of $276 million versus $235 million. Revenue rose about 21.8% and diluted EPS about 35.5% by our calculation, even though shipments of 368 thousand metric tons were down 1% from Q3 2025. Revenue rising while shipments fell means the growth did not come from volume.",
+      "source_name": "Constellium Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389941/0/en/constellium-reports-strong-third-quarter-2026-results-raises-full-year-2026-guidance.html",
+      "ticker": "NYSE:CSTM",
+      "checked": "2026-10-28T15:45:24Z"
+    },
+    {
+      "id": "2026-10-28-cstm-guide",
+      "time": "2026-10-28T15:55:24Z",
+      "tag": "EQUITIES",
+      "headline": "Constellium raises 2026 Adj. EBITDA guide to $1.03B-$1.06B; FCF over $300M",
+      "take": "Constellium said it is raising 2026 guidance and now expects Adjusted EBITDA of $1.03 billion to $1.06 billion, excluding the non-cash impact of metal price lag, and Free Cash Flow in excess of $300 million. The company generated Free Cash Flow of $128 million in the third quarter. The release does not state the prior range, so the size of the raise cannot be measured from the source.",
+      "source_name": "Constellium Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389941/0/en/constellium-reports-strong-third-quarter-2026-results-raises-full-year-2026-guidance.html",
+      "ticker": "NYSE:CSTM",
+      "checked": "2026-10-28T15:45:24Z"
+    },
+    {
+      "id": "2026-10-28-stng-q3",
+      "time": "2026-10-28T16:03:24Z",
+      "tag": "EARNINGS",
+      "headline": "Scorpio Tankers Q3 net income $224.3M vs $84.5M; diluted EPS $4.60 vs $1.73",
+      "take": "Scorpio Tankers reported Q3 2026 net income of $224.3 million versus $84.5 million a year earlier, with diluted EPS of $4.60 versus $1.73 and vessel revenue of $266.5 million versus $241.4 million. Net income was about 2.7 times the prior-year figure on revenue growth of about 10.4% by our calculation. Profit grew much faster than revenue in the quarter.",
+      "source_name": "Scorpio Tankers Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389990/0/en/scorpio-tankers-inc-announces-financial-results-for-the-third-quarter-of-2026-and-an-increase-to-its-quarterly-dividend.html",
+      "ticker": "NYSE:STNG",
+      "checked": "2026-10-28T15:45:24Z"
+    },
+    {
+      "id": "2026-10-28-stng-div",
+      "time": "2026-10-28T16:11:24Z",
+      "tag": "EQUITIES",
+      "headline": "Scorpio Tankers lifts quarterly dividend to $0.75 per share from $0.45",
+      "take": "Scorpio Tankers declared a quarterly cash dividend of $0.75 per common share, up from $0.45 paid in August 2026, payable December 4, 2026 to holders of record on November 13, 2026. The increase is about 66.7% by our calculation. The step-up comes after a quarter in which net income was $224.3 million versus $84.5 million a year earlier.",
+      "source_name": "Scorpio Tankers Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389990/0/en/scorpio-tankers-inc-announces-financial-results-for-the-third-quarter-of-2026-and-an-increase-to-its-quarterly-dividend.html",
+      "ticker": "NYSE:STNG",
+      "checked": "2026-10-28T15:45:24Z"
+    },
+    {
+      "id": "2026-10-28-rdwr-q3",
+      "time": "2026-10-28T16:19:24Z",
+      "tag": "EARNINGS",
+      "headline": "Radware Q3 revenue $84.4M vs $75.3M; cloud ARR $107M, up 21%",
+      "take": "Radware reported Q3 2026 revenue of $84.4 million versus $75.3 million in Q3 2025, GAAP net income from continuing operations of $4.5 million or $0.11 per diluted share, and non-GAAP diluted EPS from continuing operations of $0.32. Cloud ARR was $107 million, up 21% year over year, and revenue rose about 12.1% by our calculation. Cloud ARR grew faster than total revenue.",
+      "source_name": "Radware Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389938/8980/en/radware-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:RDWR",
+      "checked": "2026-10-28T15:45:24Z"
+    },
+    {
+      "id": "2026-10-28-cmre-q3",
+      "time": "2026-10-28T16:27:24Z",
+      "tag": "EARNINGS",
+      "headline": "Costamare Q3 revenues $220.4M vs $225.2M; EPS $0.73 vs $0.77",
+      "take": "Costamare reported Q3 2026 total revenues of $220.4 million versus $225.2 million a year earlier, net income from continuing operations of $95.0 million versus $99.4 million, and EPS from continuing operations of $0.73 versus $0.77. Revenue declined about 2.1% by our calculation. The company's declared common dividend of $0.125 per share is payable November 5, 2026.",
+      "source_name": "Costamare Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390043/0/en/costamare-inc-reports-results-for-the-third-quarter-and-nine-month-period-ended-september-30-2026.html",
+      "ticker": "NYSE:CMRE",
+      "checked": "2026-10-28T15:45:24Z"
+    },
     {
       "id": "2026-10-28-kex-q3",
       "time": "2026-10-28T14:51:54Z",
@@ -5292,71 +5358,6 @@
       "ticker": "NYSE:IBM",
       "time": "2026-10-21T20:59:18Z",
       "checked": "2026-10-21T20:51:18Z"
-    },
-    {
-      "id": "2026-10-21-txn-q3",
-      "tag": "EARNINGS",
-      "headline": "Texas Instruments Q3 revenue $6.06B, up 28%; EPS $2.62; Q4 EPS guide $2.45-$2.79",
-      "take": "TI reported third-quarter revenue of $6.06 billion, net income of $2.43 billion and earnings per share of $2.62; revenue rose 11% sequentially and 28% from a year ago, and operating profit was $2,874 million versus $1,663 million. Trailing-12-month free cash flow was $8.4 billion, and the company guided fourth-quarter revenue of $5.80-$6.30 billion and EPS of $2.45-$2.79. The guidance midpoint implies a modest step down in revenue from the third quarter.",
-      "source_name": "Texas Instruments Q3 2026 earnings release, Oct. 21, 2026",
-      "source_url": "https://investor.ti.com/news-releases/news-release-details/ti-reports-third-quarter-2026-financial-results-and-shareholder",
-      "ticker": "NASDAQ:TXN",
-      "time": "2026-10-21T21:09:18Z",
-      "checked": "2026-10-21T20:51:18Z"
-    },
-    {
-      "id": "2026-10-21-csx-q3",
-      "tag": "EARNINGS",
-      "headline": "CSX Q3 revenue $4.02B, up 12%; net earnings $1.05B, EPS $0.57 vs. $0.37",
-      "take": "CSX reported third-quarter revenue of $4.02 billion, up 12% year over year, with volume of 1.69 million units, 5% higher. Operating income was $1.57 billion versus $1.09 billion and net earnings were $1.05 billion, or $0.57 per diluted share, versus $0.37 a year earlier; the prior-year quarter included a $164 million non-cash goodwill impairment, and excluding it EPS was $0.44. The year-ago impairment flatters the GAAP comparison, so the adjusted prior-year base is the cleaner yardstick.",
-      "source_name": "CSX Corp. Q3 2026 results release, Oct. 21, 2026",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385878/0/en/csx-corp-announces-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:CSX",
-      "time": "2026-10-21T21:19:18Z",
-      "checked": "2026-10-21T20:51:18Z"
-    },
-    {
-      "id": "2026-10-21-rs-q3",
-      "tag": "EARNINGS",
-      "headline": "Reliance Q3 net sales $5.21B, up 42.8%; EPS $7.84 vs. $3.59",
-      "take": "Reliance reported record third-quarter net sales of $5.21 billion versus $3.65 billion a year earlier, with diluted EPS of $7.84 versus $3.59 and non-GAAP EPS of $8.02 versus $3.64. Tons sold were 1,867.2 thousand, up 15.6% from a year ago, and the quarterly dividend was declared at $1.25 a share. Management attributed the results to higher price levels for most carbon steel products, and pricing rather than volume drove most of the year-over-year gain.",
-      "source_name": "Reliance, Inc. Q3 2026 results release, Oct. 21, 2026",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385894/0/en/reliance-inc-reports-third-quarter-2026-financial-results.html",
-      "ticker": "NYSE:RS",
-      "time": "2026-10-21T21:29:18Z",
-      "checked": "2026-10-21T20:51:18Z"
-    },
-    {
-      "id": "2026-10-21-cci-q3",
-      "tag": "EARNINGS",
-      "headline": "Crown Castle Q3 AFFO $530M, up 8%; full-year outlook updated",
-      "take": "Crown Castle reported third-quarter AFFO of $530 million, or $1.24 per share, up 8% and 11% from the third quarter of 2025, and site rental revenues of $966 million, down 4.5% year over year. Diluted net income per share was $0.67 versus $0.74. The company raised its 2026 outlook midpoints for Adjusted EBITDA by $25 million and AFFO by $5 million, to $1,980 million for AFFO. The outlook change is small relative to the full-year AFFO figure.",
-      "source_name": "Crown Castle Q3 2026 results release, Oct. 21, 2026",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385925/7657/en/crown-castle-reports-third-quarter-2026-results-and-updates-outlook-for-full-year-2026.html",
-      "ticker": "NYSE:CCI",
-      "time": "2026-10-21T21:39:18Z",
-      "checked": "2026-10-21T20:51:18Z"
-    },
-    {
-      "id": "2026-10-20-salesforce-braze",
-      "tag": "DEALS",
-      "headline": "Salesforce to acquire Braze for $47.50 a share in cash; enterprise value about $5.66B",
-      "take": "Salesforce signed a definitive agreement on Oct. 19 to acquire Braze, paying $47.50 in cash per Class A share, at an enterprise value of approximately $5.66 billion. Closing is expected in Salesforce's fiscal 2028, which begins Feb. 1, 2027, subject to Braze shareholder approval and regulatory approvals; the merger agreement sets a $300 million fee payable by Salesforce in specified circumstances and $191.39 million payable by Braze. The size of the reverse fee shows how much regulatory risk the parties are pricing into a deal that adds a customer-engagement platform to Salesforce's marketing products.",
-      "source_name": "Salesforce investor relations release, Oct. 20, 2026 (and Braze SEC Form 8-K)",
-      "source_url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/default.aspx",
-      "ticker": "NYSE:CRM",
-      "time": "2026-10-21T19:52:32Z",
-      "checked": "2026-10-21T19:51:32Z"
-    },
-    {
-      "id": "2026-10-21-uk-cpi-sep-3-5",
-      "tag": "GLOBAL",
-      "headline": "UK CPI inflation rises to 3.5% in September from 3.1%; motor fuels lead",
-      "take": "The ONS reported UK CPI inflation of 3.5% in the 12 months to September 2026, up from 3.1% in August, with CPIH at 3.6% and core CPI at 2.8%. Transport was the largest upward contributor at 0.94 percentage points, with motor fuel prices up 29.8% over 12 months versus 23.0% in August; services inflation rose to 3.7% from 3.4%. Core and services rates both rose alongside fuel, so the pickup was not confined to energy.",
-      "source_name": "ONS, Consumer price inflation, UK: September 2026",
-      "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
-      "time": "2026-10-21T20:00:32Z",
-      "checked": "2026-10-21T19:51:32Z"
     }
   ]
 }
