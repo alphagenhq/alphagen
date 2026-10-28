@@ -1,6 +1,59 @@
 {
-  "updated": "2026-10-28T17:45:28Z",
+  "updated": "2026-10-28T19:45:33Z",
   "items": [
+    {
+      "id": "2026-10-28-fomc-decision",
+      "time": "2026-10-28T19:47:33Z",
+      "tag": "FED",
+      "headline": "FOMC holds target range at 3-3/4 to 4 percent in 10-2 vote; Cook, Hammack dissent",
+      "take": "The Federal Reserve said the FOMC voted 10 to 2 to maintain the federal funds target range at 3-3/4 to 4 percent. Lisa D. Cook and Beth M. Hammack dissented, preferring a 1/4 percentage point increase. The statement says inflation remains elevated and that the Committee is maintaining ample reserves in the banking system; two dissents in favor of a hike mark a hawkish tilt within the vote.",
+      "source_name": "Federal Reserve Board: FOMC statement, Oct. 28, 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "checked": "2026-10-28T19:45:33Z"
+    },
+    {
+      "id": "2026-10-28-googl-q3-date",
+      "time": "2026-10-28T19:55:33Z",
+      "tag": "EQUITIES",
+      "headline": "Alphabet to post Q3 2026 results today; call set for 4:30 p.m. ET",
+      "take": "Alphabet said it will hold its Q3 2026 financial results conference call on Wednesday, Oct. 28 at 1:30 p.m. Pacific (4:30 p.m. Eastern), with the earnings release posted on its investor relations site before the call. A replay will be available on YouTube after the webcast.",
+      "source_name": "Alphabet Investor Relations",
+      "source_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx",
+      "ticker": "NASDAQ:GOOGL",
+      "checked": "2026-10-28T19:45:33Z"
+    },
+    {
+      "id": "2026-10-28-vanti-q3",
+      "time": "2026-10-28T20:05:33Z",
+      "tag": "EARNINGS",
+      "headline": "Vantiva Q3 revenue €436M vs €470M; maintains positive 2026 free cash flow guide",
+      "take": "Vantiva reported Q3 2026 continuing-operations revenue of €436 million versus €470 million a year earlier, down 7.3% at current rates. Broadband revenue was €321 million versus €378 million, while Video was €115 million versus €92 million. The company maintained its full-year 2026 guidance for positive free cash flow; 2025 comparatives were restated for reclassifications.",
+      "source_name": "Vantiva Q3 and nine-month 2026 sales release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390653/0/en/third-quarter-2026-and-nine-month-sales.html",
+      "ticker": "EPA:VANTI",
+      "checked": "2026-10-28T19:45:33Z"
+    },
+    {
+      "id": "2026-10-28-spie-sar",
+      "time": "2026-10-28T20:15:33Z",
+      "tag": "DEALS",
+      "headline": "SPIE agrees to buy 76% of Austria's SAR Anlagenbau; closing seen early 2027",
+      "take": "SPIE announced an agreement to acquire a 76% stake in SAR ANLAGENBAU GmbH, based in Hausmening, Austria, with managing director Arno Reisinger holding up to 24%. SAR has about 230 employees and around €100 million of revenue for fiscal 2025/26, and the price was not disclosed. Closing is expected at the beginning of 2027, subject to customary closing conditions.",
+      "source_name": "SPIE press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390660/0/en/spie-signs-an-agreement-for-the-acquisition-of-sar-anlagenbau-gmbh-in-austria-and-germany.html",
+      "checked": "2026-10-28T19:45:33Z"
+    },
+    {
+      "id": "2026-10-28-nhtc-q3",
+      "time": "2026-10-28T20:25:33Z",
+      "tag": "EARNINGS",
+      "headline": "Natural Health Trends Q3 revenue $7.56M vs $9.48M; net loss $0.23M",
+      "take": "Natural Health Trends reported Q3 2026 net sales of $7,560 thousand versus $9,477 thousand a year earlier, a decline of 20.2% by our calculation. Net loss was $(232) thousand, or $(0.03) per diluted share, versus $(431) thousand, or $(0.04). The release reports $1,716 thousand of dividends paid in the first nine months of 2026 and leaves future dividends to the Board's discretion.",
+      "source_name": "Natural Health Trends Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390242/0/en/natural-health-trends-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:NHTC",
+      "checked": "2026-10-28T19:45:33Z"
+    },
     {
       "id": "2026-10-28-stla-q3",
       "time": "2026-10-28T17:46:28Z",
@@ -5304,59 +5357,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
       "ticker": "NASDAQ:SPCX",
       "time": "2026-10-22T01:59:17Z",
-      "checked": "2026-10-22T01:56:17Z"
-    },
-    {
-      "id": "2026-10-22-japan-trade-sep",
-      "tag": "GLOBAL",
-      "headline": "Japan Sept exports up 16.7% to ¥10.97T; imports up 18.9%, deficit ¥536.6B",
-      "take": "Japan's Ministry of Finance provisional data show September exports of ¥10,972,254 million versus ¥9,404,854 million a year earlier and imports of ¥11,508,812 million versus ¥9,682,557 million, leaving a deficit of ¥536,558 million versus ¥277,703 million. Electrical machinery exports rose 30.3% and semiconductors rose 49.4%. Imports grew faster than exports, which is why the deficit roughly doubled.",
-      "source_name": "Japan Ministry of Finance, Trade Statistics (Sept. 2026 provisional), Oct. 21, 2026",
-      "source_url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026094e.pdf",
-      "time": "2026-10-22T02:07:17Z",
-      "checked": "2026-10-22T01:56:17Z"
-    },
-    {
-      "id": "2026-10-22-gl-q3",
-      "tag": "EARNINGS",
-      "headline": "Globe Life Q3 revenue $1.60B; net operating EPS $4.84 vs. $4.81",
-      "take": "Globe Life reported third-quarter total revenue of $1,595.9 million versus $1,513.0 million a year earlier, net income per diluted share of $4.62 versus $4.73, and net operating income per diluted share of $4.84 versus $4.81. It adjusted full-year 2026 earnings guidance to a range of $15.35 to $15.65. GAAP EPS slipped about 2% while revenue grew about 5.5%.",
-      "source_name": "Globe Life Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000320335/000032033526000224/q3fy2026earningsrelease.htm",
-      "ticker": "NYSE:GL",
-      "time": "2026-10-22T02:15:17Z",
-      "checked": "2026-10-22T01:56:17Z"
-    },
-    {
-      "id": "2026-10-22-onb-q3",
-      "tag": "EARNINGS",
-      "headline": "Old National Q3 EPS $0.66 vs. $0.46; net income to common $250.0M",
-      "take": "Old National reported third-quarter net income applicable to common shares of $250.0 million versus $178.5 million a year earlier and diluted EPS of $0.66 versus $0.46. Total revenue on a fully taxable-equivalent basis was $720.4 million versus $713.0 million, and period-end loans were $51.2 billion. Earnings rose far faster than revenue, about 40% against 1%, so the year-over-year gain came mostly from below the revenue line.",
-      "source_name": "Old National Bancorp 3Q26 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000707179/000162828026066598/onb_exhibit991er3q26.htm",
-      "ticker": "NASDAQ:ONB",
-      "time": "2026-10-22T02:23:17Z",
-      "checked": "2026-10-22T01:56:17Z"
-    },
-    {
-      "id": "2026-10-22-japan-fuel-imports",
-      "tag": "ENERGY",
-      "headline": "Japan Sept mineral fuel imports up 39.4% to ¥2.35T; petroleum up 51.1%",
-      "take": "Japan's September provisional trade data show mineral fuel imports of ¥2,346,269 million, up 39.4% from a year earlier and contributing 6.9 points to total import growth. Petroleum imports rose 51.1% and LNG imports rose 39.2%. Fuel accounted for more of the import increase than any other category named in the release.",
-      "source_name": "Japan Ministry of Finance, Trade Statistics (Sept. 2026 provisional), Oct. 21, 2026",
-      "source_url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026094e.pdf",
-      "time": "2026-10-22T02:31:17Z",
-      "checked": "2026-10-22T01:56:17Z"
-    },
-    {
-      "id": "2026-10-22-gl-buyback-guidance",
-      "tag": "EQUITIES",
-      "headline": "Globe Life lifts 2026 buyback to $725M-$775M; 2027 EPS est. $16.10-$17.10",
-      "take": "Globe Life said it repurchased 1.1 million shares in the third quarter at a total cost of $185 million and now expects to spend $725 million to $775 million on repurchases for full-year 2026, compared with prior guidance of $670 million to $700 million. For 2027 it estimates net operating income per share of $16.10 to $17.10. The higher buyback range is a capital-return signal that sits alongside a trimmed 2026 earnings range.",
-      "source_name": "Globe Life Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000320335/000032033526000224/q3fy2026earningsrelease.htm",
-      "ticker": "NYSE:GL",
-      "time": "2026-10-22T02:39:17Z",
       "checked": "2026-10-22T01:56:17Z"
     }
   ]

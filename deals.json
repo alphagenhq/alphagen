@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T16:51:18Z",
+  "updated": "2026-10-28T19:45:33Z",
   "items": [
+    {
+      "id": "2026-10-28-spie-sar",
+      "time": "2026-10-28T20:15:33Z",
+      "type": "M&A",
+      "headline": "SPIE to acquire 76% stake in Austrian industrial services firm SAR Anlagenbau",
+      "parties": "Acquirer: SPIE SA; Target: SAR ANLAGENBAU GmbH (76% stake)",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-28",
+      "sector": "Industrials",
+      "take": "SPIE signed an agreement to acquire a 76% stake in SAR ANLAGENBAU GmbH of Hausmening, Austria, which has about 230 employees and around €100 million of revenue for fiscal 2025/26. Managing director Arno Reisinger will hold up to 24%, closing is expected at the beginning of 2027, and the price was not disclosed.",
+      "source_name": "SPIE press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390660/0/en/spie-signs-an-agreement-for-the-acquisition-of-sar-anlagenbau-gmbh-in-austria-and-germany.html",
+      "tickers": [],
+      "checked": "2026-10-28T19:45:33Z"
+    },
     {
       "id": "2026-10-28-platinum-edp",
       "time": "2026-10-28T17:39:18Z",
