@@ -1,6 +1,92 @@
 {
-  "updated": "2026-10-28T16:51:18Z",
+  "updated": "2026-10-28T20:52:58Z",
   "items": [
+    {
+      "id": "2026-10-28-the-close",
+      "time": "2026-10-28T20:52:58Z",
+      "tag": "GLOBAL",
+      "series": "the-close",
+      "title": "The Close: Canada hikes, a poultry giant's profit halves, and Ryerson's revenue nearly doubles",
+      "dek": "The Bank of Canada raised its policy rate to 2.5% while Pilgrim's Pride, Employers Holdings, Markel, Ryerson and MediaAlpha showed widely different profit paths.",
+      "key_points": [
+        "Bank of Canada: overnight rate raised 25 bp to 2.5%; said further increases could be needed.",
+        "Pilgrim's Pride: Q3 net sales $4,653.2M vs $4,759.3M; GAAP EPS $0.49 vs $1.44.",
+        "Ryerson: Q3 revenue $2,177.8M vs $1,161.5M; net income $32.0M vs a $14.8M loss.",
+        "Employers Holdings: Q3 net income $11.6M vs a $8.3M loss; combined ratio 108.4%.",
+        "Enerpac completed its SFE Group acquisition for about $472M."
+      ],
+      "talking_points": [
+        "The Bank of Canada raised its overnight rate to 2.5% and said more increases could be needed, a reminder that some central banks are tightening while others hold steady.",
+        "Pilgrim's Pride's adjusted EBITDA fell to $316.3 million from $633.1 million while sales slipped only 2.2%, showing how a small change in sales can mean a big change in profit.",
+        "Employers Holdings earned $11.6 million even though its combined ratio was 108.4%, meaning insurance costs exceeded premiums, so investors should look at both underwriting and other income when judging an insurer."
+      ],
+      "body": [
+        "Wednesday's session brought a central-bank surprise outside the United States and a set of after-the-bell earnings reports that split between sharply higher revenue and sharply lower profit. This recap draws only on each organization's own release; the day's FOMC decision is carried separately in the Wire.",
+        {
+          "h": "Canada tightens"
+        },
+        "The Bank of Canada raised its target for the overnight rate by 25 basis points to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%. In September it had held the rate at 2¼%. The Bank said CPI inflation has been around 3% since April and is expected to reach about 3½% by year-end, and that it projects CPI averaging 3% in 2027, a percentage point higher than its July projection. It attributed part of the persistence to high energy prices and the Middle East conflict. The release says there could be a need to raise the policy rate further, but that Governing Council agreed to proceed carefully. The next rate announcement is scheduled for December 9, and the next Monetary Policy Report for January 27, 2027.",
+        {
+          "h": "Poultry margins and insurers"
+        },
+        "Pilgrim's Pride reported Q3 net sales of $4,653.2 million versus $4,759.3 million, a 2.2% decline by our calculation, and GAAP diluted EPS of $0.49 versus $1.44. Adjusted EBITDA was $316.3 million, a 6.8% margin, versus $633.1 million. Employers Holdings reported net income of $11.6 million, or $0.64 per diluted share, versus a net loss of $8.3 million a year earlier. Its net premiums earned fell to $160.2 million from $192.1 million and its GAAP combined ratio improved to 108.4% from 129.7%; it also declared a $0.34 quarterly dividend payable December 3. Markel reported total operating revenues of $4,158.2 million versus $3,934.5 million, up 5.7% by our calculation, with adjusted operating income of $707.4 million versus $621.0 million.",
+        {
+          "h": "Metals and online marketplaces"
+        },
+        "Ryerson's Q3 revenue was $2,177.8 million versus $1,161.5 million, up 87.5% by our calculation, with net income attributable to Ryerson of $32.0 million versus a net loss of $14.8 million and diluted EPS of $0.61 versus $(0.46). It guided Q4 net sales to $1.96 billion to $2.04 billion and net income to $16 million to $20 million. MediaAlpha reported revenue of $375.9 million versus $306.5 million and net income of $29.4 million versus $17.6 million, and guided Q4 revenue to $355 million to $375 million.",
+        {
+          "h": "Deal completed"
+        },
+        "Enerpac Tool Group said it completed its previously announced acquisition of SFE Group, announced July 7, for approximately $472 million including approximately $452 million in cash. The release states that SFE had about $170 million of sales and about $44 million of adjusted EBITDA in the twelve months ended March 31, 2026.",
+        {
+          "h": "What to watch"
+        },
+        "Alphabet's Q3 earnings call was scheduled for 1:30 p.m. PT today, with no earnings figures from Alphabet's release available to us at publication time. Company figures are unaudited and preliminary until each filer submits its Form 10-Q or equivalent, so numbers may be revised."
+      ],
+      "sources": [
+        {
+          "name": "Bank of Canada policy rate announcement",
+          "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+        },
+        {
+          "name": "Pilgrim's Pride Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390788/17519/en/pilgrim-s-pride-reports-third-quarter-2026-results.html"
+        },
+        {
+          "name": "Employers Holdings Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390767/0/en/employers-holdings-inc-reports-third-quarter-2026-results-and-declares-regular-quarterly-dividend-of-0-34-per-share.html"
+        },
+        {
+          "name": "Markel Group Q3 2026 results (PR Newswire)",
+          "url": "https://prnewswire.com/news-releases/markel-group-reports-2026-third-quarter-and-nine-months-results-302922728.html"
+        },
+        {
+          "name": "Ryerson Q3 2026 results (PR Newswire)",
+          "url": "https://prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html"
+        },
+        {
+          "name": "MediaAlpha Q3 2026 results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390734/0/en/mediaalpha-announces-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "Enerpac Tool Group release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390136/0/en/enerpac-tool-group-completes-acquisition-of-sfe-group-expanding-portfolio-of-premium-industrial-tool-brands.html"
+        },
+        {
+          "name": "Alphabet Q3 2026 earnings call event page",
+          "url": "https://abc.xyz/investor/events/event-details/2026/2026-Q3-Earnings-Call-2026-Ujou16CTw9/default.aspx"
+        }
+      ],
+      "tickers": [
+        "NASDAQ:PPC",
+        "NYSE:RYI",
+        "NYSE:EIG",
+        "NYSE:MKL",
+        "NYSE:MAX",
+        "NYSE:EPAC"
+      ],
+      "checked": "2026-10-28T20:52:58Z"
+    },
     {
       "id": "2026-10-28-guidance-split",
       "time": "2026-10-28T16:51:18Z",

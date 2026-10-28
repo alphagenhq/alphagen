@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-28T19:45:33Z",
+  "updated": "2026-10-28T20:52:58Z",
   "items": [
+    {
+      "id": "2026-10-28-epac-sfe",
+      "time": "2026-10-28T20:56:58Z",
+      "type": "PE",
+      "headline": "Enerpac completes acquisition of SFE Group from a Gladstone Investment portfolio company",
+      "parties": "Acquirer: Enerpac Tool Group Corp.; Target: Specialized Fabrication Equipment Group LLC (SFE Group); Seller: SFEG Holdings, Inc.",
+      "value": 0.472,
+      "value_text": "About $472 million",
+      "status": "Completed",
+      "announced": "2026-07-07",
+      "sector": "Industrials",
+      "take": "Enerpac completed its previously announced acquisition of SFE Group for approximately $472 million, including approximately $452 million in cash. The release cites 10.6x trailing adjusted EBITDA and about $170 million of trailing-twelve-month sales to March 31, 2026.",
+      "source_name": "Enerpac Tool Group release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390136/0/en/enerpac-tool-group-completes-acquisition-of-sfe-group-expanding-portfolio-of-premium-industrial-tool-brands.html",
+      "tickers": [
+        "NYSE:EPAC"
+      ],
+      "checked": "2026-10-28T20:52:58Z"
+    },
     {
       "id": "2026-10-28-spie-sar",
       "time": "2026-10-28T20:15:33Z",
