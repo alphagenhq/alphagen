@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-28T13:31:31Z",
+ "updated": "2026-10-28T20:18:53Z",
  "items": [
+  {
+   "id": "live-0000720005-26-000080-2.02",
+   "time": "2026-10-28T20:17:12Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Raymond James Financial releases financial results",
+   "take": "Raymond James Financial filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:17 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, RJF Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000080/0000720005-26-000080-index.htm",
+   "ticker": "NYSE:RJF"
+  },
+  {
+   "id": "live-0001705696-26-000119-2.02",
+   "time": "2026-10-28T20:16:17Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Vici Properties releases financial results",
+   "take": "Vici Properties filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:16 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, VICI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1705696/000170569626000119/0001705696-26-000119-index.htm",
+   "ticker": "NYSE:VICI"
+  },
+  {
+   "id": "live-0001373715-26-000092-2.02",
+   "time": "2026-10-28T20:14:14Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Servicenow releases financial results",
+   "take": "Servicenow filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:14 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NOW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/0001373715-26-000092-index.htm",
+   "ticker": "NYSE:NOW"
+  },
+  {
+   "id": "live-0001048911-26-000128-2.02",
+   "time": "2026-10-28T20:12:47Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "FedEx releases financial results",
+   "take": "FedEx filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:12 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FDX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000128/0001048911-26-000128-index.htm",
+   "ticker": "NYSE:FDX"
+  },
+  {
+   "id": "live-0001101239-26-000178-2.02",
+   "time": "2026-10-28T20:12:08Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Equinix releases financial results",
+   "take": "Equinix filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:12 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, EQIX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000178/0001101239-26-000178-index.htm",
+   "ticker": "NASDAQ:EQIX"
+  },
+  {
+   "id": "live-0001687229-26-000053-2.02",
+   "time": "2026-10-28T20:10:53Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Invitation Homes releases financial results",
+   "take": "Invitation Homes filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:10 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, INVH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000053/0001687229-26-000053-index.htm",
+   "ticker": "NYSE:INVH"
+  },
+  {
+   "id": "live-0001058090-26-000103-2.02",
+   "time": "2026-10-28T20:10:53Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Chipotle Mexican Grill releases financial results",
+   "take": "Chipotle Mexican Grill filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:10 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CMG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000103/0001058090-26-000103-index.htm",
+   "ticker": "NYSE:CMG"
+  },
+  {
+   "id": "live-0001262039-26-000024-2.02",
+   "time": "2026-10-28T20:09:06Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Fortinet releases financial results",
+   "take": "Fortinet filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:09 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FTNT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/0001262039-26-000024-index.htm",
+   "ticker": "NASDAQ:FTNT"
+  },
+  {
+   "id": "live-0000319201-26-000032-2.02",
+   "time": "2026-10-28T20:07:50Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "KLA releases financial results",
+   "take": "KLA filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:07 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KLAC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000032/0000319201-26-000032-index.htm",
+   "ticker": "NASDAQ:KLAC"
+  },
+  {
+   "id": "live-0000037996-26-000190-2.02",
+   "time": "2026-10-28T20:07:18Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Ford Motor releases financial results",
+   "take": "Ford Motor filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:07 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, F Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000190/0000037996-26-000190-index.htm",
+   "ticker": "NYSE:F"
+  },
+  {
+   "id": "live-0001048911-26-000126-2.02",
+   "time": "2026-10-28T20:05:46Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "FedEx releases financial results",
+   "take": "FedEx filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:05 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FDX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000126/0001048911-26-000126-index.htm",
+   "ticker": "NYSE:FDX"
+  },
+  {
+   "id": "live-0001193125-26-436122-2.02",
+   "time": "2026-10-28T20:04:44Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Microsoft releases financial results",
+   "take": "Microsoft filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:04 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MSFT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/0001193125-26-436122-index.htm",
+   "ticker": "NASDAQ:MSFT"
+  },
   {
    "id": "live-0001193125-26-435233-5.02",
    "time": "2026-10-28T12:55:14Z",
