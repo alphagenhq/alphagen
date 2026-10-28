@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-28T14:50:54Z",
+  "updated": "2026-10-28T16:51:18Z",
   "items": [
+    {
+      "id": "2026-10-28-BSX-Q3",
+      "time": "2026-10-28T16:55:18Z",
+      "ticker": "NYSE:BSX",
+      "name": "Boston Scientific",
+      "period": "Q3 2026",
+      "report_date": "2026-10-28",
+      "revenue": 5.138,
+      "revenue_yoy": 1.4,
+      "eps_yoy": -21.6,
+      "eps": 0.4,
+      "take": "Boston Scientific reported Q3 2026 net sales of $5.138 billion versus $5.065 billion and GAAP EPS of $0.40 versus $0.51. Adjusted EPS was $0.73 versus $0.75, and it guides 2026 adjusted EPS of $3.16 to $3.18.",
+      "source_name": "Boston Scientific Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-results-for-third-quarter-2026-302921450.html",
+      "checked": "2026-10-28T16:51:18Z"
+    },
+    {
+      "id": "2026-10-28-JLL-Q3",
+      "time": "2026-10-28T17:04:18Z",
+      "ticker": "NYSE:JLL",
+      "name": "Jones Lang LaSalle",
+      "period": "Q3 2026",
+      "report_date": "2026-10-28",
+      "revenue": 7.2812,
+      "revenue_yoy": 11.8,
+      "eps_yoy": 48.6,
+      "eps": 6.85,
+      "take": "JLL reported Q3 2026 revenue of $7,281.2 million versus $6,510.4 million and diluted EPS of $6.85 versus $4.61. Adjusted diluted EPS was $6.76 versus $4.50, and it plans a new $500 million accelerated share repurchase.",
+      "source_name": "JLL Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/jll-reports-financial-results-for-third-quarter-2026-302921383.html",
+      "checked": "2026-10-28T16:51:18Z"
+    },
     {
       "id": "2026-10-28-KEX-Q3",
       "time": "2026-10-28T14:52:54Z",

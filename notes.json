@@ -1,6 +1,68 @@
 {
-  "updated": "2026-10-27T20:50:14Z",
+  "updated": "2026-10-28T16:51:18Z",
   "items": [
+    {
+      "id": "2026-10-28-guidance-split",
+      "time": "2026-10-28T16:51:18Z",
+      "tag": "EQUITIES",
+      "title": "Raised, kept, cut: five Oct. 28 reporters and where their outlooks went",
+      "dek": "Generac, JLL and Equinor lifted parts of their outlooks; Oatly cut its profit guide and Boston Scientific guided Q4 sales lower.",
+      "key_points": [
+        "Generac: net sales +16% to $1,294.8M; adjusted EBITDA margin guide raised to about 20.5%-21.0% from 20.0%-21.0%.",
+        "JLL: revenue $7,281.2M vs $6,510.4M; raised full-year adjusted EPS target range; new $500M accelerated share repurchase.",
+        "Oatly: 2026 adjusted EBITDA guide cut to $16M-$20M from $25M-$35M despite revenue up to $243.1M.",
+        "Boston Scientific: Q3 net sales +1.5% to $5.138B; Q4 net sales guided down approximately 1.0%-3.0%.",
+        "Equinor: 2026 production growth guide raised from 3% to around 4%."
+      ],
+      "body": [
+        "Quarterly results tell you where a company has been; guidance tells you where management thinks it is going. Five companies that reported on Oct. 28 show the outlook can move in different directions from the quarter that was just posted.",
+        {
+          "h": "Raised outlooks"
+        },
+        "Generac reported Q3 net sales of $1,294.8 million versus $1,114.4 million, up 16%, and adjusted EPS of $2.54 versus $1.83. It kept 2026 net sales growth guidance at the mid-to-high teens percent range and raised its adjusted EBITDA margin guidance to approximately 20.5% to 21.0% from 20.0% to 21.0%. In effect, the company lifted the bottom of a range rather than the top.",
+        "JLL posted revenue of $7,281.2 million versus $6,510.4 million and adjusted diluted EPS of $6.76 versus $4.50. It raised its full-year adjusted EPS target range and announced a new $500 million accelerated share repurchase, which the release says brings full-year repurchases to over $1 billion. Equinor, for its part, raised its 2026 oil and gas production growth guidance from 3% to around 4%, alongside net operating income of USD 11.95 billion versus USD 5.27 billion a year earlier.",
+        {
+          "h": "Cut or softer outlooks"
+        },
+        "Oatly's revenue rose to $243.1 million from $222.8 million and its adjusted EBITDA improved to $9.4 million from $3.1 million. Even so, it lowered 2026 adjusted EBITDA guidance to $16 million to $20 million from $25 million to $35 million, attributing the change mainly to North American fuel and freight inflation that it expects to weigh on fourth-quarter profit.",
+        "Boston Scientific grew Q3 net sales 1.5% to $5.138 billion, but guided Q4 net sales to decline approximately 3.0% to 1.0% on both a reported and organic basis. Its full-year adjusted EPS guidance is $3.16 to $3.18. A guided decline against a growing quarter is the kind of gap between results and outlook that investors tend to read closely.",
+        {
+          "h": "Why the split matters"
+        },
+        "A beat on the quarter and a cut to the year can sit in the same release, as Oatly shows, and the reverse can also happen. Revenue growth does not by itself say whether profit expectations are rising or falling. Comparing the reported quarter with the company's own prior and updated ranges, using the figures in the release, is a simple way to see whether management's view of the rest of the year has changed.",
+        "This note covers only figures stated in each company's own release and is for general education. It does not recommend any security or predict how any company will perform."
+      ],
+      "sources": [
+        {
+          "name": "Generac Q3 2026 results",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3389945/0/en/generac-reports-third-quarter-2026-results.html"
+        },
+        {
+          "name": "JLL Q3 2026 results",
+          "url": "https://www.prnewswire.com/news-releases/jll-reports-financial-results-for-third-quarter-2026-302921383.html"
+        },
+        {
+          "name": "Equinor Q3 2026 results",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3389846/0/en/equinor-third-quarter-2026-results.html"
+        },
+        {
+          "name": "Oatly Q3 2026 results",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390002/0/en/oatly-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "Boston Scientific Q3 2026 results",
+          "url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-results-for-third-quarter-2026-302921450.html"
+        }
+      ],
+      "tickers": [
+        "NYSE:GNRC",
+        "NYSE:JLL",
+        "NYSE:EQNR",
+        "NASDAQ:OTLY",
+        "NYSE:BSX"
+      ],
+      "checked": "2026-10-28T16:51:18Z"
+    },
     {
       "id": "2026-10-27-the-close",
       "time": "2026-10-27T20:50:14Z",

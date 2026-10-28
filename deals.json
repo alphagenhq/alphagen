@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T14:50:54Z",
+  "updated": "2026-10-28T16:51:18Z",
   "items": [
+    {
+      "id": "2026-10-28-platinum-edp",
+      "time": "2026-10-28T17:39:18Z",
+      "type": "PE",
+      "headline": "Platinum Equity to acquire propane distributor EDP",
+      "parties": "Acquirer: Platinum Equity; Target: EDP",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-10-28",
+      "sector": "Energy",
+      "take": "Platinum Equity signed a definitive agreement to acquire Chicago-based EDP, which serves more than 200,000 customers through more than 60 locations in 24 states. The deal is subject to customary closing conditions and regulatory approvals, and no closing date was stated.",
+      "source_name": "Platinum Equity press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/platinum-equity-to-acquire-edp-302922315.html",
+      "tickers": [],
+      "checked": "2026-10-28T16:51:18Z"
+    },
     {
       "id": "2026-10-27-fele-challenge",
       "time": "2026-10-28T14:53:54Z",
