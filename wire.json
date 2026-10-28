@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-28T20:52:58Z",
+  "updated": "2026-10-28T23:50:30Z",
   "items": [
+    {
+      "id": "2026-10-28-googl-q3",
+      "time": "2026-10-28T23:52:30Z",
+      "tag": "EARNINGS",
+      "headline": "Alphabet Q3 revenue $127,577M vs $102,346M; diluted EPS $2.12 vs $2.87",
+      "take": "Alphabet reported Q3 2026 revenues of $127,577 million versus $102,346 million a year earlier, up 24.7%, and operating income of $40,576 million versus $31,228 million. Net income available to common stockholders was $26,170 million versus $34,979 million, and diluted EPS was $2.12 versus $2.87. Profit fell even as operating income rose, so the gap sits below the operating line.",
+      "source_name": "Alphabet Q3 2026 earnings release (Alphabet IR)",
+      "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+      "ticker": "NASDAQ:GOOGL",
+      "checked": "2026-10-28T23:50:30Z"
+    },
+    {
+      "id": "2026-10-28-googl-cloud",
+      "time": "2026-10-29T00:01:30Z",
+      "tag": "EQUITIES",
+      "headline": "Alphabet: Google Cloud Q3 revenue $30,709M vs $15,157M; release cites 103% growth",
+      "take": "Alphabet's release says Google Cloud revenues increased 103% to $30.7 billion in Q3 2026; the segment table shows $30,709 million versus $15,157 million a year earlier. Alphabet also declared a quarterly cash dividend of $0.22 per share, payable December 14, 2026. Cloud now accounts for about 24% of Alphabet revenue, versus about 15% a year ago.",
+      "source_name": "Alphabet Q3 2026 earnings release (Alphabet IR)",
+      "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+      "ticker": "NASDAQ:GOOGL",
+      "checked": "2026-10-28T23:50:30Z"
+    },
+    {
+      "id": "2026-10-28-orly-q3",
+      "time": "2026-10-29T00:10:30Z",
+      "tag": "EARNINGS",
+      "headline": "O'Reilly Q3 sales $5.12B vs $4.71B; diluted EPS $0.97 vs $0.85; comps up 7.2%",
+      "take": "O'Reilly Automotive reported Q3 2026 sales of $5.12 billion versus $4.71 billion, an increase of $416 million or 9%, with comparable store sales up 7.2% on top of 5.6% a year earlier. Net income was $786 million versus $726 million and diluted EPS was $0.97 versus $0.85. Comparable-store growth outpacing the prior-year comparison points to demand strength rather than easy comps.",
+      "source_name": "O'Reilly Automotive Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390787/10672/en/o-reilly-automotive-inc-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:ORLY",
+      "checked": "2026-10-28T23:50:30Z"
+    },
+    {
+      "id": "2026-10-28-orly-guide",
+      "time": "2026-10-29T00:19:30Z",
+      "tag": "EQUITIES",
+      "headline": "O'Reilly raises 2026 comp-store sales guide to 5.5%-6.5%; EPS $3.25-$3.35",
+      "take": "O'Reilly raised its full-year 2026 comparable store sales guidance to a range of 5.5% to 6.5%. It guides diluted EPS of $3.25 to $3.35, total revenue of $19.0 billion to $19.3 billion, and 225 to 235 net new store openings. The raised comp range is the guidance item to watch against Q4 results.",
+      "source_name": "O'Reilly Automotive Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390787/10672/en/o-reilly-automotive-inc-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:ORLY",
+      "checked": "2026-10-28T23:50:30Z"
+    },
+    {
+      "id": "2026-10-28-mth-q3",
+      "time": "2026-10-29T00:28:30Z",
+      "tag": "HOUSING",
+      "headline": "Meritage Homes Q3 orders 3,083, down 15%; home closing gross margin 17.4% vs 19.1%",
+      "take": "Meritage Homes reported Q3 2026 orders of 3,083 homes, down 15% year over year, and home closing revenue of $1,162.4 million versus $1,399.3 million, a 17% decrease. Net earnings were $68 million ($1.04 per diluted share) versus $1.39 per share a year earlier, and backlog at Sept. 30 was 1,611 homes versus 1,699. A 170 bp gross margin decline alongside fewer orders shows pressure on both volume and pricing for this builder.",
+      "source_name": "Meritage Homes Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390783/6889/en/meritage-homes-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:MTH",
+      "checked": "2026-10-28T23:50:30Z"
+    },
+    {
+      "id": "2026-10-28-amrz-q3",
+      "time": "2026-10-29T00:37:30Z",
+      "tag": "EARNINGS",
+      "headline": "Amrize Q3 revenue $3,771M vs $3,690M; net income $558M; diluted EPS $1.02",
+      "take": "Amrize reported Q3 2026 revenues of $3,771 million versus $3,690 million, net income of $558 million versus $540 million, and diluted EPS of $1.02 versus $0.98. Adjusted EBITDA was $1,076 million versus $1,074 million. It updated 2026 guidance to revenues of $12.2 billion to $12.4 billion and adjusted EBITDA of $2.95 billion to $3.05 billion, so earnings growth outpaced a flat EBITDA line.",
+      "source_name": "Amrize Q3 2026 results (Amrize IR)",
+      "source_url": "https://investors.amrize.com/news/detail/141/amrize-reports-third-quarter-2026-results",
+      "ticker": "NYSE:AMRZ",
+      "checked": "2026-10-28T23:50:30Z"
+    },
     {
       "id": "2026-10-28-boc-hike",
       "time": "2026-10-28T20:54:58Z",
@@ -5292,71 +5358,6 @@
       "source_url": "https://fred.stlouisfed.org/series/dgs10",
       "time": "2026-10-22T12:30:24Z",
       "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-fomc-oct-27-28",
-      "tag": "FED",
-      "headline": "FOMC meets Oct. 27-28; the October meeting carries no projections",
-      "take": "The Federal Reserve's 2026 calendar lists the October FOMC meeting for Oct. 27-28. Of the 2026 meetings, March, June, September and December are marked with a Summary of Economic Projections; the October meeting is not. With no new projections, the policy statement is the main written guidance from the meeting.",
-      "source_name": "Federal Reserve Board: FOMC meeting calendars",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "time": "2026-10-22T12:36:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-ttm-q3",
-      "tag": "EARNINGS",
-      "headline": "TTM Q3 net sales $1.20B vs. $752.7M; GAAP EPS $0.79 vs. $0.50",
-      "take": "TTM Technologies reported net sales of $1,203.9 million for the quarter ended September 28, 2026, versus $752.7 million a year earlier, a 60.0% increase. GAAP diluted EPS was $0.79 versus $0.50, and adjusted diluted EPS was $1.46 versus $0.67. Book-to-bill was 2.13 in the quarter, per the release.",
-      "source_name": "TTM Technologies Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386129/0/en/ttm-technologies-inc-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:TTMI",
-      "time": "2026-10-22T10:51:46Z",
-      "checked": "2026-10-22T10:49:46Z"
-    },
-    {
-      "id": "2026-10-22-ttm-guidance-2027",
-      "tag": "EQUITIES",
-      "headline": "TTM guides Q4 sales $1.42B-$1.44B; issues preliminary 2027 outlook",
-      "take": "TTM guided fourth-quarter net sales to $1.42-$1.44 billion and non-GAAP EPS to $1.77-$1.83, with full-year 2026 net sales of $4.47-$4.49 billion. Preliminary 2027 guidance is net sales of $6.5-$6.75 billion and non-GAAP EPS of $8.10-$8.90. The company says the Ophir Optics deal and the pending Merlin and ILFA acquisitions are not in the guidance.",
-      "source_name": "TTM Technologies Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386129/0/en/ttm-technologies-inc-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:TTMI",
-      "time": "2026-10-22T11:00:46Z",
-      "checked": "2026-10-22T10:49:46Z"
-    },
-    {
-      "id": "2026-10-22-gentherm-q3",
-      "tag": "EARNINGS",
-      "headline": "Gentherm Q3 product revenues $405.1M vs. $386.9M; GAAP EPS -$0.08",
-      "take": "Gentherm reported third-quarter product revenues of $405.1 million versus $386.9 million a year earlier, up 4.7%. GAAP diluted EPS was $(0.08) versus $0.49, with a net loss of $2.6 million versus net income of $14.9 million; adjusted diluted EPS was $0.33 versus $0.73. The GAAP swing to a loss is the item to watch against modest revenue growth.",
-      "source_name": "Gentherm 2026 Q3 results release",
-      "source_url": "https://globenewswire.com/news-release/2026/10/22/3386132/0/en/gentherm-reports-2026-third-quarter-results.html",
-      "ticker": "NASDAQ:THRM",
-      "time": "2026-10-22T11:09:46Z",
-      "checked": "2026-10-22T10:49:46Z"
-    },
-    {
-      "id": "2026-10-22-gentherm-guidance-modine",
-      "tag": "EQUITIES",
-      "headline": "Gentherm lifts 2026 revenue guide to $1.825B-$1.925B on Modine unit",
-      "take": "Gentherm raised full-year 2026 product revenue guidance to $1.825-$1.925 billion from $1.55-$1.65 billion in July, and adjusted EBITDA to $210-$230 million from $185-$200 million. The company said the update reflects the expected contribution from Modine Performance Technologies, whose combination with Gentherm it completed on October 1. Acquisition contribution, not organic change, drives the revision.",
-      "source_name": "Gentherm 2026 Q3 results release",
-      "source_url": "https://globenewswire.com/news-release/2026/10/22/3386132/0/en/gentherm-reports-2026-third-quarter-results.html",
-      "ticker": "NASDAQ:THRM",
-      "time": "2026-10-22T11:18:46Z",
-      "checked": "2026-10-22T10:49:46Z"
-    },
-    {
-      "id": "2026-10-22-lazard-q3",
-      "tag": "EARNINGS",
-      "headline": "Lazard Q3 net revenue $814M GAAP vs. $748M; $0.50 dividend declared",
-      "take": "Lazard reported third-quarter GAAP net revenue of $814 million versus $748 million a year earlier, and adjusted net revenue of $805 million versus $725 million. GAAP diluted EPS was $0.26 versus $0.65, and adjusted diluted EPS was $0.36 versus $0.56. Lazard declared a $0.50 quarterly dividend payable November 13 to holders of record on November 2.",
-      "source_name": "Lazard Q3 2026 results release",
-      "source_url": "https://www.prnewswire.com/news-releases/lazard-reports-third-quarter-and-nine-month-2026-results-302916068.html",
-      "ticker": "NYSE:LAZ",
-      "time": "2026-10-22T11:27:46Z",
-      "checked": "2026-10-22T10:49:46Z"
     }
   ]
 }
