@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-28T16:51:18Z",
+  "updated": "2026-10-28T17:45:28Z",
   "items": [
+    {
+      "id": "2026-10-28-stla-q3",
+      "time": "2026-10-28T17:46:28Z",
+      "tag": "EARNINGS",
+      "headline": "Stellantis Q3 net revenues €37,611M vs €37,206M; net loss €(453)M vs €(4,532)M",
+      "take": "Stellantis reported Q3 2026 net revenues of €37,611 million versus €37,206 million, adjusted operating income of €256 million versus €90 million, and a net loss of €(453) million versus €(4,532) million. Industrial free cash flow was €(4,009) million versus €(4,304) million. The narrowing loss and a 0.7% AOI margin show the recovery is still thin against heavy cash outflow.",
+      "source_name": "Stellantis Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389892/0/en/stellantis-reports-q3-2026-financial-results.html",
+      "ticker": "NYSE:STLA",
+      "checked": "2026-10-28T17:45:28Z"
+    },
+    {
+      "id": "2026-10-28-stla-guide",
+      "time": "2026-10-28T17:55:28Z",
+      "tag": "EQUITIES",
+      "headline": "Stellantis reaffirms 2026 guidance; expects positive industrial free cash flow in 2027",
+      "take": "Stellantis reaffirmed 2026 guidance of a mid-single-digit percentage increase in net revenues and a low-single-digit AOI margin, with improved industrial free cash flow including about €1.6 billion in cash payments related to H2 2025 charges. It also expects positive industrial free cash flow in 2027. With Q3 industrial free cash flow at €(4.0) billion, the guide leaves the burden on Q4 and 2027.",
+      "source_name": "Stellantis Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389892/0/en/stellantis-reports-q3-2026-financial-results.html",
+      "ticker": "NYSE:STLA",
+      "checked": "2026-10-28T17:45:28Z"
+    },
+    {
+      "id": "2026-10-28-axgn-q3",
+      "time": "2026-10-28T18:04:28Z",
+      "tag": "EARNINGS",
+      "headline": "Axogen Q3 revenue $75.8M vs $60.1M; net income $2.3M, EPS $0.04",
+      "take": "Axogen reported Q3 2026 revenue of $75.8 million, up 26.2% from $60.1 million, with GAAP net income of $2.3 million, or $0.04 per share, versus $0.7 million, or $0.01 per share. It expects full-year revenue of at least $290 million, including at least $7 million from the BioCircuit acquisition. Excluding that deal, the guide implies at least $283 million of organic revenue.",
+      "source_name": "Axogen Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390038/0/en/axogen-inc-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:AXGN",
+      "checked": "2026-10-28T17:45:28Z"
+    },
+    {
+      "id": "2026-10-28-calb-q3",
+      "time": "2026-10-28T18:13:28Z",
+      "tag": "CREDIT",
+      "headline": "California BanCorp Q3 net income $14.0M, EPS $0.43; NIM 4.61% vs 4.71% in Q2",
+      "take": "California BanCorp reported Q3 2026 net income of $14.0 million, or $0.43 per diluted share, versus $14.3 million, or $0.44, in Q2 and $15.7 million, or $0.48, in Q3 2025. Net interest margin was 4.61% versus 4.71% in Q2, while total deposits rose $117.4 million to $3.48 billion. Deposit growth outpaced loan growth of $53.3 million, but the margin slipped.",
+      "source_name": "California BanCorp Q3 2026 earnings (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390104/0/en/california-bancorp-reports-third-quarter-earnings-highlighted-by-steady-loan-growth-and-strong-deposit-growth.html",
+      "ticker": "NASDAQ:CALB",
+      "checked": "2026-10-28T17:45:28Z"
+    },
+    {
+      "id": "2026-10-27-ensn-q3",
+      "time": "2026-10-28T18:22:28Z",
+      "tag": "EARNINGS",
+      "headline": "Ensign Group Q3 revenue $1,484.0M vs $1,296.4M; raises 2026 EPS guide to $7.94-$8.02",
+      "take": "Ensign Group reported Q3 2026 total revenue of $1,484.0 million versus $1,296.4 million, a 14.5% increase by our calculation, with GAAP diluted EPS of $1.76 versus $1.42 and adjusted diluted EPS of $2.03 versus $1.64. It raised 2026 annual earnings guidance to $7.94-$8.02 per diluted share from $7.75-$7.85. The raise is modest relative to the Q3 beat in adjusted EPS.",
+      "source_name": "Ensign Group Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389626/21305/en/the-ensign-group-reports-third-quarter-2026-results-raises-2026-annual-earnings-guidance.html",
+      "ticker": "NASDAQ:ENSG",
+      "checked": "2026-10-28T17:45:28Z"
+    },
+    {
+      "id": "2026-10-27-wpc-q3",
+      "time": "2026-10-28T18:31:28Z",
+      "tag": "HOUSING",
+      "headline": "W. P. Carey Q3 AFFO $1.33/share vs $1.25; raises 2026 AFFO guide to $5.23-$5.29",
+      "take": "W. P. Carey reported Q3 2026 AFFO of $1.33 per diluted share versus $1.25, with diluted EPS of $0.61 versus $0.64 and total revenues of $468.3 million versus $431.3 million. It raised and narrowed 2026 AFFO guidance to $5.23-$5.29 from $5.19-$5.27 and set the quarterly dividend at $0.950 per share. Investment volume was $181.9 million in the quarter.",
+      "source_name": "W. P. Carey Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/w-p-carey-announces-third-quarter-2026-financial-results-302921196.html",
+      "ticker": "NYSE:WPC",
+      "checked": "2026-10-28T17:45:28Z"
+    },
     {
       "id": "2026-10-28-bsx-q3",
       "time": "2026-10-28T16:54:18Z",
@@ -5292,72 +5358,6 @@
       "ticker": "NYSE:GL",
       "time": "2026-10-22T02:39:17Z",
       "checked": "2026-10-22T01:56:17Z"
-    },
-    {
-      "id": "2026-10-21-tmo-q3",
-      "tag": "EARNINGS",
-      "headline": "Thermo Fisher Q3 revenue $12.14B, up 9%; GAAP EPS $4.64 vs. $4.27",
-      "take": "Thermo Fisher reported third-quarter revenue of $12.14 billion versus $11.12 billion a year earlier, with organic growth of 6%. GAAP diluted EPS was $4.64 versus $4.27 and adjusted EPS was $6.68 versus $5.79. The gap between reported and organic growth, and between GAAP and adjusted EPS, is worth watching when the company updates 2026 guidance on its call.",
-      "source_name": "Thermo Fisher Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000097745/000009774526000173/q32026earnings8kex99_1.htm",
-      "ticker": "NYSE:TMO",
-      "time": "2026-10-22T00:53:22Z",
-      "checked": "2026-10-22T00:50:22Z"
-    },
-    {
-      "id": "2026-10-21-tdy-q3",
-      "tag": "EARNINGS",
-      "headline": "Teledyne Q3 net sales $1,684.9M, up 9.4%; outlook raised",
-      "take": "Teledyne reported third-quarter net sales of $1,684.9 million versus $1,539.5 million a year earlier, GAAP diluted EPS of $5.82 versus $4.65, and non-GAAP EPS of $6.72 versus $5.57. It raised full-year 2026 GAAP EPS outlook to $21.71-$21.87 and non-GAAP to $25.40-$25.50. EPS growth outpaced sales growth, roughly 25% GAAP against 9.4% for sales.",
-      "source_name": "Teledyne Q3 2026 earnings release (Form 8-K), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001094285/000109428526000055/q3-2026earningsrelease.htm",
-      "ticker": "NYSE:TDY",
-      "time": "2026-10-22T00:58:22Z",
-      "checked": "2026-10-22T00:50:22Z"
-    },
-    {
-      "id": "2026-10-21-lvs-q3",
-      "tag": "EARNINGS",
-      "headline": "Las Vegas Sands Q3 net revenue $3.22B vs. $3.33B; dividend raised 20% for 2027",
-      "take": "Las Vegas Sands reported third-quarter net revenue of $3.22 billion versus $3.33 billion a year earlier, diluted EPS of $0.48 versus $0.61, and consolidated adjusted property EBITDA of $1.12 billion versus $1.34 billion. It repurchased $950 million of common stock in the quarter and announced a 20% increase in its recurring dividend to $1.44 per share annually for 2027. Returning capital while revenue and EBITDA fell year over year is the contrast in this report.",
-      "source_name": "Las Vegas Sands Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001300514/000130051426000099/lvs_ex991x09302026.htm",
-      "ticker": "NYSE:LVS",
-      "time": "2026-10-22T01:04:22Z",
-      "checked": "2026-10-22T00:50:22Z"
-    },
-    {
-      "id": "2026-10-21-medp-q3",
-      "tag": "EARNINGS",
-      "headline": "Medpace Q3 revenue $716.0M, up 8.5%; backlog up 5.6% to $3.17B",
-      "take": "Medpace reported third-quarter revenue of $716.0 million versus $659.9 million a year earlier and GAAP diluted EPS of $4.84 versus $3.86. Backlog as of Sept. 30 was $3,167.2 million, up 5.6%, and net new business awards were $873.4 million. It forecasts 2026 revenue of $2.835-$2.855 billion; backlog growing slower than revenue is the detail to track.",
-      "source_name": "Medpace Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001668397/000166839726000034/medp-20261021exx991.htm",
-      "ticker": "NASDAQ:MEDP",
-      "time": "2026-10-22T01:10:22Z",
-      "checked": "2026-10-22T00:50:22Z"
-    },
-    {
-      "id": "2026-10-21-oii-q3",
-      "tag": "EARNINGS",
-      "headline": "Oceaneering Q3 revenue $785M, up 6%; net income $52.6M, down 26%",
-      "take": "Oceaneering reported third-quarter revenue of $785 million versus $742.9 million a year earlier, net income attributable of $52.6 million versus $71.3 million, and GAAP diluted EPS of $0.52 versus $0.71. Adjusted EBITDA rose 7% to $119 million and free cash flow was $142 million. The company initiated full-year 2027 EBITDA guidance of $430-$480 million.",
-      "source_name": "Oceaneering Q3 2026 earnings release (Form 8-K Ex. 99.1), Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000073756/000007375626000152/exhibit_991x8kx3qx2026.htm",
-      "ticker": "NYSE:OII",
-      "time": "2026-10-22T01:16:22Z",
-      "checked": "2026-10-22T00:50:22Z"
-    },
-    {
-      "id": "2026-10-21-seic-buyback",
-      "tag": "EQUITIES",
-      "headline": "SEI board raises stock repurchase program by $800M to about $925.6M available",
-      "take": "SEI Investments disclosed in a Form 8-K that its board on Oct. 20, 2026 approved an additional $800.0 million for its stock repurchase program, raising the available authorization to approximately $925.6 million. The filing was made alongside its third-quarter earnings report for the quarter ended Sept. 30, 2026. Authorizations set a ceiling for buybacks rather than a commitment to execute them.",
-      "source_name": "SEI Investments Form 8-K, Oct. 21, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000350894/000035089426000051/seic-20261021.htm",
-      "ticker": "NASDAQ:SEIC",
-      "time": "2026-10-22T01:22:22Z",
-      "checked": "2026-10-22T00:50:22Z"
     }
   ]
 }
