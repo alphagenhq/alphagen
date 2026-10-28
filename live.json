@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-28T20:18:53Z",
+ "updated": "2026-10-28T21:04:28Z",
  "items": [
+  {
+   "id": "live-0000898173-26-000050-2.02",
+   "time": "2026-10-28T20:32:51Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "O Reilly Automotive releases financial results",
+   "take": "O Reilly Automotive filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:32 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ORLY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/898173/000089817326000050/0000898173-26-000050-index.htm",
+   "ticker": "NASDAQ:ORLY"
+  },
   {
    "id": "live-0000720005-26-000080-2.02",
    "time": "2026-10-28T20:17:12Z",
