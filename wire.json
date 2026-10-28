@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-28T01:49:35Z",
+  "updated": "2026-10-28T02:39:10Z",
   "items": [
+    {
+      "id": "2026-10-28-eqt-q3",
+      "time": "2026-10-28T02:50:00Z",
+      "tag": "EARNINGS",
+      "headline": "EQT Q3 net income $279M vs $336M; diluted EPS $0.44 vs $0.53",
+      "take": "EQT reported Q3 2026 net income attributable to EQT of $279 million versus $336 million a year earlier, with diluted EPS of $0.44 versus $0.53 and adjusted EPS of $0.42 versus $0.52. Total sales volume was 583 Bcfe versus 634 Bcfe, including 21 Bcfe of strategic curtailments. Lower volumes and lower earnings year over year show the curtailments and the year-ago comparison both weighed on the quarter.",
+      "source_name": "EQT Q3 2026 results (company release)",
+      "source_url": "https://www.prnewswire.com/news-releases/eqt-reports-third-quarter-2026-results-302921189.html",
+      "ticker": "NYSE:EQT",
+      "checked": "2026-10-28T02:39:10Z"
+    },
+    {
+      "id": "2026-10-28-eqt-guide-netdebt",
+      "time": "2026-10-28T03:03:00Z",
+      "tag": "ENERGY",
+      "headline": "EQT guides Q4 volume 550-600 Bcfe; net debt $5,474M",
+      "take": "EQT guided Q4 2026 sales volume to 550-600 Bcfe and full-year 2026 to 2,375-2,450 Bcfe. Q3 capital expenditures were $638 million versus $618 million a year earlier, and net debt was $5,473.8 million at September 30, 2026 versus $7,689.5 million at December 31, 2025. The balance sheet is the notable change in the release, while the volume outlook sits below the Q3 level.",
+      "source_name": "EQT Q3 2026 results (company release)",
+      "source_url": "https://www.prnewswire.com/news-releases/eqt-reports-third-quarter-2026-results-302921189.html",
+      "ticker": "NYSE:EQT",
+      "checked": "2026-10-28T02:39:10Z"
+    },
+    {
+      "id": "2026-10-28-rnst-q3",
+      "time": "2026-10-28T03:16:00Z",
+      "tag": "CREDIT",
+      "headline": "Renasant Q3 net income $78.9M vs $59.8M; diluted EPS $0.86",
+      "take": "Renasant reported Q3 2026 net income of $78.9 million versus $59.8 million a year earlier, and diluted EPS of $0.86 versus $0.63; adjusted diluted EPS was $0.86 versus $0.77. Total assets were $27.5 billion, and the board approved a new $175.0 million repurchase program effective October 27. Adjusted EPS rising from $0.77 to $0.86 indicates earnings improved beyond the change in one-time items.",
+      "source_name": "Renasant Q3 2026 earnings release (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389668/6389/en/renasant-corporation-announces-earnings-for-the-third-quarter-of-2026.html",
+      "ticker": "NYSE:RNST",
+      "checked": "2026-10-28T02:39:10Z"
+    },
+    {
+      "id": "2026-10-28-busey-q3",
+      "time": "2026-10-28T03:29:00Z",
+      "tag": "CREDIT",
+      "headline": "First Busey Q3 net income $55.8M vs $57.1M; EPS $0.61",
+      "take": "First Busey reported Q3 2026 net income of $55.8 million, or $0.61 per diluted share, versus $57.1 million, or $0.58, in Q3 2025. Portfolio loans were $12.82 billion versus $13.60 billion a year earlier, while total deposits were $15.54 billion versus $15.07 billion. EPS rose even as net income and loans fell, which is consistent with a lower share count.",
+      "source_name": "First Busey Q3 2026 earnings release (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389708/10701/en/first-busey-corporation-announces-2026-third-quarter-earnings.html",
+      "ticker": "NASDAQ:BUSE",
+      "checked": "2026-10-28T02:39:10Z"
+    },
     {
       "id": "2026-10-28-bkr-orders-rpo",
       "time": "2026-10-28T01:44:00Z",
@@ -5295,43 +5339,6 @@
       "source_name": "Travelers Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm",
       "time": "2026-10-16T12:36:06Z"
-    },
-    {
-      "id": "2026-10-16-fed-balance-sheet-6-756t",
-      "tag": "FED",
-      "headline": "Fed balance sheet edges up $8.1B to $6.756T; reserves average $3.02T",
-      "take": "Federal Reserve total assets were $6,755.6 billion on Wednesday, Oct. 14, up $8.1 billion from a week earlier, per H.4.1 data on FRED. Reserve balances averaged $3,022.1 billion in the week, down $7.5 billion on the week but $91.9 billion above the week ended Sept. 23. A flat balance sheet means week-to-week reserve swings are now being driven by Treasury's cash account, not by Fed policy.",
-      "source_name": "Federal Reserve H.4.1 via FRED (WALCL, WRESBAL)",
-      "source_url": "https://fred.stlouisfed.org/series/WALCL",
-      "time": "2026-10-16T12:40:06Z"
-    },
-    {
-      "id": "2026-10-16-brent-wti-spread-24",
-      "tag": "ENERGY",
-      "headline": "Brent's premium over WTI narrows to $24.64 a barrel from $31.92 on Oct. 8",
-      "take": "Brent crude was $126.55 a barrel on Oct. 14 and WTI was $101.91, per EIA spot data on FRED, leaving a $24.64 gap. On Oct. 8 Brent was $130.18 and WTI $98.26, a $31.92 spread; since then Brent fell $3.63 while WTI rose $3.65. A spread this wide signals that the supply shock is concentrated in seaborne international crude, with U.S. inland barrels only partly pulled along.",
-      "source_name": "U.S. Energy Information Administration via FRED (DCOILBRENTEU, DCOILWTICO)",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "time": "2026-10-16T12:44:06Z"
-    },
-    {
-      "id": "2026-10-16-trv-cats-combined-ratio",
-      "tag": "EQUITIES",
-      "ticker": "NYSE:TRV",
-      "headline": "Travelers' combined ratio improves to 86.8% despite $538M of catastrophe losses",
-      "take": "Travelers' Q3 combined ratio was 86.8% versus 87.3% a year earlier even as pretax catastrophe losses rose to $538 million from $402 million; the underlying combined ratio, which excludes catastrophes and prior-year reserve development, was 84.1% versus 83.9%. Pretax net investment income rose 6.3% to $1.098 billion, and the company bought back 4.0 million shares for $1.508 billion. The slight drift in the underlying ratio is the number to watch: it suggests pricing is no longer outrunning loss trends by as much as it was.",
-      "source_name": "Travelers Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm",
-      "time": "2026-10-16T12:48:06Z"
-    },
-    {
-      "id": "2026-10-16-sofr-388-iorb",
-      "tag": "RATES",
-      "headline": "SOFR at 3.88% sits 2 bp under the Fed's 3.90% reserve rate; RRP use near zero",
-      "take": "The Secured Overnight Financing Rate was 3.88% on Oct. 14, versus 3.89% on Oct. 13, while the interest rate on reserve balances held at 3.90%, per New York Fed and Board data on FRED. Usage of the Fed's overnight reverse repo facility was $1.201 billion on Oct. 15, up from $0.201 billion a day earlier. Repo trading below the reserve rate shows no sign of funding strain, but with the RRP buffer all but empty, any further cash drain will come directly out of bank reserves.",
-      "source_name": "Federal Reserve Bank of New York and Federal Reserve Board via FRED (SOFR, IORB, RRPONTSYD)",
-      "source_url": "https://fred.stlouisfed.org/series/SOFR",
-      "time": "2026-10-16T12:52:06Z"
     }
   ]
 }
