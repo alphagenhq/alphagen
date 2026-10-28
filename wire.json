@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-28T02:39:10Z",
+  "updated": "2026-10-28T10:53:02Z",
   "items": [
+    {
+      "id": "2026-10-28-hlt-q3",
+      "time": "2026-10-28T11:01:00Z",
+      "tag": "EARNINGS",
+      "headline": "Hilton Q3 revenues $3,325M vs $3,120M; diluted EPS $2.37 vs $1.78",
+      "take": "Hilton reported Q3 2026 total revenues of $3,325 million versus $3,120 million, net income of $536 million versus $421 million, and diluted EPS of $2.37 versus $1.78 (adjusted for special items: $2.45 versus $2.11). System-wide comparable RevPAR rose 5.8% on a currency-neutral basis. Net income grew faster than revenue, which points to operating leverage in the quarter.",
+      "source_name": "Hilton Q3 2026 results (8-K exhibit)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001585689/000158568926000049/q32026earningsrelease.htm",
+      "ticker": "NYSE:HLT",
+      "checked": "2026-10-28T10:53:02Z"
+    },
+    {
+      "id": "2026-10-28-hlt-outlook",
+      "time": "2026-10-28T11:10:00Z",
+      "tag": "EQUITIES",
+      "headline": "Hilton 2026 outlook: adj. EPS $9.07-$9.13; RevPAR up 4.0%-4.5%",
+      "take": "Hilton's full-year 2026 outlook calls for diluted EPS of $8.38 to $8.44, adjusted EPS of $9.07 to $9.13, adjusted EBITDA of $4,060 million to $4,080 million, and system-wide comparable RevPAR up 4.0% to 4.5%. It expects net unit growth of 6.0% to 7.0% and capital return of about $3.5 billion. The RevPAR range sits below the 5.8% Q3 pace, below the Q3 growth rate.",
+      "source_name": "Hilton Q3 2026 results (8-K exhibit)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001585689/000158568926000049/q32026earningsrelease.htm",
+      "ticker": "NYSE:HLT",
+      "checked": "2026-10-28T10:53:02Z"
+    },
+    {
+      "id": "2026-10-28-aon-q3",
+      "time": "2026-10-28T11:19:00Z",
+      "tag": "EARNINGS",
+      "headline": "Aon Q3 revenue $4,101M vs $3,997M; organic growth 6%; adj. EPS $3.36",
+      "take": "Aon reported Q3 2026 total revenue of $4,101 million versus $3,997 million, up 3%, with organic revenue growth of 6%. GAAP diluted EPS was $2.23 versus $2.11 and adjusted EPS was $3.36 versus $3.05. Operating income slipped to $809 million from $816 million while adjusted operating income rose to $1,106 million from $1,051 million.",
+      "source_name": "Aon Q3 2026 results (company release)",
+      "source_url": "https://www.prnewswire.com/news-releases/aon-reports-third-quarter-2026-results-302921449.html",
+      "ticker": "NYSE:AON",
+      "checked": "2026-10-28T10:53:02Z"
+    },
+    {
+      "id": "2026-10-28-lii-q3",
+      "time": "2026-10-28T11:28:00Z",
+      "tag": "EARNINGS",
+      "headline": "Lennox Q3 net sales $1,572.5M vs $1,426.8M; GAAP EPS $6.41 vs $7.38",
+      "take": "Lennox reported Q3 2026 net sales of $1,572.5 million versus $1,426.8 million, with GAAP diluted EPS of $6.41 versus $7.38 and adjusted EPS of $6.84 versus $7.38. It cut 2026 adjusted EPS guidance to $21.00-$21.50 from $23.00-$24.00 and guides revenue growth of about 6%, including about 5% from completed acquisitions. Sales grew while per-share earnings fell, and the guidance cut signals lower profitability expectations for the year.",
+      "source_name": "Lennox Q3 2026 results (company release)",
+      "source_url": "https://investor.lennox.com/news-releases/news-release-details/lennox-reports-2026-third-quarter-earnings-results",
+      "ticker": "NYSE:LII",
+      "checked": "2026-10-28T10:53:02Z"
+    },
+    {
+      "id": "2026-10-28-gnrc-q3",
+      "time": "2026-10-28T11:37:00Z",
+      "tag": "EARNINGS",
+      "headline": "Generac Q3 net sales $1,294.8M vs $1,114.4M; diluted EPS $1.83 vs $1.12",
+      "take": "Generac reported Q3 2026 net sales of $1,294.8 million versus $1,114.4 million, up 16%, net income attributable to Generac of $109.2 million versus $66.2 million, and GAAP diluted EPS of $1.83 versus $1.12. Adjusted diluted EPS was $2.54 versus $1.83. It raised its 2026 adjusted EBITDA margin guidance to about 20.5% to 21.0% from 20.0% to 21.0%, while net sales growth guidance was unchanged at the mid-to-high teens percent range.",
+      "source_name": "Generac Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389945/0/en/generac-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:GNRC",
+      "checked": "2026-10-28T10:53:02Z"
+    },
+    {
+      "id": "2026-10-28-psn-q3",
+      "time": "2026-10-28T11:46:00Z",
+      "tag": "EARNINGS",
+      "headline": "Parsons Q3 revenue $1,650.5M vs $1,621.7M; backlog $9.36B; narrows guide",
+      "take": "Parsons reported Q3 2026 revenue of $1,650.5 million versus $1,621.7 million, net income attributable to Parsons of $54.2 million versus $64.1 million, and GAAP diluted EPS of $0.51 versus $0.59 (adjusted: $0.89 versus $0.86). Total backlog was $9.36 billion versus $8.83 billion a year earlier. It narrowed 2026 revenue guidance to $6.25-$6.45 billion from $6.20-$6.50 billion.",
+      "source_name": "Parsons Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389964/0/en/parsons-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:PSN",
+      "checked": "2026-10-28T10:53:02Z"
+    },
+    {
+      "id": "2026-10-28-eqnr-q3",
+      "time": "2026-10-28T11:55:00Z",
+      "tag": "ENERGY",
+      "headline": "Equinor Q3 net operating income $11.95B vs $5.27B; adj. EPS $1.20",
+      "take": "Equinor reported Q3 2026 net operating income of USD 11.95 billion versus USD 5.27 billion in Q3 2025, IFRS net income of USD 2.54 billion, and adjusted earnings after tax of USD 2.86 billion. Total equity production was 2,166 mboe per day, up 2% from Q3 2025, and the quarterly dividend is USD 0.39 per share. Net operating income more than doubled year over year, though IFRS net income is reported on a different basis.",
+      "source_name": "Equinor Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389846/0/en/equinor-third-quarter-2026-results.html",
+      "ticker": "NYSE:EQNR",
+      "checked": "2026-10-28T10:53:02Z"
+    },
     {
       "id": "2026-10-28-eqt-q3",
       "time": "2026-10-28T02:50:00Z",
@@ -5273,72 +5350,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-3q2026exhibit991.htm",
       "time": "2026-10-21T15:25:59Z",
       "ticker": "NYSE:T"
-    },
-    {
-      "id": "2026-10-19-fitb-q3-comerica",
-      "tag": "EARNINGS",
-      "headline": "Fifth Third Q3 diluted EPS $0.90; adjusted $1.13 after $171M merger charges",
-      "take": "Fifth Third reported third-quarter net income to common shareholders of $828 million, or $0.90 a diluted share versus $0.91 a year earlier; excluding certain items, EPS was $1.13. Net interest income was $2.27 billion, and after-tax merger-related charges were $171 million as the bank completed the systems conversion for its Comerica acquisition. With the conversion done, the remaining question is how quickly merger charges fade from reported results.",
-      "source_name": "Fifth Third Bancorp Q3 2026 earnings release",
-      "source_url": "https://s23.q4cdn.com/252949160/files/content_files/Q3-2026-Earnings-Release-Final.pdf",
-      "time": "2026-10-21T15:29:59Z",
-      "ticker": "NYSE:FITB"
-    },
-    {
-      "id": "2026-10-20-maximus-agile-defense",
-      "tag": "DEALS",
-      "headline": "Maximus agrees to buy Agile Defense for $660M cash plus up to $50M earnout",
-      "take": "Maximus Federal Services agreed on Oct. 19 to acquire Agile Defense from Arclight Equity Holdings for $660 million in cash, reduced by debt and certain expenses, plus up to $50 million in contingent payments tied to revenue milestones. Closing is expected in Maximus's first quarter of fiscal 2027, and no shareholder vote is required. The earnout structure ties up to about 7.6% of the base price to post-closing revenue performance.",
-      "source_name": "Maximus Form 8-K, Oct. 20, 2026 (Equity Purchase Agreement)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001032220/000103222026000038/mms-20261019.htm",
-      "time": "2026-10-21T15:33:59Z",
-      "ticker": "NYSE:MMS"
-    },
-    {
-      "id": "2026-10-20-housing-starts-sep",
-      "tag": "HOUSING",
-      "headline": "September housing starts fall to 1.221M annualized, 7.4% below a year earlier",
-      "take": "Housing starts ran at a seasonally adjusted annual rate of 1,221,000 in September, 5.2% below August's revised 1,288,000 and 7.4% below September 2025, per Census; the monthly drop is not statistically significant. Single-family starts were 859,000, and building permits were 1,400,000, 3.0% below a year earlier. Permits held near August's level even as starts slipped, so the pipeline of approved projects has not shrunk the way groundbreakings have.",
-      "source_name": "U.S. Census Bureau, New Residential Construction, September 2026",
-      "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-      "time": "2026-10-21T15:37:59Z"
-    },
-    {
-      "id": "2026-10-20-mortgage-30y-7-40",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate holds at 7.40%, up 45 bp in four weeks",
-      "take": "Freddie Mac's 30-year fixed mortgage average was 7.40% for the week ending Oct. 15, unchanged from Oct. 8 and up from 6.95% on Sept. 17. The next reading is due Oct. 22. Rates at this level line up with September's soft starts data.",
-      "source_name": "Freddie Mac PMMS via FRED (MORTGAGE30US)",
-      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-      "time": "2026-10-21T15:41:59Z"
-    },
-    {
-      "id": "2026-10-19-ust10y-5-15",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield ends Oct. 19 at 5.15%, up 6 bp from Friday",
-      "take": "The 10-year Treasury constant-maturity yield was 5.15% on Oct. 19, up from 5.09% on Oct. 16 and below 5.21% on Oct. 13, per Fed H.15 data on FRED. Long-end yields above 5% keep pressure on mortgage rates and corporate refinancing costs heading into the Oct. 28 FOMC decision.",
-      "source_name": "Federal Reserve H.15 via FRED (DGS10)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "time": "2026-10-21T15:45:59Z"
-    },
-    {
-      "id": "2026-10-16-debt-40-39t",
-      "tag": "DEBT",
-      "headline": "Total public debt outstanding reaches $40.39T as of Oct. 16",
-      "take": "Total public debt outstanding was $40.388 trillion on Oct. 16, per Treasury's Debt to the Penny data, with $32.532 trillion held by the public and $7.855 trillion in intragovernmental holdings. Debt held by the public, the portion financed in markets, is about 81% of the total and is the portion refinanced through Treasury auctions.",
-      "source_name": "U.S. Treasury, Debt to the Penny (FiscalData)",
-      "source_url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny",
-      "time": "2026-10-21T15:49:59Z"
-    },
-    {
-      "id": "2026-10-16-trv-q3",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:TRV",
-      "headline": "Travelers Q3 EPS rises to $9.04; core EPS up 13% to $9.18",
-      "take": "Travelers reported third-quarter net income of $1.917 billion, or $9.04 a diluted share, versus $1.888 billion and $8.24 a year earlier, while core income rose to $9.18 a share from $8.14. Total revenues were $12.41 billion versus $12.47 billion, and net written premiums were essentially flat at $11.48 billion. With premium growth stalled, the earnings gain came from a shrinking share count and higher investment income rather than a bigger book of business.",
-      "source_name": "Travelers Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm",
-      "time": "2026-10-16T12:36:06Z"
     }
   ]
 }
