@@ -1,6 +1,44 @@
 {
-  "updated": "2026-10-27T16:57:10Z",
+  "updated": "2026-10-28T14:50:54Z",
   "items": [
+    {
+      "id": "2026-10-27-fele-challenge",
+      "time": "2026-10-28T14:53:54Z",
+      "type": "M&A",
+      "headline": "Franklin Electric to acquire Challenge Pumps for about US$181M cash",
+      "parties": "Acquirer: Franklin Electric; Target: Challenge Pumps Holdings Pty Ltd",
+      "value": 0.181,
+      "value_text": "About US$181M cash (A$259M) plus up to US$14M contingent consideration",
+      "status": "Announced",
+      "announced": "2026-10-27",
+      "sector": "Industrials",
+      "take": "Franklin Electric agreed to acquire Perth-based underground mine dewatering provider Challenge Pumps for about US$181 million in cash, plus up to US$14 million contingent on post-closing revenue. The release cites FY2026 revenue of about US$52 million and expects closing in 2026, subject to the target's audit and customary conditions.",
+      "source_name": "Franklin Electric press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389806/11167/en/franklin-electric-enters-into-agreement-to-acquire-challenge-pumps-strengthening-global-mineral-extraction-dewatering-platform.html",
+      "tickers": [
+        "NASDAQ:FELE"
+      ],
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-27-rnst-commercial",
+      "time": "2026-10-28T14:54:54Z",
+      "type": "M&A",
+      "headline": "Renasant to acquire Commercial Holding Company in stock deal valued at about $142M",
+      "parties": "Acquirer: Renasant Corporation; Target: Commercial Holding Company (parent of Commercial Bank & Trust Company)",
+      "value": 0.142,
+      "value_text": "About $142M (0.8798 Renasant shares per Commercial share)",
+      "status": "Announced",
+      "announced": "2026-10-27",
+      "sector": "Financials",
+      "take": "Renasant will issue 0.8798 shares per Commercial share, about 2.64 million shares in total, valued at about $142 million at a $40.29 ten-day average price. Commercial had about $1.1 billion in total assets at September 30, 2026; closing is expected in Q1 2027 pending regulatory and shareholder approvals.",
+      "source_name": "Renasant press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389670/6389/en/renasant-corporation-to-acquire-commercial-holding-company.html",
+      "tickers": [
+        "NYSE:RNST"
+      ],
+      "checked": "2026-10-28T14:50:54Z"
+    },
     {
       "id": "2026-10-27-bce-lacaisse-towerco",
       "time": "2026-10-27T17:00:10Z",

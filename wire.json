@@ -1,6 +1,94 @@
 {
-  "updated": "2026-10-28T10:53:02Z",
+  "updated": "2026-10-28T14:50:54Z",
   "items": [
+    {
+      "id": "2026-10-28-kex-q3",
+      "time": "2026-10-28T14:51:54Z",
+      "tag": "EARNINGS",
+      "headline": "Kirby Q3 revenues $977.2M vs $871.2M; diluted EPS $2.09 vs $1.65",
+      "take": "Kirby reported Q3 2026 total revenues of $977.2 million versus $871.2 million, net earnings attributable to Kirby of $110.8 million versus $92.5 million, and diluted EPS of $2.09 versus $1.65. Revenue rose about 12.2% and EPS about 26.7% by our calculation. Earnings grew faster than sales, which points to operating leverage in the quarter.",
+      "source_name": "Kirby Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390014/0/en/kirby-corporation-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:KEX",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-kex-guide",
+      "time": "2026-10-28T14:58:54Z",
+      "tag": "EQUITIES",
+      "headline": "Kirby narrows 2026 EPS growth guide to 10%-15%, sees upper end",
+      "take": "Kirby narrowed its 2026 diluted EPS growth outlook to 10% to 15% and says it expects results toward the upper end of the range. It also guided operating cash flow of $575 million to $675 million and capital spending of $220 million to $260 million. A narrowed range with an upper-end bias suggests management has visibility into the rest of the year.",
+      "source_name": "Kirby Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390014/0/en/kirby-corporation-announces-third-quarter-2026-results.html",
+      "ticker": "NYSE:KEX",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-fele-q3",
+      "time": "2026-10-28T15:05:54Z",
+      "tag": "EARNINGS",
+      "headline": "Franklin Electric Q3 net sales $633.6M vs $581.7M; GAAP EPS $1.35 vs $0.37",
+      "take": "Franklin Electric reported Q3 2026 net sales of $633.6 million versus $581.7 million, diluted EPS of $1.35 versus $0.37, and adjusted diluted EPS of $1.50 versus $1.31. Net sales rose about 8.9% by our calculation. The release raised 2026 guidance to net sales of $2.23 billion to $2.30 billion and adjusted diluted EPS of $4.62 to $4.82.",
+      "source_name": "Franklin Electric Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390107/11167/en/franklin-electric-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:FELE",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-ip-q3",
+      "time": "2026-10-28T15:12:54Z",
+      "tag": "EARNINGS",
+      "headline": "International Paper Q3 net sales $6,197M vs $6,222M; adj. operating EPS $0.37",
+      "take": "International Paper reported Q3 2026 net sales of $6,197 million versus $6,222 million, a diluted net loss per share of $(2.13) versus $(2.09), and adjusted operating EPS (non-GAAP) of $0.37 versus $(0.43). The diluted loss per share from continuing operations was $(2.07) versus $(0.81). The gap between the GAAP loss and the positive adjusted figure shows how much of the quarter sat in items the company excludes.",
+      "source_name": "International Paper Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/international-paper-reports-third-quarter-2026-results-302921498.html",
+      "ticker": "NYSE:IP",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-ip-guide",
+      "time": "2026-10-28T15:19:54Z",
+      "tag": "EQUITIES",
+      "headline": "International Paper guides Q4 NA Packaging segment profit $460M-$500M",
+      "take": "International Paper guided Packaging Solutions North America Q4 2026 segment operating profit of $460 million to $500 million and full-year segment operating profit of $1.3 billion to $1.4 billion; adjusted EBITDA is guided at $700 million to $740 million for Q4 and $2.27 billion to $2.31 billion for the year. The company said it no longer provides guidance for Packaging Solutions EMEA. Guidance now covers only the North American segment.",
+      "source_name": "International Paper Q3 2026 results (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/international-paper-reports-third-quarter-2026-results-302921498.html",
+      "ticker": "NYSE:IP",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-fele-challenge",
+      "time": "2026-10-28T15:26:54Z",
+      "tag": "DEALS",
+      "headline": "Franklin Electric to acquire Challenge Pumps for about US$181M cash",
+      "take": "Franklin Electric entered into a definitive agreement to acquire Challenge Pumps Holdings Pty Ltd, a Perth-based underground mine dewatering provider, for about US$181 million (A$259 million) in cash plus up to US$14 million in contingent consideration. The release cites FY2026 revenue of about US$52 million and EBITDA of about US$18 million, and expects closing in 2026. The price is a multiple of roughly ten times that EBITDA figure by our calculation.",
+      "source_name": "Franklin Electric press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389806/11167/en/franklin-electric-enters-into-agreement-to-acquire-challenge-pumps-strengthening-global-mineral-extraction-dewatering-platform.html",
+      "ticker": "NASDAQ:FELE",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-rnst-commercial",
+      "time": "2026-10-28T15:33:54Z",
+      "tag": "DEALS",
+      "headline": "Renasant to acquire Commercial Holding Company in deal valued at about $142M",
+      "take": "Renasant agreed to acquire Commercial Holding Company, parent of Commercial Bank & Trust, at 0.8798 Renasant shares per Commercial share, a value of about $142 million based on a $40.29 ten-day average price as of October 26. Commercial had total assets of about $1.1 billion at September 30, 2026, and closing is expected in Q1 2027 subject to regulatory and shareholder approvals. The deal adds roughly $1.2 billion of trust and wealth assets under management.",
+      "source_name": "Renasant press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389670/6389/en/renasant-corporation-to-acquire-commercial-holding-company.html",
+      "ticker": "NYSE:RNST",
+      "checked": "2026-10-28T14:50:54Z"
+    },
+    {
+      "id": "2026-10-28-patk-lci",
+      "time": "2026-10-28T15:40:54Z",
+      "tag": "DEALS",
+      "headline": "Patrick reaffirms LCI merger after LCI receives unsolicited Monomoy proposal",
+      "take": "Patrick Industries reaffirmed its all-stock merger agreement with LCI Industries after LCI told Patrick it received an unsolicited nonbinding proposal from Monomoy Capital Partners. LCI's board said it has a duty to evaluate the proposal and has not changed its recommendation for the Patrick merger. Terms of the Monomoy proposal were not disclosed, so the situation remains open.",
+      "source_name": "Patrick Industries press release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/patrick-industries-inc-reaffirms-merger-agreement-with-lci-industries-302921983.html",
+      "ticker": "NASDAQ:PATK",
+      "checked": "2026-10-28T14:50:54Z"
+    },
     {
       "id": "2026-10-28-hlt-q3",
       "time": "2026-10-28T11:01:00Z",
@@ -5269,87 +5357,6 @@
       "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
       "time": "2026-10-21T20:00:32Z",
       "checked": "2026-10-21T19:51:32Z"
-    },
-    {
-      "id": "2026-10-19-canada-cpi-sep-3-1",
-      "tag": "GLOBAL",
-      "headline": "Canada CPI rises 3.1% in September; gasoline up 27.8% from a year ago",
-      "take": "Statistics Canada reported that consumer prices rose 3.1% year over year in September, up from 3.0% in August, with gasoline up 27.8% after a 22.8% rise in August. Excluding gasoline, CPI rose 2.2%, down from 2.4%, and food purchased from stores rose 1.7% versus 2.8% in August. The gap between the headline and ex-gasoline rates shows that fuel is doing nearly all of the work in Canadian inflation right now.",
-      "source_name": "Statistics Canada, The Daily: Consumer Price Index, September 2026",
-      "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
-      "time": "2026-10-21T20:08:32Z",
-      "checked": "2026-10-21T19:51:32Z"
-    },
-    {
-      "id": "2026-10-16-fed-h8-bank-credit",
-      "tag": "CREDIT",
-      "headline": "Fed H.8: commercial bank loans and leases $14.18T; C&I loans up 10.0% annualized in September",
-      "take": "The Fed's H.8 release of Oct. 16 showed U.S. commercial banks held $26,100.3 billion of total assets, $14,182.5 billion of loans and leases and $19,771.5 billion of deposits in the week ending Oct. 7, seasonally adjusted. For September, deposits grew at a 5.8% annualized rate and bank credit at 3.3%, slowing from 5.0% in August, while commercial and industrial loans grew 10.0%. Business lending growing about three times as fast as total bank credit points to corporate borrowing as the main driver of balance-sheet growth.",
-      "source_name": "Federal Reserve Board, H.8 Assets and Liabilities of Commercial Banks, Oct. 16, 2026",
-      "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
-      "time": "2026-10-21T20:16:32Z",
-      "checked": "2026-10-21T19:51:32Z"
-    },
-    {
-      "id": "2026-10-21-integra-q3",
-      "tag": "EARNINGS",
-      "headline": "Integra LifeSciences Q3 revenue $411.2M, up 2.3%; adjusted EPS $0.59 vs. $0.54",
-      "take": "Integra LifeSciences reported third-quarter revenue of $411.2 million versus $402.1 million a year earlier, GAAP diluted EPS of $0.19 versus a loss of $0.07, and adjusted EPS of $0.59 versus $0.54. Full-year 2026 guidance is revenue of $1.634-$1.654 billion and adjusted EPS of $2.30-$2.40, which the company says is consistent with its Oct. 2 outlook. With guidance unchanged, the quarter's swing from a GAAP loss to a profit is the main change from the prior-year comparison.",
-      "source_name": "Integra LifeSciences Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385331/1063/en/integra-lifesciences-reports-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:IART",
-      "time": "2026-10-21T20:24:32Z",
-      "checked": "2026-10-21T19:51:32Z"
-    },
-    {
-      "id": "2026-10-20-rtx-q3-guidance-raise",
-      "tag": "EARNINGS",
-      "headline": "RTX Q3 sales rise to $25.0B, 12% organic; 2026 adjusted EPS outlook raised to $7.65-$7.75",
-      "take": "RTX reported third-quarter sales of $24.97 billion versus $22.48 billion a year earlier, with organic growth of 12%, and adjusted EPS of $2.26 versus $1.70. Backlog stood at $340 billion, and the company lifted its 2026 adjusted sales outlook to $97.0-$97.5 billion from $95.0-$96.0 billion. Free cash flow fell to $2.12 billion from $4.03 billion, so the quarter's strength showed up in orders and earnings rather than cash.",
-      "source_name": "RTX Q3 2026 earnings release (SEC 8-K, Ex. 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000101829/000010182926000030/a2026-10x208xkerexhibit99.htm",
-      "time": "2026-10-21T15:09:59Z",
-      "ticker": "NYSE:RTX"
-    },
-    {
-      "id": "2026-10-20-ge-q3-orders-49",
-      "tag": "EARNINGS",
-      "headline": "GE Aerospace Q3 orders up 49% to $19.0B; 2026 adjusted EPS guide lifted to $8.00-$8.10",
-      "take": "GE Aerospace reported third-quarter orders of $19.0 billion, up 49%, and adjusted revenue of $13.29 billion, up 18%; adjusted EPS rose to $2.25 from $1.66. The company raised its 2026 adjusted EPS guidance to $8.00-$8.10 from $7.65-$7.85 and free cash flow to $9.1-$9.4 billion. Orders growing far faster than revenue widens the gap between demand and what the company can deliver near term.",
-      "source_name": "GE Aerospace Q3 2026 earnings release (SEC 8-K, Ex. 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm",
-      "time": "2026-10-21T15:13:59Z",
-      "ticker": "NYSE:GE"
-    },
-    {
-      "id": "2026-10-20-noc-q3-backlog",
-      "tag": "EARNINGS",
-      "headline": "Northrop Grumman backlog reaches $109.6B; Q3 sales up to $11.1B",
-      "take": "Northrop Grumman reported third-quarter sales of $11.12 billion versus $10.42 billion a year earlier and diluted EPS of $7.89 versus $7.67. Backlog rose to $109.6 billion at Sept. 30 from $95.7 billion at the end of 2025, and 2026 MTM-adjusted EPS guidance moved up to $29.35-$29.75 from $28.60-$29.10. A $13.9 billion backlog build in nine months gives the company revenue visibility well beyond the current year.",
-      "source_name": "Northrop Grumman Q3 2026 earnings release (SEC 8-K, Ex. 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001133421/000113342126000037/noc-09302026xearningsrelea.htm",
-      "time": "2026-10-21T15:17:59Z",
-      "ticker": "NYSE:NOC"
-    },
-    {
-      "id": "2026-10-20-mmm-q3-eps-guide",
-      "tag": "EARNINGS",
-      "headline": "3M Q3 adjusted EPS $2.50 vs. $2.23; 2026 adjusted EPS guide set at $9.10-$9.15",
-      "take": "3M reported third-quarter GAAP sales of $6.58 billion versus $6.52 billion, with adjusted organic growth of 3.3%, and adjusted EPS of $2.50 versus $2.23. The company now guides 2026 adjusted EPS to $9.10-$9.15 and adjusted free cash flow to about $4.8 billion. With organic growth in the low single digits, the EPS gain is coming mainly from margins rather than volume.",
-      "source_name": "3M Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000066740/000006674026000308/q32026-8kerexx991.htm",
-      "time": "2026-10-21T15:21:59Z",
-      "ticker": "NYSE:MMM"
-    },
-    {
-      "id": "2026-10-21-t-q3-results",
-      "tag": "EARNINGS",
-      "headline": "AT&T Q3 revenue rises 5.3% to $32.3B; adjusted EPS $0.65 vs. $0.54",
-      "take": "AT&T reported third-quarter revenues of $32.3 billion versus $30.7 billion and adjusted EPS of $0.65 versus $0.54; diluted EPS fell to $0.13 from $1.29 on a non-cash impairment tied to its held-for-sale Mexico wireless business and separation charges. It reported 379,000 postpaid phone net adds and 442,000 fiber net adds, and its 2026 outlook calls for free cash flow of $18 billion-plus. The gap between GAAP and adjusted EPS this quarter comes from the charges AT&T identified, while adjusted earnings grew.",
-      "source_name": "AT&T Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-3q2026exhibit991.htm",
-      "time": "2026-10-21T15:25:59Z",
-      "ticker": "NYSE:T"
     }
   ]
 }
