@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-28T00:44:20Z",
+  "updated": "2026-10-28T01:49:35Z",
   "items": [
+    {
+      "id": "2026-10-27-BKR-Q3",
+      "time": "2026-10-28T01:57:00Z",
+      "ticker": "NASDAQ:BKR",
+      "name": "Baker Hughes",
+      "period": "Q3 2026",
+      "report_date": "2026-10-27",
+      "revenue": 8.025,
+      "revenue_yoy": 14.5,
+      "eps_yoy": -32.8,
+      "eps": 0.41,
+      "take": "Baker Hughes reported Q3 2026 revenue of $8,025 million versus $7,010 million, net income attributable to the company of $411 million versus $609 million, and diluted EPS of $0.41 versus $0.61. Adjusted diluted EPS was $0.70 versus $0.68 and adjusted EBITDA was $1,415 million versus $1,238 million; the release attributes the year-over-year revenue increase mainly to the Chart acquisition. Revenue rose about 14% while GAAP EPS fell about 33% by our calculation, so adjusted and GAAP results moved in opposite directions.",
+      "source_name": "Baker Hughes Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389707/0/en/baker-hughes-announces-third-quarter-2026-results.html",
+      "checked": "2026-10-28T01:49:35Z"
+    },
+    {
+      "id": "2026-10-27-WM-Q3",
+      "time": "2026-10-28T02:10:00Z",
+      "ticker": "NYSE:WM",
+      "name": "WM",
+      "period": "Q3 2026",
+      "report_date": "2026-10-27",
+      "revenue": 6.846,
+      "revenue_yoy": 6.3,
+      "eps_yoy": 37.6,
+      "eps": 2.05,
+      "take": "WM reported Q3 2026 revenue of $6,846 million versus $6,443 million, net income attributable to WM of $820 million versus $603 million, and diluted EPS of $2.05 versus $1.49. Adjusted diluted EPS was $2.15 versus $1.98, and free cash flow was $985 million versus $821 million; the release says 2025 figures were updated for a reclassification of landfill accretion expense. Revenue grew about 6% and GAAP EPS about 38% by our calculation.",
+      "source_name": "WM Q3 2026 results (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000823768/000110465926119188/tm2628322d1_ex99-1.htm",
+      "checked": "2026-10-28T01:49:35Z"
+    },
     {
       "id": "2026-10-27-ACGL-Q3",
       "time": "2026-10-28T00:47:20Z",
