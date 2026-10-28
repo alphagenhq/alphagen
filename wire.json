@@ -1,6 +1,82 @@
 {
-  "updated": "2026-10-27T23:50:06Z",
+  "updated": "2026-10-28T00:44:20Z",
   "items": [
+    {
+      "id": "2026-10-28-acgl-q3",
+      "time": "2026-10-28T00:47:20Z",
+      "tag": "EARNINGS",
+      "headline": "Arch Capital Q3 net income $1,025M vs $1,340M; diluted EPS $3.00",
+      "take": "Arch Capital Group reported Q3 2026 net income available to common shareholders of $1,025 million, or $3.00 per diluted share, versus $1,340 million, or $3.56, a year earlier. After-tax operating income was $2.67 per diluted share versus $2.77. Net income was down about 23% and diluted EPS about 16% by our calculation.",
+      "source_name": "Arch Capital Q3 2026 results (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000947484/000094748426000128/ex-991release93026.htm",
+      "ticker": "NASDAQ:ACGL",
+      "checked": "2026-10-28T00:44:20Z"
+    },
+    {
+      "id": "2026-10-28-acgl-npw-bv",
+      "time": "2026-10-28T00:54:20Z",
+      "tag": "CREDIT",
+      "headline": "Arch Capital net premiums written $3,845M vs $3,964M; book value $67.90/share",
+      "take": "Arch reported Q3 2026 net premiums written of $3,845 million versus $3,964 million in Q3 2025, a decline of about 3% by our calculation. Book value per common share was $67.90 at September 30, 2026, which the release says is a 0.2% decrease from June 30, 2026. Lower premiums alongside a slightly lower book value is a modest read on the quarter's underwriting scale.",
+      "source_name": "Arch Capital Q3 2026 results (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000947484/000094748426000128/ex-991release93026.htm",
+      "ticker": "NASDAQ:ACGL",
+      "checked": "2026-10-28T00:44:20Z"
+    },
+    {
+      "id": "2026-10-28-ppg-q3",
+      "time": "2026-10-28T01:01:20Z",
+      "tag": "EARNINGS",
+      "headline": "PPG Q3 net sales $4,353M vs $4,082M; diluted EPS $2.02; adj. EPS $2.25",
+      "take": "PPG reported Q3 2026 net sales of $4,353 million versus $4,082 million a year earlier (up about 7% by our calculation). Net income attributable to PPG was $451 million versus $453 million, with diluted EPS of $2.02 versus $2.00; adjusted EPS was $2.25 versus $2.13. Income from continuing operations rose to $473 million from $444 million, so the discontinued-operations line explains the gap to total net income.",
+      "source_name": "PPG Q3 2026 earnings release (SEC 8-K Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000079879/000007987926000315/exhibit99-3q2026earningsre.htm",
+      "ticker": "NYSE:PPG",
+      "checked": "2026-10-28T00:44:20Z"
+    },
+    {
+      "id": "2026-10-28-ppg-outlook",
+      "time": "2026-10-28T01:08:20Z",
+      "tag": "EQUITIES",
+      "headline": "PPG sets 2026 adjusted EPS outlook of $7.90-$8.10; repurchased ~$150M in Q3",
+      "take": "PPG's release gives full-year 2026 adjusted EPS guidance of $7.90 to $8.10 and says it is improving its earnings outlook. For Q4 it expects low single-digit organic sales growth and an adjusted EBITDA margin flat to up 100 basis points year over year. The company repurchased about $150 million of shares in Q3 and about $320 million year to date.",
+      "source_name": "PPG Q3 2026 earnings release (SEC 8-K Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000079879/000007987926000315/exhibit99-3q2026earningsre.htm",
+      "ticker": "NYSE:PPG",
+      "checked": "2026-10-28T00:44:20Z"
+    },
+    {
+      "id": "2026-10-28-mir-q3",
+      "time": "2026-10-28T01:15:20Z",
+      "tag": "EARNINGS",
+      "headline": "Mirion Q3 revenue $277.8M vs $223.1M; GAAP EPS $0.03; orders $340M",
+      "take": "Mirion Technologies reported Q3 2026 revenue of $277.8 million versus $223.1 million a year earlier (up 24.5%), GAAP net income of $7.8 million versus $3.1 million, and GAAP EPS of $0.03 versus $0.01. Adjusted EPS was $0.12, unchanged from a year ago. Orders excluding Paragon and July Certrec results were $340 million versus $209 million, up 62%.",
+      "source_name": "Mirion Q3 2026 results (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001809987/000162828026067591/a2026-10x27exhibit991.htm",
+      "ticker": "NYSE:MIR",
+      "checked": "2026-10-28T00:44:20Z"
+    },
+    {
+      "id": "2026-10-28-mir-guide",
+      "time": "2026-10-28T01:22:20Z",
+      "tag": "EQUITIES",
+      "headline": "Mirion updates 2026 guide: adj. EBITDA $285M-$292M, adj. EPS $0.50-$0.54",
+      "take": "Mirion revised its 2026 guidance to revenue growth of about 24%-25% (from 22%-24%) and organic growth of about 7%-8% (from 5%-7%). Adjusted EBITDA is now about $285 million to $292 million (from $285 million to $300 million), and adjusted free cash flow about $170 million to $185 million (from $155 million to $175 million). Adjusted EPS is guided to about $0.50-$0.54 versus $0.48-$0.55 previously, so the range narrowed rather than moved uniformly higher.",
+      "source_name": "Mirion Q3 2026 results (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001809987/000162828026067591/a2026-10x27exhibit991.htm",
+      "ticker": "NYSE:MIR",
+      "checked": "2026-10-28T00:44:20Z"
+    },
+    {
+      "id": "2026-10-28-boc-oct28",
+      "time": "2026-10-28T01:29:20Z",
+      "tag": "GLOBAL",
+      "headline": "Bank of Canada decision and Monetary Policy Report due 9:45 a.m. ET Wednesday",
+      "take": "The Bank of Canada will announce its overnight rate decision and publish its quarterly Monetary Policy Report at 9:45 a.m. ET on October 28, with a press conference by Governor Macklem and Senior Deputy Governor Rogers at about 10:30 a.m. ET. On September 2 the Bank held its overnight rate target at 2.25%, with the Bank Rate at 2.5%, citing higher upside inflation risks and new tariffs. This is the first decision since that hold and comes with updated projections.",
+      "source_name": "Bank of Canada: rate announcement and MPR, Oct 28, 2026",
+      "source_url": "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/",
+      "checked": "2026-10-28T00:44:20Z"
+    },
     {
       "id": "2026-10-27-lpla-q3",
       "time": "2026-10-27T23:51:06Z",
@@ -5250,80 +5326,6 @@
       "source_name": "City Therapeutics press release (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/16/3382239/0/en/city-therapeutics-announces-pricing-of-upsized-initial-public-offering.html",
       "ticker": "NASDAQ:CTY"
-    },
-    {
-      "id": "2026-10-15-wire-strive-sats-ipo",
-      "time": "2026-10-16T12:08:00Z",
-      "tag": "IPO",
-      "headline": "Strive prices $630M upsized IPO of 15% SATS perpetual preferred",
-      "take": "Strive priced 7,000,000 shares of 15.00% Series A Perpetual SATS Preferred Stock at $90.00, up from 5,000,000 shares, for about $630 million gross, settling October 20, with a Nasdaq listing under SATS applied for. AlphaGen read: the 15% coupon on a $100 liquidation preference is an expensive source of capital, and Strive names bitcoin purchases among the uses of proceeds.",
-      "source_name": "Strive pricing term sheet, Form FWP (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001920406/000095010326015687/dp255080_fwp.htm",
-      "ticker": "NASDAQ:ASST"
-    },
-    {
-      "id": "2026-10-13-wire-scanntech-series-f",
-      "time": "2026-10-16T12:19:00Z",
-      "tag": "DEALS",
-      "headline": "Scanntech raises $180M Series F led by L Catterton, with Partners Group co-leading",
-      "take": "Latin American retail intelligence platform Scanntech announced a $180 million Series F led by L Catterton, with Partners Group co-leading and Bradesco and SPX participating, subject to closing conditions and regulatory approvals. AlphaGen read: this is a large growth round for a Latin American data business, backing a point-of-sale network that the company says covers more than 80% of retail sell-out in its markets.",
-      "source_name": "Scanntech press release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/scanntech-a-leading-latin-american-retail-intelligence-platform-announces-180-million-series-f-financing-302907182.html",
-      "ticker": ""
-    },
-    {
-      "id": "2026-10-16-tfc-q3",
-      "time": "2026-10-16T11:21:01Z",
-      "tag": "EARNINGS",
-      "headline": "Truist Q3 EPS falls to $0.56 on a $1.4B securities loss; adjusted EPS $1.16",
-      "take": "Truist reported third-quarter net income available to common shareholders of $0.68 billion, or $0.56 a diluted share, versus $1.04 a year earlier, as total revenue fell to $3.75 billion from $5.19 billion. Excluding a $0.90-a-share loss on AFS securities sales, a $0.36-a-share reserve recapture and $0.06 of impacts tied to the sale of Regional Acceptance Corporation loans, adjusted EPS was $1.16; taxable-equivalent net interest income rose to $3.71 billion and the margin was 3.00%. The quarter is a deliberate reset rather than an operating miss: adjusted ROTCE of 14.6% versus 7.2% reported shows how much of the hit was one-time.",
-      "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
-      "ticker": "NYSE:TFC",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-tfc-rac-sale-reserve-release",
-      "time": "2026-10-16T11:26:01Z",
-      "tag": "CREDIT",
-      "headline": "Truist sells RAC loans and releases $581M of reserves",
-      "take": "Truist recorded a $253 million provision benefit, including a $581 million release of remaining allowance tied to Regional Acceptance Corporation, while the RAC sale pushed the net charge-off ratio to 0.77%, of which 39 basis points relate to RAC, including $251 million of charge-offs on the transfer to held for sale. The RAC sale accounted for $5.5 billion of a $5.9 billion drop in period-end loans held for investment, and preliminary CET1 eased to 10.7% from 10.9% in the second quarter after $1.2 billion of buybacks. Moving a book with elevated losses off the balance sheet means future charge-off ratios should be read against a smaller, different loan base.",
-      "source_name": "Truist Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm",
-      "ticker": "NYSE:TFC",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-cfg-q3",
-      "time": "2026-10-16T11:31:01Z",
-      "tag": "EARNINGS",
-      "headline": "Citizens Q3 EPS rises to $1.41 from $1.05 on a 12.6% jump in net interest income",
-      "take": "Citizens Financial reported third-quarter net income of $636 million and diluted EPS of $1.41, versus $494 million and $1.05 a year earlier, on total revenue of $2,322 million versus $2,118 million. Net interest income rose to $1,675 million from $1,488 million as the net interest margin widened to 3.18% from 2.99%, while the provision fell to $125 million from $154 million. Margin expansion is doing the heavy lifting here, with expenses up only modestly at $1,393 million versus $1,335 million.",
-      "source_name": "Citizens Financial Q3 2026 financial supplement (SEC 8-K, Ex. 99.3)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000759944/000075994426000206/q326financialsupplement.htm",
-      "ticker": "NYSE:CFG",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-ea-hicp-final-sep",
-      "time": "2026-10-16T11:36:01Z",
-      "tag": "GLOBAL",
-      "headline": "Euro-area inflation at 3.8% in September in final data, up from 3.2%",
-      "take": "Eurostat put euro-area annual HICP inflation at 3.8% in September, up from 3.2% in August and 2.2% a year earlier; EU inflation was also 3.8%. Energy contributed 1.71 percentage points and services 1.52 points, with services inflation at 3.2% versus 3.0% in August. The services uptick matters more for the ECB than the energy spike, because it is the part of inflation that policy rates are meant to lean against.",
-      "source_name": "Eurostat: Euro indicators, HICP September 2026 (16 October 2026)",
-      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
-      "checked": "2026-10-16T11:59:19Z"
-    },
-    {
-      "id": "2026-10-16-rf-q3",
-      "time": "2026-10-16T11:41:01Z",
-      "tag": "EARNINGS",
-      "headline": "Regions Q3 EPS of $0.71, up 16%, as margin widens to 3.68%",
-      "take": "Regions reported third-quarter net income available to common shareholders of $611 million, or $0.71 a diluted share, which it said was up 11% and 16% from a year earlier; adjusted EPS was $0.73. Total revenue rose to $1,973 million from $1,916 million, with net interest income of $1,298 million versus $1,257 million and a 3.68% margin versus 3.59%. Revenue growth of about 3% is modest, so the earnings gain rests largely on lower credit costs.",
-      "source_name": "Regions Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001281761/000128176126000063/rf-2026930xexhibit991.htm",
-      "ticker": "NYSE:RF",
-      "checked": "2026-10-16T11:59:19Z"
     }
   ]
 }
