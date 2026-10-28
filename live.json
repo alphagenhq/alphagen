@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-28T10:17:38Z",
+ "updated": "2026-10-28T11:05:28Z",
  "items": [
+  {
+   "id": "live-0000004904-26-000069-2.02",
+   "time": "2026-10-28T10:59:45Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "American Electric Power CO releases financial results",
+   "take": "American Electric Power CO filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:59 AM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AEP Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000069/0000004904-26-000069-index.htm",
+   "ticker": "NASDAQ:AEP"
+  },
+  {
+   "id": "live-0001534701-26-000035-2.02",
+   "time": "2026-10-28T10:47:11Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Phillips 66 releases financial results",
+   "take": "Phillips 66 filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:47 AM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PSX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000035/0001534701-26-000035-index.htm",
+   "ticker": "NYSE:PSX"
+  },
+  {
+   "id": "live-0001628280-26-067714-2.02",
+   "time": "2026-10-28T10:35:58Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "AON releases financial results",
+   "take": "AON filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:35 AM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AON Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026067714/0001628280-26-067714-index.htm",
+   "ticker": "NYSE:AON"
+  },
+  {
+   "id": "live-0000885725-26-000066-2.02",
+   "time": "2026-10-28T10:34:29Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Boston Scientific releases financial results",
+   "take": "Boston Scientific filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:34 AM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BSX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000066/0000885725-26-000066-index.htm",
+   "ticker": "NYSE:BSX"
+  },
   {
    "id": "live-0000875045-26-000094-2.02",
    "time": "2026-10-28T10:07:33Z",
