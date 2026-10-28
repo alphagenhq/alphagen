@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-27T21:14:03Z",
+ "updated": "2026-10-28T10:17:38Z",
  "items": [
+  {
+   "id": "live-0000875045-26-000094-2.02",
+   "time": "2026-10-28T10:07:33Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Biogen releases financial results",
+   "take": "Biogen filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:07 AM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BIIB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/0000875045-26-000094-index.htm",
+   "ticker": "NASDAQ:BIIB"
+  },
+  {
+   "id": "live-0001781335-26-000124-2.02",
+   "time": "2026-10-28T10:04:26Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Otis Worldwide releases financial results",
+   "take": "Otis Worldwide filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:04 AM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, OTIS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000124/0001781335-26-000124-index.htm",
+   "ticker": "NYSE:OTIS"
+  },
   {
    "id": "live-0001701605-26-000033-2.02",
    "time": "2026-10-27T21:05:54Z",
