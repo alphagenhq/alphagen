@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-28T21:45:10Z",
+ "updated": "2026-10-29T10:09:10Z",
  "items": [
+  {
+   "id": "live-0001171843-26-006942-2.02",
+   "time": "2026-10-29T10:02:19Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Willis Towers Watson releases financial results",
+   "take": "Willis Towers Watson filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:02 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, WTW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1140536/000117184326006942/0001171843-26-006942-index.htm",
+   "ticker": "NASDAQ:WTW"
+  },
+  {
+   "id": "live-0001628280-26-067994-2.02",
+   "time": "2026-10-29T01:02:36Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Ares Management releases financial results",
+   "take": "Ares Management filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 9:02 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ARES Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828026067994/0001628280-26-067994-index.htm",
+   "ticker": "NYSE:ARES"
+  },
+  {
+   "id": "live-0001061219-26-000028-2.02",
+   "time": "2026-10-28T21:44:49Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Enterprise Products Partners L.P releases financial results",
+   "take": "Enterprise Products Partners L.P filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:44 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, EPD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1061219/000106121926000028/0001061219-26-000028-index.htm",
+   "ticker": "NYSE:EPD"
+  },
+  {
+   "id": "live-0000072903-26-000178-2.02",
+   "time": "2026-10-28T21:38:08Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Xcel Energy releases financial results",
+   "take": "Xcel Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:38 PM ET, Oct 28. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, XEL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000178/0000072903-26-000178-index.htm",
+   "ticker": "NASDAQ:XEL"
+  },
   {
    "id": "live-0001096343-26-000082-1.01",
    "time": "2026-10-28T21:19:25Z",
