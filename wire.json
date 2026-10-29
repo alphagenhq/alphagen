@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-29T16:04:14Z",
+  "updated": "2026-10-29T16:50:21Z",
   "items": [
+    {
+      "id": "2026-10-29-lhx-q3",
+      "time": "2026-10-29T17:02:21Z",
+      "tag": "EARNINGS",
+      "headline": "L3Harris Q3 revenue $6,060M vs $5,659M; GAAP diluted EPS $3.28 vs $2.46",
+      "take": "L3Harris reported Q3 2026 revenue of $6,060 million versus $5,659 million and diluted EPS of $3.28 versus $2.46. Operating income margin was 13.0% versus 11.0%. Space & Mission Systems revenue was $3,093 million versus $2,803 million.",
+      "source_name": "L3Harris Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000202058/000020205826000084/exhibit991q3cy26earnings.htm",
+      "ticker": "NYSE:LHX",
+      "checked": "2026-10-29T16:50:21Z"
+    },
+    {
+      "id": "2026-10-29-lhx-guide",
+      "time": "2026-10-29T17:10:21Z",
+      "tag": "EQUITIES",
+      "headline": "L3Harris raises 2026 GAAP EPS guide to $12.25-$12.35; FCF view $3.0B unchanged",
+      "take": "L3Harris now sees 2026 revenue of $23.5 billion to $23.7 billion (previously $23.2 billion to $23.7 billion) and GAAP EPS of $12.25 to $12.35 (previously $11.80 to $12.00). Free cash flow guidance is unchanged at $3.0 billion. Q3 share repurchases were $73 million versus $176 million a year earlier.",
+      "source_name": "L3Harris Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000202058/000020205826000084/exhibit991q3cy26earnings.htm",
+      "ticker": "NYSE:LHX",
+      "checked": "2026-10-29T16:50:21Z"
+    },
+    {
+      "id": "2026-10-29-tnet-q3",
+      "time": "2026-10-29T17:18:21Z",
+      "tag": "EARNINGS",
+      "headline": "TriNet Q3 revenue $1,175M vs $1,232M; diluted EPS $0.65 vs $0.70",
+      "take": "TriNet reported Q3 2026 total revenues of $1,175 million versus $1,232 million and net income of $31 million. Adjusted diluted EPS was $0.94 versus $1.11.",
+      "source_name": "TriNet Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000937098/000093709826000061/tnet-093026xexhibit991.htm",
+      "ticker": "NYSE:TNET",
+      "checked": "2026-10-29T16:50:21Z"
+    },
+    {
+      "id": "2026-10-29-tnet-guide",
+      "time": "2026-10-29T17:26:21Z",
+      "tag": "EQUITIES",
+      "headline": "TriNet reaffirms 2026 guidance, expects high end of diluted EPS range",
+      "take": "TriNet reaffirmed full-year 2026 guidance, including total revenues of $4,750 million to $4,900 million and diluted EPS of $2.85 to $3.35, and said it expects to be at the high end of the EPS range. Adjusted diluted EPS guidance is $4.50 to $5.10.",
+      "source_name": "TriNet Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000937098/000093709826000061/tnet-093026xexhibit991.htm",
+      "ticker": "NYSE:TNET",
+      "checked": "2026-10-29T16:50:21Z"
+    },
     {
       "id": "2026-10-29-bea-q3-gdp",
       "time": "2026-10-29T16:06:14Z",
@@ -5317,50 +5361,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001014473/000101447326000038/q32026earningsrelease.htm",
       "ticker": "NASDAQ:VRSN",
       "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-vrsn-domains-buyback",
-      "time": "2026-10-23T00:43:57Z",
-      "tag": "EQUITIES",
-      "headline": "Verisign .com/.net base 182.5M, up 6.1%; $189M buyback in Q3",
-      "take": "Verisign said the .com and .net domain name base was 182.5 million registrations at Sept. 30, 2026, up 6.1% year over year, with a net increase of 3.36 million in Q3. It repurchased 0.7 million shares for $189 million in the quarter and had $1.36 billion remaining under its authorization at quarter-end.",
-      "source_name": "Verisign Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001014473/000101447326000038/q32026earningsrelease.htm",
-      "ticker": "NASDAQ:VRSN",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-enva-q3",
-      "time": "2026-10-22T22:58:18Z",
-      "tag": "EARNINGS",
-      "headline": "Enova Q3 revenue $1.01B, up 26%; diluted EPS $4.06 vs. $3.03",
-      "take": "Enova International reported Q3 total revenue of $1,009.2 million versus $802.7 million a year earlier, and net income of $107.3 million versus $80.3 million. Diluted EPS was $4.06 versus $3.03; adjusted EPS was $4.48 versus $3.36. Revenue growth outpaced earnings-per-share growth only modestly, with net revenue margin rising to 61% from 57%.",
-      "source_name": "Enova Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
-      "ticker": "NYSE:ENVA",
-      "checked": "2026-10-22T22:56:18Z"
-    },
-    {
-      "id": "2026-10-22-tgs-q3",
-      "time": "2026-10-22T23:10:18Z",
-      "tag": "ENERGY",
-      "headline": "TGS Q3 revenue $397M vs. $388M; order backlog $679M, up 52%",
-      "take": "TGS reported Q3 revenue of USD 397 million versus USD 388 million a year earlier, and EBIT of USD 86 million versus USD 94 million, including a USD 41 million gain from the sale of its well data business. Order backlog was USD 679 million, up 52% year over year, and Q3 order inflow was USD 357 million. The company said contract revenues were its highest since Q4 2024.",
-      "source_name": "TGS Q3 2026 results release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386018/0/en/tgs-announces-q3-2026-results.html",
-      "ticker": "OSE:TGS",
-      "checked": "2026-10-22T22:56:18Z"
-    },
-    {
-      "id": "2026-10-22-enva-receivables",
-      "time": "2026-10-22T23:22:18Z",
-      "tag": "CREDIT",
-      "headline": "Enova combined loan receivables up 30% to a record $5.9B; charge-offs 8.1%",
-      "take": "Enova said period-end combined loan and finance receivables rose 30% from a year earlier to a record $5.9 billion, with the consolidated net charge-off ratio at 8.1% versus 8.5% in Q3 2025. It repurchased $46 million of common stock in the quarter. Faster balance growth alongside a lower reported charge-off ratio is the combination the company is pointing to.",
-      "source_name": "Enova Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
-      "ticker": "NYSE:ENVA",
-      "checked": "2026-10-22T22:56:18Z"
     }
   ]
 }
