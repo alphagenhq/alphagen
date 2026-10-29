@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T12:21:50Z",
+ "updated": "2026-10-29T13:32:17Z",
  "items": [
+  {
+   "id": "live-0001628280-26-068046-2.02",
+   "time": "2026-10-29T12:27:18Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Hershey releases financial results",
+   "take": "Hershey filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:27 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, HSY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026068046/0001628280-26-068046-index.htm",
+   "ticker": "NYSE:HSY"
+  },
+  {
+   "id": "live-0001140361-26-041111-1.01",
+   "time": "2026-10-29T12:25:29Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "DoorDash discloses a material agreement",
+   "take": "DoorDash reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 8:25 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, DASH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126041111/0001140361-26-041111-index.htm",
+   "ticker": "NASDAQ:DASH"
+  },
+  {
+   "id": "live-0001193125-26-437071-5.02",
+   "time": "2026-10-29T12:25:14Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "US Bancorp \\De\\ reports an executive or board change",
+   "take": "US Bancorp \\De\\ reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 8:25 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, USB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/36104/000119312526437071/0001193125-26-437071-index.htm",
+   "ticker": "NYSE:USB"
+  },
   {
    "id": "live-0001141391-26-000122-2.02",
    "time": "2026-10-29T12:04:22Z",
