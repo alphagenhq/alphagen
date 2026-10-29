@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-29T14:18:43Z",
+  "updated": "2026-10-29T15:04:27Z",
   "items": [
+    {
+      "id": "2026-10-29-HII-Q3",
+      "time": "2026-10-29T15:06:27Z",
+      "ticker": "NYSE:HII",
+      "name": "HII",
+      "period": "Q3 2026",
+      "report_date": "2026-10-29",
+      "revenue": 3.537,
+      "revenue_yoy": 10.8,
+      "eps_yoy": 48.9,
+      "eps": 5.48,
+      "take": "HII reported Q3 2026 revenues of $3,537 million versus $3,192 million and diluted EPS of $5.48 versus $3.68. Net earnings were $217 million versus $145 million.",
+      "source_name": "HII Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391102/14858/en/hii-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-29T15:04:27Z"
+    },
+    {
+      "id": "2026-10-29-CCCS-Q3",
+      "time": "2026-10-29T15:06:27Z",
+      "ticker": "NYSE:CCCS",
+      "name": "CCC Intelligent Solutions",
+      "period": "Q3 2026",
+      "report_date": "2026-10-29",
+      "revenue": 0.2941,
+      "revenue_yoy": 10.1,
+      "eps_yoy": null,
+      "eps": 0.05,
+      "take": "CCC reported Q3 2026 revenue of $294.1 million versus $267.1 million and diluted EPS of $0.05 versus $(0.00). Adjusted EBITDA was $130.5 million versus $110.1 million.",
+      "source_name": "CCC Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391135/0/en/ccc-intelligent-solutions-holdings-inc-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-10-29T15:04:27Z"
+    },
     {
       "id": "2026-10-29-CAT-Q3",
       "time": "2026-10-29T14:20:43Z",

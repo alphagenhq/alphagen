@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-29T14:18:43Z",
+  "updated": "2026-10-29T15:04:27Z",
   "items": [
+    {
+      "id": "2026-10-29-hii-q3",
+      "time": "2026-10-29T15:06:27Z",
+      "tag": "EARNINGS",
+      "headline": "HII Q3 revenue $3,537M vs $3,192M; diluted EPS $5.48 vs $3.68",
+      "take": "HII reported Q3 2026 revenues of $3,537 million versus $3,192 million a year earlier (10.8% higher), with net earnings of $217 million versus $145 million and diluted EPS of $5.48 versus $3.68. Free cash flow was $429 million versus $16 million. The jump in cash conversion is the notable change from a year ago.",
+      "source_name": "HII Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391102/14858/en/hii-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:HII",
+      "checked": "2026-10-29T15:04:27Z"
+    },
+    {
+      "id": "2026-10-29-hii-guide",
+      "time": "2026-10-29T15:14:27Z",
+      "tag": "EQUITIES",
+      "headline": "HII raises 2026 shipbuilding revenue guide to $10.5B-$10.7B; FCF guide held",
+      "take": "HII raised its 2026 Shipbuilding revenue guidance to between $10.5 billion and $10.7 billion from $10.2-$10.4 billion, and reaffirmed free cash flow of $500-$600 million. Q3 contract awards were $32.4 billion. Larger awards typically feed future revenue, though timing depends on program execution.",
+      "source_name": "HII Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391102/14858/en/hii-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:HII",
+      "checked": "2026-10-29T15:04:27Z"
+    },
+    {
+      "id": "2026-10-29-ccc-q3",
+      "time": "2026-10-29T15:22:27Z",
+      "tag": "EARNINGS",
+      "headline": "CCC Q3 revenue $294.1M vs $267.1M; adjusted EBITDA $130.5M",
+      "take": "CCC Intelligent Solutions reported Q3 2026 revenue of $294.1 million versus $267.1 million (10.1% higher), net income of $30.2 million versus a $2.0 million net loss, and adjusted EBITDA of $130.5 million versus $110.1 million. The company said it is suspending guidance because of its proposed transaction with GTCR and Elliott.",
+      "source_name": "CCC Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391135/0/en/ccc-intelligent-solutions-holdings-inc-announces-third-quarter-2026-financial-results.html",
+      "ticker": "NYSE:CCCS",
+      "checked": "2026-10-29T15:04:27Z"
+    },
+    {
+      "id": "2026-10-29-lgnd-q3",
+      "time": "2026-10-29T15:30:27Z",
+      "tag": "EARNINGS",
+      "headline": "Ligand Q3 revenue $78.7M vs $115.5M; raises 2026 adjusted EPS guide to $9.50-$9.75",
+      "take": "Ligand reported Q3 2026 total revenues and income of $78.7 million versus $115.5 million, a GAAP net loss of $28.5 million ($1.43 per share), and adjusted diluted EPS of $2.67 versus $3.09. The prior-year figure included $53.1 million of Pelthos divestiture-related income, which explains much of the revenue gap. It raised 2026 adjusted EPS guidance to about $9.50-$9.75 from $9.00-$9.50.",
+      "source_name": "Ligand Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391098/0/en/ligand-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:LGND",
+      "checked": "2026-10-29T15:04:27Z"
+    },
+    {
+      "id": "2026-10-29-pwp-q3",
+      "time": "2026-10-29T15:38:27Z",
+      "tag": "EARNINGS",
+      "headline": "Perella Weinberg Q3 revenue $251.4M vs $164.6M; GAAP EPS $0.21 vs $0.08",
+      "take": "Perella Weinberg reported Q3 2026 total revenues of $251.4 million versus $164.6 million (52.7% higher), with GAAP diluted EPS of $0.21 versus $0.08 and adjusted EPS of $0.39 versus $0.13. It declared a quarterly dividend of $0.07 per share, payable December 8, 2026.",
+      "source_name": "Perella Weinberg Q3 2026 results (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391078/0/en/perella-weinberg-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:PWP",
+      "checked": "2026-10-29T15:04:27Z"
+    },
     {
       "id": "2026-10-29-cat-q3",
       "time": "2026-10-29T14:23:43Z",
@@ -5305,61 +5360,6 @@
       "source_url": "https://www.businesswire.com/news/home/20261021907753/en/Liberty-Energy-Inc.-Announces-Third-Quarter-2026-Financial-and-Operational-Results",
       "ticker": "NYSE:LBRT",
       "checked": "2026-10-22T20:50:32Z"
-    },
-    {
-      "id": "2026-10-21-lbrt-power-1-2gw",
-      "time": "2026-10-22T21:27:32Z",
-      "tag": "ENERGY",
-      "headline": "Liberty Energy signs development agreement for 1.2 GW of data-center power",
-      "take": "Liberty Energy said a strategic development agreement with a frontier AI lab and an infrastructure platform covers 1.2 GW of integrated power services at data center campuses, with a significant prepayment of capacity fees. It targets execution of a first energy service agreement for about 500 MW by December 2026, with phased energization from Q4 2027 through Q1 2029. The timetable shows revenue from the power build-out is years away, while Q3 capex has already risen.",
-      "source_name": "Liberty Energy Q3 2026 earnings release",
-      "source_url": "https://www.businesswire.com/news/home/20261021907753/en/Liberty-Energy-Inc.-Announces-Third-Quarter-2026-Financial-and-Operational-Results",
-      "ticker": "NYSE:LBRT",
-      "checked": "2026-10-22T20:50:32Z"
-    },
-    {
-      "id": "2026-10-22-lazard-segments-buyback",
-      "time": "2026-10-22T21:34:32Z",
-      "tag": "EQUITIES",
-      "headline": "Lazard Q3: Financial Advisory $470M, Asset Management $357M; $33M buyback",
-      "take": "Lazard's Q3 GAAP net revenue was $470 million in Financial Advisory versus $427 million (up 10%) and $357 million in Asset Management versus $327 million (up 9%). It repurchased $33 million of common stock in the quarter, with about $224 million of authorization remaining at Sept. 30. Both segments grew at similar rates, yet GAAP diluted EPS fell to $0.26 from $0.65.",
-      "source_name": "Lazard Q3 2026 results release",
-      "source_url": "https://www.prnewswire.com/news-releases/lazard-reports-third-quarter-and-nine-month-2026-results-302916068.html",
-      "ticker": "NYSE:LAZ",
-      "checked": "2026-10-22T20:50:32Z"
-    },
-    {
-      "id": "2026-10-22-aal-q3",
-      "time": "2026-10-22T19:54:16Z",
-      "tag": "EARNINGS",
-      "headline": "American Airlines Q3 revenue $16.3B, up 19.3%; GAAP net loss $269M",
-      "take": "American Airlines reported Q3 total revenue of $16.3 billion versus $13.69 billion a year earlier, up 19.3%. The GAAP net loss was $269 million, or $(0.41) per diluted share, versus a $114 million loss, or $(0.17), in Q3 2025; the adjusted loss was $182 million, or $(0.28) per share. The loss widened despite the revenue gain, with fuel costs a major factor (see separate item).",
-      "source_name": "American Airlines Q3 2026 earnings release (Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386182/0/en/american-sets-new-revenue-records-amid-historic-fuel-cost-pressure.html",
-      "ticker": "NASDAQ:AAL",
-      "checked": "2026-10-22T19:52:16Z"
-    },
-    {
-      "id": "2026-10-22-aal-fuel-guidance",
-      "time": "2026-10-22T20:02:16Z",
-      "tag": "ENERGY",
-      "headline": "American Airlines Q3 jet fuel cost $3.85/gal vs. $2.37; sees Q4 near $4.70",
-      "take": "American's aircraft fuel and related taxes were $4.64 billion in Q3 versus $2.77 billion a year earlier, up 67.5%, at an average of $3.85 per gallon versus $2.37. It expects about $4.70 per gallon in Q4 and guides an adjusted loss of $(1.10) to $(0.50) per share for Q4 and $(1.60) to $(1.00) for 2026. Year-end liquidity was $11.8 billion.",
-      "source_name": "American Airlines Q3 2026 earnings release (Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386182/0/en/american-sets-new-revenue-records-amid-historic-fuel-cost-pressure.html",
-      "ticker": "NASDAQ:AAL",
-      "checked": "2026-10-22T19:52:16Z"
-    },
-    {
-      "id": "2026-10-20-scco-q3",
-      "time": "2026-10-22T20:10:16Z",
-      "tag": "EARNINGS",
-      "headline": "Southern Copper Q3 net sales $4.70B, up 39.1%; diluted EPS $2.15 vs. $1.32",
-      "take": "Southern Copper reported 3Q26 net sales of $4,696.6 million versus $3,377.3 million in 3Q25, up 39.1%. Net income attributable to the company was $1,801.8 million versus $1,107.6 million, up 62.7%, and diluted EPS was $2.15 versus $1.32. Mined copper production was 232,396 tonnes versus 234,892 tonnes, down 1.1%, so the revenue gain came without higher copper output.",
-      "source_name": "Southern Copper 3Q26 earnings release (Oct. 20, 2026, SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/scco-ex99d1.htm",
-      "ticker": "NYSE:SCCO",
-      "checked": "2026-10-22T19:52:16Z"
     }
   ]
 }
