@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-28T23:50:30Z",
+  "updated": "2026-10-29T00:49:47Z",
   "items": [
+    {
+      "id": "2026-10-29-now-q3",
+      "time": "2026-10-29T00:49:47Z",
+      "tag": "EARNINGS",
+      "headline": "ServiceNow Q3 revenue $4,106M vs $3,407M; GAAP EPS $0.27 vs $0.48",
+      "take": "ServiceNow reported Q3 2026 total revenues of $4,106 million versus $3,407 million a year earlier, up 20.5%, with subscription revenues of $3,988 million versus $3,299 million. GAAP net income was $277 million versus $502 million, GAAP diluted EPS was $0.27 versus $0.48, and non-GAAP diluted EPS was $1.00 versus $0.95. Revenue grew faster than 20% while GAAP earnings fell, so the year-over-year decline in GAAP net income is the line to watch.",
+      "source_name": "ServiceNow Q3 2026 earnings 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm",
+      "ticker": "NYSE:NOW",
+      "checked": "2026-10-29T00:49:47Z"
+    },
+    {
+      "id": "2026-10-29-now-crpo-guide",
+      "time": "2026-10-29T00:58:47Z",
+      "tag": "EQUITIES",
+      "headline": "ServiceNow cRPO $13.65B, up 20.5%; Q4 subscription revenue guide $4,245M-$4,255M",
+      "take": "ServiceNow reported current remaining performance obligations of $13.65 billion, up 20.5% year over year (21% in constant currency). It guided Q4 2026 subscription revenues to $4,245 million-$4,255 million, or 22.5% to 23% growth, with Q4 cRPO growth of 18.5%. For full-year 2026 it guides subscription revenues to $15,780 million-$15,790 million, 22.5% growth.",
+      "source_name": "ServiceNow Q3 2026 earnings 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm",
+      "ticker": "NYSE:NOW",
+      "checked": "2026-10-29T00:49:47Z"
+    },
+    {
+      "id": "2026-10-29-sfm-q3",
+      "time": "2026-10-29T01:07:47Z",
+      "tag": "EARNINGS",
+      "headline": "Sprouts Q3 net sales $2,304.7M vs $2,200.4M; diluted EPS $1.21 vs $1.22",
+      "take": "Sprouts Farmers Market reported Q3 2026 net sales of $2,304.7 million versus $2,200.4 million, up 4.7%, for the 13 weeks ended September 27, 2026. Comparable store sales were (0.9)%, net income was $113.4 million versus $120.1 million, and diluted EPS was $1.21 versus $1.22. Sales rose on store growth while comparable sales were slightly negative.",
+      "source_name": "Sprouts Farmers Market Q3 2026 release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261028815125/en/Sprouts-Farmers-Market-Inc.-Reports-Third-Quarter-2026-Results",
+      "ticker": "NASDAQ:SFM",
+      "checked": "2026-10-29T00:49:47Z"
+    },
+    {
+      "id": "2026-10-29-sfm-outlook",
+      "time": "2026-10-29T01:16:47Z",
+      "tag": "EQUITIES",
+      "headline": "Sprouts guides Q4 comps (2.0)%-(4.0)%, EPS $0.47-$0.51; 2026 EPS about $4.80",
+      "take": "Sprouts guided Q4 2026 comparable store sales to (2.0)% to (4.0)% and diluted EPS to $0.47-$0.51 on a 13-week basis. Its full-year 52-week outlook calls for net sales growth of about 4.3%, comparable store sales of about (1.7)%, EBIT of about $605 million and diluted EPS of about $4.80. The release estimates the 53rd week adds about $190 million of sales and $0.16 of diluted EPS to Q4.",
+      "source_name": "Sprouts Farmers Market Q3 2026 release (Business Wire)",
+      "source_url": "https://www.businesswire.com/news/home/20261028815125/en/Sprouts-Farmers-Market-Inc.-Reports-Third-Quarter-2026-Results",
+      "ticker": "NASDAQ:SFM",
+      "checked": "2026-10-29T00:49:47Z"
+    },
+    {
+      "id": "2026-10-29-sci-q3",
+      "time": "2026-10-29T01:25:47Z",
+      "tag": "EARNINGS",
+      "headline": "SCI Q3 revenue $1,107.3M vs $1,058.1M; diluted EPS $1.03 vs $0.83",
+      "take": "Service Corporation International reported Q3 2026 revenue of $1,107.3 million versus $1,058.1 million, up 4.6%. Net income attributable to common stockholders was $141.3 million versus $117.5 million; diluted EPS was $1.03, and $0.97 excluding special items versus $0.87. It guided Q4 adjusted diluted EPS to $1.10-$1.20 and full-year adjusted EPS to $3.94-$4.04.",
+      "source_name": "Service Corporation International Q3 2026 release (PR Newswire)",
+      "source_url": "https://www.prnewswire.com/news-releases/service-corporation-international-announces-third-quarter-2026-financial-results-and-updates-fourth-quarter-outlook-302922701.html",
+      "ticker": "NYSE:SCI",
+      "checked": "2026-10-29T00:49:47Z"
+    },
+    {
+      "id": "2026-10-29-tenb-q3",
+      "time": "2026-10-29T01:34:47Z",
+      "tag": "EARNINGS",
+      "headline": "Tenable Q3 revenue $276.4M, up 9.5%; GAAP net income $11.3M vs $2.3M",
+      "take": "Tenable reported Q3 2026 revenue of $276,387 thousand versus $252,440 thousand, up 9.5%, with GAAP net income of $11,299 thousand versus $2,260 thousand. GAAP diluted EPS was $0.10 versus $0.02 and non-GAAP diluted EPS was $0.63 versus $0.42. It guided Q4 revenue to $277.0 million-$280.0 million and full-year revenue to $1.084 billion-$1.087 billion.",
+      "source_name": "Tenable Q3 2026 release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390740/0/en/tenable-announces-third-quarter-2026-financial-results.html",
+      "ticker": "NASDAQ:TENB",
+      "checked": "2026-10-29T00:49:47Z"
+    },
     {
       "id": "2026-10-28-googl-q3",
       "time": "2026-10-28T23:52:30Z",
@@ -5292,71 +5358,6 @@
       "source_url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-third-quarter-2026-financial-results-302916797.html",
       "ticker": "NYSE:LMT",
       "time": "2026-10-22T11:54:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-lmt-guidance",
-      "tag": "EQUITIES",
-      "headline": "Lockheed lifts 2026 EPS outlook to $30.35-$30.75 and free cash flow to $7.8-$8.0B",
-      "take": "Lockheed Martin now expects 2026 diluted EPS of about $30.35-$30.75, up from $29.95-$30.65 in July, and free cash flow of about $7,800-$8,000M, up from $7,000-$7,200M. Sales guidance moved to about $80,000-$82,000M from $79,750-$81,750M. Q3 free cash flow was $2,999M versus $3,347M a year earlier, so the cash raise leans on the rest of the year.",
-      "source_name": "Lockheed Martin Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-third-quarter-2026-financial-results-302916797.html",
-      "ticker": "NYSE:LMT",
-      "time": "2026-10-22T12:00:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-dgx-q3",
-      "tag": "EARNINGS",
-      "headline": "Quest Diagnostics Q3 revenue up 10.0% to $3.10B; adjusted EPS $3.00 vs. $2.60",
-      "take": "Quest Diagnostics reported Q3 2026 net revenues of $3,097M versus $2,816M (10.0% higher). GAAP diluted EPS was $2.78 versus $2.16 and adjusted diluted EPS was $3.00 versus $2.60. Adjusted EPS grew 15.4%, slower than GAAP EPS growth of 28.7%.",
-      "source_name": "Quest Diagnostics Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/quest-diagnostics-reports-third-quarter-2026-financial-results-raises-revenue-and-eps-guidance-for-full-year-2026-302916259.html",
-      "ticker": "NYSE:DGX",
-      "time": "2026-10-22T12:06:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-dgx-guidance",
-      "tag": "EQUITIES",
-      "headline": "Quest raises 2026 adjusted EPS guide to $11.25-$11.35 from $11.05-$11.25",
-      "take": "Quest Diagnostics raised full-year 2026 guidance: net revenues of $12.065B-$12.105B (prior $11.95B-$12.05B), GAAP diluted EPS of $10.21-$10.31 (prior $9.97-$10.17) and adjusted diluted EPS of $11.25-$11.35 (prior $11.05-$11.25). The new revenue range spans $40M, against $100M before. The narrower range signals higher confidence in the full-year outcome.",
-      "source_name": "Quest Diagnostics Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/quest-diagnostics-reports-third-quarter-2026-financial-results-raises-revenue-and-eps-guidance-for-full-year-2026-302916259.html",
-      "ticker": "NYSE:DGX",
-      "time": "2026-10-22T12:12:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-ndaq-q3",
-      "tag": "EARNINGS",
-      "headline": "Nasdaq Q3 net revenue $1,481M vs. $1,315M; GAAP EPS $0.96 vs. $0.73",
-      "take": "Nasdaq reported Q3 2026 revenues less transaction-based expenses of $1,481M versus $1,315M (12.6% higher), with solutions revenue of $1,172M versus $1,003M and ARR of $3,365M. GAAP diluted EPS was $0.96 versus $0.73 and non-GAAP diluted EPS was $1.04 versus $0.88. The quarterly dividend declared was $0.31 per share versus $0.27.",
-      "source_name": "Nasdaq Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386185/6948/en/nasdaq-reports-third-quarter-2026-results-strong-execution-drives-1-2-billion-of-solutions-revenue-record-arr-of-3-4-billion.html",
-      "ticker": "NASDAQ:NDAQ",
-      "time": "2026-10-22T12:18:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-pool-q3",
-      "tag": "EARNINGS",
-      "headline": "Pool Corp Q3 sales rise 3.7% to $1.50B; diluted EPS flat at $3.40",
-      "take": "Pool Corporation reported Q3 2026 net sales of $1,504,957 thousand versus $1,451,131 thousand (3.7% higher). Diluted EPS was $3.40 in both years; adjusted diluted EPS was $3.40 versus $3.39. The company confirmed 2026 diluted EPS guidance of $10.66-$10.96 and adjusted diluted EPS of $10.87-$11.17, so sales grew without lifting per-share earnings.",
-      "source_name": "Pool Corporation Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386171/10055/en/pool-corporation-reports-third-quarter-results-confirms-annual-earnings-guidance-range.html",
-      "ticker": "NASDAQ:POOL",
-      "time": "2026-10-22T12:24:24Z",
-      "checked": "2026-10-22T11:52:24Z"
-    },
-    {
-      "id": "2026-10-22-ust10y-real-breakeven",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield 5.12% on Oct. 20: 2.77% real, 2.35% breakeven",
-      "take": "The 10-year constant-maturity Treasury yield was 5.12% on Oct. 20, down from 5.19% on Oct. 14, per the Fed's H.15 data on FRED. The 10-year TIPS yield was 2.77% (from 2.84%) and the 10-year breakeven inflation rate was 2.35%, unchanged. The 2-year yield was 4.79%, leaving the 2s10s spread at 33 bp versus 38 bp on Oct. 19. Since Oct. 14, the decline has come in real yields, not inflation compensation.",
-      "source_name": "Federal Reserve H.15 via FRED (DGS10, DFII10, T10YIE, DGS2)",
-      "source_url": "https://fred.stlouisfed.org/series/dgs10",
-      "time": "2026-10-22T12:30:24Z",
       "checked": "2026-10-22T11:52:24Z"
     }
   ]
