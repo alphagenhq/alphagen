@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-29T11:41:07Z",
+ "updated": "2026-10-29T12:21:50Z",
  "items": [
+  {
+   "id": "live-0001141391-26-000122-2.02",
+   "time": "2026-10-29T12:04:22Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Mastercard releases financial results",
+   "take": "Mastercard filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:04 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000122/0001141391-26-000122-index.htm",
+   "ticker": "NYSE:MA"
+  },
   {
    "id": "live-0000003570-26-000040-2.02",
    "time": "2026-10-29T11:31:19Z",
