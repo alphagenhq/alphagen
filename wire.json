@@ -1,6 +1,68 @@
 {
-  "updated": "2026-10-29T16:50:21Z",
+  "updated": "2026-10-29T18:51:07Z",
   "items": [
+    {
+      "id": "2026-10-29-fnma-q3",
+      "time": "2026-10-29T18:54:07Z",
+      "tag": "CREDIT",
+      "headline": "Fannie Mae Q3 net income $4,177M vs $3,859M; net worth $119.6B",
+      "take": "Fannie Mae reported Q3 2026 net income of $4,177 million versus $3,859 million a year earlier, and net worth of $119,637 million at Sept. 30, 2026. The release states actual available CET1 capital was a deficit of $30 billion, and single-family conventional acquisition volume was $88.3 billion versus $111.2 billion in Q2. Net income rose about 8% year over year, but the capital deficit shows the conservatorship rebuild remains a long way from the required levels.",
+      "source_name": "Fannie Mae Q3 2026 earnings release (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000310522/000031052226000090/fnma2026q3pressrelease.htm",
+      "checked": "2026-10-29T18:51:07Z"
+    },
+    {
+      "id": "2026-10-29-fmcc-q3",
+      "time": "2026-10-29T19:02:07Z",
+      "tag": "CREDIT",
+      "headline": "Freddie Mac Q3 net income $3,235M vs $2,773M; net worth $81.0B",
+      "take": "Freddie Mac reported Q3 2026 net income of $3,235 million versus $2,773 million in Q3 2025 and comprehensive income of $3,206 million, with net worth of $80,975 million at Sept. 30, 2026. The release says no dividend was paid to Treasury on the senior preferred stock in September 2026 because the company has not yet built enough capital to meet required levels and buffers. Net income rose about 17% year over year while single-family acquisition volume was $98 billion versus $99 billion.",
+      "source_name": "Freddie Mac Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001026214/000102621426000064/a3q2026erexhibit991.htm",
+      "checked": "2026-10-29T18:51:07Z"
+    },
+    {
+      "id": "2026-10-29-sw-q3",
+      "time": "2026-10-29T19:10:07Z",
+      "tag": "EARNINGS",
+      "headline": "Smurfit Westrock Q3 net sales $8,161M; adj. EBITDA $1,205M; FY view ~$4.7B",
+      "take": "Smurfit Westrock reported Q3 2026 net sales of $8,161 million, net income of $219 million and Adjusted EBITDA of $1,205 million, a 14.8% margin. The company estimates full-year 2026 Adjusted EBITDA of approximately $4.7 billion and expects about $700 million of additional freight and energy costs in 2026. The quarterly dividend is $0.4523 per share, payable Dec. 10 to holders of record Nov. 13.",
+      "source_name": "Smurfit Westrock Q3 2026 results release",
+      "source_url": "https://www.smurfitwestrock.com/newsroom/press-releases/2026/smurfit-westrock-reports-third-quarter-2026-results",
+      "ticker": "NYSE:SW",
+      "checked": "2026-10-29T18:51:07Z"
+    },
+    {
+      "id": "2026-10-29-lstr-q3",
+      "time": "2026-10-29T19:18:07Z",
+      "tag": "EARNINGS",
+      "headline": "Landstar Q3 revenue $1,511.8M vs $1,205.4M; EPS $1.42 vs $0.56",
+      "take": "Landstar reported Q3 2026 revenue of $1,511.8 million versus $1,205.4 million, net income of $48.0 million versus $19.4 million, and EPS of $1.42 versus $0.56. The year-earlier quarter included a $30.1 million non-cash impairment charge. Total loads were 516,110 versus 501,230, and the company repurchased 232,645 shares for $41.4 million in the quarter.",
+      "source_name": "Landstar Q3 2026 earnings release",
+      "source_url": "https://investor.landstar.com/news-releases/news-release-details/landstar-system-reports-third-quarter-revenue-1512b-and-earnings",
+      "ticker": "NASDAQ:LSTR",
+      "checked": "2026-10-29T18:51:07Z"
+    },
+    {
+      "id": "2026-10-29-bls-nov-calendar",
+      "time": "2026-10-29T19:26:07Z",
+      "tag": "MACRO",
+      "headline": "BLS: jobs report Nov. 6, CPI Nov. 10, PPI Nov. 13 on November schedule",
+      "take": "BLS's November schedule lists JOLTS for September on Tuesday, Nov. 3 at 10:00 a.m. ET, Productivity and Costs on Nov. 5, the October Employment Situation on Friday, Nov. 6 at 8:30 a.m., the October CPI on Tuesday, Nov. 10 at 8:30 a.m., and the October PPI on Friday, Nov. 13. Nov. 11 is Veterans Day with no release listed. Those readings land after the Fed's Oct. 28 meeting, so they are the next official labor and price data points.",
+      "source_name": "BLS Schedule of Selected Releases for November 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/11_sched.htm",
+      "checked": "2026-10-29T18:51:07Z"
+    },
+    {
+      "id": "2026-10-29-ust-nov-refunding-auctions",
+      "time": "2026-10-29T19:34:07Z",
+      "tag": "DEBT",
+      "headline": "Treasury tentative schedule: 3-yr Nov. 9, 10-yr reopening Nov. 10, 30-yr Nov. 12",
+      "take": "Treasury's tentative Q3 2026 auction schedule shows the 3-year note auction on Monday, Nov. 9, the 10-year note reopening on Tuesday, Nov. 10 and the 30-year bond on Thursday, Nov. 12, all announced Wednesday, Nov. 4 and settling Monday, Nov. 16. The 20-year bond follows on Nov. 18 and the 10-year TIPS reopening on Nov. 19. Offering sizes are not given in the schedule and come with the Nov. 4 announcements.",
+      "source_name": "U.S. Treasury Tentative Auction Schedule (Q3 2026)",
+      "source_url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf",
+      "checked": "2026-10-29T18:51:07Z"
+    },
     {
       "id": "2026-10-29-lhx-q3",
       "time": "2026-10-29T17:02:21Z",
@@ -5294,72 +5356,6 @@
       "source_name": "Omnicom Q3 2026 earnings release",
       "source_url": "https://www.prnewswire.com/news-releases/omnicom-reports-third-quarter-2026-results-302917375.html",
       "ticker": "NYSE:OMC",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-omc-margin-synergies",
-      "time": "2026-10-22T23:59:57Z",
-      "tag": "EQUITIES",
-      "headline": "Omnicom adjusted EBITA $1,130.1M, 17.6% margin; $0.80 quarterly dividend declared",
-      "take": "Omnicom's Q3 adjusted EBITA was $1,130.1 million at a 17.6% margin, versus $651.0 million at 16.1% a year earlier, and operating income was $991.7 million versus $530.1 million. Non-GAAP adjusted diluted EPS was $2.73 versus $2.24, and dividends declared per share were $0.80 versus $0.70. The CEO said the company is on track to deliver $900 million in cost-reduction synergies in 2026.",
-      "source_name": "Omnicom Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/omnicom-reports-third-quarter-2026-results-302917375.html",
-      "ticker": "NYSE:OMC",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-nvr-q3",
-      "time": "2026-10-23T00:07:57Z",
-      "tag": "EARNINGS",
-      "headline": "NVR Q3 net income $248.6M, diluted EPS $89.45 vs. $112.33",
-      "take": "NVR reported Q3 net income of $248.6 million versus $342.7 million a year earlier, and diluted EPS of $89.45 versus $112.33. Consolidated revenues were $2.40 billion versus $2.61 billion, and homebuilding gross profit margin was 18.3% versus 21.0%. Revenue and margin both declined from a year earlier.",
-      "source_name": "NVR Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000906163/000090616326000099/q32026ex991_earningsrelease.htm",
-      "ticker": "NYSE:NVR",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-nvr-orders-backlog",
-      "time": "2026-10-23T00:15:57Z",
-      "tag": "HOUSING",
-      "headline": "NVR Q3 new orders 4,391 units vs. 4,735; backlog 10,121 units, up 10%",
-      "take": "NVR's Q3 new orders were 4,391 units versus 4,735 a year earlier, at an average price of $442,100 versus $464,800. Settlements were 5,268 units at an average price of $445,900. Backlog at Sept. 30 was 10,121 units, up 10% from 9,165, and $4.59 billion, up 4%, so orders fell while the order book still grew year over year.",
-      "source_name": "NVR Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000906163/000090616326000099/q32026ex991_earningsrelease.htm",
-      "ticker": "NYSE:NVR",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-dhr-q3",
-      "time": "2026-10-23T00:23:57Z",
-      "tag": "EARNINGS",
-      "headline": "Danaher Q3 sales $6.55B, up 8.5%; diluted EPS $1.75 vs. $1.27",
-      "take": "Danaher reported Q3 sales of $6,554 million versus $6,053 million a year earlier, up 8.5%, with core sales growth of 3.0% (5.5% excluding respiratory testing). Net earnings were $1,235 million versus $908 million, and diluted EPS was $1.75 versus $1.27. Adjusted diluted EPS from continuing operations was $2.11 versus $1.89.",
-      "source_name": "Danaher Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm",
-      "ticker": "NYSE:DHR",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-dhr-guidance-fcf",
-      "time": "2026-10-23T00:31:57Z",
-      "tag": "EQUITIES",
-      "headline": "Danaher raises 2026 adjusted EPS outlook to $8.57-$8.62; Q3 free cash flow $1.63B",
-      "take": "Danaher raised its full-year 2026 adjusted diluted EPS guidance for continuing operations to $8.57-$8.62 from $8.45-$8.60 and guides to core sales growth of approximately 2.5%. Q3 operating cash flow from continuing operations was $1,886 million versus $1,662 million, and free cash flow was $1,632 million versus $1,370 million. Cash generation grew faster than reported sales in the quarter.",
-      "source_name": "Danaher Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000313616/000031361626000201/dhr-20261021xex991.htm",
-      "ticker": "NYSE:DHR",
-      "checked": "2026-10-22T23:52:57Z"
-    },
-    {
-      "id": "2026-10-22-vrsn-q3",
-      "time": "2026-10-23T00:37:57Z",
-      "tag": "EARNINGS",
-      "headline": "Verisign Q3 revenue $443.0M vs. $419.1M; diluted EPS $2.35 vs. $2.27",
-      "take": "Verisign reported Q3 revenue of $443.0 million versus $419.1 million a year earlier, operating income of $296.5 million versus $284.3 million, and net income of $212.6 million versus $212.8 million. Diluted EPS was $2.35 versus $2.27. Net income was essentially flat while diluted EPS rose, which implies a smaller diluted share count.",
-      "source_name": "Verisign Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001014473/000101447326000038/q32026earningsrelease.htm",
-      "ticker": "NASDAQ:VRSN",
       "checked": "2026-10-22T23:52:57Z"
     }
   ]

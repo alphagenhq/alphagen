@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-29T16:50:21Z",
+  "updated": "2026-10-29T18:51:07Z",
   "items": [
+    {
+      "id": "2026-10-29-LSTR-Q3",
+      "time": "2026-10-29T19:18:07Z",
+      "ticker": "NASDAQ:LSTR",
+      "name": "Landstar System",
+      "period": "Q3 2026",
+      "report_date": "2026-10-27",
+      "revenue": 1.512,
+      "revenue_yoy": 25.4,
+      "eps_yoy": 153.6,
+      "eps": 1.42,
+      "take": "Landstar reported Q3 2026 revenue of $1,511.8 million versus $1,205.4 million and EPS of $1.42 versus $0.56. The year-earlier quarter included a $30.1 million non-cash impairment charge.",
+      "source_name": "Landstar Q3 2026 earnings release",
+      "source_url": "https://investor.landstar.com/news-releases/news-release-details/landstar-system-reports-third-quarter-revenue-1512b-and-earnings",
+      "checked": "2026-10-29T18:51:07Z"
+    },
+    {
+      "id": "2026-10-28-SW-Q3",
+      "time": "2026-10-29T19:10:07Z",
+      "ticker": "NYSE:SW",
+      "name": "Smurfit Westrock",
+      "period": "Q3 2026",
+      "report_date": "2026-10-28",
+      "revenue": 8.161,
+      "revenue_yoy": null,
+      "eps_yoy": null,
+      "eps": null,
+      "take": "Smurfit Westrock reported Q3 2026 net sales of $8,161 million, net income of $219 million and Adjusted EBITDA of $1,205 million. It estimates full-year 2026 Adjusted EBITDA of approximately $4.7 billion.",
+      "source_name": "Smurfit Westrock Q3 2026 results release",
+      "source_url": "https://www.smurfitwestrock.com/newsroom/press-releases/2026/smurfit-westrock-reports-third-quarter-2026-results",
+      "checked": "2026-10-29T18:51:07Z"
+    },
     {
       "id": "2026-10-29-LHX-Q3",
       "time": "2026-10-29T17:02:21Z",
