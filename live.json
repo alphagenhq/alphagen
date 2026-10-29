@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T20:31:26Z",
+ "updated": "2026-10-29T21:17:36Z",
  "items": [
+  {
+   "id": "live-0001104659-26-120274-1.01",
+   "time": "2026-10-29T21:15:10Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Kimberly Clark discloses a material agreement",
+   "take": "Kimberly Clark reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:15 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KMB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926120274/0001104659-26-120274-index.htm",
+   "ticker": "NASDAQ:KMB"
+  },
+  {
+   "id": "live-0001193125-26-438017-1.01",
+   "time": "2026-10-29T21:08:00Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Meta Platforms discloses a material agreement",
+   "take": "Meta Platforms reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:08 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, META Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/0001193125-26-438017-index.htm",
+   "ticker": "NASDAQ:META"
+  },
+  {
+   "id": "live-0001510295-26-000063-5.02",
+   "time": "2026-10-29T20:59:40Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Marathon Petroleum reports an executive or board change",
+   "take": "Marathon Petroleum reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:59 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MPC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000063/0001510295-26-000063-index.htm",
+   "ticker": "NYSE:MPC"
+  },
   {
    "id": "live-0001628280-26-068263-2.02",
    "time": "2026-10-29T20:19:19Z",
