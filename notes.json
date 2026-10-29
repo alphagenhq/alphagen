@@ -1,6 +1,81 @@
 {
-  "updated": "2026-10-28T20:52:58Z",
+  "updated": "2026-10-29T11:52:05Z",
   "items": [
+    {
+      "id": "2026-10-29-morning-brief",
+      "time": "2026-10-29T11:52:05Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: GDP and income data at 8:30 as the Fed holds",
+      "dek": "BEA releases third-quarter GDP and September income and outlays at 8:30 a.m. ET; the Fed held rates 10-2; Fortinet, WTW, Norwegian Cruise and FTAI reported.",
+      "key_points": [
+        "BEA schedule: advance third-quarter 2026 GDP and September Personal Income and Outlays are both due today at 8:30 a.m. ET; September international trade follows Nov. 4.",
+        "FOMC (Oct. 28): target range held at 3-3/4 to 4 percent on a 10-2 vote; Lisa D. Cook and Beth M. Hammack preferred a 1/4-point increase.",
+        "Fed implementation note: IORB 3.90 percent effective Oct. 29; ON RRP rate 3.75 percent; primary credit rate 4.0 percent.",
+        "Fortinet Q3: revenue $2,078.4M vs $1,724.9M; billings $2,336.3M vs $1,807.7M; GAAP diluted EPS $0.86 vs $0.62.",
+        "WTW Q3: revenue $2,460M vs $2,288M; diluted EPS $3.24 vs $3.11; Norwegian Cruise Q3 diluted EPS $1.07 vs $0.86; FTAI Q3 diluted EPS $1.43 vs $1.10."
+      ],
+      "talking_points": [
+        "The Federal Reserve held its policy rate at 3-3/4 to 4 percent on a 10-2 vote, with two members preferring a quarter-point increase, so investors should note that policymakers were not unanimous.",
+        "The government reports third-quarter GDP and September personal income and outlays at 8:30 a.m. Eastern today, giving everyday investors an official read on how fast the economy grew.",
+        "Fortinet reported billings growth faster than revenue growth, a reminder that companies disclose several measures and that investors should check which one a headline is describing before drawing conclusions."
+      ],
+      "body": [
+        "Two scheduled government releases land at 8:30 a.m. ET today, according to the Bureau of Economic Analysis release schedule: the advance estimate of third-quarter 2026 GDP and the September Personal Income and Outlays report. The next BEA release on that schedule is U.S. International Trade in Goods and Services for September, due Nov. 4 at 8:30 a.m. ET.",
+        {
+          "h": "The Fed holds, with two dissents"
+        },
+        "Yesterday the Federal Open Market Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent. The statement was approved 10-2. Lisa D. Cook and Beth M. Hammack voted against the action; both preferred to raise the target range by 1/4 percentage point at the meeting. The statement says economic activity is expanding at a strong pace, that job gains have kept pace with the workforce, and that inflation remains elevated.",
+        "In the accompanying implementation note, the Board set the interest rate on reserve balances at 3.90 percent, effective Oct. 29, and the overnight reverse repurchase rate at 3.75 percent, with a per-counterparty limit of $160 billion per day. The primary credit rate was kept at 4.0 percent. The statement also says the Committee is continuing its policy of maintaining ample reserves in the banking system.",
+        {
+          "h": "Earnings: Fortinet, WTW, Norwegian Cruise, FTAI"
+        },
+        "Fortinet reported after the close yesterday. Total revenue was $2,078.4 million versus $1,724.9 million a year earlier, up about 20.5% by our calculation, and billings were $2,336.3 million versus $1,807.7 million. GAAP diluted EPS was $0.86 versus $0.62, and GAAP operating margin was 33.9% versus 31.7%. The company guided fourth-quarter revenue to $2.155 billion to $2.245 billion.",
+        "WTW reported at 6:00 a.m. ET today: revenue of $2.46 billion, up 4% organically, net income of $309 million, and diluted EPS of $3.24 versus $3.11. Adjusted diluted EPS was $3.63 versus $3.07. WTW said it repurchased $220 million of shares in the quarter and expects 2026 repurchases to exceed $1.0 billion.",
+        "Norwegian Cruise Line Holdings reported total revenue of $2,946.8 million versus $2,938.1 million and diluted EPS of $1.07 versus $0.86. Its release says Net Yield decreased 6.5% as reported. It guided 2026 adjusted EBITDA to approximately $2.55 billion. FTAI Aviation reported revenue of $977.7 million versus $667.1 million, diluted EPS of $1.43 versus $1.10, and said it intends to enter a $500.0 million accelerated share repurchase with Royal Bank of Canada.",
+        {
+          "h": "What to watch"
+        },
+        "The GDP and income-and-outlays data are the main scheduled items this morning, and company releases continue through the day. This brief covers only figures read directly from the Federal Reserve, BEA, and company releases this morning; it does not make forecasts."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve Board: FOMC statement, Oct. 28, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "name": "Federal Reserve Board: Implementation Note, Oct. 28, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm"
+        },
+        {
+          "name": "BEA release schedule",
+          "url": "https://www.bea.gov/news/schedule"
+        },
+        {
+          "name": "Fortinet Q3 2026 release",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390743/0/en/fortinet-reports-strong-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "WTW Q3 2026 release",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391029/0/en/wtw-reports-third-quarter-2026-earnings.html"
+        },
+        {
+          "name": "Norwegian Cruise Line Holdings Q3 2026 release",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391046/24500/en/norwegian-cruise-line-holdings-reports-third-quarter-2026-financial-results.html"
+        },
+        {
+          "name": "FTAI Aviation Q3 2026 release",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391031/35538/en/ftai-aviation-ltd-reports-strong-third-quarter-2026-performance-and-announces-500-0-million-accelerated-share-repurchase.html"
+        }
+      ],
+      "tickers": [
+        "NASDAQ:FTNT",
+        "NASDAQ:WTW",
+        "NYSE:NCLH",
+        "NASDAQ:FTAI"
+      ],
+      "checked": "2026-10-29T11:52:05Z"
+    },
     {
       "id": "2026-10-28-the-close",
       "time": "2026-10-28T20:52:58Z",
