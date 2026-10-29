@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-29T12:52:16Z",
+  "updated": "2026-10-29T14:18:43Z",
   "items": [
+    {
+      "id": "2026-10-29-cat-q3",
+      "time": "2026-10-29T14:23:43Z",
+      "tag": "EARNINGS",
+      "headline": "Caterpillar Q3 sales and revenues $20.682B vs $17.638B; profit per share $7.13",
+      "take": "Caterpillar reported Q3 2026 total sales and revenues of $20.682 billion versus $17.638 billion, and operating profit of $4.214 billion versus $3.052 billion. Profit per share was $7.13 versus $4.88; adjusted profit per share was $7.20 versus $4.95. Operating margin rose to 20.4% from 17.3%.",
+      "source_name": "Caterpillar Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm",
+      "ticker": "NYSE:CAT",
+      "checked": "2026-10-29T14:18:43Z"
+    },
+    {
+      "id": "2026-10-29-cat-buyback",
+      "time": "2026-10-29T14:31:43Z",
+      "tag": "EQUITIES",
+      "headline": "Caterpillar spent $1.2B on share repurchases and $0.7B on dividends in Q3",
+      "take": "Caterpillar's release shows $1.2 billion of cash used to repurchase common stock in Q3 and $0.7 billion for dividends, with nine-month repurchase payments of $7.745 billion. The release gives no numeric outlook, though the company said it will discuss adjusted profit per share for Q4 and full-year 2026.",
+      "source_name": "Caterpillar Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm",
+      "ticker": "NYSE:CAT",
+      "checked": "2026-10-29T14:18:43Z"
+    },
+    {
+      "id": "2026-10-29-cognizant-q3",
+      "time": "2026-10-29T14:39:43Z",
+      "tag": "EARNINGS",
+      "headline": "Cognizant Q3 revenue $5,664M vs $5,415M; GAAP diluted EPS $1.39 vs $0.56",
+      "take": "Cognizant reported Q3 2026 revenue of $5,664 million, up 4.6% from $5,415 million. GAAP diluted EPS was $1.39 versus $0.56, and the prior-year figure included a non-cash income tax charge that reduced EPS by $0.80. Adjusted diluted EPS was $1.49 versus $1.39.",
+      "source_name": "Cognizant Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001058290/000105829026000039/exhibit9919302026.htm",
+      "ticker": "NASDAQ:CTSH",
+      "checked": "2026-10-29T14:18:43Z"
+    },
+    {
+      "id": "2026-10-29-cognizant-guide",
+      "time": "2026-10-29T14:47:43Z",
+      "tag": "EQUITIES",
+      "headline": "Cognizant sets 2026 revenue guide at $22.05B-$22.14B; adjusted EPS $5.72-$5.79",
+      "take": "Cognizant guides full-year 2026 revenue to $22.05 billion-$22.14 billion, or growth of 4.5% to 4.9%, with adjusted operating margin of about 16.1% and adjusted diluted EPS of $5.72-$5.79. It repurchased 4.9 million shares for $258 million in Q3, with $2.08 billion left under its authorization.",
+      "source_name": "Cognizant Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001058290/000105829026000039/exhibit9919302026.htm",
+      "ticker": "NASDAQ:CTSH",
+      "checked": "2026-10-29T14:18:43Z"
+    },
+    {
+      "id": "2026-10-29-incyte-q3",
+      "time": "2026-10-29T14:55:43Z",
+      "tag": "EARNINGS",
+      "headline": "Incyte Q3 revenue $1,557.2M vs $1,366.0M; GAAP loss of $3.86 per share",
+      "take": "Incyte reported Q3 2026 total revenues of $1,557.2 million versus $1,366.0 million, with Jakafi/Jakafi XR net sales of $826.5 million versus $791.1 million. GAAP diluted EPS was $(3.86) versus $2.11; the company ties the swing to a one-time $1.23 billion IPR&D expense from its Vega Therapeutics acquisition.",
+      "source_name": "Incyte Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000879169/000087916926000063/incy-q32026xexx991.htm",
+      "ticker": "NASDAQ:INCY",
+      "checked": "2026-10-29T14:18:43Z"
+    },
+    {
+      "id": "2026-10-29-incyte-guide",
+      "time": "2026-10-29T15:03:43Z",
+      "tag": "EQUITIES",
+      "headline": "Incyte raises 2026 total net sales guide to $5,210M-$5,300M",
+      "take": "Incyte raised 2026 total net sales guidance to $5,210 million-$5,300 million from $5,130 million-$5,260 million, and Opzelura guidance to $1,100 million-$1,120 million from $1,050 million-$1,100 million. The Opzelura range includes a one-time $246 million benefit from its CMS agreement.",
+      "source_name": "Incyte Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000879169/000087916926000063/incy-q32026xexx991.htm",
+      "ticker": "NASDAQ:INCY",
+      "checked": "2026-10-29T14:18:43Z"
+    },
     {
       "id": "2026-10-29-first-mid-evergreen",
       "time": "2026-10-29T13:37:16Z",
@@ -5294,72 +5360,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/scco-ex99d1.htm",
       "ticker": "NYSE:SCCO",
       "checked": "2026-10-22T19:52:16Z"
-    },
-    {
-      "id": "2026-10-20-scco-capex-dividend",
-      "time": "2026-10-22T20:18:16Z",
-      "tag": "COMMODITIES",
-      "headline": "Southern Copper Q3 capex $515.8M, up 47.7%; quarterly dividend $1.30",
-      "take": "Southern Copper spent $515.8 million on capital investments in 3Q26 versus $349.2 million in 3Q25, up 47.7% and equal to 28.6% of quarterly net income. The board authorized a $1.30 per share cash dividend plus a stock dividend of 0.0106 shares per share, payable Nov. 19 to holders of record Nov. 3. Mined zinc output fell 7.9% to 41,880 tonnes.",
-      "source_name": "Southern Copper 3Q26 earnings release (Oct. 20, 2026, SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926117588/scco-ex99d1.htm",
-      "ticker": "NYSE:SCCO",
-      "checked": "2026-10-22T19:52:16Z"
-    },
-    {
-      "id": "2026-10-20-alk-q3",
-      "time": "2026-10-22T20:26:16Z",
-      "tag": "EARNINGS",
-      "headline": "Alaska Air Q3 revenue $4.31B, up 14%; GAAP loss $1.32/share; fuel $3.94/gal",
-      "take": "Alaska Air Group reported Q3 total operating revenue of $4,308 million versus $3,766 million a year earlier, up 14%. GAAP net loss was $147 million, or $(1.32) per share, versus net income of $73 million, or $0.62, while aircraft fuel expense rose 60% to $1,214 million. It guides a full-year 2026 adjusted loss of $(5.50) to $(5.00) per share, including $1.8 billion of fuel expense above plan.",
-      "source_name": "Alaska Air Group Q3 2026 earnings release (Oct. 20, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/alaska-air-group-reports-third-quarter-2026-results-302914716.html",
-      "ticker": "NYSE:ALK",
-      "checked": "2026-10-22T19:52:16Z"
-    },
-    {
-      "id": "2026-10-22-tsco-q3",
-      "time": "2026-10-22T18:47:57Z",
-      "tag": "EARNINGS",
-      "headline": "Tractor Supply Q3 net sales $3.91B, up 5.1%; diluted EPS $0.43 vs. $0.49",
-      "take": "Tractor Supply reported Q3 net sales of $3.91 billion versus $3.72 billion a year earlier, with comparable store sales up 0.4% versus up 3.9% in Q3 2025. Net income was $224.7 million versus $259.3 million, and diluted EPS was $0.43 versus $0.49. Sales growth outpaced the comparable-store gain, so the increase came mainly from outside the existing-store base.",
-      "source_name": "Tractor Supply Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000916365/000091636526000069/ex991-q32026earningsrelease.htm",
-      "ticker": "NASDAQ:TSCO",
-      "checked": "2026-10-22T18:45:57Z"
-    },
-    {
-      "id": "2026-10-22-tsco-outlook-returns",
-      "time": "2026-10-22T18:55:57Z",
-      "tag": "EQUITIES",
-      "headline": "Tractor Supply reaffirms 2026 outlook; returned $213.4M to holders in Q3",
-      "take": "Tractor Supply reaffirmed fiscal 2026 guidance of net sales growth of 2.5% to 3.5%, comparable store sales of (1%) to flat, and diluted EPS of $1.78 to $1.88 (adjusted $1.90 to $2.00). In Q3 it repurchased about 2.7 million shares for $88.5 million and paid $124.9 million in dividends. The guided comparable-sales range implies little same-store growth for the full year.",
-      "source_name": "Tractor Supply Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000916365/000091636526000069/ex991-q32026earningsrelease.htm",
-      "ticker": "NASDAQ:TSCO",
-      "checked": "2026-10-22T18:45:57Z"
-    },
-    {
-      "id": "2026-10-21-cencora-aon",
-      "time": "2026-10-22T19:03:57Z",
-      "tag": "DEALS",
-      "headline": "Cencora agrees to acquire rest of American Oncology Network; EV $2.4B",
-      "take": "Cencora agreed to acquire all equity interests in American Oncology Network (AON) that it does not already own, at an enterprise value of $2.4 billion: $2.3 billion at closing plus contingent value rights of up to $100 million. Cencora holds about 4% today; assuming a 25% stockholder rollover it expects to pay about $1.7 billion to reach 75% ownership. Closing is subject to regulatory clearances and AON stockholder approval.",
-      "source_name": "Cencora press release (Oct. 21, 2026)",
-      "source_url": "https://www.cencora.com/newsroom/cencora-to-acquire-american-oncology-network",
-      "ticker": "NYSE:COR",
-      "checked": "2026-10-22T18:45:57Z"
-    },
-    {
-      "id": "2026-10-22-kering-q3",
-      "time": "2026-10-22T19:11:57Z",
-      "tag": "GLOBAL",
-      "headline": "Kering Q3 revenue €3,345M, stable reported, -1% comparable; Gucci -6% comparable",
-      "take": "Kering reported Q3 2026 revenue of €3,345 million versus €3,331 million in Q3 2025 (restated to exclude Kering Beauté), stable on a reported basis and down 1% comparable. Gucci revenue was €1,291 million versus €1,343 million, down 4% reported and 6% comparable. Nine-month revenue was €10,565 million, down 2% reported and flat comparable, so Gucci is the main drag within the group figure.",
-      "source_name": "Kering Q3 2026 revenue release (GlobeNewswire, company release)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386683/0/en/kering-revenue-for-the-third-quarter-of-2026.html",
-      "ticker": "EURONEXT:KER",
-      "checked": "2026-10-22T18:45:57Z"
     }
   ]
 }
