@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T10:09:10Z",
+ "updated": "2026-10-29T10:57:25Z",
  "items": [
+  {
+   "id": "live-0001104659-26-119825-2.02",
+   "time": "2026-10-29T10:43:01Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Merck & Co. releases financial results",
+   "take": "Merck & Co. filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:43 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MRK Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000110465926119825/0001104659-26-119825-index.htm",
+   "ticker": "NYSE:MRK"
+  },
+  {
+   "id": "live-0001618756-26-000051-2.02",
+   "time": "2026-10-29T10:34:31Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Restaurant Brands International releases financial results",
+   "take": "Restaurant Brands International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:34 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, QSR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1618756/000161875626000051/0001618756-26-000051-index.htm",
+   "ticker": "NYSE:QSR"
+  },
+  {
+   "id": "live-0000018230-26-000052-2.02",
+   "time": "2026-10-29T10:33:40Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Caterpillar releases financial results",
+   "take": "Caterpillar filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:33 AM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CAT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000052/0000018230-26-000052-index.htm",
+   "ticker": "NYSE:CAT"
+  },
   {
    "id": "live-0001171843-26-006942-2.02",
    "time": "2026-10-29T10:02:19Z",
