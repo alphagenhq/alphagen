@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-29T01:51:02Z",
+  "updated": "2026-10-29T02:45:48Z",
   "items": [
+    {
+      "id": "2026-10-28-PSN-Q3",
+      "time": "2026-10-29T02:47:48Z",
+      "ticker": "NYSE:PSN",
+      "name": "Parsons",
+      "period": "Q3 2026",
+      "report_date": "2026-10-28",
+      "revenue": 1.651,
+      "revenue_yoy": 1.8,
+      "eps_yoy": -13.6,
+      "eps": 0.51,
+      "take": "Parsons reported Q3 2026 revenue of $1,650,548 thousand versus $1,621,748 thousand and GAAP diluted EPS of $0.51 versus $0.59. Total backlog was $9,362,466 thousand.",
+      "source_name": "Parsons Q3 2026 results (company release)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/28/3389964/0/en/parsons-reports-third-quarter-2026-results.html",
+      "checked": "2026-10-29T02:45:48Z"
+    },
+    {
+      "id": "2026-10-28-CHDN-Q3",
+      "time": "2026-10-29T03:05:48Z",
+      "ticker": "NASDAQ:CHDN",
+      "name": "Churchill Downs",
+      "period": "Q3 2026",
+      "report_date": "2026-10-28",
+      "revenue": 0.696,
+      "revenue_yoy": 1.9,
+      "eps_yoy": 113.0,
+      "eps": 1.15,
+      "take": "Churchill Downs reported Q3 2026 net revenue of $696 million versus $683 million and diluted EPS attributable to CDI of $1.15 versus $0.54. Adjusted EBITDA was $264 million versus $262 million.",
+      "source_name": "Churchill Downs Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390745/12388/en/churchill-downs-incorporated-reports-2026-third-quarter-results.html",
+      "checked": "2026-10-29T02:45:48Z"
+    },
     {
       "id": "2026-10-28-MSFT-Q1",
       "time": "2026-10-29T02:00:02Z",

@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-29T01:51:02Z",
+  "updated": "2026-10-29T02:45:48Z",
   "items": [
+    {
+      "id": "2026-10-29-psn-q3",
+      "tag": "EARNINGS",
+      "headline": "Parsons Q3 revenue $1,650.5M vs $1,621.7M; diluted EPS $0.51 vs $0.59",
+      "take": "Parsons reported Q3 2026 revenue of $1,650,548 thousand versus $1,621,748 thousand, up about 1.8%, and GAAP diluted EPS of $0.51 versus $0.59. Net income attributable to Parsons was $54,153 thousand versus $64,123 thousand, while adjusted EBITDA including noncontrolling interests rose to $167,843 thousand from $158,137 thousand. Revenue growth was low single digit and GAAP EPS fell, so the quarter's improvement showed up in adjusted EBITDA and backlog rather than in reported earnings per share.",
+      "source_name": "Parsons Q3 2026 results (company release)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/28/3389964/0/en/parsons-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:PSN",
+      "time": "2026-10-29T02:47:48Z",
+      "checked": "2026-10-29T02:45:48Z"
+    },
+    {
+      "id": "2026-10-29-psn-backlog",
+      "tag": "EQUITIES",
+      "headline": "Parsons backlog reaches $9.36B; narrows 2026 revenue guide to $6.25B-$6.45B",
+      "take": "Parsons' total backlog was $9,362,466 thousand at Sept. 30, 2026 versus $8,832,447 thousand a year earlier, up about 6.0%, and Q3 contract awards were $1,821,196 thousand versus $1,593,009 thousand. The company said it is narrowing and reiterating the mid-point of its fiscal 2026 guidance, now revenue of $6.25 billion to $6.45 billion (prior $6.20 billion to $6.50 billion) and adjusted EBITDA of $510 million to $550 million (prior $500 million to $560 million). Awards running above revenue in the quarter is what lifts backlog, and the narrowed ranges signal tighter visibility on the year rather than a change in the midpoint.",
+      "source_name": "Parsons Q3 2026 results (company release)",
+      "source_url": "https://globenewswire.com/news-release/2026/10/28/3389964/0/en/parsons-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:PSN",
+      "time": "2026-10-29T02:56:48Z",
+      "checked": "2026-10-29T02:45:48Z"
+    },
+    {
+      "id": "2026-10-29-chdn-q3",
+      "tag": "EARNINGS",
+      "headline": "Churchill Downs Q3 net revenue $696M vs $683M; diluted EPS $1.15 vs $0.54",
+      "take": "Churchill Downs reported Q3 2026 net revenue of $696 million versus $683 million, net income attributable to CDI of $80 million versus $38 million, and diluted EPS attributable to CDI of $1.15 versus $0.54. Adjusted EBITDA was $264 million versus $262 million. The company's release says the prior-year quarter included a $35 million after-tax impairment of its Chasers gaming rights, so most of the EPS gap reflects that comparison while adjusted EBITDA grew about 1%.",
+      "source_name": "Churchill Downs Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390745/12388/en/churchill-downs-incorporated-reports-2026-third-quarter-results.html",
+      "ticker": "NASDAQ:CHDN",
+      "time": "2026-10-29T03:05:48Z",
+      "checked": "2026-10-29T02:45:48Z"
+    },
+    {
+      "id": "2026-10-29-ecb-meeting",
+      "tag": "GLOBAL",
+      "headline": "ECB Governing Council meets Oct. 28-29; decision and press conference due Thursday",
+      "take": "The ECB's meeting calendar lists the Governing Council's monetary policy meeting on Oct. 28 and 29, 2026, with a press conference following on Day 2, and the next on Dec. 16-17. The ECB says monetary policy decisions are published in a press release at 14:15 CET on the day of the meeting. The Fed held and the Bank of Canada raised this week, so the ECB outcome rounds out the major central-bank decisions for the week.",
+      "source_name": "ECB: Meetings of the Governing Council",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+      "time": "2026-10-29T03:14:48Z",
+      "checked": "2026-10-29T02:45:48Z"
+    },
+    {
+      "id": "2026-10-29-boj-meeting",
+      "tag": "GLOBAL",
+      "headline": "Bank of Japan meets Oct. 29-30; policy statement due Friday, time not yet set",
+      "take": "The Bank of Japan's release schedule lists a Monetary Policy Meeting on Oct. 29 and 30, 2026, with the Statement on Monetary Policy and the October Outlook for Economic Activity and Prices both scheduled for Oct. 30, times undecided. The Summary of Opinions is scheduled for Nov. 10. The BoJ's most recent policy action was a Sept. 18 change to its guideline for money market operations, so Friday's statement is the first update since then.",
+      "source_name": "Bank of Japan: Release Schedule",
+      "source_url": "https://www.boj.or.jp/en/about/calendar/index.htm",
+      "time": "2026-10-29T03:23:48Z",
+      "checked": "2026-10-29T02:45:48Z"
+    },
+    {
+      "id": "2026-10-29-ust-7y-auction",
+      "tag": "DEBT",
+      "headline": "Treasury's 7-year note auction is set for Thursday, completing the week's coupon sales",
+      "take": "Treasury's tentative auction schedule lists a 7-year note auction on Thursday, Oct. 29, settling Monday, Nov. 2, after the 2-year note on Oct. 26 and the 5-year note on Oct. 27, which also settle Nov. 2; a 2-year floating rate note was set for Oct. 28. The schedule also lists 4-week and 8-week bill auctions on Oct. 29 settling Nov. 3. The schedule does not give offering amounts, which are set in the Treasury's announcement for each auction.",
+      "source_name": "U.S. Treasury: Tentative Auction Schedule",
+      "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+      "time": "2026-10-29T03:32:48Z",
+      "checked": "2026-10-29T02:45:48Z"
+    },
     {
       "id": "2026-10-29-msft-q1fy27",
       "time": "2026-10-29T01:59:02Z",
@@ -5294,71 +5357,6 @@
       "ticker": "NYSE:DOV",
       "time": "2026-10-22T14:25:31Z",
       "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-19-merckkgaa-silence",
-      "tag": "DEALS",
-      "headline": "Merck KGaA to acquire Silence Therapeutics for $20.00 per ADS in cash, about $1.3B",
-      "take": "Merck KGaA, Darmstadt, Germany agreed to acquire Silence Therapeutics for $20.00 in cash per ADS, an equity value of about $1.3B and an enterprise value of $1.1B, a 130% premium to the Oct. 16 ADS close. It will use a U.K. scheme of arrangement, and closing is expected in the first quarter of 2027, subject to shareholder approval, High Court sanction and regulatory approvals. A premium that size is rare and shows how much value an acquirer attached to one small-cap pipeline.",
-      "source_name": "Silence Therapeutics press release (Oct. 19, 2026)",
-      "source_url": "https://silence-therapeutics.com/investors/press-releases/press-releases-details/2026/Silence-Therapeutics-Enters-into-Agreement-to-be-Acquired-by-Merck-KGaA-Darmstadt-Germany/default.aspx",
-      "ticker": "NASDAQ:SLN",
-      "time": "2026-10-22T14:32:31Z",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-20-cof-q3",
-      "tag": "EARNINGS",
-      "headline": "Capital One Q3 diluted EPS $5.61 vs. $4.83; net income $3.5B",
-      "take": "Capital One reported Q3 2026 net income of $3.5B, or $5.61 per diluted share, versus $4.83 a year earlier and $4.73 in Q2; adjusted EPS was $6.69. Total net revenue was $16.3B, up 3% from Q2, the provision was $2.9B including a $225M reserve release, and the preliminary CET1 ratio was 13.8%. A reserve release inside a $2.9B provision shows part of the quarter's profit came from lower expected losses rather than operations.",
-      "source_name": "Capital One Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/927628/000092762826000142/ex991q32026earningsrelease.htm",
-      "ticker": "NYSE:COF",
-      "time": "2026-10-22T14:39:31Z",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-21-cognizant-dyflex",
-      "tag": "DEALS",
-      "headline": "Cognizant to acquire SAP services firm DyFlex Solutions; terms not disclosed",
-      "take": "Cognizant announced Oct. 21 that it will acquire DyFlex Solutions, an Australia-headquartered SAP Platinum Partner founded in 2011 with over 300 people. Financial details were not disclosed, and closing is expected in the first quarter of 2027, subject to regulatory approvals and customary conditions. Buying a regional SAP specialist rather than building one reflects how IT-services firms are adding capacity in enterprise-software migration work.",
-      "source_name": "Cognizant press release (Oct. 21, 2026)",
-      "source_url": "https://investors.cognizant.com/news-and-events/news/news-details/2026/Cognizant-to-Acquire-DyFlex-Solutions-Accelerating-AI-Led-Enterprise-Transformation-for-SAP-Clients-in-Australia-and-New-Zealand/default.aspx",
-      "ticker": "NASDAQ:CTSH",
-      "time": "2026-10-22T14:46:31Z",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-22-boc-oct-28",
-      "tag": "GLOBAL",
-      "headline": "Bank of Canada sets rate announcement and Monetary Policy Report for Oct. 28, 9:45 a.m. ET",
-      "take": "The Bank of Canada will release its interest rate announcement and Monetary Policy Report on Oct. 28 at 9:45 a.m. ET. The Bank sets its overnight rate target on eight scheduled dates a year and publishes the Report, with base-case projections for inflation and growth, four times a year. Because this date carries both, it is a fuller communication than a rate-only decision.",
-      "source_name": "Bank of Canada",
-      "source_url": "https://www.bankofcanada.ca/2026/10/interest-rate-announcement-and-monetary-policy-report-october-28-2026/",
-      "time": "2026-10-22T14:53:31Z",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-22-hon-q3",
-      "tag": "EARNINGS",
-      "headline": "Honeywell Q3 sales $4,994M vs. $4,929M; adjusted EPS $2.27 vs. $1.70",
-      "take": "Honeywell reported Q3 2026 sales of $4,994M versus $4,929M a year earlier (1% reported, 7% organic). GAAP EPS from continuing operations was $2.40 versus $2.99, which the company attributes primarily to a one-time gain from the Resideo termination agreement in the prior year; adjusted EPS was $2.27 versus $1.70. The gap between 1% reported and 7% organic growth shows how much of the headline sales trend is being shaped by portfolio changes rather than the underlying business.",
-      "source_name": "Honeywell Q3 2026 earnings release",
-      "source_url": "https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-reports-third-quarter-results-raises-full-year-2026-outlook",
-      "ticker": "NASDAQ:HON",
-      "time": "2026-10-22T12:51:51Z",
-      "checked": "2026-10-22T12:49:51Z"
-    },
-    {
-      "id": "2026-10-22-hon-guidance",
-      "tag": "EQUITIES",
-      "headline": "Honeywell raises 2026 adj. EPS outlook to $8.40-$8.45 from $8.05-$8.35",
-      "take": "Honeywell now expects 2026 sales of $20.0B-$20.1B (previously $19.8B-$20.0B), adjusted EPS of $8.40-$8.45 (previously $8.05-$8.35) and free cash flow of about $2.1B (previously about $2.0B). Organic growth is now guided at 4%-5% versus 3%-4% before. Every headline guidance metric moved up, with the adjusted EPS midpoint rising about $0.20.",
-      "source_name": "Honeywell Q3 2026 earnings release",
-      "source_url": "https://www.honeywell.com/us/en/news/press-releases/2026/10/honeywell-technologies-reports-third-quarter-results-raises-full-year-2026-outlook",
-      "ticker": "NASDAQ:HON",
-      "time": "2026-10-22T13:00:51Z",
-      "checked": "2026-10-22T12:49:51Z"
     }
   ]
 }
