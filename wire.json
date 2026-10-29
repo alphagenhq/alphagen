@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-29T02:45:48Z",
+  "updated": "2026-10-29T10:44:51Z",
   "items": [
+    {
+      "id": "2026-10-29-xel-q3",
+      "time": "2026-10-29T10:47:51Z",
+      "tag": "EARNINGS",
+      "headline": "Xcel Q3 GAAP EPS $1.52 vs $0.88; revenue $4,172M vs $3,915M",
+      "take": "Xcel Energy reported Q3 2026 GAAP diluted EPS of $1.52 versus $0.88, with net income of $960 million versus $524 million and total operating revenues of $4,172 million versus $3,915 million, up about 6.6%. Ongoing diluted EPS was $1.52 versus $1.24. GAAP earnings roughly matched ongoing earnings this quarter, so the year-over-year gap in reported EPS was larger than the gap on the ongoing measure.",
+      "source_name": "Xcel Energy Q3 2026 earnings release (SEC 8-K Ex. 99.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000072903/000007290326000178/xcelearningsreleaseq32026.htm",
+      "ticker": "NASDAQ:XEL",
+      "checked": "2026-10-29T10:44:51Z"
+    },
+    {
+      "id": "2026-10-29-xel-guide-capex",
+      "time": "2026-10-29T10:54:51Z",
+      "tag": "EQUITIES",
+      "headline": "Xcel narrows 2026 ongoing EPS guide to $4.10-$4.16; sets 2027 at $4.48-$4.62",
+      "take": "Xcel Energy narrowed 2026 ongoing EPS guidance to $4.10-$4.16 from $4.04-$4.16 and initiated 2027 ongoing EPS guidance of $4.48-$4.62. Its base capital plan for 2027 through 2031 totals $70,000 million, financed with $35,810 million of cash from operations, $26,190 million of new debt and $8,000 million of equity issuance. The financing mix shows that about 37% of the base plan ($26,190M of $70,000M) is slated to come from new debt.",
+      "source_name": "Xcel Energy Q3 2026 earnings release (SEC 8-K Ex. 99.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000072903/000007290326000178/xcelearningsreleaseq32026.htm",
+      "ticker": "NASDAQ:XEL",
+      "checked": "2026-10-29T10:44:51Z"
+    },
+    {
+      "id": "2026-10-29-shel-q3",
+      "time": "2026-10-29T11:01:51Z",
+      "tag": "ENERGY",
+      "headline": "Shell Q3 adjusted earnings $10.8B; CFFO $21.0B; $5B buyback for next 3 months",
+      "take": "Shell plc reported Q3 2026 adjusted earnings of $10.8 billion versus $9.8 billion in Q2 2026, income attributable to shareholders of $12.1 billion, and cash flow from operations of $21.0 billion versus $21.4 billion in Q2. It announced $5 billion of buybacks for the next three months. Net debt was $39.7 billion versus $41.8 billion in Q2 2026, so the balance sheet improved sequentially while shareholder distributions continued.",
+      "source_name": "Shell plc Q3 2026 press release",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3390956/0/en/shell-plc-publishes-third-quarter-2026-press-release.html",
+      "ticker": "NYSE:SHEL",
+      "checked": "2026-10-29T10:44:51Z"
+    },
+    {
+      "id": "2026-10-29-stm-q3",
+      "time": "2026-10-29T11:08:51Z",
+      "tag": "EARNINGS",
+      "headline": "STMicro Q3 revenue $3,757M vs $3,187M; GAAP EPS $0.31 vs $0.26; Q4 guide $4.15B",
+      "take": "STMicroelectronics reported Q3 2026 net revenues of $3,757 million versus $3,187 million, GAAP gross margin of 37.3% versus 33.2%, operating income of $367 million versus $180 million, and diluted EPS of $0.31 versus $0.26. At the midpoint, its outlook calls for Q4 net revenues of $4.15 billion and gross margin of about 39.0%. Margin expanded 410 basis points year over year, and the midpoint guide implies further sequential growth.",
+      "source_name": "STMicroelectronics Q3 2026 results (company release)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/en/stmicroelectronics-reports-q3-2026-financial-results.html",
+      "ticker": "NYSE:STM",
+      "checked": "2026-10-29T10:44:51Z"
+    },
+    {
+      "id": "2026-10-29-qsr-q3",
+      "time": "2026-10-29T11:15:51Z",
+      "tag": "EARNINGS",
+      "headline": "Restaurant Brands Q3 revenue $2,525M vs $2,449M; diluted EPS $1.54 vs $0.96",
+      "take": "Restaurant Brands International reported Q3 2026 total revenues of $2,525 million versus $2,449 million, net income from continuing operations of $704 million versus $440 million, and diluted EPS from continuing operations of $1.54 versus $0.96. Consolidated comparable sales were 3.8% versus 4.0%, system-wide sales were $12,972 million versus $12,282 million, and net restaurant growth was 3.0%. Profit rose much faster than revenue, which grew about 3.1%.",
+      "source_name": "Restaurant Brands International Q3 2026 results (company release)",
+      "source_url": "https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-reports-third-quarter-2026-results-302922527.html",
+      "ticker": "NYSE:QSR",
+      "checked": "2026-10-29T10:44:51Z"
+    },
+    {
+      "id": "2026-10-29-ares-q3",
+      "time": "2026-10-29T11:22:51Z",
+      "tag": "CREDIT",
+      "headline": "Ares Q3 AUM about $691B; fee related earnings $524.2M; dividend $1.35",
+      "take": "Ares Management reported GAAP net income attributable to Ares Management Corporation of $85.3 million ($0.21 per share) for Q3 2026, assets under management of approximately $691 billion at Sept. 30, fee related earnings of $524.2 million, and after-tax realized income of $449.6 million ($1.26 per Class A share). The common dividend is $1.35 per share, payable Dec. 31, 2026. GAAP earnings were far below realized income per share, which is the gap between its two reporting bases.",
+      "source_name": "Ares Management Q3 2026 results (company release)",
+      "source_url": "https://www.prnewswire.com/news-releases/ares-management-corporation-reports-third-quarter-2026-results-302922978.html",
+      "ticker": "NYSE:ARES",
+      "checked": "2026-10-29T10:44:51Z"
+    },
+    {
+      "id": "2026-10-29-kmpr-prelim-q3",
+      "time": "2026-10-29T11:29:51Z",
+      "tag": "CREDIT",
+      "headline": "Kemper preliminary Q3 net income about $52M, $0.88/share; combined ratio about 99.2%",
+      "take": "Kemper's preliminary Q3 2026 results show net income of about $52 million, or $0.88 per diluted share, and a Specialty Auto combined ratio of about 99.2% including about $23 million of favorable prior-year reserve development. The underlying combined ratio was about 101.7%. Full Q3 results are due Nov. 9 and the call is Nov. 10, so these figures are preliminary and could change.",
+      "source_name": "Kemper preliminary Q3 2026 results (SEC 8-K Ex. 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000860748/000086074826000091/kmpr2026q3ex991pre-release.htm",
+      "ticker": "NYSE:KMPR",
+      "checked": "2026-10-29T10:44:51Z"
+    },
     {
       "id": "2026-10-29-psn-q3",
       "tag": "EARNINGS",
@@ -5281,82 +5358,6 @@
       "ticker": "NYSE:LUV",
       "time": "2026-10-22T16:22:38Z",
       "checked": "2026-10-22T15:46:38Z"
-    },
-    {
-      "id": "2026-10-22-cmcsa-q3",
-      "tag": "EARNINGS",
-      "headline": "Comcast Q3 revenue $29.3B; diluted EPS $0.97 vs. $0.90, adjusted $1.07",
-      "take": "Comcast reported Q3 2026 revenue of $29,298M versus $31,198M a year earlier (up 0.5% pro forma), net income attributable to Comcast of $3,448M, diluted EPS of $0.97 versus $0.90 and adjusted EPS of $1.07 versus $1.12. Adjusted EBITDA was $9,106M versus $9,669M and free cash flow $4,211M versus $4,945M. GAAP earnings rose while adjusted EPS and cash flow fell, a gap that shows the reported and underlying pictures diverging this quarter.",
-      "source_name": "Comcast Q3 2026 earnings release (SEC Form 8-K, Exhibit 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001166691/000162828026066783/ex991-9302026.htm",
-      "ticker": "NASDAQ:CMCSA",
-      "time": "2026-10-22T14:54:52Z",
-      "checked": "2026-10-22T14:54:52Z"
-    },
-    {
-      "id": "2026-10-22-cmcsa-broadband-buyback",
-      "tag": "EQUITIES",
-      "headline": "Comcast loses 144,000 broadband customers in Q3; buyback suspended",
-      "take": "Comcast reported domestic broadband residential customers fell by 144,000 in Q3 2026 versus a loss of 91,000 a year earlier, while domestic wireless lines rose by 368,000 versus 414,000. It paid $1.2B in dividends and said it suspended its share repurchase program beginning in the third quarter, with the pause expected to continue through the proposed separation into two independent publicly traded companies. Capital return is shifting entirely to dividends while the separation is pending.",
-      "source_name": "Comcast Q3 2026 earnings release (SEC Form 8-K, Exhibit 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001166691/000162828026066783/ex991-9302026.htm",
-      "ticker": "NASDAQ:CMCSA",
-      "time": "2026-10-22T15:06:52Z",
-      "checked": "2026-10-22T14:54:52Z"
-    },
-    {
-      "id": "2026-10-22-bfh-q3",
-      "tag": "CREDIT",
-      "headline": "Bread Financial Q3 net revenue $1,017M; net loss rate 6.40% vs. 7.39%",
-      "take": "Bread Financial reported Q3 2026 total net revenue of $1,017M versus $971M, net income of $156M versus $188M and diluted EPS of $3.82 versus $3.96; the prior-year quarter included a $38M favorable discrete tax item. The net loss rate fell 99 basis points to 6.40%, and the quarterly common dividend rose 9% to $0.25 per share. A prior-year tax benefit larger than the $32M net income decline means the comparison is distorted by that item.",
-      "source_name": "Bread Financial Q3 2026 earnings release (SEC Form 8-K, Exhibit 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001101215/000110121526000087/exh9913q26bfhepr_final.htm",
-      "ticker": "NYSE:BFH",
-      "time": "2026-10-22T15:18:52Z",
-      "checked": "2026-10-22T14:54:52Z"
-    },
-    {
-      "id": "2026-10-22-syf-q3",
-      "tag": "CREDIT",
-      "headline": "Synchrony Q3 net earnings $892M, diluted EPS $2.68; net charge-offs 4.79%",
-      "take": "Synchrony reported Q3 2026 net earnings of $892M, down 17% from a year earlier, and diluted EPS of $2.68 versus $2.86. Purchase volume was $49.7B, up 8%, loan receivables were $103.3B, up 3%, and the net charge-off rate was 4.79% versus 5.16%. It returned $1.2B to shareholders, including $1.1B of repurchases and $110M of dividends. Improving charge-offs alongside lower earnings suggest credit losses were not what pulled earnings down this quarter.",
-      "source_name": "Synchrony Q3 2026 earnings release (SEC Form 8-K, reported Oct. 20)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001601712/000160171226000040/earningsrelease3q26.htm",
-      "ticker": "NYSE:SYF",
-      "time": "2026-10-22T15:30:52Z",
-      "checked": "2026-10-22T14:54:52Z"
-    },
-    {
-      "id": "2026-10-22-dol-claims-194k",
-      "tag": "MACRO",
-      "headline": "Initial jobless claims fall to 194,000; continuing claims rise to 1.728M",
-      "take": "The Labor Department reported seasonally adjusted initial claims of 194,000 for the week ended Oct. 17, down 6,000 from a revised 200,000, with the four-week average at 197,750. Insured unemployment rose 25,000 to 1,728,000 for the week ended Oct. 10, and the insured unemployment rate held at 1.1%. Low layoffs paired with a slowly rising continuing-claims count describes a labor market where firing is rare but re-hiring is slow.",
-      "source_name": "U.S. Department of Labor, Unemployment Insurance Weekly Claims",
-      "source_url": "https://www.dol.gov/ui/data.pdf",
-      "time": "2026-10-22T14:11:31Z",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-22-unp-q3",
-      "tag": "EARNINGS",
-      "headline": "Union Pacific Q3 diluted EPS $3.49, up 16%; operating ratio 59.1%",
-      "take": "Union Pacific reported Q3 2026 diluted EPS of $3.49, up 16%, and adjusted diluted EPS of $3.53, up 15%. The operating ratio was 59.1% (58.8% adjusted) and revenue carloads rose 6%. An operating ratio near 59% on higher volume suggests the railroad is converting added carloads into earnings rather than absorbing them as cost.",
-      "source_name": "Union Pacific Q3 2026 earnings release (investor relations)",
-      "source_url": "https://investor.unionpacific.com/news",
-      "ticker": "NYSE:UNP",
-      "time": "2026-10-22T14:18:31Z",
-      "checked": "2026-10-22T14:09:31Z"
-    },
-    {
-      "id": "2026-10-22-dov-q3",
-      "tag": "EARNINGS",
-      "headline": "Dover Q3 revenue $2.23B, up 8%; adjusted EPS $2.88 vs. $2.62",
-      "take": "Dover reported Q3 2026 revenue of $2.23B, up 8% from $2.08B a year earlier (7% organic), with GAAP diluted EPS from continuing operations of $2.50 versus $2.20 and adjusted EPS of $2.88 versus $2.62. Its 2026 adjusted EPS guidance is $10.60-$10.75 on revenue growth of 7% to 8%. Organic growth just one point below reported growth means the quarter's sales gain came mostly from the base business rather than acquisitions or currency.",
-      "source_name": "Dover Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/dover-reports-third-quarter-2026-results-302916126.html",
-      "ticker": "NYSE:DOV",
-      "time": "2026-10-22T14:25:31Z",
-      "checked": "2026-10-22T14:09:31Z"
     }
   ]
 }
