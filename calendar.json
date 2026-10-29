@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-28T12:57:55Z",
+  "updated": "2026-10-29T12:52:16Z",
   "note": "Times are ET. Blank time means the agency schedule lists no time.",
   "items": [
-    {
-      "date": "2026-10-21",
-      "time": "10:00",
-      "name": "Usual Weekly Earnings (Q3)",
-      "agency": "BLS",
-      "category": "Labor",
-      "importance": 1,
-      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-      "id": "2026-10-21-usualweeklyearningsq3"
-    },
     {
       "date": "2026-10-27",
       "time": "08:30",

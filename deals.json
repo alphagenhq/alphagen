@@ -1,6 +1,45 @@
 {
-  "updated": "2026-10-28T20:52:58Z",
+  "updated": "2026-10-29T12:52:16Z",
   "items": [
+    {
+      "id": "2026-10-29-fmbh-evergreen",
+      "time": "2026-10-29T13:37:16Z",
+      "type": "M&A",
+      "headline": "First Mid Bancshares to acquire Evergreen Bancshares, parent of American Bank of Freedom",
+      "parties": "Acquirer: First Mid Bancshares, Inc.; Target: Evergreen Bancshares, Inc.",
+      "value": 0.0707,
+      "value_text": "About $70.7 million",
+      "status": "Announced",
+      "announced": "2026-10-29",
+      "sector": "Financials",
+      "take": "First Mid agreed to acquire Evergreen for about $70.7 million based on its Oct. 27 closing price, paid as 0.4081 First Mid shares plus $5.20 in cash per Evergreen share. Evergreen had about $932 million in total assets as of Sept. 30, 2026, and closing is expected in the first quarter of 2027.",
+      "source_name": "First Mid Bancshares release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391084/0/en/first-mid-bancshares-inc-announces-acquisition-of-evergreen-bancshares-inc.html",
+      "tickers": [
+        "NASDAQ:FMBH"
+      ],
+      "checked": "2026-10-29T12:52:16Z"
+    },
+    {
+      "id": "2026-10-27-ens-ulbi",
+      "time": "2026-10-29T13:42:16Z",
+      "type": "M&A",
+      "headline": "EnerSys to acquire Ultralife in $320M all-cash transaction at $16.00 per share",
+      "parties": "Acquirer: EnerSys; Target: Ultralife Corporation",
+      "value": 0.32,
+      "value_text": "About $320 million including net debt",
+      "status": "Announced",
+      "announced": "2026-10-27",
+      "sector": "Industrials",
+      "take": "EnerSys agreed to acquire Ultralife for $16.00 per share in cash through a tender offer, a total of about $320 million including the assumption of net debt. Closing is expected in the first quarter of calendar 2027, subject to a majority tender and regulatory approvals, with no financing contingency.",
+      "source_name": "EnerSys release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389645/18622/en/enersys-to-acquire-ultralife-corporation-in-a-320-million-all-cash-transaction.html",
+      "tickers": [
+        "NYSE:ENS",
+        "NASDAQ:ULBI"
+      ],
+      "checked": "2026-10-29T12:52:16Z"
+    },
     {
       "id": "2026-10-28-epac-sfe",
       "time": "2026-10-28T20:56:58Z",
