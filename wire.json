@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-29T00:49:47Z",
+  "updated": "2026-10-29T01:51:02Z",
   "items": [
+    {
+      "id": "2026-10-29-msft-q1fy27",
+      "time": "2026-10-29T01:59:02Z",
+      "tag": "EARNINGS",
+      "headline": "Microsoft Q1 FY27 revenue $92,279M vs $77,673M; GAAP diluted EPS $4.92 vs $3.72",
+      "take": "Microsoft reported revenue of $92,279 million for the quarter ended September 30, 2026 versus $77,673 million a year earlier, with operating income of $45,915 million versus $37,961 million. GAAP net income was $36,629 million versus $27,747 million and GAAP diluted EPS was $4.92 versus $3.72. Non-GAAP net income and EPS exclude the impact of OpenAI investments, so the GAAP and non-GAAP growth rates (32% and 18%) differ materially.",
+      "source_name": "Microsoft Q1 FY2027 earnings release (SEC EDGAR 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436122/msft-ex99_1.htm",
+      "ticker": "NASDAQ:MSFT",
+      "checked": "2026-10-29T01:51:02Z"
+    },
+    {
+      "id": "2026-10-29-msft-cloud-segments",
+      "time": "2026-10-29T02:08:02Z",
+      "tag": "EQUITIES",
+      "headline": "Microsoft Cloud revenue $63.9B, up 30%; Agents and Infra $76.8B, Devices and Consumer $15.5B",
+      "take": "Microsoft said Microsoft Cloud revenue was $63.9 billion, up 30% (31% in constant currency). Under its recast segments, Agents and Infra revenue was $76,795 million versus $61,672 million (up 25%), while Devices and Consumer was $15,484 million versus $16,001 million (down 3%). The release shows nearly all of the company's growth came from the cloud and infrastructure segment.",
+      "source_name": "Microsoft Q1 FY2027 earnings release (SEC EDGAR 8-K Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436122/msft-ex99_1.htm",
+      "ticker": "NASDAQ:MSFT",
+      "checked": "2026-10-29T01:51:02Z"
+    },
+    {
+      "id": "2026-10-29-mg-go-shop-expired",
+      "time": "2026-10-29T02:17:02Z",
+      "tag": "DEALS",
+      "headline": "MISTRAS go-shop ends with no rival bids; H.I.G. $20.35/share deal vote set Nov. 24",
+      "take": "MISTRAS said its 40-day go-shop expired on October 28 with no alternative acquisition proposals received; its adviser Baird contacted or was contacted by 122 third parties, and 40 signed confidentiality agreements. The all-cash H.I.G. Capital deal is at $20.35 per share, about $866 million enterprise value including debt, with a virtual special stockholder meeting on November 24, 2026. No-shop provisions now apply, subject to a fiduciary out, and closing is expected in late 2026 or early 2027.",
+      "source_name": "MISTRAS Group release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390799/12235/en/mistras-group-inc-announces-expiration-of-go-shop-period.html",
+      "ticker": "NYSE:MG",
+      "checked": "2026-10-29T01:51:02Z"
+    },
+    {
+      "id": "2026-10-29-myrg-q3",
+      "time": "2026-10-29T02:26:02Z",
+      "tag": "EARNINGS",
+      "headline": "MYR Group Q3 revenue $1,259.0M vs $950.4M; diluted EPS $3.82 vs $2.05; backlog $3.68B",
+      "take": "MYR Group reported Q3 2026 revenue of $1,259.0 million versus $950.4 million a year earlier, net income of $60.0 million versus $32.1 million, and diluted EPS of $3.82 versus $2.05. Backlog was $3.68 billion at September 30, 2026, up $1.02 billion (38.2%) from a year earlier, split $2.39 billion commercial and industrial and $1.29 billion transmission and distribution. The board also approved a repurchase program of up to $100.0 million effective November 4, 2026.",
+      "source_name": "MYR Group Q3 2026 release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390752/10748/en/myr-group-inc-announces-third-quarter-and-first-nine-months-2026-results-board-approves-new-100-million-share-repurchase-program.html",
+      "ticker": "NASDAQ:MYRG",
+      "checked": "2026-10-29T01:51:02Z"
+    },
+    {
+      "id": "2026-10-29-hdsn-q3",
+      "time": "2026-10-29T02:35:02Z",
+      "tag": "EARNINGS",
+      "headline": "Hudson Technologies Q3 revenue $59.4M vs $74.0M; diluted EPS $0.05 vs $0.27",
+      "take": "Hudson Technologies reported Q3 2026 revenue of $59.4 million versus $74.0 million a year earlier, net income of $2.0 million versus $12.4 million, and diluted EPS of $0.05 versus $0.27. The company expects full-year 2026 gross margin in the low-to-mid-twenty percent range, consistent with its prior target, and gave no revenue or EPS guidance.",
+      "source_name": "Hudson Technologies Q3 2026 release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390744/0/en/hudson-technologies-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:HDSN",
+      "checked": "2026-10-29T01:51:02Z"
+    },
     {
       "id": "2026-10-29-now-q3",
       "time": "2026-10-29T00:49:47Z",
@@ -5304,61 +5359,6 @@
       "ticker": "NASDAQ:HON",
       "time": "2026-10-22T13:00:51Z",
       "checked": "2026-10-22T12:49:51Z"
-    },
-    {
-      "id": "2026-10-22-nsc-q3",
-      "tag": "EARNINGS",
-      "headline": "Norfolk Southern Q3 diluted EPS $3.37 vs. $3.16; operating ratio 67.4%",
-      "take": "Norfolk Southern reported Q3 2026 diluted EPS of $3.37 versus $3.16 and adjusted diluted EPS of $3.62 versus $3.30. The operating ratio was 67.4% versus 64.6%, and the adjusted operating ratio 65.4% versus 63.3%; the company's 2026 adjustments exclude merger-related expenses and the Eastern Ohio incident. EPS rose while the operating ratio worsened, so earnings growth came from higher revenue rather than better cost efficiency.",
-      "source_name": "Norfolk Southern Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/norfolk-southern-reports-third-quarter-2026-results-302916354.html",
-      "ticker": "NYSE:NSC",
-      "time": "2026-10-22T13:09:51Z",
-      "checked": "2026-10-22T12:49:51Z"
-    },
-    {
-      "id": "2026-10-22-rop-q3",
-      "tag": "EARNINGS",
-      "headline": "Roper Q3 revenue $2,171.8M vs. $2,017.5M; adjusted EPS $5.89 vs. $5.14",
-      "take": "Roper Technologies reported Q3 2026 net revenues of $2,171.8M versus $2,017.5M (up 7.6%) and GAAP diluted EPS of $4.88 versus $3.68. Adjusted diluted EPS was $5.89 versus $5.14, and the company now expects 2026 adjusted EPS of $22.35-$22.40 versus prior guidance of $22.15-$22.30. Adjusted earnings grew faster than revenue, and the raised range lifts the guidance midpoint by $0.15.",
-      "source_name": "Roper Technologies Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386158/0/en/roper-technologies-announces-third-quarter-financial-results.html",
-      "ticker": "NASDAQ:ROP",
-      "time": "2026-10-22T13:18:51Z",
-      "checked": "2026-10-22T12:49:51Z"
-    },
-    {
-      "id": "2026-10-22-fsv-q3",
-      "tag": "EARNINGS",
-      "headline": "FirstService Q3 revenues $1,531.7M vs. $1,447.6M; adjusted EPS $1.89 vs. $1.76",
-      "take": "FirstService reported Q3 2026 revenues of $1,531.7M versus $1,447.6M and adjusted EBITDA of $169.7M versus $164.8M. Adjusted EPS was $1.89 versus $1.76, while GAAP diluted EPS was $0.99 versus $1.24. The release gives no new numeric guidance and reiterates confidence in previously communicated full-year targets.",
-      "source_name": "FirstService Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386218/36351/en/firstservice-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:FSV",
-      "time": "2026-10-22T13:27:51Z",
-      "checked": "2026-10-22T12:49:51Z"
-    },
-    {
-      "id": "2026-10-22-vita-coco-guidance",
-      "tag": "EQUITIES",
-      "headline": "Vita Coco raises 2026 net sales guide to $810M-$820M; Q3 sales $244M",
-      "take": "Vita Coco reported Q3 2026 net sales of $243.8M versus $182.3M a year earlier (up 34%) and diluted EPS of $0.58 versus $0.40. It raised 2026 net sales guidance to $810M-$820M from $790M-$805M and adjusted EBITDA guidance to $170M-$175M from $154M-$161M. The raised adjusted EBITDA range is about $16M higher at the midpoint, a larger proportional lift than the sales range.",
-      "source_name": "The Vita Coco Company Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386198/0/en/the-vita-coco-company-reports-third-quarter-2026-financial-results-and-raises-full-year-guidance.html",
-      "ticker": "NASDAQ:COCO",
-      "time": "2026-10-22T13:36:51Z",
-      "checked": "2026-10-22T12:49:51Z"
-    },
-    {
-      "id": "2026-10-22-lmt-q3",
-      "tag": "EARNINGS",
-      "headline": "Lockheed Martin Q3 sales rise to $20.7B; diluted EPS $7.97 vs. $6.95",
-      "take": "Lockheed Martin reported Q3 2026 sales of $20,711M versus $18,609M a year earlier (11.3% higher) and net earnings of $1,845M versus $1,619M. Diluted EPS was $7.97 versus $6.95, and backlog stood at $291,984M at Sept. 27. Backlog equals about 3.6x the $81B midpoint of the company's 2026 sales outlook, a multi-year order book at the current sales pace.",
-      "source_name": "Lockheed Martin Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-third-quarter-2026-financial-results-302916797.html",
-      "ticker": "NYSE:LMT",
-      "time": "2026-10-22T11:54:24Z",
-      "checked": "2026-10-22T11:52:24Z"
     }
   ]
 }
