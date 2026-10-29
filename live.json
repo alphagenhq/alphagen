@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-29T13:32:17Z",
+ "updated": "2026-10-29T20:31:26Z",
  "items": [
+  {
+   "id": "live-0001628280-26-068263-2.02",
+   "time": "2026-10-29T20:19:19Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Arthur J. Gallagher releases financial results",
+   "take": "Arthur J. Gallagher filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:19 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AJG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026068263/0001628280-26-068263-index.htm",
+   "ticker": "NYSE:AJG"
+  },
+  {
+   "id": "live-0001104659-26-120212-2.02",
+   "time": "2026-10-29T20:17:20Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Digital Realty Trust releases financial results",
+   "take": "Digital Realty Trust filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:17 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, DLR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926120212/0001104659-26-120212-index.htm",
+   "ticker": "NYSE:DLR"
+  },
+  {
+   "id": "live-0001104659-26-120211-1.01",
+   "time": "2026-10-29T20:15:43Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "United Rentals discloses a material agreement",
+   "take": "United Rentals reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:15 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, URI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1067701/000110465926120211/0001104659-26-120211-index.htm",
+   "ticker": "NYSE:URI"
+  },
+  {
+   "id": "live-0001193125-26-437814-5.02",
+   "time": "2026-10-29T20:15:10Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Church & Dwight CO reports an executive or board change",
+   "take": "Church & Dwight CO reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:15 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CHD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526437814/0001193125-26-437814-index.htm",
+   "ticker": "NYSE:CHD"
+  },
+  {
+   "id": "live-0000310764-26-000059-2.02",
+   "time": "2026-10-29T20:11:16Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Stryker releases financial results",
+   "take": "Stryker filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:11 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, SYK Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310764/000031076426000059/0000310764-26-000059-index.htm",
+   "ticker": "NYSE:SYK"
+  },
+  {
+   "id": "live-0001628280-26-068235-2.02",
+   "time": "2026-10-29T20:10:59Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Roblox releases financial results",
+   "take": "Roblox filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:10 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, RBLX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1315098/000162828026068235/0001628280-26-068235-index.htm",
+   "ticker": "NYSE:RBLX"
+  },
+  {
+   "id": "live-0001060391-26-000326-2.02",
+   "time": "2026-10-29T20:10:27Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Republic Services releases financial results",
+   "take": "Republic Services filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:10 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, RSG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000326/0001060391-26-000326-index.htm",
+   "ticker": "NYSE:RSG"
+  },
+  {
+   "id": "live-0001628280-26-068233-2.02",
+   "time": "2026-10-29T20:09:58Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Mondelez International releases financial results",
+   "take": "Mondelez International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:09 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MDLZ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026068233/0001628280-26-068233-index.htm",
+   "ticker": "NASDAQ:MDLZ"
+  },
+  {
+   "id": "live-0001679788-26-000121-2.02",
+   "time": "2026-10-29T20:09:03Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Coinbase Global releases financial results",
+   "take": "Coinbase Global filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:09 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, COIN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000121/0001679788-26-000121-index.htm",
+   "ticker": "NASDAQ:COIN"
+  },
+  {
+   "id": "live-0000050863-26-000188-2.02",
+   "time": "2026-10-29T20:08:53Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Intel releases financial results",
+   "take": "Intel filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:08 PM ET, Oct 29. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, INTC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000188/0000050863-26-000188-index.htm",
+   "ticker": "NASDAQ:INTC"
+  },
   {
    "id": "live-0001628280-26-068046-2.02",
    "time": "2026-10-29T12:27:18Z",
