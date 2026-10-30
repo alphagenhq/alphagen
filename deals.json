@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-29T12:52:16Z",
+  "updated": "2026-10-30T22:44:22Z",
   "items": [
+    {
+      "id": "2026-10-30-pebo-citizens",
+      "time": "2026-10-30T22:44:22Z",
+      "type": "M&A",
+      "headline": "Peoples Bancorp completes acquisition of Citizens National Corporation",
+      "parties": "Acquirer: Peoples Bancorp Inc.; Target: Citizens National Corporation",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Completed",
+      "announced": "2026-04-21",
+      "sector": "Financials",
+      "take": "Peoples said the acquisition became effective at the close of business on October 30, 2026, with Citizens shareholders receiving 2.10 Peoples shares plus $8.00 in cash per share. Citizens had approximately $646 million in total assets at September 30, 2026.",
+      "source_name": "Peoples Bancorp release (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000318300/000031830026000244/pressreleaseannouncementof.htm",
+      "tickers": [
+        "NASDAQ:PEBO"
+      ],
+      "checked": "2026-10-30T22:44:22Z"
+    },
     {
       "id": "2026-10-29-fmbh-evergreen",
       "time": "2026-10-29T13:37:16Z",

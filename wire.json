@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-30T17:46:26Z",
+  "updated": "2026-10-30T22:44:22Z",
   "items": [
+    {
+      "id": "2026-10-30-pebo-citizens-complete",
+      "time": "2026-10-30T22:44:22Z",
+      "tag": "DEALS",
+      "headline": "Peoples Bancorp completes acquisition of Citizens National Corporation",
+      "take": "Peoples Bancorp said the acquisition of Citizens National Corporation, parent of Citizens Bank of Kentucky, became effective at the close of business on October 30, 2026. Citizens shareholders received 2.10 Peoples shares plus $8.00 in cash per Citizens share, and Citizens had approximately $646 million in total assets at September 30, 2026. The release does not state a deal value; Peoples said it will convert the Citizens branches after the close of business on April 19, 2027.",
+      "source_name": "Peoples Bancorp release (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000318300/000031830026000244/pressreleaseannouncementof.htm",
+      "ticker": "NASDAQ:PEBO",
+      "checked": "2026-10-30T22:44:22Z"
+    },
+    {
+      "id": "2026-10-30-kvue-q3",
+      "time": "2026-10-30T22:54:22Z",
+      "tag": "EARNINGS",
+      "headline": "Kenvue Q3 net sales $3,886M vs $3,764M; diluted EPS $0.22 vs $0.21",
+      "take": "Kenvue reported fiscal Q3 2026 net sales of $3,886 million versus $3,764 million a year earlier, up 3.2%, with organic sales growth of 2.9%. Diluted EPS was $0.22 versus $0.21, and adjusted diluted EPS was $0.29 versus $0.28. Pending-transaction costs tied to the Kimberly-Clark deal were $28 million in the quarter.",
+      "source_name": "Kenvue Q3 2026 results release (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000167/q326earningspressrelease.htm",
+      "ticker": "NYSE:KVUE",
+      "checked": "2026-10-30T22:44:22Z"
+    },
+    {
+      "id": "2026-10-30-kvue-no-guidance",
+      "time": "2026-10-30T23:04:22Z",
+      "tag": "DEALS",
+      "headline": "Kenvue withholds guidance, cites pending Kimberly-Clark transaction",
+      "take": "Kenvue said that due to the pending transaction with Kimberly-Clark it will not provide forward-looking guidance and will not host a quarterly conference call. The company expects pre-tax restructuring expenses and other charges of approximately $250 million in fiscal 2026. Pending-transaction and related costs were $60 million for the nine months.",
+      "source_name": "Kenvue Q3 2026 results release (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000167/q326earningspressrelease.htm",
+      "ticker": "NYSE:KVUE",
+      "checked": "2026-10-30T22:44:22Z"
+    },
+    {
+      "id": "2026-10-29-emn-q3",
+      "time": "2026-10-30T23:14:22Z",
+      "tag": "EARNINGS",
+      "headline": "Eastman Chemical Q3 sales $2,385M vs $2,202M; diluted EPS $2.19 vs $0.60",
+      "take": "Eastman reported Q3 2026 sales revenue of $2,385 million versus $2,202 million in Q3 2025, up 8.3%. GAAP diluted EPS was $2.19 versus $0.60, and adjusted EPS was $1.84 versus $1.14. The release revised the Q3 2025 income tax provision to correct an item, so the prior-year EPS comparison reflects that change.",
+      "source_name": "Eastman Q3 2026 results release (SEC 8-K exhibit 99.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000915389/000091538926000167/ex99_0120260930cctables.htm",
+      "ticker": "NYSE:EMN",
+      "checked": "2026-10-30T22:44:22Z"
+    },
+    {
+      "id": "2026-10-29-emn-outlook",
+      "time": "2026-10-30T23:24:22Z",
+      "tag": "EQUITIES",
+      "headline": "Eastman projects 2026 adjusted EPS of $6.00-$6.20, cash flow about $850M",
+      "take": "Eastman said it projects full-year 2026 adjusted earnings per share between $6.00 and $6.20 and operating cash flow of approximately $850 million. The company said it expects sequential demand declines with normal seasonality and higher planned shutdown costs in Q4. It said it is on track for $125 million to $150 million of 2026 cost savings net of inflation.",
+      "source_name": "Eastman Q3 2026 results release (SEC 8-K exhibit 99.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000915389/000091538926000167/ex99_0120260930cctables.htm",
+      "ticker": "NYSE:EMN",
+      "checked": "2026-10-30T22:44:22Z"
+    },
     {
       "id": "2026-10-30-lyb-q3",
       "time": "2026-10-30T17:51:26Z",
@@ -5300,61 +5355,6 @@
       "source_name": "First Citizens Q3 2026 earnings release",
       "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-reports-third-quarter-2026-earnings-announces-additional-share-repurchase-plan-302917517.html",
       "ticker": "NASDAQ:FCNCA",
-      "checked": "2026-10-23T11:47:05Z"
-    },
-    {
-      "id": "2026-10-23-fcnca-buyback-capital",
-      "time": "2026-10-23T11:57:05Z",
-      "tag": "EQUITIES",
-      "headline": "First Citizens adds buyback of up to $1.2B through 2027; CET1 10.24%",
-      "take": "First Citizens authorized repurchases of up to $1.2 billion of its Class A common shares through 2027. At Sept. 30 its estimated CET1 ratio was 10.24%, and Q3 net charge-offs were $103 million, or 0.27% of average loans. Net interest income was $1.70 billion, up $43 million from the second quarter, so the repurchase plan sits alongside capital that the company reports above 10%.",
-      "source_name": "First Citizens Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-reports-third-quarter-2026-earnings-announces-additional-share-repurchase-plan-302917517.html",
-      "ticker": "NASDAQ:FCNCA",
-      "checked": "2026-10-23T11:47:05Z"
-    },
-    {
-      "id": "2026-10-23-rci-q3",
-      "time": "2026-10-23T12:07:05Z",
-      "tag": "EARNINGS",
-      "headline": "Rogers Q3 revenue C$5,443M vs. C$5,348M; diluted EPS C$0.88 vs. C$10.54",
-      "take": "Rogers Communications reported Q3 2026 revenue of C$5,443 million versus C$5,348 million, adjusted EBITDA of C$2,535 million versus C$2,515 million, and diluted EPS of C$0.88 versus C$10.54. Adjusted diluted EPS was C$1.29 versus C$1.37, and the prior-year quarter included a non-cash gain from the MLSE revaluation. The company reaffirmed its 2026 outlook and declared a C$0.50 per share dividend on Oct. 22, so the headline EPS drop reflects the year-ago gain rather than operations.",
-      "source_name": "Rogers Q3 2026 results release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
-      "ticker": "NYSE:RCI",
-      "checked": "2026-10-23T11:47:05Z"
-    },
-    {
-      "id": "2026-10-23-bcpc-q3",
-      "time": "2026-10-23T12:17:05Z",
-      "tag": "EARNINGS",
-      "headline": "Balchem Q3 net sales $290.7M, up 8.6%; diluted EPS $1.46 vs. $1.24",
-      "take": "Balchem reported Q3 2026 net sales of $290.7 million versus $267.6 million, an increase of 8.6%, and GAAP net earnings of $46.7 million versus $40.3 million, up 16.0%. GAAP diluted EPS was $1.46 versus $1.24, and adjusted EPS was $1.57 versus $1.35. Earnings grew faster than sales, which points to improved profitability on the revenue base.",
-      "source_name": "Balchem Q3 2026 results release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387159/8153/en/balchem-corporation-reports-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:BCPC",
-      "checked": "2026-10-23T11:47:05Z"
-    },
-    {
-      "id": "2026-10-23-flg-q3",
-      "time": "2026-10-23T12:27:05Z",
-      "tag": "CREDIT",
-      "headline": "Flagstar Q3 provision $76M vs. $18M in Q2; CET1 12.38%",
-      "take": "Flagstar Bank reported Q3 2026 net income attributable to common stockholders of $3 million, or $0.01 per diluted share, versus $26 million, or $0.06, in Q2 and a $45 million loss, or $0.11 per share, in Q3 2025. The provision for credit losses was $76 million versus $18 million in Q2, and net interest income was $460 million, up 8% from Q3 2025. CET1 fell to 12.38% from 13.16% at June 30, so credit costs and capital are the figures to watch.",
-      "source_name": "Flagstar Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/flagstar-bank-reports-third-quarter-2026-net-income-attributable-to-common-stockholders-of-0-01-per-diluted-share-302917577.html",
-      "ticker": "NYSE:FLG",
-      "checked": "2026-10-23T11:47:05Z"
-    },
-    {
-      "id": "2026-10-23-knsl-q3",
-      "time": "2026-10-23T12:37:05Z",
-      "tag": "EARNINGS",
-      "headline": "Kinsale Q3 diluted EPS $4.36 vs. $6.09; gross written premiums $462.9M",
-      "take": "Kinsale Capital reported Q3 2026 net income of $98.1 million, or $4.36 per diluted share, versus $141.6 million and $6.09 a year earlier. Gross written premiums were $462.9 million, down 4.8% from $486.3 million, and the combined ratio was 75.4% versus 74.9%. Diluted operating EPS was $5.70 versus $5.21, so operating earnings rose even as GAAP net income fell.",
-      "source_name": "Kinsale Q3 2026 results release",
-      "source_url": "https://www.businesswire.com/news/home/20261022223747/en/Kinsale-Capital-Group-Reports-Third-Quarter-2026-Results",
-      "ticker": "NASDAQ:KNSL",
       "checked": "2026-10-23T11:47:05Z"
     }
   ]

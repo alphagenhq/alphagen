@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-30T17:46:26Z",
+  "updated": "2026-10-30T22:44:22Z",
   "items": [
+    {
+      "id": "2026-10-30-KVUE-Q3",
+      "time": "2026-10-30T22:54:22Z",
+      "ticker": "NYSE:KVUE",
+      "name": "Kenvue",
+      "period": "Q3 2026",
+      "report_date": "2026-10-30",
+      "revenue": 3.886,
+      "revenue_yoy": 3.2,
+      "eps_yoy": 4.8,
+      "eps": 0.22,
+      "take": "Kenvue reported Q3 2026 net sales of $3,886 million versus $3,764 million and diluted EPS of $0.22 versus $0.21.",
+      "source_name": "Kenvue Q3 2026 results release (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001944048/000194404826000167/q326earningspressrelease.htm",
+      "checked": "2026-10-30T22:44:22Z"
+    },
+    {
+      "id": "2026-10-29-EMN-Q3",
+      "time": "2026-10-30T23:14:22Z",
+      "ticker": "NYSE:EMN",
+      "name": "Eastman Chemical",
+      "period": "Q3 2026",
+      "report_date": "2026-10-29",
+      "revenue": 2.385,
+      "revenue_yoy": 8.3,
+      "eps_yoy": 265.0,
+      "eps": 2.19,
+      "take": "Eastman reported Q3 2026 sales revenue of $2,385 million versus $2,202 million and diluted EPS of $2.19 versus $0.60, with Q3 2025 tax provision revised in the release.",
+      "source_name": "Eastman Q3 2026 results release (SEC 8-K exhibit 99.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000915389/000091538926000167/ex99_0120260930cctables.htm",
+      "checked": "2026-10-30T22:44:22Z"
+    },
     {
       "id": "2026-10-30-LYB-Q3",
       "time": "2026-10-30T17:51:26Z",
