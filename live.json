@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T11:48:12Z",
+ "updated": "2026-10-30T12:25:20Z",
  "items": [
+  {
+   "id": "live-0000040533-26-000036-2.02",
+   "time": "2026-10-30T12:09:27Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "General Dynamics releases financial results",
+   "take": "General Dynamics filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:09 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, GD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053326000036/0000040533-26-000036-index.htm",
+   "ticker": "NYSE:GD"
+  },
+  {
+   "id": "live-0000021665-26-000047-2.02",
+   "time": "2026-10-30T11:56:34Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Colgate Palmolive releases financial results",
+   "take": "Colgate Palmolive filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:56 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000047/0000021665-26-000047-index.htm",
+   "ticker": "NYSE:CL"
+  },
+  {
+   "id": "live-0001551152-26-000033-2.02",
+   "time": "2026-10-30T11:51:51Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Abbvie releases financial results",
+   "take": "Abbvie filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:51 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ABBV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000033/0001551152-26-000033-index.htm",
+   "ticker": "NYSE:ABBV"
+  },
   {
    "id": "live-0001193125-26-439883-2.02",
    "time": "2026-10-30T11:31:09Z",
