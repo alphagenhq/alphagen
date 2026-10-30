@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T11:06:40Z",
+ "updated": "2026-10-30T11:48:12Z",
  "items": [
+  {
+   "id": "live-0001193125-26-439883-2.02",
+   "time": "2026-10-30T11:31:09Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Dominion Energy releases financial results",
+   "take": "Dominion Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:31 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, D Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526439883/0001193125-26-439883-index.htm",
+   "ticker": "NYSE:D"
+  },
   {
    "id": "live-0001193125-26-439864-2.02",
    "time": "2026-10-30T11:04:05Z",
