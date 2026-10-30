@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T12:25:20Z",
+ "updated": "2026-10-30T20:42:47Z",
  "items": [
+  {
+   "id": "live-0001193125-26-441763-1.01",
+   "time": "2026-10-30T20:32:58Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Public Storage discloses a material agreement",
+   "take": "Public Storage reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:32 PM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526441763/0001193125-26-441763-index.htm",
+   "ticker": "NYSE:PSA"
+  },
+  {
+   "id": "live-0001104659-26-120680-1.01",
+   "time": "2026-10-30T20:16:23Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Norwegian Cruise Line Holdings discloses a material agreement",
+   "take": "Norwegian Cruise Line Holdings reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:16 PM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, NCLH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926120680/0001104659-26-120680-index.htm",
+   "ticker": "NYSE:NCLH"
+  },
+  {
+   "id": "live-0000097745-26-000181-5.02",
+   "time": "2026-10-30T20:16:11Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Thermo Fisher Scientific reports an executive or board change",
+   "take": "Thermo Fisher Scientific reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:16 PM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, TMO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000181/0000097745-26-000181-index.htm",
+   "ticker": "NYSE:TMO"
+  },
   {
    "id": "live-0000040533-26-000036-2.02",
    "time": "2026-10-30T12:09:27Z",
