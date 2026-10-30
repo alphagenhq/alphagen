@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T15:46:05Z",
+  "updated": "2026-10-30T17:46:26Z",
   "items": [
+    {
+      "id": "2026-10-30-LYB-Q3",
+      "time": "2026-10-30T17:51:26Z",
+      "ticker": "NYSE:LYB",
+      "name": "LyondellBasell Industries",
+      "period": "Q3 2026",
+      "report_date": "2026-10-30",
+      "revenue": 8.499,
+      "revenue_yoy": 10.0,
+      "eps_yoy": null,
+      "eps": 2.32,
+      "take": "LyondellBasell reported Q3 2026 sales of $8,499 million versus $7,727 million and diluted EPS of $2.32 versus a loss of $2.77.",
+      "source_name": "LyondellBasell Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/30/3392122/0/en/lyondellbasell-reports-third-quarter-2026-earnings.html",
+      "checked": "2026-10-30T17:46:26Z"
+    },
     {
       "id": "2026-10-30-MGA-Q3",
       "time": "2026-10-30T15:48:05Z",

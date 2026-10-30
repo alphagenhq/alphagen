@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-30T15:46:05Z",
+  "updated": "2026-10-30T17:46:26Z",
   "items": [
+    {
+      "id": "2026-10-30-lyb-q3",
+      "time": "2026-10-30T17:51:26Z",
+      "tag": "EARNINGS",
+      "headline": "LyondellBasell Q3 sales $8,499M vs $7,727M; diluted EPS $2.32 vs $(2.77)",
+      "take": "LyondellBasell reported Q3 2026 sales and other operating revenues of $8,499 million versus $7,727 million a year earlier, up 10.0%, and net income of $758 million versus a net loss of $890 million. Diluted EPS was $2.32 versus a loss of $2.77 per share. Capital spending was $303 million and dividends totaled $224 million in the quarter, so the swing to profit came alongside continued shareholder payouts.",
+      "source_name": "LyondellBasell Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/30/3392122/0/en/lyondellbasell-reports-third-quarter-2026-earnings.html",
+      "ticker": "NYSE:LYB",
+      "checked": "2026-10-30T17:46:26Z"
+    },
+    {
+      "id": "2026-10-30-lyb-q4-rates",
+      "time": "2026-10-30T18:11:26Z",
+      "tag": "COMMODITIES",
+      "headline": "LyondellBasell sees Q4 operating rates of 85% N.A. O&P, 60% Europe O&P, 75% I&D",
+      "take": "LyondellBasell said it expects fourth-quarter operating rates of 85% for North American O&P assets, 60% for European O&P assets and 75% for I&D assets, aligned with global demand and planned maintenance. The company expects normal seasonal demand patterns along with ongoing supply uncertainty. The gap between North American and European rates shows the regional split in its planned output.",
+      "source_name": "LyondellBasell Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/30/3392122/0/en/lyondellbasell-reports-third-quarter-2026-earnings.html",
+      "ticker": "NYSE:LYB",
+      "checked": "2026-10-30T17:46:26Z"
+    },
     {
       "id": "2026-10-30-mga-q3",
       "time": "2026-10-30T15:48:05Z",
@@ -5334,28 +5356,6 @@
       "source_url": "https://www.businesswire.com/news/home/20261022223747/en/Kinsale-Capital-Group-Reports-Third-Quarter-2026-Results",
       "ticker": "NASDAQ:KNSL",
       "checked": "2026-10-23T11:47:05Z"
-    },
-    {
-      "id": "2026-10-22-sam-q3",
-      "time": "2026-10-23T10:50:51Z",
-      "tag": "EARNINGS",
-      "headline": "Boston Beer Q3 net revenue $520.1M vs. $537.5M; diluted EPS $4.21 vs. $4.25",
-      "take": "Boston Beer reported Q3 2026 net revenue of $520.1 million versus $537.5 million, net income of $43.2 million versus $46.2 million, and GAAP diluted EPS of $4.21 versus $4.25; non-GAAP diluted EPS was $4.37. Depletions were down 5% and shipments down 4.9% to about 1.8 million barrels, while gross margin rose to 51.7% from 50.8%. Revenue fell about 3.2% on lower volume, with margin improvement cushioning the hit to earnings.",
-      "source_name": "Boston Beer Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386919/0/en/boston-beer-reports-third-quarter-financial-results.html",
-      "ticker": "NYSE:SAM",
-      "checked": "2026-10-23T10:45:51Z"
-    },
-    {
-      "id": "2026-10-22-sam-guidance-litigation",
-      "time": "2026-10-23T10:57:51Z",
-      "tag": "EQUITIES",
-      "headline": "Boston Beer lifts 2026 non-GAAP EPS floor to $9.00; range $9.00-$10.50",
-      "take": "Boston Beer now expects 2026 non-GAAP EPS of $9.00 to $10.50, up from $8.50 to $10.50, and cut its tariff cost estimate to $18 million-$22 million from $20 million-$30 million. Year-to-date GAAP results show a net loss of $50.5 million, including litigation expense of $194.5 million, or $14.51 per share; the company held $308.1 million of cash with no debt at Sept. 26. The gap between GAAP and non-GAAP guidance is driven by that litigation charge.",
-      "source_name": "Boston Beer Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386919/0/en/boston-beer-reports-third-quarter-financial-results.html",
-      "ticker": "NYSE:SAM",
-      "checked": "2026-10-23T10:45:51Z"
     }
   ]
 }
