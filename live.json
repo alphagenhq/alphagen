@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-29T21:17:36Z",
+ "updated": "2026-10-30T10:20:56Z",
  "items": [
+  {
+   "id": "live-0000093410-26-000196-2.02",
+   "time": "2026-10-30T10:16:00Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Chevron releases financial results",
+   "take": "Chevron filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:16 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CVX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000196/0000093410-26-000196-index.htm",
+   "ticker": "NYSE:CVX"
+  },
   {
    "id": "live-0001104659-26-120274-1.01",
    "time": "2026-10-29T21:15:10Z",
