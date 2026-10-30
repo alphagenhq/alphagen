@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-30T13:47:15Z",
+  "updated": "2026-10-30T15:46:05Z",
   "items": [
+    {
+      "id": "2026-10-30-MGA-Q3",
+      "time": "2026-10-30T15:48:05Z",
+      "ticker": "NYSE:MGA",
+      "name": "Magna International",
+      "period": "Q3 2026",
+      "report_date": "2026-10-30",
+      "revenue": 10.059,
+      "revenue_yoy": -3.9,
+      "eps_yoy": 33.3,
+      "eps": 1.44,
+      "take": "Magna reported Q3 2026 sales of $10,059 million versus $10,462 million and diluted EPS of $1.44 versus $1.08.",
+      "source_name": "Magna Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/10/30/3392067/0/en/magna-announces-strong-third-quarter-results.html",
+      "checked": "2026-10-30T15:46:05Z"
+    },
+    {
+      "id": "2026-10-30-CNI-Q3",
+      "time": "2026-10-30T16:04:05Z",
+      "ticker": "NYSE:CNI",
+      "name": "Canadian National Railway",
+      "period": "Q3 2026",
+      "report_date": "2026-10-30",
+      "revenue": 4.771,
+      "revenue_yoy": 14.5,
+      "eps_yoy": 9.3,
+      "eps": 2.0,
+      "take": "CN reported Q3 2026 revenues of C$4,771 million versus C$4,165 million and diluted EPS of C$2.00 versus C$1.83. Figures are in Canadian dollars.",
+      "source_name": "CN Q3 2026 earnings release (SEC Form 6-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000016868/000001686826000041/a2026q3pressreleasestatssu.htm",
+      "checked": "2026-10-30T15:46:05Z"
+    },
     {
       "id": "2026-10-30-CVX-Q3",
       "time": "2026-10-30T14:05:15Z",
