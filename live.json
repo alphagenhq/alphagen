@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-30T10:20:56Z",
+ "updated": "2026-10-30T11:06:40Z",
  "items": [
+  {
+   "id": "live-0001193125-26-439864-2.02",
+   "time": "2026-10-30T11:04:05Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Church & Dwight CO releases financial results",
+   "take": "Church & Dwight CO filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:04 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CHD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526439864/0001193125-26-439864-index.htm",
+   "ticker": "NYSE:CHD"
+  },
+  {
+   "id": "live-0001109357-26-000092-2.02",
+   "time": "2026-10-30T10:57:41Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Exelon releases financial results",
+   "take": "Exelon filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, EXC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935726000092/0001109357-26-000092-index.htm",
+   "ticker": "NASDAQ:EXC"
+  },
+  {
+   "id": "live-0000872589-26-000032-2.02",
+   "time": "2026-10-30T10:50:20Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Regeneron Pharmaceuticals releases financial results",
+   "take": "Regeneron Pharmaceuticals filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:50 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, REGN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/0000872589-26-000032-index.htm",
+   "ticker": "NASDAQ:REGN"
+  },
+  {
+   "id": "live-0002115436-26-000018-2.02",
+   "time": "2026-10-30T10:32:50Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "ExxonMobil Holdings releases financial results",
+   "take": "ExxonMobil Holdings filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:32 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, XOM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000018/0002115436-26-000018-index.htm",
+   "ticker": "NYSE:XOM"
+  },
+  {
+   "id": "live-0001489393-26-000067-2.02",
+   "time": "2026-10-30T10:31:17Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Lyondellbasell Industries releases financial results",
+   "take": "Lyondellbasell Industries filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:31 AM ET, Oct 30. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LYB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939326000067/0001489393-26-000067-index.htm",
+   "ticker": "NYSE:LYB"
+  },
   {
    "id": "live-0000093410-26-000196-2.02",
    "time": "2026-10-30T10:16:00Z",
