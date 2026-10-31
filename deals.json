@@ -1,6 +1,63 @@
 {
-  "updated": "2026-10-30T22:44:22Z",
+  "updated": "2026-10-31T21:44:45Z",
   "items": [
+    {
+      "id": "2026-10-31-weav-francisco",
+      "time": "2026-10-31T21:54:45Z",
+      "type": "PE",
+      "headline": "Francisco Partners completes acquisition of Weave Communications",
+      "parties": "Acquirer: Francisco Partners affiliates (Willow Parent, LLC); Target: Weave Communications, Inc.",
+      "value": 0.59746,
+      "value_text": "About $597.46 million",
+      "status": "Completed",
+      "announced": "2026-08-18",
+      "sector": "Technology",
+      "take": "Weave stockholders received $7.40 per share in cash at the Oct. 26, 2026 closing, about $597.46 million in total. The company financed part of the closing with a new Hercules Capital credit agreement including a $190M initial term loan.",
+      "source_name": "Weave Communications Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001609151/000160915126000120/weav-20261026.htm",
+      "tickers": [
+        "NYSE:WEAV"
+      ],
+      "checked": "2026-10-31T21:44:45Z"
+    },
+    {
+      "id": "2026-10-27-csgp-vexcel",
+      "time": "2026-10-31T22:04:45Z",
+      "type": "M&A",
+      "headline": "CoStar Group to acquire Vexcel Group for $730M in cash",
+      "parties": "Acquirer: CoStar Group, Inc.; Target: Vexcel Group, Inc.",
+      "value": 0.73,
+      "value_text": "$730 million in cash, subject to adjustments",
+      "status": "Announced",
+      "announced": "2026-10-27",
+      "sector": "Technology",
+      "take": "CoStar entered an agreement and plan of merger on Oct. 27, 2026, subject to working capital and other post-closing adjustments. Closing needs HSR and certain foreign regulatory clearances, with no CoStar stockholder vote or financing condition.",
+      "source_name": "CoStar Group Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001057352/000105735226000078/csgp-20261027.htm",
+      "tickers": [
+        "NASDAQ:CSGP"
+      ],
+      "checked": "2026-10-31T21:44:45Z"
+    },
+    {
+      "id": "2026-10-26-dsgr-grade-eight",
+      "time": "2026-10-31T22:14:45Z",
+      "type": "M&A",
+      "headline": "Distribution Solutions Group's Lawson completes $145M Grade Eight acquisition",
+      "parties": "Acquirer: Lawson Products, Inc. (Distribution Solutions Group); Target: GradeEight Holdings, LLC",
+      "value": 0.145,
+      "value_text": "$145 million total purchase price",
+      "status": "Completed",
+      "announced": "2026-10-26",
+      "sector": "Industrials",
+      "take": "DSG said Lawson paid a total of $145 million, funded with borrowings under its existing $400 million revolving credit facility and available cash. The 8-K also notes a separate pending going-private merger with Eclipse affiliates.",
+      "source_name": "Distribution Solutions Group Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000703604/000119312526434245/d70829d8k.htm",
+      "tickers": [
+        "NASDAQ:DSGR"
+      ],
+      "checked": "2026-10-31T21:44:45Z"
+    },
     {
       "id": "2026-10-30-pebo-citizens",
       "time": "2026-10-30T22:44:22Z",
