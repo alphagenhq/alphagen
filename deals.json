@@ -1,6 +1,44 @@
 {
-  "updated": "2026-10-31T21:44:45Z",
+  "updated": "2026-10-31T22:43:52Z",
   "items": [
+    {
+      "id": "2026-10-31-fstr-dulworth",
+      "time": "2026-10-31T22:48:52Z",
+      "type": "M&A",
+      "headline": "L.B. Foster's CXT completes purchase of Dulworth Enterprises assets",
+      "parties": "Acquirer: CXT Incorporated (L.B. Foster subsidiary); Target: Dulworth Enterprises, Inc. (operating assets)",
+      "value": 0.05218,
+      "value_text": "$52.18 million in cash",
+      "status": "Completed",
+      "announced": "2026-10-28",
+      "sector": "Industrials",
+      "take": "The Asset Purchase Agreement dated Oct. 28, 2026 set a $52,180,000 cash price subject to customary indemnification holdbacks, and the transaction closed the same day. It was funded with cash on hand and the existing revolver.",
+      "source_name": "L.B. Foster Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000352825/000035282526000053/fstr-20261028.htm",
+      "tickers": [
+        "NASDAQ:FSTR"
+      ],
+      "checked": "2026-10-31T22:43:52Z"
+    },
+    {
+      "id": "2026-10-31-clmb-neovad",
+      "time": "2026-10-31T23:03:52Z",
+      "type": "M&A",
+      "headline": "Climb Global Solutions purchases NeoVAD for about €16.0M",
+      "parties": "Acquirer: Climb Global Solutions, Inc.; Target: NeoVAD",
+      "value": null,
+      "value_text": "About €16.0 million",
+      "status": "Completed",
+      "announced": "2026-10-21",
+      "sector": "Technology",
+      "take": "Climb purchased 100% of NeoVAD's shares under a Sale and Purchase Agreement dated Oct. 21, 2026, at an aggregate price of approximately €16.0 million, subject to adjustments. NeoVAD is a France-based IT distributor focused on cybersecurity, cloud and virtualization.",
+      "source_name": "Climb Global Solutions Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000945983/000143774926033185/clmb20261022_8k.htm",
+      "tickers": [
+        "NASDAQ:CLMB"
+      ],
+      "checked": "2026-10-31T22:43:52Z"
+    },
     {
       "id": "2026-10-31-weav-francisco",
       "time": "2026-10-31T21:54:45Z",
