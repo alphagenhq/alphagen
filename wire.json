@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-31T22:43:52Z",
+  "updated": "2026-11-01T19:45:24Z",
   "items": [
+    {
+      "id": "2026-11-01-boj-outlook-oct",
+      "time": "2026-11-01T19:50:24Z",
+      "tag": "GLOBAL",
+      "headline": "BoJ Outlook: FY2026 real GDP median +0.7%, core CPI median +2.5%",
+      "take": "The Bank of Japan's October 2026 Outlook Report, dated Oct. 30, puts the Policy Board median forecast for FY2026 real GDP at +0.7% (July: +0.6%) and CPI less fresh food at +2.5% (July: +2.5%). For FY2027 the medians are +0.7% for real GDP (July: +0.8%) and +2.6% for CPI less fresh food (July: +2.4%). The report says the Bank will continue to raise the policy interest rate, so the 2027 inflation revision is the part that bears on the pace of that path.",
+      "source_name": "Bank of Japan, Outlook for Economic Activity and Prices (Oct. 2026)",
+      "source_url": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
+      "checked": "2026-11-01T19:45:24Z"
+    },
+    {
+      "id": "2026-11-01-treasury-bill-week",
+      "time": "2026-11-01T20:10:24Z",
+      "tag": "DEBT",
+      "headline": "Treasury calendar: bill auctions run Nov. 2-5, 13- and 26-week first",
+      "take": "Treasury's tentative auction schedule lists 13-week and 26-week bills on Monday, Nov. 2 (announced Oct. 29, settling Nov. 5) and a 6-week bill on Tuesday, Nov. 3. A 17-week bill follows Wednesday, Nov. 4, and 4-week and 8-week bills Thursday, Nov. 5, all settling Nov. 10. The calendar lists no offering amounts or times, so the sizes announced Nov. 3 are the figures to watch.",
+      "source_name": "U.S. Treasury, Tentative Auction Schedule",
+      "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.xml",
+      "checked": "2026-11-01T19:45:24Z"
+    },
     {
       "id": "2026-10-31-fstr-dulworth",
       "time": "2026-10-31T22:48:52Z",
@@ -5332,28 +5352,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm",
       "ticker": "NYSE:PG",
       "time": "2026-10-23T13:58:00Z",
-      "checked": "2026-10-23T13:56:24Z"
-    },
-    {
-      "id": "2026-10-22-pg-guidance-thorne",
-      "tag": "EQUITIES",
-      "headline": "P&G lifts FY27 all-in sales growth view to 2%-4% after Thorne closes",
-      "take": "P&G updated its fiscal 2027 all-in net sales growth range to 2% to 4%, reflecting the Thorne acquisition as of October 1, 2026, while keeping organic sales growth at 1% to 3%. Core EPS growth stays in line to 3% against fiscal 2026 core EPS of $6.89, and diluted EPS growth stays 1% to 5% against $6.62. Only the reported-sales range moved; the per-share outlook did not.",
-      "source_name": "P&G Q1 fiscal 2027 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm",
-      "ticker": "NYSE:PG",
-      "time": "2026-10-23T14:07:00Z",
-      "checked": "2026-10-23T13:56:24Z"
-    },
-    {
-      "id": "2026-10-22-gild-pepstar-hcxt2001",
-      "tag": "DEALS",
-      "headline": "Gilead to buy PepStar's oral IL-23R inhibitor HCXT-2001 for $1.275B cash",
-      "take": "Gilead agreed to acquire PepStar Therapeutics' oral IL-23R inhibitor program, HCXT-2001, for $1.275 billion in cash payable at closing, subject to customary adjustments. Closing is expected in the fourth quarter of 2026, and Gilead expects the deal to reduce GAAP and non-GAAP EPS by approximately $0.79 to $0.83. The asset is in Phase 1, so the price is being paid for a program whose safety and efficacy have not been established.",
-      "source_name": "Gilead press release (Oct. 22, 2026)",
-      "source_url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-investigational-oral-il-23r-inhibitor-hcxt-2001-strengthening-its-inflammation-pipeline-in-ibd",
-      "ticker": "NASDAQ:GILD",
-      "time": "2026-10-23T14:16:00Z",
       "checked": "2026-10-23T13:56:24Z"
     }
   ]
