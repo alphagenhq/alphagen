@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-31T22:43:52Z",
+  "updated": "2026-11-02T19:45:38Z",
   "items": [
+    {
+      "id": "2026-11-02-nsac-nuclea",
+      "time": "2026-11-02T19:58:00Z",
+      "type": "M&A",
+      "headline": "NorthStrive Acquisition Corp I agrees business combination with Nuclea Energy",
+      "parties": "Acquirer: NorthStrive Acquisition Corp I (SPAC); Target: Nuclea Energy Inc.",
+      "value": 0.35,
+      "value_text": "$350 million enterprise value for Nuclea, subject to adjustments at closing",
+      "status": "Announced",
+      "announced": "2026-11-02",
+      "sector": "Energy",
+      "take": "The definitive agreement values Nuclea at an enterprise value of $350 million, subject to adjustments at closing, with Nuclea shareholders receiving Class A shares valued at $10.00 per share and earnout shares tied to milestones. Closing is expected in the first half of 2027, subject to shareholder approvals, an effective Form S-4, Nasdaq listing approval and completion of Nuclea's Moltex acquisition.",
+      "source_name": "NorthStrive Acquisition Corp I, press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392991/0/en/northstrive-acquisition-corp-i-announces-business-combination-with-nuclea-energy.html",
+      "tickers": [
+        "NASDAQ:NSAI"
+      ],
+      "checked": "2026-11-02T19:45:38Z"
+    },
     {
       "id": "2026-10-31-fstr-dulworth",
       "time": "2026-10-31T22:48:52Z",
