@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T11:27:08Z",
+ "updated": "2026-11-02T12:26:04Z",
  "items": [
+  {
+   "id": "live-0001048286-26-000040-2.02",
+   "time": "2026-11-02T12:00:19Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Marriott International releases financial results",
+   "take": "Marriott International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MAR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048286/000104828626000040/0001048286-26-000040-index.htm",
+   "ticker": "NASDAQ:MAR"
+  },
+  {
+   "id": "live-0001104659-26-120892-2.02",
+   "time": "2026-11-02T11:30:38Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Idexx Laboratories releases financial results",
+   "take": "Idexx Laboratories filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:30 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, IDXX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/874716/000110465926120892/0001104659-26-120892-index.htm",
+   "ticker": "NASDAQ:IDXX"
+  },
   {
    "id": "live-0001104659-26-120813-5.02",
    "time": "2026-11-02T11:00:34Z",
