@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T13:42:50Z",
+ "updated": "2026-11-02T14:42:28Z",
  "items": [
+  {
+   "id": "live-0001104659-26-120990-2.01",
+   "time": "2026-11-02T14:10:51Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Kimberly Clark completes an acquisition or sale of assets",
+   "take": "Kimberly Clark reported completing an acquisition or disposition of assets in an SEC filing (Form 8-K, Item 2.01). Filed 9:10 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KMB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926120990/0001104659-26-120990-index.htm",
+   "ticker": "NASDAQ:KMB"
+  },
+  {
+   "id": "live-0001104659-26-120990-5.02",
+   "time": "2026-11-02T14:10:51Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Kimberly Clark reports an executive or board change",
+   "take": "Kimberly Clark reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 9:10 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, KMB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926120990/0001104659-26-120990-index.htm",
+   "ticker": "NASDAQ:KMB"
+  },
   {
    "id": "live-0001193125-26-442717-1.01",
    "time": "2026-11-02T13:09:22Z",
