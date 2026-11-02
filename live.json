@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T21:10:07Z",
+ "updated": "2026-11-02T21:53:40Z",
  "items": [
+  {
+   "id": "live-0000320193-26-000024-2.02",
+   "time": "2026-11-02T21:30:23Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Apple releases financial results",
+   "take": "Apple filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:30 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, AAPL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/0000320193-26-000024-index.htm",
+   "ticker": "NASDAQ:AAPL"
+  },
+  {
+   "id": "live-0001035267-26-000074-5.02",
+   "time": "2026-11-02T21:17:33Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Intuitive Surgical reports an executive or board change",
+   "take": "Intuitive Surgical reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:17 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ISRG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000074/0001035267-26-000074-index.htm",
+   "ticker": "NASDAQ:ISRG"
+  },
+  {
+   "id": "live-0001140361-26-041580-2.02",
+   "time": "2026-11-02T21:15:56Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "ON Semiconductor releases financial results",
+   "take": "ON Semiconductor filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:15 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ON Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126041580/0001140361-26-041580-index.htm",
+   "ticker": "NASDAQ:ON"
+  },
+  {
+   "id": "live-0001193125-26-443681-1.01",
+   "time": "2026-11-02T21:15:52Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "ON Semiconductor discloses a material agreement",
+   "take": "ON Semiconductor reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:15 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ON Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312526443681/0001193125-26-443681-index.htm",
+   "ticker": "NASDAQ:ON"
+  },
+  {
+   "id": "live-0000021076-26-000044-2.02",
+   "time": "2026-11-02T21:11:53Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Clorox releases financial results",
+   "take": "Clorox filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:11 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, CLX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000044/0000021076-26-000044-index.htm",
+   "ticker": "NYSE:CLX"
+  },
   {
    "id": "live-0000726728-26-000056-2.02",
    "time": "2026-11-02T21:07:03Z",
