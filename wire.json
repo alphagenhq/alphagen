@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-01T19:45:24Z",
+  "updated": "2026-11-02T02:44:17Z",
   "items": [
+    {
+      "id": "2026-11-02-fomc-no-nov-meeting",
+      "time": "2026-11-02T02:49:17Z",
+      "tag": "FED",
+      "headline": "Fed calendar: no FOMC meeting in November; next is Dec. 8-9",
+      "take": "The Federal Reserve's 2026 FOMC calendar lists the most recent meeting as Oct. 27-28 and the next as Dec. 8-9, which is marked as a meeting associated with a Summary of Economic Projections. The Board's November calendar lists no FOMC meeting. That leaves the Fed's scheduled data releases and speeches as the main official Fed inputs this month.",
+      "source_name": "Federal Reserve, FOMC Meeting Calendars",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "checked": "2026-11-02T02:44:17Z"
+    },
+    {
+      "id": "2026-11-02-fomc-minutes-nov18",
+      "time": "2026-11-02T02:59:17Z",
+      "tag": "FED",
+      "headline": "Fed to release minutes of Oct. 27-28 FOMC meeting on Nov. 18 at 2:00 p.m.",
+      "take": "The Federal Reserve's November calendar lists FOMC Minutes for the meeting of Oct. 27-28 on Nov. 18 at 2:00 p.m. The minutes are the Fed's written record of the committee's discussion at that meeting. They are the next official FOMC document on the calendar before the December meeting.",
+      "source_name": "Federal Reserve Board, November 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-02T02:44:17Z"
+    },
+    {
+      "id": "2026-11-02-fed-sloos",
+      "time": "2026-11-02T03:09:17Z",
+      "tag": "FED",
+      "headline": "Fed lists Senior Loan Officer Opinion Survey for Nov. 2 at 2:00 p.m.",
+      "take": "The Federal Reserve's November calendar lists the Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) on Nov. 2 at 2:00 p.m. The survey covers banks' lending standards and demand, so it is the official read on credit availability for the week.",
+      "source_name": "Federal Reserve Board, November 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-02T02:44:17Z"
+    },
+    {
+      "id": "2026-11-02-fed-week-ahead",
+      "time": "2026-11-02T03:19:17Z",
+      "tag": "FED",
+      "headline": "Fed week ahead: H.4.1 on Nov. 5, Bowman remarks and G.19 on Nov. 6",
+      "take": "The Fed's calendar lists H.4.1, Factors Affecting Reserve Balances, on Nov. 5 at 4:30 p.m. On Nov. 6 it lists a discussion with Vice Chair for Supervision Michelle W. Bowman on supervision and regulation at the University of Mississippi Banking and Finance Symposium at 12:15 p.m., and G.19, Consumer Credit, at 3:00 p.m. H.15 interest-rate data is listed each business day at 4:15 p.m.",
+      "source_name": "Federal Reserve Board, November 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-02T02:44:17Z"
+    },
+    {
+      "id": "2026-11-02-fed-veterans-day-shift",
+      "time": "2026-11-02T03:29:17Z",
+      "tag": "FED",
+      "headline": "Fed: Veterans Day holiday Nov. 11 moves daily and weekly releases to Nov. 12",
+      "take": "The Fed's November calendar lists Veterans Day on Nov. 11 and says releases scheduled that day move to Thursday, Nov. 12. The calendar also lists the Beige Book on Nov. 25 at 2:00 p.m. and a Thanksgiving Day holiday on Nov. 26. Data users should plan for the shifted H.15 and H.4.1 dates.",
+      "source_name": "Federal Reserve Board, November 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-02T02:44:17Z"
+    },
     {
       "id": "2026-11-01-boj-outlook-oct",
       "time": "2026-11-01T19:50:24Z",
@@ -5299,60 +5349,6 @@
       "source_name": "Federal Reserve Board H.4.1 (released Oct. 22, 2026)",
       "source_url": "https://www.federalreserve.gov/releases/h41/current/",
       "checked": "2026-10-23T15:51:21Z"
-    },
-    {
-      "id": "2026-10-23-h15-oct-21-curve",
-      "time": "2026-10-23T16:41:21Z",
-      "tag": "RATES",
-      "headline": "Treasury 2-year yield 4.81% on Oct. 21; 10-year 5.13%, 30-year 5.42%",
-      "take": "The Fed's H.15 shows the 2-year Treasury constant-maturity yield at 4.81% on Oct. 21, up from 4.77% on Oct. 19, while the 10-year was 5.13% and the 30-year 5.42%. The 3-month yield was 4.25% against an effective fed funds rate of 3.88%. That leaves the 2s10s spread at 32 basis points, with the FOMC meeting Oct. 27-28.",
-      "source_name": "Federal Reserve Board H.15 Selected Interest Rates",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-10-23T15:51:21Z"
-    },
-    {
-      "id": "2026-10-23-axp-q3",
-      "tag": "EARNINGS",
-      "headline": "American Express Q3 revenue $20.06B; diluted EPS $5.42 vs. $4.14",
-      "take": "American Express reported Q3 2026 revenues net of interest expense of $20,062 million versus $18,426 million a year earlier, up 9%. Net income was $3,712 million versus $2,902 million, and diluted EPS was $5.42 versus $4.14; adjusted EPS was $4.68, up 13%. The gap between GAAP and adjusted EPS is the line to read closely in the release's reconciliation.",
-      "source_name": "American Express Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm",
-      "ticker": "NYSE:AXP",
-      "time": "2026-10-23T15:02:00Z",
-      "checked": "2026-10-23T15:00:42Z"
-    },
-    {
-      "id": "2026-10-23-axp-guidance",
-      "tag": "EQUITIES",
-      "headline": "AmEx raises 2026 EPS guidance to $18.30-$18.60; $17.60-$17.90 adjusted",
-      "take": "American Express said it is raising full-year EPS guidance to between $18.30 and $18.60, or $17.60 to $17.90 adjusted, and that it is on track to deliver another year of 10% revenue growth. Billed business was $454.0 billion in Q3 versus $421.0 billion a year earlier, up 8%. Spending volume growth running just below revenue growth is consistent with the revenue target.",
-      "source_name": "American Express Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm",
-      "ticker": "NYSE:AXP",
-      "time": "2026-10-23T15:12:00Z",
-      "checked": "2026-10-23T15:00:42Z"
-    },
-    {
-      "id": "2026-10-23-axp-credit-expenses",
-      "tag": "CREDIT",
-      "headline": "AmEx Q3 credit provisions $1.0B vs. $1.3B; net write-off rate 1.8%",
-      "take": "American Express reported Q3 consolidated provisions for credit losses of $1.0 billion versus $1.3 billion a year ago, and a net write-off rate of 1.8% versus 1.9%. Consolidated expenses were $14.5 billion, up 9%, which the release attributes mainly to higher variable customer engagement costs and the U.S. Platinum Card refresh. Lower provisions helped pretax income, which the release puts up 18%.",
-      "source_name": "American Express Q3 2026 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm",
-      "ticker": "NYSE:AXP",
-      "time": "2026-10-23T15:22:00Z",
-      "checked": "2026-10-23T15:00:42Z"
-    },
-    {
-      "id": "2026-10-22-pg-q1-fy27",
-      "tag": "EARNINGS",
-      "headline": "P&G fiscal Q1 sales rise 4% to $23.3B; diluted EPS $1.97 vs. $1.95",
-      "take": "Procter & Gamble's July-September net sales were $23,276 million versus $22,386 million a year earlier, up 4%, with organic sales growth also 4%. Diluted EPS was $1.97 versus $1.95 and core EPS was $2.00 versus $1.99, each up 1%. Sales growth outpacing per-share earnings growth by that margin is the pattern to watch as the Thorne deal enters the numbers.",
-      "source_name": "P&G Q1 fiscal 2027 earnings release (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000250/fy2627q1jas8-kexhibit991.htm",
-      "ticker": "NYSE:PG",
-      "time": "2026-10-23T13:58:00Z",
-      "checked": "2026-10-23T13:56:24Z"
     }
   ]
 }
