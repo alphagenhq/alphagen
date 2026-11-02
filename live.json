@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T20:42:47Z",
+ "updated": "2026-11-02T11:27:08Z",
  "items": [
+  {
+   "id": "live-0001104659-26-120813-5.02",
+   "time": "2026-11-02T11:00:34Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Deere reports an executive or board change",
+   "take": "Deere reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:00 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, DE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926120813/0001104659-26-120813-index.htm",
+   "ticker": "NYSE:DE"
+  },
   {
    "id": "live-0001193125-26-441763-1.01",
    "time": "2026-10-30T20:32:58Z",
