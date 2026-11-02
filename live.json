@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T21:53:40Z",
+ "updated": "2026-11-02T22:33:42Z",
  "items": [
+  {
+   "id": "live-0001193125-26-443854-1.01",
+   "time": "2026-11-02T22:00:27Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Blackstone discloses a material agreement",
+   "take": "Blackstone reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:00 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, BX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526443854/0001193125-26-443854-index.htm",
+   "ticker": "NYSE:BX"
+  },
   {
    "id": "live-0000320193-26-000024-2.02",
    "time": "2026-11-02T21:30:23Z",
