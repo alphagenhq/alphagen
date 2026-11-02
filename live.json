@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T14:42:28Z",
+ "updated": "2026-11-02T20:22:55Z",
  "items": [
+  {
+   "id": "live-0001193125-26-443395-1.01",
+   "time": "2026-11-02T19:35:06Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Sherwin Williams discloses a material agreement",
+   "take": "Sherwin Williams reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 2:35 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, SHW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/89800/000119312526443395/0001193125-26-443395-index.htm",
+   "ticker": "NYSE:SHW"
+  },
   {
    "id": "live-0001104659-26-120990-2.01",
    "time": "2026-11-02T14:10:51Z",
