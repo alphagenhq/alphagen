@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T03:44:07Z",
+ "updated": "2026-11-02T17:17:35Z",
  "items": [
+  {
+   "id": "2026-11-02-krys-q3",
+   "time": "2026-11-02T17:17:35Z",
+   "tag": "EARNINGS",
+   "headline": "Krystal Biotech Q3 product revenue $127.3M vs $97.8M; diluted EPS $2.05 vs $2.66",
+   "take": "Krystal Biotech reported net product revenue of $127.3 million for the quarter ended Sept. 30, 2026, versus $97.8 million a year earlier. Net income was $63.1 million, or $2.05 per diluted share, versus $79.4 million, or $2.66 per diluted share, in the prior-year quarter. Revenue rose while net income and EPS fell, so the comparison turns on costs below the revenue line. The company also announced a share repurchase program of up to $400 million.",
+   "source_name": "Krystal Biotech, Q3 2026 results (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392990/0/en/krystal-biotech-announces-third-quarter-2026-financial-and-operating-results.html",
+   "ticker": "NASDAQ:KRYS",
+   "checked": "2026-11-02T17:17:35Z"
+  },
+  {
+   "id": "2026-11-02-kos-q3",
+   "time": "2026-11-02T17:27:35Z",
+   "tag": "ENERGY",
+   "headline": "Kosmos Energy Q3 oil and gas revenue $410.1M vs $311.0M; net loss $0.07 per share",
+   "take": "Kosmos Energy reported Q3 2026 oil and gas revenue of $410.1 million versus $311.0 million in Q3 2025, a net loss of $43.0 million, or $(0.07) per diluted share, versus $(0.26) a year earlier. Full-year 2026 capital expenditure guidance of approximately $350 million is unchanged, and gross LNG cargo liftings are expected at the upper end of the 32-36 guidance range. The loss narrowed sharply on a per-share basis from the prior-year quarter.",
+   "source_name": "Kosmos Energy, Q3 2026 results (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392854/0/en/kosmos-energy-announces-third-quarter-2026-results.html",
+   "ticker": "NYSE:KOS",
+   "checked": "2026-11-02T17:17:35Z"
+  },
+  {
+   "id": "2026-11-02-cpx-q3",
+   "time": "2026-11-02T17:37:35Z",
+   "tag": "EARNINGS",
+   "headline": "Capital Power Q3 net income C$67M vs C$153M; raises sustaining capex target",
+   "take": "Capital Power reported Q3 2026 revenues and other income of $831 million versus $1,213 million a year earlier, net income of $67 million versus $153 million, and diluted EPS of $0.37 versus $0.94 (release figures in millions of dollars). Revised 2026 guidance lists AFFO of $890 million to $1,010 million, adjusted EBITDA of $1,565 million to $1,765 million, and sustaining capital expenditures of $350 million to $370 million versus an original $290 million to $330 million. The company also increased its annual common dividend by 2%.",
+   "source_name": "Capital Power, Q3 2026 results (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392978/0/en/capital-power-reports-third-quarter-2026-results.html",
+   "ticker": "TSX:CPX",
+   "checked": "2026-11-02T17:17:35Z"
+  },
+  {
+   "id": "2026-11-02-tsem-q3",
+   "time": "2026-11-02T17:47:35Z",
+   "tag": "EQUITIES",
+   "headline": "Tower Semiconductor Q3 revenue $526M vs $396M; guides Q4 revenue to $600M",
+   "take": "Tower Semiconductor reported Q3 2026 revenue of $526 million versus $396 million in Q3 2025. For Q4 2026 it guides revenue of $600 million, with an upward or downward range of 5%, which it says represents an increase of 36% year over year and 14% quarter over quarter at the midpoint. The company says the year closes at $2 billion of annual revenue.",
+   "source_name": "Tower Semiconductor, Q3 2026 results (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392999/0/en/tower-semiconductor-reports-third-quarter-record-results-providing-record-fourth-quarter-guidance-resulting-in-2026-2-billion-annual-revenue.html",
+   "ticker": "NASDAQ:TSEM",
+   "checked": "2026-11-02T17:17:35Z"
+  },
   {
    "id": "2026-11-02-riksbank-nov-3-4",
    "time": "2026-11-02T03:49:07Z",
@@ -5306,49 +5350,6 @@
    "source_name": "Bank of England: Interest rates and Bank Rate",
    "source_url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
    "checked": "2026-10-23T17:02:57Z"
-  },
-  {
-   "id": "2026-10-23-norges-policy-rate-4-5",
-   "time": "2026-10-23T17:52:57Z",
-   "tag": "GLOBAL",
-   "headline": "Norges Bank policy rate 4.5%; next decision Nov. 5",
-   "take": "Norges Bank lists its policy rate at 4.5%, published Sept. 24, 2026, and says the next policy rate decision will be announced on Nov. 5, 2026. The Bank of England's next decision is on the same day. Two European central banks with a Nov. 5 announcement make that date a shared checkpoint for global rates.",
-   "source_name": "Norges Bank: Policy rate",
-   "source_url": "https://www.norges-bank.no/en/topics/Monetary-policy/Policy-rate/",
-   "checked": "2026-10-23T17:02:57Z"
-  },
-  {
-   "id": "2026-10-23-slb-q3",
-   "time": "2026-10-23T15:53:21Z",
-   "tag": "EARNINGS",
-   "headline": "SLB Q3 revenue $9.45B, up 6%; diluted EPS $0.49 vs. $0.50",
-   "take": "SLB reported Q3 2026 revenue of $9,449 million versus $8,928 million a year earlier and $8,972 million in Q2. GAAP net income attributable to SLB was $735 million versus $739 million, and GAAP diluted EPS was $0.49 versus $0.50; EPS excluding charges and credits was $0.64 versus $0.69. Revenue grew while per-share earnings slipped, so the mix of segments below is where the story sits.",
-   "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
-   "ticker": "NYSE:SLB",
-   "checked": "2026-10-23T15:51:21Z"
-  },
-  {
-   "id": "2026-10-23-slb-segments",
-   "time": "2026-10-23T16:05:21Z",
-   "tag": "ENERGY",
-   "headline": "SLB North America revenue $2.40B, up 24%; Production Systems $4.00B",
-   "take": "SLB's North America revenue was $2,401 million versus $1,930 million a year earlier, while International was $6,993 million versus $6,916 million. Production Systems revenue was $4,000 million versus $3,474 million; Reservoir Performance and Well Construction each fell 3%, to $1,634 million and $2,888 million. The release says the ChampionX businesses, acquired in July 2025, contributed $956 million of North America revenue in Q3 2026, so the 24% figure is not like-for-like.",
-   "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
-   "ticker": "NYSE:SLB",
-   "checked": "2026-10-23T15:51:21Z"
-  },
-  {
-   "id": "2026-10-23-slb-capital-return",
-   "time": "2026-10-23T16:17:21Z",
-   "tag": "EQUITIES",
-   "headline": "SLB repurchased 12.9M shares for $656M in Q3; quarterly dividend $0.295",
-   "take": "SLB generated $1.51 billion of cash flow from operations and $828 million of free cash flow in Q3 2026, and repurchased 12.9 million shares for $656 million. The board approved a quarterly dividend of $0.295 per share, payable Jan. 7, 2027 to holders of record Dec. 2. Full-year 2026 capital investment is still expected to be about $2.5 billion.",
-   "source_name": "SLB Q3 2026 earnings release (SEC Form 8-K, Ex. 99)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
-   "ticker": "NYSE:SLB",
-   "checked": "2026-10-23T15:51:21Z"
   }
  ]
 }
