@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-02T20:22:55Z",
+ "updated": "2026-11-02T21:10:07Z",
  "items": [
+  {
+   "id": "live-0000726728-26-000056-2.02",
+   "time": "2026-11-02T21:07:03Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Realty Income releases financial results",
+   "take": "Realty Income filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:07 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, O Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000056/0000726728-26-000056-index.htm",
+   "ticker": "NYSE:O"
+  },
+  {
+   "id": "live-0001321655-26-000045-2.02",
+   "time": "2026-11-02T21:06:48Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Palantir Technologies releases financial results",
+   "take": "Palantir Technologies filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:06 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, PLTR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000045/0001321655-26-000045-index.htm",
+   "ticker": "NASDAQ:PLTR"
+  },
+  {
+   "id": "live-0001539838-26-000180-2.02",
+   "time": "2026-11-02T21:06:31Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Diamondback Energy releases financial results",
+   "take": "Diamondback Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:06 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FANG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000180/0001539838-26-000180-index.htm",
+   "ticker": "NASDAQ:FANG"
+  },
+  {
+   "id": "live-0000107263-26-000035-2.02",
+   "time": "2026-11-02T21:06:17Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Williams Companies releases financial results",
+   "take": "Williams Companies filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:06 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, WMB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000035/0000107263-26-000035-index.htm",
+   "ticker": "NYSE:WMB"
+  },
+  {
+   "id": "live-0000875320-26-000287-2.02",
+   "time": "2026-11-02T21:05:46Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Vertex Pharmaceuticals Inc / MA releases financial results",
+   "take": "Vertex Pharmaceuticals Inc / MA filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:05 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, VRTX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/0000875320-26-000287-index.htm",
+   "ticker": "NASDAQ:VRTX"
+  },
+  {
+   "id": "live-0001104659-26-121322-5.02",
+   "time": "2026-11-02T21:05:38Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Abbvie reports an executive or board change",
+   "take": "Abbvie reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:05 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, ABBV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926121322/0001104659-26-121322-index.htm",
+   "ticker": "NYSE:ABBV"
+  },
+  {
+   "id": "live-0001193125-26-443635-1.01",
+   "time": "2026-11-02T21:05:22Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Southwest Airlines discloses a material agreement",
+   "take": "Southwest Airlines reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:05 PM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, LUV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92380/000119312526443635/0001193125-26-443635-index.htm",
+   "ticker": "NYSE:LUV"
+  },
   {
    "id": "live-0001193125-26-443395-1.01",
    "time": "2026-11-02T19:35:06Z",
