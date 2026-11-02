@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T12:26:04Z",
+ "updated": "2026-11-02T13:42:50Z",
  "items": [
+  {
+   "id": "live-0001193125-26-442717-1.01",
+   "time": "2026-11-02T13:09:22Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Marvell Technology discloses a material agreement",
+   "take": "Marvell Technology reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 8:09 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MRVL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526442717/0001193125-26-442717-index.htm",
+   "ticker": "NASDAQ:MRVL"
+  },
+  {
+   "id": "live-0001193125-26-442714-2.02",
+   "time": "2026-11-02T13:06:04Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Marvell Technology releases financial results",
+   "take": "Marvell Technology filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:06 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, MRVL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/0001193125-26-442714-index.htm",
+   "ticker": "NASDAQ:MRVL"
+  },
+  {
+   "id": "live-0001628280-26-068663-2.02",
+   "time": "2026-11-02T13:03:11Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "FOX releases financial results",
+   "take": "FOX filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:03 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, FOXA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1754301/000162828026068663/0001628280-26-068663-index.htm",
+   "ticker": "NASDAQ:FOXA"
+  },
+  {
+   "id": "live-0001001250-26-000057-2.02",
+   "time": "2026-11-02T13:01:35Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Estee Lauder Companies releases financial results",
+   "take": "Estee Lauder Companies filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:01 AM ET, Nov 2. AlphaGen's breakdown follows on the Wire.",
+   "source_name": "SEC EDGAR, EL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125026000057/0001001250-26-000057-index.htm",
+   "ticker": "NYSE:EL"
+  },
   {
    "id": "live-0001048286-26-000040-2.02",
    "time": "2026-11-02T12:00:19Z",
