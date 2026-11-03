@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-03T15:44:13Z",
+  "updated": "2026-11-03T16:45:34Z",
   "items": [
+    {
+      "id": "2026-11-03-xmtr-q3",
+      "time": "2026-11-03T16:50:34Z",
+      "tag": "EARNINGS",
+      "headline": "Xometry Q3 revenue $252M, up 40%; raises full-year revenue growth outlook",
+      "take": "Xometry reported Q3 2026 revenue of $252.4 million versus $180.7 million a year earlier, with diluted EPS of $0.03 versus a loss of $0.23. It now expects 2026 revenue growth of at least 37%, up from a prior 33-34%, and Q4 revenue of $254-$256 million. The raised outlook comes with a return to GAAP profit for the quarter.",
+      "source_name": "Xometry Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394085/0/en/xometry-reports-record-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:XMTR",
+      "checked": "2026-11-03T16:45:34Z"
+    },
+    {
+      "id": "2026-11-03-hni-q3",
+      "time": "2026-11-03T17:04:34Z",
+      "tag": "EARNINGS",
+      "headline": "HNI Q3 net sales $1.59B, up 133%; GAAP diluted EPS $1.23 vs $0.88",
+      "take": "HNI reported Q3 2026 net sales of $1,592.9 million versus $683.8 million a year earlier, with organic net sales up 5.6%. GAAP diluted EPS was $1.23 versus $0.88 and net income was $90.0 million versus $41.2 million. The company expects 2026 non-GAAP diluted EPS growth of 20-25%.",
+      "source_name": "HNI Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394111/0/en/hni-corporation-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:HNI",
+      "checked": "2026-11-03T16:45:34Z"
+    },
+    {
+      "id": "2026-11-03-lgih-q3",
+      "time": "2026-11-03T17:18:34Z",
+      "tag": "HOUSING",
+      "headline": "LGI Homes Q3 revenue $444.5M, up 10.2%; narrows 2026 closings to 4,600-4,800",
+      "take": "LGI Homes reported Q3 2026 total revenues of $444.5 million versus $403.5 million a year earlier and diluted EPS of $1.05 versus $0.85. Net income was $24.6 million. The builder narrowed its full-year home closings outlook to between 4,600 and 4,800 and maintained the rest of its 2026 guidance.",
+      "source_name": "LGI Homes Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394073/28788/en/lgi-homes-inc-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:LGIH",
+      "checked": "2026-11-03T16:45:34Z"
+    },
+    {
+      "id": "2026-11-03-pax-q3",
+      "time": "2026-11-03T17:32:34Z",
+      "tag": "EQUITIES",
+      "headline": "Patria Q3 fee-related earnings $52.8M, up 7%; declares $0.1625 dividend",
+      "take": "Patria reported Q3 2026 fee-related earnings of $52.8 million versus $49.5 million in Q3 2025, a 53.7% FRE margin, and distributable earnings of $46.9 million, or $0.30 per share. It raised $2.4 billion in the quarter and declared a quarterly dividend of $0.1625 per share payable December 11, 2026.",
+      "source_name": "Patria Q3 2026 earnings release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3393992/0/en/patria-reports-third-quarter-2026-earnings-results.html",
+      "ticker": "NASDAQ:PAX",
+      "checked": "2026-11-03T16:45:34Z"
+    },
     {
       "id": "2026-11-03-amrx-q3-guidance",
       "time": "2026-11-03T15:49:13Z",
@@ -5310,47 +5354,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386888/0/en/alpine-income-property-trust-reports-third-quarter-2026-operating-and-financial-results.html",
       "ticker": "NYSE:PINE",
       "checked": "2026-10-23T22:01:44Z"
-    },
-    {
-      "id": "2026-10-23-bdn-q3",
-      "time": "2026-10-23T22:36:44Z",
-      "tag": "EARNINGS",
-      "headline": "Brandywine Realty Q3 core FFO $0.14 vs. $0.16; 2026 EPS view cut to $(0.64)-$(0.62)",
-      "take": "Brandywine Realty Trust reported Q3 2026 net loss of $(0.13) per share versus $(0.15) a year earlier, FFO of $0.05 per diluted share versus $0.16, and core FFO of $0.14 versus $0.16, with core FFO excluding a $15.4 million loss on early extinguishment of debt. It revised 2026 loss per share guidance to $(0.64)-$(0.62) from $(0.45)-$(0.41) and set core FFO guidance at $0.54-$0.56. Same-store occupancy was 88.8% at Sept. 30 versus 89.8% a year earlier.",
-      "source_name": "Brandywine Realty Trust Q3 2026 release (GlobeNewswire, Oct. 21, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385942/0/en/brandywine-realty-trust-announces-third-quarter-2026-results.html",
-      "ticker": "NYSE:BDN",
-      "checked": "2026-10-23T22:01:44Z"
-    },
-    {
-      "id": "2026-10-23-fhlb-atlanta-q3",
-      "time": "2026-10-23T20:48:00Z",
-      "tag": "CREDIT",
-      "headline": "FHLB Atlanta Q3 net income $126M vs. $155M; advances $105.2B",
-      "take": "The Federal Home Loan Bank of Atlanta reported preliminary Q3 2026 net income of $126 million versus $155 million a year earlier, with total assets of $166.7 billion at Sept. 30 versus $146.2 billion at Dec. 31, 2025. Period-end advances were $105.2 billion versus $95.0 billion at year-end, while average advances were $95.2 billion in Q3 versus $102.8 billion a year earlier. Balance sheet growth alongside lower earnings is the contrast to note; figures are unaudited until the 10-Q.",
-      "source_name": "FHLBank Atlanta Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386818/2953/en/federal-home-loan-bank-of-atlanta-announces-third-quarter-2026-operating-highlights-and-declares-dividend.html",
-      "checked": "2026-10-23T20:55:18Z"
-    },
-    {
-      "id": "2026-10-23-fhlb-atlanta-dividend-620",
-      "time": "2026-10-23T21:05:00Z",
-      "tag": "CREDIT",
-      "headline": "FHLB Atlanta board approves 6.20% annualized dividend rate",
-      "take": "The Federal Home Loan Bank of Atlanta said its board approved an annualized dividend rate of 6.20 percent on Oct. 22, 2026, to be credited to members' daily investment accounts at the close of business on Oct. 27. Retained earnings were $3.1 billion at Sept. 30, up $106 million from Dec. 31, 2025. The bank expects to file its Form 10-Q on or about Nov. 5.",
-      "source_name": "FHLBank Atlanta Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386818/2953/en/federal-home-loan-bank-of-atlanta-announces-third-quarter-2026-operating-highlights-and-declares-dividend.html",
-      "checked": "2026-10-23T20:55:18Z"
-    },
-    {
-      "id": "2026-10-23-orchid-island-q3",
-      "time": "2026-10-23T21:22:00Z",
-      "tag": "HOUSING",
-      "headline": "Orchid Island Q3 net loss $178.9M, or $(0.90)/share; book value $6.02",
-      "take": "Orchid Island Capital reported a Q3 2026 net loss of $178.9 million, or $(0.90) per share, versus net income of $72.1 million, or $0.53 per share, in Q3 2025. Book value per share was $6.02 at Sept. 30, 2026, and dividends declared were $0.30 per share versus $0.36 a year earlier. The swing from profit to loss shows how sharply an agency mortgage-securities portfolio can reprice in one quarter.",
-      "source_name": "Orchid Island Capital Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386896/24811/en/orchid-island-capital-announces-third-quarter-2026-results.html",
-      "checked": "2026-10-23T20:55:18Z"
     }
   ]
 }
