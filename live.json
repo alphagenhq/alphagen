@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-03T13:41:42Z",
+ "updated": "2026-11-03T21:44:56Z",
  "items": [
+  {
+   "id": "live-0001375365-26-000026-2.02",
+   "time": "2026-11-03T21:31:04Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Super Micro Computer releases financial results",
+   "take": "Super Micro Computer filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:31 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, SMCI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000026/0001375365-26-000026-index.htm",
+   "ticker": "NASDAQ:SMCI"
+  },
+  {
+   "id": "live-0000005272-26-000101-2.02",
+   "time": "2026-11-03T21:24:18Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "American International Group releases financial results",
+   "take": "American International Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:24 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, AIG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/5272/000000527226000101/0000005272-26-000101-index.htm",
+   "ticker": "NYSE:AIG"
+  },
+  {
+   "id": "live-0001137774-26-000219-2.02",
+   "time": "2026-11-03T21:20:37Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Prudential Financial releases financial results",
+   "take": "Prudential Financial filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:20 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, PRU Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000219/0001137774-26-000219-index.htm",
+   "ticker": "NYSE:PRU"
+  },
+  {
+   "id": "live-0000078003-26-000132-5.02",
+   "time": "2026-11-03T21:19:24Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Pfizer reports an executive or board change",
+   "take": "Pfizer reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:19 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, PFE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000132/0000078003-26-000132-index.htm",
+   "ticker": "NYSE:PFE"
+  },
+  {
+   "id": "live-0000002488-26-000188-2.02",
+   "time": "2026-11-03T21:16:27Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Advanced Micro Devices releases financial results",
+   "take": "Advanced Micro Devices filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:16 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, AMD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/0000002488-26-000188-index.htm",
+   "ticker": "NASDAQ:AMD"
+  },
+  {
+   "id": "live-0001193125-26-445385-5.02",
+   "time": "2026-11-03T21:15:26Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Willis Towers Watson reports an executive or board change",
+   "take": "Willis Towers Watson reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:15 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, WTW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526445385/0001193125-26-445385-index.htm",
+   "ticker": "NASDAQ:WTW"
+  },
+  {
+   "id": "live-0001628280-26-069513-2.02",
+   "time": "2026-11-03T21:12:52Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Block releases financial results",
+   "take": "Block filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:12 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, XYZ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069513/0001628280-26-069513-index.htm",
+   "ticker": "NYSE:XYZ"
+  },
   {
    "id": "live-0001193125-26-444411-1.01",
    "time": "2026-11-03T13:14:10Z",
