@@ -491,7 +491,7 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
     const set=(k,v)=>{const e=root.querySelector(`[data-aip="${k}"]`);if(e)e.textContent=v||""};
     const brief=pickBrief(D,"am"), m=D.m[0], e=D.e[0], d=D.d.find(x=>x.value!=null)||D.d[0];
     root.querySelector("[data-aip-date]").textContent=brief?nyDate(brief.time):"";
-    if(m){set("eq",m.name+": "+m.headline);set("eq-s",m.catalyst||"")}else if(brief){set("eq",brief.title.replace(/^[^:]+:\s*/,""));set("eq-s",brief.dek||"")}
+    if(brief){set("eq",brief.title.replace(/^[^:]+:\s*/,""));set("eq-s",brief.dek||"")}else if(m){set("eq",m.name+": "+m.headline);set("eq-s",m.catalyst||"")}
     if(e){set("er",e.name+" "+(e.period||"")+(e.revenue!=null?" · Revenue "+bnum(e.revenue)+(e.revenue_yoy!=null?" ("+pct(e.revenue_yoy)+" y/y)":""):""));set("er-s",(e.take||"").split(". ")[0].replace(/\.?$/,"."))}
     if(d){set("cm",d.headline);set("cm-s",[d.type,d.status,dealVal(d)].filter(Boolean).join(" · "))}
     const tp=tpList(brief); set("tp",tp[0]||"Three plain-English points per edition, written for client calls and reviews.");
@@ -508,12 +508,12 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
     const brief=pickBrief(D,ed); const edName=ed==="pm"?"At the Close":"Pre-Market Daily";
     const movers=D.m.slice(0,3), earn=D.e.filter(e=>e.revenue!=null).slice(0,4), deals=D.d.slice(0,3), ch=D.c[0], tp=tpList(brief);
     root.style.setProperty("--brand",b.accent);
-    const secs=[["Big picture",!!brief],["Equity markets",movers.length],["Earnings",earn.length],["Capital markets",deals.length],["Chart",!!ch],["Talking points",tp.length]].filter(x=>x[1]).map(x=>x[0]);
+    const secs=[["Big picture",!!brief],["Markets",movers.length],["Earnings",earn.length],["Capital markets",deals.length],["Chart",!!ch],["Talking points",tp.length]].filter(x=>x[1]).map(x=>x[0]);
     root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(edName)}: ${esc(brief?brief.title.replace(/^[^:]+:\s*/,""):"Today in markets")}</span></div>
     <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(edName)} · ${esc(nyDate(brief?brief.time:null))}</span></div>
     <div class="mail-index">${secs.map(s=>`<span>${esc(s)}</span>`).join("")}</div>
     ${brief?`<div class="mail-sec"><div class="mail-kick">The big picture</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,3).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
-    ${movers.length?`<div class="mail-sec"><div class="mail-kick">Equity markets · what's moving and why</div>${movers.map(m=>`<div class="mail-mv"><span class="mtk">${esc(tk(m.ticker))}</span><div><b>${esc(m.name)}: ${esc(m.headline)}</b><p>${esc(m.catalyst||"")}</p></div></div>`).join("")}</div>`:""}
+    ${movers.length?`<div class="mail-sec"><div class="mail-kick">Markets · what's moving and why</div>${movers.map(m=>`<div class="mail-mv"><span class="mtk">${esc(tk(m.ticker))}</span><div><b>${esc(m.name)}: ${esc(m.headline)}</b><p>${esc(m.catalyst||"")}</p></div></div>`).join("")}</div>`:""}
     ${earn.length?`<div class="mail-sec"><div class="mail-kick">Earnings scorecard</div><table class="mail-tbl"><tr><th>Company</th><th>Revenue</th><th>Y/Y</th><th>EPS</th></tr>${earn.map(e=>`<tr><td><b>${esc(e.name)}</b> <span class="mtk sm">${esc(tk(e.ticker))}</span></td><td>${esc(bnum(e.revenue))}</td><td class="${e.revenue_yoy>0?"up":e.revenue_yoy<0?"down":""}">${esc(pct(e.revenue_yoy)||"–")}</td><td>${e.eps!=null?"$"+(+e.eps).toFixed(2):"–"}</td></tr>`).join("")}</table></div>`:""}
     ${deals.length?`<div class="mail-sec"><div class="mail-kick">Capital markets · deals and financing</div>${deals.map(x=>`<div class="mail-deal"><span class="mtk">${esc(x.type)}</span><div><b>${esc(x.headline)}</b><p>${esc([x.status,dealVal(x)].filter(Boolean).join(" · "))}</p></div></div>`).join("")}</div>`:""}
     ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the day</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ").replace(/\.?$/,"."))}</p></div>`:""}
@@ -528,12 +528,20 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
 
 (function(){
   const box=document.getElementById("roi"); if(!box) return;
-  const v=k=>+box.querySelector(`[data-roi="${k}"]`).value;
+  const READ=10;
+  const inp=k=>box.querySelector(`[data-roi="${k}"]`), v=k=>+inp(k).value;
   const out=(k,t)=>{const e=box.querySelector(`[data-roi-res="${k}"]`);if(e)e.textContent=t};
+  const fmt=n=>Math.round(n).toLocaleString("en-US");
+  const fill=i=>i.style.setProperty("--p",((i.value-i.min)/(i.max-i.min)*100)+"%");
   const calc=()=>{
-    ["adv","now","ai"].forEach(k=>{const o=box.querySelector(`[data-roi-out="${k}"]`);if(o)o.textContent=v(k)});
-    const saved=Math.max(0,v("now")-v("ai")), hours=v("adv")*saved*252/60;
-    out("hours",Math.round(hours).toLocaleString("en-US")); out("week",(saved*5/60).toFixed(1)); out("days",(saved*252/60/8).toFixed(1));
+    box.querySelectorAll("input[type=range]").forEach(fill);
+    const adv=v("adv"), now=v("now"), mtg=v("mtg");
+    box.querySelector('[data-roi-out="adv"]').textContent=adv;
+    box.querySelector('[data-roi-out="now"]').textContent=now+" min";
+    box.querySelector('[data-roi-out="mtg"]').textContent=mtg+" min";
+    const saved=Math.max(0,now-READ), hours=adv*saved*252/60, fte=hours/(252*8);
+    out("hours",fmt(hours)); out("mtgs",(saved*21/mtg).toFixed(saved*21/mtg<10?1:0)); out("days",(saved*252/60/8).toFixed(1)); out("fte",fte.toFixed(fte<10?1:0));
+    out("line",saved?`Your ${adv===1?"advisor":adv+" advisors"} get back ${saved} minutes a day. Across a year that is ${fmt(hours)} hours, about ${fte.toFixed(1)} full-time advisor${fte.toFixed(1)==="1.0"?"":"s"}' worth of time for prospecting and client meetings.`:"Your advisors already spend about as long as the briefing takes. The value is in coverage and consistency.");
   };
   box.querySelectorAll("input[type=range]").forEach(i=>i.addEventListener("input",calc)); calc();
 })();
@@ -541,11 +549,15 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
 /* Pilot request form */
 (function(){
   const f=document.getElementById("pilot-form"); if(!f) return;
+  const TO="desk@alphagenresearch.com";
+  const mailto=fd=>{const L={name:"Name",email:"Work email",firm:"Firm",firm_type:"Firm type",size:"Advisors",tier:"Plan",notes:"Notes"};
+    const body=Object.keys(L).map(k=>L[k]+": "+(fd.get(k)||"")).join("\n");
+    return "mailto:"+TO+"?subject="+encodeURIComponent("Advisor Intelligence pilot request: "+(fd.get("firm")||""))+"&body="+encodeURIComponent(body)};
   f.addEventListener("submit",e=>{
-    e.preventDefault(); const btn=f.querySelector("button[type=submit]"); btn.disabled=true; btn.textContent="Sending…";
-    const body=new URLSearchParams(new FormData(f)).toString();
-    fetch("/",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body}).then(r=>{if(!r.ok)throw 0;f.innerHTML='<div class="pilot-ok"><b>Request received.</b> The AlphaGen desk will follow up within one business day with a sample edition for your firm.</div>'})
-    .catch(()=>{btn.disabled=false;btn.textContent="Request a pilot";const m=f.querySelector(".form-err");m.hidden=false});
+    e.preventDefault(); const btn=f.querySelector("button[type=submit]"); const fd=new FormData(f); btn.disabled=true; btn.textContent="Sending…";
+    const body=new URLSearchParams(fd).toString();
+    fetch("/",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body}).then(r=>{if(!r.ok)throw 0;f.innerHTML='<div class="pilot-ok"><b>Request received.</b> The AlphaGen desk will follow up within one business day with a sample week of briefings for your firm.</div>'})
+    .catch(()=>{btn.disabled=false;btn.textContent="Request a pilot";const m=f.querySelector(".form-err");m.hidden=false;m.innerHTML='Our form is having trouble right now. <a class="btn sm" href="'+mailto(fd)+'">Send it by email instead →</a> Your details are already filled in.'});
   });
 })();
 })();

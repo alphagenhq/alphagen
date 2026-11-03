@@ -89,7 +89,7 @@ $$("[data-fomc]").forEach(el=>{const f=AG.nextFomc();if(!f)return;const mon=new 
   document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!modal.hidden)close()});
   $$("[data-sub-go]").forEach(a=>a.addEventListener("click",()=>{store.set("ag_subscribed","1");if(!modal.hidden)close()}));
   const seen=+store.get("ag_sub_seen")||0;
-  if(!store.get("ag_subscribed")&&Date.now()-seen>3*864e5) setTimeout(()=>{if(modal.hidden)open()},1400);
+  if(!/^\/institutional/.test(location.pathname)&&!store.get("ag_subscribed")&&Date.now()-seen>3*864e5) setTimeout(()=>{if(modal.hidden)open()},1400);
 })();
 
 /* ---------- Wire ---------- */
