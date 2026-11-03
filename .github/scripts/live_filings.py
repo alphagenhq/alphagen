@@ -57,7 +57,7 @@ for e in feed.findall("a:entry", ns):
         tag, h, take = spec
         et = ts.astimezone(ZoneInfo("America/New_York")).strftime("%-I:%M %p ET, %b %-d")
         new.append({"id": iid, "time": ts.strftime("%Y-%m-%dT%H:%M:%SZ"), "tag": tag, "live": True,
-                    "headline": h.format(n=pretty), "take": take.format(n=pretty) + f" Filed {et}. AlphaGen's breakdown follows on the Wire.",
+                    "headline": h.format(n=pretty), "take": take.format(n=pretty) + f" Filed {et}.",
                     "source_name": f"SEC EDGAR, {t} Form 8-K", "source_url": link, "ticker": f"{ex}:{t}"})
         have.add(iid)
 if new:

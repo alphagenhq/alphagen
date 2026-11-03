@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "11"  # asset version
+V = "12"  # asset version
 
 def load(name):
     try:
@@ -190,10 +190,11 @@ def page(rel, path, title, desc, active, body, js="", og="/og/default.png", kind
     write(rel, h + header(active) + '<main id="top">\n' + body + '\n</main>\n' + (SLIP if slip else "") + footer(f"<script>\n{js}\n</script>" if js else ""))
 
 # ---------- shared blocks ----------
-def wire_card(view_id, limit, tags="", title="Live wire", height=None, ticker=""):
+def wire_card(view_id, limit, tags="", title="Live wire", height=None, ticker="", livecap=0):
+    lc = f' data-livecap="{livecap}"' if livecap else ""
     style = f' style="max-height:{height}px"' if height else ""
     tk = f' data-ticker="{E(ticker)}"' if ticker else ""
-    return f'''<div class="card wire"><div class="wire-head"><span class="live">{title}</span><span data-wire-updated>Updating</span></div><div class="wire-list" id="{view_id}" data-wire data-limit="{limit}" data-tags="{tags}"{tk}{style}></div></div>'''
+    return f'''<div class="card wire"><div class="wire-head"><span class="live">{title}</span><span data-wire-updated>Updating</span></div><div class="wire-list" id="{view_id}" data-wire data-limit="{limit}"{lc} data-tags="{tags}"{tk}{style}></div></div>'''
 
 def minis(symbols):
     return '<div class="minis">' + "".join(f'<div class="card"><tv-mini-chart symbol="{s}" theme="dark" transparent></tv-mini-chart></div>' for s in symbols) + '</div>'
@@ -380,7 +381,7 @@ home = f'''<div class="wrap">
 </section>
 <section id="wire">
   <div class="wrap split2">
-    <div>{sec_head("AlphaGen Wire", "Market news, our take", '<a class="btn ghost" href="/wire">Full Wire →</a>')}{wire_card("home-wire", 14)}</div>
+    <div>{sec_head("AlphaGen Wire", "Market news, our take", '<a class="btn ghost" href="/wire">Full Wire →</a>')}{wire_card("home-wire", 14, livecap=3)}</div>
     <div id="research">{sec_head("AlphaGen Research", "Notes &amp; deep dives", '<a class="btn ghost" href="/research">All research →</a>')}
       <div class="notes" id="home-research" data-research="all" data-limit="6"></div>
       <div class="inline-sub"><b>Get every thesis in your inbox.</b><button class="btn" type="button" data-open-sub>Subscribe free</button></div>
@@ -415,7 +416,7 @@ home = f'''<div class="wrap">
   <div class="wrap">
     {sec_head("Rates &amp; Debt", "The Treasury curve and the debt behind it", '<a class="btn ghost" href="/rates">Rates desk →</a>')}
     {DESK}
-    <div class="card" style="margin-top:20px"><div class="card-h"><span>Latest Treasury auctions</span><a href="/auctions">Auction tracker →</a></div><div class="tbl-wrap" style="border:0"><table class="atbl" id="auc-mini"></table></div></div>
+    <div class="card" style="margin-top:20px"><div class="card-h"><span>Latest Treasury auctions <span class="asof-note" data-auc-asof></span></span><a href="/auctions">Auction tracker →</a></div><div class="tbl-wrap" style="border:0"><table class="atbl" id="auc-mini"></table></div></div>
   </div>
 </section>'''
 ORG_LD = {"@context": "https://schema.org", "@type": "Organization", "name": "AlphaGen Research", "url": SITE, "logo": SITE + "/logo-192.png", "sameAs": [X_URL, LI_URL]}

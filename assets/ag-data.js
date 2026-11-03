@@ -16,7 +16,12 @@ function fred(id,start){
   const k=id+start; if(fredCache[k]) return fredCache[k];
   const parse=t=>{if(/^\s*</.test(t)) throw 0; const o=t.trim().split(/\r?\n/).slice(1).map(l=>{const [d,v]=l.split(",");return {d,v:parseFloat(v)}}).filter(o=>o.d&&!isNaN(o.v)&&o.d>=start); if(!o.length) throw 0; return o};
   const get=u=>fetch(u,{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.text()}).then(parse);
-  return fredCache[k]=get("https://raw.githubusercontent.com/alphagenhq/alphagen/data/fred/"+id+".csv").catch(()=>get("/api/fred/"+id+"/"+start));
+  // Ask both the cached copy and FRED itself; use whichever has the most recent observation.
+  const lastD=o=>o[o.length-1].d;
+  return fredCache[k]=Promise.allSettled([get("https://raw.githubusercontent.com/alphagenhq/alphagen/data/fred/"+id+".csv"),get("/api/fred/"+id+"/"+start)]).then(([a,b])=>{
+    const ok=[a,b].filter(r=>r.status==="fulfilled").map(r=>r.value); if(!ok.length) throw 0;
+    return ok.sort((x,y)=>lastD(y)<lastD(x)?-1:lastD(y)>lastD(x)?1:y.length-x.length)[0];
+  });
 }
 function transform(obs,t){
   if(t==="yoy"){const m=new Map(obs.map(o=>[o.d,o.v]));return obs.map(o=>{const [y,mo,d]=o.d.split("-");const p=m.get((+y-1)+"-"+mo+"-"+d);return p?{d:o.d,v:(o.v/p-1)*100}:null}).filter(Boolean)}
@@ -178,7 +183,7 @@ function renderAuctions(){
     if(miniEl) miniEl.innerHTML=`<tr><th>Date</th><th class="l">Security</th><th>High rate</th><th>Bid-to-cover</th></tr>`+done.filter(a=>a.security_type!=="Bill").slice(0,3).concat(done.filter(a=>a.security_type==="Bill").slice(0,3)).sort((a,b)=>a.auction_date<b.auction_date?1:-1).map(a=>{const r=auctionRate(a),b=num(a.bid_to_cover_ratio);return `<tr><td>${shortDay(a.auction_date)}</td><td class="l">${esc(sec(a))}</td><td>${r!=null?r.toFixed(3)+"%":"–"}</td><td>${b!=null?b.toFixed(2)+"x":"–"}</td></tr>`}).join("");
     if(upEl) upEl.innerHTML=up.length?up.slice(0,12).map(a=>`<div class="up-row"><span class="num">${shortDay(a.auction_date)}</span><b>${esc(sec(a))}</b><span class="num">${bn(num(a.offering_amt))}</span></div>`).join(""):'<div class="empty">No upcoming auctions announced yet.</div>';
     if(keyEl){const cpn=done.filter(a=>a.security_type!=="Bill").slice(0,3);keyEl.innerHTML=cpn.map(a=>{const r=auctionRate(a),btc=num(a.bid_to_cover_ratio),p=prevSame(a),pb=p?num(p.bid_to_cover_ratio):null,ind=share(a,"indirect_bidder_accepted");return `<div class="card auc-k"><div class="card-h"><span>${esc(sec(a))}</span><span>${shortDay(a.auction_date)}</span></div><div class="auc-big num">${r!=null?r.toFixed(3)+"%":"–"}</div><div class="auc-sub num">Bid-to-cover <b>${btc!=null?btc.toFixed(2)+"x":"–"}</b>${pb!=null?` <span class="${btc-pb>=0?"up":"down"}">(${btc-pb>=0?"+":""}${(btc-pb).toFixed(2)} vs prior)</span>`:""}</div><div class="auc-sub num">Indirect bidders <b>${ind!=null?ind.toFixed(1)+"%":"–"}</b> · Size <b>${bn(num(a.offering_amt))}</b></div></div>`}).join("")}
-    $$("[data-auc-asof]").forEach(e=>{if(done[0])e.textContent="Latest result: "+fmtDay(done[0].auction_date)});
+    $$("[data-auc-asof]").forEach(e=>{if(done[0])e.textContent=(e.classList.contains("asof-note")?"· Treasury results through ":"Latest result: ")+fmtDay(done[0].auction_date)});
   }).catch(()=>{[upEl,resEl,miniEl,keyEl].forEach(e=>{if(e)e.innerHTML='<tr><td><div class="empty">Treasury auction data is temporarily unavailable. Refresh in a minute.</div></td></tr>'})});
 }
 renderAuctions();
@@ -186,7 +191,7 @@ renderAuctions();
 /* ---------- Charts ---------- */
 function niceTicks(lo,hi,n){const span=hi-lo||1,step0=span/n,mag=Math.pow(10,Math.floor(Math.log10(step0))),err=step0/mag,step=(err>=7.5?10:err>=3.5?5:err>=1.5?2:1)*mag;const t=[];for(let v=Math.ceil(lo/step)*step;v<=hi+1e-9;v+=step)t.push(+v.toFixed(10));return {t,step}}
 function chartSVG(spec,data,opt){
-  opt=opt||{}; const W=opt.w||960,H=opt.h||460,L=58,R=opt.small?16:110,T=opt.brand?92:20,B=opt.brand?70:36;
+  opt=opt||{}; const W=opt.w||960,H=opt.h||460,L=58,R=opt.small?16:180,T=opt.brand?92:20,B=opt.brand?70:36;
   const all=data.flatMap(s=>s.pts); if(!all.length) return "";
   const xs=all.map(p=>+new Date(p.d)), x0=Math.min(...xs), x1=Math.max(...xs);
   let lo=Math.min(...all.map(p=>p.v)), hi=Math.max(...all.map(p=>p.v)); const pad=(hi-lo)*.08||1; lo-=pad; hi+=pad;
@@ -201,14 +206,28 @@ function chartSVG(spec,data,opt){
   const ends=[];
   data.forEach((s,i)=>{const col=SERIES_COLORS[i%5];const step=Math.max(1,Math.floor(s.pts.length/900));const pts=s.pts.filter((p,j)=>j%step===0||j===s.pts.length-1);
     g+=`<polyline points="${pts.map(p=>X(p.d).toFixed(1)+","+Y(p.v).toFixed(1)).join(" ")}" fill="none" stroke="${col}" stroke-width="${opt.small?1.6:2.2}" stroke-linejoin="round"/>`;
-    const lp=s.pts[s.pts.length-1]; ends.push({y:Y(lp.v),col,txt:(+lp.v.toFixed(2))+(spec.units==="%"?"%":""),lab:s.label});
+    const lp=s.pts[s.pts.length-1]; ends.push({y:Y(lp.v),col,txt:lp.v.toFixed(2)+(spec.units==="%"?"%":"")+"  "+shortDay(lp.d),lab:s.label});
     g+=`<circle cx="${X(lp.d)}" cy="${Y(lp.v)}" r="3.5" fill="${col}" stroke="${C.ink}" stroke-width="1.5"/>`});
   if(!opt.small){ends.sort((a,b)=>a.y-b.y);for(let i=1;i<ends.length;i++)if(ends[i].y-ends[i-1].y<30)ends[i].y=ends[i-1].y+30;ends.forEach(e=>{g+=`<text x="${W-R+10}" y="${e.y-2}" font-family="IBM Plex Mono,monospace" font-size="13" fill="${e.col}" font-weight="600">${e.txt}</text><text x="${W-R+10}" y="${e.y+13}" font-family="IBM Plex Sans,sans-serif" font-size="11" fill="${C.steel}">${esc(e.lab)}</text>`})}
   let head="";
   if(opt.brand){head=`<rect width="${W}" height="${H}" fill="${C.ink}"/><rect x="0" y="0" width="6" height="${H}" fill="${C.signal}"/><text x="${L}" y="40" font-family="Archivo,Arial Narrow,sans-serif" font-weight="800" font-size="26" fill="${C.paper}">${esc(spec.title)}</text><text x="${L}" y="66" font-family="IBM Plex Sans,sans-serif" font-size="14" fill="${C.steel}">${esc(spec.subtitle||"")}</text><text x="${L}" y="${H-18}" font-family="IBM Plex Mono,monospace" font-size="11" fill="${C.mute}">Source: ${esc(spec.source||"FRED")} · alphagenresearch.com</text><text x="${W-24}" y="${H-18}" text-anchor="end" font-family="Archivo,Arial,sans-serif" font-weight="800" font-size="16" fill="${C.paper}">Alpha<tspan fill="${C.signal}">Gen</tspan></text>`}
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(spec.title)}">${head}${g}</svg>`;
 }
-function chartData(spec){return Promise.all(spec.series.map(s=>fred(s.id,spec.start||"2015-01-01").then(o=>({label:s.label,pts:transform(o,s.t||"lvl").filter(p=>p.d>=(spec.start||"2015-01-01"))}))))}
+// Charts stop at their publish date so the line always matches the written take.
+// Daily FRED series post a business day late, so a chart published on day D was written from data through ~D-2.
+function chartData(spec){
+  const pub=spec.time?new Date(String(spec.time).slice(0,10)+"T12:00:00Z"):null;
+  const iso=d=>d.toISOString().slice(0,10);
+  return Promise.all(spec.series.map(s=>fred(s.id,spec.start||"2015-01-01").then(o=>{
+    let pts=transform(o,s.t||"lvl").filter(p=>p.d>=(spec.start||"2015-01-01"));
+    if(pub&&pts.length>2){
+      const gap=(new Date(pts[pts.length-1].d)-new Date(pts[pts.length-3].d))/864e5/2;
+      const cut=iso(new Date(pub.getTime()-(gap<=3?2:0)*864e5));
+      pts=pts.filter(p=>p.d<=cut);
+    }
+    return {label:s.label,pts};
+  })));
+}
 function legend(spec){return '<div class="clegend">'+spec.series.map((s,i)=>`<span><i style="background:${SERIES_COLORS[i%5]}"></i>${esc(s.label)}</span>`).join("")+"</div>"}
 function downloadPNG(spec,data){
   const svg=chartSVG(spec,data,{brand:true,w:1200,h:675});const img=new Image();const url=URL.createObjectURL(new Blob([svg],{type:"image/svg+xml"}));
@@ -281,7 +300,7 @@ function renderDeals(){
         let list=items; if(v.type!=="all") list=list.filter(x=>x.type===v.type); if(v.tk) list=list.filter(x=>(x.tickers||[]).some(t=>t.split(":").pop()===v.tk));
         list=list.slice(0,v.limit);
         if(!list.length){el.innerHTML='<div class="empty"><b>No deals logged yet.</b>Deals post as companies announce them and file with the SEC.</div>';return}
-        if(el.dataset.view==="cards"){el.innerHTML='<div class="deal-cards">'+list.map(x=>`<a class="deal-card" href="/deals"><div class="dk"><span class="tag dt-${esc(x.type.replace("&",""))}">${esc(x.type)}</span><span>${esc(day(x.announced||x.time))}</span></div><h3>${esc(x.headline)}</h3><div class="dv num">${esc(x.value_text||money(x.value))}</div><p>${esc(x.take||"")}</p></a>`).join("")+"</div>";return}
+        if(el.dataset.view==="cards"){el.innerHTML='<div class="deal-cards">'+list.map(x=>`<a class="deal-card" href="/deals"><div class="dk"><span class="tag dt-${esc(x.type.replace("&",""))}">${esc(x.type)}</span><span>${esc((x.status&&x.status!=="Announced"?x.status+" · ":"")+"Announced "+day(x.announced||x.time))}</span></div><h3>${esc(x.headline)}</h3><div class="dv num">${esc(x.value!=null?money(x.value):(x.value_text||"Undisclosed"))}</div><p>${esc(x.take||"")}</p></a>`).join("")+"</div>";return}
         el.innerHTML='<div class="tbl-wrap"><table class="etbl dtbl"><tr><th class="l">Deal</th><th>Type</th><th>Value</th><th class="l">Parties</th><th>Status</th><th>Announced</th><th class="l">AlphaGen take</th></tr>'+list.map(x=>`<tr><td class="l"><b>${esc(x.headline)}</b>${(x.tickers||[]).map(t=>` <a class="tag tk" href="/stock/${esc(t.split(":").pop())}">${esc(t.split(":").pop())}</a>`).join("")}</td><td><span class="tag dt-${esc(x.type.replace("&",""))}">${esc(x.type)}</span></td><td class="num">${esc(x.value_text||money(x.value))}</td><td class="l parties">${esc(x.parties||"")}</td><td>${esc(x.status||"")}</td><td>${esc(day(x.announced||x.time))}</td><td class="l take">${esc(x.take||"")} ${x.source_url?`<a class="src" href="${esc(x.source_url)}" target="_blank" rel="noopener">Source →</a>`:""}</td></tr>`).join("")+"</table></div>";
       };
       const bar=document.querySelector(`[data-deal-filters="${el.id}"]`);
@@ -307,7 +326,11 @@ function parseAtom(xml,key){
     const title=g("title"); const m=title.match(/^(.+?) - (.+?) \((\d{10})\)/);
     const link=(e.getElementsByTagName("link")[0]||{getAttribute:()=>""}).getAttribute("href");
     return m?{key,form:m[1],company:m[2].replace(/\s+/g," "),cik:m[3],updated:g("updated"),link}:null;
-  }).filter(Boolean);
+  }).filter(f=>{
+    // EDGAR's "current filings" type filter is a prefix match (type=D also returns DEF 14A proxies), so keep only the exact forms.
+    if(!f) return false; const base=FEEDS[key].form==="Form D"?"D":FEEDS[key].form;
+    return f.form===base||f.form===base+"/A";
+  });
 }
 function renderFilings(){
   const els=$$("[data-filings]"); if(!els.length) return;
@@ -358,10 +381,10 @@ const shortDay=s=>day(s).toLocaleDateString("en-US",{month:"short",day:"numeric"
 
 /* ---------- Snapshot ---------- */
 const SNAP=[
- {g:"Treasuries",rows:[["DGS2","2-year","%"],["DGS10","10-year","%"],["DGS30","30-year","%"],["T10Y2Y","2s10s spread","pp"]]},
+ {g:"Treasuries",rows:[["DGS2","2-year","%"],["DGS10","10-year","%"],["DGS30","30-year","%"],["T10Y2Y","2s10s","pp"]]},
  {g:"Credit & volatility",rows:[["BAMLC0A0CM","IG spread","%"],["BAMLH0A0HYM2","HY spread","%"],["VIXCLS","VIX",""]]},
- {g:"Dollar & FX",rows:[["DTWEXBGS","Broad dollar",""],["DEXUSEU","EUR/USD","fx4"],["DEXJPUS","USD/JPY","fx2"]]},
- {g:"Energy",rows:[["DCOILWTICO","WTI crude","$"],["DCOILBRENTEU","Brent crude","$"],["DHHNGSP","Henry Hub gas","$"]]},
+ {g:"Dollar & FX",rows:[["DTWEXBGS","Dollar index",""],["DEXUSEU","EUR/USD","fx4"],["DEXJPUS","USD/JPY","fx2"]]},
+ {g:"Energy",rows:[["DCOILWTICO","WTI","$"],["DCOILBRENTEU","Brent","$"],["DHHNGSP","Nat gas","$"]]},
  {g:"Crypto · live",live:true,rows:[["BTC-USD","Bitcoin","$c","CBBTCUSD"],["ETH-USD","Ether","$c","CBETHUSD"],["SOL-USD","Solana","$c",null]]}
 ];
 const fmt=(v,u)=>{if(v==null||isNaN(v))return"—";if(u==="%")return v.toFixed(2)+"%";if(u==="pp")return(v>0?"+":"")+Math.round(v*100)+"bp";if(u==="fx4")return v.toFixed(4);if(u==="fx2")return v.toFixed(2);if(u==="$")return"$"+v.toFixed(2);if(u==="$c")return"$"+(v>=1000?Math.round(v).toLocaleString("en-US"):v.toFixed(2));return v.toFixed(2)};
@@ -447,7 +470,7 @@ function stats(D){
 }
 $$("[data-deskstats]").forEach(el=>{
   const keys=(el.dataset.deskstats||"pieces,checked,sources,markets,companies,corrections").split(",");
-  const L={coverage:["% re-verified at source","Checked by the fact desk"],pieces:["Pieces published","Wire, research, deals, earnings, charts"],wire:["Wire pieces","Source-linked market news"],research:["Research & charts","Notes, briefs, Chart of the Day"],deals:["Deals logged","M&A, VC, PE, IPO, debt"],earnings:["Earnings reports","Figures from filings"],checked:["Independently re-checked","By the AlphaGen fact desk"],corrections:["Corrections logged","Published openly"],sources:["Primary sources","Agencies, central banks, filings"],markets:["Markets covered","Rates to crypto"],companies:["Companies covered","Across Wire, deals, earnings"]};
+  const L={coverage:["% source-verified","Checked against primary sources"],pieces:["Pieces published","Wire, research, deals, earnings, charts"],wire:["Wire pieces","Source-linked market news"],research:["Research & charts","Notes, briefs, Chart of the Day"],deals:["Deals logged","M&A, VC, PE, IPO, debt"],earnings:["Earnings reports","Figures from filings"],checked:["Source-verified","Figures checked at the source"],corrections:["Corrections logged","Published openly"],sources:["Primary sources","Agencies, central banks, filings"],markets:["Markets covered","Rates to crypto"],companies:["Companies covered","Across Wire, deals, earnings"]};
   el.innerHTML=keys.map(k=>`<div class="ds"><div class="ds-v num" data-k="${k}">0</div><div class="ds-k">${esc(L[k][0])}</div><div class="ds-s">${esc(L[k][1])}</div></div>`).join("");
   load().then(D=>{const s=stats(D);keys.forEach(k=>{const v=el.querySelector(`[data-k="${k}"]`);if(v)countUp(v,s[k]||0)})});
 });

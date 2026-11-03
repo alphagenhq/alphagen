@@ -28,11 +28,25 @@ AG.tv=function(id,name,cfg){
   s.textContent=JSON.stringify(Object.assign({colorTheme:"dark",isTransparent:true,locale:"en"},cfg));
   el.appendChild(s);
 };
-const wcLoaded={};
-AG.wc=function(name){if(wcLoaded[name])return;wcLoaded[name]=1;const s=document.createElement("script");s.type="module";s.src=TV_WC+name+".js";document.head.appendChild(s)};
-AG.mini=function(symbol){const el=document.createElement("tv-mini-chart");el.setAttribute("symbol",symbol);el.setAttribute("theme","dark");el.setAttribute("transparent","");AG.wc("tv-mini-chart");return el};
-if($("tv-ticker-tape")) AG.wc("tv-ticker-tape");
-if($("tv-mini-chart")) AG.wc("tv-mini-chart");
+/* Classic TradingView embeds (iframe-based). The newer web-component host has been
+   returning errors, which left the ticker tape and mover charts blank. */
+function tvEmbed(name,cfg,cls){
+  const box=document.createElement("div"); box.className=cls||"tvw";
+  const wrap=document.createElement("div"); wrap.className="tradingview-widget-container"; wrap.style.cssText="width:100%;height:100%";
+  const w=document.createElement("div"); w.className="tradingview-widget-container__widget"; w.style.cssText="width:100%;height:100%";
+  const s=document.createElement("script"); s.type="text/javascript"; s.async=true;
+  s.src="https://s3.tradingview.com/external-embedding/embed-widget-"+name+".js";
+  s.textContent=JSON.stringify(Object.assign({colorTheme:"dark",isTransparent:true,locale:"en"},cfg));
+  wrap.appendChild(w); wrap.appendChild(s); box.appendChild(wrap); return box;
+}
+AG.wc=function(){};
+AG.mini=function(symbol){return tvEmbed("mini-symbol-overview",{symbol,width:"100%",height:"100%",dateRange:"1M",autosize:true,trendLineColor:"rgba(76,141,255,1)",underLineColor:"rgba(76,141,255,0.18)",underLineBottomColor:"rgba(76,141,255,0)",noTimeScale:false,chartOnly:false})};
+const TAPE_TITLES={"FOREXCOM:SPXUSD":"S&P 500","FOREXCOM:NSXUSD":"Nasdaq 100","FOREXCOM:DJI":"Dow 30","AMEX:IWM":"Russell 2000 ETF","NASDAQ:TLT":"20+Y Treasury ETF","AMEX:HYG":"High Yield ETF","AMEX:GLD":"Gold ETF","AMEX:USO":"Oil ETF","FX:EURUSD":"EUR/USD","FX:USDJPY":"USD/JPY","BITSTAMP:BTCUSD":"Bitcoin"};
+$$("tv-ticker-tape").forEach(t=>{
+  const syms=(t.getAttribute("symbols")||"").split(",").filter(Boolean).map(s=>({proName:s,title:TAPE_TITLES[s]||s.split(":").pop()}));
+  t.replaceWith(tvEmbed("ticker-tape",{symbols:syms,showSymbolLogo:true,displayMode:"adaptive"},"tvw-tape"));
+});
+$$("tv-mini-chart").forEach(t=>t.replaceWith(AG.mini(t.getAttribute("symbol"))));
 
 /* ---------- nav ---------- */
 const menu=$(".menu-btn"); if(menu){menu.addEventListener("click",()=>{const n=$(".nav");const o=n.classList.toggle("open");menu.setAttribute("aria-expanded",o)})}
@@ -80,20 +94,21 @@ $$("[data-fomc]").forEach(el=>{const f=AG.nextFomc();if(!f)return;const mon=new 
 
 /* ---------- Wire ---------- */
 let WIRE=null, wireSeen=new Set(), wireFirst=true;
-const wireViews=$$("[data-wire]").map(el=>({el,limit:+el.dataset.limit||40,tags:(el.dataset.tags||"").split(",").filter(Boolean),tk:el.dataset.ticker||"",filter:"all",q:""}));
+const wireViews=$$("[data-wire]").map(el=>({el,limit:+el.dataset.limit||40,livecap:+el.dataset.livecap||0,tags:(el.dataset.tags||"").split(",").filter(Boolean),tk:el.dataset.ticker||"",filter:"all",q:""}));
 function renderWire(v){
   let items=live(WIRE&&WIRE.items);
   if(v.tags.length) items=items.filter(i=>v.tags.includes((i.tag||"").toUpperCase()));
   if(v.tk) items=items.filter(i=>(i.ticker||"").split(":").pop()===v.tk);
   if(v.filter!=="all") items=items.filter(i=>(i.tag||"").toUpperCase()===v.filter);
   if(v.q){const q=v.q.toLowerCase();items=items.filter(i=>(i.headline+" "+i.take+" "+(i.ticker||"")).toLowerCase().includes(q))}
+  if(v.livecap){let n=0;items=items.filter(i=>!i.live||++n<=v.livecap)}
   items=items.slice(0,v.limit);
   if(!items.length){v.el.innerHTML='<div class="empty"><b>'+(WIRE?"Nothing here yet.":"Loading the AlphaGen Wire…")+'</b>New pieces post every few minutes through the trading day.</div>';return}
   v.el.innerHTML="";
   items.forEach(it=>{
     const fresh=(Date.now()-new Date(it.time))<60*60000;
     const a=document.createElement("article"); a.className="wire-item"+(!wireFirst&&!wireSeen.has(it.id)?" enter":"");
-    a.innerHTML='<div class="wire-meta">'+(it.live?'<span class="tag livef">● Live filing</span>':'')+'<span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span>'+(it.checked?'<span class="chk" title="Figures re-checked against the source by the AlphaGen fact desk">✓ Source-checked</span>':"")+'</div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.correction?'<p class="corr"><b>Correction:</b> '+esc(it.correction)+'</p>':"")+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
+    a.innerHTML='<div class="wire-meta">'+(it.live?'<span class="tag livef">● Live filing</span>':'')+'<span class="tag">'+esc(it.tag||"Markets")+'</span>'+(it.ticker?'<a class="tag tk" href="/stock/'+esc(it.ticker.split(":").pop())+'">'+esc(it.ticker.split(":").pop())+'</a>':"")+'<span class="'+(fresh?"new":"")+'">'+(fresh?"● ":"")+esc(ago(it.time))+'</span>'+(it.checked?'<span class="chk" title="Figures checked against the primary source">✓ Source-checked</span>':"")+'</div><h3>'+esc(it.headline)+'</h3><p>'+esc(it.take)+'</p>'+(it.correction?'<p class="corr"><b>Correction:</b> '+esc(it.correction)+'</p>':"")+(it.source_url?'<a class="src" href="'+esc(it.source_url)+'" target="_blank" rel="noopener">Source: '+esc(it.source_name||"Official source")+' →</a>':"");
     v.el.appendChild(a);
   });
 }
@@ -102,7 +117,7 @@ function drawWire(){wireViews.forEach(renderWire);drawCrawl();const items=live(W
   $$("[data-wire-updated]").forEach(e=>{if(items[0])e.textContent="Latest "+ago(items[0].time)});
   $$("[data-wire-count]").forEach(e=>{const today=nyParts(new Date()).date;e.textContent=items.filter(i=>nyParts(new Date(i.time)).date===today).length});
 }
-function loadWire(){const lv=fetch("https://raw.githubusercontent.com/alphagenhq/alphagen/data/live.json?t="+Math.floor(Date.now()/60000),{cache:"no-store"}).then(r=>r.ok?r.json():{items:[]}).catch(()=>({items:[]}));return Promise.all([getJSON("/wire.json").catch(()=>({items:[]})),lv]).then(([w,l])=>{const cut=Date.now()-36*3600e3;const li=(l.items||[]).filter(i=>new Date(i.time)>cut);WIRE={updated:w.updated,items:(w.items||[]).concat(li).sort((a,b)=>new Date(b.time)-new Date(a.time))};drawWire()})}
+function loadWire(){const lv=fetch("https://raw.githubusercontent.com/alphagenhq/alphagen/data/live.json?t="+Math.floor(Date.now()/60000),{cache:"no-store"}).then(r=>r.ok?r.json():{items:[]}).catch(()=>({items:[]}));return Promise.all([getJSON("/wire.json").catch(()=>({items:[]})),lv]).then(([w,l])=>{const cut=Date.now()-36*3600e3;const li=(l.items||[]).filter(i=>new Date(i.time)>cut).map(i=>Object.assign({},i,{take:String(i.take||"").replace(/\s*AlphaGen's breakdown follows on the Wire\.?/,"")}));WIRE={updated:w.updated,items:(w.items||[]).concat(li).sort((a,b)=>new Date(b.time)-new Date(a.time))};drawWire()})}
 if(wireViews.length||$("[data-wire-count]")||$("#crawl")){loadWire();setInterval(loadWire,60000);setInterval(drawWire,30000)}
 $$("[data-wire-filters]").forEach(bar=>{
   const v=wireViews.find(w=>w.el.id===bar.dataset.wireFilters); if(!v) return;
@@ -194,7 +209,7 @@ function renderFeature(){
 function drawResearch(){researchViews.forEach(renderResearch);renderFeature()}
 $$("[data-research-filters]").forEach(bar=>{const v=researchViews.find(r=>r.el.id===bar.dataset.researchFilters);if(!v)return;bar.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{v.filter=b.dataset.f;bar.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));renderResearch(v)}))});
 function loadFeed(){
-  return fetchText(["/feed.xml",RSS_DIRECT]).then(t=>{const items=parseRSS(t);if(items.length){POSTS=items;drawResearch()}}).catch(()=>{});
+  return fetchText(["/feed.xml",RSS_DIRECT]).then(t=>{const items=parseRSS(t);if(items.length){POSTS=items;drawResearch();drawDesk()}}).catch(()=>{});
 }
 function loadNotes(){
   return getJSON("/notes.json").then(d=>{NOTES=live(d.items).map(n=>({kind:"note",id:n.id,series:n.series||"",title:n.title,desc:n.dek,link:"/notes/"+encodeURIComponent(n.id),date:n.time,img:"",tickers:(n.tickers||[]).map(x=>x.split(":").pop()),topic:TAG2TOPIC[(n.tag||"").toUpperCase()]||"macro",raw:n}));drawResearch();drawDesk()}).catch(()=>{});
@@ -208,7 +223,12 @@ function drawDesk(){
   const latest=s=>NOTES.find(n=>n.series===s);
   const card=(lab,code,n,fallback)=>n?'<a class="desk-c" href="'+n.link+'"><div class="desk-k"><span class="glyph">'+code+'</span><span>'+lab+'</span><span>'+esc(ago(n.date))+'</span></div><h3>'+esc(n.title)+'</h3><p>'+esc(n.desc||"")+'</p></a>':'<div class="desk-c off"><div class="desk-k"><span class="glyph">'+code+'</span><span>'+lab+'</span></div><h3>'+fallback+'</h3></div>';
   const ch=DESK_CH&&live(DESK_CH.items)[0];
-  el.innerHTML=card("Morning Brief","AM",latest("morning-brief"),"Publishes before the open, weekdays at 7:46 a.m. ET")+(ch?'<a class="desk-c" href="/charts"><div class="desk-k"><span class="glyph">◢</span><span>Chart of the Day</span><span>'+esc(ago(ch.time))+'</span></div><h3>'+esc(ch.title)+'</h3><p>'+esc(ch.subtitle||"")+'</p></a>':'<div class="desk-c off"><div class="desk-k"><span class="glyph">◢</span><span>Chart of the Day</span></div><h3>Publishes each trading morning</h3></div>')+card("The Close","PM",latest("the-close"),"Publishes after the bell, weekdays at 4:46 p.m. ET")+card("The Week Ahead","WK",latest("week-ahead"),"Publishes Sunday evenings");
+  el.innerHTML=card("Morning Brief","AM",latest("morning-brief"),"Publishes before the open, weekdays at 7:46 a.m. ET")+(ch?'<a class="desk-c" href="/charts"><div class="desk-k"><span class="glyph">◢</span><span>Chart of the Day</span><span>'+esc(ago(ch.time))+'</span></div><h3>'+esc(ch.title)+'</h3><p>'+esc(ch.subtitle||"")+'</p></a>':'<div class="desk-c off"><div class="desk-k"><span class="glyph">◢</span><span>Chart of the Day</span></div><h3>Publishes each trading morning</h3></div>')+card("The Close","PM",latest("the-close"),"Publishes after the bell, weekdays at 4:46 p.m. ET")+(function(){
+    const wk=latest("week-ahead"); if(wk) return card("The Week Ahead","WK",wk,"");
+    // Fall back to the newsletter's Weekly Outlook issue if it's from the past 8 days.
+    const nl=POSTS.find(p=>/week(ly)?\s+(outlook|ahead)/i.test(p.title)&&Date.now()-new Date(p.date)<8*864e5);
+    return nl?'<a class="desk-c" href="'+esc(nl.link)+'" target="_blank" rel="noopener"><div class="desk-k"><span class="glyph">WK</span><span>The Week Ahead</span><span>'+esc(ago(nl.date))+'</span></div><h3>'+esc(nl.title)+'</h3><p>'+esc(nl.desc||"")+'</p></a>':card("The Week Ahead","WK",null,"Publishes Sunday evenings");
+  })();
 }
 if($("[data-desk]")){getJSON("/charts.json").then(d=>{DESK_CH=d;drawDesk()}).catch(()=>{});drawDesk()}
 
