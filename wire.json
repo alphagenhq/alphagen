@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-03T16:45:34Z",
+  "updated": "2026-11-03T18:45:49Z",
   "items": [
+    {
+      "id": "2026-11-03-jolts-sep",
+      "time": "2026-11-03T18:47:49Z",
+      "tag": "MACRO",
+      "headline": "JOLTS: September job openings little changed at 7.5M; hires 5.4M",
+      "take": "BLS reported job openings little changed at 7.5 million (rate 4.5%) in September, with hires little changed at 5.4 million (3.4%) and total separations at 5.3 million (3.3%, unchanged). August openings were revised up by 111,000 to 7.2 million. Openings and hires moving little suggests the labor market data in this report showed no sharp shift in the month.",
+      "source_name": "BLS Job Openings and Labor Turnover Summary, September 2026",
+      "source_url": "https://www.bls.gov/news.release/jolts.nr0.htm",
+      "checked": "2026-11-03T18:45:49Z"
+    },
+    {
+      "id": "2026-11-03-jolts-quits",
+      "time": "2026-11-03T18:59:49Z",
+      "tag": "MACRO",
+      "headline": "JOLTS: quits rise to 3.4M in September; layoffs little changed at 1.6M",
+      "take": "BLS said quits increased to 3.4 million in September (rate 2.1%), up 375,000 from a year earlier, while layoffs and discharges were little changed at 1.6 million (1.0%). August quits were revised down by 22,000 to 3.0 million and August layoffs revised up by 127,000 to 1.8 million. A higher quits count alongside steady layoffs is the pairing watchers of labor-market turnover track.",
+      "source_name": "BLS Job Openings and Labor Turnover Summary, September 2026",
+      "source_url": "https://www.bls.gov/news.release/jolts.nr0.htm",
+      "checked": "2026-11-03T18:45:49Z"
+    },
+    {
+      "id": "2026-11-03-knf-q3",
+      "time": "2026-11-03T19:11:49Z",
+      "tag": "EARNINGS",
+      "headline": "Knife River Q3 revenue $1,275.6M, up 6%; updates 2026 guidance",
+      "take": "Knife River reported Q3 2026 revenue of $1,275.6 million versus $1,203.7 million a year earlier, net income of $137.9 million versus $143.2 million, and diluted EPS of $2.43 versus $2.52. Adjusted EBITDA was $271.7 million versus $272.8 million. The company updated full-year 2026 guidance to revenue of $3,375-$3,425 million and adjusted EBITDA of $475-$505 million, citing near-term headwinds.",
+      "source_name": "Knife River Q3 2026 earnings release (SEC 8-K Exhibit 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001955520/000162828026069132/a2026q3ex99.htm",
+      "ticker": "NYSE:KNF",
+      "checked": "2026-11-03T18:45:49Z"
+    },
+    {
+      "id": "2026-11-03-ball-q3",
+      "time": "2026-11-03T19:23:49Z",
+      "tag": "EARNINGS",
+      "headline": "Ball Q3 net sales $4.19B vs $3.38B; comparable EPS $1.10 vs $1.03",
+      "take": "Ball reported Q3 2026 net sales of $4,188 million versus $3,379 million, a net loss attributable to Ball of $94 million (diluted loss per share of $0.36) versus earnings of $321 million ($1.18). Comparable diluted EPS was $1.10 versus $1.03. For 2026 it expects comparable diluted EPS growth of 10-plus percent and free cash flow in the range of $900 million.",
+      "source_name": "Ball Corporation Q3 2026 results release",
+      "source_url": "https://investors.ball.com/news-presentations/press-releases/detail/734/ball-reports-strong-third-quarter-2026-results",
+      "ticker": "NYSE:BALL",
+      "checked": "2026-11-03T18:45:49Z"
+    },
     {
       "id": "2026-11-03-xmtr-q3",
       "time": "2026-11-03T16:50:34Z",
@@ -5311,49 +5353,6 @@
       "source_name": "Federal Reserve Board, Commercial Paper Rates and Outstanding Summary (posted Oct. 22, 2026)",
       "source_url": "https://www.federalreserve.gov/releases/cp/",
       "checked": "2026-10-23T22:50:13Z"
-    },
-    {
-      "id": "2026-10-23-statcan-wk-ahead",
-      "time": "2026-10-23T23:26:13Z",
-      "tag": "GLOBAL",
-      "headline": "Statistics Canada: August payrolls Oct. 29, August GDP by industry Oct. 30",
-      "take": "Statistics Canada's official release calendar lists payroll employment, earnings and hours, and job vacancies for August on Oct. 29, followed by gross domestic product by industry for August on Oct. 30. The Labour Force Survey for October is scheduled for Nov. 6, and October CPI for Nov. 16. The two late-October releases land right after the Bank of Canada's Oct. 28 rate decision.",
-      "source_name": "Statistics Canada, 2026-2027 major economic release dates",
-      "source_url": "https://www150.statcan.gc.ca/n1/release-diffusion/2026-eng.pdf",
-      "checked": "2026-10-23T22:50:13Z"
-    },
-    {
-      "id": "2026-10-23-cpss-q3",
-      "time": "2026-10-23T22:06:44Z",
-      "tag": "CREDIT",
-      "headline": "Consumer Portfolio Services Q3 net income $7.0M; originations $815.3M, up 108.5%",
-      "take": "Consumer Portfolio Services reported Q3 2026 total revenue of $131.9 million versus $108.4 million a year earlier, net income of $7.0 million versus $4.9 million, and diluted EPS of $0.30 versus $0.20. Contracts purchased were $815.3 million versus $391.1 million, while total delinquencies including repossession inventory were 12.29% versus 13.96% and annualized net charge-offs were 7.26% versus 8.01%. Higher origination volume alongside lower delinquencies is the combination to watch as the owned portfolio grows.",
-      "source_name": "Consumer Portfolio Services Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386937/13171/en/consumer-portfolio-services-announces-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:CPSS",
-      "checked": "2026-10-23T22:01:44Z"
-    },
-    {
-      "id": "2026-10-23-uscb-q3",
-      "time": "2026-10-23T22:16:44Z",
-      "tag": "CREDIT",
-      "headline": "USCB Financial Q3 diluted EPS $0.51 vs. $0.45; net interest margin 3.37%",
-      "take": "USCB Financial Holdings reported Q3 2026 net income of $9.5 million and diluted EPS of $0.51, versus $0.45 in Q3 2025 and $0.49 in Q2 2026. Net interest margin was 3.37% versus 3.14% a year earlier and 3.49% in Q2, total assets were $3.0 billion, loans held for investment $2.3 billion, and non-performing loans 0.33% of total loans versus 0.06% a year earlier. Earnings grew from a year ago while the margin slipped from the prior quarter and non-performing loans rose.",
-      "source_name": "USCB Financial Holdings Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386932/0/en/uscb-financial-holdings-inc-reports-third-quarter-2026-fully-diluted-eps-of-0-51-roaa-of-1-27-and-roae-of-16-03.html",
-      "ticker": "NASDAQ:USCB",
-      "checked": "2026-10-23T22:01:44Z"
-    },
-    {
-      "id": "2026-10-23-alpine-q3-guidance",
-      "time": "2026-10-23T22:26:44Z",
-      "tag": "EQUITIES",
-      "headline": "Alpine Income Property Trust raises 2026 AFFO view to $2.20-$2.22 per share",
-      "take": "Alpine Income Property Trust reported Q3 2026 AFFO of $0.55 per diluted share versus $0.46 a year earlier and net income to common stockholders of $0.18 per diluted share versus $(0.09). It raised 2026 AFFO guidance to $2.20-$2.22 from $2.12-$2.15 and investment volume guidance to $310-$350 million from $170-$200 million, and disclosed a pending $117.3 million acquisition of a 13-property industrial portfolio expected to close in Q4 2026. The guidance raise comes alongside a much larger planned investment volume.",
-      "source_name": "Alpine Income Property Trust Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386888/0/en/alpine-income-property-trust-reports-third-quarter-2026-operating-and-financial-results.html",
-      "ticker": "NYSE:PINE",
-      "checked": "2026-10-23T22:01:44Z"
     }
   ]
 }
