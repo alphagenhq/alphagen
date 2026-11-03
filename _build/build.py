@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "15"  # asset version
+V = "16"  # asset version
 
 def load(name):
     try:
@@ -57,7 +57,7 @@ NAV = [
                                 ("crypto", "/crypto", "Crypto", "Bitcoin, ether, digital assets")]),
     ("charts", "/charts", "Charts", None),
     ("research", "/research", "Research", None),
-    ("institutional", "/institutional", "Institutional", None),
+    ("institutional", "/institutional", "For Advisors", None),
 ]
 
 TAPE = ",".join(["FOREXCOM:SPXUSD", "FOREXCOM:NSXUSD", "FOREXCOM:DJI", "AMEX:IWM", "NASDAQ:NVDA", "NASDAQ:AAPL",
@@ -143,10 +143,12 @@ SLIP = f'''<section>
 </section>
 '''
 
-def footer(extra=""):
+def footer(extra="", cta=True):
     def col(title, links): return f'<div><h4>{title}</h4><ul>' + "".join(f'<li><a href="{h}">{n}</a></li>' for h, n in links) + '</ul></div>'
+    cta_html = '''<div class="ai-foot-cta"><div><span class="eyebrow">Advisor Intelligence</span><b>Daily briefings and client talking points for advisory firms.</b></div><div class="cta-row"><a class="btn" href="/institutional#pilot">Request a pilot</a><a class="btn ghost" href="/institutional">Learn more →</a></div></div>''' if cta else ""
     return f'''<footer>
   <div class="wrap">
+    {cta_html}
     <div class="cols">
       <div>
         <div class="logo" style="font-size:1.1rem"><img class="mark" src="/logo-192.png" alt="" width="30" height="30">Alpha<span>Gen</span></div>
@@ -187,7 +189,7 @@ def write(rel, content):
 def page(rel, path, title, desc, active, body, js="", og="/og/default.png", kind="website", slip=True, ld=None):
     h = head(title, desc, path, og, kind)
     if ld: h = h.replace("</head>", '<script type="application/ld+json">' + json.dumps(ld).replace("</", "<\\/") + "</script>\n</head>")
-    write(rel, h + header(active) + '<main id="top">\n' + body + '\n</main>\n' + (SLIP if slip else "") + footer(f"<script>\n{js}\n</script>" if js else ""))
+    write(rel, h + header(active) + '<main id="top">\n' + body + '\n</main>\n' + (SLIP if slip else "") + footer(f"<script>\n{js}\n</script>" if js else "", cta=(active != "institutional")))
 
 # ---------- shared blocks ----------
 def wire_card(view_id, limit, tags="", title="Live wire", height=None, ticker="", livecap=0):
@@ -346,6 +348,7 @@ home = f'''<div class="wrap">
       <h1>Market insights built to <em>generate alpha.</em></h1>
       <p class="lede">The AlphaGen Wire, mover theses, a live macro dashboard, Treasury auction tracking, and daily research across debt, equities, and macro. Built from official data.</p>
       <div class="cta-row"><button class="btn" type="button" data-open-sub>Get the daily thesis free →</button><a class="btn ghost" href="/wire">Read the Wire</a></div>
+      <a class="hero-ai" href="/institutional"><span>For advisory firms</span>Advisor Intelligence: daily briefings and client talking points for your advisors →</a>
       <div class="pulse-row" data-fomc><span><b data-wire-count>0</b> Wire pieces today</span><span>Next FOMC <b data-fomc-date>Oct 27–28</b></span><span>Sources: <b>Fed · Treasury · BLS · SEC</b></span></div>
     </div>
     <a class="feature" id="feature" href="/research">
@@ -361,6 +364,30 @@ home = f'''<div class="wrap">
   </div>
   {LEVELS}
 </div>
+<section class="ai-home">
+  <div class="wrap">
+    <div class="ai-feature">
+      <div>
+        <div class="eyebrow">AlphaGen Advisor Intelligence · For advisory firms</div>
+        <h2 class="sec">Your advisors, ahead of every client question.</h2>
+        <p>Daily briefings with client talking points across macro, policy, equity and capital markets, earnings, and debt, so your advisors spend their time bringing in new money, not catching up.</p>
+        <ul class="ai-trust"><li>Before the open, every market day</li><li>Talking points in every edition</li><li>Your brand or ours</li></ul>
+        <div class="cta-row"><a class="btn" href="/institutional#pilot">Request a 30-day pilot</a><a class="btn ghost" href="/institutional">Explore Advisor Intelligence →</a></div>
+      </div>
+      <div class="ai-preview" id="ai-preview" aria-label="Preview of the latest briefing">
+        <div class="aip-head"><div class="aip-brand"><img src="/logo-192.png" alt="" width="28" height="28"><span class="w">Alpha<span>Gen</span></span></div><div class="aip-ed"><b data-aip-ed>Pre-Market Daily</b><span data-aip-date>Loading…</span></div></div>
+        <div class="aip-index"><span>Macro</span><span>Policy</span><span>Markets</span><span>Earnings</span><span>Deals</span><span>Talking points</span></div>
+        <div class="aip-rows">
+          <div class="aip-row"><span class="aip-k">The big picture</span><b data-aip="eq">&nbsp;</b><small data-aip="eq-s">&nbsp;</small></div>
+          <div class="aip-row"><span class="aip-k">Earnings</span><b data-aip="er">&nbsp;</b><small data-aip="er-s">&nbsp;</small></div>
+          <div class="aip-row"><span class="aip-k">Capital markets</span><b data-aip="cm">&nbsp;</b><small data-aip="cm-s">&nbsp;</small></div>
+        </div>
+        <div class="aip-tp"><span>Talking point for client calls</span><p data-aip="tp">&nbsp;</p></div>
+        <div class="aip-foot">Built live from the AlphaGen desk · Every figure linked to its source</div>
+      </div>
+    </div>
+  </div>
+</section>
 <section>
   <div class="wrap">
     {sec_head("The AlphaGen desk", "Research at machine scale, sourced like a desk", '<a class="btn ghost" href="/methodology">How it works →</a>')}
@@ -396,11 +423,6 @@ home = f'''<div class="wrap">
     {sec_head("Macro dashboard", "The macro pulse", '<a class="btn ghost" href="/dashboard">Full dashboard →</a>')}
     <div class="pulse" data-pulse></div>
     <div data-dash="compact"></div>
-  </div>
-</section>
-<section>
-  <div class="wrap">
-    <div class="inst-band"><div><div class="eyebrow">For advisory firms</div><h2 class="sec">Advisor Intelligence: prepared in minutes, not hours.</h2><p>Daily briefings with client talking points across macro, policy, equity and capital markets, earnings, and debt, so your advisors spend their time bringing in new money, not catching up.</p></div><a class="btn" href="/institutional">Explore Advisor Intelligence →</a></div>
   </div>
 </section>
 <section id="markets">
