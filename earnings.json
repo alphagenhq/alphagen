@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-03T13:39:48Z",
+  "updated": "2026-11-03T14:44:54Z",
   "items": [
+    {
+      "id": "2026-11-03-IPGP-Q3",
+      "time": "2026-11-03T14:52:54Z",
+      "ticker": "NASDAQ:IPGP",
+      "name": "IPG Photonics",
+      "period": "Q3 2026",
+      "report_date": "2026-11-03",
+      "revenue": 0.2875,
+      "revenue_yoy": 14.6,
+      "eps_yoy": null,
+      "eps": 0.47,
+      "take": "IPG Photonics reported Q3 2026 revenue of $287.5 million versus $250.8 million and GAAP diluted EPS of $0.47 versus $0.18; adjusted EPS was $0.61 versus $0.35.",
+      "source_name": "IPG Photonics Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394161/0/en/ipg-photonics-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
+    {
+      "id": "2026-11-03-ADT-Q3",
+      "time": "2026-11-03T14:52:54Z",
+      "ticker": "NYSE:ADT",
+      "name": "ADT",
+      "period": "Q3 2026",
+      "report_date": "2026-11-03",
+      "revenue": 1.349,
+      "revenue_yoy": 3.9,
+      "eps_yoy": null,
+      "eps": 0.2,
+      "take": "ADT reported Q3 2026 revenue of $1,349 million versus $1,298 million; income from continuing operations was $0.20 per diluted share versus $0.17, and guidance was withdrawn.",
+      "source_name": "ADT Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394022/0/en/adt-reports-third-quarter-2026-results.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
     {
       "id": "2026-11-03-FISV-Q3",
       "time": "2026-11-03T13:42:48Z",

@@ -1,6 +1,66 @@
 {
-  "updated": "2026-10-30T13:47:15Z",
+  "updated": "2026-11-03T14:44:54Z",
   "items": [
+    {
+      "id": "2026-11-03-FISV",
+      "time": "2026-11-03T14:44:54Z",
+      "ticker": "FISV",
+      "name": "Fiserv",
+      "headline": "Reports Q3 results with a $6,452 million goodwill impairment",
+      "catalyst": "Q3 GAAP revenue of $5,196 million versus $5,263 million; diluted EPS of $(11.17) versus $1.46; adjusted EPS $1.75.",
+      "thesis": "The company affirmed 2026 organic revenue of (1%) to 0% and adjusted EPS of $7.20 to $7.40. The GAAP loss reflects the non-cash impairment.",
+      "source_name": "Fiserv Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394038/0/en/fiserv-reports-third-quarter-2026-results.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
+    {
+      "id": "2026-11-03-ADT",
+      "time": "2026-11-03T14:44:54Z",
+      "ticker": "ADT",
+      "name": "ADT",
+      "headline": "Withdraws guidance after agreeing to be acquired by Thrive Holdings",
+      "catalyst": "Agreed Oct. 29 to be acquired for $10.00 per share in cash; Q3 revenue $1,349 million versus $1,298 million.",
+      "thesis": "Closing is expected in Q1 2027, subject to stockholder and U.S. antitrust approval. The company is not providing financial guidance.",
+      "source_name": "ADT Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394022/0/en/adt-reports-third-quarter-2026-results.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
+    {
+      "id": "2026-11-03-IPGP",
+      "time": "2026-11-03T14:44:54Z",
+      "ticker": "IPGP",
+      "name": "IPG Photonics",
+      "headline": "Reports Q3 revenue growth and issues Q4 guidance",
+      "catalyst": "Q3 revenue of $287.5 million versus $250.8 million; adjusted EPS $0.61 versus $0.35.",
+      "thesis": "Q4 guidance is revenue of $265 million to $295 million and adjusted EPS of $0.30 to $0.60, excluding the Lumibird Medical acquisition.",
+      "source_name": "IPG Photonics Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394161/0/en/ipg-photonics-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
+    {
+      "id": "2026-11-03-BNTX",
+      "time": "2026-11-03T14:44:54Z",
+      "ticker": "BNTX",
+      "name": "BioNTech",
+      "headline": "Reports Q3 results and updates full-year revenue range",
+      "catalyst": "Q3 revenue of €1,289.2 million versus €1,518.9 million; IFRS diluted EPS €0.73 versus €(0.12).",
+      "thesis": "Full-year 2026 revenue guidance is now €1,700 million to €1,900 million versus €1,600 million to €1,900 million previously.",
+      "source_name": "BioNTech Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394017/0/en/biontech-announces-third-quarter-2026-financial-results-and-corporate-update.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
+    {
+      "id": "2026-11-03-APO",
+      "time": "2026-11-03T14:44:54Z",
+      "ticker": "APO",
+      "name": "Apollo Global Management",
+      "headline": "Reports Q3 results and declares quarterly dividend",
+      "catalyst": "Dividend of $0.5625 per share; origination of $114 billion in the quarter; about $1.07 trillion of AUM.",
+      "thesis": "The dividend is payable Nov. 30 to holders of record at the close of business Nov. 18.",
+      "source_name": "Apollo Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394015/0/en/apollo-reports-third-quarter-2026-results.html",
+      "checked": "2026-11-03T14:44:54Z"
+    },
     {
       "id": "2026-10-30-XOM",
       "time": "2026-10-30T13:47:15Z",
@@ -11,66 +71,6 @@
       "thesis": "Cash flow from operating activities was $25.7 billion and free cash flow was $19.1 billion. The buyback figure assumes reasonable market conditions.",
       "source_name": "ExxonMobil Q3 2026 earnings release",
       "source_url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1213/exxonmobil-announces-third-quarter-2026-results",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-CVX",
-      "time": "2026-10-30T13:47:15Z",
-      "ticker": "CVX",
-      "name": "Chevron",
-      "headline": "Reports Q3 EPS of $5.06 versus $1.82 a year earlier",
-      "catalyst": "Q3 diluted EPS was $5.06 versus $1.82; total revenues and other income were $67,798 million versus $49,726 million.",
-      "thesis": "Adjusted earnings were $10.4 billion, or $5.28 per share. The board declared a $1.78 quarterly dividend.",
-      "source_name": "Chevron Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000196/a09302026ex9918-k.htm",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-REGN",
-      "time": "2026-10-30T13:47:15Z",
-      "ticker": "REGN",
-      "name": "Regeneron",
-      "headline": "Reports Q3 revenue up 36% and non-GAAP EPS of $20.07 versus $11.83",
-      "catalyst": "Q3 revenues were $5,116 million versus $3,754 million; GAAP diluted EPS was $18.45 versus $13.62.",
-      "thesis": "Dupixent global net sales (recorded by Sanofi) rose 35% to $6.5 billion and EYLEA HD U.S. net sales rose 62% to $699 million.",
-      "source_name": "Regeneron Q3 2026 earnings release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/30/3392127/0/en/regeneron-reports-third-quarter-2026-financial-and-operating-results.html",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-CBOE",
-      "time": "2026-10-30T13:47:15Z",
-      "ticker": "CBOE",
-      "name": "Cboe Global Markets",
-      "headline": "Reports Q3 diluted EPS of $4.08 and lifts organic net revenue growth target",
-      "catalyst": "Q3 diluted EPS was $4.08 versus $2.85; net revenue was $712.2 million versus $605.5 million.",
-      "thesis": "Cboe now expects 2026 organic total net revenue growth in the 'high teens' range, up from 'mid to high teens'.",
-      "source_name": "Cboe Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001374310/000162828026068432/cboe-20261030xex991.htm",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-CL",
-      "time": "2026-10-30T13:47:15Z",
-      "ticker": "CL",
-      "name": "Colgate-Palmolive",
-      "headline": "Reports Q3 net sales of $5,369M and diluted EPS of $0.94",
-      "catalyst": "Q3 net sales were $5,369 million versus $5,131 million; GAAP diluted EPS was $0.94 versus $0.91.",
-      "thesis": "Sales and per-share earnings both rose from a year earlier.",
-      "source_name": "Colgate-Palmolive Q3 2026 earnings release (SEC Form 8-K)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000021665/000002166526000047/q32026pressreleasetables.htm",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-GD",
-      "time": "2026-10-30T13:47:15Z",
-      "ticker": "GD",
-      "name": "General Dynamics",
-      "headline": "Reports Q3 operating earnings of $1.5B and $4.49 per diluted share",
-      "catalyst": "Third-quarter 2026 operating earnings were $1.5 billion, or $4.49 per diluted share.",
-      "thesis": "The company's release is dated Oct. 30, 2026; the figures here are those stated in its headline summary.",
-      "source_name": "General Dynamics Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/general-dynamics-reports-third-quarter-2026-financial-results-302924010.html",
       "checked": "2026-10-30T13:47:15Z"
     }
   ]
