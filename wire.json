@@ -1,6 +1,58 @@
 {
-  "updated": "2026-11-03T01:50:00Z",
+  "updated": "2026-11-03T02:44:44Z",
   "items": [
+    {
+      "id": "2026-11-02-rba-decision-tonight",
+      "time": "2026-11-03T02:49:44Z",
+      "tag": "GLOBAL",
+      "headline": "RBA Monetary Policy Board decision due Nov. 3 at 2:30 p.m. AEDT, 10:30 p.m. ET",
+      "take": "The Reserve Bank of Australia's calendar lists a Monetary Policy Board meeting on Nov. 2-3, with the decision statement and the Statement on Monetary Policy both scheduled for Nov. 3 at 2:30 p.m. AEDT and a media conference at 3:30 p.m. AEDT. The Chart Pack follows Nov. 4 at 11:30 a.m. AEDT, and Deputy Governor Andrew Hauser speaks Nov. 5. The decision lands in the Asia session ahead of U.S. trading Tuesday.",
+      "source_name": "Reserve Bank of Australia calendar",
+      "source_url": "https://www.rba.gov.au/schedules-events/calendar/",
+      "checked": "2026-11-03T02:44:44Z"
+    },
+    {
+      "id": "2026-11-02-ust-refunding-nov-4",
+      "time": "2026-11-03T02:59:44Z",
+      "tag": "DEBT",
+      "headline": "Treasury lists quarterly refunding documents for Nov. 4 release",
+      "take": "Treasury's quarterly refunding page says the next release of the refunding policy statement, TBAC report and minutes, recommended financing table, auction schedule and buyback schedule is scheduled for Nov. 4, 2026. The page lists the preceding release on Aug. 5 and a financing-estimates release scheduled for Nov. 2. Refunding statements set the tone for coupon auction sizes, making Nov. 4 the key Treasury supply date this week.",
+      "source_name": "U.S. Treasury quarterly refunding",
+      "source_url": "https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/most-recent-quarterly-refunding-documents",
+      "checked": "2026-11-03T02:44:44Z"
+    },
+    {
+      "id": "2026-11-02-etr-q3-8k",
+      "time": "2026-11-03T03:09:44Z",
+      "tag": "EARNINGS",
+      "headline": "Entergy furnishes third-quarter 2026 earnings release in Nov. 2 8-K",
+      "take": "Entergy Corporation filed a Form 8-K under Items 2.02 and 7.01 reporting that it issued a press release on Nov. 2, 2026 announcing results of operations and financial condition for the third quarter of 2026, attached as Exhibit 99.1. The filing is a combined report with Entergy's utility subsidiaries. The 8-K itself carries no figures, which sit in the exhibit.",
+      "source_name": "SEC EDGAR: Entergy Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000065984/000006598426000322/etr-20261102.htm",
+      "ticker": "NYSE:ETR",
+      "checked": "2026-11-03T02:44:44Z"
+    },
+    {
+      "id": "2026-11-02-publix-q3-8k",
+      "time": "2026-11-03T03:19:44Z",
+      "tag": "EARNINGS",
+      "headline": "Publix files Nov. 2 8-K with third-quarter 2026 results",
+      "take": "Publix Super Markets filed a Form 8-K under Item 2.02 stating that on Nov. 2, 2026 it issued a press release reporting its third-quarter results for 2026, attached as Exhibit 99.1. The 8-K body contains no sales or earnings figures. Publix is employee-owned and not exchange-listed, so its filings are the main public read on grocery-sector results.",
+      "source_name": "SEC EDGAR: Publix Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000081061/000008106126000097/ck0000081061-20261102.htm",
+      "checked": "2026-11-03T02:44:44Z"
+    },
+    {
+      "id": "2026-11-02-bwxt-q3-8k",
+      "time": "2026-11-03T03:29:44Z",
+      "tag": "EARNINGS",
+      "headline": "BWX Technologies files Q3 2026 earnings 8-K for quarter ended Sept. 30",
+      "take": "BWX Technologies filed a Form 8-K under Item 2.02 stating that on Nov. 2, 2026 it issued a press release announcing financial results for the third quarter ended Sept. 30, 2026, attached as Exhibit 99.1. The 8-K body itself contains no revenue or earnings figures. Investors will look to the exhibit for backlog and guidance detail.",
+      "source_name": "SEC EDGAR: BWX Technologies Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001486957/000148695726000053/bwxt_93026x8k.htm",
+      "ticker": "NYSE:BWXT",
+      "checked": "2026-11-03T02:44:44Z"
+    },
     {
       "id": "2026-11-02-on-ferric",
       "time": "2026-11-03T01:55:00Z",
@@ -5300,57 +5352,6 @@
       "ticker": "NYSE:CRH",
       "time": "2026-10-23T17:52:00Z",
       "checked": "2026-10-23T17:51:00Z"
-    },
-    {
-      "id": "2026-10-23-fhlb-desmoines-q3",
-      "tag": "CREDIT",
-      "headline": "FHLB Des Moines Q3 net income $200M vs. $259M; advances $136.1B",
-      "take": "The Federal Home Loan Bank of Des Moines reported preliminary Q3 2026 net income of $200 million versus $259 million in Q3 2025, with net interest income of $314 million versus $335 million. Advances were $136,089 million at Sept. 30, up $25.9 billion from $110,230 million at Dec. 31, 2025, and total assets were $217,362 million. Balance sheet growth alongside lower quarterly income is the pattern to note, and other expense rose to $103 million from $59 million.",
-      "source_name": "Federal Home Loan Bank of Des Moines Q3 2026 release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387474/3898/en/federal-home-loan-bank-of-des-moines-announces-third-quarter-2026-financial-results-declares-dividend.html",
-      "time": "2026-10-23T18:01:00Z",
-      "checked": "2026-10-23T17:51:00Z"
-    },
-    {
-      "id": "2026-10-23-fhlb-desmoines-dividend",
-      "tag": "CREDIT",
-      "headline": "FHLB Des Moines dividend 9.95% on activity stock; $194M payable Nov. 10",
-      "take": "FHLB Des Moines declared annualized dividend rates of 9.95% on average activity-based stock and 6.95% on average membership stock, unchanged from the prior quarter, with total payments of $194 million expected Nov. 10, 2026. Retained earnings were $3,985 million versus $3,797 million at year-end 2025, and the regulatory capital ratio was 5.45% versus 5.54%. Dividends are paid to member institutions that hold the bank's stock, so the rate reflects the bank's earnings returned to members.",
-      "source_name": "Federal Home Loan Bank of Des Moines Q3 2026 release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387474/3898/en/federal-home-loan-bank-of-des-moines-announces-third-quarter-2026-financial-results-declares-dividend.html",
-      "time": "2026-10-23T18:10:00Z",
-      "checked": "2026-10-23T17:51:00Z"
-    },
-    {
-      "id": "2026-10-23-bea-gdp-pio-oct-29",
-      "tag": "MACRO",
-      "headline": "BEA to release Q3 advance GDP and September income and outlays Oct. 29",
-      "take": "The Bureau of Economic Analysis schedule lists \"GDP (Advance Estimate), 3rd Quarter 2026\" and \"Personal Income and Outlays, September 2026\" for Oct. 29 at 8:30 a.m. ET. U.S. International Trade in Goods and Services for September follows on Nov. 4 at 8:30 a.m. Both Oct. 29 releases land the morning after the FOMC's Oct. 28 decision and on the same day as the ECB's.",
-      "source_name": "BEA release schedule",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "time": "2026-10-23T18:19:00Z",
-      "checked": "2026-10-23T17:51:00Z"
-    },
-    {
-      "id": "2026-10-23-ecb-oct-28-29",
-      "tag": "GLOBAL",
-      "headline": "ECB Governing Council meets Oct. 28-29; press conference Oct. 29",
-      "take": "The ECB's calendar shows its October monetary policy meeting on Oct. 28 and 29, with a press conference on Oct. 29. The next meeting is Dec. 16-17, with a press conference on Dec. 17. The Oct. 29 decision shares a day with U.S. advance Q3 GDP, so U.S. and euro-area signals arrive together.",
-      "source_name": "ECB: Meetings of the Governing Council",
-      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
-      "time": "2026-10-23T18:28:00Z",
-      "checked": "2026-10-23T17:51:00Z"
-    },
-    {
-      "id": "2026-10-23-gntx-q3",
-      "time": "2026-10-23T17:02:57Z",
-      "tag": "EARNINGS",
-      "headline": "Gentex Q3 sales $647.7M vs. $655.2M; diluted EPS $0.43 vs. $0.46",
-      "take": "Gentex reported Q3 2026 net sales of $647.7 million versus $655.2 million a year earlier, with GAAP net income of $90.6 million versus $101.0 million and diluted EPS of $0.43 versus $0.46. Adjusted diluted EPS was $0.47 in both periods, and gross margin was 33.4% versus 34.4%, which the company attributed mainly to higher precious metal costs and lower-than-expected sales. Sales slipped 1.1% while GAAP EPS fell 6.5%, so the gap between GAAP and flat adjusted EPS is the detail to read in the release.",
-      "source_name": "Gentex Q3 2026 earnings release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387211/32299/en/gentex-reports-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:GNTX",
-      "checked": "2026-10-23T17:02:57Z"
     }
   ]
 }
