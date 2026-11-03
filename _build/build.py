@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "16"  # asset version
+V = "17"  # asset version
 
 def load(name):
     try:
@@ -631,7 +631,7 @@ inst = f'''<div class="wrap">
       <div class="ai-topic"><span class="n">05</span><b>Earnings</b><p>What major companies reported and what changed in their outlook.</p></div>
       <div class="ai-topic"><span class="n">06</span><b>Debt &amp; rates</b><p>Treasury yields, auctions, credit, and the national debt.</p></div>
       <div class="ai-topic"><span class="n">07</span><b>Global &amp; geopolitics</b><p>Central banks, energy, and world events, through their market impact.</p></div>
-      <div class="ai-topic feat"><span class="n">08</span><b>Client talking points</b><p>Plain-English points, ready to use in client conversations.</p></div>
+      <div class="ai-topic"><span class="n">08</span><b>Client talking points</b><p>Plain-English points, ready to use in client conversations.</p></div>
     </div>
   </div>
 </section>
@@ -654,9 +654,9 @@ inst = f'''<div class="wrap">
       </div>
       <div class="ai-qa">
         <div class="tagrow"><span class="tag">Capital markets</span></div>
-        <div class="q"><span>Client</span>"Are companies still doing big deals?"</div>
-        <div class="a"><span>Advisor, from the latest briefing</span>"Yes. On October 27 alone, Guidewire agreed to buy hyperexponential for $1.7 billion in cash plus up to $400 million tied to revenue targets, funded partly with a new $1.0 billion term loan. Ares Capital agreed to acquire MidCap Financial Investment Corporation in a deal valued at about $2.6 billion in total enterprise value, paid mostly in Ares stock."</div>
-        <div class="src">Sources: Guidewire press release · Ares Capital press release (SEC Form 8-K, Ex. 99.1)</div>
+        <div class="q"><span>Client</span>"I own Lumentum and saw it's being bought by Marvell. What happens to my shares?"</div>
+        <div class="a"><span>Advisor, from the latest briefing</span>"It's an all-stock deal, so there's no cash payout. If it closes, each Lumentum share you own becomes 4.5 Marvell shares. Marvell valued the deal at about $115 billion, but it still needs approval from both companies' shareholders and regulators, and they expect it to close in the first half of 2028. Until then, nothing changes in your account."</div>
+        <div class="src">Source: Marvell and Lumentum merger announcement, Nov. 2, 2026</div>
       </div>
     </div>
   </div>
@@ -780,11 +780,12 @@ inst = f'''<div class="wrap">
         <input type="hidden" name="form-name" value="pilot">
         <p hidden><label>Leave blank <input name="company_url"></label></p>
         <label>Name<input name="name" autocomplete="name" required></label>
-        <label>Work email<input type="email" name="email" autocomplete="email" required></label>
         <label>Firm<input name="firm" autocomplete="organization" required></label>
+        <label>Work email<input type="email" name="email" autocomplete="email" required></label>
+        <label>Phone<input type="tel" name="phone" autocomplete="tel" inputmode="tel" pattern="(.*[0-9]){{7,}}.*" title="Please enter a valid phone number" placeholder="(555) 555-0123" required></label>
         <label>Firm type<select name="firm_type"><option>Registered investment adviser</option><option>Broker-dealer</option><option>Wealth management team</option><option>Family office</option><option>Bank or credit union</option><option>Other</option></select></label>
         <label>Number of advisors<select name="size"><option>1–10</option><option>11–50</option><option>51–250</option><option>250+</option></select></label>
-        <label>Plan<select name="tier"><option>Moderate (2 reads / day)</option><option>Base (1 read / day)</option><option>Most (4 reads / day)</option><option>Not sure yet</option></select></label>
+        <label class="full">Plan<select name="tier"><option>Moderate (2 reads / day)</option><option>Base (1 read / day)</option><option>Most (4 reads / day)</option><option>Not sure yet</option></select></label>
         <label class="full">Anything we should know?<textarea name="notes" rows="3"></textarea></label>
         <div class="form-err" hidden>That didn't go through. Please email desk@alphagenresearch.com instead.</div>
         <button class="btn" type="submit">Request a pilot</button>

@@ -481,6 +481,7 @@ const bnum=v=>v==null?"–":"$"+(+v).toFixed(v>=100?1:2)+"B";
 const pct=v=>v==null?"":(v>0?"+":"")+(+v).toFixed(1)+"%";
 const money=v=>v==null?null:v>=1?"$"+(+v).toFixed(v>=10?1:2)+"B":"$"+Math.round(v*1000)+"M";
 const nyDate=t=>new Date(t||Date.now()).toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",timeZone:"America/New_York"});
+const newestEd=D=>{const am=D.n.find(n=>n.series==="morning-brief"),pm=D.n.find(n=>n.series==="the-close");return pm&&(!am||new Date(pm.time)>new Date(am.time))?"pm":"am"};
 const pickBrief=(D,ed)=>D.n.find(n=>n.series===(ed==="pm"?"the-close":"morning-brief"))||D.n.find(n=>n.series)||D.n[0];
 const tpList=n=>(n&&n.talking_points||[]).length?n.talking_points:[];
 const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length<28?x.value_text:"Undisclosed");
@@ -489,8 +490,8 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
   const root=document.getElementById("ai-preview"); if(!root) return;
   load().then(D=>{
     const set=(k,v)=>{const e=root.querySelector(`[data-aip="${k}"]`);if(e)e.textContent=v||""};
-    const brief=pickBrief(D,"am"), m=D.m[0], e=D.e[0], d=D.d.find(x=>x.value!=null)||D.d[0];
-    root.querySelector("[data-aip-date]").textContent=brief?nyDate(brief.time):"";
+    const ed0=newestEd(D), brief=pickBrief(D,ed0), m=D.m[0], e=D.e[0], d=D.d.find(x=>x.value!=null)||D.d[0];
+    root.querySelector("[data-aip-date]").textContent=brief?nyDate(brief.time):"";root.querySelector("[data-aip-ed]").textContent=ed0==="pm"?"At the Close":"Pre-Market Daily";
     if(brief){set("eq",brief.title.replace(/^[^:]+:\s*/,""));set("eq-s",brief.dek||"")}else if(m){set("eq",m.name+": "+m.headline);set("eq-s",m.catalyst||"")}
     if(e){set("er",e.name+" "+(e.period||"")+(e.revenue!=null?" · Revenue "+bnum(e.revenue)+(e.revenue_yoy!=null?" ("+pct(e.revenue_yoy)+" y/y)":""):""));set("er-s",(e.take||"").split(". ")[0].replace(/\.?$/,"."))}
     if(d){set("cm",d.headline);set("cm-s",[d.type,d.status,dealVal(d)].filter(Boolean).join(" · "))}
@@ -506,7 +507,8 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
   let mode="alphagen", ed="am", D=null;
   const draw=()=>{if(!D)return;const b=brands[mode];
     const brief=pickBrief(D,ed); const edName=ed==="pm"?"At the Close":"Pre-Market Daily";
-    const movers=D.m.slice(0,3), earn=D.e.filter(e=>e.revenue!=null).slice(0,4), deals=D.d.slice(0,3), ch=D.c[0], tp=tpList(brief);
+    const bt=brief?new Date(brief.time):new Date(), fresh=(x,d)=>x&&Math.abs(bt-new Date(x.time))<d*864e5;
+    const movers=D.m.filter(m=>fresh(m,4)).slice(0,3), earn=D.e.filter(e=>e.revenue!=null).slice(0,4), deals=D.d.slice(0,3), ch=fresh(D.c[0],5)?D.c[0]:null, tp=tpList(brief);
     root.style.setProperty("--brand",b.accent);
     const secs=[["Big picture",!!brief],["Markets",movers.length],["Earnings",earn.length],["Capital markets",deals.length],["Chart",!!ch],["Talking points",tp.length]].filter(x=>x[1]).map(x=>x[0]);
     root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(edName)}: ${esc(brief?brief.title.replace(/^[^:]+:\s*/,""):"Today in markets")}</span></div>
@@ -523,7 +525,7 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
   };
   root.querySelectorAll("[data-brand]").forEach(btn=>btn.addEventListener("click",()=>{mode=btn.dataset.brand;root.querySelectorAll("[data-brand]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
   root.querySelectorAll("[data-ed]").forEach(btn=>btn.addEventListener("click",()=>{ed=btn.dataset.ed;root.querySelectorAll("[data-ed]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
-  load().then(d=>{D=d;draw()});
+  load().then(d=>{D=d;ed=newestEd(d);root.querySelectorAll("[data-ed]").forEach(x=>x.setAttribute("aria-pressed",x.dataset.ed===ed?"true":"false"));draw()});
 })();
 
 (function(){
@@ -550,7 +552,7 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
 (function(){
   const f=document.getElementById("pilot-form"); if(!f) return;
   const TO="desk@alphagenresearch.com";
-  const mailto=fd=>{const L={name:"Name",email:"Work email",firm:"Firm",firm_type:"Firm type",size:"Advisors",tier:"Plan",notes:"Notes"};
+  const mailto=fd=>{const L={name:"Name",email:"Work email",phone:"Phone",firm:"Firm",firm_type:"Firm type",size:"Advisors",tier:"Plan",notes:"Notes"};
     const body=Object.keys(L).map(k=>L[k]+": "+(fd.get(k)||"")).join("\n");
     return "mailto:"+TO+"?subject="+encodeURIComponent("Advisor Intelligence pilot request: "+(fd.get("firm")||""))+"&body="+encodeURIComponent(body)};
   f.addEventListener("submit",e=>{
