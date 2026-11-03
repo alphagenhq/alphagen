@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T01:50:00Z",
+  "updated": "2026-11-03T13:39:48Z",
   "items": [
+    {
+      "id": "2026-11-03-merck-lonza-cdmo",
+      "time": "2026-11-03T14:18:48Z",
+      "type": "M&A",
+      "headline": "Lonza to acquire Merck KGaA's CDMO business for a mid-triple-digit million euro amount",
+      "parties": "Acquirer: Lonza; Target: CDMO business of Merck KGaA, Darmstadt, Germany",
+      "value": null,
+      "value_text": "Mid-triple-digit million euros (exact figure undisclosed)",
+      "status": "Announced",
+      "announced": "2026-11-03",
+      "sector": "Life Sciences",
+      "take": "The agreement covers CDMO operations at sites in Carlsbad, Madison, Verona, St. Louis and Indianapolis, and excludes BioReliance Contract Testing Services. Closing is expected in mid-2027, subject to customary regulatory approvals and other conditions.",
+      "source_name": "Merck KGaA release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3393912/0/en/merck-kgaa-darmstadt-germany-to-divest-cdmo-business-to-lonza.html",
+      "tickers": [],
+      "checked": "2026-11-03T13:39:48Z"
+    },
     {
       "id": "2026-11-02-on-ferric",
       "time": "2026-11-03T01:55:00Z",
