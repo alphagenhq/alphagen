@@ -640,3 +640,5 @@ a.desk-c:hover{border-color:var(--signal);transform:translateY(-2px)}
 [data-dash="compact"] .dg-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media (max-width:860px){[data-dash="compact"]{grid-template-columns:1fr}}
 .asof-note{color:var(--mute);letter-spacing:.04em;text-transform:none;margin-left:6px}
+/* TradingView frames use a light color scheme; matching it on the iframe keeps them transparent on our dark page */
+.tvw iframe,.tvw-tape iframe{color-scheme:light}

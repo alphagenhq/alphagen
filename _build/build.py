@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "12"  # asset version
+V = "13"  # asset version
 
 def load(name):
     try:
