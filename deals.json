@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-02T19:45:38Z",
+  "updated": "2026-11-03T01:50:00Z",
   "items": [
+    {
+      "id": "2026-11-02-on-ferric",
+      "time": "2026-11-03T01:55:00Z",
+      "type": "M&A",
+      "headline": "onsemi to acquire Ferric for $600M cash plus up to $175M in milestones",
+      "parties": "Acquirer: onsemi; Target: Ferric, Inc.",
+      "value": 0.6,
+      "value_text": "$600 million cash at closing plus up to $175 million contingent",
+      "status": "Announced",
+      "announced": "2026-11-02",
+      "sector": "Semiconductors",
+      "take": "The $600 million is payable in cash at closing, with up to $175 million more tied to revenue milestones; it will be funded with cash on hand. Closing is expected by the end of 2026, subject to customary conditions.",
+      "source_name": "onsemi press release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3393726/0/en/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors.html",
+      "tickers": [
+        "NASDAQ:ON"
+      ],
+      "checked": "2026-11-03T01:50:00Z"
+    },
+    {
+      "id": "2026-11-02-keku-nycom",
+      "time": "2026-11-03T02:10:00Z",
+      "type": "M&A",
+      "headline": "Kewaunee Scientific to acquire lab dealer Nycom for $55M initial base price",
+      "parties": "Acquirer: Kewaunee Scientific Corporation; Target: Nycom, Inc.",
+      "value": 0.055,
+      "value_text": "$55 million initial base purchase price, subject to adjustments",
+      "status": "Announced",
+      "announced": "2026-11-02",
+      "sector": "Industrials",
+      "take": "Consideration includes a $20 million subordinated note and $5 million of newly issued Kewaunee shares, with the rest in cash funded by cash on hand and PNC Bank financing. Closing is expected in the fourth quarter of fiscal 2027, subject to customary conditions.",
+      "source_name": "Kewaunee Scientific press release (PR Newswire)",
+      "source_url": "https://www.biospace.com/press-releases/kewaunee-scientific-announces-agreement-to-acquire-nycom-inc",
+      "tickers": [
+        "NASDAQ:KEQU"
+      ],
+      "checked": "2026-11-03T01:50:00Z"
+    },
     {
       "id": "2026-11-02-nsac-nuclea",
       "time": "2026-11-02T19:58:00Z",
