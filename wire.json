@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-03T14:44:54Z",
+  "updated": "2026-11-03T15:44:13Z",
   "items": [
+    {
+      "id": "2026-11-03-amrx-q3-guidance",
+      "time": "2026-11-03T15:49:13Z",
+      "tag": "EARNINGS",
+      "headline": "Amneal Q3 revenue $863M, up 10%; raises 2026 revenue and EBITDA guidance",
+      "take": "Amneal reported Q3 2026 net revenue of $863 million versus $785 million a year earlier, a GAAP diluted loss of $0.06 per share versus earnings of $0.01, and adjusted diluted EPS of $0.26 versus $0.17. It updated 2026 guidance to net revenue of $3.15 billion to $3.25 billion (prior $3.10 billion to $3.20 billion) and adjusted EBITDA of $800 million to $815 million (prior $750 million to $780 million). The raised ranges sit alongside lower operating cash flow guidance of $325 million to $375 million, from $350 million to $400 million.",
+      "source_name": "Amneal Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394002/0/en/amneal-reports-third-quarter-2026-financial-results.html",
+      "ticker": "NYSE:AMRX",
+      "checked": "2026-11-03T15:44:13Z"
+    },
+    {
+      "id": "2026-11-03-luckin-q3",
+      "time": "2026-11-03T15:59:13Z",
+      "tag": "EARNINGS",
+      "headline": "Luckin Coffee Q3 net revenues RMB17.9B, up 17.0%; same-store sales negative 11.1%",
+      "take": "Luckin Coffee reported Q3 2026 total net revenues of RMB17,891.5 million (US$2,666.0 million) versus RMB15,287.1 million a year earlier, and net income of RMB1,858.9 million versus RMB1,278.3 million. Self-operated same-store sales growth was negative 11.1%, against 14.3% in Q3 2025, and the company ended the quarter with 38,909 stores. Revenue growth is coming from store count and customers rather than from existing-store sales.",
+      "source_name": "Luckin Coffee Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394076/0/en/luckin-coffee-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-11-03T15:44:13Z"
+    },
+    {
+      "id": "2026-11-03-luckin-buyback",
+      "time": "2026-11-03T16:09:13Z",
+      "tag": "EQUITIES",
+      "headline": "Luckin Coffee board approves new share repurchase program of up to US$500M",
+      "take": "Luckin Coffee's board approved a new share repurchase program of up to US$500 million, running for 12 months and starting after the existing US$500 million authorization is fully used or expires. As of Sept. 30, 2026, the existing program had repurchased US$391.0 million of shares. That leaves roughly US$109 million of the current authorization unused at quarter-end.",
+      "source_name": "Luckin Coffee Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394076/0/en/luckin-coffee-announces-third-quarter-2026-financial-results.html",
+      "checked": "2026-11-03T15:44:13Z"
+    },
+    {
+      "id": "2026-11-03-ipco-q3",
+      "time": "2026-11-03T16:19:13Z",
+      "tag": "ENERGY",
+      "headline": "IPC Q3 revenue $212M; net result $60M includes $45M gain on Canada asset sale",
+      "take": "International Petroleum Corporation reported Q3 2026 revenue of USD 211.955 million versus USD 172.297 million a year earlier and a net result of USD 59.901 million versus USD 3.802 million, including a gain on the sale of assets in Canada of MUSD 45. It raised 2026 operating cash flow guidance to MUSD 275-350 from MUSD 230-330, assuming Brent of USD 80 to 110 per barrel for the rest of 2026, and kept production guidance at 44,000 to 47,000 boepd. The guidance revision rests on a higher oil price assumption, so it moves with the commodity.",
+      "source_name": "IPC Q3 2026 results release (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3393905/0/en/international-petroleum-corporation-announces-third-quarter-2026-financial-and-operational-results.html",
+      "ticker": "TSX:IPCO",
+      "checked": "2026-11-03T15:44:13Z"
+    },
     {
       "id": "2026-11-03-ipgp-q3",
       "time": "2026-11-03T14:49:54Z",
@@ -5309,50 +5351,6 @@
       "source_name": "Orchid Island Capital Q3 2026 release (GlobeNewswire, Oct. 22, 2026)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3386896/24811/en/orchid-island-capital-announces-third-quarter-2026-results.html",
       "checked": "2026-10-23T20:55:18Z"
-    },
-    {
-      "id": "2026-10-23-alv-q3",
-      "tag": "EARNINGS",
-      "headline": "Autoliv Q3 net sales $2,693M vs. $2,706M; diluted EPS $2.13 vs. $2.28",
-      "take": "Autoliv reported Q3 2026 net sales of $2,693 million versus $2,706 million a year earlier, operating margin of 9.4% versus 9.9%, and diluted EPS of $2.13 versus $2.28 (adjusted $2.19 versus $2.32). The company attributes the operating income decline mainly to a supplier settlement compensation received in Q3 2025. Sales were roughly flat year over year while profit measures slipped modestly.",
-      "source_name": "Autoliv Q3 2026 financial report (PR Newswire, Oct. 23, 2026)",
-      "source_url": "https://prnewswire.com/news-releases/financial-report-july---september-2026-302918000.html",
-      "ticker": "NYSE:ALV",
-      "time": "2026-10-23T19:52:33Z",
-      "checked": "2026-10-23T19:53:33Z"
-    },
-    {
-      "id": "2026-10-23-alv-buyback-guidance",
-      "tag": "EQUITIES",
-      "headline": "Autoliv repurchased 1.23M shares for $150M in Q3; 2026 cash flow view ~$1.2B",
-      "take": "Autoliv repurchased and retired 1.23 million shares for $150 million in Q3 2026, versus $100 million a year earlier, and paid dividends of $63 million ($0.87 per share). Q3 operating cash flow was $239 million versus $258 million, and the company's full-year 2026 guidance is organic sales growth of around 0%, adjusted operating margin of around 10.5% and operating cash flow of around $1.2 billion. Its leverage ratio was 1.3x.",
-      "source_name": "Autoliv Q3 2026 financial report (PR Newswire, Oct. 23, 2026)",
-      "source_url": "https://prnewswire.com/news-releases/financial-report-july---september-2026-302918000.html",
-      "ticker": "NYSE:ALV",
-      "time": "2026-10-23T20:00:33Z",
-      "checked": "2026-10-23T19:53:33Z"
-    },
-    {
-      "id": "2026-10-23-amr-prelim-q3",
-      "tag": "COMMODITIES",
-      "headline": "Alpha Metallurgical prelim Q3 net loss $9.3M; Met segment sold 3.9M tons",
-      "take": "Alpha Metallurgical Resources preliminarily reported a Q3 2026 net loss of $9.3 million, or $0.73 per diluted share, with adjusted EBITDA of $29.4 million and coal revenues of $560.6 million. Met segment tons sold were 3.9 million at a net realized price of $121.09 per ton against a cost of coal sales of $106.93 per ton (a $14.16 per-ton non-GAAP margin). Cash was $334.1 million and liquidity $443.4 million at Sept. 30; the company says the figures are preliminary and will release definitive results Nov. 6.",
-      "source_name": "Alpha Metallurgical preliminary Q3 2026 results (PR Newswire, Oct. 23, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/alpha-announces-preliminary-financial-results-for-third-quarter-2026-302917499.html",
-      "ticker": "NYSE:AMR",
-      "time": "2026-10-23T20:08:33Z",
-      "checked": "2026-10-23T19:53:33Z"
-    },
-    {
-      "id": "2026-10-23-bolt-prana-pipe",
-      "tag": "DEALS",
-      "headline": "Bolt Biotherapeutics acquires Prana Therapies; $120M private placement",
-      "take": "Bolt Biotherapeutics announced Oct. 23 a sign-and-close reverse merger with Prana Therapies, paid in 430,746 Bolt common shares and 16,360.929 shares of Series D non-voting convertible preferred stock. Concurrently it is selling 13,995.311 Series D shares at $8,574.30 each for $120 million in upfront gross proceeds, with warrants for up to $60 million more, and the private placement is expected to close Oct. 26. The Series D converts to common only after Bolt stockholder approval under Nasdaq rules.",
-      "source_name": "Bolt Biotherapeutics press release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387280/0/en/bolt-biotherapeutics-announces-acquisition-of-prana-therapies-and-120-million-concurrent-private-placement-to-advance-pra-216-in-multiple-high-value-inflammatory-indications.html",
-      "ticker": "NASDAQ:BOLT",
-      "time": "2026-10-23T20:16:33Z",
-      "checked": "2026-10-23T19:53:33Z"
     }
   ]
 }
