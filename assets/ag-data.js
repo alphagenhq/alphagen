@@ -475,31 +475,67 @@ $$("[data-deskstats]").forEach(el=>{
   load().then(D=>{const s=stats(D);keys.forEach(k=>{const v=el.querySelector(`[data-k="${k}"]`);if(v)countUp(v,s[k]||0)})});
 });
 
-/* Sample edition preview */
+/* Advisor Intelligence: hero preview, sample edition, time-back calculator */
+const tk=t=>String(t||"").split(":").pop();
+const bnum=v=>v==null?"–":"$"+(+v).toFixed(v>=100?1:2)+"B";
+const pct=v=>v==null?"":(v>0?"+":"")+(+v).toFixed(1)+"%";
+const money=v=>v==null?null:v>=1?"$"+(+v).toFixed(v>=10?1:2)+"B":"$"+Math.round(v*1000)+"M";
+const nyDate=t=>new Date(t||Date.now()).toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",timeZone:"America/New_York"});
+const pickBrief=(D,ed)=>D.n.find(n=>n.series===(ed==="pm"?"the-close":"morning-brief"))||D.n.find(n=>n.series)||D.n[0];
+const tpList=n=>(n&&n.talking_points||[]).length?n.talking_points:[];
+const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length<28?x.value_text:"Undisclosed");
+
+(function(){
+  const root=document.getElementById("ai-preview"); if(!root) return;
+  load().then(D=>{
+    const set=(k,v)=>{const e=root.querySelector(`[data-aip="${k}"]`);if(e)e.textContent=v||""};
+    const brief=pickBrief(D,"am"), m=D.m[0], e=D.e[0], d=D.d.find(x=>x.value!=null)||D.d[0];
+    root.querySelector("[data-aip-date]").textContent=brief?nyDate(brief.time):"";
+    if(m){set("eq",m.name+": "+m.headline);set("eq-s",m.catalyst||"")}else if(brief){set("eq",brief.title.replace(/^[^:]+:\s*/,""));set("eq-s",brief.dek||"")}
+    if(e){set("er",e.name+" "+(e.period||"")+(e.revenue!=null?" · Revenue "+bnum(e.revenue)+(e.revenue_yoy!=null?" ("+pct(e.revenue_yoy)+" y/y)":""):""));set("er-s",(e.take||"").split(". ")[0].replace(/\.?$/,"."))}
+    if(d){set("cm",d.headline);set("cm-s",[d.type,d.status,dealVal(d)].filter(Boolean).join(" · "))}
+    const tp=tpList(brief); set("tp",tp[0]||"Three plain-English points per edition, written for client calls and reviews.");
+    root.classList.add("ready");
+  });
+})();
+
 (function(){
   const root=document.getElementById("sample-edition"); if(!root) return;
-  const brands={alphagen:{name:"AlphaGen",accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. For informational purposes only; not investment advice."},
-    firm:{name:"Example Firm",accent:"#c9a24b",logo:'<span class="mock-mark">EF</span>',word:'Example <span style="color:#c9a24b">Wealth Partners</span>',from:"Example Wealth Partners",foot:"Research prepared for Example Wealth Partners clients. For informational purposes only; not investment advice. [Your firm's disclosures appear here.]"}};
-  let mode="alphagen", D=null;
-  const EX=["The 10-year Treasury yield closed at 5.15% on October 19, and mortgage rates follow it closely. That is why the average 30-year mortgage rate is 7.40%, up from 6.95% four weeks earlier.",
-    "RTX, GE Aerospace, and Northrop Grumman all raised their 2026 outlooks on October 20. GE Aerospace's orders rose 49% from a year earlier, far faster than its 18% adjusted revenue growth.",
-    "AT&T's adjusted earnings rose to $0.65 a share from $0.54 a year earlier. Reported earnings fell because of a non-cash charge tied to its Mexico wireless business, which it plans to sell."];
-  const tps=n=>{const t=(n&&n.talking_points)||[];return t.length?t:EX};
+  const brands={alphagen:{accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. For informational purposes only; not investment advice."},
+    firm:{accent:"#c9a24b",logo:'<span class="mock-mark">EF</span>',word:'Example <span style="color:#c9a24b">Wealth Partners</span>',from:"Example Wealth Partners",foot:"Research prepared for Example Wealth Partners clients. For informational purposes only; not investment advice. [Your firm's disclosures appear here.]"}};
+  let mode="alphagen", ed="am", D=null;
   const draw=()=>{if(!D)return;const b=brands[mode];
-    const brief=D.n.find(n=>n.series==="morning-brief")||D.n[0]; const ch=D.c[0]; const wires=D.w.slice(0,3); const tp=tps(brief);
-    const ed=brief&&brief.series==="the-close"?"At the Close":"Pre-Market Daily";
+    const brief=pickBrief(D,ed); const edName=ed==="pm"?"At the Close":"Pre-Market Daily";
+    const movers=D.m.slice(0,3), earn=D.e.filter(e=>e.revenue!=null).slice(0,4), deals=D.d.slice(0,3), ch=D.c[0], tp=tpList(brief);
     root.style.setProperty("--brand",b.accent);
-    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(ed)}: ${esc(brief?brief.title.replace(/^[^:]+:\s*/,""):"Today in markets")}</span></div>
-    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(ed)} · ${esc(new Date(brief?brief.time:Date.now()).toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",timeZone:"America/New_York"}))}</span></div>
-    ${brief?`<div class="mail-sec"><div class="mail-kick">The big picture</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,4).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
-    ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the day</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ")+".")}</p></div>`:""}
-    ${wires.length?`<div class="mail-sec"><div class="mail-kick">What else moved</div>${wires.map(w=>`<p class="mail-w"><b>${esc(w.headline)}</b></p>`).join("")}</div>`:""}
-    ${(brief&&(brief.talking_points||[]).length)?`<div class="mail-sec"><div class="mail-kick">Talking points for client calls</div><ul>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ul></div>`:""}
+    const secs=[["Big picture",!!brief],["Equity markets",movers.length],["Earnings",earn.length],["Capital markets",deals.length],["Chart",!!ch],["Talking points",tp.length]].filter(x=>x[1]).map(x=>x[0]);
+    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(edName)}: ${esc(brief?brief.title.replace(/^[^:]+:\s*/,""):"Today in markets")}</span></div>
+    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(edName)} · ${esc(nyDate(brief?brief.time:null))}</span></div>
+    <div class="mail-index">${secs.map(s=>`<span>${esc(s)}</span>`).join("")}</div>
+    ${brief?`<div class="mail-sec"><div class="mail-kick">The big picture</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,3).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
+    ${movers.length?`<div class="mail-sec"><div class="mail-kick">Equity markets · what's moving and why</div>${movers.map(m=>`<div class="mail-mv"><span class="mtk">${esc(tk(m.ticker))}</span><div><b>${esc(m.name)}: ${esc(m.headline)}</b><p>${esc(m.catalyst||"")}</p></div></div>`).join("")}</div>`:""}
+    ${earn.length?`<div class="mail-sec"><div class="mail-kick">Earnings scorecard</div><table class="mail-tbl"><tr><th>Company</th><th>Revenue</th><th>Y/Y</th><th>EPS</th></tr>${earn.map(e=>`<tr><td><b>${esc(e.name)}</b> <span class="mtk sm">${esc(tk(e.ticker))}</span></td><td>${esc(bnum(e.revenue))}</td><td class="${e.revenue_yoy>0?"up":e.revenue_yoy<0?"down":""}">${esc(pct(e.revenue_yoy)||"–")}</td><td>${e.eps!=null?"$"+(+e.eps).toFixed(2):"–"}</td></tr>`).join("")}</table></div>`:""}
+    ${deals.length?`<div class="mail-sec"><div class="mail-kick">Capital markets · deals and financing</div>${deals.map(x=>`<div class="mail-deal"><span class="mtk">${esc(x.type)}</span><div><b>${esc(x.headline)}</b><p>${esc([x.status,dealVal(x)].filter(Boolean).join(" · "))}</p></div></div>`).join("")}</div>`:""}
+    ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the day</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ").replace(/\.?$/,"."))}</p></div>`:""}
+    ${tp.length?`<div class="mail-sec tp"><div class="mail-kick">Talking points for client calls</div><ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol></div>`:""}
     <div class="mail-foot">${esc(b.foot)}</div>`;
-    const cap=root.querySelector(".social-cap"); if(cap&&brief){cap.innerHTML=`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div>${(brief.talking_points||[]).length?`<p><b>${esc(brief.title)}</b></p>`:""}<ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol><p class="tp-src">${(brief&&(brief.talking_points||[]).length)?`From the latest ${esc(ed)}`:"Example talking points from Oct. 20–21 briefings"} · every figure linked to its primary source</p>`}
+    const cap=root.querySelector(".social-cap"); if(cap) cap.innerHTML=tp.length?`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div><p><b>${esc(brief.title)}</b></p><ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol><p class="tp-src">From the latest ${esc(edName)} · every figure linked to its primary source</p>`:'<p class="tp-src">Talking points appear here with each edition.</p>';
   };
   root.querySelectorAll("[data-brand]").forEach(btn=>btn.addEventListener("click",()=>{mode=btn.dataset.brand;root.querySelectorAll("[data-brand]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
+  root.querySelectorAll("[data-ed]").forEach(btn=>btn.addEventListener("click",()=>{ed=btn.dataset.ed;root.querySelectorAll("[data-ed]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
   load().then(d=>{D=d;draw()});
+})();
+
+(function(){
+  const box=document.getElementById("roi"); if(!box) return;
+  const v=k=>+box.querySelector(`[data-roi="${k}"]`).value;
+  const out=(k,t)=>{const e=box.querySelector(`[data-roi-res="${k}"]`);if(e)e.textContent=t};
+  const calc=()=>{
+    ["adv","now","ai"].forEach(k=>{const o=box.querySelector(`[data-roi-out="${k}"]`);if(o)o.textContent=v(k)});
+    const saved=Math.max(0,v("now")-v("ai")), hours=v("adv")*saved*252/60;
+    out("hours",Math.round(hours).toLocaleString("en-US")); out("week",(saved*5/60).toFixed(1)); out("days",(saved*252/60/8).toFixed(1));
+  };
+  box.querySelectorAll("input[type=range]").forEach(i=>i.addEventListener("input",calc)); calc();
 })();
 
 /* Pilot request form */
