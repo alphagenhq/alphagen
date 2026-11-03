@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-02T22:33:42Z",
+ "updated": "2026-11-03T13:41:42Z",
  "items": [
+  {
+   "id": "live-0001193125-26-444411-1.01",
+   "time": "2026-11-03T13:14:10Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Cheniere Energy discloses a material agreement",
+   "take": "Cheniere Energy reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 8:14 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, LNG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526444411/0001193125-26-444411-index.htm",
+   "ticker": "NYSE:LNG"
+  },
+  {
+   "id": "live-0001276187-26-000066-2.02",
+   "time": "2026-11-03T13:13:35Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Energy Transfer LP releases financial results",
+   "take": "Energy Transfer LP filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:13 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, ET Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1276187/000127618726000066/0001276187-26-000066-index.htm",
+   "ticker": "NYSE:ET"
+  },
+  {
+   "id": "live-0000798354-26-000039-2.02",
+   "time": "2026-11-03T13:11:51Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Fiserv releases financial results",
+   "take": "Fiserv filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:11 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, FISV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000039/0000798354-26-000039-index.htm",
+   "ticker": "NASDAQ:FISV"
+  },
+  {
+   "id": "live-0001647639-26-000083-2.02",
+   "time": "2026-11-03T13:10:50Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Upstart Holdings releases financial results",
+   "take": "Upstart Holdings filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:10 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, UPST Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000083/0001647639-26-000083-index.htm",
+   "ticker": "NASDAQ:UPST"
+  },
+  {
+   "id": "live-0001418135-26-000064-2.02",
+   "time": "2026-11-03T13:10:50Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Keurig DR Pepper releases financial results",
+   "take": "Keurig DR Pepper filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:10 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, KDP Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000064/0001418135-26-000064-index.htm",
+   "ticker": "NASDAQ:KDP"
+  },
+  {
+   "id": "live-0001594805-26-000067-2.02",
+   "time": "2026-11-03T13:08:14Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Shopify releases financial results",
+   "take": "Shopify filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:08 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, SHOP Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/0001594805-26-000067-index.htm",
+   "ticker": "NASDAQ:SHOP"
+  },
+  {
+   "id": "live-0001551182-26-000037-2.02",
+   "time": "2026-11-03T13:08:03Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Eaton Corp releases financial results",
+   "take": "Eaton Corp filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:08 AM ET, Nov 3.",
+   "source_name": "SEC EDGAR, ETN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000037/0001551182-26-000037-index.htm",
+   "ticker": "NYSE:ETN"
+  },
   {
    "id": "live-0001193125-26-443854-1.01",
    "time": "2026-11-02T22:00:27Z",
