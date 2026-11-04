@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-03T18:45:49Z",
+  "updated": "2026-11-04T13:49:07Z",
   "items": [
+    {
+      "id": "2026-11-04-anet-q3",
+      "time": "2026-11-04T13:51:07Z",
+      "tag": "EARNINGS",
+      "headline": "Arista Q3 revenue $3,657.6M vs $2,308.3M; GAAP diluted EPS $1.22 vs $0.67",
+      "take": "Arista reported third-quarter 2026 revenue of $3,657.6 million versus $2,308.3 million a year earlier, a 58.5% increase, with GAAP diluted EPS of $1.22 versus $0.67. The company guided fourth-quarter revenue of $3.9-$4.0 billion. Guidance now sits above this quarter's level, so the Q4 print becomes the next check on that trajectory.",
+      "source_name": "Arista Networks Q3 2026 earnings release (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001596532/000159653226000252/ex991q326-earningsrelease.htm",
+      "ticker": "NYSE:ANET",
+      "checked": "2026-11-04T13:49:07Z"
+    },
+    {
+      "id": "2026-11-04-uber-q3",
+      "time": "2026-11-04T14:03:07Z",
+      "tag": "EARNINGS",
+      "headline": "Uber Q3 revenue $14,766M, up 10%; GAAP diluted EPS $0.25 vs $3.11",
+      "take": "Uber reported Q3 2026 revenue of $14,766 million versus $13,467 million a year earlier and GAAP diluted EPS of $0.25 versus $3.11; the release says Q3 2025 net income included a $4.9 billion tax valuation release benefit and a $1.5 billion pre-tax benefit from equity investment revaluations. Q4 Gross Bookings guidance is $63.25-$65.25 billion, growth of 18% to 22% on a constant-currency basis. The prior-year tax and investment items make the EPS comparison a poor read on underlying change.",
+      "source_name": "Uber Q3 2026 results release (investor.uber.com)",
+      "source_url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-Third-Quarter-2026/default.aspx",
+      "ticker": "NYSE:UBER",
+      "checked": "2026-11-04T13:49:07Z"
+    },
+    {
+      "id": "2026-11-04-pru-q3",
+      "time": "2026-11-04T14:15:07Z",
+      "tag": "EARNINGS",
+      "headline": "Prudential Q3 net income $1.388B, $3.96 per share; returns $741M to holders",
+      "take": "Prudential Financial reported third-quarter net income attributable to the company of $1.388 billion, or $3.96 per Common share, versus $4.01 a year earlier. Capital returned to shareholders totaled $741 million, including $250 million of share repurchases and $491 million of dividends, versus $731 million in the year-ago quarter. Per-share earnings were slightly lower while capital returned was slightly higher.",
+      "source_name": "Prudential Financial Q3 2026 earnings release (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001137774/000113777426000219/exhibit991-3q26earningspre.htm",
+      "ticker": "NYSE:PRU",
+      "checked": "2026-11-04T13:49:07Z"
+    },
+    {
+      "id": "2026-11-04-mrvl-lite-merger",
+      "time": "2026-11-04T14:27:07Z",
+      "tag": "DEALS",
+      "headline": "Marvell agrees to acquire Lumentum in all-stock deal at 4.500 shares per share",
+      "take": "Marvell Technology entered into an Agreement and Plan of Merger with Lumentum Holdings on Nov. 1, under which each Lumentum common share will be converted into the right to receive 4.500 shares of Marvell common stock. Closing is pending, subject to Lumentum and Marvell stockholder approvals, HSR expiration and an effective Form S-4. The outside date in the agreement is Nov. 1, 2027, so the regulatory and shareholder path will run well past this year.",
+      "source_name": "Marvell Technology 8-K (Item 1.01), Nov. 1, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442717/d352474d8k.htm",
+      "ticker": "NASDAQ:MRVL",
+      "checked": "2026-11-04T13:49:07Z"
+    },
     {
       "id": "2026-11-03-jolts-sep",
       "time": "2026-11-03T18:47:49Z",
@@ -5312,47 +5356,6 @@
       "source_name": "eQ Plc inside information release (GlobeNewswire, Oct. 23, 2026)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387036/0/en/inside-information-eq-plc-to-acquire-genesta-strengthening-its-international-growth-platform-and-nordic-real-estate-asset-management-business.html",
       "checked": "2026-10-24T00:44:56Z"
-    },
-    {
-      "id": "2026-10-23-dayforce-ribbon-ai",
-      "time": "2026-10-24T01:24:56Z",
-      "tag": "DEALS",
-      "headline": "Dayforce signs agreement to acquire Ribbon AI to add agentic recruiting",
-      "take": "Dayforce, Inc. said on Oct. 23 it has signed an agreement to acquire Ribbon AI Inc., an AI recruiting technology company, and plans to integrate the technology following the close of the transaction. Financial terms and expected closing timing were not stated in the release. Another HR-software vendor buying AI capability rather than building it fits the pattern of tuck-in deals in the category.",
-      "source_name": "Dayforce release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387210/0/en/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting.html",
-      "checked": "2026-10-24T00:44:56Z"
-    },
-    {
-      "id": "2026-10-23-lycia-ipo-priced",
-      "time": "2026-10-23T22:53:13Z",
-      "tag": "IPO",
-      "headline": "Lycia Therapeutics prices upsized IPO: 17.64M shares at $18.00, about $317.5M gross",
-      "take": "Lycia Therapeutics said on Oct. 22 it priced its upsized initial public offering of 17,640,000 shares at $18.00 per share, for gross proceeds of about $317.5 million before underwriting discounts and expenses; underwriters hold a 30-day option on up to 2,646,000 more shares. Shares are expected to begin trading on the Nasdaq Global Select Market under \"LYCA\" on Oct. 23, with closing expected Oct. 26. A sizable raise for a newly listed biotech shows the IPO window for the sector remains open.",
-      "source_name": "Lycia Therapeutics pricing release (GlobeNewswire, Oct. 22, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/22/3387000/0/en/lycia-therapeutics-announces-pricing-of-upsized-initial-public-offering.html",
-      "ticker": "NASDAQ:LYCA",
-      "checked": "2026-10-23T22:50:13Z"
-    },
-    {
-      "id": "2026-10-23-ca-retail-aug",
-      "time": "2026-10-23T23:02:13Z",
-      "tag": "GLOBAL",
-      "headline": "Canada August retail sales rise 1.2% to $74.6B; September flash estimate +0.7%",
-      "take": "Statistics Canada reported retail sales increased 1.2% to $74.6 billion in August, with volumes also up 1.2% and sales higher in all nine subsectors, led by motor vehicle and parts dealers (+1.2%). Core retail, excluding gasoline stations and motor vehicle and parts dealers, rose 1.1%, and the unofficial flash estimate puts September up 0.7%. A broad-based gain heading into the Bank of Canada's Oct. 28 decision is one more input for policymakers to weigh.",
-      "source_name": "Statistics Canada, The Daily: Retail trade, August 2026 (Oct. 23, 2026)",
-      "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261023/dq261023a-eng.htm",
-      "checked": "2026-10-23T22:50:13Z"
-    },
-    {
-      "id": "2026-10-23-fed-cp-oct-21",
-      "time": "2026-10-23T23:14:13Z",
-      "tag": "CREDIT",
-      "headline": "Fed: commercial paper outstanding $1,502.6B on Oct. 21, up $22.7B on the week",
-      "take": "The Federal Reserve's commercial paper release shows $1,502.6 billion outstanding on Oct. 21 (seasonally adjusted), up $22.7 billion from Oct. 14: financial $617.7 billion (+$19.7 billion), nonfinancial $380.5 billion (+$9.3 billion) and asset-backed $504.4 billion (-$6.3 billion). One-day AA nonfinancial paper was 3.88% and AA financial 3.87%. The week's growth came from financial issuers, the short-term funding channel to watch.",
-      "source_name": "Federal Reserve Board, Commercial Paper Rates and Outstanding Summary (posted Oct. 22, 2026)",
-      "source_url": "https://www.federalreserve.gov/releases/cp/",
-      "checked": "2026-10-23T22:50:13Z"
     }
   ]
 }

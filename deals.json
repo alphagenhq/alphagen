@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-03T13:39:48Z",
+  "updated": "2026-11-04T13:49:07Z",
   "items": [
+    {
+      "id": "2026-11-04-marvell-lumentum",
+      "time": "2026-11-04T14:27:07Z",
+      "type": "M&A",
+      "headline": "Marvell to acquire Lumentum in all-stock merger at 4.500 Marvell shares per Lumentum share",
+      "parties": "Acquirer: Marvell Technology, Inc.; Target: Lumentum Holdings Inc.",
+      "value": null,
+      "value_text": "Undisclosed (all-stock; 4.500 Marvell shares per Lumentum common share)",
+      "status": "Pending",
+      "announced": "2026-11-02",
+      "sector": "Technology",
+      "take": "Lumentum would become a wholly owned Marvell subsidiary through a two-step merger, pending Lumentum and Marvell stockholder approvals, HSR expiration and an effective Form S-4. The agreement was dated Nov. 1, 2026, with an outside date of Nov. 1, 2027.",
+      "source_name": "Marvell Technology 8-K (Item 1.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442717/d352474d8k.htm",
+      "tickers": [
+        "NASDAQ:MRVL"
+      ],
+      "checked": "2026-11-04T13:49:07Z"
+    },
     {
       "id": "2026-11-03-merck-lonza-cdmo",
       "time": "2026-11-03T14:18:48Z",

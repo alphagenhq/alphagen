@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-29T12:52:16Z",
+  "updated": "2026-11-04T13:49:07Z",
   "note": "Times are ET. Blank time means the agency schedule lists no time.",
   "items": [
-    {
-      "date": "2026-10-27",
-      "time": "08:30",
-      "name": "Durable Goods Orders (Sep)",
-      "agency": "Census",
-      "category": "Growth",
-      "importance": 2,
-      "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html",
-      "id": "2026-10-27-durablegoodsorderssep"
-    },
-    {
-      "date": "2026-10-27",
-      "time": "10:00",
-      "name": "New Home Sales (Sep)",
-      "agency": "Census",
-      "category": "Housing",
-      "importance": 2,
-      "source_url": "https://www.census.gov/construction/soc/schedule.html",
-      "id": "2026-10-27-newhomesalessep"
-    },
     {
       "id": "2026-10-28-boc-decision",
       "date": "2026-10-28",
