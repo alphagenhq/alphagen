@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-04T11:51:43Z",
+ "updated": "2026-11-04T12:45:18Z",
  "items": [
+  {
+   "id": "live-0001136893-26-000061-2.02",
+   "time": "2026-11-04T12:34:43Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Fidelity National Information Services releases financial results",
+   "take": "Fidelity National Information Services filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:34 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, FIS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1136893/000113689326000061/0001136893-26-000061-index.htm",
+   "ticker": "NYSE:FIS"
+  },
+  {
+   "id": "live-0001628280-26-069792-2.02",
+   "time": "2026-11-04T12:11:26Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Datadog releases financial results",
+   "take": "Datadog filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:11 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, DDOG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000162828026069792/0001628280-26-069792-index.htm",
+   "ticker": "NASDAQ:DDOG"
+  },
+  {
+   "id": "live-0001637459-26-000079-5.02",
+   "time": "2026-11-04T12:02:31Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Kraft Heinz reports an executive or board change",
+   "take": "Kraft Heinz reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 7:02 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, KHC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000079/0001637459-26-000079-index.htm",
+   "ticker": "NYSE:KHC"
+  },
+  {
+   "id": "live-0000063908-26-000080-2.02",
+   "time": "2026-11-04T12:01:40Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "McDonald's releases financial results",
+   "take": "McDonald's filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:01 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, MCD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000080/0000063908-26-000080-index.htm",
+   "ticker": "NYSE:MCD"
+  },
+  {
+   "id": "live-0001637459-26-000078-2.02",
+   "time": "2026-11-04T12:00:49Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Kraft Heinz releases financial results",
+   "take": "Kraft Heinz filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, KHC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000078/0001637459-26-000078-index.htm",
+   "ticker": "NYSE:KHC"
+  },
+  {
+   "id": "live-0001543151-26-000039-2.02",
+   "time": "2026-11-04T11:55:39Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Uber Technologies releases financial results",
+   "take": "Uber Technologies filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:55 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, UBER Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000039/0001543151-26-000039-index.htm",
+   "ticker": "NYSE:UBER"
+  },
+  {
+   "id": "live-0001543151-26-000039-5.02",
+   "time": "2026-11-04T11:55:39Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Uber Technologies reports an executive or board change",
+   "take": "Uber Technologies reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:55 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, UBER Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000039/0001543151-26-000039-index.htm",
+   "ticker": "NYSE:UBER"
+  },
+  {
+   "id": "live-0000032604-26-000049-2.02",
+   "time": "2026-11-04T11:53:28Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Emerson Electric releases financial results",
+   "take": "Emerson Electric filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:53 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, EMR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/32604/000003260426000049/0000032604-26-000049-index.htm",
+   "ticker": "NYSE:EMR"
+  },
   {
    "id": "live-0001140859-26-000038-2.02",
    "time": "2026-11-04T11:37:54Z",
