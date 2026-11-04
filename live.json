@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T13:54:30Z",
+ "updated": "2026-11-04T21:23:00Z",
  "items": [
+  {
+   "id": "live-0001099800-26-000053-2.02",
+   "time": "2026-11-04T21:21:25Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Edwards Lifesciences releases financial results",
+   "take": "Edwards Lifesciences filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:21 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, EW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099800/000109980026000053/0001099800-26-000053-index.htm",
+   "ticker": "NYSE:EW"
+  },
+  {
+   "id": "live-0001628280-26-070181-2.02",
+   "time": "2026-11-04T21:20:48Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Aflac releases financial results",
+   "take": "Aflac filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:20 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, AFL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026070181/0001628280-26-070181-index.htm",
+   "ticker": "NYSE:AFL"
+  },
+  {
+   "id": "live-0001564708-26-000248-2.02",
+   "time": "2026-11-04T21:17:19Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "News releases financial results",
+   "take": "News filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:17 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, NWSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000248/0001564708-26-000248-index.htm",
+   "ticker": "NASDAQ:NWSA"
+  },
+  {
+   "id": "live-0000899051-26-000156-2.02",
+   "time": "2026-11-04T21:16:26Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Allstate releases financial results",
+   "take": "Allstate filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:16 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, ALL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000156/0000899051-26-000156-index.htm",
+   "ticker": "NYSE:ALL"
+  },
+  {
+   "id": "live-0001213900-26-115944-1.01",
+   "time": "2026-11-04T21:15:21Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Carrier Global discloses a material agreement",
+   "take": "Carrier Global reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:15 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, CARR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1783180/000121390026115944/0001213900-26-115944-index.htm",
+   "ticker": "NYSE:CARR"
+  },
   {
    "id": "live-0000950142-26-002936-1.01",
    "time": "2026-11-04T13:08:56Z",
