@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T12:45:18Z",
+ "updated": "2026-11-04T13:54:30Z",
  "items": [
+  {
+   "id": "live-0000950142-26-002936-1.01",
+   "time": "2026-11-04T13:08:56Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Carnival Corp discloses a material agreement",
+   "take": "Carnival Corp reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 8:08 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, CCL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/815097/000095014226002936/0000950142-26-002936-index.htm",
+   "ticker": "NYSE:CCL"
+  },
+  {
+   "id": "live-0000277135-26-000088-2.02",
+   "time": "2026-11-04T13:03:29Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "W.W. Grainger releases financial results",
+   "take": "W.W. Grainger filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:03 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, GWW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/277135/000027713526000088/0000277135-26-000088-index.htm",
+   "ticker": "NYSE:GWW"
+  },
   {
    "id": "live-0001136893-26-000061-2.02",
    "time": "2026-11-04T12:34:43Z",
