@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-03T21:44:56Z",
+ "updated": "2026-11-04T11:51:43Z",
  "items": [
+  {
+   "id": "live-0001140859-26-000038-2.02",
+   "time": "2026-11-04T11:37:54Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Cencora releases financial results",
+   "take": "Cencora filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:37 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, COR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1140859/000114085926000038/0001140859-26-000038-index.htm",
+   "ticker": "NYSE:COR"
+  },
+  {
+   "id": "live-0000064803-26-000107-2.02",
+   "time": "2026-11-04T11:31:50Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "CVS Health releases financial results",
+   "take": "CVS Health filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:31 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, CVS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000107/0000064803-26-000107-index.htm",
+   "ticker": "NYSE:CVS"
+  },
+  {
+   "id": "live-0001193125-26-446145-2.02",
+   "time": "2026-11-04T11:30:18Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Zimmer Biomet Holdings releases financial results",
+   "take": "Zimmer Biomet Holdings filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:30 AM ET, Nov 4.",
+   "source_name": "SEC EDGAR, ZBH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1136869/000119312526446145/0001193125-26-446145-index.htm",
+   "ticker": "NYSE:ZBH"
+  },
+  {
+   "id": "live-0000066740-26-000318-1.01",
+   "time": "2026-11-03T23:03:00Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "3M discloses a material agreement",
+   "take": "3M reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 6:03 PM ET, Nov 3.",
+   "source_name": "SEC EDGAR, MMM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000318/0000066740-26-000318-index.htm",
+   "ticker": "NYSE:MMM"
+  },
   {
    "id": "live-0001375365-26-000026-2.02",
    "time": "2026-11-03T21:31:04Z",
