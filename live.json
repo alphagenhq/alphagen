@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T21:23:00Z",
+ "updated": "2026-11-04T22:14:56Z",
  "items": [
+  {
+   "id": "live-0001104659-26-122765-1.01",
+   "time": "2026-11-04T22:05:26Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Kimberly Clark discloses a material agreement",
+   "take": "Kimberly Clark reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:05 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, KMB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926122765/0001104659-26-122765-index.htm",
+   "ticker": "NASDAQ:KMB"
+  },
+  {
+   "id": "live-0001841666-26-000063-2.02",
+   "time": "2026-11-04T21:34:43Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "APA releases financial results",
+   "take": "APA filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:34 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, APA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000063/0001841666-26-000063-index.htm",
+   "ticker": "NASDAQ:APA"
+  },
+  {
+   "id": "live-0001140361-26-041969-5.02",
+   "time": "2026-11-04T21:30:53Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "HP reports an executive or board change",
+   "take": "HP reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:30 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, HPQ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000114036126041969/0001140361-26-041969-index.htm",
+   "ticker": "NYSE:HPQ"
+  },
   {
    "id": "live-0001099800-26-000053-2.02",
    "time": "2026-11-04T21:21:25Z",
