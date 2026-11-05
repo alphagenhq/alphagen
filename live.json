@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T13:06:27Z",
+ "updated": "2026-11-05T14:26:08Z",
  "items": [
+  {
+   "id": "live-0000092122-26-000071-2.02",
+   "time": "2026-11-05T13:09:18Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Southern releases financial results",
+   "take": "Southern filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:09 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, SO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000071/0000092122-26-000071-index.htm",
+   "ticker": "NYSE:SO"
+  },
   {
    "id": "live-0000076334-26-000170-2.02",
    "time": "2026-11-05T12:52:30Z",
