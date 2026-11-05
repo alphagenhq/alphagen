@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-04T19:55:00Z",
+  "updated": "2026-11-05T00:44:51Z",
   "items": [
+    {
+      "id": "2026-11-04-ew-q3",
+      "time": "2026-11-05T00:46:51Z",
+      "tag": "EARNINGS",
+      "headline": "Edwards Lifesciences Q3 sales $1,715.5M vs $1,553.1M; raises 2026 sales growth view",
+      "take": "Edwards Lifesciences reported Q3 2026 sales of $1,715.5 million versus $1,553.1 million, up 10.5%, with GAAP diluted EPS of $0.53 versus $0.50 and adjusted EPS of $0.80 versus $0.67. The company raised its 2026 total sales growth guidance to approximately 11.5% from 10% to 11%, and set Q4 sales guidance of $1.67 billion to $1.75 billion. A guidance raise alongside double-digit sales growth keeps attention on how the transcatheter heart valve business contributes in Q4.",
+      "source_name": "Edwards Lifesciences Q3 2026 results release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001099800/000109980026000053/ex-991q32026.htm",
+      "ticker": "NYSE:EW",
+      "checked": "2026-11-05T00:44:51Z"
+    },
+    {
+      "id": "2026-11-04-afl-q3",
+      "time": "2026-11-05T00:54:51Z",
+      "tag": "EARNINGS",
+      "headline": "Aflac Q3 total revenues $3,271M vs $4,740M; adjusted EPS $2.43 vs $2.49",
+      "take": "Aflac reported Q3 2026 total revenues of $3,271 million versus $4,740 million, net earnings of $303 million ($0.61 per diluted share) versus $1,639 million ($3.08), and adjusted earnings per diluted share of $2.43 versus $2.49. The company said it returned $1.1 billion to shareholders in the quarter, consisting of $804 million in share repurchase and $305 million in dividends. The wide gap between GAAP and adjusted results is a reminder that insurers' reported net earnings can swing with investment-related items that adjusted figures exclude.",
+      "source_name": "Aflac Q3 2026 results release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004977/000162828026070181/aflex991-q32026new.htm",
+      "ticker": "NYSE:AFL",
+      "checked": "2026-11-05T00:44:51Z"
+    },
+    {
+      "id": "2026-11-04-kvyo-q3",
+      "time": "2026-11-05T01:02:51Z",
+      "tag": "EARNINGS",
+      "headline": "Klaviyo Q3 revenue $387.2M, up 25%; authorizes new $300M share repurchase",
+      "take": "Klaviyo reported Q3 2026 revenue of $387.2 million versus $310.9 million, which it described as 25% year-over-year growth, with GAAP net income of $704 thousand versus a net loss of $426 thousand. The company authorized a new share repurchase program of up to $300 million of Series A common stock, following completion of its prior $500 million program in October, and guided Q4 revenue to $421 million to $425 million. Moving to GAAP profitability while funding buybacks shows how far the cost base has scaled against revenue.",
+      "source_name": "Klaviyo Q3 2026 results release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001835830/000183583026000045/confidentialfiscalq32026ea.htm",
+      "ticker": "NYSE:KVYO",
+      "checked": "2026-11-05T00:44:51Z"
+    },
+    {
+      "id": "2026-11-04-afl-dividend",
+      "time": "2026-11-05T01:10:51Z",
+      "tag": "EQUITIES",
+      "headline": "Aflac board declares Q4 dividend of $0.61 per share, payable Dec. 1",
+      "take": "Aflac said in its Nov. 4, 2026 Q3 release that its board declared a fourth quarter dividend of $0.61 per share, payable December 1, 2026 to shareholders of record at the close of business on November 18, 2026. The company reported dividends paid per share of $0.61 in Q3 2026 versus $0.58 in Q3 2025. The declared amount matches the Q3 payout, so the signal here is steadiness rather than a change in the payout rate.",
+      "source_name": "Aflac Q3 2026 results release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004977/000162828026070181/aflex991-q32026new.htm",
+      "ticker": "NYSE:AFL",
+      "checked": "2026-11-05T00:44:51Z"
+    },
+    {
+      "id": "2026-11-04-wlk-q3-8k",
+      "time": "2026-11-05T01:18:51Z",
+      "tag": "EARNINGS",
+      "headline": "Westlake furnishes 8-K with 2026 third-quarter results and investor presentation",
+      "take": "Westlake Corporation filed a Form 8-K dated Nov. 4, 2026 under Items 2.02, 7.01 and 9.01, furnishing a press release announcing its 2026 third quarter results as Exhibit 99.1 and an investor presentation as Exhibit 99.2. The cover filing itself carries no financial figures. AlphaGen will cover the reported numbers once they can be read directly from the exhibit.",
+      "source_name": "Westlake Corporation 8-K, Nov. 4, 2026 (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001262823/000126282326000076/wlk-20261104.htm",
+      "ticker": "NYSE:WLK",
+      "checked": "2026-11-05T00:44:51Z"
+    },
+    {
+      "id": "2026-11-04-natl-q3-8k",
+      "time": "2026-11-05T01:26:51Z",
+      "tag": "EARNINGS",
+      "headline": "NCR Atleos furnishes 8-K with third-quarter 2026 financial results",
+      "take": "NCR Atleos Corporation filed a Form 8-K dated Nov. 4, 2026 under Items 2.02 and 9.01, furnishing as Exhibit 99.1 a press release setting forth its third quarter 2026 financial results and certain other financial information. The cover filing itself carries no financial figures. AlphaGen will cover the reported numbers once they can be read directly from the exhibit.",
+      "source_name": "NCR Atleos Corporation 8-K, Nov. 4, 2026 (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001974138/000162828026069799/natl-20261104.htm",
+      "ticker": "NYSE:NATL",
+      "checked": "2026-11-05T00:44:51Z"
+    },
     {
       "id": "2026-11-04-swk-buyback",
       "time": "2026-11-04T19:58:00Z",
@@ -5297,70 +5363,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000943452/000094345226000017/a3q26pressreleaseword.htm",
       "ticker": "NYSE:WAB",
       "checked": "2026-10-24T12:44:07Z"
-    },
-    {
-      "id": "2026-10-24-h15-oct-22-curve",
-      "time": "2026-10-24T11:58:00Z",
-      "tag": "RATES",
-      "headline": "Treasury yields fall 13-17 bp across 2- to 30-year maturities on Oct. 22: Fed H.15",
-      "take": "The Federal Reserve's H.15 release of Oct. 23 shows Treasury constant maturity yields on Oct. 22 of 4.65% at 2 years (4.81% on Oct. 21), 4.78% at 5 years (4.95%), 4.96% at 10 years (5.13%) and 5.29% at 30 years (5.42%), declines of 16, 17, 17 and 13 basis points. The 3-month yield was 4.22% (4.25%) and the effective federal funds rate was 3.88% on each day from Oct. 16 to 22. The one-day move took the 10-year below its Oct. 16 level of 5.09%, reversing the prior week's rise.",
-      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates (Oct. 23, 2026)",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-10-24T11:58:00Z"
-    },
-    {
-      "id": "2026-10-24-ritm-q3",
-      "time": "2026-10-24T12:08:00Z",
-      "tag": "EARNINGS",
-      "headline": "Rithm Capital Q3 GAAP diluted EPS $0.38 vs. $0.04 in Q2; dividend held at $0.25",
-      "take": "Rithm Capital reported Oct. 23 that Q3 2026 GAAP net income was $261.3 million, or $0.38 per diluted share versus $0.04 in Q2, with earnings available for distribution of $315.3 million, or $0.55 per diluted share ($0.60 in Q2). Total revenues were $1,756.4 million versus $1,282.3 million in Q2, a 37.0% sequential rise by AlphaGen's calculation. The company declared a $0.25 common dividend, unchanged from Q2, and reported book value of $12.51 per common share.",
-      "source_name": "Rithm Capital Corp., Q3 2026 results release (Oct. 23, 2026)",
-      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
-      "ticker": "NYSE:RITM",
-      "checked": "2026-10-24T11:58:00Z"
-    },
-    {
-      "id": "2026-10-24-ritm-newrez-genesis",
-      "time": "2026-10-24T12:18:00Z",
-      "tag": "HOUSING",
-      "headline": "Rithm: Newrez origination volume $12.9B, down 21% y/y; servicing UPB $878.9B",
-      "take": "Rithm's Q3 release shows Newrez funded origination volume of $12.9 billion, down 19% from Q2 and 21% from a year earlier, while total servicing UPB reached $878.9 billion, including $282.8 billion of third-party servicing (about $596.1 billion on the company's own book by subtraction). Genesis Capital's residential transition loan originations were $1.5 billion, up 25% year over year. The split shows the servicing book growing in scale while origination volume contracts, a combination that leans on recurring servicing income.",
-      "source_name": "Rithm Capital Corp., Q3 2026 results release (Oct. 23, 2026)",
-      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
-      "ticker": "NYSE:RITM",
-      "checked": "2026-10-24T11:58:00Z"
-    },
-    {
-      "id": "2026-10-24-navios-tender-nov-2",
-      "time": "2026-10-24T12:28:00Z",
-      "tag": "DEALS",
-      "headline": "Navios extends Series G/H ADS tender offer to Nov. 2 after court order; $12.00 cash",
-      "take": "Navios Maritime Holdings said Oct. 23 it is extending its tender offer for its Series G and Series H ADSs until 11:59 p.m. New York City time on Nov. 2, 2026, after an Oct. 21 trial court order in the Katz Litigation. The company will pay $12.00 in cash per share, and about 84,980 Series H ADSs and 5,125 Series G ADSs had been validly tendered and not withdrawn. The offer is not conditioned on any minimum tender or additional financing, though other conditions in the Offer to Purchase apply.",
-      "source_name": "Navios Maritime Holdings Inc. release via GlobeNewswire (Oct. 23, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387624/0/en/navios-maritime-holdings-inc-extends-tender-offer-for-its-series-g-and-series-h-american-depository-shares-until-11-59-p-m-on-november-2-2026.html",
-      "ticker": "NYSE:NM",
-      "checked": "2026-10-24T11:58:00Z"
-    },
-    {
-      "id": "2026-10-24-boj-fsr-oct",
-      "time": "2026-10-24T10:53:00Z",
-      "tag": "GLOBAL",
-      "headline": "BOJ Financial System Report: Japan's system 'stable on the whole'; banks pass oil, AI, rate stress",
-      "take": "The Bank of Japan's October 2026 Financial System Report, released Oct. 23, says Japan's financial system \"has been maintaining stability on the whole,\" with firms' loan demand rising and banks lending actively. It finds Japanese banks have enough capital and stable funding to withstand a global-financial-crisis-level stress and a compound shock of higher oil prices, an AI-expectations decline and sharply higher interest rates, and flags the Middle East, AI-related investment profitability and foreign non-bank intermediaries for close monitoring. The stress-test framing shows the central bank is probing energy and AI-valuation channels alongside traditional credit risk.",
-      "source_name": "Bank of Japan, Financial System Report (October 2026)",
-      "source_url": "https://www.boj.or.jp/en/research/brp/fsr/fsr261023.htm",
-      "checked": "2026-10-24T10:51:00Z"
-    },
-    {
-      "id": "2026-10-24-mistras-go-shop-oct-27",
-      "time": "2026-10-24T11:16:00Z",
-      "tag": "DEALS",
-      "headline": "MISTRAS go-shop for $20.35/share H.I.G. buyout runs to 11:59 p.m. ET Oct. 27",
-      "take": "Affiliates of H.I.G. Capital agreed on Sept. 18 to acquire MISTRAS Group (NYSE: MG) for $20.35 per share in cash, an implied enterprise value of about $866 million including debt. A 40-day go-shop lets MISTRAS, advised by Baird, solicit competing proposals until 11:59 p.m. ET on Oct. 27, 2026, with closing expected in late 2026 or early 2027 subject to stockholder approval and regulatory clearances. The go-shop deadline is the next scheduled checkpoint; the release gives no assurance a superior offer will emerge.",
-      "source_name": "MISTRAS Group release, Form 8-K Ex. 99.1 (Sept. 18, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001436126/000114036126037107/ef20082419_ex99-1.htm",
-      "ticker": "NYSE:MG",
-      "checked": "2026-10-24T10:51:00Z"
     }
   ]
 }
