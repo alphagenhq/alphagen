@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-05T18:45:30Z",
+  "updated": "2026-11-05T22:47:19Z",
   "items": [
+    {
+      "id": "2026-11-05-nova-q3",
+      "time": "2026-11-05T22:50:00Z",
+      "tag": "EARNINGS",
+      "headline": "Nova Q3 revenue $287.8M, up 28%; GAAP EPS $2.64 vs $1.90",
+      "take": "Nova reported third-quarter 2026 revenue of $287.8 million versus $224.6 million a year earlier, and GAAP net income of $90.0 million, or $2.64 per diluted share, versus $61.4 million, or $1.90. For the fourth quarter it guided revenue of $305 million to $315 million and diluted GAAP EPS of $2.78 to $2.93. Revenue and earnings both grew by more than a quarter year over year, and the company's own outlook implies further sequential revenue growth.",
+      "source_name": "Nova Q3 2026 results release (PR Newswire, Nov. 5, 2026)",
+      "source_url": "https://www.prnewswire.com/il/news-releases/nova-reports-record-third-quarter-2026-financial-results-302930609.html",
+      "ticker": "NASDAQ:NVMI",
+      "checked": "2026-11-05T22:47:19Z"
+    },
+    {
+      "id": "2026-11-05-nfi-q3",
+      "time": "2026-11-05T22:59:00Z",
+      "tag": "EARNINGS",
+      "headline": "NFI Q3 revenue $1,007.4M, up 14.5%; adjusted EBITDA $108.7M",
+      "take": "NFI Group reported third-quarter 2026 revenue of $1,007.4 million versus $879.9 million a year earlier, adjusted EBITDA of $108.7 million versus $80.9 million, and net earnings of $0.1 million versus a net loss of $140.9 million. It raised the low end of its 2026 adjusted EBITDA guidance by $10 million to a $395 million to $415 million range, with revenue guidance unchanged at $4,000 million to $4,200 million. The swing from a large loss to roughly breakeven was the main change in the quarter.",
+      "source_name": "NFI Group Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3397206/0/en/nfi-reports-third-quarter-2026-results.html",
+      "ticker": "TSX:NFI",
+      "checked": "2026-11-05T22:47:19Z"
+    },
+    {
+      "id": "2026-11-05-wscr-q3",
+      "time": "2026-11-05T23:08:00Z",
+      "tag": "EARNINGS",
+      "headline": "WillScot Q3 revenue $601.3M vs $566.8M; raises 2026 revenue outlook",
+      "take": "WillScot reported third-quarter 2026 revenue of $601.3 million versus $566.8 million, net income of $51.6 million versus $43.3 million, and diluted EPS of $0.28 versus $0.24. Adjusted EBITDA was $233.6 million versus $243.3 million, and the company raised its 2026 revenue outlook to $2.340 billion while maintaining adjusted EBITDA at $920 million. Profit rose even as adjusted EBITDA slipped, so the improvement came below that line.",
+      "source_name": "WillScot Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3397037/0/en/willscot-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:WSC",
+      "checked": "2026-11-05T22:47:19Z"
+    },
+    {
+      "id": "2026-11-05-kins-q3",
+      "time": "2026-11-05T23:17:00Z",
+      "tag": "EARNINGS",
+      "headline": "Kingstone Q3 net income $17.6M vs $10.9M; raises 2026 EPS guidance",
+      "take": "Kingstone reported third-quarter 2026 net income of $17.6 million versus $10.9 million and diluted EPS of $1.19 versus $0.74. Net premiums earned were $62.4 million versus $47.9 million, and the net combined ratio was 65.6% versus 72.7%. The company raised and narrowed 2026 diluted EPS guidance to $2.70 to $2.90.",
+      "source_name": "Kingstone Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3397144/0/en/kingstone-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:KINS",
+      "checked": "2026-11-05T22:47:19Z"
+    },
+    {
+      "id": "2026-11-05-cenx-q3",
+      "time": "2026-11-05T23:26:00Z",
+      "tag": "EARNINGS",
+      "headline": "Century Aluminum Q3 net sales $961.2M vs $752.1M in Q2; diluted EPS $2.89",
+      "take": "Century Aluminum reported third-quarter 2026 total net sales of $961.2 million versus $752.1 million in the second quarter, and net income attributable to Century of $302.6 million, or $2.89 per diluted share, versus $249.3 million, or $2.39. The company expects fourth-quarter adjusted EBITDA of $275 million to $300 million. The release compares against the prior quarter, so no year-over-year comparison is drawn here.",
+      "source_name": "Century Aluminum Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3397042/0/en/century-aluminum-company-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:CENX",
+      "checked": "2026-11-05T22:47:19Z"
+    },
+    {
+      "id": "2026-11-05-merc-q3",
+      "time": "2026-11-05T23:35:00Z",
+      "tag": "EARNINGS",
+      "headline": "Mercer Q3 revenues $440.7M vs $458.1M; net loss narrows to $59.2M",
+      "take": "Mercer International reported third-quarter 2026 revenues of $440.7 million versus $458.1 million a year earlier, operating EBITDA of negative $2.9 million versus negative $28.1 million, and a net loss of $59.2 million, or $0.88 per share, versus $80.8 million, or $1.21. The release says management is optimistic it can conclude its expedited chapter 11 process by the end of 2026. Revenue fell about 4% while the loss narrowed.",
+      "source_name": "Mercer International Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3397162/10647/en/mercer-international-inc-reports-third-quarter-2026-results.html",
+      "ticker": "NASDAQ:MERC",
+      "checked": "2026-11-05T22:47:19Z"
+    },
     {
       "id": "2026-11-05-dnow-q3",
       "time": "2026-11-05T18:45:30Z",
@@ -5305,66 +5371,6 @@
       "ticker": "NASDAQ:NATH",
       "time": "2026-10-24T15:06:07Z",
       "checked": "2026-10-24T14:51:07Z"
-    },
-    {
-      "id": "2026-10-24-hy-oas-3-40",
-      "tag": "CREDIT",
-      "headline": "High-yield spread widens to 3.40% on Oct. 22 from 3.27% a day earlier: FRED",
-      "take": "The ICE BofA US High Yield option-adjusted spread was 3.40% on Oct. 22, up 13 bp from 3.27% on Oct. 21 and above the 3.16% AlphaGen reported for Oct. 13. The prior readings were 3.31% on Oct. 16, 3.29% on Oct. 19 and 3.33% on Oct. 20. A one-day move of that size stands out within a narrow recent range, but it is a single observation.",
-      "source_name": "FRED: ICE BofA US High Yield Index OAS (BAMLH0A0HYM2)",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-      "time": "2026-10-24T15:16:07Z",
-      "checked": "2026-10-24T14:51:07Z"
-    },
-    {
-      "id": "2026-10-24-ig-oas-0-89",
-      "tag": "CREDIT",
-      "headline": "Investment-grade spread at 0.89% on Oct. 22, up from 0.83% on Oct. 13: FRED",
-      "take": "The ICE BofA US Corporate Index option-adjusted spread was 0.89% on Oct. 22, after 0.88% on Oct. 21 and 0.83% on Oct. 13, a 6 bp rise over that stretch. The high-yield spread rose 13 bp in a single day on Oct. 22, more than investment grade has moved since Oct. 13, so the latest widening was concentrated in lower-rated credit.",
-      "source_name": "FRED: ICE BofA US Corporate Index OAS (BAMLC0A0CM)",
-      "source_url": "https://fred.stlouisfed.org/data/BAMLC0A0CM",
-      "time": "2026-10-24T15:26:07Z",
-      "checked": "2026-10-24T14:51:07Z"
-    },
-    {
-      "id": "2026-10-24-sofr-3-90",
-      "tag": "RATES",
-      "headline": "SOFR 3.90% on Oct. 22, 10 bp below the Fed's 4.00% target-range ceiling",
-      "take": "The New York Fed's Secured Overnight Financing Rate was 3.90% on Oct. 22, up from 3.88% on Oct. 21 and 3.87% on Oct. 19, per FRED. The upper limit of the federal funds target range was 4.00% as of Oct. 23, so SOFR sat 10 bp under the ceiling. The FOMC meets Oct. 27-28, and the next SOFR print is scheduled for Oct. 26.",
-      "source_name": "FRED: Secured Overnight Financing Rate (SOFR)",
-      "source_url": "https://fred.stlouisfed.org/series/SOFR",
-      "time": "2026-10-24T15:36:07Z",
-      "checked": "2026-10-24T14:51:07Z"
-    },
-    {
-      "id": "2026-10-24-eia-gas-storage-3644",
-      "time": "2026-10-24T13:51:26Z",
-      "tag": "ENERGY",
-      "headline": "Gas storage reaches 3,644 Bcf in week ended Oct. 16 after 77 Bcf build, EIA data show",
-      "take": "EIA's weekly storage table shows Lower 48 working gas at 3,644 Bcf for the week ending Oct. 16, up from 3,567 Bcf a week earlier, a 77 Bcf net change. Stocks have risen in each of the five weeks since Sept. 11, when they stood at 3,298 Bcf. The next storage release is scheduled for Oct. 29.",
-      "source_name": "EIA Weekly Natural Gas Storage (Lower 48 working gas)",
-      "source_url": "https://www.eia.gov/dnav/ng/ng_stor_wkly_s1_w.htm",
-      "checked": "2026-10-24T13:50:26Z"
-    },
-    {
-      "id": "2026-10-24-h8-oct-14-assets-deposits",
-      "time": "2026-10-24T14:00:26Z",
-      "tag": "FED",
-      "headline": "Fed H.8: commercial bank deposits $19.81T and total assets $26.14T in week to Oct. 14",
-      "take": "The Fed's H.8 release of Oct. 23 shows seasonally adjusted deposits at all commercial banks of $19,810.3 billion for the week ending Oct. 14, up $38.7 billion on the week. Total assets rose $38.0 billion to $26,138.3 billion and loans and leases in bank credit rose $29.3 billion to $14,213.7 billion. On a monthly annualized basis, September loans and leases grew 7.3% and deposits 5.8%.",
-      "source_name": "Federal Reserve Board H.8 release, Oct. 23, 2026",
-      "source_url": "https://www.federalreserve.gov/releases/h8/current/h8.pdf",
-      "checked": "2026-10-24T13:50:26Z"
-    },
-    {
-      "id": "2026-10-24-h8-ci-loans-2992",
-      "time": "2026-10-24T14:09:26Z",
-      "tag": "CREDIT",
-      "headline": "Fed H.8: commercial and industrial loans at $2,992.6B, up $4.8B on the week to Oct. 14",
-      "take": "Commercial and industrial loans at all commercial banks stood at $2,992.6 billion (seasonally adjusted) in the week ending Oct. 14, versus $2,987.8 billion a week earlier. The same release lists cash assets of $3,213.5 billion and total securities in bank credit of $5,781.4 billion. Business loans added $4.8 billion on the week, a smaller gain than total loans and leases at $29.3 billion.",
-      "source_name": "Federal Reserve Board H.8 release, Oct. 23, 2026",
-      "source_url": "https://www.federalreserve.gov/releases/h8/current/h8.pdf",
-      "checked": "2026-10-24T13:50:26Z"
     }
   ]
 }
