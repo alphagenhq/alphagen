@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T22:14:56Z",
+ "updated": "2026-11-05T11:05:23Z",
  "items": [
+  {
+   "id": "live-0001628280-26-070386-5.02",
+   "time": "2026-11-04T23:39:41Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "United Parcel Service reports an executive or board change",
+   "take": "United Parcel Service reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:39 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, UPS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026070386/0001628280-26-070386-index.htm",
+   "ticker": "NYSE:UPS"
+  },
+  {
+   "id": "live-0001326160-26-000048-2.02",
+   "time": "2026-11-04T22:56:27Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Duke Energy releases financial results",
+   "take": "Duke Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:56 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, DUK Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000048/0001326160-26-000048-index.htm",
+   "ticker": "NYSE:DUK"
+  },
+  {
+   "id": "live-0001527166-26-000049-2.02",
+   "time": "2026-11-04T22:47:20Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Carlyle Group releases financial results",
+   "take": "Carlyle Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:47 PM ET, Nov 4.",
+   "source_name": "SEC EDGAR, CG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1527166/000152716626000049/0001527166-26-000049-index.htm",
+   "ticker": "NASDAQ:CG"
+  },
   {
    "id": "live-0001104659-26-122765-1.01",
    "time": "2026-11-04T22:05:26Z",
