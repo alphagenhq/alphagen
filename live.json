@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T14:26:08Z",
+ "updated": "2026-11-05T16:35:34Z",
  "items": [
+  {
+   "id": "live-0001032208-26-000051-2.02",
+   "time": "2026-11-05T15:53:30Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Sempra releases financial results",
+   "take": "Sempra filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 10:53 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, SRE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000051/0001032208-26-000051-index.htm",
+   "ticker": "NYSE:SRE"
+  },
   {
    "id": "live-0000092122-26-000071-2.02",
    "time": "2026-11-05T13:09:18Z",
