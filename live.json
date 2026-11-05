@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-05T11:05:23Z",
+ "updated": "2026-11-05T11:59:34Z",
  "items": [
+  {
+   "id": "live-0000721371-26-000042-2.02",
+   "time": "2026-11-05T11:47:43Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Cardinal Health releases financial results",
+   "take": "Cardinal Health filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:47 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, CAH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/721371/000072137126000042/0000721371-26-000042-index.htm",
+   "ticker": "NYSE:CAH"
+  },
+  {
+   "id": "live-0000024545-26-000078-2.02",
+   "time": "2026-11-05T11:33:43Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Molson Coors Beverage releases financial results",
+   "take": "Molson Coors Beverage filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:33 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, TAP Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/24545/000002454526000078/0000024545-26-000078-index.htm",
+   "ticker": "NYSE:TAP"
+  },
+  {
+   "id": "live-0001628280-26-070514-2.02",
+   "time": "2026-11-05T11:33:39Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Kimberly Clark releases financial results",
+   "take": "Kimberly Clark filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:33 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, KMB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/55785/000162828026070514/0001628280-26-070514-index.htm",
+   "ticker": "NASDAQ:KMB"
+  },
+  {
+   "id": "live-0000002969-26-000043-2.02",
+   "time": "2026-11-05T11:16:30Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "AIR Products & Chemicals releases financial results",
+   "take": "AIR Products & Chemicals filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:16 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, APD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2969/000000296926000043/0000002969-26-000043-index.htm",
+   "ticker": "NYSE:APD"
+  },
+  {
+   "id": "live-0001140361-26-042030-2.02",
+   "time": "2026-11-05T11:15:38Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Cigna Group releases financial results",
+   "take": "Cigna Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:15 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, CI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126042030/0001140361-26-042030-index.htm",
+   "ticker": "NYSE:CI"
+  },
+  {
+   "id": "live-0001193125-26-448357-5.02",
+   "time": "2026-11-05T11:01:52Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Microsoft reports an executive or board change",
+   "take": "Microsoft reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:01 AM ET, Nov 5.",
+   "source_name": "SEC EDGAR, MSFT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/0001193125-26-448357-index.htm",
+   "ticker": "NASDAQ:MSFT"
+  },
   {
    "id": "live-0001628280-26-070386-5.02",
    "time": "2026-11-04T23:39:41Z",
