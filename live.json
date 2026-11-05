@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T21:57:29Z",
+ "updated": "2026-11-05T22:46:33Z",
  "items": [
+  {
+   "id": "live-0001493152-26-050285-1.01",
+   "time": "2026-11-05T22:28:12Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Parabolic Technologies discloses a material agreement",
+   "take": "Parabolic Technologies reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:28 PM ET, Nov 5.",
+   "source_name": "SEC EDGAR, PARA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226050285/0001493152-26-050285-index.htm",
+   "ticker": "NASDAQ:PARA"
+  },
   {
    "id": "live-0001047862-26-000157-2.02",
    "time": "2026-11-05T21:44:27Z",
