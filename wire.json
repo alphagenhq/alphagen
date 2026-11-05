@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-05T11:44:42Z",
+  "updated": "2026-11-05T18:45:30Z",
   "items": [
+    {
+      "id": "2026-11-05-dnow-q3",
+      "time": "2026-11-05T18:45:30Z",
+      "tag": "EARNINGS",
+      "headline": "DNOW Q3 revenue $1,337M vs $634M; diluted EPS $0.14 vs $0.21",
+      "take": "DNOW reported third-quarter 2026 revenue of $1,337 million versus $634 million in the prior-year quarter, net income attributable to DNOW of $26 million versus $23 million, and diluted EPS of $0.14 versus $0.21. Adjusted EBITDA was $76 million and cash flow from operating activities was $120 million. Revenue more than doubled year over year, yet per-share earnings fell, so the gains did not reach EPS.",
+      "source_name": "DNOW Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396198/0/en/dnow-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:DNOW",
+      "checked": "2026-11-05T18:45:30Z"
+    },
+    {
+      "id": "2026-11-05-sphr-q3",
+      "time": "2026-11-05T18:57:30Z",
+      "tag": "EARNINGS",
+      "headline": "Sphere Entertainment Q3 revenue $274.3M, up 4%; net loss $176.0M",
+      "take": "Sphere Entertainment reported revenues of $274.3 million for the quarter ended Sept. 30, 2026, up 4% from the prior-year quarter, with an operating loss of $240.6 million versus $163.1 million and adjusted operating income of $39.2 million versus $36.4 million. Net loss was $176.0 million, or $(4.84) per diluted share, versus $(125.7) million, or $(3.47), a year earlier as revised. Revenue grew modestly while the loss widened.",
+      "source_name": "Sphere Entertainment Q3 2026 results release (Business Wire, Nov. 5, 2026)",
+      "source_url": "https://www.businesswire.com/news/home/20261105830110/en/Sphere-Entertainment-Co.-Reports-Third-Quarter-2026-Results",
+      "ticker": "NYSE:SPHR",
+      "checked": "2026-11-05T18:45:30Z"
+    },
+    {
+      "id": "2026-11-05-cron-q3",
+      "time": "2026-11-05T19:09:30Z",
+      "tag": "EARNINGS",
+      "headline": "Cronos Group Q3 net revenue $63.5M, up 75%; adjusted EBITDA $17.1M",
+      "take": "Cronos Group reported Q3 2026 net revenue of $63,450 thousand versus $36,339 thousand, up 75%, with net income of $17.8 million versus $28.3 million and adjusted EBITDA of $17.1 million versus $5.7 million. The company repurchased 3.2 million shares for $9.4 million in the quarter, and the CanAdelaar acquisition closed Oct. 15, 2026. Profit fell even as revenue and adjusted EBITDA rose.",
+      "source_name": "Cronos Group Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396306/0/en/cronos-group-reports-2026-third-quarter-results.html",
+      "ticker": "NASDAQ:CRON",
+      "checked": "2026-11-05T18:45:30Z"
+    },
+    {
+      "id": "2026-11-05-dnow-buyback",
+      "time": "2026-11-05T19:21:30Z",
+      "tag": "EQUITIES",
+      "headline": "DNOW repurchased $17M of stock in Q3, $92M year to date",
+      "take": "DNOW said it repurchased $17 million of common stock in the third quarter of 2026 and $92 million year to date under its $160 million share repurchase program. At Sept. 30, 2026 the company reported cash of $112 million, total long-term debt of $377 million and net debt of $265 million. Buybacks are being funded alongside a net debt leverage ratio of 1.1 times.",
+      "source_name": "DNOW Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396198/0/en/dnow-reports-third-quarter-2026-results.html",
+      "ticker": "NYSE:DNOW",
+      "checked": "2026-11-05T18:45:30Z"
+    },
     {
       "id": "2026-11-05-qnity-q3-8k",
       "time": "2026-11-05T11:46:42Z",
@@ -5321,48 +5365,6 @@
       "source_name": "Federal Reserve Board H.8 release, Oct. 23, 2026",
       "source_url": "https://www.federalreserve.gov/releases/h8/current/h8.pdf",
       "checked": "2026-10-24T13:50:26Z"
-    },
-    {
-      "id": "2026-10-24-bls-eci-oct-30-week-ahead",
-      "time": "2026-10-24T14:18:26Z",
-      "tag": "MACRO",
-      "headline": "BLS week ahead: Employment Cost Index for Q3 due Oct. 30 at 8:30 a.m. ET",
-      "take": "BLS's October schedule lists the Employment Cost Index for third quarter 2026 on Friday, Oct. 30, at 8:30 a.m. ET. Earlier that week, metro-area employment and Business Employment Dynamics for Q1 2026 come out Oct. 28 at 10:00 a.m., and Consumer Expenditures for annual 2025 on Oct. 29 at 10:00 a.m.",
-      "source_name": "BLS Schedule of Selected Releases for October 2026",
-      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-      "checked": "2026-10-24T13:50:26Z"
-    },
-    {
-      "id": "2026-10-24-bls-nov-calendar-jobs-cpi",
-      "time": "2026-10-24T14:27:26Z",
-      "tag": "MACRO",
-      "headline": "BLS calendar: JOLTS Nov. 3, jobs report Nov. 6, CPI Nov. 10, PPI Nov. 13",
-      "take": "BLS lists JOLTS for Tuesday, Nov. 3 at 10:00 a.m. ET, Productivity and Costs on Nov. 5, and the Employment Situation on Friday, Nov. 6 at 8:30 a.m. ET. The Consumer Price Index and Real Earnings follow Tuesday, Nov. 10 at 8:30 a.m., and the Producer Price Index on Friday, Nov. 13 at 8:30 a.m. Nov. 11 is a Veterans Day holiday with no release scheduled.",
-      "source_name": "BLS Schedule of Selected Releases for November 2026",
-      "source_url": "https://www.bls.gov/schedule/2026/11_sched.htm",
-      "checked": "2026-10-24T13:50:26Z"
-    },
-    {
-      "id": "2026-10-24-bx-q3-de",
-      "time": "2026-10-24T12:48:07Z",
-      "tag": "EARNINGS",
-      "headline": "Blackstone Q3 distributable earnings $1.32 per share vs. $1.52 a year earlier",
-      "take": "Blackstone reported Oct. 22 that third-quarter distributable earnings were $1,715.7 million, or $1.32 per common share, versus $1,889.5 million and $1.52 in the third quarter of 2025. GAAP net income attributable to Blackstone Inc. was $662.4 million versus $624.9 million. The release shows earnings per share falling faster than total distributable earnings, which AlphaGen calculates as 13% versus 9%.",
-      "source_name": "Blackstone Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001393818/000119312526428297/d160590dex991.htm",
-      "ticker": "NYSE:BX",
-      "checked": "2026-10-24T12:44:07Z"
-    },
-    {
-      "id": "2026-10-24-bx-aum-dividend",
-      "time": "2026-10-24T12:57:07Z",
-      "tag": "EQUITIES",
-      "headline": "Blackstone AUM $1,368.3B at Sept. 30; Q3 inflows $63.3B; dividend $1.12",
-      "take": "Blackstone said total assets under management were $1,368.3 billion at Sept. 30, 2026, up 10% from $1,241.7 billion a year earlier, with $63.3 billion of inflows in the quarter and $271.6 billion over the last twelve months. It declared a $1.12 dividend per common share, payable Nov. 9 to holders of record on Nov. 2, versus $1.29 for the third quarter of 2025. Assets grew year over year while the declared per-share dividend was lower than a year earlier.",
-      "source_name": "Blackstone Q3 2026 earnings release (SEC 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001393818/000119312526428297/d160590dex991.htm",
-      "ticker": "NYSE:BX",
-      "checked": "2026-10-24T12:44:07Z"
     }
   ]
 }
