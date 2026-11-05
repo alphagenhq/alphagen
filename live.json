@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-05T21:10:04Z",
+ "updated": "2026-11-05T21:57:29Z",
  "items": [
+  {
+   "id": "live-0001047862-26-000157-2.02",
+   "time": "2026-11-05T21:44:27Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Consolidated Edison releases financial results",
+   "take": "Consolidated Edison filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:44 PM ET, Nov 5.",
+   "source_name": "SEC EDGAR, ED Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000104786226000157/0001047862-26-000157-index.htm",
+   "ticker": "NYSE:ED"
+  },
+  {
+   "id": "live-0001104659-26-123389-5.02",
+   "time": "2026-11-05T21:33:48Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Micron Technology reports an executive or board change",
+   "take": "Micron Technology reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:33 PM ET, Nov 5.",
+   "source_name": "SEC EDGAR, MU Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/723125/000110465926123389/0001104659-26-123389-index.htm",
+   "ticker": "NASDAQ:MU"
+  },
+  {
+   "id": "live-0001628280-26-071110-5.02",
+   "time": "2026-11-05T21:25:25Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "PNC Financial Services Group reports an executive or board change",
+   "take": "PNC Financial Services Group reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:25 PM ET, Nov 5.",
+   "source_name": "SEC EDGAR, PNC Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026071110/0001628280-26-071110-index.htm",
+   "ticker": "NYSE:PNC"
+  },
+  {
+   "id": "live-0001193125-26-449922-1.01",
+   "time": "2026-11-05T21:19:48Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "HCA Healthcare discloses a material agreement",
+   "take": "HCA Healthcare reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:19 PM ET, Nov 5.",
+   "source_name": "SEC EDGAR, HCA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526449922/0001193125-26-449922-index.htm",
+   "ticker": "NYSE:HCA"
+  },
   {
    "id": "live-0001104659-26-123325-2.02",
    "time": "2026-11-05T21:08:24Z",
