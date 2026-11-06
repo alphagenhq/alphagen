@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T22:46:33Z",
+ "updated": "2026-11-06T11:38:39Z",
  "items": [
+  {
+   "id": "live-0000049071-26-000064-2.02",
+   "time": "2026-11-06T11:09:28Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Humana releases financial results",
+   "take": "Humana filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:09 AM ET, Nov 6.",
+   "source_name": "SEC EDGAR, HUM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000064/0000049071-26-000064-index.htm",
+   "ticker": "NYSE:HUM"
+  },
   {
    "id": "live-0001493152-26-050285-1.01",
    "time": "2026-11-05T22:28:12Z",
