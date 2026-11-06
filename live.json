@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T12:36:10Z",
+ "updated": "2026-11-06T13:50:31Z",
  "items": [
+  {
+   "id": "live-0000038777-26-000287-2.02",
+   "time": "2026-11-06T13:36:02Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Franklin Templeton releases financial results",
+   "take": "Franklin Templeton filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 8:36 AM ET, Nov 6.",
+   "source_name": "SEC EDGAR, BEN Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/38777/000003877726000287/0000038777-26-000287-index.htm",
+   "ticker": "NYSE:BEN"
+  },
   {
    "id": "live-0001091667-26-000072-2.02",
    "time": "2026-11-06T12:00:54Z",
