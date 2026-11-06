@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T11:38:39Z",
+ "updated": "2026-11-06T12:36:10Z",
  "items": [
+  {
+   "id": "live-0001091667-26-000072-2.02",
+   "time": "2026-11-06T12:00:54Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Charter Communications releases financial results",
+   "take": "Charter Communications filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Nov 6.",
+   "source_name": "SEC EDGAR, CHTR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1091667/000109166726000072/0001091667-26-000072-index.htm",
+   "ticker": "NASDAQ:CHTR"
+  },
+  {
+   "id": "live-0001682852-26-000194-2.02",
+   "time": "2026-11-06T11:47:30Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Moderna releases financial results",
+   "take": "Moderna filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:47 AM ET, Nov 6.",
+   "source_name": "SEC EDGAR, MRNA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/0001682852-26-000194-index.htm",
+   "ticker": "NASDAQ:MRNA"
+  },
   {
    "id": "live-0000049071-26-000064-2.02",
    "time": "2026-11-06T11:09:28Z",
