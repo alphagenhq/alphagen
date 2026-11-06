@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T21:24:45Z",
+ "updated": "2026-11-06T22:10:22Z",
  "items": [
+  {
+   "id": "live-0001193125-26-451940-1.01",
+   "time": "2026-11-06T21:32:08Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Delta AIR Lines discloses a material agreement",
+   "take": "Delta AIR Lines reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:32 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, DAL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27904/000119312526451940/0001193125-26-451940-index.htm",
+   "ticker": "NYSE:DAL"
+  },
   {
    "id": "live-0001193125-26-451888-1.01",
    "time": "2026-11-06T21:21:54Z",
