@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-06T13:50:31Z",
+ "updated": "2026-11-06T21:24:45Z",
  "items": [
+  {
+   "id": "live-0001193125-26-451888-1.01",
+   "time": "2026-11-06T21:21:54Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "FOX discloses a material agreement",
+   "take": "FOX reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:21 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, FOXA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526451888/0001193125-26-451888-index.htm",
+   "ticker": "NASDAQ:FOXA"
+  },
+  {
+   "id": "live-0001193125-26-451888-2.01",
+   "time": "2026-11-06T21:21:54Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "FOX completes an acquisition or sale of assets",
+   "take": "FOX reported completing an acquisition or disposition of assets in an SEC filing (Form 8-K, Item 2.01). Filed 4:21 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, FOXA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526451888/0001193125-26-451888-index.htm",
+   "ticker": "NASDAQ:FOXA"
+  },
+  {
+   "id": "live-0001193125-26-451888-5.02",
+   "time": "2026-11-06T21:21:54Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "FOX reports an executive or board change",
+   "take": "FOX reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:21 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, FOXA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526451888/0001193125-26-451888-index.htm",
+   "ticker": "NASDAQ:FOXA"
+  },
+  {
+   "id": "live-0001193125-26-451885-1.01",
+   "time": "2026-11-06T21:21:39Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Energy Transfer LP discloses a material agreement",
+   "take": "Energy Transfer LP reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:21 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, ET Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526451885/0001193125-26-451885-index.htm",
+   "ticker": "NYSE:ET"
+  },
+  {
+   "id": "live-0001104659-26-123878-5.02",
+   "time": "2026-11-06T21:15:20Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Travelers Companies reports an executive or board change",
+   "take": "Travelers Companies reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:15 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, TRV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/86312/000110465926123878/0001104659-26-123878-index.htm",
+   "ticker": "NYSE:TRV"
+  },
+  {
+   "id": "live-0001628280-26-071689-5.02",
+   "time": "2026-11-06T21:15:01Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Space Exploration Technologies reports an executive or board change",
+   "take": "Space Exploration Technologies reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:15 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, SPCX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026071689/0001628280-26-071689-index.htm",
+   "ticker": "NASDAQ:SPCX"
+  },
+  {
+   "id": "live-0000726728-26-000063-5.02",
+   "time": "2026-11-06T21:06:07Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Realty Income reports an executive or board change",
+   "take": "Realty Income reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:06 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, O Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000063/0000726728-26-000063-index.htm",
+   "ticker": "NYSE:O"
+  },
+  {
+   "id": "live-0001193125-26-451826-1.01",
+   "time": "2026-11-06T21:05:23Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Public Storage discloses a material agreement",
+   "take": "Public Storage reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:05 PM ET, Nov 6.",
+   "source_name": "SEC EDGAR, PSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526451826/0001193125-26-451826-index.htm",
+   "ticker": "NYSE:PSA"
+  },
   {
    "id": "live-0000038777-26-000287-2.02",
    "time": "2026-11-06T13:36:02Z",
