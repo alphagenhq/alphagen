@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-06T23:43:58Z",
+  "updated": "2026-11-07T01:43:45Z",
   "items": [
+    {
+      "id": "2026-11-06-chtr-q3-8k",
+      "time": "2026-11-07T01:46:45Z",
+      "tag": "EARNINGS",
+      "headline": "Charter files 8-K on third-quarter 2026 results press release",
+      "take": "Charter Communications filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing results for the third quarter ended September 30, 2026. The press release is furnished as Exhibit 99.1; the 8-K itself carries no financial figures. Investors looking for subscriber and margin detail will need the exhibit rather than the filing body.",
+      "source_name": "SEC EDGAR: Charter Communications Form 8-K, Nov. 6, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001091667/000109166726000072/chtr-20261106.htm",
+      "ticker": "NASDAQ:CHTR",
+      "checked": "2026-11-07T01:43:45Z"
+    },
+    {
+      "id": "2026-11-06-mrna-q3-8k",
+      "time": "2026-11-07T01:55:45Z",
+      "tag": "EARNINGS",
+      "headline": "Moderna files 8-K on third-quarter 2026 results press release",
+      "take": "Moderna filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing financial results for the third quarter ended September 30, 2026, furnished as Exhibit 99.1. The 8-K body contains no revenue, loss or guidance figures. Those details sit in the exhibit.",
+      "source_name": "SEC EDGAR: Moderna Form 8-K, Nov. 6, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001682852/000168285226000194/mrna-20261106.htm",
+      "ticker": "NASDAQ:MRNA",
+      "checked": "2026-11-07T01:43:45Z"
+    },
+    {
+      "id": "2026-11-06-kop-q3-8k",
+      "time": "2026-11-07T02:04:45Z",
+      "tag": "EARNINGS",
+      "headline": "Koppers Holdings files 8-K on third-quarter 2026 results release",
+      "take": "Koppers Holdings filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing third quarter of 2026 results, furnished as Exhibit 99.1. The filing body states no financial figures. The release is the place to check segment detail.",
+      "source_name": "SEC EDGAR: Koppers Holdings Form 8-K, Nov. 6, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001315257/000131525726000056/kop-20261106.htm",
+      "ticker": "NYSE:KOP",
+      "checked": "2026-11-07T01:43:45Z"
+    },
+    {
+      "id": "2026-11-06-nodk-q3-8k",
+      "time": "2026-11-07T02:13:45Z",
+      "tag": "EARNINGS",
+      "headline": "NI Holdings files 8-K with results for quarter ended Sept. 30, 2026",
+      "take": "NI Holdings, the Fargo, North Dakota-based insurance holding company, filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing financial results for the quarter ended September 30, 2026. The release is attached as Exhibit 99.1 and the filing body contains no figures. Underwriting results will have to be read from the exhibit.",
+      "source_name": "SEC EDGAR: NI Holdings Form 8-K, Nov. 6, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001681206/000117494726000965/form8k-36475_nodk.htm",
+      "ticker": "NASDAQ:NODK",
+      "checked": "2026-11-07T01:43:45Z"
+    },
+    {
+      "id": "2026-11-06-egy-q3-8k",
+      "time": "2026-11-07T02:22:45Z",
+      "tag": "EARNINGS",
+      "headline": "VAALCO Energy files 8-K on Q3 results and fourth-quarter 2026 guidance",
+      "take": "VAALCO Energy filed a Form 8-K stating that on November 5, 2026 it issued a press release announcing third-quarter 2026 results and guidance for the fourth quarter of 2026. A conference call was set for 8:00 a.m. Central Time on Friday, November 6, 2026. The figures are in Exhibit 99.1, not in the filing body.",
+      "source_name": "SEC EDGAR: VAALCO Energy Form 8-K, Nov. 5, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000894627/000089462726000058/egy-20261105.htm",
+      "ticker": "NYSE:EGY",
+      "checked": "2026-11-07T01:43:45Z"
+    },
+    {
+      "id": "2026-11-06-praa-q3-8k",
+      "time": "2026-11-07T02:31:45Z",
+      "tag": "EARNINGS",
+      "headline": "PRA Group files 8-K on third-quarter 2026 results; slides posted to IR site",
+      "take": "PRA Group filed a Form 8-K stating that on November 5, 2026 it issued a press release announcing third-quarter 2026 results, furnished as Exhibit 99.1. Under Item 7.01 it said the slide presentation for the November 5 webcast and conference call is available in the Investor Relations section of its website. The filing body contains no financial figures.",
+      "source_name": "SEC EDGAR: PRA Group Form 8-K, Nov. 5, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001185348/000118534826000033/praa-20261105.htm",
+      "ticker": "NASDAQ:PRAA",
+      "checked": "2026-11-07T01:43:45Z"
+    },
     {
       "id": "2026-11-06-bls-oct-payrolls",
       "time": "2026-11-06T23:51:58Z",
@@ -5313,66 +5379,6 @@
       "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
       "time": "2026-10-24T18:35:24Z",
       "checked": "2026-10-24T17:50:24Z"
-    },
-    {
-      "id": "2026-10-24-fed-h41-reserves-2-963t",
-      "tag": "FED",
-      "headline": "Fed reserve balances average $2.963T in week to Oct. 21, down $59.5B: H.4.1",
-      "take": "The Fed's H.4.1 shows reserve balances with Federal Reserve Banks averaging $2,962.6 billion in the week ended Oct. 21, down $59.5 billion from the prior week and up $29.6 billion from a year earlier. The Wednesday Oct. 21 level was $2,969.5 billion. Treasury General Account averaged $952.0 billion, up $68.6 billion on the week, so Treasury cash building is the line that moves against reserves in the same release.",
-      "source_name": "Federal Reserve Board H.4.1 (release of Oct. 22, 2026)",
-      "source_url": "https://www.federalreserve.gov/releases/h41/current/",
-      "time": "2026-10-24T16:52:58Z",
-      "checked": "2026-10-24T16:44:58Z"
-    },
-    {
-      "id": "2026-10-24-fed-h41-holdings-oct-21",
-      "tag": "FED",
-      "headline": "Fed holds $4,571.2B Treasuries and $1,897.3B MBS in week to Oct. 21: H.4.1",
-      "take": "H.4.1 shows U.S. Treasury securities held outright averaging $4,571.2 billion in the week ended Oct. 21, up $1.3 billion on the week and $374.8 billion from a year earlier. Mortgage-backed securities averaged $1,897.3 billion, down $0.8 billion on the week and $187.3 billion on the year. The year-over-year changes show the portfolio's composition shifting toward Treasuries and away from MBS.",
-      "source_name": "Federal Reserve Board H.4.1 (release of Oct. 22, 2026)",
-      "source_url": "https://www.federalreserve.gov/releases/h41/current/",
-      "time": "2026-10-24T17:01:58Z",
-      "checked": "2026-10-24T16:44:58Z"
-    },
-    {
-      "id": "2026-10-24-rba-cash-rate-4-60-nov-3",
-      "tag": "GLOBAL",
-      "headline": "RBA cash rate target at 4.60% after unanimous 25 bp hike; next decision Nov. 3",
-      "take": "The Reserve Bank of Australia's Monetary Policy Board raised the cash rate target by 25 basis points to 4.60% on Sept. 29, and its statement said the decision was unanimous. The Board said the three increases in the cash rate target since the beginning of the year have tightened financial conditions and the economy appears to be slowing. The RBA lists its next scheduled update for Nov. 3 at 2:30 p.m. Sydney time, the next test of whether the Board keeps tightening or pauses.",
-      "source_name": "Reserve Bank of Australia, Monetary Policy Decision (Sept. 29, 2026)",
-      "source_url": "https://www.rba.gov.au/media-releases/2026/mr-26-27.html",
-      "time": "2026-10-24T17:10:58Z",
-      "checked": "2026-10-24T16:44:58Z"
-    },
-    {
-      "id": "2026-10-24-eia-crude-412-5m-oct-16",
-      "tag": "ENERGY",
-      "headline": "U.S. commercial crude stocks fall 3.1M barrels to 412.5M in week ended Oct. 16: EIA",
-      "take": "EIA data show U.S. commercial crude oil stocks (excluding lease stock) at 412.5 million barrels in the week ending Oct. 16, down 3.1 million from 415.6 million a week earlier and down from 427.3 million on Sept. 25. Strategic Petroleum Reserve crude stood at 282.7 million barrels, down 0.3 million on the week. Commercial crude has fallen in each of the three weeks since Sept. 25, a steady draw through early October.",
-      "source_name": "EIA Weekly Petroleum Status Report, U.S. stocks (week ending Oct. 16, 2026)",
-      "source_url": "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm",
-      "time": "2026-10-24T17:19:58Z",
-      "checked": "2026-10-24T16:44:58Z"
-    },
-    {
-      "id": "2026-10-24-eia-gasoline-distillate-oct-16",
-      "tag": "ENERGY",
-      "headline": "U.S. gasoline stocks fall 3.0M barrels to 205.3M; distillate up 1.7M to 104.3M: EIA",
-      "take": "EIA reports total motor gasoline inventories at 205.3 million barrels in the week ending Oct. 16, down 3.0 million from 208.3 million. Distillate fuel oil stocks rose 1.7 million barrels to 104.3 million, and kerosene-type jet fuel stood at 42.6 million. The opposite weekly moves in gasoline and distillate show the two products drawing on different supply-and-demand balances.",
-      "source_name": "EIA Weekly Petroleum Status Report, U.S. stocks (week ending Oct. 16, 2026)",
-      "source_url": "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm",
-      "time": "2026-10-24T17:28:58Z",
-      "checked": "2026-10-24T16:44:58Z"
-    },
-    {
-      "id": "2026-10-24-cftc-emini-sp500-positions-oct-20",
-      "tag": "EQUITIES",
-      "headline": "CFTC: non-commercial E-mini S&P 500 futures net short 142,671 contracts at Oct. 20",
-      "take": "The CFTC's futures-only Commitments of Traders report, with positions as of Oct. 20, shows E-mini S&P 500 (CME) open interest of 1,935,470 contracts. Non-commercial traders held 215,885 long and 358,556 short positions, a net short of 142,671 contracts, plus 48,982 spreading. Non-commercial positioning is a gauge of speculative futures exposure, not a forecast of index direction.",
-      "source_name": "CFTC Commitments of Traders, CME futures only (positions as of Oct. 20, 2026)",
-      "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
-      "time": "2026-10-24T17:37:58Z",
-      "checked": "2026-10-24T16:44:58Z"
     }
   ]
 }
