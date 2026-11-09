@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T21:28:51Z",
+ "updated": "2026-11-09T22:19:21Z",
  "items": [
+  {
+   "id": "live-0001193125-26-453758-2.02",
+   "time": "2026-11-09T21:49:10Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "AST Spacemobile releases financial results",
+   "take": "AST Spacemobile filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:49 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, ASTS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000119312526453758/0001193125-26-453758-index.htm",
+   "ticker": "NASDAQ:ASTS"
+  },
+  {
+   "id": "live-0000320187-26-000197-5.02",
+   "time": "2026-11-09T21:42:17Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Nike reports an executive or board change",
+   "take": "Nike reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:42 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, NKE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000197/0000320187-26-000197-index.htm",
+   "ticker": "NYSE:NKE"
+  },
+  {
+   "id": "live-0000731766-26-000274-5.02",
+   "time": "2026-11-09T21:33:53Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Unitedhealth Group reports an executive or board change",
+   "take": "Unitedhealth Group reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:33 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, UNH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000274/0000731766-26-000274-index.htm",
+   "ticker": "NYSE:UNH"
+  },
+  {
+   "id": "live-0001647639-26-000086-5.02",
+   "time": "2026-11-09T21:30:16Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Upstart Holdings reports an executive or board change",
+   "take": "Upstart Holdings reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:30 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, UPST Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000086/0001647639-26-000086-index.htm",
+   "ticker": "NASDAQ:UPST"
+  },
   {
    "id": "live-0001104659-26-124508-5.02",
    "time": "2026-11-09T21:18:53Z",
