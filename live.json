@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T22:10:22Z",
+ "updated": "2026-11-09T12:29:39Z",
  "items": [
+  {
+   "id": "live-0001404912-26-000030-2.02",
+   "time": "2026-11-09T11:51:49Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "KKR & Co. releases financial results",
+   "take": "KKR & Co. filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:51 AM ET, Nov 9.",
+   "source_name": "SEC EDGAR, KKR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/0001404912-26-000030-index.htm",
+   "ticker": "NYSE:KKR"
+  },
   {
    "id": "live-0001193125-26-451940-1.01",
    "time": "2026-11-06T21:32:08Z",
