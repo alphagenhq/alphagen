@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-09T12:29:39Z",
+ "updated": "2026-11-09T21:28:51Z",
  "items": [
+  {
+   "id": "live-0001104659-26-124508-5.02",
+   "time": "2026-11-09T21:18:53Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "FedEx reports an executive or board change",
+   "take": "FedEx reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:18 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, FDX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926124508/0001104659-26-124508-index.htm",
+   "ticker": "NYSE:FDX"
+  },
+  {
+   "id": "live-0001193125-26-453635-5.02",
+   "time": "2026-11-09T21:16:37Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Stryker reports an executive or board change",
+   "take": "Stryker reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:16 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, SYK Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310764/000119312526453635/0001193125-26-453635-index.htm",
+   "ticker": "NYSE:SYK"
+  },
+  {
+   "id": "live-0001628280-26-072193-2.02",
+   "time": "2026-11-09T21:13:54Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Occidental Petroleum releases financial results",
+   "take": "Occidental Petroleum filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:13 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, OXY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/797468/000162828026072193/0001628280-26-072193-index.htm",
+   "ticker": "NYSE:OXY"
+  },
+  {
+   "id": "live-0001628280-26-072175-2.02",
+   "time": "2026-11-09T21:10:58Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Take TWO Interactive Software releases financial results",
+   "take": "Take TWO Interactive Software filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:10 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, TTWO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026072175/0001628280-26-072175-index.htm",
+   "ticker": "NASDAQ:TTWO"
+  },
+  {
+   "id": "live-0001628280-26-072158-2.02",
+   "time": "2026-11-09T21:08:17Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Lucid Group releases financial results",
+   "take": "Lucid Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:08 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, LCID Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1811210/000162828026072158/0001628280-26-072158-index.htm",
+   "ticker": "NASDAQ:LCID"
+  },
   {
    "id": "live-0001404912-26-000030-2.02",
    "time": "2026-11-09T11:51:49Z",
