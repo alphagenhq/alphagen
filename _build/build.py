@@ -4,12 +4,14 @@ Builds every page from shared templates plus the JSON data files, including stat
 pages for each note, chart, and covered stock, and branded share images (og/*.png).
 Run from anywhere:  python3 _build/build.py
 """
-import os, json, html, re, datetime, glob
+import os, json, html, re, datetime, glob, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ai_sample import preview_html as AI_PREVIEW, sample_json as AI_SAMPLE_JSON
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONTS = os.path.join(ROOT, "_build", "fonts")
 E = html.escape
 SITE = "https://alphagenresearch.com"
-V = "17"  # asset version
+V = "18"  # asset version
 
 def load(name):
     try:
@@ -370,21 +372,11 @@ home = f'''<div class="wrap">
       <div>
         <div class="eyebrow">AlphaGen Advisor Intelligence · For advisory firms</div>
         <h2 class="sec">Your advisors, ahead of every client question.</h2>
-        <p>Daily briefings with client talking points across macro, policy, equity and capital markets, earnings, and debt, so your advisors spend their time bringing in new money, not catching up.</p>
-        <ul class="ai-trust"><li>Before the open, every market day</li><li>Talking points in every edition</li><li>Your brand or ours</li></ul>
+        <p>A short daily briefing on macro, policy, markets, earnings and debt, plus the client questions your advisors will get that day, answered in plain English. They walk into every call prepared and spend their time bringing in new money, not catching up.</p>
+        <ul class="ai-trust"><li>Every market day</li><li>Client Q&amp;A in every edition</li><li>Your brand or ours</li></ul>
         <div class="cta-row"><a class="btn" href="/institutional#pilot">Request a 30-day pilot</a><a class="btn ghost" href="/institutional">Explore Advisor Intelligence →</a></div>
       </div>
-      <div class="ai-preview" id="ai-preview" aria-label="Preview of the latest briefing">
-        <div class="aip-head"><div class="aip-brand"><img src="/logo-192.png" alt="" width="28" height="28"><span class="w">Alpha<span>Gen</span></span></div><div class="aip-ed"><b data-aip-ed>Pre-Market Daily</b><span data-aip-date>Loading…</span></div></div>
-        <div class="aip-index"><span>Macro</span><span>Policy</span><span>Markets</span><span>Earnings</span><span>Deals</span><span>Talking points</span></div>
-        <div class="aip-rows">
-          <div class="aip-row"><span class="aip-k">The big picture</span><b data-aip="eq">&nbsp;</b><small data-aip="eq-s">&nbsp;</small></div>
-          <div class="aip-row"><span class="aip-k">Earnings</span><b data-aip="er">&nbsp;</b><small data-aip="er-s">&nbsp;</small></div>
-          <div class="aip-row"><span class="aip-k">Capital markets</span><b data-aip="cm">&nbsp;</b><small data-aip="cm-s">&nbsp;</small></div>
-        </div>
-        <div class="aip-tp"><span>Talking point for client calls</span><p data-aip="tp">&nbsp;</p></div>
-        <div class="aip-foot">Built live from the AlphaGen desk · Every figure linked to its source</div>
-      </div>
+      {AI_PREVIEW("pm")}
     </div>
   </div>
 </section>
@@ -589,21 +581,11 @@ inst = f'''<div class="wrap">
     <div>
       <div class="eyebrow">AlphaGen Advisor Intelligence</div>
       <h1>Your advisors, ahead of <em>every client question.</em></h1>
-      <p class="lede">Advisor Intelligence turns every market day into a short, plain-English briefing on macro, policy, equity and capital markets, earnings, and debt. Each edition ends with client-ready talking points, so your advisors stay current in minutes and spend the rest of the day on what grows the firm: new clients and new assets.</p>
-      <div class="cta-row"><a class="btn" href="#pilot">Request a 30-day pilot</a><a class="btn ghost" href="#sample">See a live briefing</a></div>
+      <p class="lede">Advisor Intelligence turns every market day into a short, plain-English briefing on macro, policy, equity and capital markets, earnings, and debt. Each edition answers the questions clients will ask that day, answer first, with the number to cite, so your advisors stay current in minutes and spend the rest of the day on what grows the firm: new clients and new assets.</p>
+      <div class="cta-row"><a class="btn" href="#pilot">Request a 30-day pilot</a><a class="btn ghost" href="#sample">See a sample briefing</a></div>
       <ul class="ai-trust"><li>Every market day</li><li>Every figure sourced</li><li>No recommendations or price targets</li><li>Your brand or ours</li></ul>
     </div>
-    <div class="ai-preview" id="ai-preview" aria-label="Preview of today's briefing">
-      <div class="aip-head"><div class="aip-brand"><img src="/logo-192.png" alt="" width="28" height="28"><span class="w">Alpha<span>Gen</span></span></div><div class="aip-ed"><b data-aip-ed>Pre-Market Daily</b><span data-aip-date>Loading…</span></div></div>
-      <div class="aip-index"><span>Macro</span><span>Policy</span><span>Markets</span><span>Earnings</span><span>Deals</span><span>Talking points</span></div>
-      <div class="aip-rows">
-        <div class="aip-row"><span class="aip-k">The big picture</span><b data-aip="eq">&nbsp;</b><small data-aip="eq-s">&nbsp;</small></div>
-        <div class="aip-row"><span class="aip-k">Earnings</span><b data-aip="er">&nbsp;</b><small data-aip="er-s">&nbsp;</small></div>
-        <div class="aip-row"><span class="aip-k">Capital markets</span><b data-aip="cm">&nbsp;</b><small data-aip="cm-s">&nbsp;</small></div>
-      </div>
-      <div class="aip-tp"><span>Talking point for client calls</span><p data-aip="tp">&nbsp;</p></div>
-      <div class="aip-foot">Built live from the AlphaGen desk · Every figure linked to its source</div>
-    </div>
+    {AI_PREVIEW("pm")}
   </div>
   <div class="deskstats" data-deskstats="pieces,coverage,sources,companies,earnings,deals"></div>
   <p class="levels-note">Live counts from the AlphaGen research desk that powers every briefing.</p>
@@ -631,7 +613,7 @@ inst = f'''<div class="wrap">
       <div class="ai-topic"><span class="n">05</span><b>Earnings</b><p>What major companies reported and what changed in their outlook.</p></div>
       <div class="ai-topic"><span class="n">06</span><b>Debt &amp; rates</b><p>Treasury yields, auctions, credit, and the national debt.</p></div>
       <div class="ai-topic"><span class="n">07</span><b>Global &amp; geopolitics</b><p>Central banks, energy, and world events, through their market impact.</p></div>
-      <div class="ai-topic"><span class="n">08</span><b>Client talking points</b><p>Plain-English points, ready to use in client conversations.</p></div>
+      <div class="ai-topic"><span class="n">08</span><b>Client questions, answered</b><p>The questions clients will ask that day, answered first in plain English, with the number to cite.</p></div>
     </div>
   </div>
 </section>
@@ -664,19 +646,20 @@ inst = f'''<div class="wrap">
 
 <section id="sample">
   <div class="wrap">
-    <div class="sec-head"><div><div class="eyebrow">Live sample briefing</div><h2 class="sec">What lands in your advisors' inbox</h2></div><p>Built live from the AlphaGen desk. Switch editions, then switch the branding to see the private-label version under your firm's name.</p></div>
+    <div class="sec-head"><div><div class="eyebrow">Sample briefing · Monday, Nov 9, 2026</div><h2 class="sec">What lands in your advisors' inbox</h2></div><p>A full sample from a high-impact market day. Switch between the morning and closing editions, then switch the branding to see it under your firm's name.</p></div>
+    <script type="application/json" id="ai-sample-data">{AI_SAMPLE_JSON()}</script>
     <div class="sample" id="sample-edition">
       <div>
         <div class="toggles">
-          <div class="toggle" role="group" aria-label="Edition"><button type="button" data-ed="am" aria-pressed="true">Pre-Market</button><button type="button" data-ed="pm" aria-pressed="false">At the Close</button></div>
+          <div class="toggle" role="group" aria-label="Edition"><button type="button" data-ed="am" aria-pressed="false">Pre-Market</button><button type="button" data-ed="pm" aria-pressed="true">At the Close</button></div>
           <div class="toggle" role="group" aria-label="Branding"><button type="button" data-brand="alphagen" aria-pressed="true">AlphaGen</button><button type="button" data-brand="firm" aria-pressed="false">Your brand</button></div>
         </div>
-        <div class="mail"><div class="chart-load">Loading today's briefing…</div></div>
+        <div class="mail"><div class="chart-load">Loading the sample briefing…</div></div>
       </div>
       <div class="sample-side">
-        <div class="card-h"><span>Advisor talking points</span><span>Ready for client calls</span></div><div class="social-cap ai-tp"></div>
+        <div class="card-h"><span>Client note</span><span>Ready to send</span></div><div class="ai-note"></div>
         <div class="ai-extras">
-          <div><b>Weekly client letter</b><p>A forward-ready summary of the week for your advisors to send to clients under their own name.</p></div>
+          <div><b>Inside every edition</b><p>Today in one line · the numbers that matter · what happened and what it means · the client questions of the day, answered · a client note ready to send.</p></div><div><b>Weekly client letter</b><p>A forward-ready summary of the week for your advisors to send to clients under their own name.</p></div>
           <div><b>Social post drafts</b><p>Short, compliance-friendly market posts your advisors can share on LinkedIn.</p></div>
         </div>
         <p class="levels-note" style="margin-top:12px">"Example Wealth Partners" is a placeholder to illustrate private-label branding. Partner editions carry your firm's own disclosures.</p>
@@ -734,9 +717,9 @@ inst = f'''<div class="wrap">
       <div><b>Before Bed</b><p>After-hours earnings and what to watch tomorrow.</p></div>
     </div>
     <div class="tiers">
-      <div class="tier"><span class="tn">Base</span><div class="tp">1 read<small> / day</small></div><p class="td">Start every day prepared.</p><ul><li>Pre-Market Daily, before the open</li><li>All eight areas: macro, policy, equity and capital markets, earnings, debt</li><li>Advisor talking points</li><li>Email delivery to your team</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
-      <div class="tier feat"><span class="ribbon">Most popular</span><span class="tn">Moderate</span><div class="tp">2 reads<small> / day</small></div><p class="td">Open prepared, close informed.</p><ul><li>Pre-Market Daily and At the Close</li><li>All eight areas covered</li><li>Talking points in every edition</li><li>Weekly client letter, ready to forward</li><li>Private-label branding available</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
-      <div class="tier"><span class="tn">Most</span><div class="tp">4 reads<small> / day</small></div><p class="td">Always current, all day.</p><ul><li>Pre-Market, Midday, At the Close, and Before Bed</li><li>After-hours earnings coverage</li><li>Talking points in every edition</li><li>Weekly client letter and social post drafts</li><li>Private-label branding and priority coverage requests</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+      <div class="tier"><span class="tn">Base</span><div class="tp">1 read<small> / day</small></div><p class="td">Start every day prepared.</p><ul><li>Pre-Market Daily, before the open</li><li>All eight areas: macro, policy, equity and capital markets, earnings, debt</li><li>Client Q&amp;A and a ready-to-send client note</li><li>Email delivery to your team</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+      <div class="tier feat"><span class="ribbon">Most popular</span><span class="tn">Moderate</span><div class="tp">2 reads<small> / day</small></div><p class="td">Open prepared, close informed.</p><ul><li>Pre-Market Daily and At the Close</li><li>All eight areas covered</li><li>Client Q&amp;A in every edition</li><li>Weekly client letter, ready to forward</li><li>Private-label branding available</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
+      <div class="tier"><span class="tn">Most</span><div class="tp">4 reads<small> / day</small></div><p class="td">Always current, all day.</p><ul><li>Pre-Market, Midday, At the Close, and Before Bed</li><li>After-hours earnings coverage</li><li>Client Q&amp;A in every edition</li><li>Weekly client letter and social post drafts</li><li>Private-label branding and priority coverage requests</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
     </div>
   </div>
 </section>
@@ -747,7 +730,7 @@ inst = f'''<div class="wrap">
     <div class="ai-faq">
       <div><b>What does it cover?</b><p>Macro data, Fed and fiscal policy, equity and capital markets, earnings, Treasury yields and credit, and global events, at the level a client conversation needs.</p></div>
       <div><b>Is this investment advice?</b><p>No. Briefings are general market education and commentary. They contain no recommendations, price targets, or personalized advice, so advisors can share the ideas within your firm's existing policies.</p></div>
-      <div><b>Can our compliance team review it?</b><p>Yes. Briefings arrive on a fixed schedule in a consistent format, and every figure links to its primary source, which makes review fast.</p></div>
+      <div><b>Can our compliance team review it?</b><p>Yes. Briefings arrive on a fixed schedule in a consistent format, and every figure is sourced, with no recommendations or price targets, which makes review fast.</p></div>
       <div><b>Can it carry our brand?</b><p>Yes. Private-label editions use your firm's name, logo, colors, and disclosures. Your advisors and clients see your brand, not ours.</p></div>
       <div><b>Where does the information come from?</b><p>Primary sources only: company earnings releases and SEC filings, the Federal Reserve, U.S. Treasury, Bureau of Labor Statistics, Bureau of Economic Analysis, and Census Bureau.</p></div>
       <div><b>How is pricing set?</b><p>By plan and by the number of advisors at your firm. Request a pilot and we'll send pricing with your sample week.</p></div>

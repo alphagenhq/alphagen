@@ -487,45 +487,37 @@ const tpList=n=>(n&&n.talking_points||[]).length?n.talking_points:[];
 const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length<28?x.value_text:"Undisclosed");
 
 (function(){
-  const root=document.getElementById("ai-preview"); if(!root) return;
-  load().then(D=>{
-    const set=(k,v)=>{const e=root.querySelector(`[data-aip="${k}"]`);if(e)e.textContent=v||""};
-    const ed0=newestEd(D), brief=pickBrief(D,ed0), m=D.m[0], e=D.e[0], d=D.d.find(x=>x.value!=null)||D.d[0];
-    root.querySelector("[data-aip-date]").textContent=brief?nyDate(brief.time):"";root.querySelector("[data-aip-ed]").textContent=ed0==="pm"?"At the Close":"Pre-Market Daily";
-    if(brief){set("eq",brief.title.replace(/^[^:]+:\s*/,""));set("eq-s",brief.dek||"")}else if(m){set("eq",m.name+": "+m.headline);set("eq-s",m.catalyst||"")}
-    if(e){set("er",e.name+" "+(e.period||"")+(e.revenue!=null?" · Revenue "+bnum(e.revenue)+(e.revenue_yoy!=null?" ("+pct(e.revenue_yoy)+" y/y)":""):""));set("er-s",(e.take||"").split(". ")[0].replace(/\.?$/,"."))}
-    if(d){set("cm",d.headline);set("cm-s",[d.type,d.status,dealVal(d)].filter(Boolean).join(" · "))}
-    const tp=tpList(brief); set("tp",tp[0]||"Three plain-English points per edition, written for client calls and reviews.");
-    root.classList.add("ready");
-  });
-})();
-
-(function(){
-  const root=document.getElementById("sample-edition"); if(!root) return;
-  const brands={alphagen:{accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. For informational purposes only; not investment advice."},
+  const root=document.getElementById("sample-edition"), src=document.getElementById("ai-sample-data"); if(!root||!src) return;
+  let S; try{S=JSON.parse(src.textContent)}catch(e){return}
+  const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const brands={alphagen:{accent:"#4c8dff",logo:'<img src="/logo-192.png" alt="" width="34" height="34" style="border-radius:50%">',word:'Alpha<span style="color:#4c8dff">Gen</span>',from:"AlphaGen Research",foot:"Research by AlphaGen. Sources: company releases and filings, exchange and index data, CME FedWatch, AAA. For informational purposes only; not investment advice."},
     firm:{accent:"#c9a24b",logo:'<span class="mock-mark">EF</span>',word:'Example <span style="color:#c9a24b">Wealth Partners</span>',from:"Example Wealth Partners",foot:"Research prepared for Example Wealth Partners clients. For informational purposes only; not investment advice. [Your firm's disclosures appear here.]"}};
-  let mode="alphagen", ed="am", D=null;
-  const draw=()=>{if(!D)return;const b=brands[mode];
-    const brief=pickBrief(D,ed); const edName=ed==="pm"?"At the Close":"Pre-Market Daily";
-    const bt=brief?new Date(brief.time):new Date(), fresh=(x,d)=>x&&Math.abs(bt-new Date(x.time))<d*864e5;
-    const movers=D.m.filter(m=>fresh(m,4)).slice(0,3), earn=D.e.filter(e=>e.revenue!=null).slice(0,4), deals=D.d.slice(0,3), ch=fresh(D.c[0],5)?D.c[0]:null, tp=tpList(brief);
+  let mode="alphagen", ed="pm";
+  const copy=(txt,btn)=>{const done=()=>{const o=btn.textContent;btn.textContent="Copied";btn.classList.add("ok");setTimeout(()=>{btn.textContent=o;btn.classList.remove("ok")},1400)};
+    (navigator.clipboard&&navigator.clipboard.writeText?navigator.clipboard.writeText(txt):Promise.reject()).then(done).catch(()=>{const t=document.createElement("textarea");t.value=txt;document.body.appendChild(t);t.select();try{document.execCommand("copy");done()}catch(e){}t.remove()})};
+  const draw=()=>{const b=brands[mode], E=S[ed];
     root.style.setProperty("--brand",b.accent);
-    const secs=[["Big picture",!!brief],["Markets",movers.length],["Earnings",earn.length],["Capital markets",deals.length],["Chart",!!ch],["Talking points",tp.length]].filter(x=>x[1]).map(x=>x[0]);
-    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(edName)}: ${esc(brief?brief.title.replace(/^[^:]+:\s*/,""):"Today in markets")}</span></div>
-    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(edName)} · ${esc(nyDate(brief?brief.time:null))}</span></div>
-    <div class="mail-index">${secs.map(s=>`<span>${esc(s)}</span>`).join("")}</div>
-    ${brief?`<div class="mail-sec"><div class="mail-kick">The big picture</div><h4>${esc(brief.title)}</h4><p>${esc(brief.dek||"")}</p>${(brief.key_points||[]).length?`<ul>${brief.key_points.slice(0,3).map(k=>`<li>${esc(k)}</li>`).join("")}</ul>`:""}</div>`:""}
-    ${movers.length?`<div class="mail-sec"><div class="mail-kick">Markets · what's moving and why</div>${movers.map(m=>`<div class="mail-mv"><span class="mtk">${esc(tk(m.ticker))}</span><div><b>${esc(m.name)}: ${esc(m.headline)}</b><p>${esc(m.catalyst||"")}</p></div></div>`).join("")}</div>`:""}
-    ${earn.length?`<div class="mail-sec"><div class="mail-kick">Earnings scorecard</div><table class="mail-tbl"><tr><th>Company</th><th>Revenue</th><th>Y/Y</th><th>EPS</th></tr>${earn.map(e=>`<tr><td><b>${esc(e.name)}</b> <span class="mtk sm">${esc(tk(e.ticker))}</span></td><td>${esc(bnum(e.revenue))}</td><td class="${e.revenue_yoy>0?"up":e.revenue_yoy<0?"down":""}">${esc(pct(e.revenue_yoy)||"–")}</td><td>${e.eps!=null?"$"+(+e.eps).toFixed(2):"–"}</td></tr>`).join("")}</table></div>`:""}
-    ${deals.length?`<div class="mail-sec"><div class="mail-kick">Capital markets · deals and financing</div>${deals.map(x=>`<div class="mail-deal"><span class="mtk">${esc(x.type)}</span><div><b>${esc(x.headline)}</b><p>${esc([x.status,dealVal(x)].filter(Boolean).join(" · "))}</p></div></div>`).join("")}</div>`:""}
-    ${ch?`<div class="mail-sec"><div class="mail-kick">Chart of the day</div><h4>${esc(ch.title)}</h4><p>${esc((ch.take||"").split(". ").slice(0,2).join(". ").replace(/\.?$/,"."))}</p></div>`:""}
-    ${tp.length?`<div class="mail-sec tp"><div class="mail-kick">Talking points for client calls</div><ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol></div>`:""}
+    const isAH=ed==="pm";
+    const tbl=isAH?`<table class="mx-tbl"><tr><th>Ticker</th><th>After hours</th><th>Why</th></tr>${E.table.map(r=>`<tr><td><span class="mtk">${esc(r[0])}</span></td><td class="${/^[−-]/.test(r[1])?"down":"up"} mx-mv">${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join("")}</table><p class="mx-fine">After-hours moves as of about 4:30 p.m. ET.</p>`
+      :`<div class="mx-cal">${E.table.map(r=>`<div><span>${esc(r[0])}</span><b>${esc(r[1])}</b><p>${esc(r[2])}</p></div>`).join("")}</div>`;
+    root.querySelector(".mail").innerHTML=`<div class="mail-meta"><span><b>From:</b> ${esc(b.from)} Advisor Intelligence</span><span><b>Subject:</b> ${esc(E.edition)}: ${esc(E.subject)}</span></div>
+    <div class="mail-head"><div class="mail-brand">${b.logo}<span class="mail-word">${b.word}</span></div><span class="mail-date">${esc(E.edition)} · ${esc(S.date)} · 3-min read</span></div>
+    <div class="mx-one"><div class="mail-kick">Today in one line</div><p>${esc(E.oneline)}</p></div>
+    <div class="mx-stats ${E.stats.length>4?"six":"four"}">${E.stats.map(x=>`<div><span>${esc(x.k)}</span><b>${esc(x.v)}</b><i class="${x.d==="up"?"up":x.d==="dn"?"down":""}">${esc(x.c)}</i></div>`).join("")}</div>
+    <div class="mail-sec"><div class="mail-kick">What happened</div><ol class="mx-list">${E.happened.map(h=>`<li>${h}</li>`).join("")}</ol>
+      <div class="mx-means"><span>What it means for clients</span><p>${esc(E.means)}</p></div></div>
+    <div class="mail-sec"><div class="mail-kick">Questions your clients will ask ${isAH?"tonight":"today"}</div><div class="mx-qa">${E.qa.map((x,i)=>`<div class="mx-q"><div class="mx-qh"><b>“${esc(x.q)}”</b><button type="button" class="mx-copy" data-qa="${i}">Copy</button></div><p><strong>${esc(x.a)}</strong> ${esc(x.b)}</p><small><span>Cite</span>${esc(x.n)}</small></div>`).join("")}</div></div>
+    <div class="mail-sec"><div class="mail-kick">${esc(E.table_title)}</div>${tbl}</div>
     <div class="mail-foot">${esc(b.foot)}</div>`;
-    const cap=root.querySelector(".social-cap"); if(cap) cap.innerHTML=tp.length?`<div class="sc-h">${b.logo}<b>${esc(b.from)}</b></div><p><b>${esc(brief.title)}</b></p><ol>${tp.map(k=>`<li>${esc(k)}</li>`).join("")}</ol><p class="tp-src">From the latest ${esc(edName)} · every figure linked to its primary source</p>`:'<p class="tp-src">Talking points appear here with each edition.</p>';
+    root.querySelectorAll(".mx-copy").forEach(btn=>btn.addEventListener("click",()=>{const x=E.qa[+btn.dataset.qa];copy(`${x.q}\n${x.a} ${x.b}\nThe number: ${x.n}`,btn)}));
+    const note=root.querySelector(".ai-note");
+    if(note){const sig=mode==="firm"?"\n\n— Sent on behalf of Example Wealth Partners":"";
+      note.innerHTML=`<div class="an-sub"><span>Subject</span><b>${esc(E.note_subject)}</b></div><div class="an-body">${esc(E.note).replace(/\n/g,"<br>")}</div><button type="button" class="btn an-copy">Copy client note</button><p class="an-fine">Written in the advisor's voice. Edit the bracketed fields, then send.</p>`;
+      note.querySelector(".an-copy").addEventListener("click",e=>copy(`Subject: ${E.note_subject}\n\n${E.note}${sig}`,e.currentTarget))}
   };
   root.querySelectorAll("[data-brand]").forEach(btn=>btn.addEventListener("click",()=>{mode=btn.dataset.brand;root.querySelectorAll("[data-brand]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
   root.querySelectorAll("[data-ed]").forEach(btn=>btn.addEventListener("click",()=>{ed=btn.dataset.ed;root.querySelectorAll("[data-ed]").forEach(x=>x.setAttribute("aria-pressed",x===btn?"true":"false"));draw()}));
-  load().then(d=>{D=d;ed=newestEd(d);root.querySelectorAll("[data-ed]").forEach(x=>x.setAttribute("aria-pressed",x.dataset.ed===ed?"true":"false"));draw()});
+  draw();
 })();
 
 (function(){
