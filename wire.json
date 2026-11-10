@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-10T17:38:59Z",
+  "updated": "2026-11-10T18:38:16Z",
   "items": [
+    {
+      "id": "2026-11-10-cpi-oct-headline",
+      "tag": "MACRO",
+      "headline": "October CPI rises 0.4% after 0.6% in September; core up 0.3%",
+      "take": "BLS reported the CPI-U increased 0.4% seasonally adjusted in October after rising 0.6% in September, and the index for all items less food and energy rose 0.3%, as it did in September and August. The not seasonally adjusted index rose 0.2% to 337.511. Core running at 0.3% for a third straight month is the pace to watch against the energy-driven headline swings.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "time": "2026-11-10T18:40:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
+    {
+      "id": "2026-11-10-cpi-oct-energy-food",
+      "tag": "MACRO",
+      "headline": "CPI: energy up 0.7% in October after 5.2% in September; food up 0.5%",
+      "take": "The BLS energy index rose 0.7% in October following a 5.2% increase in September, with gasoline up 1.0% seasonally adjusted (down 0.7% before seasonal adjustment) and electricity up 0.9%. Food rose 0.5%, with food at home up 0.4% and food away from home up 0.5%. Energy's contribution cooled sharply from September, but grocery and restaurant prices both firmed.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "time": "2026-11-10T18:48:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
+    {
+      "id": "2026-11-10-cpi-oct-shelter-core",
+      "tag": "MACRO",
+      "headline": "CPI shelter rises 0.3% in October; used cars fall 1.2%, motor vehicle insurance up 0.7%",
+      "take": "The BLS shelter index rose 0.3% in October after 0.4% in September, with owners' equivalent rent up 0.3% and rent up 0.2%, and shelter accounted for over thirty percent of the monthly all-items increase. Used cars and trucks fell 1.2% after rising 0.7%, while motor vehicle insurance rose 0.7% and recreation rose 0.8%. Offsetting moves in vehicles and services kept core at 0.3%.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "time": "2026-11-10T18:56:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
+    {
+      "id": "2026-11-10-cpi-oct-no-12-month",
+      "tag": "MACRO",
+      "headline": "BLS cannot publish most 12-month CPI changes for October; gasoline up 37.4% on year",
+      "take": "BLS said it did not collect October 2025 survey data because of a lapse in appropriations, so it cannot publish October 2026 12-month changes for indexes lacking October 2025 values; the headline all-items 12-month rate is shown as unavailable. Where published, gasoline was up 37.4% over 12 months and used cars and trucks down 3.3%. That leaves monthly changes as the main inflation read from this release.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "time": "2026-11-10T19:04:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
+    {
+      "id": "2026-11-10-real-earnings-oct",
+      "tag": "MACRO",
+      "headline": "Real average hourly earnings unchanged in October as pay and CPI both rise 0.4%",
+      "take": "BLS reported real average hourly earnings for all employees were unchanged from September to October (seasonally adjusted), as a 0.4% rise in average hourly earnings matched a 0.4% rise in the CPI-U. For production and nonsupervisory employees, real hourly earnings rose 0.1% and real weekly earnings fell 0.3% on a 0.3% shorter average workweek. Over-the-year comparisons are unavailable because of the missing October 2025 CPI data.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
+      "time": "2026-11-10T19:12:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
+    {
+      "id": "2026-11-10-fred-credit-spreads-nov9",
+      "tag": "CREDIT",
+      "headline": "High-yield spread 3.34 points on Nov. 9, down from 3.43 on Nov. 2; investment grade 0.91",
+      "take": "FRED data show the ICE BofA US High Yield option-adjusted spread at 3.34 percentage points on Nov. 9, versus 3.43 on Nov. 2 and 3.48 on Nov. 5. The investment-grade corporate spread was 0.91 on Nov. 9, down from 0.94 on Nov. 2. Both spreads sit near the low end of the past week's range.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "time": "2026-11-10T19:20:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
+    {
+      "id": "2026-11-10-fred-jobless-claims-oct31",
+      "tag": "MACRO",
+      "headline": "Initial jobless claims 189,000 in week ended Oct. 31, lowest of six weekly readings",
+      "take": "FRED data show seasonally adjusted initial jobless claims at 189,000 for the week ended Oct. 31, down from 195,000 in each of the prior two weeks and 200,000 for the week ended Oct. 10. It is the lowest of the six weekly observations since Sept. 26. Low claims alongside October's 165,000 payroll gain point to a labor market with few layoffs.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/ICSA",
+      "time": "2026-11-10T19:28:16Z",
+      "checked": "2026-11-10T18:38:16Z"
+    },
     {
       "id": "2026-11-10-waller-london",
       "tag": "FED",
@@ -5295,83 +5365,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000868671/000086867126000074/gbci-09302026xex991.htm",
       "ticker": "NASDAQ:GBCI",
       "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-hfwa-q3-buyback",
-      "time": "2026-10-25T02:13:00Z",
-      "tag": "EARNINGS",
-      "headline": "Heritage Financial Q3 net income $18.7M, EPS $0.46; board OKs 5% buyback",
-      "take": "Heritage Financial reported Q3 2026 net income of $18.72 million and diluted EPS of $0.46, versus $0.55 in Q3 2025; net income was $17.5 million in Q2 2026 and $19.2 million a year earlier. On Oct. 21 the board approved a program to repurchase up to 5% of outstanding shares, about 2.0 million shares, replacing a prior program that was substantially completed in Q3. The company bought 341,483 shares for about $10.2 million in the quarter, so per-share earnings fell on the year while capital return continued.",
-      "source_name": "Heritage Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046025/000162828026066841/a8-kexhibit991q326er.htm",
-      "ticker": "NASDAQ:HFWA",
-      "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-hfwa-balance-sheet",
-      "time": "2026-10-25T02:22:00Z",
-      "tag": "CREDIT",
-      "headline": "Heritage Financial NIM 4.05%; assets $8.52B, deposits $7.19B at Sept. 30",
-      "take": "Heritage Financial reported a Q3 2026 net interest margin of 4.05%, total assets of $8,517.9 million and total deposits of $7,186.9 million at Sept. 30. It declared a $0.25 per-share dividend on Oct. 21, payable Nov. 18 to holders of record Nov. 4. Deposits equal about 84% of assets.",
-      "source_name": "Heritage Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001046025/000162828026066841/a8-kexhibit991q326er.htm",
-      "ticker": "NASDAQ:HFWA",
-      "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-by-q3",
-      "time": "2026-10-25T02:31:00Z",
-      "tag": "EARNINGS",
-      "headline": "Byline Bancorp Q3 net income $41.8M; diluted EPS $0.94 vs. $0.82",
-      "take": "Byline Bancorp reported Q3 2026 net income of $41.786 million and diluted EPS of $0.94, versus $0.82 in Q3 2025, a 14.6% increase. Its net interest margin was 4.33% for the quarter. A margin above 4.3% is the figure to weigh against the 4.0%-4.1% margins other regional lenders reported this week.",
-      "source_name": "Byline Bancorp Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001702750/000119312526428935/by-ex99_1.htm",
-      "ticker": "NYSE:BY",
-      "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-by-balance-sheet",
-      "time": "2026-10-25T02:40:00Z",
-      "tag": "CREDIT",
-      "headline": "Byline Bancorp total assets $9.90B, deposits $8.04B; dividend $0.14",
-      "take": "Byline reported total assets of $9,898.8 million and total deposits of $8,039.1 million at Sept. 30, 2026, and declared a $0.14 per-share common dividend on Oct. 6. Deposits equal about 81% of assets.",
-      "source_name": "Byline Bancorp Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001702750/000119312526428935/by-ex99_1.htm",
-      "ticker": "NYSE:BY",
-      "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-msbi-q3",
-      "time": "2026-10-25T02:49:00Z",
-      "tag": "EARNINGS",
-      "headline": "Midland States Q3 diluted EPS $0.95 vs. $0.24; net interest margin 4.03%",
-      "take": "Midland States Bancorp reported Q3 2026 net income available to common shareholders of $20.6 million ($22.8 million before preferred dividends) and diluted EPS of $0.95, versus $0.24 in Q3 2025. Net interest margin was 4.03%, with total assets of $6.82 billion and deposits of $5.62 billion at Sept. 30. The prior-year base was low, so the year-over-year gain is large in percentage terms.",
-      "source_name": "Midland States Bancorp Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001466026/000146602626000097/msbi-20260930exx991.htm",
-      "ticker": "NASDAQ:MSBI",
-      "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-faf-q3",
-      "time": "2026-10-25T00:47:00Z",
-      "tag": "EARNINGS",
-      "headline": "First American Q3 net income $177.0M, diluted EPS $1.72 vs $1.84 a year earlier",
-      "take": "First American Financial reported third-quarter 2026 total revenues of $2,084.6M, versus $1,978.9M a year earlier, and net income of $177.0M versus $189.6M. Net income per diluted share was $1.72 versus $1.84, while adjusted EPS was $1.78 versus $1.70. Revenue rose 5.3% on the year while GAAP diluted EPS fell 6.5%, so the quarter shows higher revenue paired with lower reported profit.",
-      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
-      "ticker": "NYSE:FAF",
-      "checked": "2026-10-25T00:45:32Z"
-    },
-    {
-      "id": "2026-10-25-faf-margins",
-      "time": "2026-10-25T00:59:00Z",
-      "tag": "EQUITIES",
-      "headline": "First American title pretax margin 12.4% vs 12.9%; home warranty 9.9% vs 14.1%",
-      "take": "In Q3 2026, First American's Title Insurance and Services segment reported total revenues of $1,972.9M, versus $1,835.9M a year earlier. Its pretax margin was 12.4% versus 12.9%, with an adjusted pretax margin of 12.7% versus 12.9%; the Home Warranty pretax margin was 9.9% versus 14.1%. Segment revenue grew about 7.5% while margins narrowed, so title-segment profit did not keep pace with sales.",
-      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
-      "ticker": "NYSE:FAF",
-      "checked": "2026-10-25T00:45:32Z"
     }
   ]
 }
