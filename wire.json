@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-08T13:44:06Z",
+  "updated": "2026-11-10T00:49:24Z",
   "items": [
+    {
+      "id": "2026-11-09-qxo-q3-prelim",
+      "time": "2026-11-10T00:52:24Z",
+      "tag": "EARNINGS",
+      "headline": "QXO prelim Q3: net sales about $4.90B, GAAP net loss about $123M",
+      "take": "QXO's preliminary, unaudited release puts third-quarter 2026 net sales at approximately $4.90 billion versus $2.73 billion a year earlier, with a GAAP net loss of approximately $123 million versus $139 million and adjusted EBITDA of approximately $557 million versus $301 million. The 2026 figures include Kodiak Building Partners from April 1 and TopBuild from July 1, neither of which was in the prior-year quarter. Acquisitions, not organic trends alone, drive the year-over-year jump; full results are due Nov. 12.",
+      "source_name": "QXO, Inc.: Q3 2026 Preliminary Financial Information (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001236275/000162828026071846/qxoq3-26preliminaryresults.htm",
+      "ticker": "NYSE:QXO",
+      "checked": "2026-11-10T00:49:24Z"
+    },
+    {
+      "id": "2026-11-09-cnh-q3-8k",
+      "time": "2026-11-10T01:04:24Z",
+      "tag": "EARNINGS",
+      "headline": "CNH files 8-K with Q3 2026 results release and investor presentation",
+      "take": "CNH Industrial's 8-K reports under Item 2.02 a Nov. 9, 2026 press release on third-quarter results, furnished as Exhibit 99.1, and under Item 7.01 a results slide presentation for a Nov. 9 investor call, furnished as Exhibit 99.2. The filing's cover page carries no financial figures, which sit in the exhibits. AlphaGen will report the numbers once read from the release itself.",
+      "source_name": "SEC EDGAR: CNH Industrial N.V. Form 8-K, Nov. 9, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001567094/000156709426000020/cnhi-20261109.htm",
+      "ticker": "NYSE:CNH",
+      "checked": "2026-11-10T00:49:24Z"
+    },
+    {
+      "id": "2026-11-09-qlys-q3-8k",
+      "time": "2026-11-10T01:16:24Z",
+      "tag": "EARNINGS",
+      "headline": "Qualys files 8-K on Q3 2026 results; conference call held same day",
+      "take": "Qualys's 8-K, signed Nov. 9, 2026 by its CFO, furnishes under Item 2.02 a press release announcing results for the quarter ended Sept. 30, 2026, and says the company would hold a conference call that day. Results figures are in Exhibit 99.1, not the cover filing. The information is furnished rather than filed for Exchange Act Section 18 purposes.",
+      "source_name": "SEC EDGAR: Qualys, Inc. Form 8-K, Nov. 9, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001107843/000110784326000043/qlys-20261109.htm",
+      "ticker": "NASDAQ:QLYS",
+      "checked": "2026-11-10T00:49:24Z"
+    },
+    {
+      "id": "2026-11-09-kmpr-q3-8k",
+      "time": "2026-11-10T01:28:24Z",
+      "tag": "EARNINGS",
+      "headline": "Kemper files 8-K on third-quarter 2026 results; supplement and call deck posted",
+      "take": "Kemper's 8-K, signed Nov. 9, 2026, reports under Item 2.02 a press release on third-quarter 2026 financial results and lists a Q3 investor supplement (Exhibit 99.2) and an earnings call presentation (Exhibit 99.3) alongside it. The cover filing contains no figures. Kemper had already published a preliminary Q3 item on the Wire on Oct. 29, so the full release is the next data point to compare.",
+      "source_name": "SEC EDGAR: Kemper Corporation Form 8-K, Nov. 9, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000860748/000086074826000101/kmpr-20261109.htm",
+      "ticker": "NYSE:KMPR",
+      "checked": "2026-11-10T00:49:24Z"
+    },
     {
       "id": "2026-11-08-refunding-auction-week",
       "time": "2026-11-08T13:44:06Z",
@@ -5332,50 +5376,6 @@
       "take": "Freddie Mac's Primary Mortgage Market Survey for Oct. 22 shows the 30-year fixed-rate average at 7.32%, down from 7.40% a week earlier and up from 6.19% a year ago. The 15-year fixed-rate average was 6.68%, versus 6.71% the prior week and 5.44% a year ago. The 8 bp weekly decline still leaves the 30-year 113 bp above its year-ago level, so affordability relief remains modest.",
       "source_name": "Freddie Mac Primary Mortgage Market Survey",
       "source_url": "https://www.freddiemac.com/pmms",
-      "checked": "2026-10-24T21:50:13Z"
-    },
-    {
-      "id": "2026-10-24-frme-q3",
-      "time": "2026-10-24T22:04:13Z",
-      "tag": "EARNINGS",
-      "headline": "First Merchants Q3 diluted EPS $1.09 vs $0.98; net interest margin 3.44%",
-      "take": "First Merchants reported third-quarter 2026 net income available to common stockholders of $67.8M ($67,847K) versus $56.3M ($56,297K) a year earlier, and diluted EPS of $1.09 versus $0.98. Net interest margin on a fully taxable-equivalent basis was 3.44% versus 3.24%, and the cash dividend was $0.37 per common share versus $0.36. Net income available to common rose 20.5% and EPS 11.2%, so earnings per share grew more slowly than total earnings.",
-      "source_name": "First Merchants Corporation Q3 2026 earnings release (GlobeNewswire, Oct. 21, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385887/0/en/first-merchants-corporation-announces-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:FRME",
-      "checked": "2026-10-24T21:50:13Z"
-    },
-    {
-      "id": "2026-10-24-frme-balance-sheet",
-      "time": "2026-10-24T22:16:13Z",
-      "tag": "CREDIT",
-      "headline": "First Merchants total assets $21.1B at Sept. 30, up from $18.8B a year earlier",
-      "take": "First Merchants reported total assets of $21,056,722K at Sept. 30, 2026, versus $18,811,629K at Sept. 30, 2025. That is growth of 11.9%, computed from the release's figures. Diluted EPS for the quarter was $1.09 versus $0.98, up 11.2%.",
-      "source_name": "First Merchants Corporation Q3 2026 earnings release (GlobeNewswire, Oct. 21, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/21/3385887/0/en/first-merchants-corporation-announces-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:FRME",
-      "checked": "2026-10-24T21:50:13Z"
-    },
-    {
-      "id": "2026-10-24-mcb-q3",
-      "time": "2026-10-24T22:28:13Z",
-      "tag": "EARNINGS",
-      "headline": "Metropolitan Bank Holding Q3 net income $32.4M, diluted EPS $2.58 vs $0.67",
-      "take": "Metropolitan Bank Holding Corp. reported third-quarter 2026 net income of $32,437K versus $7,119K a year earlier, and diluted EPS of $2.58 versus $0.67. The release was issued Oct. 20 after the market close. Net income was about 4.6 times the year-ago figure, a wide year-over-year swing.",
-      "source_name": "Metropolitan Bank Holding Corp. Q3 2026 earnings release (Business Wire, Oct. 20, 2026)",
-      "source_url": "https://www.businesswire.com/news/home/20261020304608/en/Metropolitan-Bank-Holding-Corp.-Reports-Third-Quarter-2026-Results",
-      "ticker": "NYSE:MCB",
-      "checked": "2026-10-24T21:50:13Z"
-    },
-    {
-      "id": "2026-10-24-mcb-deposits-assets",
-      "time": "2026-10-24T22:38:13Z",
-      "tag": "CREDIT",
-      "headline": "Metropolitan Bank deposits $8.32B, up 17.6% on year; total assets $9.47B",
-      "take": "Metropolitan Bank Holding Corp. reported total deposits of $8,320,572K at Sept. 30, 2026, versus $7,072,759K a year earlier, and total assets of $9,470,920K versus $8,234,430K. Computed from those figures, deposits grew 17.6% and assets 15.0%. Deposits growing faster than assets means deposit growth ran ahead of asset growth over the period.",
-      "source_name": "Metropolitan Bank Holding Corp. Q3 2026 earnings release (Business Wire, Oct. 20, 2026)",
-      "source_url": "https://www.businesswire.com/news/home/20261020304608/en/Metropolitan-Bank-Holding-Corp.-Reports-Third-Quarter-2026-Results",
-      "ticker": "NYSE:MCB",
       "checked": "2026-10-24T21:50:13Z"
     }
   ]
