@@ -1,0 +1,25 @@
+name: Source feeds
+on:
+  schedule: [{ cron: "7,22,37,52 * * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: source-feeds, cancel-in-progress: false }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main, path: site, sparse-checkout: .github }
+      - uses: actions/checkout@v4
+        with: { ref: data, path: data }
+      - run: python3 site/.github/scripts/source_feeds.py data
+      - name: Publish
+        working-directory: data
+        run: |
+          git config user.name "AlphaGen"; git config user.email "alphagenhq@users.noreply.github.com"
+          python3 -m json.tool sources.json > /dev/null
+          git add sources.json
+          git diff --cached --quiet && exit 0
+          git commit -m "AlphaGen source feeds $(date -u +%H:%MZ)"
+          for i in 1 2 3 4; do git pull --rebase origin data && git push origin HEAD:data && exit 0; sleep 7; done; exit 1
