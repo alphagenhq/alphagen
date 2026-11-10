@@ -1,6 +1,68 @@
 {
-  "updated": "2026-11-10T18:38:16Z",
+  "updated": "2026-11-10T19:39:12Z",
   "items": [
+    {
+      "id": "2026-11-10-stld-buyback",
+      "tag": "EQUITIES",
+      "headline": "Steel Dynamics adds $3.0B buyback authorization, declares $0.53 dividend",
+      "take": "Steel Dynamics said Nov. 9 its board authorized an additional $3.0 billion share repurchase program, effective immediately and additive to the prior $1.5 billion program, which had $216 million remaining on Sept. 30, 2026. The board also declared a quarterly cash dividend of $0.53 per share, payable on or about Jan. 8, 2027 to holders of record Dec. 31, 2026. The new authorization is more than 13 times what was left on the old one, a sizable step up in planned capital return.",
+      "source_name": "Steel Dynamics 8-K Exhibit 99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
+      "ticker": "NASDAQ:STLD",
+      "time": "2026-11-10T19:44:00Z",
+      "checked": "2026-11-10T19:39:12Z"
+    },
+    {
+      "id": "2026-11-10-rakuten-ast-jv",
+      "tag": "DEALS",
+      "headline": "Rakuten and AST SpaceMobile form Japan satellite JV tied to ~$1B in government support",
+      "take": "Rakuten Group and AST SpaceMobile agreed to establish Rakuten AST, Inc. on Nov. 6 (Japan time) to build a direct-to-device LEO satellite network in Japan, with Rakuten holding 51% of voting rights and AST SpaceMobile's Japanese subsidiary 49%. The release says the venture is expected to receive up to 148 billion yen (approximately $1 billion) in support over about three years from Japan's J-LEO project, with domestic operations targeted by the end of March 2029. The venture pairs a Japanese-government-backed funding award with AST SpaceMobile's satellite supply role.",
+      "source_name": "AST SpaceMobile 8-K Exhibit 99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226050865/ex99-1.htm",
+      "ticker": "NASDAQ:ASTS",
+      "time": "2026-11-10T19:52:00Z",
+      "checked": "2026-11-10T19:39:12Z"
+    },
+    {
+      "id": "2026-11-10-cipollone-digital-euro",
+      "tag": "GLOBAL",
+      "headline": "ECB's Cipollone: digital euro pilot to start in 2H 2027, needs law adopted by year-end",
+      "take": "In remarks to the European Parliament's economics committee on Nov. 10, ECB Executive Board member Piero Cipollone said the digital euro pilot starts in the second half of 2027 with 36 selected payment service providers, and that first issuance can be set only after the Regulation is adopted. He said a swift end to trilogue talks would allow adoption of the Single Currency Package by the end of the year, and noted that on Nov. 2 the Pontes platform settled the European Stability Mechanism's first digitally native benchmark bond of EUR 1 billion. The timeline now hinges on legislation rather than technical readiness, by his account.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "time": "2026-11-10T20:00:00Z",
+      "checked": "2026-11-10T19:39:12Z"
+    },
+    {
+      "id": "2026-11-10-fred-sofr-rrp-walcl",
+      "tag": "FED",
+      "headline": "SOFR 3.88% on Nov. 9, down from 3.95% a week earlier; Fed assets $6.748T",
+      "take": "FRED shows the secured overnight financing rate at 3.88% on Nov. 9, down 7 basis points from 3.95% on Nov. 2, while overnight reverse repurchase take-up was $0.152 billion on Nov. 10. Federal Reserve total assets were $6,748,145 million (about $6.748 trillion) in the week of Nov. 4, up $2.5 billion from $6,745,635 million on Oct. 28. Repo funding rates drifting lower with almost no reverse repo usage points to ample cash in overnight markets.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "time": "2026-11-10T20:08:00Z",
+      "checked": "2026-11-10T19:39:12Z"
+    },
+    {
+      "id": "2026-11-10-fred-fx-nov6",
+      "tag": "FX",
+      "headline": "EUR/USD at 1.1154 and USD/JPY at 158.23 on Nov. 6",
+      "take": "FRED daily exchange rates show the euro at $1.1154 on Nov. 6, down from $1.1235 on Nov. 5 and $1.1163 on Oct. 30. The yen rate was 158.23 per dollar on Nov. 6 versus 157.47 on Oct. 30, a move of 0.76 yen per dollar over the week. The euro's one-day drop was the largest of the six observations in the series pulled, while the yen has stayed in a narrow 157-158.5 range.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
+      "time": "2026-11-10T20:16:00Z",
+      "checked": "2026-11-10T19:39:12Z"
+    },
+    {
+      "id": "2026-11-10-eia-global-refinery-inputs",
+      "tag": "ENERGY",
+      "headline": "Global refinery inputs fell 4.8M b/d in 2Q26, then rose 1.8M b/d in 3Q: EIA",
+      "take": "EIA, citing Kpler data, said global crude refinery inputs fell by 4.8 million b/d, or 6%, in the second quarter of 2026 after the start of conflict in the Middle East in late February, then increased by 1.8 million b/d in the third quarter. China's inputs fell 2.1 million b/d in 2Q26 and a further 0.8 million b/d in 3Q26, while Kuwait, the UAE, Saudi Arabia and Iran together saw inputs rise 0.4 million b/d in 3Q26 after second-quarter declines. The third-quarter rebound recovered well under half of the second-quarter drop.",
+      "source_name": "EIA Today in Energy",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+      "time": "2026-11-10T20:24:00Z",
+      "checked": "2026-11-10T19:39:12Z"
+    },
     {
       "id": "2026-11-10-cpi-oct-headline",
       "tag": "MACRO",
@@ -5303,68 +5365,6 @@
       "source_name": "Federal Reserve Board G.17 Industrial Production and Capacity Utilization (Oct. 16, 2026)",
       "source_url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
       "checked": "2026-10-25T11:50:27Z"
-    },
-    {
-      "id": "2026-10-25-g17-sep-capacity-mfg",
-      "time": "2026-10-25T12:00:00Z",
-      "tag": "MACRO",
-      "headline": "Fed G.17: capacity utilization 76.9% in September; manufacturing output up 0.3%",
-      "take": "Capacity utilization moved up to 76.9 percent in September, the Fed reported, with August revised up from 76.3 percent to 76.4 percent. Manufacturing output rose 0.3 percent in September, and August was revised from -0.3 percent to -0.2 percent. Mining output rose 0.2 percent; the factory gain was far smaller than the 0.7 percent increase in the overall index.",
-      "source_name": "Federal Reserve Board G.17 Industrial Production and Capacity Utilization (Oct. 16, 2026)",
-      "source_url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
-      "checked": "2026-10-25T11:50:27Z"
-    },
-    {
-      "id": "2026-10-25-fed-feds-private-credit-z1",
-      "time": "2026-10-25T12:10:00Z",
-      "tag": "CREDIT",
-      "headline": "Fed adds private credit to Financial Accounts from September 2026 release",
-      "take": "A Fed Board FEDS Note dated Oct. 16 says private credit assets under management reached over $2.6 trillion as of 2025:Q4, up from about $350 billion in 2012, and that integration into the Financial Accounts (Z.1) begins with the September 2026 release. Private credit was about 6 percent of total nonfinancial business debt in 2025:Q4 ($1.31 trillion of $23.29 trillion). The authors say the change does not substantially change business-debt trends overall, but it gives policymakers a first official sector-level view of a market that was previously recorded mostly as miscellaneous liabilities.",
-      "source_name": "Federal Reserve Board FEDS Note: Introducing Private Credit into the Financial Accounts of the United States (Oct. 16, 2026)",
-      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
-      "checked": "2026-10-25T11:50:27Z"
-    },
-    {
-      "id": "2026-10-25-fed-feds-private-credit-sectors",
-      "time": "2026-10-25T12:20:00Z",
-      "tag": "CREDIT",
-      "headline": "Fed note sizes private credit: private debt funds $939B, BDCs $572B in assets",
-      "take": "The Fed's FEDS Note puts 2025:Q4 assets at about $939 billion for private debt funds, with private credit loans about 60 percent of that, and about $572 billion for business development companies, about 80 percent in private credit loans. Interval and tender offer funds held about $292 billion, up from $100 billion in 2021, and middle-market CLOs held $54 billion of private credit loans. The fast growth of the interval-fund channel is the part of the estimate worth watching.",
-      "source_name": "Federal Reserve Board FEDS Note: Introducing Private Credit into the Financial Accounts of the United States (Oct. 16, 2026)",
-      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/introducing-private-credit-into-the-financial-accounts-of-the-united-states-20261016.html",
-      "checked": "2026-10-25T11:50:27Z"
-    },
-    {
-      "id": "2026-10-25-fed-feds-bond-hedge",
-      "time": "2026-10-25T12:30:00Z",
-      "tag": "RATES",
-      "headline": "Fed note: stock-bond correlation turned negative after 2021, weakening bond hedge",
-      "take": "A Fed FEDS Note (Oct. 16) finds the correlation of U.S. stock returns with changes in 10-year yields was 0.4 in 2000-2021 and -0.09 after 2021; the euro-area figures were 0.41 and -0.02 and the U.K.'s 0.31 and -0.14. The U.S. 10-year yield's response to inflation news rose from a coefficient of 0.048 (2000-2019) to 0.155 post-2021. The authors attribute the shift to inflation dynamics and the mix of shocks, not to a change in bonds themselves, and say the hedge could improve if inflation eases.",
-      "source_name": "Federal Reserve Board FEDS Note: Government Bonds' Safe-Haven Property and Inflationary Pressures (Oct. 16, 2026)",
-      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
-      "checked": "2026-10-25T11:50:27Z"
-    },
-    {
-      "id": "2026-10-25-gbci-q3",
-      "time": "2026-10-25T01:55:00Z",
-      "tag": "EARNINGS",
-      "headline": "Glacier Bancorp Q3 net income $104.6M; diluted EPS $0.80 vs. $0.57",
-      "take": "Glacier Bancorp reported third-quarter net income of $104.562 million and diluted EPS of $0.80, versus $0.57 in Q3 2025 and $0.75 in Q2 2026. Net income was $67.9 million a year earlier, and total income was $329.8 million versus $260.7 million. The Guaranty Bancshares acquisition, with $3.357 billion of assets, closed Oct. 1, 2025, after the prior-year quarter ended, so the comparison spans a larger balance sheet.",
-      "source_name": "Glacier Bancorp Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000868671/000086867126000074/gbci-09302026xex991.htm",
-      "ticker": "NASDAQ:GBCI",
-      "checked": "2026-10-25T01:49:54Z"
-    },
-    {
-      "id": "2026-10-25-gbci-balance-sheet",
-      "time": "2026-10-25T02:04:00Z",
-      "tag": "CREDIT",
-      "headline": "Glacier Bancorp NIM 4.01%; assets $32.29B, deposits $25.27B, loans $21.62B",
-      "take": "Glacier reported a tax-equivalent net interest margin of 4.01% for Q3 2026, with total assets of $32.291 billion, deposits of $25.273 billion and loans receivable of $21.620 billion at Sept. 30. The board declared a $0.35 quarterly dividend on Sept. 22, payable Oct. 15 to holders of record Oct. 6. Deposits equal about 78% of assets, a funding base worth comparing with regional peers reporting this week.",
-      "source_name": "Glacier Bancorp Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000868671/000086867126000074/gbci-09302026xex991.htm",
-      "ticker": "NASDAQ:GBCI",
-      "checked": "2026-10-25T01:49:54Z"
     }
   ]
 }
