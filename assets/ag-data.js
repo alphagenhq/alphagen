@@ -546,12 +546,12 @@ const dealVal=x=>x.value!=null?money(x.value):(x.value_text&&x.value_text.length
   const TO="desk@alphagenresearch.com";
   const mailto=fd=>{const L={name:"Name",email:"Work email",phone:"Phone",firm:"Firm",firm_type:"Firm type",size:"Advisors",tier:"Plan",notes:"Notes"};
     const body=Object.keys(L).map(k=>L[k]+": "+(fd.get(k)||"")).join("\n");
-    return "mailto:"+TO+"?subject="+encodeURIComponent("Advisor Intelligence pilot request: "+(fd.get("firm")||""))+"&body="+encodeURIComponent(body)};
+    return "mailto:"+TO+"?subject="+encodeURIComponent("Advisor Intelligence trial request: "+(fd.get("firm")||""))+"&body="+encodeURIComponent(body)};
   f.addEventListener("submit",e=>{
     e.preventDefault(); const btn=f.querySelector("button[type=submit]"); const fd=new FormData(f); btn.disabled=true; btn.textContent="Sending…";
     const body=new URLSearchParams(fd).toString();
-    fetch("/",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body}).then(r=>{if(!r.ok)throw 0;f.innerHTML='<div class="pilot-ok"><b>Request received.</b> The AlphaGen desk will follow up within one business day with a sample week of briefings for your firm.</div>'})
-    .catch(()=>{btn.disabled=false;btn.textContent="Request a pilot";const m=f.querySelector(".form-err");m.hidden=false;m.innerHTML='Our form is having trouble right now. <a class="btn sm" href="'+mailto(fd)+'">Send it by email instead →</a> Your details are already filled in.'});
+    fetch("/",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body}).then(r=>{if(!r.ok)throw 0;f.innerHTML='<div class="pilot-ok"><b>Thanks, you&rsquo;re in.</b> The AlphaGen desk will email you within one business day to confirm your recipients and set your start date.</div>'})
+    .catch(()=>{btn.disabled=false;btn.textContent="Start my free trial";const m=f.querySelector(".form-err");m.hidden=false;m.innerHTML='Our form is having trouble right now. <a class="btn sm" href="'+mailto(fd)+'">Send it by email instead →</a> Your details are already filled in.'});
   });
 })();
 })();
