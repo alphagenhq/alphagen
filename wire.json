@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-10T00:49:24Z",
+  "updated": "2026-11-10T01:45:34Z",
   "items": [
+    {
+      "id": "2026-11-09-kkr-q3",
+      "time": "2026-11-10T01:50:34Z",
+      "tag": "EARNINGS",
+      "headline": "KKR Q3: total revenues $4.56B, GAAP EPS $1.19, AUM $804B",
+      "take": "KKR's Nov. 9 release reports third-quarter 2026 total revenues of $4,563.7 million versus $5,526.0 million a year earlier, and net income attributable to KKR & Co. Inc. of $1.19 per common share versus $0.90. Adjusted Net Income was $1.6 billion ($1.78 per adjusted share), up 29% year over year, and AUM was $804 billion, up 11%. GAAP revenue and earnings per share moved in opposite directions, so the revenue line alone does not capture the quarter.",
+      "source_name": "KKR & Co. Inc. Q3 2026 earnings release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
+      "ticker": "NYSE:KKR",
+      "checked": "2026-11-10T01:45:34Z"
+    },
+    {
+      "id": "2026-11-09-asts-q3",
+      "time": "2026-11-10T02:10:34Z",
+      "tag": "EARNINGS",
+      "headline": "AST SpaceMobile Q3 revenue $42.3M vs $14.7M; net loss $0.44 per share",
+      "take": "AST SpaceMobile's Nov. 9 release reports third-quarter 2026 revenues of $42.3 million versus $14.7 million in the third quarter of 2025, and basic and diluted net loss per Class A share of $(0.44) versus $(0.45). The release says BlueBirds 11, 12 and 13 unfolded successfully and are in operation in orbit, and targets approximately 45 BlueBird satellites in orbit by middle 2027. Revenue nearly tripled from a small base while the per-share loss was little changed.",
+      "source_name": "AST SpaceMobile Q3 2026 earnings release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000119312526453758/asts-ex99_1.htm",
+      "ticker": "NASDAQ:ASTS",
+      "checked": "2026-11-10T01:45:34Z"
+    },
     {
       "id": "2026-11-09-qxo-q3-prelim",
       "time": "2026-11-10T00:52:24Z",
@@ -5357,26 +5379,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000887343/000088734326000184/colb-20260930ex991earnings.htm",
       "ticker": "NASDAQ:COLB",
       "checked": "2026-10-24T23:50:07Z"
-    },
-    {
-      "id": "2026-10-24-china-nbs-oct-27-profits-oct-31-pmi",
-      "time": "2026-10-25T00:35:07Z",
-      "tag": "GLOBAL",
-      "headline": "China NBS calendar: industrial profits Oct. 27, official PMI Saturday Oct. 31",
-      "take": "China's National Bureau of Statistics lists its monthly industrial economic benefits report for Oct. 27 at 9:30 and the October PMI report for Saturday, Oct. 31 at 9:30. The NBS notes its release dates are preliminary and subject to adjustment. The PMI release lands on a weekend, so it will reach global markets before Monday's open.",
-      "source_name": "National Bureau of Statistics of China, 2026 release calendar",
-      "source_url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
-      "checked": "2026-10-24T23:50:07Z"
-    },
-    {
-      "id": "2026-10-24-freddie-pmms-30yr-7-32",
-      "time": "2026-10-24T21:52:13Z",
-      "tag": "HOUSING",
-      "headline": "Freddie Mac 30-year mortgage rate 7.32%, down from 7.40%; 15-year 6.68%",
-      "take": "Freddie Mac's Primary Mortgage Market Survey for Oct. 22 shows the 30-year fixed-rate average at 7.32%, down from 7.40% a week earlier and up from 6.19% a year ago. The 15-year fixed-rate average was 6.68%, versus 6.71% the prior week and 5.44% a year ago. The 8 bp weekly decline still leaves the 30-year 113 bp above its year-ago level, so affordability relief remains modest.",
-      "source_name": "Freddie Mac Primary Mortgage Market Survey",
-      "source_url": "https://www.freddiemac.com/pmms",
-      "checked": "2026-10-24T21:50:13Z"
     }
   ]
 }

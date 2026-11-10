@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-05T00:44:51Z",
+  "updated": "2026-11-10T01:45:34Z",
   "items": [
+    {
+      "id": "2026-11-09-KKR-Q3",
+      "time": "2026-11-10T01:50:34Z",
+      "ticker": "NYSE:KKR",
+      "name": "KKR & Co. Inc.",
+      "period": "Q3 2026",
+      "report_date": "2026-11-09",
+      "revenue": 4.5637,
+      "revenue_yoy": -17.4,
+      "eps_yoy": 32.2,
+      "eps": 1.19,
+      "take": "KKR reported Q3 2026 total revenues of $4,563.7 million versus $5,526.0 million and net income attributable to KKR & Co. Inc. of $1.19 per common share versus $0.90.",
+      "source_name": "KKR Q3 2026 earnings release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000030/q326earningsrelease_vf.htm",
+      "checked": "2026-11-10T01:45:34Z"
+    },
+    {
+      "id": "2026-11-09-ASTS-Q3",
+      "time": "2026-11-10T02:10:34Z",
+      "ticker": "NASDAQ:ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "period": "Q3 2026",
+      "report_date": "2026-11-09",
+      "revenue": 0.0423,
+      "revenue_yoy": 187.1,
+      "eps_yoy": null,
+      "eps": -0.44,
+      "take": "AST SpaceMobile reported Q3 2026 revenues of $42.3 million versus $14.7 million and basic and diluted net loss per Class A share of $(0.44) versus $(0.45).",
+      "source_name": "AST SpaceMobile Q3 2026 earnings release (SEC EDGAR EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000119312526453758/asts-ex99_1.htm",
+      "checked": "2026-11-10T01:45:34Z"
+    },
     {
       "id": "2026-11-04-EW-Q3",
       "time": "2026-11-05T00:46:51Z",
