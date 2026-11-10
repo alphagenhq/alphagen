@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-04T13:49:07Z",
+  "updated": "2026-11-10T21:39:44Z",
   "items": [
+    {
+      "id": "2026-11-10-northern-trust-notes",
+      "time": "2026-11-10T22:37:44Z",
+      "type": "Debt",
+      "headline": "Northern Trust issues $2B of senior notes in two $1B tranches (2031 and 2036)",
+      "parties": "Issuer: Northern Trust Corporation; Underwriters' representatives: BofA Securities, Citigroup Global Markets, Goldman Sachs & Co., Morgan Stanley & Co., Siebert Williams Shank & Co.",
+      "value": 2.0,
+      "value_text": "$2.0 billion ($1.0B 5.300% due 2031; $1.0B 5.700% due 2036)",
+      "status": "Raised",
+      "announced": "2026-11-05",
+      "sector": "Financials",
+      "take": "The notes were issued Nov. 10 under a Nov. 5 underwriting agreement and rank equally with the company's other senior debt. Neither series can be redeemed before maturity.",
+      "source_name": "Northern Trust 8-K (Item 8.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/73124/000119312526455429/0001193125-26-455429.txt",
+      "tickers": [
+        "NASDAQ:NTRS"
+      ],
+      "checked": "2026-11-10T21:39:44Z"
+    },
     {
       "id": "2026-11-04-marvell-lumentum",
       "time": "2026-11-04T14:27:07Z",

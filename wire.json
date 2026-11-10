@@ -1,6 +1,59 @@
 {
-  "updated": "2026-11-10T20:38:47Z",
+  "updated": "2026-11-10T21:39:44Z",
   "items": [
+    {
+      "id": "2026-11-10-cost-special-dividend",
+      "time": "2026-11-10T21:42:44Z",
+      "tag": "EQUITIES",
+      "headline": "Costco declares $30 special dividend (~$13.3B) and reauthorizes $4B buyback",
+      "take": "Costco's board declared a special cash dividend of $30 per share, payable Dec. 4 to holders of record Nov. 24, with a total payment of approximately $13.3 billion. It also reauthorized a repurchase program of up to $4 billion, expiring in November 2030, replacing a $4 billion program adopted in 2023 under which $3.1 billion had been purchased. The special payout is far larger than the new buyback authorization, which is the clearest read on how the company is choosing to return cash.",
+      "source_name": "Costco Wholesale 8-K (Ex. 99.1 press release)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
+      "ticker": "NASDAQ:COST",
+      "checked": "2026-11-10T21:39:44Z"
+    },
+    {
+      "id": "2026-11-10-bowman-cfr-outlook",
+      "time": "2026-11-10T21:53:44Z",
+      "tag": "FED",
+      "headline": "Bowman: backed October hold at 3-3/4 to 4%; sees 12-month core PCE at 3.3%",
+      "take": "Fed Vice Chair for Supervision Bowman said Nov. 10 that she supported holding the federal funds rate target range at 3-3/4 to 4 percent at last month's FOMC meeting. She said the unemployment rate has edged down to 4.1 percent in October, job gains have averaged about 80,000 per month through October, and that today's CPI suggests 12-month core PCE inflation likely moved up to 3.3 percent in October. She said progress on lowering inflation has stalled over the past two years or so, which keeps inflation, not jobs, at the center of the Fed debate.",
+      "source_name": "Federal Reserve Board (Vice Chair for Supervision Bowman speech)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+      "checked": "2026-11-10T21:39:44Z"
+    },
+    {
+      "id": "2026-11-10-ivz-oct-aum",
+      "time": "2026-11-10T22:04:44Z",
+      "tag": "EQUITIES",
+      "headline": "Invesco October AUM $2,453.5B, down 3.3%; money market outflows $32.9B",
+      "take": "Invesco reported preliminary month-end assets under management of $2,453.5 billion at Oct. 31, a 3.3% decrease from $2,537.8 billion at Sept. 30. Net long-term outflows were $1.0 billion, money market net outflows were $32.9 billion, market returns reduced AUM by $51 billion and FX added $0.6 billion. Those items account for the full $84.3 billion decline, so market moves and cash-fund outflows, not long-term client flows, drove the drop.",
+      "source_name": "Invesco 8-K (Ex. 99.1, preliminary AUM release)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000424/0000914208-26-000424.txt",
+      "ticker": "NYSE:IVZ",
+      "checked": "2026-11-10T21:39:44Z"
+    },
+    {
+      "id": "2026-11-10-ntrs-senior-notes",
+      "time": "2026-11-10T22:15:44Z",
+      "tag": "CREDIT",
+      "headline": "Northern Trust issues $2B of senior notes: 5.300% due 2031, 5.700% due 2036",
+      "take": "Northern Trust said in an 8-K that on Nov. 10 it issued $1.0 billion of 5.300% Senior Notes due 2031 and $1.0 billion of 5.700% Senior Notes due 2036 under an underwriting agreement dated Nov. 5. Interest is payable semi-annually on May 10 and Nov. 10 starting May 10, 2027. A $2.0 billion senior unsecured raise at these coupons is a data point on where a large custody bank can fund at five and ten years.",
+      "source_name": "Northern Trust 8-K (Item 8.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/73124/000119312526455429/0001193125-26-455429.txt",
+      "ticker": "NASDAQ:NTRS",
+      "checked": "2026-11-10T21:39:44Z"
+    },
+    {
+      "id": "2026-11-10-fred-dgs2-nov9",
+      "time": "2026-11-10T22:26:44Z",
+      "tag": "RATES",
+      "headline": "2-year Treasury yield 4.56% on Nov. 9, up from 4.51% on Nov. 6; 10s-2s spread 0.32",
+      "take": "FRED data show the 2-year constant-maturity Treasury yield at 4.56% on Nov. 9, up 5 basis points from 4.51% on Nov. 6. The 10-year minus 2-year spread narrowed to 0.32 percentage point from 0.35 over the same two observations. A rising 2-year alongside a narrower spread shows shorter-dated yields moving up faster.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, T10Y2Y)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-10T21:39:44Z"
+    },
     {
       "id": "2026-11-10-waller-hold-rationale",
       "tag": "FED",
@@ -5315,56 +5368,6 @@
       "source_name": "CFTC, Traders in Financial Futures (Oct. 20 data)",
       "source_url": "https://www.cftc.gov/dea/futures/financial_lf.htm",
       "checked": "2026-10-25T14:50:37Z"
-    },
-    {
-      "id": "2026-10-25-cftc-ust2y-ultra-positions-oct-20",
-      "time": "2026-10-25T15:31:00Z",
-      "tag": "DEBT",
-      "headline": "CFTC: 2-year note futures asset managers net long 1.72M vs leveraged funds net short 1.29M",
-      "take": "In CFTC's October 20, 2026 financial futures report, UST 2Y note open interest was 4,533,571 contracts: asset managers were long 2,461,884 and short 738,304 (net long 1,723,580), while leveraged funds were long 771,136 and short 2,056,684 (net short 1,285,548). For Ultra UST Bond, open interest was 2,364,949, asset managers net long 849,383 and leveraged funds net short 804,808. Net figures are computed from the report's columns, so the same asset-manager-long, leveraged-fund-short split shows up in all three contracts.",
-      "source_name": "CFTC, Traders in Financial Futures (Oct. 20 data)",
-      "source_url": "https://www.cftc.gov/dea/futures/financial_lf.htm",
-      "checked": "2026-10-25T14:50:37Z"
-    },
-    {
-      "id": "2026-10-25-nyfed-tariff-passthrough",
-      "time": "2026-10-25T13:55:00Z",
-      "tag": "MACRO",
-      "headline": "NY Fed: each 1-pt rise in average tariffs lifts consumer goods prices about 0.25%",
-      "take": "New York Fed staff (Amiti, Heise, Weinstein) estimate that each one-percentage-point rise in average tariffs raises consumer goods prices by about 0.25% after one year, with roughly two-thirds coming through imported consumer goods. They find about 90% of the 2025 tariffs passed through to U.S. import prices, and project the tariff contribution to 12-month inflation reaching roughly zero by August 2026 before turning negative. The authors' result frames tariffs as a price-level effect that drops out of year-over-year comparisons, which matters for how goods inflation is read.",
-      "source_name": "New York Fed, Liberty Street Economics (Oct. 6)",
-      "source_url": "https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/",
-      "checked": "2026-10-25T13:45:04Z"
-    },
-    {
-      "id": "2026-10-25-nyfed-firm-investment-monetary-policy",
-      "time": "2026-10-25T14:10:00Z",
-      "tag": "FED",
-      "headline": "NY Fed study: most firms' investment responds little to monetary policy",
-      "take": "A New York Fed Liberty Street post (Oct. 7) finds investment by most firms in most periods responds little to monetary policy, though investment falls when rates rise for all firms. For about 5% of firm-quarters, a monetary shock raising the fed funds rate 1 percentage point lowers capital growth by 4 percentage points, and small and young firms respond most. The takeaway is that rate transmission runs through a minority of firms at any given time, with the sample limited to publicly listed Compustat firms.",
-      "source_name": "New York Fed, Liberty Street Economics (Oct. 7)",
-      "source_url": "https://libertystreeteconomics.newyorkfed.org/2026/10/firm-heterogeneity-and-the-response-of-investment-to-monetary-policy/",
-      "checked": "2026-10-25T13:45:04Z"
-    },
-    {
-      "id": "2026-10-25-boj-koeda-neutral-rate",
-      "time": "2026-10-25T14:25:00Z",
-      "tag": "GLOBAL",
-      "headline": "BOJ's Koeda: neutral rate 'considerably above 1 percent' ahead of Oct. 29-30 meeting",
-      "take": "In an Oct. 15 speech, BOJ Policy Board member Junko Koeda said the September hike raised the overnight call rate to around 1.25%, that the neutral interest rate is \"considerably above 1 percent,\" and that the Bank \"should not become overly cautious about raising the policy interest rate.\" She also said the median of item-level inflation is in the early 2% range. Her remarks are one board member's view and set the tone going into the Oct. 29-30 meeting, which carries an Outlook Report.",
-      "source_name": "Bank of Japan (speech by Junko Koeda, Oct. 15)",
-      "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/data/ko261015a1.pdf",
-      "checked": "2026-10-25T13:45:04Z"
-    },
-    {
-      "id": "2026-10-25-boj-sept-summary-of-opinions",
-      "time": "2026-10-25T14:40:00Z",
-      "tag": "GLOBAL",
-      "headline": "BOJ Sept. meeting opinions: several backed a hike, others favored holding",
-      "take": "The BOJ's Summary of Opinions for the Sept. 17-18 meeting, released Oct. 1, shows several members supported raising the policy rate while others preferred holding because CPI had been below 2%. Members described underlying inflation as \"fairly close to 2 percent\" and said further hikes should be gradual and flexible, with the pace faster if upward price deviation appears. The split on timing is the backdrop for the Oct. 29-30 meeting.",
-      "source_name": "Bank of Japan, Summary of Opinions (Sept. 17-18 meeting)",
-      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-      "checked": "2026-10-25T13:45:04Z"
     }
   ]
 }
