@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-10T01:45:34Z",
+  "updated": "2026-11-10T17:38:59Z",
   "items": [
+    {
+      "id": "2026-11-10-waller-london",
+      "tag": "FED",
+      "headline": "Waller: further tightening needed \"sooner rather than later\" to bring inflation to 2%",
+      "take": "In a Nov. 10 speech in London, Governor Christopher Waller said he voted with the FOMC majority to hold the policy rate at the most recent meeting, but that inflation remains too high and further tightening will be needed \"sooner rather than later.\" He said Q3 real GDP rose 3.4 percent in the initial estimate, the unemployment rate was 4.1 percent in October, and 6- and 12-month average payroll gains are closer to 80,000 a month. The speech makes clear that at least one voting-level official sees the timing of the next hike as flexible but the direction as set.",
+      "source_name": "Federal Reserve Board (Waller speech)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "time": "2026-11-10T17:41:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
+    {
+      "id": "2026-11-10-waller-low-hire-low-fire",
+      "tag": "MACRO",
+      "headline": "Waller on labor market: \"low hire, low fire\" for over a year, with 5M+ monthly separations and hires",
+      "take": "Governor Waller said that although September net job creation was 60,000, more than 5 million people left their jobs and more than 5 million were hired that month. He described the labor market as \"low hire, low fire\" for over a year and asked whether stability means a healthy market, noting the share of adults 25 and older with at least a bachelor's degree rose from 28 percent to 37 percent since 2010. Low gross flows matter because they can weigh on productivity and real wage growth even when the unemployment rate is steady.",
+      "source_name": "Federal Reserve Board (Waller speech)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "time": "2026-11-10T17:48:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
+    {
+      "id": "2026-11-10-ecb-lane-communication",
+      "tag": "GLOBAL",
+      "headline": "ECB's Lane: LLM-based tone measures track hawkish and dovish phases of ECB communication",
+      "take": "In a Nov. 10 keynote at the Bank of England Watchers Conference in London, ECB Executive Board member Philip Lane said new ECB staff LLM-based measures of the tone of monetary policy communication become more hawkish during tightening phases and more dovish during easing periods, closely tracking the deposit facility rate. He added that information in ECB policy statements can improve forecasts of euro-area core inflation several quarters ahead. The speech is about communication method rather than a new policy signal.",
+      "source_name": "European Central Bank (Lane speech)",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "time": "2026-11-10T17:55:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
+    {
+      "id": "2026-11-10-eia-venezuela-imports",
+      "tag": "ENERGY",
+      "headline": "U.S. crude imports from Venezuela hit 701,000 b/d in July, most since May 2017: EIA",
+      "take": "EIA's Nov. 6 analysis says U.S. crude oil imports from Venezuela averaged 701,000 barrels per day in July 2026, the most since May 2017, before easing to 655,000 b/d in August. Imports started the year at 200,000 b/d. EIA attributes the rise to high U.S. refinery crude demand because of high global refinery margins and eased U.S. restrictions on purchases from Venezuela. The shift matters for Gulf Coast refiners configured for heavy sour grades.",
+      "source_name": "U.S. Energy Information Administration (Today in Energy)",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+      "time": "2026-11-10T18:02:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
+    {
+      "id": "2026-11-10-eia-refinery-yields",
+      "tag": "ENERGY",
+      "headline": "Refiners cut gasoline yield below 45% in 2026 to favor diesel and jet fuel: EIA",
+      "take": "EIA's Nov. 5 analysis of Petroleum Supply Monthly data through August says U.S. refinery gasoline yields averaged less than 45% from January through August 2026 and were below the five-year (2021-2025) low in every month, while distillate yields were above the five-year average in every month. The U.S. refinery fleet exceeded a 12% average jet fuel yield for the first time in March and has stayed at or above it through August. EIA ties the shift to higher margins on middle distillates amid constrained global supply.",
+      "source_name": "U.S. Energy Information Administration (Today in Energy)",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
+      "time": "2026-11-10T18:09:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
+    {
+      "id": "2026-11-10-fred-treasury-yields-nov6",
+      "tag": "RATES",
+      "headline": "10-year Treasury yield 4.86% on Nov. 6, down from 4.94% on Oct. 30; 2-year at 4.51%",
+      "take": "FRED data show the 10-year constant-maturity Treasury yield at 4.86% on Nov. 6, down 8 basis points from 4.94% on Oct. 30, and the 2-year at 4.51%, down 5 basis points from 4.56%. The 10-year minus 2-year spread was 0.32 percentage point on Nov. 9, and the 10-year breakeven inflation rate was 2.22% that day. A 10-year real yield of 2.63% on Nov. 6 shows most of the nominal yield is real rather than inflation compensation.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "time": "2026-11-10T18:16:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
+    {
+      "id": "2026-11-10-fred-brent-wti-nov3",
+      "tag": "COMMODITIES",
+      "headline": "Brent spot $107.03 and WTI $99.64 on Nov. 3, below $123.10 and $103.37 on Oct. 27",
+      "take": "FRED's latest daily spot series show Brent at $107.03 per barrel on Nov. 3, down $16.07 from $123.10 on Oct. 27, and WTI at $99.64, down $3.73 from $103.37. The Brent-WTI gap was $7.39 on Nov. 3. Henry Hub natural gas spot was $2.63 per million Btu on Nov. 3. Brent's larger decline narrowed the gap between the two benchmarks over the week.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (EIA spot prices)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "time": "2026-11-10T18:23:00Z",
+      "checked": "2026-11-10T17:38:59Z"
+    },
     {
       "id": "2026-11-09-kkr-q3",
       "time": "2026-11-10T01:50:34Z",
@@ -5302,83 +5372,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
       "ticker": "NYSE:FAF",
       "checked": "2026-10-25T00:45:32Z"
-    },
-    {
-      "id": "2026-10-25-faf-dividend",
-      "time": "2026-10-25T01:11:00Z",
-      "tag": "EQUITIES",
-      "headline": "First American raises common dividend 11% to annual rate of $2.44 per share",
-      "take": "First American's Q3 2026 release states it raised the common stock dividend by 11 percent to an annual rate of $2.44 per share. Cash dividends declared per share were $0.61 in the quarter versus $0.55 in the prior-year quarter. The increase comes in a quarter when GAAP net income per diluted share was $1.72, down from $1.84.",
-      "source_name": "First American Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 21, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/faf-ex99_1.htm",
-      "ticker": "NYSE:FAF",
-      "checked": "2026-10-25T00:45:32Z"
-    },
-    {
-      "id": "2026-10-25-ccne-q3",
-      "time": "2026-10-25T01:23:00Z",
-      "tag": "CREDIT",
-      "headline": "CNB Financial Q3 diluted EPS $0.91 vs $0.69; net interest margin 3.89%",
-      "take": "CNB Financial Corporation reported third-quarter 2026 net income of $28.1M and diluted EPS of $0.91, versus $20.0M and $0.69 in the third quarter of 2025 and $0.91 in the second quarter. Net interest margin was 3.89%, compared with 3.88% in Q2 and 3.69% a year earlier. Net income rose about 40% on the year, while EPS was flat on the quarter.",
-      "source_name": "CNB Financial Corporation Q3 2026 earnings release (Oct. 21, 2026)",
-      "source_url": "https://globenewswire.com/news-release/2026/10/21/3385899/0/en/cnb-financial-corporation-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:CCNE",
-      "checked": "2026-10-25T00:45:32Z"
-    },
-    {
-      "id": "2026-10-25-ccne-balance-sheet",
-      "time": "2026-10-25T01:35:00Z",
-      "tag": "CREDIT",
-      "headline": "CNB Financial total assets $8.39B, deposits $7.05B at Sept. 30",
-      "take": "CNB Financial had total assets of $8,385.1M, total deposits of $7,047.9M and total loans receivable including syndicated of $6,620.6M at Sept. 30, 2026. Assets were $47.1M lower than at June 30, while loans receivable rose $106.8M on the quarter. Year over year, assets rose 1.4%, deposits 2.1% and loans receivable 2.1%.",
-      "source_name": "CNB Financial Corporation Q3 2026 earnings release (Oct. 21, 2026)",
-      "source_url": "https://globenewswire.com/news-release/2026/10/21/3385899/0/en/cnb-financial-corporation-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:CCNE",
-      "checked": "2026-10-25T00:45:32Z"
-    },
-    {
-      "id": "2026-10-24-wtfc-q3",
-      "time": "2026-10-24T23:55:07Z",
-      "tag": "EARNINGS",
-      "headline": "Wintrust Q3 net income $239.1M, diluted EPS $3.37 vs $2.78 a year earlier",
-      "take": "Wintrust reported third-quarter 2026 net income of $239.1M and diluted EPS of $3.37, versus $3.30 in the second quarter and $2.78 in the third quarter of 2025. Net revenue was $757.9M, net interest margin was 3.49% (GAAP), and the board's cash dividend was $0.55 per common share. Diluted EPS rose 21.2% on the year.",
-      "source_name": "Wintrust Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 19, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001015328/000101532826000026/exhibit9912026-q3.htm",
-      "ticker": "NASDAQ:WTFC",
-      "checked": "2026-10-24T23:50:07Z"
-    },
-    {
-      "id": "2026-10-24-wtfc-balance-sheet",
-      "time": "2026-10-25T00:05:07Z",
-      "tag": "CREDIT",
-      "headline": "Wintrust total assets $76.0B, deposits $62.4B, loans $56.8B at Sept. 30",
-      "take": "Wintrust reported total assets of $75,971.6M, total deposits of $62,435.2M and total loans of $56,804.6M (excluding mortgage loans held for sale) at Sept. 30, 2026. Deposits funded about 82% of assets, a simple read on the bank's funding mix.",
-      "source_name": "Wintrust Financial Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 19, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001015328/000101532826000026/exhibit9912026-q3.htm",
-      "ticker": "NASDAQ:WTFC",
-      "checked": "2026-10-24T23:50:07Z"
-    },
-    {
-      "id": "2026-10-24-colb-q3",
-      "time": "2026-10-25T00:15:07Z",
-      "tag": "EARNINGS",
-      "headline": "Columbia Banking Q3 diluted EPS $0.78 vs $0.40; net interest margin 4.11%",
-      "take": "Columbia Banking System reported third-quarter 2026 net income of $220M and GAAP diluted EPS of $0.78, versus $0.73 in the second quarter and $0.40 a year earlier; operating diluted EPS was $0.82 versus $0.85. Revenue was $695M, made up of $615M of net interest income and $80M of non-interest income. GAAP EPS nearly doubled on the year while operating EPS slipped, so the comparison is driven by last year's lower GAAP base.",
-      "source_name": "Columbia Banking System Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000887343/000088734326000184/colb-20260930ex991earnings.htm",
-      "ticker": "NASDAQ:COLB",
-      "checked": "2026-10-24T23:50:07Z"
-    },
-    {
-      "id": "2026-10-24-colb-capital",
-      "time": "2026-10-25T00:25:07Z",
-      "tag": "CREDIT",
-      "headline": "Columbia Banking CET1 11.5%; completes $199M buyback, authorizes up to $1.2B",
-      "take": "Columbia Banking estimated its common equity tier 1 ratio at 11.5% at Sept. 30, 2026, versus 11.7% at June 30. It repurchased $199M of common stock, completing its previously announced plan, and the board authorized a new plan of up to $1.2B with no expiration date. Total assets were $65,135M and total deposits $52,740M.",
-      "source_name": "Columbia Banking System Q3 2026 earnings release (SEC 8-K, Ex. 99.1, Oct. 22, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000887343/000088734326000184/colb-20260930ex991earnings.htm",
-      "ticker": "NASDAQ:COLB",
-      "checked": "2026-10-24T23:50:07Z"
     }
   ]
 }
