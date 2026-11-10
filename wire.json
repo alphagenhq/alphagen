@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-10T19:39:12Z",
+  "updated": "2026-11-10T20:38:47Z",
   "items": [
+    {
+      "id": "2026-11-10-waller-hold-rationale",
+      "tag": "FED",
+      "headline": "Waller: voted to hold because markets already price in hikes; timing 'doesn't matter'",
+      "take": "Fed Governor Waller said Nov. 10 he supported the FOMC majority in holding policy at the most recent meeting because the Committee's communication about likely tightening had already led markets to price in some tightening. He said it is not necessary to raise rates at consecutive meetings, but that the promised hikes must be carried out in a reasonable period or market expectations and rates will fall. The message is that the debate is about follow-through on hikes, not the exact meeting.",
+      "source_name": "Federal Reserve Board (Governor Waller speech)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "time": "2026-11-10T20:40:47Z",
+      "checked": "2026-11-10T20:38:47Z"
+    },
+    {
+      "id": "2026-11-10-waller-payroll-averages",
+      "tag": "MACRO",
+      "headline": "Waller: 6- and 12-month payroll gains near 80,000 a month, labor supply and demand 'in rough balance'",
+      "take": "Governor Waller said October payrolls rose 165,000 with 85,000 added to estimates of the previous two months, and the unemployment rate ticked down to 4.1%. He said the 6-month and 12-month average payroll gains have been closer to 80,000 a month, a bit above most estimates of the breakeven level needed to keep unemployment steady. Averaging through the month-to-month swings gives a much slower trend than the October headline.",
+      "source_name": "Federal Reserve Board (Governor Waller speech)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "time": "2026-11-10T20:49:47Z",
+      "checked": "2026-11-10T20:38:47Z"
+    },
+    {
+      "id": "2026-11-10-boe-apf-letters",
+      "tag": "GLOBAL",
+      "headline": "Bank of England and Chancellor exchange letters on Asset Purchase Facility",
+      "take": "The Bank of England published on Nov. 10 an exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility for November 2026. The Bank's news list on the same page shows its Nov. 5 Monetary Policy Committee item titled \"Bank rate increased to 4%.\" The page text available here carries the titles of the two letters rather than their contents, so the facility's terms are in the letters themselves.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+      "time": "2026-11-10T20:58:47Z",
+      "checked": "2026-11-10T20:38:47Z"
+    },
+    {
+      "id": "2026-11-10-fred-dgs30-nov6",
+      "tag": "RATES",
+      "headline": "30-year Treasury yield 5.26% on Nov. 6, down from 5.31% on Oct. 30",
+      "take": "FRED's constant-maturity series shows the 30-year Treasury yield at 5.26% on Nov. 6, down 5 basis points from 5.31% on Oct. 30. With the 10-year at 4.86% the same day, the 30-year sat 40 basis points above it. The long end moved in the same direction as the front of the curve over the week.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "time": "2026-11-10T21:07:47Z",
+      "checked": "2026-11-10T20:38:47Z"
+    },
+    {
+      "id": "2026-11-09-fed-mutual-federal-bancorp",
+      "tag": "FED",
+      "headline": "Fed Board approves Mutual Federal Bancorp holding-company applications in Chicago",
+      "take": "The Federal Reserve Board announced on Nov. 9 its approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc., both of Chicago, Illinois. The approvals allow a new top-tier holding company, MFB Bancorp, Inc., which would become a savings and loan holding company by acquiring Mutual Federal Bank of Chicago. The approval concerns a holding-company structure, not monetary policy.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "time": "2026-11-10T21:16:47Z",
+      "checked": "2026-11-10T20:38:47Z"
+    },
     {
       "id": "2026-11-10-stld-buyback",
       "tag": "EQUITIES",
@@ -5315,56 +5365,6 @@
       "source_name": "Bank of Japan, Summary of Opinions (Sept. 17-18 meeting)",
       "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
       "checked": "2026-10-25T13:45:04Z"
-    },
-    {
-      "id": "2026-10-25-treasury-auctions-oct-26-29",
-      "time": "2026-10-25T13:34:00Z",
-      "tag": "DEBT",
-      "headline": "Treasury tentative schedule: 2-, 5-, 7-year notes and 2-year FRN auction Oct. 26-29",
-      "take": "Treasury's tentative auction schedule lists a 2-year note on Oct. 26, a 5-year note on Oct. 27, a 2-year FRN on Oct. 28 and a 7-year note on Oct. 29, all settling Nov. 2. Bill auctions run alongside, including 13- and 26-week bills on Oct. 26 and a 52-week bill on Oct. 27. The schedule gives no offering amounts yet, so size and demand are the things to watch once the announcements post.",
-      "source_name": "U.S. Treasury Tentative Auction Schedule",
-      "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
-      "checked": "2026-10-25T12:44:47Z"
-    },
-    {
-      "id": "2026-10-25-boc-oct-28-mpr",
-      "time": "2026-10-25T13:22:00Z",
-      "tag": "GLOBAL",
-      "headline": "Bank of Canada to announce rate decision Oct. 28 at 9:45 a.m. ET with Monetary Policy Report",
-      "take": "The Bank of Canada will announce its overnight rate target decision on Oct. 28 at 9:45 a.m. ET, together with the Monetary Policy Report; Governor Macklem and Senior Deputy Governor Rogers hold a press conference at about 10:30 a.m. ET. The Bank's Sept. 2 release set the overnight rate target at 2.25%, with a Bank Rate of 2.5% and deposit rate of 2.20%. The decision lands the same day as the FOMC statement.",
-      "source_name": "Bank of Canada",
-      "source_url": "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/",
-      "checked": "2026-10-25T12:44:47Z"
-    },
-    {
-      "id": "2026-10-25-boj-oct-29-30-meeting",
-      "time": "2026-10-25T13:10:00Z",
-      "tag": "GLOBAL",
-      "headline": "Bank of Japan meets Oct. 29-30; Outlook Report due Oct. 30",
-      "take": "The Bank of Japan's Monetary Policy Meeting is scheduled for Oct. 29 and 30, with the Outlook Report released Oct. 30. The Summary of Opinions follows on Nov. 10 at 8:50 a.m. and the minutes on Dec. 23. The BOJ meeting closes out a run of major central bank decisions that includes the FOMC and ECB earlier in the same week.",
-      "source_name": "Bank of Japan Monetary Policy Meetings",
-      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
-      "checked": "2026-10-25T12:44:47Z"
-    },
-    {
-      "id": "2026-10-25-eurostat-q3-gdp-flash-oct-30",
-      "time": "2026-10-25T12:58:00Z",
-      "tag": "GLOBAL",
-      "headline": "Eurostat calendar lists euro-area Q3 preliminary GDP flash for Oct. 30",
-      "take": "Eurostat's quarterly national accounts calendar lists the preliminary Q3 2026 GDP flash release for Friday, Oct. 30, with the fuller employment and GDP flash on Nov. 13. Eurostat marks these dates as provisional until confirmed in its weekly release calendar. The Oct. 30 print arrives the day after the ECB's Oct. 29 press conference.",
-      "source_name": "Eurostat QNA release calendar",
-      "source_url": "https://ec.europa.eu/eurostat/documents/24987/6642470/QNA_release_calendar.pdf",
-      "checked": "2026-10-25T12:44:47Z"
-    },
-    {
-      "id": "2026-10-25-g17-sep-ip",
-      "time": "2026-10-25T11:50:00Z",
-      "tag": "MACRO",
-      "headline": "Fed G.17: September industrial production up 0.7%, 2.2% above a year earlier",
-      "take": "The Federal Reserve's G.17 release says industrial production rose 0.7 percent in September after edging up 0.1 percent in August, with August revised up from 0.0 percent. Total output stood at 104.0 percent of its 2017 average and was 2.2 percent above its year-earlier level. Utilities output rose 3.5 percent in the month, so the headline gain leaned on weather-sensitive output more than on factories.",
-      "source_name": "Federal Reserve Board G.17 Industrial Production and Capacity Utilization (Oct. 16, 2026)",
-      "source_url": "https://www.federalreserve.gov/releases/g17/current/default.htm",
-      "checked": "2026-10-25T11:50:27Z"
     }
   ]
 }
