@@ -72,14 +72,12 @@ FEEDS = [
     ("BEA", "MACRO", "https://apps.bea.gov/rss/rss.xml"),
     ("Federal Reserve", "FED", "https://www.federalreserve.gov/feeds/press_all.xml"),
     ("Federal Reserve speeches", "FED", "https://www.federalreserve.gov/feeds/speeches.xml"),
-    ("U.S. Treasury", "DEBT", "https://home.treasury.gov/news/press-releases/feed"),
     ("EIA", "ENERGY", "https://www.eia.gov/rss/press_rss.xml"),
     ("EIA Today in Energy", "ENERGY", "https://www.eia.gov/rss/todayinenergy.xml"),
     ("Census", "MACRO", "https://www.census.gov/economic-indicators/indicator.xml"),
     ("ECB", "GLOBAL", "https://www.ecb.europa.eu/rss/press.html"),
     ("Bank of England", "GLOBAL", "https://www.bankofengland.co.uk/rss/news"),
     ("Bank of Canada", "GLOBAL", "https://www.bankofcanada.ca/content_type/press-releases/feed/"),
-    ("Freddie Mac", "HOUSING", "https://freddiemac.gcs-web.com/rss/news-releases.xml"),
     ("CFTC", "COMMODITIES", "https://www.cftc.gov/RSS/RSSGP/rssgp.xml"),
 ]
 
@@ -95,16 +93,20 @@ def add(item):
 
 for name, tag, url in FEEDS:
     try:
-        n = 0
+        n = 0; undated = 0
         for title, link, when in rss(url)[:15]:
             if when and when < cut: continue
+            if not when:
+                undated += 1
+                if undated > 3: continue
             iid = "src-" + re.sub(r"[^a-z0-9]+", "-", (name + "-" + link).lower())[-110:]
             if iid in have: continue
             try: body = text_of(get(link))
             except Exception as e: body = ""
             add({"id": iid, "source": name, "tag": tag, "title": title, "url": link,
-                 "published": (when or NOW).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                 "fetched": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"), "text": body})
+                 "published": when.strftime("%Y-%m-%dT%H:%M:%SZ") if when else None,
+                 "fetched": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"), "text": body,
+                 **({} if when else {"note": "This feed gives no date. Confirm the release date in the text; it may be an older release."})})
             n += 1
         LOG.append(f"{name}: +{n}")
     except Exception as e:
@@ -157,9 +159,10 @@ except Exception as e:
 
 # Treasury auction results (fiscaldata API, the official record).
 try:
-    q = "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?sort=-auction_date&page[size]=12&fields=auction_date,security_type,security_term,cusip,high_yield,high_investment_rate,high_discount_rate,bid_to_cover_ratio,offering_amt,indirect_bidder_accepted,direct_bidder_accepted,primary_dealer_accepted,total_accepted"
+    q = "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?sort=-auction_date&page[size]=20"
     rows = json.loads(get(q.replace("[", "%5B").replace("]", "%5D")))["data"]
-    done = [r for r in rows if r.get("bid_to_cover_ratio") not in (None, "", "null")]
+    keep = ("auction_date", "issue_date", "security_type", "security_term", "cusip", "high_yield", "high_investment_rate", "high_discount_rate", "bid_to_cover_ratio", "offering_amt", "indirect_bidder_accepted", "direct_bidder_accepted", "primary_dealer_accepted", "total_accepted")
+    done = [{k: r.get(k) for k in keep} for r in rows if r.get("bid_to_cover_ratio") not in (None, "", "null")]
     cur_rows = {"id": "treasury-auctions", "source": "U.S. Treasury, Fiscal Data auctions", "tag": "DEBT",
                 "title": "Latest Treasury auction results", "url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
                 "published": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"), "fetched": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -186,8 +189,8 @@ if fred:
                            "text": json.dumps(fred)}
 LOG.append(f"FRED: {len(fred)} series")
 
-items = [i for i in have.values() if i["id"] in ("treasury-auctions", "fred-latest") or (parse_time(i.get("published")) or NOW) >= cut]
-items.sort(key=lambda i: i.get("published", ""), reverse=True)
+items = [i for i in have.values() if i["id"] in ("treasury-auctions", "fred-latest") or (parse_time(i.get("published") or i.get("fetched")) or NOW) >= cut]
+items.sort(key=lambda i: i.get("published") or "0", reverse=True)
 items = items[:220]
 json.dump({"updated": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"), "log": LOG, "items": items}, open(os.path.join(OUT, "sources.json"), "w"), indent=1)
 print(" | ".join(LOG), f"| new {len(new)} | total {len(items)}")
