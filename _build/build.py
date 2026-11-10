@@ -659,8 +659,7 @@ inst = f'''<div class="wrap">
       <div class="sample-side">
         <div class="card-h"><span>Client note</span><span>Ready to send</span></div><div class="ai-note"></div>
         <div class="ai-extras">
-          <div><b>Inside every edition</b><p>Today in one line · the numbers that matter · what happened and what it means · the client questions of the day, answered · a client note ready to send.</p></div><div><b>Weekly client letter</b><p>A forward-ready summary of the week for your advisors to send to clients under their own name.</p></div>
-          <div><b>Social post drafts</b><p>Short, compliance-friendly market posts your advisors can share on LinkedIn.</p></div>
+          <div><b>Inside every edition</b><p>Today in one line · the numbers that matter · what happened and what it means · the client questions of the day, answered · a client note ready to send.</p></div><div><b>A research desk on call</b><p>On Moderate and Most, your advisors send us their own questions, like meeting prep, a client&#39;s holding or a new policy, and get a one-to-two-page brief back in 1 to 2 business days.</p></div>
         </div>
         <p class="levels-note" style="margin-top:12px">"Example Wealth Partners" is a placeholder to illustrate private-label branding. Partner editions carry your firm's own disclosures.</p>
       </div>
@@ -717,9 +716,9 @@ inst = f'''<div class="wrap">
       <div><b>Before Bed</b><p>After-hours earnings and what to watch tomorrow.</p></div>
     </div>
     <div class="tiers">
-      <div class="tier"><span class="tn">Base</span><div class="tp">2 reads<small> / day</small></div><p class="td">Open prepared, close informed.</p><ul><li>Pre-Market Daily and At the Close</li><li>All eight areas: macro, policy, equity and capital markets, earnings, debt</li><li>Client Q&amp;A and a ready-to-send client note</li><li>Email delivery to your team</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
-      <div class="tier feat"><span class="ribbon">Most popular</span><span class="tn">Moderate</span><div class="tp">3 reads<small> / day</small></div><p class="td">Current through the trading day.</p><ul><li>Pre-Market, Midday, and At the Close</li><li>All eight areas covered</li><li>Client Q&amp;A in every edition</li><li>Weekly client letter, ready to forward</li><li>Private-label branding available</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
-      <div class="tier"><span class="tn">Most</span><div class="tp">4 reads<small> / day</small></div><p class="td">Always current, all day.</p><ul><li>Pre-Market, Midday, At the Close, and Before Bed</li><li>After-hours earnings coverage</li><li>Client Q&amp;A in every edition</li><li>Weekly client letter and social post drafts</li><li>Private-label branding and priority coverage requests</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+      <div class="tier"><span class="tn">Base</span><div class="tp">2 reads<small> / day</small></div><p class="td">Open prepared, close informed.</p><div class="tq"><b>+</b><span>Custom research requests available as an add-on</span></div><ul><li>Pre-Market and At the Close, every market day</li><li>Client Q&amp;A and a ready-to-send client note in every edition</li><li>All eight areas: macro, policy, equity and capital markets, earnings, debt</li><li>Email delivery to your whole team</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
+      <div class="tier feat"><span class="ribbon">Most popular</span><span class="tn">Moderate</span><div class="tp">3 reads<small> / day</small></div><p class="td">Current through the trading day.</p><div class="tq"><b>3</b><span>custom research requests a month for your firm</span></div><ul><li>Everything in Base</li><li>Adds the Midday edition</li><li>Your firm&#39;s branding and disclosures included</li><li>Briefs back in 2 business days</li></ul><a class="btn" href="#pilot">Request pricing</a></div>
+      <div class="tier"><span class="tn">Most</span><div class="tp">4 reads<small> / day</small></div><p class="td">A research desk on call, all day.</p><div class="tq"><b>10</b><span>custom research requests a month for your firm</span></div><ul><li>Everything in Moderate</li><li>Adds Before Bed and after-hours earnings coverage</li><li>Priority turnaround: briefs back in 1 business day</li></ul><a class="btn ghost" href="#pilot">Request pricing</a></div>
     </div>
   </div>
 </section>

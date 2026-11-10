@@ -834,3 +834,6 @@ a.aip-foot:hover b{text-decoration:underline}
 @media (max-width:760px){.mx-stats.six{grid-template-columns:repeat(3,minmax(0,1fr))}.mx-stats.four{grid-template-columns:repeat(2,minmax(0,1fr))}.mx-one{padding:14px 16px}.mx-cal div{grid-template-columns:1fr}.mx-cal span{grid-row:auto}}
 @media (max-width:420px){.aip-stats{grid-template-columns:1fr 1fr 1fr;gap:6px}.aip-st{padding:8px 9px}.aip-st b{font-size:.98rem}.mx-tbl td:last-child{min-width:140px}}
 @media (max-width:520px){.aip-st b{font-size:.9rem;overflow:visible;text-overflow:clip}.aip-st span{font-size:.54rem}}
+.tier .tq{display:flex;align-items:baseline;gap:10px;padding:12px 14px;border-radius:10px;background:var(--signal-soft);border:1px solid rgba(76,141,255,.28)}
+.tier .tq b{font-family:var(--display);font-weight:800;font-stretch:80%;font-size:1.6rem;line-height:1;color:var(--signal-2);flex:none}
+.tier .tq span{font-size:.86rem;line-height:1.35;color:var(--paper)}
