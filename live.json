@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T11:27:49Z",
+ "updated": "2026-11-10T21:18:43Z",
  "items": [
+  {
+   "id": "live-0001104659-26-125204-5.02",
+   "time": "2026-11-10T21:17:08Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Dollar General reports an executive or board change",
+   "take": "Dollar General reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:17 PM ET, Nov 10.",
+   "source_name": "SEC EDGAR, DG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/29534/000110465926125204/0001104659-26-125204-index.htm",
+   "ticker": "NYSE:DG"
+  },
+  {
+   "id": "live-0000909832-26-000134-5.02",
+   "time": "2026-11-10T21:16:20Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Costco Wholesale Corp /New reports an executive or board change",
+   "take": "Costco Wholesale Corp /New reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:16 PM ET, Nov 10.",
+   "source_name": "SEC EDGAR, COST Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/0000909832-26-000134-index.htm",
+   "ticker": "NASDAQ:COST"
+  },
   {
    "id": "live-0001104659-26-124699-1.01",
    "time": "2026-11-10T02:18:51Z",
