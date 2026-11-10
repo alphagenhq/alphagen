@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       end: { description: "End date (YYYY-MM-DD)", required: false, default: "" }
+      mcap_tickers: { description: "Only fetch current market caps for these tickers", required: false, default: "" }
 permissions: { contents: write }
 jobs:
   scan:
@@ -11,11 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: { ref: main, path: site, sparse-checkout: .github }
-      - run: mkdir out && python3 site/.github/scripts/deal_scan.py out ${{ github.event.inputs.end }}
+      - run: |
+          mkdir out
+          if [ -n "${{ github.event.inputs.mcap_tickers }}" ]; then python3 site/.github/scripts/mcap_now.py out "${{ github.event.inputs.mcap_tickers }}"; cp out/mcap_now.json out/deals.json.skip 2>/dev/null; else python3 site/.github/scripts/deal_scan.py out ${{ github.event.inputs.end }}; fi
       - name: Publish to research branch
         run: |
           cd out
-          git init -q -b research
+          git init -q -b research-$( [ -f mcap_now.json ] && echo mcap || echo deals )
           git config user.name "AlphaGen"; git config user.email "alphagenhq@users.noreply.github.com"
-          git add deals.json && git commit -qm "Deal scan $(date -u +%F' '%H:%MZ)"
-          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" HEAD:research
+          git add -A && git commit -qm "Deal scan $(date -u +%F' '%H:%MZ)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" HEAD:$(git branch --show-current)
