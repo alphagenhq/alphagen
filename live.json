@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T22:19:21Z",
+ "updated": "2026-11-10T11:27:49Z",
  "items": [
+  {
+   "id": "live-0001104659-26-124699-1.01",
+   "time": "2026-11-10T02:18:51Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Duke Energy discloses a material agreement",
+   "take": "Duke Energy reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 9:18 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, DUK Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926124699/0001104659-26-124699-index.htm",
+   "ticker": "NYSE:DUK"
+  },
+  {
+   "id": "live-0001193125-26-454038-1.01",
+   "time": "2026-11-10T00:16:08Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Metlife discloses a material agreement",
+   "take": "Metlife reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 7:16 PM ET, Nov 9.",
+   "source_name": "SEC EDGAR, MET Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099219/000119312526454038/0001193125-26-454038-index.htm",
+   "ticker": "NYSE:MET"
+  },
   {
    "id": "live-0001193125-26-453758-2.02",
    "time": "2026-11-09T21:49:10Z",
