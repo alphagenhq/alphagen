@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-10T22:39:00Z",
+ "updated": "2026-11-10T23:38:43Z",
  "items": [
+  {
+   "id": "2026-11-10-elv-reaffirms-guidance",
+   "time": "2026-11-10T23:42:00Z",
+   "tag": "EARNINGS",
+   "headline": "Elevance reaffirms 2026 EPS of at least $22.00 and 90.2% benefit expense ratio",
+   "take": "In a Nov. 10 Form 8-K (Item 7.01), Elevance Health said officers will speak with investors and analysts this week and reaffirm full-year 2026 shareholders' earnings guidance of at least $22.00 per diluted share, including about $7.00 of net unfavorable items. Adjusted shareholders' earnings are still expected at $29.00 or more per diluted share, and the benefit expense ratio at 90.2% plus or minus 50 basis points. The filing restates existing guidance rather than changing it.",
+   "source_name": "SEC EDGAR, ELV Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000074/0001156039-26-000074-index.htm",
+   "ticker": "NYSE:ELV",
+   "checked": "2026-11-10T23:38:43Z"
+  },
+  {
+   "id": "2026-11-10-fred-curve-10s2s-nov10",
+   "time": "2026-11-10T23:54:00Z",
+   "tag": "RATES",
+   "headline": "10s-2s Treasury spread 0.25 point on Nov. 10, from 0.32 on Nov. 9",
+   "take": "FRED data show the 10-year minus 2-year Treasury constant-maturity spread at 0.25 percentage point on Nov. 10, down from 0.32 on Nov. 9 and 0.38 on Nov. 5. The Nov. 10 reading is the lowest in the six observations from Nov. 3. The outright 10-year and 2-year yields for Nov. 10 were not yet in the series, so the move's source cannot be split between the two.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T10Y2Y)",
+   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+   "checked": "2026-11-10T23:38:43Z"
+  },
+  {
+   "id": "2026-11-10-fred-breakeven-nov10",
+   "time": "2026-11-11T00:08:00Z",
+   "tag": "RATES",
+   "headline": "10-year breakeven inflation rate 2.20% on Nov. 10, from 2.30% on Nov. 3",
+   "take": "FRED data show the 10-year breakeven inflation rate at 2.20% on Nov. 10, down from 2.22% on Nov. 9 and 2.30% on Nov. 3. That is a 10-basis-point decline over the six observations, with each reading below the prior day's from Nov. 4 through Nov. 10. The breakeven is the gap between nominal and inflation-indexed 10-year yields, so it reflects what the bond market prices for inflation compensation.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T10YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+   "checked": "2026-11-10T23:38:43Z"
+  },
+  {
+   "id": "2026-11-10-dg-director-resigns",
+   "time": "2026-11-11T00:22:00Z",
+   "tag": "EQUITIES",
+   "headline": "Dollar General director Timothy McGuire to resign from board effective Dec. 3",
+   "take": "In a Form 8-K (Item 5.02) filed Nov. 10, Dollar General said director Timothy I. McGuire notified the company on Nov. 5 of his decision to resign from the board for personal reasons, effective Dec. 3, 2026. The filing states his decision is not due to any disagreement with the company on any matter relating to its operations, policies or practices.",
+   "source_name": "SEC EDGAR, DG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/29534/000110465926125204/0001104659-26-125204-index.htm",
+   "ticker": "NYSE:DG",
+   "checked": "2026-11-10T23:38:43Z"
+  },
   {
    "id": "2026-11-10-trade-sept-deficit",
    "time": "2026-11-10T22:40:48Z",
@@ -5327,47 +5369,6 @@
    "take": "Treasury's par yield curve showed the 20-year at 5.37% and the 30-year at 5.33% on Oct. 23, a 4 basis point inversion between the two longest maturities. The 7-year was 4.89% and the 10-year 5.00%, so the curve rises to the 20-year point and then dips slightly. The 20-year was 5.32% on Oct. 22.",
    "source_name": "U.S. Treasury Daily Par Yield Curve Rates",
    "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202610",
-   "checked": "2026-10-25T15:50:12Z"
-  },
-  {
-   "id": "2026-10-25-fred-t10yie-2-34",
-   "time": "2026-10-25T16:06:12Z",
-   "tag": "MACRO",
-   "headline": "10-year breakeven inflation rate at 2.34% on Oct. 23, up from 2.32%",
-   "take": "The 10-year breakeven inflation rate, derived from nominal and inflation-indexed Treasury yields, was 2.34% on Oct. 23, 2026. It was 2.32% on Oct. 22, 2.37% on Oct. 21, and 2.35% on both Oct. 20 and Oct. 19. The range across the five observations is five basis points, suggesting market-implied inflation expectations were steady even as nominal yields moved.",
-   "source_name": "Federal Reserve Board via FRED (T10YIE)",
-   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-   "checked": "2026-10-25T15:50:12Z"
-  },
-  {
-   "id": "2026-10-25-fred-dfii10-2-64",
-   "time": "2026-10-25T16:13:12Z",
-   "tag": "RATES",
-   "headline": "10-year TIPS real yield falls to 2.64% on Oct. 22 from 2.76% a day earlier",
-   "take": "The 10-year inflation-indexed Treasury yield was 2.64% on Oct. 22, 2026, down 12 basis points from 2.76% on Oct. 21 and 16 basis points below 2.80% on Oct. 19. Nominal 10-year yields fell 17 basis points over the same two days (5.13% to 4.96%), so most of the decline came from real yields rather than breakevens.",
-   "source_name": "Federal Reserve Board via FRED (DFII10)",
-   "source_url": "https://fred.stlouisfed.org/series/DFII10",
-   "checked": "2026-10-25T15:50:12Z"
-  },
-  {
-   "id": "2026-10-25-fred-rrp-0-2b",
-   "time": "2026-10-25T16:20:12Z",
-   "tag": "FED",
-   "headline": "Fed overnight reverse repo take-up $0.2B on Oct. 23, little changed from earlier in week",
-   "take": "Treasury securities sold in the Fed's overnight reverse repurchase operations totaled $0.200 billion on Oct. 23, 2026, versus $0.351 billion on Oct. 22, $0.237 billion on Oct. 21, $0.227 billion on Oct. 20 and $0.330 billion on Oct. 19. Usage has stayed under $0.4 billion all week, indicating minimal use of the facility.",
-   "source_name": "Federal Reserve Board via FRED (RRPONTSYD)",
-   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
-   "checked": "2026-10-25T15:50:12Z"
-  },
-  {
-   "id": "2026-10-25-bntx-bmy-pumitamig-esmo",
-   "time": "2026-10-25T16:27:12Z",
-   "tag": "EQUITIES",
-   "headline": "BioNTech, BMS report Phase 2 pumitamig data in second-line NSCLC at ESMO",
-   "take": "In the single-arm Phase 2 ROSETTA Lung-107 study (abstract LBA76 at ESMO 2026), pumitamig 1400 mg plus docetaxel showed a confirmed objective response rate of 36.7% and disease control rate of 90.0% in 30 efficacy-evaluable patients. Median progression-free survival in 50 treated patients was 6.9 months; grade 3 or higher treatment-related adverse events occurred in 18.0%. BMS said it looks forward to defining the path forward for pumitamig in second-line NSCLC; overall survival was not reported.",
-   "source_name": "BioNTech and Bristol Myers Squibb release (GlobeNewswire, Oct. 25, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/25/3387717/0/en/biontech-and-bristol-myers-squibb-report-encouraging-global-phase-2-data-for-pumitamig-in-advanced-nsclc-after-progression-on-immunotherapy-plus-chemotherapy.html",
-   "ticker": "NASDAQ:BNTX",
    "checked": "2026-10-25T15:50:12Z"
   }
  ]
