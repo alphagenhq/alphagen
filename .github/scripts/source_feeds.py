@@ -112,6 +112,25 @@ for name, tag, url in FEEDS:
     except Exception as e:
         LOG.append(f"{name}: ERROR {type(e).__name__}")
 
+# Key official release pages, refreshed every run (always the latest edition).
+PAGES = [
+    ("bls-cpi", "BLS", "MACRO", "Consumer Price Index news release (latest)", "https://www.bls.gov/news.release/cpi.nr0.htm"),
+    ("bls-jobs", "BLS", "MACRO", "Employment Situation news release (latest)", "https://www.bls.gov/news.release/empsit.nr0.htm"),
+    ("bls-ppi", "BLS", "MACRO", "Producer Price Index news release (latest)", "https://www.bls.gov/news.release/ppi.nr0.htm"),
+    ("bls-realearn", "BLS", "MACRO", "Real Earnings news release (latest)", "https://www.bls.gov/news.release/realer.nr0.htm"),
+    ("dol-claims", "U.S. Department of Labor", "MACRO", "Unemployment Insurance Weekly Claims (latest)", "https://www.dol.gov/ui/data.pdf"),
+]
+for pid, src, tag, title, url in PAGES:
+    if url.endswith(".pdf"): continue
+    try:
+        body = text_of(get(url))
+        if body:
+            have[pid] = {"id": pid, "source": src, "tag": tag, "title": title, "url": url, "published": None,
+                         "fetched": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"), "text": body, "note": "Latest edition of this release. Check the release date in the text."}
+            LOG.append(f"{pid}: ok")
+    except Exception as e:
+        LOG.append(f"{pid}: ERROR {type(e).__name__}")
+
 # SEC 8-Ks from the watchlist: earnings (2.02), agreements (1.01), completed deals (2.01).
 try:
     WATCH = set(open(os.path.join(os.path.dirname(__file__), "watchlist.txt")).read().split())
@@ -189,7 +208,7 @@ if fred:
                            "text": json.dumps(fred)}
 LOG.append(f"FRED: {len(fred)} series")
 
-items = [i for i in have.values() if i["id"] in ("treasury-auctions", "fred-latest") or (parse_time(i.get("published") or i.get("fetched")) or NOW) >= cut]
+items = [i for i in have.values() if i["id"] in ("treasury-auctions", "fred-latest", "bls-cpi", "bls-jobs", "bls-ppi", "bls-realearn") or (parse_time(i.get("published") or i.get("fetched")) or NOW) >= cut]
 items.sort(key=lambda i: i.get("published") or "0", reverse=True)
 items = items[:220]
 json.dump({"updated": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"), "log": LOG, "items": items}, open(os.path.join(OUT, "sources.json"), "w"), indent=1)
