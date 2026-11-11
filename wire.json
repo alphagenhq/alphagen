@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-11T01:43:28Z",
+ "updated": "2026-11-11T02:38:38Z",
  "items": [
+  {
+   "id": "2026-11-11-fed-reserves-tga-nov4",
+   "time": "2026-11-11T03:23:38Z",
+   "tag": "FED",
+   "headline": "Bank reserves $2.930T on Nov. 4, up $36.3B in a week; Treasury cash $957.2B",
+   "take": "Reserve balances with Federal Reserve Banks were $2,930.1 billion on Nov. 4, up $36.3 billion from $2,893.8 billion on Oct. 28, per FRED. The Treasury General Account fell $42.6 billion to $957.2 billion over the same week. AlphaGen read: lower Treasury cash balances coincided with higher reserves.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (WRESBAL, WTREGEN)",
+   "source_url": "https://fred.stlouisfed.org/series/WRESBAL",
+   "checked": "2026-11-11T02:38:38Z"
+  },
+  {
+   "id": "2026-11-11-long-yields-uk-de-sep",
+   "time": "2026-11-11T03:16:38Z",
+   "tag": "GLOBAL",
+   "headline": "UK 10-year yield averaged 5.24% in September, Germany 3.47%, both up from August",
+   "take": "FRED's OECD-sourced monthly long-term government bond yield series shows the United Kingdom at 5.2421% in September 2026, up from 4.9886% in August, and Germany at 3.4695%, up from 3.1857%. That is increases of about 25 and 28 basis points. AlphaGen read: both markets saw yields rise through the third quarter.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01GBM156N, IRLTLT01DEM156N)",
+   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
+   "checked": "2026-11-11T02:38:38Z"
+  },
+  {
+   "id": "2026-11-11-existing-sales-sep",
+   "time": "2026-11-11T03:09:38Z",
+   "tag": "HOUSING",
+   "headline": "Existing-home sales 3.99M annual rate in September, up from 3.93M in August",
+   "take": "FRED's existing home sales series stood at 3.99 million at a seasonally adjusted annual rate in September 2026, up from 3.93 million in August and down from 4.08 million in September 2025. July was 4.06 million. AlphaGen read: sales ticked up in September but remain below the year-earlier pace.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (EXHOSLUSM495S)",
+   "source_url": "https://fred.stlouisfed.org/series/EXHOSLUSM495S",
+   "checked": "2026-11-11T02:38:38Z"
+  },
+  {
+   "id": "2026-11-11-case-shiller-aug",
+   "time": "2026-11-11T03:02:38Z",
+   "tag": "HOUSING",
+   "headline": "Case-Shiller national home price index 336.741 in August, up 2.1% from a year earlier",
+   "take": "FRED's national Case-Shiller index (not seasonally adjusted) was 336.741 for August 2026, versus 337.262 in July, a 0.15% monthly decline, and 329.844 in August 2025, a 2.09% annual gain. AlphaGen read: annual price growth remains positive but the latest monthly reading slipped.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (CSUSHPINSA)",
+   "source_url": "https://fred.stlouisfed.org/series/CSUSHPINSA",
+   "checked": "2026-11-11T02:38:38Z"
+  },
+  {
+   "id": "2026-11-11-sloos-ci-oct",
+   "time": "2026-11-11T02:55:38Z",
+   "tag": "CREDIT",
+   "headline": "Loan officer survey: net 1.7% of banks tightened C&I standards for large firms",
+   "take": "FRED's series for the Federal Reserve's Senior Loan Officer survey shows a net 1.7% of domestic banks tightening standards on commercial and industrial loans to large and middle-market firms in the October 2026 reading, versus 0.0 in July and 8.1 in April. AlphaGen read: the net share tightening remains small, and is below the April reading.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DRTSCILM)",
+   "source_url": "https://fred.stlouisfed.org/series/DRTSCILM",
+   "checked": "2026-11-11T02:38:38Z"
+  },
+  {
+   "id": "2026-11-11-credit-bbb-bb-nov9",
+   "time": "2026-11-11T02:48:38Z",
+   "tag": "CREDIT",
+   "headline": "BBB option-adjusted spread 1.13 points, BB 2.00 on Nov. 9; BB was 2.13 on Nov. 5",
+   "take": "ICE BofA option-adjusted spreads on FRED were 1.13 points for BBB-rated and 2.00 points for BB-rated U.S. corporate bonds on Nov. 9, versus 1.16 and 2.13 on Nov. 5. The all-investment-grade index spread was 0.91 on Nov. 9, from 0.93 on Nov. 5. AlphaGen read: spreads narrowed across these three indexes between Nov. 5 and Nov. 9.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLC0A4CBBB, BAMLH0A1HYBB)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A4CBBB",
+   "checked": "2026-11-11T02:38:38Z"
+  },
+  {
+   "id": "2026-11-11-gasoline-nov9",
+   "time": "2026-11-11T02:41:38Z",
+   "tag": "COMMODITIES",
+   "headline": "U.S. regular gasoline averages $3.995 a gallon in week of Nov. 9, from $4.153",
+   "take": "The weekly U.S. regular gasoline price was $3.995 per gallon on Nov. 9, down from $4.153 on Nov. 2 and $4.269 on Oct. 26, per FRED. That is a decline of $0.274 over two weeks. AlphaGen read: pump prices fell over the same stretch in which FRED shows Brent spot lower.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (GASREGW)",
+   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
+   "checked": "2026-11-11T02:38:38Z"
+  },
   {
    "id": "2026-11-11-bowman-ai-buildout-prices",
    "time": "2026-11-11T02:30:28Z",
@@ -5300,76 +5370,6 @@
    "source_name": "Federal Reserve Board: H.15 Selected Interest Rates, Oct. 22, 2026",
    "source_url": "https://www.federalreserve.gov/releases/h15/",
    "checked": "2026-10-25T20:55:28Z"
-  },
-  {
-   "id": "2026-10-25-h8-loans-leases-14-214t",
-   "time": "2026-10-25T21:21:28Z",
-   "tag": "CREDIT",
-   "headline": "Fed H.8: bank loans and leases $14,213.7B in week to Oct. 14, up $29.3B",
-   "take": "Loans and leases in bank credit at all U.S. commercial banks stood at $14,213.7B in the week ended Oct. 14, up $29.3B from $14,184.4B a week earlier, seasonally adjusted. Total assets rose $38.0B to $26,138.3B. The next H.8 is scheduled for Oct. 30 at 4:15 p.m. ET and will show whether loan growth continued into the FOMC week.",
-   "source_name": "Federal Reserve Board: H.8 Assets and Liabilities of Commercial Banks, Oct. 23, 2026",
-   "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
-   "checked": "2026-10-25T20:55:28Z"
-  },
-  {
-   "id": "2026-10-25-h8-treasury-agency-4-784t",
-   "time": "2026-10-25T21:29:28Z",
-   "tag": "DEBT",
-   "headline": "Fed H.8: bank Treasury and agency securities $4,783.8B, up $21.6B on the week",
-   "take": "Commercial banks held $4,783.8B of Treasury and agency securities in the week ended Oct. 14, up $21.6B from $4,762.2B. Total securities in bank credit were $5,781.4B, up $16.3B, seasonally adjusted. Banks added to their government-backed holdings in the week, with cash assets little changed at $3,213.5B, up $5.2B.",
-   "source_name": "Federal Reserve Board: H.8 Assets and Liabilities of Commercial Banks, Oct. 23, 2026",
-   "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
-   "checked": "2026-10-25T20:55:28Z"
-  },
-  {
-   "id": "2026-10-25-fed-calendar-no-speeches-oct-26-31",
-   "time": "2026-10-25T21:37:28Z",
-   "tag": "FED",
-   "headline": "Fed calendar: no speeches or hearings listed Oct. 26-31; H.10 and CP data due Oct. 26",
-   "take": "The Federal Reserve Board's October calendar lists the two-day FOMC meeting on Oct. 27-28, with the press conference at 2:30 p.m. ET on Oct. 28, and no speeches, hearings or stress-test events for Oct. 26-31. Statistical releases include Commercial Paper at 1:00 p.m. and H.10 foreign exchange rates at 4:15 p.m. on Oct. 26, plus G.20 finance companies on Oct. 30 with an approximate publication date. The quiet speaker calendar leaves the FOMC statement and press conference as the main Fed communication of the week.",
-   "source_name": "Federal Reserve Board: Calendar, October 2026",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-   "checked": "2026-10-25T20:55:28Z"
-  },
-  {
-   "id": "2026-10-25-fomc-minutes-year-end-hike",
-   "time": "2026-10-25T18:53:11Z",
-   "tag": "FED",
-   "headline": "Fed minutes: most participants saw another rate increase likely appropriate by year end",
-   "take": "The minutes of the Sept. 15-16 FOMC meeting, last updated Oct. 7, say most participants judged that another increase in the target range for the federal funds rate would likely be appropriate by year end. The Committee had voted 12-0 to raise the range by 1/4 point to 3-3/4 to 4 percent, and participants described inflation risk as skewed to the upside. With the next meeting on Oct. 27-28, the minutes frame the question as pace and timing of further tightening rather than whether it is on the table.",
-   "source_name": "Federal Reserve Board: FOMC minutes, Sept. 15-16, 2026",
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
-   "checked": "2026-10-25T18:51:11Z"
-  },
-  {
-   "id": "2026-10-25-sep-fed-funds-median-4-1",
-   "time": "2026-10-25T19:02:11Z",
-   "tag": "FED",
-   "headline": "Fed Sept. projections: median fed funds rate 4.1% for 2026, up from 3.8% in June",
-   "take": "The Sept. 16 Summary of Economic Projections shows a median federal funds rate of 4.1% for 2026 (June: 3.8%), 4.1% for 2027 (3.6%) and 3.9% for 2028 (3.4%), with a longer-run median of 3.2% (3.1%). The current target range is 3-3/4 to 4 percent, so the 2026 median sits above the top of that range. The projections move the rate path higher in every year shown, which is the backdrop for the Oct. 27-28 meeting.",
-   "source_name": "Federal Reserve Board: FOMC projection materials, Sept. 16, 2026",
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
-   "checked": "2026-10-25T18:51:11Z"
-  },
-  {
-   "id": "2026-10-25-sep-inflation-growth-medians",
-   "time": "2026-10-25T19:11:11Z",
-   "tag": "MACRO",
-   "headline": "Fed Sept. projections: 2026 PCE inflation 3.7%, core 3.4%, unemployment 4.1%, GDP 2.3%",
-   "take": "Median FOMC projections from Sept. 16 for 2026 are: PCE inflation 3.7% (June: 3.6%), core PCE inflation 3.4% (3.3%), unemployment rate 4.1% (4.3%) and real GDP growth 2.3% (2.2%). For 2027, PCE inflation is projected at 2.3% and core at 2.5%, unchanged from June. Officials marked inflation up and unemployment down for 2026, a combination that supports the case for firmer policy.",
-   "source_name": "Federal Reserve Board: FOMC projection materials, Sept. 16, 2026",
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
-   "checked": "2026-10-25T18:51:11Z"
-  },
-  {
-   "id": "2026-10-25-bls-ppi-12mo-6-3",
-   "time": "2026-10-25T19:20:11Z",
-   "tag": "MACRO",
-   "headline": "BLS: PPI final demand up 6.3% in 12 months to September, largest since December 2022",
-   "take": "The Producer Price Index for final demand rose 6.3% over the 12 months ended September 2026, which BLS describes as the largest 12-month increase since 6.4% in December 2022. Final demand goods rose 9.8% and final demand services 4.9%; the data are not seasonally adjusted and subject to revision for four months. The goods-services gap shows how much of the pipeline pressure is concentrated in physical inputs.",
-   "source_name": "BLS: The Economics Daily, Producer Price Index up 6.3 percent in September",
-   "source_url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm",
-   "checked": "2026-10-25T18:51:11Z"
   }
  ]
 }
