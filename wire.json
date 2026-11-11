@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-11T02:38:38Z",
+ "updated": "2026-11-11T03:39:09Z",
  "items": [
+  {
+   "id": "2026-11-11-fred-5y-breakeven-nov10",
+   "time": "2026-11-11T03:41:58Z",
+   "tag": "RATES",
+   "headline": "5-year breakeven inflation rate 2.25% on Nov. 10, from 2.46% on Oct. 30",
+   "take": "The 5-year breakeven inflation rate was 2.25% on Nov. 10, unchanged from Nov. 9 and down from 2.46% on Oct. 30, a 0.21 percentage-point decline, per FRED. AlphaGen read: the market-implied five-year inflation compensation has fallen over the last two weeks; the 10-year breakeven was 2.20% on Nov. 10.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "checked": "2026-11-11T03:39:09Z"
+  },
+  {
+   "id": "2026-11-11-fred-3mo-bill-nov9",
+   "time": "2026-11-11T03:51:58Z",
+   "tag": "RATES",
+   "headline": "3-month Treasury yield 4.24% on Nov. 9, from 4.17% on Nov. 5",
+   "take": "The 3-month Treasury constant-maturity yield was 4.24% on Nov. 9, up from 4.17% on Nov. 5 and 4.19% on Nov. 6, per FRED. The effective federal funds rate was 3.88% over the same stretch, inside the 3.75%-4.00% target range. AlphaGen read: the 3-month yield sits 0.36 point above the effective funds rate.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS3MO, DFF)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
+   "checked": "2026-11-11T03:39:09Z"
+  },
+  {
+   "id": "2026-11-11-fred-nfci-oct30",
+   "time": "2026-11-11T04:01:58Z",
+   "tag": "MACRO",
+   "headline": "Chicago Fed financial conditions index -0.459 for week of Oct. 30, from -0.532 on Sept. 11",
+   "take": "The Chicago Fed National Financial Conditions Index was -0.459 for the week ended Oct. 30, up from -0.467 the prior week and -0.532 for the week ended Sept. 11, per FRED. The index rose in each of the last eight weekly readings. AlphaGen read: the gauge has drifted higher, in the same direction as Governor Bowman's remark that conditions tightened a bit.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (NFCI)",
+   "source_url": "https://fred.stlouisfed.org/series/NFCI",
+   "checked": "2026-11-11T03:39:09Z"
+  },
+  {
+   "id": "2026-11-11-fred-yen-sterling-nov6",
+   "time": "2026-11-11T04:11:58Z",
+   "tag": "FX",
+   "headline": "Yen 158.23 per dollar, sterling $1.3371 on Nov. 6; sterling down from $1.3483",
+   "take": "The yen was 158.23 per U.S. dollar on Nov. 6, from 157.76 on Nov. 5 and 157.47 on Oct. 30, per FRED. The British pound was $1.3371 on Nov. 6, down from $1.3483 on Nov. 5, and the Chinese yuan was 6.6760 per dollar, from 6.6538 on Oct. 30. AlphaGen read: the dollar firmed against all three on the day.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS, DEXUSUK, DEXCHUS)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+   "checked": "2026-11-11T03:39:09Z"
+  },
+  {
+   "id": "2026-11-11-ecb-deposit-rate-nov10",
+   "time": "2026-11-11T04:21:58Z",
+   "tag": "GLOBAL",
+   "headline": "ECB deposit facility rate 2.50% on Nov. 10; Fed funds target range 3.75%-4.00%",
+   "take": "The ECB deposit facility rate was 2.50% on Nov. 10, and the Fed's target range was 3.75% to 4.00% with an effective funds rate of 3.88% on Nov. 9, per FRED. The gap between the Fed funds effective rate and the ECB deposit rate is 1.38 percentage points. AlphaGen read: the Fed target range sits 1.25 to 1.50 points above the ECB deposit rate.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ECBDFR, DFEDTARL, DFEDTARU, DFF)",
+   "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
+   "checked": "2026-11-11T03:39:09Z"
+  },
   {
    "id": "2026-11-11-fed-reserves-tga-nov4",
    "time": "2026-11-11T03:23:38Z",
@@ -5320,56 +5370,6 @@
    "source_name": "CFTC Commitments of Traders, Petroleum (Futures Only), Oct. 20, 2026",
    "source_url": "https://www.cftc.gov/dea/futures/petroleum_lf.htm",
    "checked": "2026-10-25T22:45:02Z"
-  },
-  {
-   "id": "2026-10-25-cftc-gold-copper-positions-oct-20",
-   "time": "2026-10-25T23:30:02Z",
-   "tag": "COMMODITIES",
-   "headline": "CFTC: gold non-commercial longs 237,142 contracts; copper open interest up 13,287",
-   "take": "CFTC's Oct. 20 futures-only report shows COMEX gold non-commercial long positions at 237,142 contracts (down 8,158) against shorts of 37,277 (down 144), with open interest of 402,279, up 5,934. Copper open interest rose 13,287 to 327,119, with non-commercial longs of 98,535 (down 9,024). AlphaGen notes this report groups traders as non-commercial rather than managed money.",
-   "source_name": "CFTC Commitments of Traders, CMX (Futures Only), Oct. 20, 2026",
-   "source_url": "https://www.cftc.gov/dea/futures/deacmxsf.htm",
-   "checked": "2026-10-25T22:45:02Z"
-  },
-  {
-   "id": "2026-10-25-treasury-dealer-meetings-oct-29-30",
-   "time": "2026-10-25T21:54:39Z",
-   "tag": "DEBT",
-   "headline": "Treasury dealer agenda: dealer meetings set for Oct. 29-30; responses due Oct. 26",
-   "take": "Treasury's November 2026 dealer agenda lists Treasury Dealer Meetings on Oct. 29 to Oct. 30, 2026, with a response deadline of 12:00 p.m. on Monday, Oct. 26. The document does not give dates for a refunding announcement, refunding statement or financing estimates. AlphaGen notes the dealer meetings fall in the same week as the FOMC and Q3 GDP releases.",
-   "source_name": "U.S. Treasury: Dealer Agenda, November 2026 (OMB Control No. 1505-0261)",
-   "source_url": "https://home.treasury.gov/system/files/221/Dealer-Agenda-November-2026.pdf",
-   "checked": "2026-10-25T21:44:39Z"
-  },
-  {
-   "id": "2026-10-25-h10-oct-16-dollar-index",
-   "time": "2026-10-25T20:57:28Z",
-   "tag": "FX",
-   "headline": "Fed H.10: broad dollar index at 121.4048 on Oct. 16; euro $1.1231, yen 158.00",
-   "take": "The Fed's H.10 release dated Oct. 19 lists a broad dollar index of 121.4048 on Oct. 16, versus 122.0037 on Oct. 14 and 121.4433 on Oct. 13. The euro was $1.1231 per euro, the British pound $1.3330 per pound and the yen 158.00 per dollar on Oct. 16. The index was 0.5989 points below its Oct. 14 reading, and the Fed's next H.10 posting, Oct. 26 at 4:15 p.m. ET, will show how the dollar fared going into the FOMC week.",
-   "source_name": "Federal Reserve Board: H.10 Foreign Exchange Rates, Oct. 19, 2026",
-   "source_url": "https://www.federalreserve.gov/releases/h10/current/",
-   "checked": "2026-10-25T20:55:28Z"
-  },
-  {
-   "id": "2026-10-25-h15-1y-4-41",
-   "time": "2026-10-25T21:05:28Z",
-   "tag": "RATES",
-   "headline": "1-year Treasury yield 4.41% on Oct. 22, down 11 bp in a day; 6-month 4.29%",
-   "take": "Fed H.15 shows the 1-year constant-maturity Treasury yield at 4.41% on Oct. 22, down from 4.52% on Oct. 21, and the 6-month yield at 4.29%, down from 4.35%. The 1-year sits 53 bp above the 3.88% effective federal funds rate. With the FOMC meeting Oct. 27-28, the gap between the 1-year yield and the funds rate is a figure worth watching.",
-   "source_name": "Federal Reserve Board: H.15 Selected Interest Rates, Oct. 22, 2026",
-   "source_url": "https://www.federalreserve.gov/releases/h15/",
-   "checked": "2026-10-25T20:55:28Z"
-  },
-  {
-   "id": "2026-10-25-h15-prime-7-00",
-   "time": "2026-10-25T21:13:28Z",
-   "tag": "FED",
-   "headline": "Fed H.15: bank prime loan rate 7.00%, 3.00 points above 4.00% primary credit rate",
-   "take": "The H.15 release lists the bank prime loan rate at 7.00% and the discount window primary credit rate at 4.00% on both Oct. 21 and Oct. 22. The effective federal funds rate was 3.88% on each day. Prime-linked borrowing costs, such as many credit card and small-business loans, would move with the policy rate if the FOMC changes the target range on Oct. 28.",
-   "source_name": "Federal Reserve Board: H.15 Selected Interest Rates, Oct. 22, 2026",
-   "source_url": "https://www.federalreserve.gov/releases/h15/",
-   "checked": "2026-10-25T20:55:28Z"
   }
  ]
 }
