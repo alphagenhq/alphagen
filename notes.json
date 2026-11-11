@@ -1,6 +1,92 @@
 {
-  "updated": "2026-11-10T21:39:44Z",
+  "updated": "2026-11-11T12:39:31Z",
   "items": [
+    {
+      "id": "2026-11-11-morning-brief",
+      "time": "2026-11-11T12:39:31Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: Fed speakers lean toward tightening as PPI nears",
+      "dek": "Waller and Bowman both said inflation is the main problem, claims sit at 189,000, and October PPI is due Friday at 8:30 a.m. ET.",
+      "key_points": [
+        "BLS schedule: the October Producer Price Index is due Friday, Nov. 13 at 8:30 a.m. ET; the AlphaGen calendar lists no other major BLS or BEA release today.",
+        "October CPI-U rose 0.4% after 0.6% in September; core rose 0.3% for a third month, and real average hourly earnings were unchanged.",
+        "Waller (Nov. 10): further tightening will be needed 'sooner rather than later'; Bowman supported holding at 3-3/4 to 4% last month and sees 12-month core PCE likely at 3.3% in October.",
+        "FRED: 10-year breakeven inflation rate 2.20% on Nov. 10 (2.30% on Nov. 3); 10-year minus 2-year Treasury spread 0.25 point on Nov. 10 (0.32 on Nov. 9).",
+        "Costco declared a $30-per-share special dividend (about $13.3 billion) payable Dec. 4 to holders of record Nov. 24."
+      ],
+      "talking_points": [
+        "Is inflation still a problem? Yes, according to the Fed's own speakers. Fed Vice Chair for Supervision Bowman said on Nov. 10 that progress on lowering inflation has stalled over the past two years or so and that, after the CPI, 12-month core PCE inflation likely moved up to 3.3% in October. For an everyday investor, that is a reason to keep inflation in mind when judging whether savings and bond yields are keeping up.",
+        "Are more Fed rate increases coming? Possibly, but no decision has been made. Governor Waller said further tightening will be needed 'sooner rather than later,' while Bowman said she supported holding the range at 3-3/4 to 4% last month; the next policy decision belongs to the full committee. If you have variable-rate debt, it is worth knowing how quickly your payments would reset.",
+        "Is the job market cracking? Not in the latest data. BLS reported payrolls up 165,000 in October with unemployment at 4.1%, and FRED data show weekly jobless claims at 189,000 for the week ended Oct. 31. Steady claims suggest layoffs are not rising, though Waller noted 6- and 12-month payroll gains have averaged closer to 80,000 a month, so hiring is slower than the October figure alone implies."
+      ],
+      "body": [
+        "The main scheduled inflation release this week is still ahead. According to the BLS schedule, the October Producer Price Index is due Friday, Nov. 13 at 8:30 a.m. ET. The most recent PPI release in the BLS feed covers September and showed final demand prices up 1.3 percent, the largest advance since March 2022, with energy the main driver; October's report will show whether that jump persisted.",
+        {
+          "h": "Two Fed officials, one message"
+        },
+        "Yesterday's BLS report showed the CPI for All Urban Consumers rising 0.4 percent in October after 0.6 percent in September, with the index excluding food and energy up 0.3 percent, as in September and August. BLS also reported that real average hourly earnings were unchanged because pay and the CPI both rose 0.4 percent.",
+        "Governor Christopher Waller said on Nov. 10 that the U.S. economy is growing strongly and that further tightening of monetary policy will be needed, sooner rather than later, to return inflation to a path that reaches 2 percent in the medium term. He added that 6- and 12-month average payroll gains have been closer to 80,000 jobs a month, which he described as consistent with supply and demand for labor being in rough balance. Vice Chair for Supervision Michelle Bowman said she joined the vote to hold the target range at 3-3/4 to 4 percent at last month's meeting, that progress on lowering inflation has stalled over the past two years or so, and that the CPI suggests 12-month core PCE inflation likely moved up to 3.3 percent in October.",
+        {
+          "h": "Market-based gauges and the labor backdrop"
+        },
+        "FRED data show the 10-year breakeven inflation rate at 2.20 percent on Nov. 10, down from 2.30 percent on Nov. 3, while the 10-year minus 2-year Treasury spread was 0.25 percentage point on Nov. 10, narrower than 0.32 on Nov. 9. In the labor market, initial jobless claims were 189,000 for the week ended Oct. 31, the lowest of the six most recent weekly readings, and BLS reported October payrolls up 165,000 with an unemployment rate of 4.1 percent.",
+        {
+          "h": "Corporate"
+        },
+        "Costco's board declared a special cash dividend of $30 per share, payable Dec. 4, 2026 to shareholders of record at the close of business on Nov. 24. The company said the total payment will be approximately $13.3 billion, and it reauthorized a common-stock repurchase program of up to $4 billion that expires in November 2030.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "Official speakers are framing inflation, not employment, as the risk to watch, while market-based inflation compensation edged lower over the past week. That mix makes Friday's PPI the next data point that could test the Fed officials' view. This brief reports only figures read directly from BLS, the Federal Reserve, FRED and company filings; it makes no forecast."
+      ],
+      "sources": [
+        {
+          "name": "BLS Consumer Price Index news release",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "name": "BLS Real Earnings news release",
+          "url": "https://www.bls.gov/news.release/realer.nr0.htm"
+        },
+        {
+          "name": "BLS Employment Situation news release",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        },
+        {
+          "name": "BLS Producer Price Index news release",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        },
+        {
+          "name": "Federal Reserve Board: Waller speech, Nov. 10",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm"
+        },
+        {
+          "name": "Federal Reserve Board: Bowman speech, Nov. 10",
+          "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm"
+        },
+        {
+          "name": "FRED: 10-year breakeven inflation rate",
+          "url": "https://fred.stlouisfed.org/series/T10YIE"
+        },
+        {
+          "name": "FRED: 10-year minus 2-year spread",
+          "url": "https://fred.stlouisfed.org/series/T10Y2Y"
+        },
+        {
+          "name": "FRED: Initial claims",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        },
+        {
+          "name": "Costco Wholesale 8-K Ex. 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm"
+        }
+      ],
+      "tickers": [
+        "NASDAQ:COST"
+      ],
+      "checked": "2026-11-11T12:39:31Z"
+    },
     {
       "id": "2026-11-10-the-close",
       "time": "2026-11-10T21:39:44Z",

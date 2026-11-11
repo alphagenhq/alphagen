@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-23T11:47:05Z",
+  "updated": "2026-11-11T12:39:31Z",
   "items": [
+    {
+      "id": "2026-11-11-jobless-claims",
+      "time": "2026-11-11T12:39:31Z",
+      "title": "Jobless claims at 189,000: the lowest of the last six weekly readings",
+      "subtitle": "Initial claims for unemployment insurance, seasonally adjusted, weekly, persons",
+      "series": [
+        {
+          "id": "ICSA",
+          "label": "Initial jobless claims",
+          "t": "lvl"
+        }
+      ],
+      "start": "2025-01-01",
+      "units": "persons",
+      "take": "Initial jobless claims were 189,000 for the week ended Oct. 31, down from 195,000 in each of the two prior weeks (Oct. 17 and Oct. 24) and 200,000 for the week ended Oct. 10. The Oct. 31 reading is the lowest of the six weekly observations from Sept. 26 on, which ranged from 189,000 to 200,000. BLS separately reported October payrolls up 165,000 and an unemployment rate of 4.1%. Low claims alongside modest payroll growth fits the low-hire, low-fire description Fed Governor Waller used on Nov. 10.",
+      "source": "U.S. Employment and Training Administration via FRED",
+      "source_url": "https://fred.stlouisfed.org/series/ICSA",
+      "checked": "2026-11-11T12:39:31Z"
+    },
     {
       "id": "2026-10-23-mortgage-vs-10yr",
       "time": "2026-10-23T11:47:05Z",
