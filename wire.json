@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-11T22:39:22Z",
+ "updated": "2026-11-11T23:39:02Z",
  "items": [
+  {
+   "id": "2026-11-11-fed-veterans-day-releases",
+   "time": "2026-11-11T23:44:02Z",
+   "tag": "FED",
+   "headline": "Fed: Veterans Day holiday moves Nov. 11 statistical releases to Thursday, Nov. 12",
+   "take": "The Federal Reserve Board's November calendar lists Nov. 11 as a holiday (Veterans Day) and says the daily and weekly statistical releases scheduled for that day will be released Thursday, Nov. 12. Nov. 12 also lists the 1:00 p.m. commercial paper release, the 4:15 p.m. H.15 selected interest rates and the 4:30 p.m. H.4.1 balance sheet release. AlphaGen read: the weekly Fed balance sheet and rates data arrive together on Thursday afternoon.",
+   "source_name": "Federal Reserve Board (calendar: November 2026)",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-11T23:39:02Z"
+  },
+  {
+   "id": "2026-11-11-fed-speakers-nov12-13",
+   "time": "2026-11-11T23:54:02Z",
+   "tag": "FED",
+   "headline": "Fed calendar: Barr speaks Nov. 12; Bowman and Jefferson appear Nov. 13",
+   "take": "The Federal Reserve Board's calendar lists Governor Michael S. Barr on \"Artificial Intelligence and Inequality\" at 10:00 a.m. on Nov. 12 (virtual), Vice Chair for Supervision Michelle W. Bowman in a discussion on \"Supervision and Regulation\" at 10:50 a.m. on Nov. 13 (Connecticut Bankers Association, virtual), and Vice Chair Philip N. Jefferson on productivity puzzles at 7:00 p.m. on Nov. 13 in La Jolla, Calif. AlphaGen read: Jefferson's Friday-evening talk is the one scheduled appearance on the macroeconomic outlook.",
+   "source_name": "Federal Reserve Board (calendar: November 2026)",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-11T23:39:02Z"
+  },
+  {
+   "id": "2026-11-11-fed-week-ahead-nov16-17",
+   "time": "2026-11-12T00:04:02Z",
+   "tag": "MACRO",
+   "headline": "Fed calendar: foreign exchange rates Nov. 16, industrial production Nov. 17",
+   "take": "The Federal Reserve Board's calendar lists the H.10 foreign exchange rates release at 4:15 p.m. on Monday, Nov. 16 and the G.17 industrial production and capacity utilization release at 9:15 a.m. on Tuesday, Nov. 17. The calendar shows no speeches or testimony for Nov. 16-20. AlphaGen read: the G.17 is the next Fed data print on the schedule for the week after next.",
+   "source_name": "Federal Reserve Board (calendar: November 2026)",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-11T23:39:02Z"
+  },
+  {
+   "id": "2026-11-11-h15-1yr-bill-nov9",
+   "time": "2026-11-12T00:14:02Z",
+   "tag": "RATES",
+   "headline": "1-year Treasury yield 4.38% on Nov. 9, 0.50 point above 3.88% fed funds rate",
+   "take": "The Fed's H.15 release shows the 1-year Treasury constant-maturity yield at 4.38% on Nov. 9, up from 4.28% on Nov. 5, with the 6-month at 4.26% and the 3-month at 4.24%. The effective federal funds rate was 3.88% on each day shown, so the 1-year yield was 0.50 point above it. AlphaGen read: short-dated yields sit above the policy rate and rose across Nov. 5-9.",
+   "source_name": "Federal Reserve Board (H.15 Selected Interest Rates)",
+   "source_url": "https://www.federalreserve.gov/releases/h15/",
+   "checked": "2026-11-11T23:39:02Z"
+  },
+  {
+   "id": "2026-11-11-h15-curve-nov5-9",
+   "time": "2026-11-12T00:24:02Z",
+   "tag": "RATES",
+   "headline": "Treasury yields rose Nov. 5-9: 2-year +0.10 pt to 4.56%, 5-year +0.08 to 4.67%",
+   "take": "H.15 shows the 2-year Treasury yield at 4.56% on Nov. 9 versus 4.46% on Nov. 5, the 5-year at 4.67% versus 4.59%, the 10-year at 4.88% versus 4.84%, and the 30-year at 5.26% versus 5.25%. The rise was largest at the front of the curve, 0.10 point at 2 years against 0.01 point at 30 years. AlphaGen read: the move flattened the 2-year-to-30-year gap to 0.70 point from 0.79.",
+   "source_name": "Federal Reserve Board (H.15 Selected Interest Rates)",
+   "source_url": "https://www.federalreserve.gov/releases/h15/",
+   "checked": "2026-11-11T23:39:02Z"
+  },
   {
    "id": "2026-11-11-fred-breakeven10-nov10",
    "time": "2026-11-11T22:44:22Z",
@@ -5282,61 +5332,6 @@
    "source_name": "The Hartford press release via Business Wire (Oct. 26, 2026)",
    "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-the-hartford-reports-strong-third-quarter-2026-financial-results",
    "checked": "2026-10-26T21:49:42Z"
-  },
-  {
-   "id": "2026-10-26-hig-catastrophe-combined",
-   "time": "2026-10-26T22:11:42Z",
-   "tag": "CREDIT",
-   "ticker": "NYSE:HIG",
-   "headline": "Hartford Q3 catastrophe losses $198M pre-tax vs $70M; Business Insurance combined ratio 91.3",
-   "take": "The Hartford reported property and casualty current accident year catastrophe losses of $198 million before tax in the third quarter, primarily from tornado, wind and hail events, compared with $70 million in the third quarter of 2025. The Business Insurance combined ratio was 91.3 versus 88.8, and Personal Insurance was 93.2 versus 88.7. Underlying combined ratios, which exclude catastrophes and prior-year development, were 90.1 versus 89.4 for Business Insurance and 87.1 versus 90.0 for Personal Insurance. Personal Insurance's reported combined ratio rose by 4.5 points while its underlying ratio fell by 2.9 points.",
-   "source_name": "The Hartford press release via Business Wire (Oct. 26, 2026)",
-   "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-the-hartford-reports-strong-third-quarter-2026-financial-results",
-   "checked": "2026-10-26T21:49:42Z"
-  },
-  {
-   "id": "2026-10-26-rmbs-q3",
-   "time": "2026-10-26T22:20:42Z",
-   "tag": "EARNINGS",
-   "ticker": "NASDAQ:RMBS",
-   "headline": "Rambus Q3 revenue $218.3M vs $178.5M; GAAP diluted EPS $0.69 vs $0.44",
-   "take": "Rambus reported third-quarter 2026 revenue of $218.3 million versus $178.5 million a year earlier, with GAAP net income of $74.6 million versus $48.4 million and GAAP diluted EPS of $0.69 versus $0.44. By our calculation revenue rose about 22.3% year over year. Product revenue of $114.3 million, up from $93.3 million, contributed the largest dollar increase of the three revenue lines.",
-   "source_name": "Rambus press release via Business Wire (Oct. 26, 2026)",
-   "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-rambus-reports-third-quarter-2026-financial-results",
-   "checked": "2026-10-26T21:49:42Z"
-  },
-  {
-   "id": "2026-10-26-rmbs-guidance",
-   "time": "2026-10-26T22:29:42Z",
-   "tag": "EQUITIES",
-   "ticker": "NASDAQ:RMBS",
-   "headline": "Rambus guides Q4 revenue $227M-$233M; GAAP diluted EPS $0.68-$0.76",
-   "take": "Rambus' fourth-quarter 2026 outlook calls for revenue of $227 million to $233 million, including product revenue of $127 million to $133 million and royalties revenue of $68 million to $74 million. GAAP diluted EPS is guided to $0.68 to $0.76 and non-GAAP diluted EPS to $0.84 to $0.92. The product revenue range sits above the $114.3 million reported for the third quarter, while royalties are guided below the $77.0 million just posted.",
-   "source_name": "Rambus press release via Business Wire (Oct. 26, 2026)",
-   "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-rambus-reports-third-quarter-2026-financial-results",
-   "checked": "2026-10-26T21:49:42Z"
-  },
-  {
-   "id": "2026-10-26-fsun-q3",
-   "time": "2026-10-26T22:38:42Z",
-   "tag": "CREDIT",
-   "ticker": "NASDAQ:FSUN",
-   "headline": "FirstSun Q3 net income $38.4M, $0.82 per share, vs Q2 net loss of $22.9M; NIM 3.82%",
-   "take": "FirstSun Capital Bancorp reported third-quarter 2026 net income of $38.4 million, or $0.82 per diluted share, versus a net loss of $22.9 million in the prior quarter and net income of $23.2 million a year earlier. Net interest margin increased 24 basis points from the prior quarter to 3.82%, loans fell to $11.5 billion from $11.6 billion at June 30, and deposits were $13.0 billion versus $13.4 billion. The common equity tier 1 ratio was 11.99%; diluted EPS was $0.82 in both the third quarter of 2026 and 2025 even as net income rose.",
-   "source_name": "FirstSun Capital Bancorp press release via Business Wire (Oct. 26, 2026)",
-   "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-26-firstsun-capital-bancorp-reports-third-quarter-2026-results",
-   "checked": "2026-10-26T21:49:42Z"
-  },
-  {
-   "id": "2026-10-26-hbt-q3",
-   "time": "2026-10-26T19:55:00Z",
-   "tag": "EARNINGS",
-   "ticker": "NASDAQ:HBT",
-   "headline": "HBT Financial Q3 diluted EPS $0.86 vs $0.63; net income $31.4M",
-   "take": "HBT Financial reported third-quarter 2026 net income of $31.4 million, or $0.86 per diluted share, versus $19.8 million and $0.63 in the third quarter of 2025 and $27.8 million and $0.76 in the second quarter of 2026. Net income is up about 58.6% year over year on our calculation. The loan book was far larger than a year ago ($4.78 billion versus $3.40 billion), so much of the earnings gain came with a bigger balance sheet.",
-   "source_name": "HBT Financial press release via GlobeNewswire (Oct. 26, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387987/0/en/hbt-financial-inc-announces-third-quarter-2026-financial-results.html",
-   "checked": "2026-10-26T19:49:16Z"
   }
  ]
 }
