@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-11T13:38:35Z",
+  "updated": "2026-11-11T14:39:45Z",
   "items": [
+    {
+      "id": "2026-11-11-trade-sept-imports-computers",
+      "time": "2026-11-11T14:41:45Z",
+      "tag": "MACRO",
+      "headline": "Sept imports of goods $346.9B: capital goods +$11.6B, computers +$7.6B",
+      "take": "BEA and Census reported imports of goods rose $4.4 billion to $346.9 billion in September, led by capital goods (+$11.6 billion), including computers (+$7.6 billion) and computer accessories (+$5.7 billion), while semiconductors fell $1.2 billion. Industrial supplies and materials decreased $3.7 billion and crude oil imports fell $1.3 billion. AlphaGen read: the import increase was concentrated in computing equipment, consistent with the equipment investment BEA cited in third-quarter GDP.",
+      "source_name": "BEA/Census, U.S. International Trade in Goods and Services, September 2026",
+      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "checked": "2026-11-11T14:39:45Z"
+    },
+    {
+      "id": "2026-11-11-trade-sept-three-month-avg",
+      "time": "2026-11-11T14:48:45Z",
+      "tag": "MACRO",
+      "headline": "Three-month average trade deficit $101.2B, up $11.3B; services surplus $30.9B",
+      "take": "BEA reported the average goods and services deficit increased $11.3 billion to $101.2 billion for the three months ending in September, $36.5 billion wider than the three months ending September 2025. Average exports rose $1.4 billion to $316.0 billion and average imports rose $12.7 billion to $417.2 billion. In September alone the goods deficit was $135.9 billion against a services surplus of $30.9 billion. The single-month narrowing to $105.0 billion sits inside a wider three-month trend.",
+      "source_name": "BEA/Census, U.S. International Trade in Goods and Services, September 2026",
+      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "checked": "2026-11-11T14:39:45Z"
+    },
+    {
+      "id": "2026-11-11-trade-sept-country-balances",
+      "time": "2026-11-11T14:55:45Z",
+      "tag": "GLOBAL",
+      "headline": "Sept goods deficits: Mexico $28.7B, Vietnam $25.3B, Taiwan $21.9B, China $17.9B",
+      "take": "On a Census basis, the U.S. goods deficit in September was largest with Mexico ($28.7 billion), followed by Vietnam ($25.3 billion), Taiwan ($21.9 billion), China ($17.9 billion) and the European Union ($14.2 billion). Surpluses were recorded with the Netherlands ($7.7 billion), South and Central America ($6.2 billion) and the United Kingdom ($3.0 billion). Taiwan and Vietnam ranking above China in the monthly deficit table is a notable feature of the September data.",
+      "source_name": "BEA/Census, U.S. International Trade in Goods and Services, September 2026",
+      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "checked": "2026-11-11T14:39:45Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-transport-services",
+      "time": "2026-11-11T15:02:45Z",
+      "tag": "MACRO",
+      "headline": "CPI transportation services +0.8% in October after +0.6% in September",
+      "take": "BLS data show the transportation services index rose 0.8% in October, following gains of 0.6% in September and 0.5% in August, while the broader services-less-energy-services index rose 0.3% in October. Within the release, motor vehicle insurance rose 0.7% and airline fares increased. Used cars and trucks fell 1.2%, while core rose 0.3%. AlphaGen read: the transportation services monthly change has risen in each of the last three months.",
+      "source_name": "BLS, Consumer Price Index Summary, October 2026",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T14:39:45Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-fuel-oil",
+      "time": "2026-11-11T15:09:45Z",
+      "tag": "ENERGY",
+      "headline": "CPI fuel oil +2.0% in October after +15.3%; energy commodities +0.8%",
+      "take": "BLS reported the fuel oil index rose 2.0% in October after a 15.3% jump in September, and energy commodities rose 0.8% after 9.3%. Electricity rose 0.9% and utility (piped) gas service fell 0.8%, leaving energy services up 0.6%. AlphaGen read: October's energy gains were far smaller than September's, but fuel oil and electricity still rose.",
+      "source_name": "BLS, Consumer Price Index Summary, October 2026",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T14:39:45Z"
+    },
+    {
+      "id": "2026-11-11-pce-sept-goods-services",
+      "time": "2026-11-11T15:16:45Z",
+      "tag": "MACRO",
+      "headline": "Sept consumer spending +$113.1B: services +$78.1B, goods +$35.1B",
+      "take": "BEA reported current-dollar personal consumption expenditures rose $113.1 billion (0.5%) in September, reflecting a $78.1 billion increase in spending on services and a $35.1 billion increase in spending on goods. Real PCE rose $2.6 billion (less than 0.1%), because the PCE price index rose 0.5% in the month. AlphaGen read: most of the dollar increase in spending was services, and nearly all of the increase was price rather than volume.",
+      "source_name": "BEA, Personal Income and Outlays, September 2026",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-11T14:39:45Z"
+    },
+    {
+      "id": "2026-11-11-jobs-transport-prof-services-trend",
+      "time": "2026-11-11T15:23:45Z",
+      "tag": "MACRO",
+      "headline": "Transportation jobs +104,000 since February; professional services +269,000 since Oct. 2025",
+      "take": "BLS said transportation and warehousing has added 104,000 jobs since a recent employment low in February, with couriers and messengers (+71,000) contributing most of the gain, after +25,000 in October. Professional and business services has added 269,000 jobs since a recent low in October 2025, including +70,000 in October versus an average monthly gain of 15,000 over the prior 12 months. Total nonfarm payrolls rose 165,000 in October against a 48,000 monthly average over the prior 12 months.",
+      "source_name": "BLS, Employment Situation, October 2026",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-11T14:39:45Z"
+    },
     {
       "id": "2026-11-11-jobs-manufacturing-oct",
       "time": "2026-11-11T13:41:35Z",
@@ -5295,77 +5365,6 @@
       "source_name": "Enova Q3 2026 results release (PR Newswire, Oct. 22, 2026)",
       "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
       "checked": "2026-10-26T02:45:18Z"
-    },
-    {
-      "id": "2026-10-25-ritm-q3",
-      "time": "2026-10-26T03:25:18Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:RITM",
-      "headline": "Rithm Q3 GAAP EPS $0.38; earnings available for distribution $0.55 per share",
-      "take": "Rithm Capital reported Q3 2026 GAAP net income attributable to common stockholders of $217.1M, or $0.38 per diluted share, versus $20.2M, or $0.04, in Q2. Earnings available for distribution were $315.3M, or $0.55 per diluted share, versus $0.60 in Q2, and book value per common share was $12.51. GAAP earnings rose sharply from Q2 while distributable earnings eased, and the $0.25 common dividend stayed unchanged.",
-      "source_name": "Rithm Capital Q3 2026 results release (Business Wire, Oct. 23, 2026)",
-      "source_url": "https://www.businesswire.com/news/home/20261023343140/en/Rithm-Capital-Corp.-Announces-Third-Quarter-2026-Results",
-      "checked": "2026-10-26T02:45:18Z"
-    },
-    {
-      "id": "2026-10-25-boj-accounts-oct-20",
-      "time": "2026-10-26T03:33:18Z",
-      "tag": "GLOBAL",
-      "headline": "BoJ accounts: JGB holdings ¥504.0T on Oct. 20, up ¥368.7B from Oct. 10",
-      "take": "The Bank of Japan's accounts for Oct. 20 show JGBs held of ¥504.0T versus ¥503.6T on Oct. 10, a rise of ¥368.7B. Total assets were ¥625.0T, up ¥345.3B, while current deposits rose ¥10.19T to ¥418.3T. The balance sheet is still expanding at the margin even as the BoJ heads into its Oct. 29-30 policy meeting.",
-      "source_name": "Bank of Japan Accounts (October 20)",
-      "source_url": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
-      "checked": "2026-10-26T02:45:18Z"
-    },
-    {
-      "id": "2026-10-26-nar-existing-pending-nov",
-      "time": "2026-10-26T01:49:25Z",
-      "tag": "HOUSING",
-      "headline": "NAR schedule: October existing-home sales Nov. 12; pending sales Nov. 18",
-      "take": "NAR's 2026 statistical release schedule lists October Existing-Home Sales for Thursday, Nov. 12, and the October Pending Home Sales Index for Wednesday, Nov. 18. NAR says all releases are distributed at 10 a.m. Eastern. The November reports follow on Dec. 9 and Dec. 17, giving the housing calendar two prints each month.",
-      "source_name": "National Association of Realtors",
-      "source_url": "https://www.nar.realtor/newsroom/nar-releases-2026-statistical-news-release-schedule",
-      "checked": "2026-10-26T01:44:25Z"
-    },
-    {
-      "id": "2026-10-26-eia-wpsr-oct-28",
-      "time": "2026-10-26T02:04:25Z",
-      "tag": "ENERGY",
-      "headline": "EIA: weekly petroleum report follows standard Wednesday schedule, Oct. 28 at 10:30 a.m.",
-      "take": "EIA's Weekly Petroleum Status Report schedule lists no exception for the week of Oct. 26-Nov. 1, so the standard release time of 10:30 a.m. Eastern on Wednesday applies. That puts the next crude and product inventory data on Oct. 28, the same day as the Fed decision window the FOMC calendar sets.",
-      "source_name": "U.S. Energy Information Administration",
-      "source_url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php",
-      "checked": "2026-10-26T01:44:25Z"
-    },
-    {
-      "id": "2026-10-26-census-trade-nov-4-dec-8",
-      "time": "2026-10-26T02:19:25Z",
-      "tag": "MACRO",
-      "headline": "Census: September trade report due Nov. 4; October report Dec. 8, both 8:30 a.m. ET",
-      "take": "The Census Bureau's foreign trade schedule lists the U.S. International Trade in Goods and Services report for Wednesday, Nov. 4, covering September, and Tuesday, Dec. 8, covering October. Census states all releases occur at 8:30 a.m. Eastern. The September report is the next full trade-balance reading after the third-quarter GDP advance estimate.",
-      "source_name": "U.S. Census Bureau",
-      "source_url": "https://www.census.gov/foreign-trade/schedule.html",
-      "checked": "2026-10-26T01:44:25Z"
-    },
-    {
-      "id": "2026-10-26-rbnz-ocr-2-75-oct-28",
-      "time": "2026-10-26T00:49:59Z",
-      "tag": "FX",
-      "headline": "RBNZ OCR at 2.75% after Sept. 2 hike; next review Oct. 28 at 2 p.m. NZT",
-      "take": "The Reserve Bank of New Zealand raised the Official Cash Rate 25 basis points to 2.75% on Sept. 2, with the MPC saying inflation rose to 4.1% in the June quarter because of higher fuel prices. The Bank's calendar lists the next Monetary Policy Review and OCR decision for Wednesday, Oct. 28 at 2:00 p.m. NZT, with a media conference at 3:00 p.m. AlphaGen notes the MPC framed the move as gradual removal of stimulus, so fuel-driven inflation is the variable that frames that review.",
-      "source_name": "Reserve Bank of New Zealand: Monetary Policy Review and OCR, October 2026",
-      "source_url": "https://www.rbnz.govt.nz/news-and-events/events/2026/october/monetary-policy-review-and-ocr-october-2026",
-      "checked": "2026-10-26T00:44:59Z"
-    },
-    {
-      "id": "2026-10-26-bok-q3-gdp-oct-27",
-      "time": "2026-10-26T01:00:59Z",
-      "tag": "GLOBAL",
-      "headline": "Bank of Korea calendar: Q3 advance GDP Oct. 27; September interest rates Oct. 29",
-      "take": "The Bank of Korea's statistical calendar lists the Q3 2026 real GDP advance estimate for Oct. 27 at 08:00 and the Consumer Survey Index for October the same day at 06:00. September interest-rate statistics follow on Oct. 29 at 12:00, and the preliminary September balance of payments on Nov. 5 at 08:00. The calendar notes the times are when media can publish and the schedule may change; AlphaGen flags the GDP print as the main Asian growth data point ahead of this week's central bank meetings.",
-      "source_name": "Bank of Korea: Statistical Calendar",
-      "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
-      "checked": "2026-10-26T00:44:59Z"
     }
   ]
 }
