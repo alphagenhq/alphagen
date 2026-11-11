@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-11T14:39:45Z",
+  "updated": "2026-11-11T15:38:35Z",
   "items": [
+    {
+      "id": "2026-11-11-pce-sept-price-index",
+      "time": "2026-11-11T15:46:35Z",
+      "tag": "MACRO",
+      "headline": "September PCE prices +0.5%, core +0.3%; 12-month rate 3.6%, core 3.1%",
+      "take": "BEA's September release (Oct. 29) showed the PCE price index up 0.5 percent from August, versus 0.3 percent in August, with the index excluding food and energy up 0.3 percent in both months. From a year earlier, the PCE price index rose 3.6 percent and the core index 3.1 percent. AlphaGen read: headline PCE inflation ran above the core measure in September; BEA's next release is due Nov. 25.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-11T15:38:35Z"
+    },
+    {
+      "id": "2026-11-11-gdp-q3-price-measures",
+      "time": "2026-11-11T15:57:35Z",
+      "tag": "MACRO",
+      "headline": "Q3 GDP: PCE price index 2.1% annualized vs 5.0% in Q2; core 2.5% vs 3.3%",
+      "take": "BEA's advance estimate for the third quarter put the PCE price index up 2.1 percent at an annual rate, after 5.0 percent in the second quarter, and the index excluding food and energy up 2.5 percent, after 3.3 percent. The gross domestic purchases price index rose 3.0 percent versus 5.6 percent in Q2, and real final sales to private domestic purchasers increased 4.9 percent. AlphaGen read: quarterly price pressure slowed sharply from Q2 even as private demand stayed firm.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-11T15:38:35Z"
+    },
+    {
+      "id": "2026-11-11-gdp-q3-spr-sales",
+      "time": "2026-11-11T16:08:35Z",
+      "tag": "ENERGY",
+      "headline": "BEA: lower Strategic Petroleum Reserve sales added to Q3 federal consumption",
+      "take": "BEA said the Q3 pattern of nondefense federal spending primarily reflected crude oil sales from the Strategic Petroleum Reserve, which were smaller than in the second quarter and so raised government consumption expenditures. BEA noted the oil sold is reflected in other GDP components, so there is no direct effect on GDP. AlphaGen read: an energy-policy accounting detail that explains part of the government contribution to Q3 growth.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-11T15:38:35Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-core-goods-services",
+      "time": "2026-11-11T16:19:35Z",
+      "tag": "MACRO",
+      "headline": "CPI core goods +0.2%, services less energy +0.3% in October",
+      "take": "BLS reported commodities less food and energy rose 0.2 percent in October after 0.3 percent in September, while services less energy services rose 0.3 percent after 0.4 percent. New vehicles rose 0.2 percent and apparel 0.1 percent, while used cars and trucks fell 1.2 percent. AlphaGen read: the 0.3 percent core CPI gain in October was split between modest goods and services increases.",
+      "source_name": "BLS, Consumer Price Index",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T15:38:35Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-electricity-gas",
+      "time": "2026-11-11T16:30:35Z",
+      "tag": "ENERGY",
+      "headline": "CPI electricity +0.9% in October; utility gas service -0.8%",
+      "take": "BLS reported the electricity index rose 0.9 percent in October after 0.2 percent in September, while utility (piped) gas service fell 0.8 percent after a 0.3 percent decline. Energy services overall rose 0.6 percent, and the gasoline index rose 1.0 percent. AlphaGen read: household power bills moved higher in October while natural gas service costs eased.",
+      "source_name": "BLS, Consumer Price Index",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T15:38:35Z"
+    },
     {
       "id": "2026-11-11-trade-sept-imports-computers",
       "time": "2026-11-11T14:41:45Z",
@@ -5310,61 +5360,6 @@
       "source_name": "HBT Financial Q3 2026 results release (GlobeNewswire, Oct. 26, 2026)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387987/0/en/hbt-financial-inc-announces-third-quarter-2026-financial-results.html",
       "checked": "2026-10-26T11:52:07Z"
-    },
-    {
-      "id": "2026-10-26-amkor-q3-due",
-      "time": "2026-10-26T12:37:07Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:AMKR",
-      "headline": "Amkor to report Q3 results after Nasdaq close today; call at 5 p.m. ET",
-      "take": "Amkor Technology said it will issue third-quarter 2026 results after the close of trading on Monday, Oct. 26, with a conference call and webcast at 5 p.m. ET. The company's announcement was issued Oct. 5. Figures will be added to the Wire once the release is out.",
-      "source_name": "Amkor Technology announcement of Q3 2026 results date (Nasdaq, Oct. 5, 2026)",
-      "source_url": "https://www.nasdaq.com/press-release/amkor-technology-announce-third-quarter-2026-financial-results-october-26-2026-2026",
-      "checked": "2026-10-26T11:52:07Z"
-    },
-    {
-      "id": "2026-10-25-rci-q3",
-      "time": "2026-10-26T02:53:18Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:RCI",
-      "headline": "Rogers Q3 revenue C$5,443M, up 2%; adjusted EBITDA C$2,535M, up 1%",
-      "take": "Rogers reported Q3 2026 total revenue of C$5,443M versus C$5,348M a year earlier, adjusted EBITDA of C$2,535M versus C$2,515M, and free cash flow of C$1,370M versus C$829M. Net income was C$495M versus C$5,768M, with the comparison reflecting a $5 billion non-cash gain on its MLSE stake in Q3 2025. The cash-flow rebound outpaced a flat EBITDA line, which is the part of the quarter worth watching.",
-      "source_name": "Rogers Communications Q3 2026 results release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
-      "checked": "2026-10-26T02:45:18Z"
-    },
-    {
-      "id": "2026-10-25-rci-eps-dividend",
-      "time": "2026-10-26T03:01:18Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:RCI",
-      "headline": "Rogers Q3 diluted EPS C$0.88 vs C$10.54; adjusted C$1.29 vs C$1.37",
-      "take": "Rogers' Q3 diluted EPS attributable to shareholders was C$0.88 versus C$10.54 a year earlier; adjusted diluted EPS was C$1.29 versus C$1.37. The company declared a C$0.50 per share dividend on Oct. 22 and reaffirmed its 2026 outlook. Adjusted EPS slipped while the reported swing was driven by last year's one-time gain.",
-      "source_name": "Rogers Communications Q3 2026 results release (GlobeNewswire, Oct. 23, 2026)",
-      "source_url": "https://globenewswire.com/news-release/2026/10/23/3387162/0/en/rogers-communications-reports-third-quarter-2026-results.html",
-      "checked": "2026-10-26T02:45:18Z"
-    },
-    {
-      "id": "2026-10-25-enva-q3",
-      "time": "2026-10-26T03:09:18Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:ENVA",
-      "headline": "Enova Q3 revenue $1,009.2M, up 26%; diluted EPS $4.06 vs $3.03",
-      "take": "Enova reported Q3 2026 total revenue of $1,009,172K versus $802,678K a year earlier, net income of $107,304K versus $80,314K, and adjusted EPS of $4.48 versus $3.36. The company repurchased $46 million of stock in the quarter and began Q4 with $252 million of repurchase capacity. Revenue and EPS grew at a similar pace, which points to growth driven by balance-sheet expansion rather than margin.",
-      "source_name": "Enova Q3 2026 results release (PR Newswire, Oct. 22, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
-      "checked": "2026-10-26T02:45:18Z"
-    },
-    {
-      "id": "2026-10-25-enva-receivables",
-      "time": "2026-10-26T03:17:18Z",
-      "tag": "CREDIT",
-      "ticker": "NYSE:ENVA",
-      "headline": "Enova combined receivables $5.90B, up 30%; Q3 originations $2.57B, up 31%",
-      "take": "Enova's combined loan and finance receivable balance, including accrued fees and interest, was $5,897,876K at Sept. 30, 2026 versus $4,521,110K a year earlier. Q3 originations and purchases were $2,567,480K versus $1,961,439K. Receivables and originations both grew about 30%, so the loan book is expanding broadly in line with revenue.",
-      "source_name": "Enova Q3 2026 results release (PR Newswire, Oct. 22, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/enova-reports-third-quarter-2026-results-302917328.html",
-      "checked": "2026-10-26T02:45:18Z"
     }
   ]
 }
