@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-11T16:44:38Z",
+ "updated": "2026-11-11T17:39:51Z",
  "items": [
+  {
+   "id": "2026-11-11-tt-q2-fy27-results",
+   "time": "2026-11-11T17:39:51Z",
+   "tag": "EARNINGS",
+   "headline": "Take-Two fiscal Q2 revenue $1.50B vs $1.77B; net loss $54.0M, $0.29 a share",
+   "take": "Take-Two's release for the three months ended Sept. 30, 2026 reported GAAP net revenue of $1,497.0 million versus $1,773.8 million a year earlier (-15.6% by AlphaGen's calculation) and a GAAP net loss of $54.0 million, or $0.29 per share, versus $0.73 per share. Total Net Bookings decreased 18% to $1.60 billion from $1.96 billion. AlphaGen read: the quarter's bookings and revenue both fell year over year, so the company's fiscal outlook rests on what comes after the quarter.",
+   "source_name": "Take-Two Interactive Q2 FY2027 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm",
+   "ticker": "NASDAQ:TTWO",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-tt-fy27-outlook-gta",
+   "time": "2026-11-11T17:49:51Z",
+   "tag": "EARNINGS",
+   "headline": "Take-Two reiterates $8.0-$8.2B fiscal 2027 Net Bookings; Q3 guide $3.35-$3.50B",
+   "take": "Take-Two's release reiterated an outlook for fiscal 2027 Net Bookings of $8.0 billion to $8.2 billion and guided fiscal Q3 (quarter ending Dec. 31, 2026) Net Bookings to $3.35 billion to $3.50 billion and total net revenue to $3.27 billion to $3.42 billion. Its product table lists Grand Theft Auto VI for Nov. 19, 2026 on PS5 and Xbox Series X|S. AlphaGen read: the guidance step-up from the Sept. quarter's $1.60 billion of bookings to the Dec. quarter range is the figure to watch.",
+   "source_name": "Take-Two Interactive Q2 FY2027 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm",
+   "ticker": "NASDAQ:TTWO",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-oxy-q3-eps-debt",
+   "time": "2026-11-11T17:59:51Z",
+   "tag": "EARNINGS",
+   "headline": "Occidental Q3 EPS $1.61 vs $0.65; principal debt cut $1.8B to $10.0B",
+   "take": "Occidental's third-quarter 2026 release, dated Nov. 9, reported diluted EPS of $1.61 versus $0.65 in Q3 2025 and net income attributable to common stockholders of $1,637 million versus $661 million. Adjusted EPS from continuing operations was $1.91 versus $0.51. The company said it reduced principal debt by $1.8 billion to $10.0 billion. AlphaGen read: both reported and adjusted earnings rose year over year while balance-sheet debt reduction continued.",
+   "source_name": "Occidental Q3 2026 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000797468/000162828026072193/oxyex9919-30x26earningsrel.htm",
+   "ticker": "NYSE:OXY",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-oxy-q3-cashflow-production",
+   "time": "2026-11-11T18:09:51Z",
+   "tag": "ENERGY",
+   "headline": "Occidental: Q3 operating cash flow $4.1B, production 1,427 Mboed, WTI avg $85.79",
+   "take": "Occidental reported $4.1 billion of operating cash flow from continuing operations and $2.8 billion of free cash flow before working capital in Q3 2026, with $1.3 billion of capital spending. Global production was 1,427 Mboed, and the release gives a Q3 average WTI price of $85.79 per barrel. AlphaGen read: the release ties the quarter's cash generation to a Q3 WTI average well above $80.",
+   "source_name": "Occidental Q3 2026 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000797468/000162828026072193/oxyex9919-30x26earningsrel.htm",
+   "ticker": "NYSE:OXY",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-lcid-q3-revenue-cash",
+   "time": "2026-11-11T18:19:51Z",
+   "tag": "EARNINGS",
+   "headline": "Lucid Q3 revenue $350.3M, up 4%; free cash flow consumption down 30% to $1.04B",
+   "take": "Lucid's Q3 2026 release reported revenue of $350.3 million versus $336.6 million a year earlier, up 4%. Free cash flow consumption fell 30% sequentially to $1.04 billion, and total liquidity was $2.0 billion, or $3.75 billion pro forma for a $1.75 billion DDTL increase with PIF. The company said that liquidity is expected to fund operations and key investments into Q4 2027. AlphaGen read: revenue grew modestly while the release's focus is on cash burn and runway.",
+   "source_name": "Lucid Group Q3 2026 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001811210/000162828026072158/q3fy26ex991earnings.htm",
+   "ticker": "NASDAQ:LCID",
+   "checked": "2026-11-11T17:39:51Z"
+  },
   {
    "id": "2026-11-11-bea-q3-consumer-spending-detail",
    "time": "2026-11-11T16:46:38Z",
@@ -5302,60 +5357,6 @@
    "source_name": "Acuity Inc. press release (Oct. 26, 2026)",
    "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388087/28689/en/acuity-announces-agreement-to-acquire-parameter-technologies.html",
    "checked": "2026-10-26T12:52:35Z"
-  },
-  {
-   "id": "2026-10-26-lkfn-q3",
-   "time": "2026-10-26T13:16:35Z",
-   "tag": "EARNINGS",
-   "ticker": "NASDAQ:LKFN",
-   "headline": "Lakeland Financial Q3 diluted EPS $1.14 vs $1.03; net income $28.9M",
-   "take": "Lakeland Financial reported third-quarter 2026 net income of $28.9 million versus $26.4 million in Q3 2025, and diluted EPS of $1.14 versus $1.03, up 11% as the company states. Net interest margin was 3.58% versus 3.50% a year earlier. Margin expansion alongside loan growth is the combination that drives bank earnings per share.",
-   "source_name": "Lakeland Financial Corp. Q3 2026 results release (Oct. 26, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387940/8543/en/lakeland-financial-reports-record-third-quarter-performance-with-loan-growth-of-8-diluted-earnings-per-share-increases-by-11.html",
-   "checked": "2026-10-26T12:52:35Z"
-  },
-  {
-   "id": "2026-10-26-lkfn-loans-capital",
-   "time": "2026-10-26T13:28:35Z",
-   "tag": "CREDIT",
-   "ticker": "NASDAQ:LKFN",
-   "headline": "Lakeland loans up $431.4M, or 8%, year over year to $5.68B; CET1 14.46%",
-   "take": "Lakeland said total loans rose $431.4 million, or 8%, from $5.25 billion to $5.68 billion between Sept. 30, 2025 and Sept. 30, 2026. Total assets were about $7.21 billion, with a total capital ratio of 15.56%, CET1 of 14.46% and Tier 1 leverage of 12.36%, which the company noted are preliminary until the FR Y-9C is filed. Capital ratios at that level leave room to keep lending.",
-   "source_name": "Lakeland Financial Corp. Q3 2026 results release (Oct. 26, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3387940/8543/en/lakeland-financial-reports-record-third-quarter-performance-with-loan-growth-of-8-diluted-earnings-per-share-increases-by-11.html",
-   "checked": "2026-10-26T12:52:35Z"
-  },
-  {
-   "id": "2026-10-26-czwi-q3",
-   "time": "2026-10-26T13:38:35Z",
-   "tag": "EARNINGS",
-   "ticker": "NASDAQ:CZWI",
-   "headline": "Citizens Community Bancorp Q3 EPS $0.56 vs $0.37; dividend raised 14% to $0.12",
-   "take": "Citizens Community Bancorp reported third-quarter 2026 net income of $5.4 million and diluted EPS of $0.56 versus $0.37 a year earlier. Net interest margin was 3.37%, up from 3.22% in the second quarter. The board raised the quarterly dividend 14% to $0.12 per share from $0.105, payable Nov. 20 to holders of record Nov. 6.",
-   "source_name": "Citizens Community Bancorp Q3 2026 results release (Oct. 26, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388086/0/en/citizens-community-bancorp-inc-reports-third-quarter-2026-earnings-of-0-56-per-share-board-approves-14-increase-in-quarterly-dividend-to-0-12-per-share.html",
-   "checked": "2026-10-26T12:52:35Z"
-  },
-  {
-   "id": "2026-10-26-ust-auction-week",
-   "time": "2026-10-26T13:42:35Z",
-   "tag": "DEBT",
-   "headline": "Treasury tentative schedule: 2-year note today, 5-year Oct. 27, 7-year Oct. 29",
-   "take": "Treasury's tentative auction schedule lists a 2-year note auction today, a 5-year note on Tuesday Oct. 27, a 2-year FRN on Wednesday Oct. 28 and a 7-year note on Thursday Oct. 29, with the three notes and the FRN settling Nov. 2. Weekly bill auctions run alongside, including 13- and 26-week bills today. The schedule is marked tentative, so sizes come only with the official announcements.",
-   "source_name": "U.S. Treasury Tentative Auction Schedule",
-   "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
-   "checked": "2026-10-26T12:52:35Z"
-  },
-  {
-   "id": "2026-10-26-eqt-range-merger",
-   "time": "2026-10-26T11:52:07Z",
-   "tag": "DEALS",
-   "ticker": "NYSE:EQT",
-   "headline": "EQT to acquire Range Resources in all-stock deal; 0.987 EQT shares per Range share",
-   "take": "EQT said each Range common share will be exchanged for 0.987 EQT shares, leaving EQT holders with about 73% and Range holders about 27% of the combined company, which it put at a pro forma enterprise value over $50 billion. EQT expects $325 million of base annual synergies within two years, with a pathway to more than $600 million long term, and closing in the first quarter of 2027. The release states no dollar purchase price, so the $50 billion figure describes combined size, not deal value.",
-   "source_name": "EQT Corp. Form 8-K, Exhibit 99.1 press release (Oct. 26, 2026)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000033213/000121390026112242/ea030960101ex99-1.htm",
-   "checked": "2026-10-26T11:52:07Z"
   }
  ]
 }

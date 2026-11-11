@@ -1,65 +1,101 @@
 {
-  "updated": "2026-11-11T14:39:45Z",
-  "items": [
-    {
-      "id": "2026-11-11-COST",
-      "time": "2026-11-11T14:42:45Z",
-      "ticker": "COST",
-      "name": "Costco",
-      "headline": "Declares $30 special cash dividend and reauthorizes $4B buyback",
-      "catalyst": "Special dividend of $30 per share, about $13.3B in total, payable Dec. 4 to holders of record Nov. 24.",
-      "thesis": "The board also reauthorized a repurchase program of up to $4 billion expiring in November 2030, replacing the 2023 program under which $3.1 billion had been purchased.",
-      "source_name": "Costco Form 8-K Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
-      "checked": "2026-11-11T14:39:45Z"
-    },
-    {
-      "id": "2026-11-11-STLD",
-      "time": "2026-11-11T14:43:45Z",
-      "ticker": "STLD",
-      "name": "Steel Dynamics",
-      "headline": "Adds $3.0B share repurchase authorization",
-      "catalyst": "Additional $3.0B buyback, effective immediately; quarterly dividend of $0.53 per share.",
-      "thesis": "The new program is additive to the prior $1.5 billion program, which had $216 million remaining on Sept. 30, 2026. The company says it has repurchased $8.2 billion of stock since 2017.",
-      "source_name": "Steel Dynamics Form 8-K Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
-      "checked": "2026-11-11T14:39:45Z"
-    },
-    {
-      "id": "2026-11-11-ELV",
-      "time": "2026-11-11T14:44:45Z",
-      "ticker": "ELV",
-      "name": "Elevance Health",
-      "headline": "Reaffirms 2026 earnings guidance ahead of investor meetings",
-      "catalyst": "Full-year 2026 shareholders' earnings guided to at least $22.00 per diluted share; adjusted at least $29.00.",
-      "thesis": "The 8-K says the $22.00 figure includes approximately $7.00 per diluted share of net unfavorable items. Benefit expense ratio guidance is 90.2% plus or minus 50 basis points.",
-      "source_name": "Elevance Health Form 8-K, Item 7.01 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000074/0001156039-26-000074-index.htm",
-      "checked": "2026-11-11T14:39:45Z"
-    },
-    {
-      "id": "2026-11-11-IVZ",
-      "time": "2026-11-11T14:45:45Z",
-      "ticker": "IVZ",
-      "name": "Invesco",
-      "headline": "Reports October assets under management of $2,453.5B",
-      "catalyst": "Preliminary AUM $2,453.5B, down 3.3% from the prior month-end; net long-term outflows $1.0B; money market net outflows $32.9B.",
-      "thesis": "Unfavorable market returns decreased AUM by $51 billion. ETFs and index strategies stood at $771.0 billion and QQQ at $463.8 billion.",
-      "source_name": "Invesco Form 8-K Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000424/0000914208-26-000424-index.htm",
-      "checked": "2026-11-11T14:39:45Z"
-    },
-    {
-      "id": "2026-11-11-ASTS",
-      "time": "2026-11-11T14:46:45Z",
-      "ticker": "ASTS",
-      "name": "AST SpaceMobile",
-      "headline": "Forms Rakuten AST joint venture for Japan satellite network",
-      "catalyst": "Venture expected to receive up to 148 billion yen (approx. $1 billion) over about three years under Japan's J-LEO project.",
-      "thesis": "Rakuten AST was agreed on Nov. 6 (Japan time) to build a direct-to-device LEO network; AST SpaceMobile will supply satellites and domestic operations are targeted by the end of March 2029.",
-      "source_name": "AST SpaceMobile Form 8-K Exhibit 99.1 (SEC)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226050865/ex99-1.htm",
-      "checked": "2026-11-11T14:39:45Z"
-    }
-  ]
+ "updated": "2026-11-11T17:39:51Z",
+ "items": [
+  {
+   "id": "2026-11-11-TTWO",
+   "time": "2026-11-11T17:39:51Z",
+   "ticker": "TTWO",
+   "name": "Take-Two",
+   "headline": "Reiterates $8.0-$8.2B fiscal 2027 Net Bookings outlook as Grand Theft Auto VI launch nears",
+   "catalyst": "Fiscal Q2 release (Nov. 9): net revenue $1.50B vs $1.77B; Net Bookings down 18% to $1.60B.",
+   "thesis": "The release lists Grand Theft Auto VI for Nov. 19, 2026 and guides fiscal Q3 Net Bookings to $3.35B-$3.50B.",
+   "source_name": "Take-Two Q2 FY2027 release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-OXY",
+   "time": "2026-11-11T17:39:51Z",
+   "ticker": "OXY",
+   "name": "Occidental Petroleum",
+   "headline": "Q3 EPS rises and principal debt falls to $10.0B",
+   "catalyst": "Q3 2026 release (Nov. 9): diluted EPS $1.61 vs $0.65.",
+   "thesis": "The company said it reduced principal debt by $1.8 billion to $10.0 billion and generated $4.1 billion of operating cash flow from continuing operations.",
+   "source_name": "Occidental Q3 2026 release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000797468/000162828026072193/oxyex9919-30x26earningsrel.htm",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-LCID",
+   "time": "2026-11-11T17:39:51Z",
+   "ticker": "LCID",
+   "name": "Lucid Group",
+   "headline": "Q3 revenue up 4% as free cash flow consumption falls 30% sequentially",
+   "catalyst": "Q3 2026 release (Nov. 9): revenue $350.3M vs $336.6M.",
+   "thesis": "Free cash flow consumption was $1.04 billion and total liquidity $2.0 billion ($3.75 billion pro forma for a $1.75 billion DDTL increase with PIF).",
+   "source_name": "Lucid Q3 2026 release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001811210/000162828026072158/q3fy26ex991earnings.htm",
+   "checked": "2026-11-11T17:39:51Z"
+  },
+  {
+   "id": "2026-11-11-COST",
+   "time": "2026-11-11T14:42:45Z",
+   "ticker": "COST",
+   "name": "Costco",
+   "headline": "Declares $30 special cash dividend and reauthorizes $4B buyback",
+   "catalyst": "Special dividend of $30 per share, about $13.3B in total, payable Dec. 4 to holders of record Nov. 24.",
+   "thesis": "The board also reauthorized a repurchase program of up to $4 billion expiring in November 2030, replacing the 2023 program under which $3.1 billion had been purchased.",
+   "source_name": "Costco Form 8-K Exhibit 99.1 (SEC)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
+   "checked": "2026-11-11T14:39:45Z"
+  },
+  {
+   "id": "2026-11-11-STLD",
+   "time": "2026-11-11T14:43:45Z",
+   "ticker": "STLD",
+   "name": "Steel Dynamics",
+   "headline": "Adds $3.0B share repurchase authorization",
+   "catalyst": "Additional $3.0B buyback, effective immediately; quarterly dividend of $0.53 per share.",
+   "thesis": "The new program is additive to the prior $1.5 billion program, which had $216 million remaining on Sept. 30, 2026. The company says it has repurchased $8.2 billion of stock since 2017.",
+   "source_name": "Steel Dynamics Form 8-K Exhibit 99.1 (SEC)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
+   "checked": "2026-11-11T14:39:45Z"
+  },
+  {
+   "id": "2026-11-11-ELV",
+   "time": "2026-11-11T14:44:45Z",
+   "ticker": "ELV",
+   "name": "Elevance Health",
+   "headline": "Reaffirms 2026 earnings guidance ahead of investor meetings",
+   "catalyst": "Full-year 2026 shareholders' earnings guided to at least $22.00 per diluted share; adjusted at least $29.00.",
+   "thesis": "The 8-K says the $22.00 figure includes approximately $7.00 per diluted share of net unfavorable items. Benefit expense ratio guidance is 90.2% plus or minus 50 basis points.",
+   "source_name": "Elevance Health Form 8-K, Item 7.01 (SEC)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000074/0001156039-26-000074-index.htm",
+   "checked": "2026-11-11T14:39:45Z"
+  },
+  {
+   "id": "2026-11-11-IVZ",
+   "time": "2026-11-11T14:45:45Z",
+   "ticker": "IVZ",
+   "name": "Invesco",
+   "headline": "Reports October assets under management of $2,453.5B",
+   "catalyst": "Preliminary AUM $2,453.5B, down 3.3% from the prior month-end; net long-term outflows $1.0B; money market net outflows $32.9B.",
+   "thesis": "Unfavorable market returns decreased AUM by $51 billion. ETFs and index strategies stood at $771.0 billion and QQQ at $463.8 billion.",
+   "source_name": "Invesco Form 8-K Exhibit 99.1 (SEC)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000424/0000914208-26-000424-index.htm",
+   "checked": "2026-11-11T14:39:45Z"
+  },
+  {
+   "id": "2026-11-11-ASTS",
+   "time": "2026-11-11T14:46:45Z",
+   "ticker": "ASTS",
+   "name": "AST SpaceMobile",
+   "headline": "Forms Rakuten AST joint venture for Japan satellite network",
+   "catalyst": "Venture expected to receive up to 148 billion yen (approx. $1 billion) over about three years under Japan's J-LEO project.",
+   "thesis": "Rakuten AST was agreed on Nov. 6 (Japan time) to build a direct-to-device LEO network; AST SpaceMobile will supply satellites and domestic operations are targeted by the end of March 2029.",
+   "source_name": "AST SpaceMobile Form 8-K Exhibit 99.1 (SEC)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226050865/ex99-1.htm",
+   "checked": "2026-11-11T14:39:45Z"
+  }
+ ]
 }
