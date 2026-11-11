@@ -1,97 +1,7 @@
 {
-  "updated": "2026-11-05T13:50:00Z",
+  "updated": "2026-11-11T13:38:35Z",
   "note": "Times are ET. Blank time means the agency schedule lists no time.",
   "items": [
-    {
-      "date": "2026-10-29",
-      "time": "08:30",
-      "name": "GDP, Advance Estimate (Q3)",
-      "agency": "BEA",
-      "category": "Growth",
-      "importance": 3,
-      "source_url": "https://www.bea.gov/news/schedule/full",
-      "id": "2026-10-29-gdpadvanceestimateq3"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "08:30",
-      "name": "Personal Income & Outlays incl. PCE (Sep)",
-      "agency": "BEA",
-      "category": "Inflation",
-      "importance": 3,
-      "source_url": "https://www.bea.gov/news/schedule/full",
-      "id": "2026-10-29-personalincomeoutlaysinclpcese"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "10:00",
-      "name": "Consumer Expenditures (Annual 2025)",
-      "agency": "BLS",
-      "category": "Growth",
-      "importance": 1,
-      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-      "id": "2026-10-29-consumerexpendituresannual2025"
-    },
-    {
-      "id": "2026-10-29-ecb-decision",
-      "date": "2026-10-29",
-      "time": "",
-      "name": "ECB monetary policy decision",
-      "agency": "ECB",
-      "category": "Fed",
-      "importance": 2,
-      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "08:30",
-      "name": "Employment Cost Index (Q3)",
-      "agency": "BLS",
-      "category": "Labor",
-      "importance": 2,
-      "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-      "id": "2026-10-30-employmentcostindexq3"
-    },
-    {
-      "id": "2026-10-30-boj-decision",
-      "date": "2026-10-30",
-      "time": "",
-      "name": "Bank of Japan policy decision (with Outlook Report)",
-      "agency": "Bank of Japan",
-      "category": "Fed",
-      "importance": 2,
-      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
-    },
-    {
-      "date": "2026-11-02",
-      "time": "10:00",
-      "name": "Construction Spending (Sep)",
-      "agency": "Census",
-      "category": "Growth",
-      "importance": 1,
-      "source_url": "https://www.census.gov/construction/c30/release.html",
-      "id": "2026-11-02-constructionspendingsep"
-    },
-    {
-      "date": "2026-11-03",
-      "time": "10:00",
-      "name": "JOLTS Job Openings (Sep)",
-      "agency": "BLS",
-      "category": "Labor",
-      "importance": 2,
-      "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-      "id": "2026-11-03-joltsjobopeningssep"
-    },
-    {
-      "id": "2026-11-03-factory-orders",
-      "date": "2026-11-03",
-      "time": "10:00",
-      "name": "Factory Orders, full report (Sep)",
-      "agency": "Census",
-      "category": "Growth",
-      "importance": 1,
-      "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html"
-    },
     {
       "date": "2026-11-04",
       "time": "08:30",
@@ -213,6 +123,16 @@
       "id": "2026-11-18-housingstartspermitsoct"
     },
     {
+      "id": "2026-11-18-fomc-minutes",
+      "date": "2026-11-18",
+      "time": "14:00",
+      "name": "FOMC minutes (Oct. 27-28 meeting)",
+      "agency": "Federal Reserve",
+      "category": "Fed",
+      "importance": 3,
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
       "date": "2026-11-20",
       "time": "10:00",
       "name": "State Employment & Unemployment (Oct)",
@@ -321,6 +241,16 @@
       "importance": 3,
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "id": "2026-12-09-fomcratedecisionwithprojection"
+    },
+    {
+      "id": "2026-12-10-cpi-nov",
+      "date": "2026-12-10",
+      "time": "08:30",
+      "name": "Consumer Price Index (Nov)",
+      "agency": "BLS",
+      "category": "Inflation",
+      "importance": 3,
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
     },
     {
       "id": "2026-12-16-industrial-production",

@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-11T12:39:31Z",
+  "updated": "2026-11-11T13:38:35Z",
   "items": [
+    {
+      "id": "2026-11-11-jobs-manufacturing-oct",
+      "time": "2026-11-11T13:41:35Z",
+      "tag": "MACRO",
+      "headline": "Manufacturing jobs +19,000 in October, +101,000 since December 2025 low",
+      "take": "BLS reported manufacturing employment continued to trend up in October (+19,000) and has increased by 101,000 since a recent low in December 2025, with gains in computer and electronic products (+7,000), machinery (+4,000) and primary metals (+4,000). The manufacturing average workweek was unchanged at 40.5 hours and overtime edged up 0.1 hour to 3.1 hours. AlphaGen read: manufacturing has added jobs in recent months, a counterpoint to the 165,000 total gain led by professional services.",
+      "source_name": "BLS, Employment Situation",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-11T13:38:35Z"
+    },
+    {
+      "id": "2026-11-11-jobs-unemp-groups-oct",
+      "time": "2026-11-11T13:50:35Z",
+      "tag": "MACRO",
+      "headline": "Unemployment rate holds 4.1%, in 4.1%-4.3% range since March; teens at 13.9%",
+      "take": "BLS said the unemployment rate has remained in a narrow range of 4.1% to 4.3% since March. In October, rates showed little or no change for adult men (3.9%), adult women (3.6%), teenagers (13.9%), and people who are White (3.7%), Black (6.6%), Asian (2.8%) or Hispanic (4.7%). AlphaGen read: the stability of the headline rate masks wide gaps between groups.",
+      "source_name": "BLS, Employment Situation",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-11T13:38:35Z"
+    },
+    {
+      "id": "2026-11-11-jobs-marginal-attached-oct",
+      "time": "2026-11-11T13:59:35Z",
+      "tag": "MACRO",
+      "headline": "6.0M outside labor force want a job; discouraged workers 448,000",
+      "take": "BLS reported the number of people not in the labor force who currently want a job changed little at 6.0 million in October. Of those, the marginally attached were little changed at 1.6 million, and discouraged workers, a subset who believed no jobs were available for them, were little changed at 448,000. AlphaGen read: these groups sit outside the 4.1% unemployment rate but show slack that the headline does not count.",
+      "source_name": "BLS, Employment Situation",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-11T13:38:35Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-food-detail",
+      "time": "2026-11-11T14:08:35Z",
+      "tag": "MACRO",
+      "headline": "CPI food: beef +0.9%, snacks +1.0% in October; beverages -0.3%",
+      "take": "BLS reported the food index rose 0.5% in October after being unchanged in September. Within groceries, other food at home rose 0.7% as snacks rose 1.0%, meats, poultry, fish and eggs rose 0.5% with beef up 0.9%, and fruits and vegetables and dairy each rose 0.6%, while nonalcoholic beverages fell 0.3% and cereals and bakery products were unchanged. Full service meals rose 0.7% and limited service meals 0.4%. AlphaGen read: four of the six major grocery groups rose in October, per BLS, while one fell.",
+      "source_name": "BLS, Consumer Price Index",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T13:38:35Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-medical",
+      "time": "2026-11-11T14:17:35Z",
+      "tag": "MACRO",
+      "headline": "CPI medical care +0.3% in October; hospital services +0.8%",
+      "take": "BLS reported the medical care index rose 0.3% in October after 0.1% in September. Hospital services rose 0.8%, physicians' services 0.4% and prescription drugs 0.3%. AlphaGen read: hospital services rose the most of the three medical components BLS listed.",
+      "source_name": "BLS, Consumer Price Index",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T13:38:35Z"
+    },
+    {
+      "id": "2026-11-11-cpi-oct-index-levels",
+      "time": "2026-11-11T14:26:35Z",
+      "tag": "MACRO",
+      "headline": "CPI-U index 337.511, CPI-W 331.147 in October; November CPI due Dec. 10",
+      "take": "BLS reported the CPI-U rose to an index level of 337.511 (1982-84=100), up 0.2% before seasonal adjustment, and the CPI-W rose to 331.147, up 0.1%. The chained CPI-U increased 0.2% not seasonally adjusted. BLS scheduled the November CPI for Thursday, December 10, 2026, at 8:30 a.m. ET.",
+      "source_name": "BLS, Consumer Price Index",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-11T13:38:35Z"
+    },
     {
       "id": "2026-11-11-jobs-parttime-oct",
       "time": "2026-11-11T12:41:31Z",
@@ -5306,66 +5366,6 @@
       "source_name": "Bank of Korea: Statistical Calendar",
       "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
       "checked": "2026-10-26T00:44:59Z"
-    },
-    {
-      "id": "2026-10-26-ecb-m3-aug-3-5",
-      "time": "2026-10-26T01:11:59Z",
-      "tag": "GLOBAL",
-      "headline": "Euro-area M3 growth 3.5% in August, up from 3.4% in July: ECB",
-      "take": "The ECB reported annual M3 growth of 3.5% in August 2026, up from 3.4% in July, while the narrower M1 aggregate grew 2.9%, down from 3.1%. The ECB's release calendar lists the September monetary developments for Oct. 27 at 10:00 CET. AlphaGen notes broad money growth and M1 moved in opposite directions in August.",
-      "source_name": "ECB: Monetary developments in the euro area, August 2026 (Sept. 25, 2026)",
-      "source_url": "https://www.ecb.europa.eu/press/stats/md/html/ecb.md2608~406f8d243d.en.html",
-      "checked": "2026-10-26T00:44:59Z"
-    },
-    {
-      "id": "2026-10-26-ecb-loans-aug-hh-nfc",
-      "time": "2026-10-26T01:22:59Z",
-      "tag": "CREDIT",
-      "headline": "Euro-area adjusted loans to firms grow 4.2% in August, down from 4.4%: ECB",
-      "take": "The ECB said adjusted loans to non-financial corporations grew 4.2% annually in August 2026, down from 4.4% in July, while adjusted loans to households grew 3.1%, unchanged from July. AlphaGen notes the corporate-lending slowdown came as the ECB's Governing Council prepares for its Oct. 28-29 meeting.",
-      "source_name": "ECB: Monetary developments in the euro area, August 2026 (Sept. 25, 2026)",
-      "source_url": "https://www.ecb.europa.eu/press/stats/md/html/ecb.md2608~406f8d243d.en.html",
-      "checked": "2026-10-26T00:44:59Z"
-    },
-    {
-      "id": "2026-10-26-boj-opinions-nov-10",
-      "time": "2026-10-26T01:33:59Z",
-      "tag": "GLOBAL",
-      "headline": "BoJ calendar: Outlook Report Oct. 30, Summary of Opinions Nov. 10, minutes Dec. 23",
-      "take": "The Bank of Japan's schedule lists its October Monetary Policy Meeting for Oct. 29-30, with the Outlook for Economic Activity and Prices released Oct. 30. The Summary of Opinions is due Nov. 10 and the minutes Dec. 23. AlphaGen notes the Nov. 10 summary is the first look at individual board views after the meeting.",
-      "source_name": "Bank of Japan: Monetary Policy Meetings schedule",
-      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
-      "checked": "2026-10-26T00:44:59Z"
-    },
-    {
-      "id": "2026-10-25-ea-ca-aug-9b",
-      "time": "2026-10-25T23:57:17Z",
-      "tag": "GLOBAL",
-      "headline": "Euro-area current account surplus €9B in August, down from €27B in July: ECB",
-      "take": "The ECB reported a seasonally and working-day adjusted euro-area current account surplus of €9 billion in August 2026, a decrease of €18 billion from €27 billion in July. Over the 12 months to August the surplus was €250 billion, or 1.5% of euro-area GDP, versus €290 billion (1.8%) a year earlier. AlphaGen notes the 12-month surplus has narrowed by €40 billion over the year.",
-      "source_name": "ECB press release: Euro area monthly balance of payments, August 2026 (Oct. 20, 2026; Banque de France copy)",
-      "source_url": "https://www.banque-france.fr/system/files/2026-10/ecb-press-release_20261020_Euro-area-monthly-balance-of-payments-August-2026.pdf",
-      "checked": "2026-10-25T23:55:17Z"
-    },
-    {
-      "id": "2026-10-25-ea-goods-services-12m",
-      "time": "2026-10-26T00:08:17Z",
-      "tag": "GLOBAL",
-      "headline": "Euro-area 12-month goods surplus €290B vs €320B a year earlier: ECB",
-      "take": "In the 12 months to August 2026 the euro-area goods surplus was €290 billion, down from €320 billion a year earlier, while the services surplus rose to €153 billion from €140 billion. The secondary income deficit widened to €207 billion from €179 billion. AlphaGen notes the services surplus gain offset only part of the goods decline.",
-      "source_name": "ECB press release: Euro area monthly balance of payments, August 2026 (Oct. 20, 2026; Banque de France copy)",
-      "source_url": "https://www.banque-france.fr/system/files/2026-10/ecb-press-release_20261020_Euro-area-monthly-balance-of-payments-August-2026.pdf",
-      "checked": "2026-10-25T23:55:17Z"
-    },
-    {
-      "id": "2026-10-25-ea-nonresident-debt-659b",
-      "time": "2026-10-26T00:19:17Z",
-      "tag": "GLOBAL",
-      "headline": "Non-residents' net buying of euro-area debt securities €659B over 12 months: ECB",
-      "take": "Non-residents' net purchases of euro-area debt securities were €659 billion in the 12 months to August 2026, up from €412 billion a year earlier, and their net purchases of euro-area equity were €446 billion, up from €419 billion. Euro-area residents' net direct investment in non-euro area assets rose to €424 billion from €211 billion. AlphaGen notes the debt-security inflow figure is the largest of the portfolio flows in the release.",
-      "source_name": "ECB press release: Euro area monthly balance of payments, August 2026 (Oct. 20, 2026; Banque de France copy)",
-      "source_url": "https://www.banque-france.fr/system/files/2026-10/ecb-press-release_20261020_Euro-area-monthly-balance-of-payments-August-2026.pdf",
-      "checked": "2026-10-25T23:55:17Z"
     }
   ]
 }
