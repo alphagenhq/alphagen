@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-11T19:43:53Z",
+ "updated": "2026-11-11T20:38:41Z",
  "items": [
+  {
+   "id": "2026-11-11-fed-balance-sheet-nov4",
+   "time": "2026-11-11T20:40:41Z",
+   "tag": "FED",
+   "headline": "Fed total assets $6.748T on Nov. 4, up $2.5B in a week",
+   "take": "Federal Reserve total assets were $6,748,145 million on Nov. 4, up from $6,745,635 million on Oct. 28 and $6,743,031 million on Sept. 30, per the Fed's weekly H.4.1 data on FRED. That is a $2.5 billion weekly rise and a $5.1 billion gain over five weeks. AlphaGen read: the balance sheet is essentially flat, with changes in the low billions.",
+   "source_name": "Federal Reserve Board via FRED (WALCL)",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-11T20:38:41Z"
+  },
+  {
+   "id": "2026-11-11-tga-nov4",
+   "time": "2026-11-11T20:51:41Z",
+   "tag": "DEBT",
+   "headline": "Treasury General Account $957.2B on Nov. 4, down $42.6B from Oct. 28",
+   "take": "The Treasury General Account at the Fed stood at $957,175 million on Nov. 4, down from $999,727 million on Oct. 28, a $42.6 billion drop, and above $880,253 million on Oct. 7, per FRED. AlphaGen read: the account swung by roughly $120 billion across October, a cash-management movement that interacts with bank reserves.",
+   "source_name": "Federal Reserve Board via FRED (WTREGEN)",
+   "source_url": "https://fred.stlouisfed.org/series/WTREGEN",
+   "checked": "2026-11-11T20:38:41Z"
+  },
+  {
+   "id": "2026-11-11-yuan-nov6",
+   "time": "2026-11-11T21:02:41Z",
+   "tag": "FX",
+   "headline": "Yuan at 6.6760 per dollar on Nov. 6, from 6.6538 on Oct. 30",
+   "take": "The Fed's H.10 series on FRED shows 6.6760 Chinese yuan per U.S. dollar on Nov. 6, up from 6.6538 on Oct. 30 and 6.6480 on Nov. 2. A higher figure means more yuan per dollar. AlphaGen read: the rate has stayed in a narrow range across the last week of data.",
+   "source_name": "Federal Reserve Board H.10 via FRED (DEXCHUS)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
+   "checked": "2026-11-11T20:38:41Z"
+  },
+  {
+   "id": "2026-11-11-broad-dollar-nov6",
+   "time": "2026-11-11T21:13:41Z",
+   "tag": "FX",
+   "headline": "Fed's broad dollar index 121.8803 on Nov. 6 vs 121.6656 on Oct. 30",
+   "take": "The Federal Reserve's nominal broad U.S. dollar index was 121.8803 on Nov. 6, up from 121.6656 on Oct. 30, a rise of 0.2147 index points, and above the 121.3702 reading on Nov. 2, per FRED. AlphaGen read: the trade-weighted measure moved within a range of about half an index point over the week.",
+   "source_name": "Federal Reserve Board via FRED (DTWEXBGS)",
+   "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+   "checked": "2026-11-11T20:38:41Z"
+  },
+  {
+   "id": "2026-11-11-dff-nov9",
+   "time": "2026-11-11T21:24:41Z",
+   "tag": "FED",
+   "headline": "Effective fed funds rate 3.88% every day Nov. 4-9; SOFR 3.88% Nov. 9",
+   "take": "The effective federal funds rate was 3.88% on each day from Nov. 4 through Nov. 9, per FRED, while the Secured Overnight Financing Rate was also 3.88% on Nov. 9, down from 3.95% on Nov. 2. AlphaGen read: overnight funding markets are tracking the policy rate closely, with no sign of strain in these readings.",
+   "source_name": "Federal Reserve Bank of New York and Board via FRED (DFF, SOFR)",
+   "source_url": "https://fred.stlouisfed.org/series/DFF",
+   "checked": "2026-11-11T20:38:41Z"
+  },
   {
    "id": "2026-11-11-ecb-pontes-settlement",
    "time": "2026-11-11T19:48:53Z",
@@ -5293,61 +5343,6 @@
    "source_name": "Bank of Hawaii Form 8-K Exhibit 99.1 (Oct. 26, 2026)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/0000046195/000004619526000062/ex991earningsrelease093026.htm",
    "checked": "2026-10-26T15:55:38Z"
-  },
-  {
-   "id": "2026-10-26-dea-q3",
-   "time": "2026-10-26T16:31:38Z",
-   "tag": "EARNINGS",
-   "ticker": "NYSE:DEA",
-   "headline": "Easterly Government Properties Q3 FFO $0.79/share vs $0.74; raises low end of 2026 guide",
-   "take": "Easterly Government Properties reported third-quarter 2026 total revenues of $93.6 million versus $86.2 million and fully diluted FFO per share of $0.79 versus $0.74. Core FFO per share was $0.78 versus $0.76, and the company raised the lower end of its 2026 Core FFO range to $3.08-$3.13 while introducing a 2027 range of $3.09-$3.17. The narrow guidance bands signal steady, lease-driven cash flow.",
-   "source_name": "Easterly Government Properties Form 8-K Exhibit 99.1 (Oct. 26, 2026)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001622194/000162219426000032/dea-ex99_1.htm",
-   "checked": "2026-10-26T15:55:38Z"
-  },
-  {
-   "id": "2026-10-26-med-q3",
-   "time": "2026-10-26T16:40:38Z",
-   "tag": "EARNINGS",
-   "ticker": "NYSE:MED",
-   "headline": "Medifast Q3 revenue $72.0M, down 19.4%; net loss $17.5M, or $1.57 per share",
-   "take": "Medifast reported third-quarter 2026 revenue of $72.0 million, down 19.4% from $89.4 million, and a net loss of $17.5 million, or $1.57 per share, versus a loss of $2.3 million, or $0.21 per share. Independent active earning coaches were 10,200 versus 19,500 a year earlier, and it guides fourth-quarter revenue of $55-$75 million. The halving of the coach base is the key driver behind the sales decline.",
-   "source_name": "Medifast Form 8-K earnings release (Oct. 26, 2026)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000910329/000162828026067151/medq32026earningsrelease.htm",
-   "checked": "2026-10-26T15:55:38Z"
-  },
-  {
-   "id": "2026-10-26-umios-high-liner",
-   "time": "2026-10-26T15:00:24Z",
-   "tag": "DEALS",
-   "ticker": "TSX:HLF",
-   "headline": "Umios to acquire High Liner Foods for C$27.00 per share in cash, about C$804M",
-   "take": "Umios Corporation agreed to acquire High Liner Foods for C$27.00 per share in cash, valuing the equity at approximately C$804 million, in a court-approved plan of arrangement. Completion is expected in January 2027, subject to approval by 75% of votes cast by High Liner shareholders, Competition Act (Canada) approval and U.S. Hart-Scott-Rodino clearance. Shareholders holding about 45.4% of shares have signed voting support agreements, which lowers the shareholder-vote hurdle.",
-   "source_name": "Umios press release (Oct. 26, 2026)",
-   "source_url": "https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919412.html",
-   "checked": "2026-10-26T14:58:24Z"
-  },
-  {
-   "id": "2026-10-26-umios-high-liner-financing",
-   "time": "2026-10-26T15:12:24Z",
-   "tag": "CREDIT",
-   "ticker": "TSX:HLF",
-   "headline": "Umios to fund High Liner purchase mainly with interest-bearing debt and cash on hand",
-   "take": "Umios said it will fund the C$804 million equity purchase of High Liner Foods mainly with interest-bearing debt and cash on hand. The release does not disclose an enterprise value or premium. The financing structure means the deal adds to Umios' borrowings rather than being paid in stock.",
-   "source_name": "Umios press release (Oct. 26, 2026)",
-   "source_url": "https://www.prnewswire.com/news-releases/umios-to-acquire-high-liner-foods-creating-a-vertically-integrated-global-protein-leader-302919412.html",
-   "checked": "2026-10-26T14:58:24Z"
-  },
-  {
-   "id": "2026-10-26-edvr-q3",
-   "time": "2026-10-26T15:24:24Z",
-   "tag": "EARNINGS",
-   "ticker": "OTCQX:EDVR",
-   "headline": "Endeavor Bancorp Q3 diluted EPS $0.44 vs $0.36 a year ago; net income $2.12M",
-   "take": "Endeavor Bancorp reported Q3 2026 net income of $2.12 million, or $0.44 per diluted share, versus $1.89 million ($0.40) in Q2 2026 and $1.73 million ($0.36) in Q3 2025. Net interest margin was 4.41%, unchanged from Q2 and up from 4.09% a year earlier. Per-share earnings rose 22% year over year.",
-   "source_name": "Endeavor Bancorp press release (Oct. 26, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388133/0/en/endeavor-bancorp-reports-record-net-income-of-2-1-million-for-the-third-quarter-of-2026-tangible-book-value-increases-to-15-46-and-nim-remains-strong-at-4-41.html",
-   "checked": "2026-10-26T14:58:24Z"
   }
  ]
 }
