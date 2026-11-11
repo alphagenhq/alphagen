@@ -1,6 +1,84 @@
 {
- "updated": "2026-11-11T17:39:51Z",
+ "updated": "2026-11-11T21:39:31Z",
  "items": [
+  {
+   "id": "2026-11-11-the-close",
+   "time": "2026-11-11T21:39:31Z",
+   "tag": "MACRO",
+   "series": "the-close",
+   "title": "The Close: Prices outran spending in September, and housing starts slipped",
+   "dek": "BEA's September data showed prices up 0.5% while real spending was nearly flat; FRED shows September factory output and retail sales up and housing starts down, with Bowman pointing to wider credit spreads.",
+   "key_points": [
+    "BEA (released Oct. 29): the September PCE price index rose 0.5% and the core index 0.3%; from a year earlier, 3.6% and 3.1%. Real PCE rose less than 0.1% and real disposable income fell 0.3%.",
+    "BEA's advance estimate put Q3 real GDP growth at 3.4% at an annual rate, after 2.2% in Q2; real final sales to private domestic purchasers rose 4.9%.",
+    "FRED data show September industrial production up 0.66% from August, advance retail and food services sales up 0.77%, and housing starts down 5.2% to a 1.221 million annual rate.",
+    "Fed Vice Chair for Supervision Bowman said Nov. 10 that corporate bond and mortgage rate spreads have widened; FRED's investment-grade spread was 0.91 percentage point on Nov. 9.",
+    "Ahead: October PPI on Nov. 13 at 8:30 a.m. ET; retail sales and industrial production on Nov. 17; housing starts and FOMC minutes on Nov. 18."
+   ],
+   "talking_points": [
+    "Is inflation still a problem? Yes, by BEA's yardstick. The September PCE price index rose 0.5% in the month and 3.6% from a year earlier, with the core index up 3.1% over 12 months. Q3's annualized PCE price gain of 2.1% was slower than Q2's 5.0%, so the quarterly pace has cooled even as the annual rate stays high. For an everyday investor, that mix argues for watching the next few monthly readings rather than any single one.",
+    "Are consumers still spending? In dollars, yes; after inflation, barely. BEA said September PCE rose $113.1 billion (0.5%) but real PCE rose less than 0.1%, and Census data on FRED show retail and food services sales up 0.77% to $745.0 billion. Because real disposable income fell 0.3% and the saving rate was 3.8%, households are not building much of a cushion, so it is sensible to keep an emergency fund in view.",
+    "Is housing weakening? Starts are. Census data on FRED show September housing starts at 1.221 million at an annual rate, down 5.2% from August and 7.4% from a year earlier, while permits were nearly unchanged at 1.398 million. With new-home supply at 8.4 months, buyers and builders are both working through a slow market, so anyone planning a purchase may find more room to negotiate than a year ago."
+   ],
+   "body": [
+    {
+     "h": "Prices and spending"
+    },
+    "BEA's September personal income and outlays report, released Oct. 29, showed the PCE price index up 0.5% from August, and up 0.3% excluding food and energy. From a year earlier the headline index rose 3.6% and the core index 3.1%. Current-dollar PCE rose $113.1 billion, or 0.5%, but real PCE rose $2.6 billion, less than 0.1%. Personal income rose $54.5 billion (0.2%), real disposable income fell 0.3%, and the personal saving rate was 3.8%.",
+    "The advance Q3 GDP estimate, also released Oct. 29, showed real GDP rising at a 3.4% annual rate after 2.2% in Q2. Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 4.9%. The PCE price index rose 2.1% at an annual rate in Q3, after 5.0% in Q2, and the core index 2.5%, after 3.3%. BEA's second estimate of Q3 GDP is scheduled for Nov. 25.",
+    {
+     "h": "Output, sales and housing"
+    },
+    "The latest September readings on FRED show the Federal Reserve's industrial production index at 103.9506, up 0.66% from August and 2.25% from September 2025. Advance retail and food services sales were $745,021 million, up 0.77% from August and 6.29% from a year earlier; those are dollar figures, not adjusted for prices. Housing starts fell to 1,221 thousand at an annual rate from 1,288 thousand in August, and permits were 1,398 thousand versus 1,403 thousand. The supply of new houses stood at 8.4 months, against 8.5 in August.",
+    {
+     "h": "Credit and the Fed"
+    },
+    "Fed Vice Chair for Supervision Bowman said in a Nov. 10 speech that progress on lowering inflation has stalled over the past two years or so, and that tariffs, energy and AI-related price pressures each accounted for roughly one-fourth of above-target core PCE inflation over the 12 months ending in September. She also said corporate bond and mortgage rate spreads have widened. FRED shows the ICE BofA US Corporate Index spread at 0.91 percentage point on Nov. 9, versus 0.89 on Oct. 29, while the CCC and lower high-yield spread was 13.11 points versus 13.25.",
+    {
+     "h": "The AlphaGen read"
+    },
+    "The September record is one of firm nominal activity and thin real gains: spending, retail sales and factory output rose, but prices absorbed most of the increase in household spending and housing starts fell. That combination helps explain why Fed speakers keep returning to inflation, and why the October data due over the next week matter for how that debate is framed.",
+    {
+     "h": "What's ahead"
+    },
+    "On the official calendar: October PPI on Friday, Nov. 13 at 8:30 a.m. ET; October advance retail sales at 8:30 a.m. and industrial production at 9:15 a.m. on Tuesday, Nov. 17; October housing starts and permits at 8:30 a.m. and the minutes of the Oct. 27-28 FOMC meeting at 2:00 p.m. on Wednesday, Nov. 18."
+   ],
+   "sources": [
+    {
+     "name": "BEA: Personal Income and Outlays, September 2026",
+     "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+    },
+    {
+     "name": "BEA: GDP (Advance Estimate), 3rd Quarter 2026",
+     "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+    },
+    {
+     "name": "Federal Reserve Board via FRED: Industrial Production (INDPRO)",
+     "url": "https://fred.stlouisfed.org/series/INDPRO"
+    },
+    {
+     "name": "U.S. Census Bureau via FRED: Retail and Food Services Sales (RSAFS)",
+     "url": "https://fred.stlouisfed.org/series/RSAFS"
+    },
+    {
+     "name": "U.S. Census Bureau via FRED: Housing Starts (HOUST)",
+     "url": "https://fred.stlouisfed.org/series/HOUST"
+    },
+    {
+     "name": "U.S. Census Bureau via FRED: New Houses Monthly Supply (MSACSR)",
+     "url": "https://fred.stlouisfed.org/series/MSACSR"
+    },
+    {
+     "name": "ICE Data Indices via FRED: Corporate spreads (BAMLC0A0CM, BAMLH0A3HYC)",
+     "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+    },
+    {
+     "name": "Federal Reserve Board: Bowman speech, Nov. 10",
+     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm"
+    }
+   ],
+   "checked": "2026-11-11T21:39:31Z"
+  },
   {
    "id": "2026-11-11-three-reports-three-questions",
    "time": "2026-11-11T17:39:51Z",
@@ -239,8 +317,8 @@
    "dek": "Apple and Palantir reported after the bell, Marvell agreed to buy Lumentum in an all-stock deal, and the week ahead brings the midterm elections and the October jobs report.",
    "key_points": [
     "Apple fiscal Q4 (ended Sept. 26): revenue $114.5 billion, up 12% from a year earlier; diluted EPS $2.10, up 14%, including a $0.05 benefit from tariff refunds; September-quarter records for revenue, iPhone, and EPS.",
-    "Palantir Q3: revenue $2.31 billion, up 96%; U.S. commercial revenue of $984 million exceeded U.S. government revenue of $953 million for the first time; 2026 revenue guidance raised to $8.530–$8.534 billion.",
-    "Marvell–Lumentum: all-stock merger at 4.500 Marvell shares per Lumentum share, an implied enterprise value of $115 billion; expected to close in the first half of 2028, subject to stockholder and regulatory approvals.",
+    "Palantir Q3: revenue $2.31 billion, up 96%; U.S. commercial revenue of $984 million exceeded U.S. government revenue of $953 million for the first time; 2026 revenue guidance raised to $8.530\u2013$8.534 billion.",
+    "Marvell\u2013Lumentum: all-stock merger at 4.500 Marvell shares per Lumentum share, an implied enterprise value of $115 billion; expected to close in the first half of 2028, subject to stockholder and regulatory approvals.",
     "Ahead: U.S. midterm elections Tuesday, Nov. 3; BLS JOLTS (Sept.) Tuesday at 10:00 a.m. ET; Bank of England decision Thursday; October jobs report Friday at 8:30 a.m. ET."
    ],
    "talking_points": [
@@ -398,7 +476,7 @@
     {
      "h": "Canada tightens"
     },
-    "The Bank of Canada raised its target for the overnight rate by 25 basis points to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%. In September it had held the rate at 2¼%. The Bank said CPI inflation has been around 3% since April and is expected to reach about 3½% by year-end, and that it projects CPI averaging 3% in 2027, a percentage point higher than its July projection. It attributed part of the persistence to high energy prices and the Middle East conflict. The release says there could be a need to raise the policy rate further, but that Governing Council agreed to proceed carefully. The next rate announcement is scheduled for December 9, and the next Monetary Policy Report for January 27, 2027.",
+    "The Bank of Canada raised its target for the overnight rate by 25 basis points to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%. In September it had held the rate at 2\u00bc%. The Bank said CPI inflation has been around 3% since April and is expected to reach about 3\u00bd% by year-end, and that it projects CPI averaging 3% in 2027, a percentage point higher than its July projection. It attributed part of the persistence to high energy prices and the Middle East conflict. The release says there could be a need to raise the policy rate further, but that Governing Council agreed to proceed carefully. The next rate announcement is scheduled for December 9, and the next Monetary Policy Report for January 27, 2027.",
     {
      "h": "Poultry margins and insurers"
     },
@@ -1430,7 +1508,7 @@
     "Interactive Brokers earned $0.69 a diluted share versus $0.59 on net revenues of $1.91 billion, with net interest income up 19% to $1.15 billion; the dividend rises to $0.15.",
     "J.B. Hunt's revenue rose 20% to $3.68 billion, but operating income rose only to $247.1 million from $242.7 million.",
     "Alcoa's net income attributable to the company rose to $483 million from $232 million a year earlier, though revenue fell from Q2 to $3,704 million.",
-    "TSMC guided Q4 revenue to US$52.3 billion–$54.3 billion after Q3 revenue of US$46.72 billion.",
+    "TSMC guided Q4 revenue to US$52.3 billion\u2013$54.3 billion after Q3 revenue of US$46.72 billion.",
     "Per the Fed's H.15, the 10-year yield was 5.19% on October 14 and the 2-year 4.82%, a 37-basis-point spread."
    ],
    "body": [
@@ -1490,8 +1568,8 @@
    "title": "Crop protection's reset: FMC reprices the channel as Corteva fights in court",
    "dek": "FMC's guidance cut and Corteva's legal fight over its split show the crop-input business working through price deflation and governance risk at the same time.",
    "key_points": [
-    "FMC now guides Q3 revenue to $65 million–$125 million and adjusted EBITDA to negative $565 million–$510 million, versus July guidance of $840 million–$900 million and $120 million–$140 million.",
-    "The cut includes a $625 million–$675 million impact from lowering prices on FMC products held by channel customers in Brazil, Argentina, the U.S. and Canada.",
+    "FMC now guides Q3 revenue to $65 million\u2013$125 million and adjusted EBITDA to negative $565 million\u2013$510 million, versus July guidance of $840 million\u2013$900 million and $120 million\u2013$140 million.",
+    "The cut includes a $625 million\u2013$675 million impact from lowering prices on FMC products held by channel customers in Brazil, Argentina, the U.S. and Canada.",
     "FMC said a triggering event for intangible impairment testing occurred as of Sept. 30 and that it plans to discuss further covenant modifications with its bank group.",
     "Corteva disclosed a temporary restraining order, now stayed pending a Seventh Circuit motion, that would bar dividends and buybacks after its Oct. 1 separation from Vylor."
    ],
@@ -1540,7 +1618,7 @@
    "dek": "UnitedHealth, Prologis and ManpowerGroup add non-financial evidence to a week dominated by bank results and an energy-driven inflation shock.",
    "key_points": [
     "UnitedHealth Q3 adjusted EPS rose to $4.69 from $2.92 as its medical care ratio fell to 88.4% from 89.9%, even as revenues slipped to $112.69 billion.",
-    "Prologis lifted the midpoint of 2026 core FFO guidance to $6.25–$6.29 after signing 60 million square feet of leases at 95.1% average occupancy.",
+    "Prologis lifted the midpoint of 2026 core FFO guidance to $6.25\u2013$6.29 after signing 60 million square feet of leases at 95.1% average occupancy.",
     "ManpowerGroup revenue grew 5.2% in constant currency to $4.84 billion, and management cited improving demand.",
     "Initial jobless claims were 199,000 in the week ending Oct. 10, with the four-week average at 198,500."
    ],
@@ -1553,11 +1631,11 @@
     {
      "h": "Logistics: lean inventories, cleared slack"
     },
-    "Prologis reported core FFO of $1.60 per share versus $1.49 and total revenues of $2.388 billion versus $2.214 billion. Average occupancy was 95.1% and period-end occupancy 95.6%, and net effective rent change on its share of leases was 38.0%. CEO Daniel S. Letter said customers \"are running lean on inventory, and excess capacity within their networks has largely cleared.\" Core FFO guidance moved to $6.25–$6.29 from $6.22–$6.30, while the net EPS range was cut to $4.05–$4.15. Lean inventories with little spare space is a configuration where any restocking shows up quickly in leasing.",
+    "Prologis reported core FFO of $1.60 per share versus $1.49 and total revenues of $2.388 billion versus $2.214 billion. Average occupancy was 95.1% and period-end occupancy 95.6%, and net effective rent change on its share of leases was 38.0%. CEO Daniel S. Letter said customers \"are running lean on inventory, and excess capacity within their networks has largely cleared.\" Core FFO guidance moved to $6.25\u2013$6.29 from $6.22\u2013$6.30, while the net EPS range was cut to $4.05\u2013$4.15. Lean inventories with little spare space is a configuration where any restocking shows up quickly in leasing.",
     {
      "h": "Labor: still tight at the margin"
     },
-    "ManpowerGroup reported Q3 revenues of $4.84 billion versus $4.63 billion, up 5.2% in constant currency, and guided Q4 diluted EPS to $1.03–$1.13. Staffing demand tends to turn before payrolls do, so growth here is a useful counterpoint to fears that energy costs are already forcing cuts. Thursday's claims report fits: initial claims of 199,000 and insured unemployment of 1.71 million show few layoffs.",
+    "ManpowerGroup reported Q3 revenues of $4.84 billion versus $4.63 billion, up 5.2% in constant currency, and guided Q4 diluted EPS to $1.03\u2013$1.13. Staffing demand tends to turn before payrolls do, so growth here is a useful counterpoint to fears that energy costs are already forcing cuts. Thursday's claims report fits: initial claims of 199,000 and insured unemployment of 1.71 million show few layoffs.",
     {
      "h": "What it means"
     },
@@ -1739,8 +1817,8 @@
     "Two of 12 Districts reported moderate growth, three modest, four slight and three no significant change, per the October Beige Book (information through Oct. 5).",
     "\"Higher oil prices permeated all District reports\"; four Districts said price increases accelerated, three called price growth robust and eight moderate.",
     "Most Districts saw little or no change in consumer spending, and over half said it was driven by high-income households.",
-    "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%–4%, but hikes need not come at consecutive meetings.",
-    "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%–4.50%."
+    "Governor Waller said 16 of 18 dot submitters anticipated at least one more hike after September's move to 3.75%\u20134%, but hikes need not come at consecutive meetings.",
+    "PNC's Q3 release assumes two more Fed hikes, taking the fed funds rate to 4.25%\u20134.50%."
    ],
    "body": [
     "The Fed's October Beige Book, compiled by the Philadelphia Fed from information collected on or before Oct. 5, describes an economy that is barely growing while its cost base is rising. Two of the 12 Districts reported moderate growth, three modest growth, four slight growth and three no significant change.",
@@ -1755,11 +1833,11 @@
     {
      "h": "What the Fed is weighing"
     },
-    "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%–4%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%–4.50%.",
+    "That combination lands on a committee already in tightening mode. In an Oct. 8 speech, Governor Waller noted the FOMC raised its policy rate 25 basis points in September to 3.75%\u20134%, that 16 of the 18 participants who submitted dots anticipated at least one more hike, and that the hikes do not need to come at consecutive meetings. He said that for at least the near term, policy will be focused on the inflation side of the mandate. Banks are planning around the same path: PNC's third-quarter release assumes two more hikes that take the fed funds rate to 4.25%\u20134.50%.",
     {
      "h": "The AlphaGen read"
     },
-    "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27–28 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
+    "The Beige Book argues for patience as much as for action. Energy is clearly reaching business costs, but flat consumer spending and margin compression suggest firms have limited ability to pass it all on, which caps how far second-round inflation can run. That is the case for Waller's non-consecutive framing: the committee can keep a hiking bias without moving at the Oct. 27\u201328 meeting if pass-through stalls. The risk is the forward-looking line on contracts and hedges, which says more of the oil shock is still in the pipeline. We would watch the October CPI on Nov. 10 for evidence that fuel costs are spreading into core goods and services."
    ],
    "sources": [
     {
@@ -1899,7 +1977,7 @@
      "h": "Rates backdrop"
     },
     "The Fed's H.15 release shows the 10-year Treasury yield at 5.21% on October 13, down from 5.28% on October 7, and the 30-year at 5.56% from 5.67%. The 2-year held at 4.79% and the 3-month constant-maturity yield edged up to 4.26%, well above the 3.88% effective federal funds rate. The long end has eased while the front end has not, which keeps pressure on bank funding costs even as longer-dated borrowing rates get some relief.",
-    "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27–28."
+    "AlphaGen's read: the large banks are entering the final quarter of 2026 with growing revenue and solid capital, so the swing factors for earnings are now credit losses and one-off charges, not demand for financial services. The FOMC meets October 27\u201328."
    ],
    "sources": [
     {
@@ -2000,7 +2078,7 @@
     "Headline CPI rose 0.6% in September after 0.4% in August; the 12-month rate is 3.7%.",
     "Gasoline rose 9.1% on the month and accounted for over half of the headline increase.",
     "Core CPI rose 0.3% on the month and 2.6% on the year. Energy is up 20.4% year over year.",
-    "The FOMC meets October 27–28, with the decision on the 28th."
+    "The FOMC meets October 27\u201328, with the decision on the 28th."
    ],
    "body": [
     "September's CPI report delivered a hot headline and a calm core. The Bureau of Labor Statistics reported that the all-items index rose 0.6% on a seasonally adjusted basis, after a 0.4% gain in August, lifting the 12-month rate to 3.7%.",
@@ -2018,7 +2096,7 @@
    ],
    "sources": [
     {
-     "name": "U.S. Bureau of Labor Statistics, Consumer Price Index – September 2026",
+     "name": "U.S. Bureau of Labor Statistics, Consumer Price Index \u2013 September 2026",
      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
     },
     {
