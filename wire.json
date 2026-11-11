@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-10T23:38:43Z",
+ "updated": "2026-11-11T00:44:32Z",
  "items": [
+  {
+   "id": "2026-11-11-bowman-inflation-shocks",
+   "time": "2026-11-11T00:46:00Z",
+   "tag": "FED",
+   "headline": "Bowman: tariffs, energy, AI each ~one-fourth of above-target core PCE inflation",
+   "take": "Fed Vice Chair for Supervision Michelle Bowman said on Nov. 10 that tariffs, energy and AI-related price pressures each accounted for roughly one-fourth of above-target core PCE inflation over the 12 months ending in September, with the remaining one-fourth likely reflecting persistent effects of inflationary shocks in recent years. She forecast core PCE inflation moving closer to 2 percent next year as those shocks wane or unwind. The split shows how much of the overshoot she attributes to sector-specific supply shocks rather than labor-market tightness.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T00:44:32Z"
+  },
+  {
+   "id": "2026-11-11-bowman-financial-conditions",
+   "time": "2026-11-11T00:55:00Z",
+   "tag": "FED",
+   "headline": "Bowman: financial conditions tightened a bit on equities, private rates, dollar",
+   "take": "Bowman said financial conditions have tightened a bit recently because of lower equity prices, higher private interest rates and a stronger dollar, against a backdrop of increased market volatility. She said corporate bond and mortgage rate spreads have widened and tech-sector equity valuations have dropped as investors reassess expected returns and risks tied to external financing of AI investment. She listed a large equity correction and a sharp increase in private longer-term rates among the risks to economic activity.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T00:44:32Z"
+  },
+  {
+   "id": "2026-11-11-bowman-hormuz-energy",
+   "time": "2026-11-11T01:04:00Z",
+   "tag": "ENERGY",
+   "headline": "Bowman: Hormuz carried ~20% of global oil supply pre-conflict; freight costs surge",
+   "take": "Bowman said the Strait of Hormuz accounted for about 20 percent of global oil supply before the Middle East conflict, roughly equivalent to total U.S. oil consumption. She said crude flows in the Persian Gulf have recovered to near pre-conflict levels, but freight rates and insurance premiums have surged, raising the cost of delivered oil, and that Brent dropped sharply last week on optimism about a U.S.-Iran agreement after the midterm elections. She expects energy-related price pressure to unwind when the conflict resolves, which keeps oil central to the Fed's inflation debate.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T00:44:32Z"
+  },
+  {
+   "id": "2026-11-11-bea-sept-saving-rate",
+   "time": "2026-11-11T01:13:00Z",
+   "tag": "MACRO",
+   "headline": "Personal saving rate 3.8% in September as real disposable income falls 0.3%",
+   "take": "BEA reported September personal saving was $911.1 billion, a personal saving rate of 3.8 percent of disposable income. Current-dollar disposable income rose 0.2 percent while real disposable income fell 0.3 percent, and real PCE rose less than 0.1 percent after 0.5 percent in August. With real income shrinking while spending still rose in dollar terms, households were working with a thin saving rate.",
+   "source_name": "BEA",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+   "checked": "2026-11-11T00:44:32Z"
+  },
+  {
+   "id": "2026-11-11-bea-q3-gdp-contributors",
+   "time": "2026-11-11T01:22:00Z",
+   "tag": "MACRO",
+   "headline": "Q3 GDP: inventories and equipment led investment; exports fell, imports rose",
+   "take": "BEA's advance estimate put Q3 real GDP growth at a 3.4 percent annual rate and current-dollar GDP at 5.6 percent, with the gross domestic purchases price index up 3.0 percent. Investment, consumer spending and government spending contributed, partly offset by a decrease in exports, while imports increased. BEA said the investment increase primarily reflected private inventory investment, led by wholesale trade and manufacturing, and equipment, led by information processing equipment; the second estimate is due Nov. 25.",
+   "source_name": "BEA",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-11T00:44:32Z"
+  },
+  {
+   "id": "2026-11-11-bls-productivity-q3",
+   "time": "2026-11-11T01:31:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: Q3 productivity up 3.6%, unit labor costs down 0.7% (annualized)",
+   "take": "BLS reported on Nov. 5 that productivity increased 3.6 percent in the third quarter of 2026 while unit labor costs decreased 0.7 percent, both at annualized rates. Faster output per hour alongside falling labor cost per unit points away from the labor side as a source of current inflation pressure, a theme Bowman also made on Nov. 10.",
+   "source_name": "BLS",
+   "source_url": "https://www.bls.gov/bls/",
+   "checked": "2026-11-11T00:44:32Z"
+  },
   {
    "id": "2026-11-10-elv-reaffirms-guidance",
    "time": "2026-11-10T23:42:00Z",
@@ -5310,66 +5370,6 @@
    "source_name": "BEA release schedule",
    "source_url": "https://www.bea.gov/index.php/news/schedule/full",
    "checked": "2026-10-25T16:44:16Z"
-  },
-  {
-   "id": "2026-10-25-bls-eci-q3-oct-30",
-   "time": "2026-10-25T17:04:16Z",
-   "tag": "MACRO",
-   "headline": "BLS Employment Cost Index for Q3 due Oct. 30 at 8:30 a.m. ET",
-   "take": "BLS lists the Employment Cost Index for the third quarter of 2026 for Friday, Oct. 30 at 8:30 a.m. ET. It is the only BLS release on the schedule for the final day of the week. The ECI measures employer labor costs, which makes it one of the labor-cost gauges that sits alongside the BEA's income data the day before.",
-   "source_name": "BLS release schedule, October 2026",
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "checked": "2026-10-25T16:44:16Z"
-  },
-  {
-   "id": "2026-10-25-ecb-oct-28-29-meeting",
-   "time": "2026-10-25T17:13:16Z",
-   "tag": "GLOBAL",
-   "headline": "ECB Governing Council holds monetary policy meeting Oct. 28-29; press conference Oct. 29",
-   "take": "The ECB's calendar lists the monetary policy meeting in Frankfurt on Oct. 28 and 29, with the press conference following on Oct. 29. The next meeting after that is Dec. 16-17, and the calendar does not list press conference times. The Oct. 29 decision day also coincides with BEA's third-quarter GDP release.",
-   "source_name": "ECB Governing Council meeting calendar",
-   "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
-   "checked": "2026-10-25T16:44:16Z"
-  },
-  {
-   "id": "2026-10-25-bls-metro-bed-oct-28",
-   "time": "2026-10-25T17:22:16Z",
-   "tag": "MACRO",
-   "headline": "BLS: no releases Oct. 26-27; metro-area jobs and business dynamics data Oct. 28",
-   "take": "BLS lists no releases for Oct. 26 or 27. On Wednesday, Oct. 28 at 10:00 a.m. ET it schedules Metropolitan Area Employment and Unemployment for September and Business Employment Dynamics for the first quarter of 2026. Consumer Expenditures for annual 2025 follows on Oct. 29 at 10:00 a.m. ET, so the early-week labor-data calendar is thin.",
-   "source_name": "BLS release schedule, October 2026",
-   "source_url": "https://www.bls.gov/schedule/2026/10_sched_list.htm",
-   "checked": "2026-10-25T16:44:16Z"
-  },
-  {
-   "id": "2026-10-25-fed-stat-releases-oct-27-30",
-   "time": "2026-10-25T17:31:16Z",
-   "tag": "FED",
-   "headline": "Fed statistical calendar: H.6 money stock Oct. 27; H.4.1 balance sheet Oct. 29",
-   "take": "The Federal Reserve Board's calendar lists H.6 (Money Stock Measures) on Oct. 27 at 1:00 p.m. and the H.4.1 balance sheet report on Oct. 29 at 4:30 p.m. H.8 bank assets and liabilities follows on Oct. 30 at 4:15 p.m., with H.15 rates published each day at 4:15 p.m. The H.4.1 will be the first weekly balance sheet look after the policy meeting.",
-   "source_name": "Federal Reserve Board: October 2026 calendar",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-   "checked": "2026-10-25T16:44:16Z"
-  },
-  {
-   "id": "2026-10-25-ust-par-10y-5-00",
-   "time": "2026-10-25T15:52:12Z",
-   "tag": "RATES",
-   "headline": "Treasury par curve: 10-year at 5.00% and 30-year at 5.33% on Oct. 23",
-   "take": "Treasury's daily par yield curve for Oct. 23 showed the 2-year at 4.69%, 10-year at 5.00% and 30-year at 5.33%, each 4 basis points above Oct. 22. The 10-year was 15 basis points below its 5.15% on Oct. 19, and the 3-month bill at 4.22% sat 78 basis points under the 10-year.",
-   "source_name": "U.S. Treasury Daily Par Yield Curve Rates",
-   "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202610",
-   "checked": "2026-10-25T15:50:12Z"
-  },
-  {
-   "id": "2026-10-25-ust-20y-above-30y",
-   "time": "2026-10-25T15:59:12Z",
-   "tag": "DEBT",
-   "headline": "Treasury curve: 20-year yield 5.37% sits above 30-year at 5.33% on Oct. 23",
-   "take": "Treasury's par yield curve showed the 20-year at 5.37% and the 30-year at 5.33% on Oct. 23, a 4 basis point inversion between the two longest maturities. The 7-year was 4.89% and the 10-year 5.00%, so the curve rises to the 20-year point and then dips slightly. The 20-year was 5.32% on Oct. 22.",
-   "source_name": "U.S. Treasury Daily Par Yield Curve Rates",
-   "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202610",
-   "checked": "2026-10-25T15:50:12Z"
   }
  ]
 }
