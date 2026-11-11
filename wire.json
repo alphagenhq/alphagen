@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-11T00:44:32Z",
+ "updated": "2026-11-11T01:43:28Z",
  "items": [
+  {
+   "id": "2026-11-11-bowman-ai-buildout-prices",
+   "time": "2026-11-11T02:30:28Z",
+   "tag": "MACRO",
+   "headline": "Bowman: AI buildout pushing up prices of specific high-tech capital as supply is inelastic",
+   "take": "Bowman said Nov. 10 that inflation pressures tied to the AI buildout seem to persist despite some early signs of slowing, because the buildout has quickly shifted investment demand toward specific types of high-tech capital while near-term supply is relatively inelastic. She said she mostly views these pressures as relative price shocks in specific sectors, and that over time increased AI adoption should raise productivity and put some downward pressure on inflation. AlphaGen read: the Fed is treating AI as both a near-term price pressure and a longer-term disinflation argument.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T01:43:28Z"
+  },
+  {
+   "id": "2026-11-11-bowman-energy-fuels",
+   "time": "2026-11-11T02:16:28Z",
+   "tag": "ENERGY",
+   "headline": "Bowman: Brent topped $110 in late October; gasoline, diesel, jet fuel near spring highs",
+   "take": "Bowman said Nov. 10 that Brent oil prices moved up to and above $110 per barrel in the second half of October before dropping sharply last week on optimism about a U.S.-Iran agreement after the midterm elections. She said gasoline, diesel and jet fuel prices moved up to near or even above their spring highs, reflecting both higher crude prices and wider refining margins. Her framing ties pump and fuel costs to refining spreads as well as crude, so a crude decline may not pass through fully.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T01:43:28Z"
+  },
+  {
+   "id": "2026-11-11-bowman-growth-housing",
+   "time": "2026-11-11T02:02:28Z",
+   "tag": "HOUSING",
+   "headline": "Bowman: Q3 GDP likely above 3%, but higher mortgage rates drag on home construction",
+   "take": "Bowman said Nov. 10 that real GDP rose 2.4 percent in the first half of 2026 and likely grew at more than 3 percent in the third quarter, versus a 2 percent pace last year, helped by AI-related capital expenditures and solid consumer spending. She said some interest-rate-sensitive sectors such as residential investment have declined and that the recent rise in mortgage rates appears to be dragging home construction and sales down further. Growth is being carried by investment and spending while housing is the visible weak spot.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T01:43:28Z"
+  },
+  {
+   "id": "2026-11-11-bowman-labor-dynamism",
+   "time": "2026-11-11T01:48:28Z",
+   "tag": "MACRO",
+   "headline": "Bowman: wage growth 3.1%, long-term unemployed share up in 'low-dynamism' labor market",
+   "take": "Fed Vice Chair for Supervision Michelle Bowman said Nov. 10 that the wages and salaries component of the employment cost index rose 3.1 percent over 12 months in September, the same pace as average hourly earnings in October, and that the share of multiple job holders is back to early-2025 levels. She said the share of long-term unemployed workers has moved up significantly, but that layoffs have declined this year, offsetting weak hiring. The mix of slower wages and stable unemployment supports her view that the labor market is stable but not tight.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "checked": "2026-11-11T01:43:28Z"
+  },
   {
    "id": "2026-11-11-bowman-inflation-shocks",
    "time": "2026-11-11T00:46:00Z",
@@ -5330,46 +5370,6 @@
    "source_name": "BLS: The Economics Daily, Producer Price Index up 6.3 percent in September",
    "source_url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm",
    "checked": "2026-10-25T18:51:11Z"
-  },
-  {
-   "id": "2026-10-25-bls-ppi-energy-transport",
-   "time": "2026-10-25T19:29:11Z",
-   "tag": "ENERGY",
-   "headline": "BLS PPI: gasoline up 64.3%, No. 2 diesel up 115.2% over 12 months to September",
-   "take": "BLS reports final demand energy prices up 35.4% over the 12 months ended September, led by gasoline (+64.3%), No. 2 diesel (+115.2%) and home heating oil and distillates (+117.5%). Transportation and warehousing services rose 16.0%, including truck freight and water freight (both +19.3%) and airline passenger services (+16.6%). Fuel costs appear to be passing into freight and travel prices, which is how an energy shock reaches services.",
-   "source_name": "BLS: The Economics Daily, Producer Price Index up 6.3 percent in September",
-   "source_url": "https://www.bls.gov/opub/ted/2026/producer-price-index-up-6-3-percent-in-september-largest-12-month-increase-since-december-2022.htm",
-   "checked": "2026-10-25T18:51:11Z"
-  },
-  {
-   "id": "2026-10-25-fed-iorb-3-90",
-   "time": "2026-10-25T19:38:11Z",
-   "tag": "FED",
-   "headline": "Fed minutes: interest on reserve balances raised to 3.90%, primary credit rate to 4.0%",
-   "take": "The Sept. 15-16 FOMC minutes record that the interest rate on reserve balances was raised to 3.90 percent and the primary credit rate to 4.0 percent alongside the 1/4-point increase in the target range to 3-3/4 to 4 percent. The minutes also say the Desk had paused reserve management purchases and that the pace of future purchases was not on a preset course. Both rates are administered by the Fed, so they will move only if the Committee changes policy on Oct. 28.",
-   "source_name": "Federal Reserve Board: FOMC minutes, Sept. 15-16, 2026",
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
-   "checked": "2026-10-25T18:51:11Z"
-  },
-  {
-   "id": "2026-10-25-fomc-oct-27-28",
-   "time": "2026-10-25T16:46:16Z",
-   "tag": "FED",
-   "headline": "Fed calendar: FOMC meets Oct. 27-28; press conference Oct. 28 at 2:30 p.m. ET",
-   "take": "The Federal Reserve Board's calendar lists a two-day FOMC meeting on Oct. 27-28, with the press conference on Oct. 28 at 2:30 p.m. ET. The calendar does not list a separate statement time. The meeting is the main scheduled U.S. policy event of the week, and it lands one day before the first estimate of third-quarter GDP.",
-   "source_name": "Federal Reserve Board: October 2026 calendar",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-   "checked": "2026-10-25T16:44:16Z"
-  },
-  {
-   "id": "2026-10-25-bea-q3-gdp-oct-29",
-   "time": "2026-10-25T16:55:16Z",
-   "tag": "MACRO",
-   "headline": "BEA schedules third-quarter GDP advance estimate and September income for Oct. 29",
-   "take": "BEA's release schedule lists the advance estimate of third-quarter 2026 GDP and the September Personal Income and Outlays report for Oct. 29 at 8:30. Both arrive the day after the FOMC press conference, so the Fed's comments will come before the first read on the quarter. BEA also lists September international trade for Nov. 4.",
-   "source_name": "BEA release schedule",
-   "source_url": "https://www.bea.gov/index.php/news/schedule/full",
-   "checked": "2026-10-25T16:44:16Z"
   }
  ]
 }
