@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-12T11:45:00Z",
+ "updated": "2026-11-12T12:45:00Z",
  "items": [
+  {
+   "id": "2026-11-12-ppi-sep-intermediate-processed",
+   "time": "2026-11-12T12:42:00Z",
+   "tag": "MACRO",
+   "headline": "September PPI: processed goods for intermediate demand +2.5%, 14.1% over 12 months",
+   "take": "BLS says the index for processed goods for intermediate demand rose 2.5% in September, the largest rise since 2.8% in May, with more than 80% of the advance attributable to a 10.2% increase in processed energy goods. Nearly half of the rise traces to a 21.0% increase in diesel fuel, and the 12-month increase of 14.1% is the largest since 14.3% in August 2022. AlphaGen read: input costs further up the supply chain were rising faster than final-demand prices in the latest PPI (released Oct. 15); the October report is due Friday at 8:30 a.m. ET.",
+   "source_name": "BLS, Producer Price Index",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-12T12:52:00Z"
+  },
+  {
+   "id": "2026-11-12-ppi-sep-intermediate-unprocessed",
+   "time": "2026-11-12T12:57:00Z",
+   "tag": "COMMODITIES",
+   "headline": "September PPI: unprocessed intermediate goods +8.4%, crude petroleum +28.3%",
+   "take": "BLS says prices for unprocessed goods for intermediate demand rose 8.4% in September, the largest increase since 9.2% in February 2022, and are up 21.5% for the 12 months ended in September. Over 80% of the September advance is attributable to unprocessed energy materials, which jumped 22.2%, led by a 28.3% rise in crude petroleum. AlphaGen read: this is the earliest stage of the PPI pipeline, and it shows the September price surge was concentrated in crude oil.",
+   "source_name": "BLS, Producer Price Index",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-12T12:52:00Z"
+  },
+  {
+   "id": "2026-11-12-ppi-sep-intermediate-services",
+   "time": "2026-11-12T13:12:00Z",
+   "tag": "MACRO",
+   "headline": "September PPI: services for intermediate demand +0.9%, trade margins +2.0%",
+   "take": "BLS says the index for services for intermediate demand rose 0.9% in September, matching the largest increase since 0.9% in April, with over 40% of the advance traced to a 2.0% jump in trade-services margins. Transportation and warehousing services rose 1.8%, and the index is up 6.3% over the 12 months ended in September, the largest 12-month advance since 6.3% in January 2023. AlphaGen read: business-to-business service prices, not just fuel, were climbing in the latest PPI (released Oct. 15).",
+   "source_name": "BLS, Producer Price Index",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-12T12:52:00Z"
+  },
+  {
+   "id": "2026-11-12-fred-fed-ecb-policy-rates",
+   "time": "2026-11-12T13:27:00Z",
+   "tag": "GLOBAL",
+   "headline": "Fed target range 3.75%-4.00%, ECB deposit rate 2.50%: both raised in September",
+   "take": "FRED shows the ECB deposit facility rate at 2.50% on Nov. 11, up from 2.25% on Sept. 16, while the Federal Reserve's federal funds target range was 3.75% to 4.00% on Nov. 11, moved up from 3.50% to 3.75% on Sept. 17. The Fed's upper bound sits 1.50 percentage points above the ECB rate and its lower bound 1.25 points above. AlphaGen read: the two central banks made their latest moves a day apart, and the Fed's range remains 1.25 to 1.50 points above the ECB rate.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ECB, Federal Reserve Board)",
+   "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
+   "checked": "2026-11-12T12:52:00Z"
+  },
   {
    "id": "2026-11-12-ppi-sep-final-demand",
    "time": "2026-11-12T11:45:00Z",
@@ -5269,47 +5309,6 @@
    "take": "S&P Global reported Q3 2026 revenue from continuing operations of $3,678 million versus $3,443 million, up 6.8%. GAAP diluted EPS from continuing operations was $4.45 versus $3.54, and adjusted diluted EPS was $4.58 versus $4.20. Net income attributable to the company was $1,240 million versus $1,176 million, a smaller gain than the EPS change.",
    "source_name": "S&P Global Form 8-K earnings release (Q3 2026)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/0000064040/000006404026000053/spgi3q2026-earningsrelease.htm",
-   "checked": "2026-10-27T12:06:24Z"
-  },
-  {
-   "id": "2026-10-27-spgi-guidance",
-   "time": "2026-10-27T12:27:24Z",
-   "tag": "EQUITIES",
-   "ticker": "NYSE:SPGI",
-   "headline": "S&P Global lifts 2026 adjusted EPS guide to $17.70-$17.95 from $17.50-$17.75",
-   "take": "S&P Global's release raises 2026 total revenue growth guidance to 7.4%-8.4% from 5.9%-7.9% and adjusted diluted EPS guidance to $17.70-$17.95 from $17.50-$17.75. GAAP diluted EPS guidance moves down to $16.25-$16.50 from $16.35-$16.60. The split between higher adjusted and lower GAAP ranges shows the company's own view of how non-recurring items affect reported results.",
-   "source_name": "S&P Global Form 8-K earnings release (Q3 2026)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000064040/000006404026000053/spgi3q2026-earningsrelease.htm",
-   "checked": "2026-10-27T12:06:24Z"
-  },
-  {
-   "id": "2026-10-27-fomc-meeting-begins",
-   "time": "2026-10-27T12:34:24Z",
-   "tag": "FED",
-   "headline": "FOMC meeting begins today; decision Wednesday, press conference at 2:30 p.m. ET",
-   "take": "The Federal Reserve Board's October calendar lists the two-day FOMC meeting starting today, with the meeting concluding Oct. 28 at 2:00 p.m. ET and a press conference at 2:30 p.m. ET. The calendar lists no Fed speeches or discussions for Oct. 27-31. The H.4.1 balance sheet report follows Thursday at 4:30 p.m. ET and the H.8 bank assets report Friday at 4:15 p.m. ET.",
-   "source_name": "Federal Reserve Board calendar, October 2026",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm",
-   "checked": "2026-10-27T12:06:24Z"
-  },
-  {
-   "id": "2026-10-27-h15-oct23-yields",
-   "time": "2026-10-27T12:41:24Z",
-   "tag": "RATES",
-   "headline": "Fed H.15: 10-year yield 5.00% and 2-year 4.69% on Oct. 23; fed funds 3.88%",
-   "take": "The Federal Reserve's H.15 release shows the 10-year Treasury constant maturity yield at 5.00% on Oct. 23, up from 4.96% on Oct. 22, and the 2-year at 4.69% versus 4.65%. The effective federal funds rate was 3.88% on both days. The 2-year yield stood 0.81 percentage point above the effective fed funds rate, a gap computed from the release's own figures.",
-   "source_name": "Federal Reserve Board H.15",
-   "source_url": "https://www.federalreserve.gov/releases/h15/",
-   "checked": "2026-10-27T12:06:24Z"
-  },
-  {
-   "id": "2026-10-27-radnet-onrad",
-   "time": "2026-10-27T12:48:24Z",
-   "tag": "DEALS",
-   "headline": "RadNet to acquire ONRAD for $350M cash plus 5M shares; earnout up to $210M",
-   "take": "RadNet agreed to acquire teleradiology provider ONRAD for a cash payment of $350 million and 5 million RadNet shares, subject to customary adjustments, plus an earnout of up to $210 million tied to 2027 target EBITDA. RadNet expects ONRAD to add $190 million to $200 million of revenue and $60 million to $65 million of adjusted EBITDA in its first year after closing. The deal is expected to close in early 2027, subject to regulatory review and closing conditions.",
-   "source_name": "RadNet press release (Oct. 26, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388528/10985/en/radnet-inc-announces-agreement-to-acquire-onrad-inc.html",
    "checked": "2026-10-27T12:06:24Z"
   }
  ]
