@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-12T00:38:44Z",
+  "updated": "2026-11-12T01:39:27Z",
   "items": [
+    {
+      "id": "2026-11-12-fred-policy-rate-vs-core-pce",
+      "time": "2026-11-12T02:21:00Z",
+      "tag": "FED",
+      "headline": "Effective fed funds rate 3.88% is 0.76 point above 12-month core PCE inflation of 3.12%",
+      "take": "FRED shows the effective federal funds rate (DFF) at 3.88% on Nov. 9, with the target range at 3.75% to 4.00%. Core PCE prices (PCEPILFE) were 3.12% above their September 2025 level in September 2026. The difference is 0.76 percentage point. AlphaGen's read: this is a simple gap between a nominal policy rate and a trailing inflation measure, not an official estimate of the real rate.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DFF",
+      "checked": "2026-11-12T01:39:27Z"
+    },
+    {
+      "id": "2026-11-12-fred-10y-3m-spread-nov9",
+      "time": "2026-11-12T02:12:00Z",
+      "tag": "RATES",
+      "headline": "10-year Treasury yield 0.64 point above 3-month bill on Nov. 9, from 0.67 on Nov. 5",
+      "take": "FRED data show the 10-year Treasury constant-maturity yield at 4.88% and the 3-month yield at 4.24% on Nov. 9, a 0.64 percentage-point gap. On Nov. 5 the yields were 4.84% and 4.17%, a 0.67-point gap. AlphaGen's read: the 10-year yield remains above short-term bill yields, a positively sloped curve at that end.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-12T01:39:27Z"
+    },
+    {
+      "id": "2026-11-12-fred-permits-sep",
+      "time": "2026-11-12T02:03:00Z",
+      "tag": "HOUSING",
+      "headline": "Building permits 1.398M annual rate in September, down 0.4% from August",
+      "take": "FRED's series for new private housing units authorized by building permits (PERMIT) stood at 1,398 thousand at a seasonally adjusted annual rate in September, against 1,403 thousand in August and 1,444 thousand in September 2025. That is 0.4% below August and 3.2% below a year earlier. AlphaGen's read: permits are a lead indicator for construction, and a flat-to-lower reading points to little near-term acceleration in new supply.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/PERMIT",
+      "checked": "2026-11-12T01:39:27Z"
+    },
+    {
+      "id": "2026-11-12-fred-core-pce-3mo",
+      "time": "2026-11-12T01:54:00Z",
+      "tag": "MACRO",
+      "headline": "Core PCE price index up 2.9% annualized over three months vs 3.1% on the year",
+      "take": "FRED's core PCE price index (PCEPILFE) reached 130.902 in September, from 129.969 in June and 126.940 in September 2025. That works out to a 2.90% annualized rate over the three months and 3.12% over twelve months. AlphaGen's read: the recent pace is slightly below the 12-month rate, so the three-month data do not show reacceleration.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/PCEPILFE",
+      "checked": "2026-11-12T01:39:27Z"
+    },
+    {
+      "id": "2026-11-12-fred-core-cpi-3mo",
+      "time": "2026-11-12T01:46:00Z",
+      "tag": "MACRO",
+      "headline": "Core CPI index up 0.30% in October; 3.7% annualized over three months",
+      "take": "FRED's seasonally adjusted CPI excluding food and energy (CPILFESL) was 339.900 in October, against 338.896 in September and 336.789 in July. That is a 0.30% monthly rise and a 3.75% annualized pace over the three months from July. AlphaGen's read: the short-run pace is running above the 12-month core PCE rate of 3.12%, a reminder that the two inflation gauges differ in weights and coverage.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/CPILFESL",
+      "checked": "2026-11-12T01:39:27Z"
+    },
     {
       "id": "2026-11-12-gdpnow-q4",
       "time": "2026-11-12T00:40:37Z",
@@ -5273,61 +5323,6 @@
       "source_name": "Cincinnati Financial press release via PR Newswire (Oct. 26, 2026)",
       "source_url": "https://www.prnewswire.com/news-releases/cincinnati-financial-reports-third-quarter-2026-results-302919728.html",
       "checked": "2026-10-26T23:44:00Z"
-    },
-    {
-      "id": "2026-10-26-cinf-combined-ratio",
-      "time": "2026-10-27T00:31:00Z",
-      "tag": "CREDIT",
-      "ticker": "NASDAQ:CINF",
-      "headline": "Cincinnati Financial Q3 combined ratio 90.9% vs 88.2%; book value $105.42/share",
-      "take": "Cincinnati Financial's consolidated property casualty combined ratio was 90.9% in Q3 2026 versus 88.2% a year earlier, with current accident year catastrophe losses at 10.8% of earned premiums versus 4.4%. Book value per share was $105.42 at Sept. 30 and the company declared a cash dividend of $0.94 per share versus $0.87. Higher catastrophe losses account for a large part of the underwriting deterioration.",
-      "source_name": "Cincinnati Financial press release via PR Newswire (Oct. 26, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/cincinnati-financial-reports-third-quarter-2026-results-302919728.html",
-      "checked": "2026-10-26T23:44:00Z"
-    },
-    {
-      "id": "2026-10-26-cls-q3",
-      "time": "2026-10-26T22:46:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:CLS",
-      "headline": "Celestica Q3 revenue $5.83B vs $3.19B; GAAP diluted EPS $3.26 vs $2.31",
-      "take": "Celestica reported third-quarter 2026 revenue of $5,829.7 million versus $3.19 billion a year earlier, GAAP diluted EPS of $3.26 versus $2.31 and adjusted EPS of $3.30 versus $1.58. The release was issued at 16:17 ET on Oct. 26. Revenue rose about 82.7% on the rounded prior-year figure, so revenue growth was far larger than the rise in diluted EPS.",
-      "source_name": "Celestica press release via GlobeNewswire (Oct. 26, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388573/0/en/celestica-announces-third-quarter-2026-financial-results-and-will-hold-2026-investor-and-analyst-day.html",
-      "checked": "2026-10-26T22:44:00Z"
-    },
-    {
-      "id": "2026-10-26-cls-outlook",
-      "time": "2026-10-26T22:53:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:CLS",
-      "headline": "Celestica lifts 2026 outlook to $21.0B revenue, adj. EPS $11.55; cuts FCF to $460M",
-      "take": "Celestica's updated 2026 outlook calls for revenue of $21.0 billion (previous $20.5 billion) and adjusted EPS of $11.55 (previous $11.30), with adjusted operating margin unchanged at 8.4%. Free cash flow is now $460 million versus $600 million previously, which the company attributes mainly to working capital investments for 2027 growth. Q4 guidance is revenue of $6.275-$6.575 billion and adjusted EPS of $3.37-$3.57; the company holds its Investor and Analyst Day on Oct. 27.",
-      "source_name": "Celestica press release via GlobeNewswire (Oct. 26, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388573/0/en/celestica-announces-third-quarter-2026-financial-results-and-will-hold-2026-investor-and-analyst-day.html",
-      "checked": "2026-10-26T22:44:00Z"
-    },
-    {
-      "id": "2026-10-26-bro-q3",
-      "time": "2026-10-26T23:00:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:BRO",
-      "headline": "Brown & Brown Q3 revenue $1.725B, up 7.4%; diluted EPS $0.67 vs $0.68",
-      "take": "Brown & Brown reported third-quarter 2026 total revenues of $1,725 million versus $1,606 million, net income attributable to the company of $240 million versus $227 million, and diluted EPS of $0.67 versus $0.68. Diluted EPS - Adjusted was $1.07 versus $1.05, with Organic Revenue growth of 1.2%. Total revenue growth outpaced organic growth, so most of the gain came from sources other than existing-book expansion.",
-      "source_name": "Brown & Brown investor relations release (Oct. 26, 2026)",
-      "source_url": "https://investor.bbrown.com/news-releases/news-release-details/brown-brown-inc-announces-third-quarter-2026-results-including",
-      "checked": "2026-10-26T22:44:00Z"
-    },
-    {
-      "id": "2026-10-26-dorm-q3",
-      "time": "2026-10-26T23:07:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:DORM",
-      "headline": "Dorman Q3 net sales $561.7M vs $543.7M; diluted EPS $1.98 vs $2.48",
-      "take": "Dorman Products reported net sales of $561.7 million for the quarter ended Sept. 26, 2026, versus $543.7 million a year earlier. Diluted EPS was $1.98 versus $2.48 and adjusted diluted EPS was $2.08 versus $2.62. Net sales rose roughly 3.3% while diluted EPS fell roughly 20.2%, so earnings moved opposite to sales.",
-      "source_name": "Dorman Products press release via GlobeNewswire (Oct. 26, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/26/3388582/0/en/dorman-products-inc-reports-third-quarter-2026-results-updates-2026-guidance.html",
-      "checked": "2026-10-26T22:44:00Z"
     }
   ]
 }
