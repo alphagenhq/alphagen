@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-12T20:39:57Z",
+  "updated": "2026-11-12T21:39:03Z",
   "items": [
+    {
+      "id": "2026-11-12-eia-steo-brent-2027",
+      "time": "2026-11-12T21:46:00Z",
+      "tag": "COMMODITIES",
+      "headline": "EIA's November outlook: Brent $97 in 2026, $86 in 2027, after $124 in October",
+      "take": "EIA's November Short-Term Energy Outlook shows the Brent crude spot price averaging $97 a barrel in 2026 and $86 in 2027, versus $69 in 2025 (rounded). It says Brent averaged $124 a barrel in October 2026, is expected to stay near $100 for the rest of 2026 and to average $77 in the fourth quarter of 2027. AlphaGen read: the forecast puts the 2027 annual average $11 below 2026.",
+      "source_name": "EIA Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "checked": "2026-11-12T21:39:03Z"
+    },
+    {
+      "id": "2026-11-12-eia-steo-crude-record-2027",
+      "time": "2026-11-12T21:58:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA forecasts U.S. crude output at a record 14.3M b/d in 2027, up from 13.9M in 2026",
+      "take": "EIA's November Short-Term Energy Outlook puts U.S. crude oil production at 13.7 million barrels a day in 2025, 13.9 million in 2026 and 14.3 million in 2027, which it describes as a record. That is 0.4 million b/d more in 2027 than in 2026. AlphaGen read: higher domestic supply is the counterweight in EIA's forecast of lower 2027 oil prices.",
+      "source_name": "EIA Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "checked": "2026-11-12T21:39:03Z"
+    },
+    {
+      "id": "2026-11-12-eia-steo-henry-hub-lng",
+      "time": "2026-11-12T22:10:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA sees Henry Hub gas at $2.88 in 2027, from $3.37 in 2026; LNG exports 19 Bcf/d",
+      "take": "EIA's November Short-Term Energy Outlook shows the Henry Hub natural gas spot price averaging $3.53 per MMBtu in 2025, $3.37 in 2026 and $2.88 in 2027, and forecasts $2.87 for November through March. U.S. LNG gross exports are projected at 15 Bcf/d in 2025, 18 in 2026 and 19 in 2027. AlphaGen read: EIA pairs record export volumes with a lower 2027 average gas price, so its forecast does not show higher export volumes lifting the average gas price.",
+      "source_name": "EIA Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "checked": "2026-11-12T21:39:03Z"
+    },
+    {
+      "id": "2026-11-12-eia-steo-gasoline-diesel",
+      "time": "2026-11-12T22:22:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA's outlook: retail gasoline $3.89 a gallon in 2026, $3.73 in 2027; 2027 diesel $5.03",
+      "take": "EIA's November Short-Term Energy Outlook shows the U.S. retail gasoline price averaging $3.10 a gallon in 2025, $3.89 in 2026 and $3.73 in 2027, a 16-cent decline from 2026 to 2027. It puts 2027 retail diesel at $5.03 a gallon. AlphaGen read: the diesel forecast sits $1.30 above the 2027 gasoline forecast.",
+      "source_name": "EIA Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+      "checked": "2026-11-12T21:39:03Z"
+    },
     {
       "id": "2026-11-12-fed-cp-nov9-rates",
       "time": "2026-11-12T20:58:00Z",
@@ -5240,50 +5280,6 @@
       "ticker": "NASDAQ:SOFI",
       "time": "2026-10-27T20:36:17Z",
       "checked": "2026-10-27T20:01:17Z"
-    },
-    {
-      "id": "2026-10-27-nvs-q3",
-      "tag": "EARNINGS",
-      "headline": "Novartis Q3 net sales $14,522M vs $13,909M; core EPS $2.46; raises core op income view",
-      "take": "Novartis reported Q3 2026 net sales of $14,522 million versus $13,909 million, up 4% in both USD and constant currencies, and core operating income of $6,036 million, up 11%. Core EPS was $2.46 versus $2.25, while IFRS net income was $1,196 million versus $3,930 million and EPS $0.63 versus $2.04. Full-year core operating income is now expected to be in line to grow low single digit in constant currencies, versus a low single-digit decline previously; the gap between IFRS and core results is large this quarter and worth reading in the release's reconciliation.",
-      "source_name": "Novartis Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388691/0/en/novartis-delivered-sales-growth-and-core-margin-expansion-in-q3-raised-fy-core-operating-income-guidance.html",
-      "ticker": "NYSE:NVS",
-      "time": "2026-10-27T20:44:17Z",
-      "checked": "2026-10-27T20:01:17Z"
-    },
-    {
-      "id": "2026-10-27-rcl-q3",
-      "tag": "EARNINGS",
-      "headline": "Royal Caribbean Q3 revenue $5,591M vs $5,139M; adj. EPS $6.57 vs $5.75",
-      "take": "Royal Caribbean reported Q3 2026 total revenues of $5,591 million versus $5,139 million a year earlier, net income of $1,735 million, and diluted EPS of $6.45 versus $5.74. Adjusted EPS was $6.57 versus $5.75, and the company now expects full-year 2026 adjusted EPS of $17.85 to $17.95. Revenue grew about 8.8% year over year, with earnings growing faster than sales.",
-      "source_name": "Royal Caribbean Group Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/royal-caribbean-group-reports-third-quarter-results-above-expectations-and-raises-full-year-guidance-302920572.html",
-      "ticker": "NYSE:RCL",
-      "time": "2026-10-27T18:51:51Z",
-      "checked": "2026-10-27T18:49:51Z"
-    },
-    {
-      "id": "2026-10-27-ivz-q3",
-      "tag": "EARNINGS",
-      "headline": "Invesco Q3 operating revenues $1,873.2M vs $1,640.4M; AUM $2,537.8B",
-      "take": "Invesco reported Q3 2026 operating revenues of $1,873.2 million versus $1,640.4 million, diluted EPS of $0.65 versus $0.66, and adjusted diluted EPS of $0.72 versus $0.61. Total assets under management were $2,537.8 billion at September 30, with net long-term flows of $35.1 billion in the quarter. Revenue rose about 14.2% year over year while GAAP EPS was roughly flat.",
-      "source_name": "Invesco Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/invesco-reports-results-for-the-three-months-ended-september-30-2026-302920535.html",
-      "ticker": "NYSE:IVZ",
-      "time": "2026-10-27T19:01:51Z",
-      "checked": "2026-10-27T18:49:51Z"
-    },
-    {
-      "id": "2026-10-27-cms-q3",
-      "tag": "EARNINGS",
-      "headline": "CMS Energy Q3 adj. EPS $1.44 vs $0.93; reaffirms 2026 guide $3.83-$3.90",
-      "take": "CMS Energy reported Q3 2026 adjusted EPS of $1.44 versus $0.93 a year earlier, while reported EPS was $0.39 versus $0.92. It reaffirmed 2026 adjusted EPS guidance of $3.83 to $3.90 and 2027 guidance of $4.08 to $4.17. The wide gap between reported and adjusted EPS is worth reading against the company's reconciliation.",
-      "source_name": "CMS Energy Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/cms-energy-announces-third-quarter-results-reaffirms-2026-and-2027-adjusted-eps-guidance-302920059.html",
-      "ticker": "NYSE:CMS",
-      "time": "2026-10-27T19:11:51Z",
-      "checked": "2026-10-27T18:49:51Z"
     }
   ]
 }

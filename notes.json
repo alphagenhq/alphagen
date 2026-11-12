@@ -1,6 +1,97 @@
 {
-  "updated": "2026-11-12T17:45:15Z",
+  "updated": "2026-11-12T21:39:24Z",
   "items": [
+    {
+      "id": "2026-11-12-the-close",
+      "time": "2026-11-12T21:45:00Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Barr on wealth and AI, a revised 2027 FOMC calendar, and NVIDIA's CEO change",
+      "dek": "Governor Barr's Yale speech, the Fed's 2027 meeting schedule, a lower mortgage rate on FRED and EIA's November energy outlook shaped Thursday's official news flow.",
+      "key_points": [
+        "Fed Governor Barr said the top 0.1% of households, about 135,000 individuals and families, own one-sixth of U.S. wealth, and that the labor share of income reached a record low of 52.8% in Q2 2026.",
+        "The Fed's revised tentative 2027 FOMC calendar lists eight meetings, with Oct. 26-27 dedicated to broad monetary policy strategy issues.",
+        "NVIDIA's Form 8-K says Jensen Huang resigned as CEO effective immediately; CFO Colette Kress is interim CEO, and results are still scheduled for Nov. 17.",
+        "FRED shows the 30-year mortgage rate at 7.11% on Nov. 12, from 7.18% on Nov. 5 and 7.40% on Oct. 15; initial jobless claims were 200,000 in the week ended Nov. 7.",
+        "EIA's November outlook has Brent averaging $97 a barrel in 2026 and $86 in 2027, and record U.S. crude production of 14.3 million b/d in 2027."
+      ],
+      "talking_points": [
+        "Are mortgage rates coming down? A little. FRED's series for Freddie Mac's survey shows the 30-year rate at 7.11% on Nov. 12, down from 7.18% a week earlier and 7.40% on Oct. 15, four weekly declines in a row. A rate still above 7% keeps monthly payments high, so anyone planning a purchase may want to compare a few lenders and budget for today's rate rather than wait for a particular number.",
+        "Will oil and gas prices stay high? EIA does not expect it. Its November outlook has Brent averaging $97 a barrel in 2026 and $86 in 2027, after $124 in October, and retail gasoline at $3.89 a gallon in 2026 and $3.73 in 2027. The forecast is not a guarantee, but it suggests energy costs are expected to ease rather than rise, so it is reasonable to plan household budgets around today's prices and treat any relief as a bonus.",
+        "Is the job market cracking? Not in this week's data. Initial jobless claims were 200,000 in the week ended Nov. 7, up from 191,000 the week before. A single weekly reading can move around, so the next jobs report on Dec. 4 is a better gauge, and keeping an emergency fund is a sound habit either way."
+      ],
+      "body": [
+        {
+          "h": "The Fed's day"
+        },
+        "Governor Michael Barr's Nov. 12 speech used the Fed's 2025 Survey of Consumer Finances to describe how wealth is concentrated. He said the upper 1% hold about one-third of household wealth, nearly $60 trillion, while the top 0.1%, about 135,000 individuals and families, own one-sixth. A household at the lower edge of the top 1% has $16.3 million, he said, compared with $215,000 for a household in the middle of the distribution. Private equity makes up 12% of the top 0.1%'s assets. He also said the labor share of national income, which stayed between 60% and 65% after World War II, began falling in 2001 and reached a record low of 52.8% in the second quarter of 2026.",
+        "Separately, the Fed announced a revised tentative schedule of FOMC meetings for 2027: Jan. 26-27, Mar. 16-17, Apr. 27-28, Jun. 8-9, Jul. 27-28, Sep. 14-15, Oct. 26-27 and Nov. 16-17, plus Jan. 25-26, 2028. The Oct. 26-27 meeting is to be dedicated to broad monetary policy strategy issues. The Board also announced pricing effective Jan. 1, 2027 for Reserve Bank payment services, with an estimated 1.4% average increase for established, mature services.",
+        {
+          "h": "Companies and markets data"
+        },
+        "NVIDIA's Form 8-K reports that its Board accepted Jensen Huang's resignation as President, CEO and director effective immediately and appointed Executive Vice President and CFO Colette Kress interim CEO while the Board searches for a permanent chief executive. Harvey C. Jones was appointed the Board's first-ever Chair. The company said it will report third-quarter fiscal 2027 results on Tuesday, Nov. 17, as previously scheduled. Marvell's 8-K separately reported that its Board expanded from seven to ten members.",
+        "FRED's latest observations show the high-yield spread at 3.30 percentage points on Nov. 11 and the investment-grade spread at 0.90. The 30-year fixed mortgage rate was 7.11% on Nov. 12, and initial jobless claims were 200,000 in the week ended Nov. 7, against 191,000 the previous week.",
+        {
+          "h": "Energy outlook"
+        },
+        "EIA's November Short-Term Energy Outlook shows Brent averaging $97 a barrel in 2026 and $86 in 2027 (rounded), with October's average at $124. It forecasts U.S. crude production of 13.9 million barrels a day in 2026 and a record 14.3 million in 2027, Henry Hub gas at $3.37 per MMBtu in 2026 and $2.88 in 2027, and retail gasoline at $3.89 a gallon in 2026 and $3.73 in 2027.",
+        {
+          "h": "Ahead"
+        },
+        "BLS lists the October Producer Price Index for Friday, Nov. 13 at 8:30 a.m. ET. The Fed's calendar has industrial production on Nov. 17 at 9:15 a.m., the minutes of the Oct. 27-28 FOMC meeting on Nov. 18 at 2:00 p.m., and the Beige Book on Nov. 25 at 2:00 p.m. NVIDIA reports on Nov. 17."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve Board, Barr speech",
+          "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"
+        },
+        {
+          "name": "Federal Reserve Board, 2027 FOMC schedule",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+        },
+        {
+          "name": "Federal Reserve Board, payment services pricing",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+        },
+        {
+          "name": "SEC EDGAR, NVIDIA Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082.txt"
+        },
+        {
+          "name": "SEC EDGAR, Marvell Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026.txt"
+        },
+        {
+          "name": "EIA Short-Term Energy Outlook",
+          "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf"
+        },
+        {
+          "name": "FRED, 30-year mortgage rate",
+          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+        },
+        {
+          "name": "FRED, initial jobless claims",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        },
+        {
+          "name": "FRED, high-yield spread",
+          "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+        },
+        {
+          "name": "Federal Reserve Board, November calendar",
+          "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+        },
+        {
+          "name": "BLS, Producer Price Index",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        }
+      ],
+      "tickers": [
+        "NASDAQ:NVDA",
+        "NASDAQ:MRVL"
+      ],
+      "checked": "2026-11-12T21:39:24Z"
+    },
     {
       "id": "2026-11-12-housing-starts-permits-gap",
       "time": "2026-11-12T17:45:15Z",
