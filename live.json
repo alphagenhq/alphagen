@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T11:59:16Z",
+ "updated": "2026-11-12T19:49:40Z",
  "items": [
+  {
+   "id": "live-0001193125-26-457876-1.01",
+   "time": "2026-11-12T18:13:37Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Enterprise Products Partners L.P discloses a material agreement",
+   "take": "Enterprise Products Partners L.P reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 1:13 PM ET, Nov 12.",
+   "source_name": "SEC EDGAR, EPD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1061219/000119312526457876/0001193125-26-457876-index.htm",
+   "ticker": "NYSE:EPD"
+  },
+  {
+   "id": "live-0001835632-26-000026-5.02",
+   "time": "2026-11-12T14:11:22Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Marvell Technology reports an executive or board change",
+   "take": "Marvell Technology reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 9:11 AM ET, Nov 12.",
+   "source_name": "SEC EDGAR, MRVL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm",
+   "ticker": "NASDAQ:MRVL"
+  },
+  {
+   "id": "live-0001045810-26-000082-5.02",
+   "time": "2026-11-12T13:52:41Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "NVIDIA reports an executive or board change",
+   "take": "NVIDIA reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 8:52 AM ET, Nov 12.",
+   "source_name": "SEC EDGAR, NVDA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm",
+   "ticker": "NASDAQ:NVDA"
+  },
   {
    "id": "live-0001193125-26-456656-5.02",
    "time": "2026-11-12T11:05:19Z",
