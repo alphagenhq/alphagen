@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-12T17:44:56Z",
+  "updated": "2026-11-12T18:38:19Z",
   "items": [
+    {
+      "id": "2026-11-12-nvda-ceo-huang-resigns",
+      "time": "2026-11-12T18:42:00Z",
+      "tag": "EQUITIES",
+      "headline": "NVIDIA says Jensen Huang resigned as CEO; CFO Kress named interim CEO",
+      "take": "NVIDIA's Form 8-K (Item 5.02) says its Board accepted the resignation of Jensen Huang as President, CEO and director, effective immediately, and appointed CFO Colette Kress interim CEO while she remains CFO. Harvey Jones was named Chair of the Board, which the company's release calls its first-ever chair, and the Board is searching for a permanent CEO. The release says NVIDIA will still report third-quarter fiscal 2027 results on Tuesday, Nov. 17. AlphaGen read: that call is now the first public test of the interim structure.",
+      "source_name": "SEC EDGAR, NVDA Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082.txt",
+      "ticker": "NASDAQ:NVDA",
+      "checked": "2026-11-12T18:38:19Z"
+    },
+    {
+      "id": "2026-11-12-barr-sce-wealth-concentration",
+      "time": "2026-11-12T18:50:00Z",
+      "tag": "FED",
+      "headline": "Barr cites Fed survey: top 1% of households hold about one-third of U.S. wealth",
+      "take": "In a Nov. 12 speech, Fed Governor Barr said the Fed's 2025 Survey of Consumer Finances shows the wealthiest 10% of households hold nearly three-fourths of wealth, the top 1% about one-third (nearly $60 trillion), and the bottom half just over 2%. He also cited a labor share of national income of 52.8% in Q2 2026, a record low, and 31% of 2025 survey respondents lacking cash for a $500 emergency. AlphaGen read: the speech frames distribution as an input to the outlook rather than a signal on rates.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+      "checked": "2026-11-12T18:38:19Z"
+    },
+    {
+      "id": "2026-11-12-freddie-pmms-nov12-711",
+      "time": "2026-11-12T18:58:00Z",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate 7.11% on Nov. 12, fourth straight weekly decline",
+      "take": "FRED's weekly 30-year fixed mortgage rate series reads 7.11% for Nov. 12, down from 7.18% on Nov. 5, 7.24% on Oct. 29 and 7.32% on Oct. 22. That is 0.29 percentage point below the 7.40% reading for Oct. 8 and Oct. 15. AlphaGen read: borrowing costs are easing steadily but remain above 7%.",
+      "source_name": "Freddie Mac via FRED",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-11-12T18:38:19Z"
+    },
+    {
+      "id": "2026-11-12-eia-alaska-crude-2027",
+      "time": "2026-11-12T19:06:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA sees Alaska crude output up 13% in 2027 to 505,000 b/d, most since 2014",
+      "take": "EIA's November Short-Term Energy Outlook forecasts Alaskan crude production up 23,000 b/d (6%) in 2026 and 60,000 b/d (13%) in 2027, to 505,000 b/d, which EIA says would be the most since 2014. EIA attributes the growth to the Nuna project (ConocoPhillips) and Pikka Phase 1 (Santos and Repsol), which reached 38,000 b/d as of September 2026. AlphaGen read: a small but notable domestic supply addition against 2027 forecasts.",
+      "source_name": "U.S. Energy Information Administration",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+      "checked": "2026-11-12T18:38:19Z"
+    },
+    {
+      "id": "2026-11-12-fomc-2027-schedule-revised",
+      "time": "2026-11-12T19:14:00Z",
+      "tag": "FED",
+      "headline": "Fed revises 2027 FOMC calendar: eight meetings, Oct. 26-27 set for strategy",
+      "take": "The Federal Reserve announced a revised tentative 2027 FOMC schedule listing meetings on Jan. 26-27, Mar. 16-17, Apr. 27-28, Jun. 8-9, Jul. 27-28, Sep. 14-15, Oct. 26-27 and Nov. 16-17, plus Jan. 25-26, 2028. It says the Oct. 26-27 meeting will be dedicated to broad monetary policy strategy issues, so no policy decision is announced that day as usual. AlphaGen read: investors should treat Oct. 27, 2027 as a non-decision date.",
+      "source_name": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "checked": "2026-11-12T18:38:19Z"
+    },
+    {
+      "id": "2026-11-12-fed-payment-services-2027-pricing",
+      "time": "2026-11-12T19:22:00Z",
+      "tag": "FED",
+      "headline": "Fed sets 2027 payment-service prices: 1.4% average rise for mature services",
+      "take": "The Federal Reserve Board announced pricing effective Jan. 1, 2027 for Reserve Bank payment services to banks and credit unions, expecting to recover 101.5% of actual and imputed expenses in 2027. Price changes imply an estimated 1.4% average increase for established, mature services, and its check-service changes include optimizing processing windows during low-volume periods and increasing fees banks and credit unions pay to process checks. The Fed says consumers' and businesses' ability to pay with or receive checks is not affected.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "checked": "2026-11-12T18:38:19Z"
+    },
+    {
+      "id": "2026-11-12-mrvl-board-expands-ten",
+      "time": "2026-11-12T19:28:00Z",
+      "tag": "EQUITIES",
+      "headline": "Marvell expands board from seven to ten, adds three independent directors",
+      "take": "Marvell's Form 8-K (Item 5.02) says its Board approved on Nov. 11 an increase in size from seven to ten members and appointed Donna C. Morris, Douglas R. Bettinger and Sasan K. Goodarzi, effective Nov. 12. The Board determined all three are independent; Bettinger joins the Audit Committee and qualifies as an audit committee financial expert, while Morris and Goodarzi join the Executive Compensation Committee. All three will stand for election at the 2027 annual meeting.",
+      "source_name": "SEC EDGAR, MRVL Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026.txt",
+      "ticker": "NASDAQ:MRVL",
+      "checked": "2026-11-12T18:38:19Z"
+    },
     {
       "id": "2026-11-12-ppi-oct-due-friday",
       "time": "2026-11-12T17:52:56Z",
@@ -5219,81 +5291,6 @@
       "source_name": "BCE press release (PR Newswire)",
       "source_url": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
       "checked": "2026-10-27T16:57:10Z"
-    },
-    {
-      "id": "2026-10-27-eneos-tpc-closed",
-      "time": "2026-10-27T17:23:10Z",
-      "tag": "DEALS",
-      "headline": "ENEOS Holdings completes acquisition of TPC Group",
-      "take": "TPC Group announced the completion of its acquisition by ENEOS Holdings, Inc. in a release dated Oct. 27, 2026. The release excerpt reviewed does not disclose a purchase price. The completed transaction moves TPC Group into ENEOS ownership.",
-      "source_name": "TPC Group / ENEOS press release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388927/15270/en/eneos-holdings-closes-deal-to-acquire-tpc-group.html",
-      "checked": "2026-10-27T16:57:10Z"
-    },
-    {
-      "id": "2026-10-27-cts-q3",
-      "time": "2026-10-27T17:31:10Z",
-      "tag": "EARNINGS",
-      "headline": "CTS Q3 sales $149.6M, diluted EPS $0.61 vs $0.46; raises 2026 outlook",
-      "take": "CTS reported Q3 2026 sales of $149.6 million versus $143.0 million, net income of $17.8 million versus $13.7 million, and diluted EPS of $0.61 versus $0.46. Adjusted diluted EPS was $0.77 versus $0.60. It raised 2026 sales guidance to $580-$590 million from $565-$585 million and adjusted EPS guidance to $2.78-$2.88 from $2.55-$2.70.",
-      "source_name": "CTS Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388903/0/en/cts-announces-third-quarter-2026-results.html",
-      "ticker": "NYSE:CTS",
-      "checked": "2026-10-27T16:57:10Z"
-    },
-    {
-      "id": "2026-10-27-ssd-q3",
-      "time": "2026-10-27T17:39:10Z",
-      "tag": "EARNINGS",
-      "headline": "Simpson Manufacturing Q3 net sales $638.1M vs $623.5M; EPS $2.68",
-      "take": "Simpson Manufacturing reported Q3 2026 net sales of $638.1 million, up 2.3% from $623.5 million, and diluted EPS of $2.68 versus $2.58. Net income was $109.1 million versus $107.4 million, and adjusted EBITDA was $167.2 million versus $155.7 million. The company estimates 2026 consolidated operating margin of 20.0% to 20.5%, including a projected $11.0 million land-sale gain now expected in Q4.",
-      "source_name": "Simpson Manufacturing Q3 2026 earnings release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/simpson-manufacturing-co-inc-announces-2026-third-quarter-financial-results-and-updates-2026-guidance-302918800.html",
-      "ticker": "NYSE:SSD",
-      "checked": "2026-10-27T16:57:10Z"
-    },
-    {
-      "id": "2026-10-27-thff-q3",
-      "time": "2026-10-27T14:50:42Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:THFF",
-      "headline": "First Financial Corp Q3 EPS $2.31 vs $1.75; net interest margin 4.51%",
-      "take": "First Financial Corporation reported Q3 2026 net income of $27.4 million, or $2.31 per diluted share, versus $20.8 million, or $1.75, in Q3 2025. Net interest margin was 4.51% versus 4.25% a year earlier, and net interest income was $63.5 million versus $54.6 million. The release notes a pending merger with First Illinois Corporation expected to close in Q1 2027. Both net interest income and margin rose year over year in the figures shown.",
-      "source_name": "First Financial Corporation Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389069/0/en/first-financial-corporation-reports-third-quarter-results.html",
-      "checked": "2026-10-27T14:45:42Z"
-    },
-    {
-      "id": "2026-10-27-cbc-q3",
-      "time": "2026-10-27T15:00:42Z",
-      "tag": "EARNINGS",
-      "headline": "Central Bancompany Q3 net income $116.2M vs $97.1M; NIM 4.48%",
-      "take": "Central Bancompany reported Q3 2026 net income of $116.2 million, or $0.48 per diluted share, versus $97.1 million, or $0.44, in Q3 2025. Net interest margin was 4.48% versus 4.36% a year earlier, and total assets were about $20.2 billion at Sept. 30, 2026. The release describes the results as preliminary and the tables as unaudited.",
-      "source_name": "Central Bancompany Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388910/0/en/central-bancompany-inc-reports-third-quarter-2026-results.html",
-      "checked": "2026-10-27T14:45:42Z"
-    },
-    {
-      "id": "2026-10-27-cac-q3",
-      "time": "2026-10-27T15:10:42Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:CAC",
-      "headline": "Camden National Q3 EPS $1.34 vs $1.25; net interest margin 3.41%",
-      "take": "Camden National Corporation reported Q3 2026 net income of $22.8 million, or $1.34 per diluted share, versus $21.2 million, or $1.25, in Q3 2025. Fully taxable equivalent net interest margin was 3.41% versus 3.16% a year earlier, while total loans were $5.0 billion, essentially flat from Sept. 30, 2025. Earnings growth here came from margin expansion rather than loan growth, based on those figures.",
-      "source_name": "Camden National Corporation Q3 2026 release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/camden-national-corporation-reports-third-quarter-2026-net-income-up-8-year-over-year-302919818.html",
-      "checked": "2026-10-27T14:45:42Z"
-    },
-    {
-      "id": "2026-10-27-ibcp-q3",
-      "time": "2026-10-27T15:20:42Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:IBCP",
-      "headline": "Independent Bank Corp Q3 EPS $0.80 vs $0.84; total assets $6.26B",
-      "take": "Independent Bank Corporation reported Q3 2026 net income of $17.9 million, or $0.80 per diluted share, versus $17.5 million, or $0.84, in the prior-year period. Net interest margin rose to 3.79% from 3.51%, and total assets were $6.26 billion at Sept. 30, 2026 versus $5.66 billion at June 30. Net income edged higher while per-share earnings fell, which the figures shown suggest reflects a larger share count.",
-      "source_name": "Independent Bank Corporation Q3 2026 release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388747/36248/en/independent-bank-corporation-reports-2026-third-quarter-earnings-of-0-80-per-diluted-share.html",
-      "checked": "2026-10-27T14:45:42Z"
     }
   ]
 }
