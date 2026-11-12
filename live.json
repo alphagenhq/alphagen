@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T21:18:43Z",
+ "updated": "2026-11-12T11:59:16Z",
  "items": [
+  {
+   "id": "live-0001193125-26-456656-5.02",
+   "time": "2026-11-12T11:05:19Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Invitation Homes reports an executive or board change",
+   "take": "Invitation Homes reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:05 AM ET, Nov 12.",
+   "source_name": "SEC EDGAR, INVH Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1687229/000119312526456656/0001193125-26-456656-index.htm",
+   "ticker": "NYSE:INVH"
+  },
+  {
+   "id": "live-0001193125-26-456624-5.02",
+   "time": "2026-11-12T11:03:57Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Public Storage reports an executive or board change",
+   "take": "Public Storage reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:03 AM ET, Nov 12.",
+   "source_name": "SEC EDGAR, PSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526456624/0001193125-26-456624-index.htm",
+   "ticker": "NYSE:PSA"
+  },
   {
    "id": "live-0001104659-26-125204-5.02",
    "time": "2026-11-10T21:17:08Z",
