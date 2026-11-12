@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-10T21:39:44Z",
+  "updated": "2026-11-12T19:44:16Z",
   "items": [
+    {
+      "id": "2026-11-12-epd-senior-notes",
+      "time": "2026-11-12T20:24:00Z",
+      "type": "Debt",
+      "headline": "Enterprise Products Operating details $1.5B senior notes in two $750M series (2032, 2037)",
+      "parties": "Issuer: Enterprise Products Operating LLC; Guarantor: Enterprise Products Partners L.P.",
+      "value": 1.5,
+      "value_text": "$1.5 billion ($750M 5.20% due Feb. 15, 2032; $750M 5.65% due Feb. 15, 2037)",
+      "status": "Announced",
+      "announced": "2026-11-12",
+      "sector": "Energy",
+      "take": "The notes are general unsecured senior obligations, fully and unconditionally guaranteed by Enterprise Products Partners, with interest accruing from Nov. 12, 2026. Each series is issued in $1,000 denominations in book-entry form.",
+      "source_name": "SEC EDGAR, EPD Form 8-K (Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1061219/000119312526457876/d134562dex991.htm",
+      "tickers": [
+        "NYSE:EPD"
+      ],
+      "checked": "2026-11-12T19:44:16Z"
+    },
     {
       "id": "2026-11-10-northern-trust-notes",
       "time": "2026-11-10T22:37:44Z",

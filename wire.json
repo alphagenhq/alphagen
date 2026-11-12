@@ -1,6 +1,57 @@
 {
-  "updated": "2026-11-12T18:38:19Z",
+  "updated": "2026-11-12T19:44:16Z",
   "items": [
+    {
+      "id": "2026-11-12-epd-notes-2032-2037",
+      "time": "2026-11-12T19:46:00Z",
+      "tag": "DEBT",
+      "headline": "Enterprise Products details $1.5B notes: 5.20% due 2032, 5.65% due 2037",
+      "take": "An Enterprise Products Partners Form 8-K exhibit describes two new senior note series from Enterprise Products Operating LLC, each initially $750 million: 5.20% notes maturing Feb. 15, 2032 and 5.65% notes maturing Feb. 15, 2037. Interest accrues from Nov. 12, 2026, is paid semi-annually starting Feb. 15, 2027, and the parent guarantees the notes. AlphaGen read: the 0.45-point coupon gap between the two maturities is a clean snapshot of the issuer's five-year-longer borrowing cost.",
+      "source_name": "SEC EDGAR, EPD Form 8-K (Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1061219/000119312526457876/d134562dex991.htm",
+      "ticker": "NYSE:EPD",
+      "checked": "2026-11-12T19:44:16Z"
+    },
+    {
+      "id": "2026-11-12-barr-top-tenth-percent",
+      "time": "2026-11-12T19:53:00Z",
+      "tag": "FED",
+      "headline": "Barr: top 0.1% of households own one-sixth of U.S. wealth; median household has $215,000",
+      "take": "In his Nov. 12 Yale speech, Governor Barr said the top 0.1% of households, about 135,000 individuals and families, own one-sixth of U.S. wealth, citing the Fed's 2025 Survey of Consumer Finances. He put the entry point to the top 1% at $16.3 million, 75 times the $215,000 of a household in the middle, and said private equity makes up 12% of the top 0.1%'s assets. AlphaGen read: the speech treats distribution as context for how the economy responds to AI rather than as a rates signal.",
+      "source_name": "Federal Reserve Board, Barr speech",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+      "checked": "2026-11-12T19:44:16Z"
+    },
+    {
+      "id": "2026-11-12-barr-labor-share-drivers",
+      "time": "2026-11-12T20:01:00Z",
+      "tag": "FED",
+      "headline": "Barr names three drivers of the falling labor share of national income",
+      "take": "Barr said the labor share of national income, steady at 60% to 65% after World War II, began falling in 2001 and reached a record low of 52.8% in Q2 2026. He cited three causes from economic research: technology that reduced labor demand, concentrated market power in many industries, and weaker worker bargaining power. AlphaGen read: he ties each cause to how AI may affect inequality, so the labor share is a variable he is tracking for the outlook.",
+      "source_name": "Federal Reserve Board, Barr speech",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+      "checked": "2026-11-12T19:44:16Z"
+    },
+    {
+      "id": "2026-11-12-census-bfs-annual-update",
+      "time": "2026-11-12T20:10:00Z",
+      "tag": "MACRO",
+      "headline": "Census applies annual update to Business Formation Statistics with October release",
+      "take": "Census says the latest annual update to Business Formation Statistics was applied in the October 2026 monthly release on Nov. 12. The update revises NAICS codes for the previous five years, updates the business-formation series from the Business Dynamic Statistics program, and recomputes seasonal factors, which revises the seasonally adjusted series. AlphaGen read: seasonally adjusted application counts quoted before today may differ from the revised history.",
+      "source_name": "U.S. Census Bureau, Business Formation Statistics",
+      "source_url": "https://www.census.gov/econ/bfs/",
+      "checked": "2026-11-12T19:44:16Z"
+    },
+    {
+      "id": "2026-11-12-fed-consent-prohibition-ucb",
+      "time": "2026-11-12T20:18:00Z",
+      "tag": "FED",
+      "headline": "Fed announces consent prohibition against ex-United Community Bank employee",
+      "take": "The Federal Reserve Board said Nov. 12 it executed a consent prohibition against a former employee of United Community Bank, Greenville, South Carolina, for misappropriation of customer funds. The action is listed on the Board's enforcement actions page. AlphaGen read: the notice is an individual-level action and does not describe any finding about the bank itself.",
+      "source_name": "Federal Reserve Board, press release",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "checked": "2026-11-12T19:44:16Z"
+    },
     {
       "id": "2026-11-12-nvda-ceo-huang-resigns",
       "time": "2026-11-12T18:42:00Z",
@@ -5237,60 +5288,6 @@
       "source_url": "https://globenewswire.com/news-release/2026/10/27/3389491/0/en/asm-reports-third-quarter-2026-results.html",
       "ticker": "EURONEXT:ASM",
       "checked": "2026-10-27T17:50:04Z"
-    },
-    {
-      "id": "2026-10-27-glxy-q3",
-      "time": "2026-10-27T18:22:04Z",
-      "tag": "CRYPTO",
-      "headline": "Galaxy Q3 net income $323M vs Q2 loss of $85M; diluted EPS $0.66",
-      "take": "Galaxy Digital reported Q3 2026 net income of $323 million versus a net loss of $85 million in Q2, with diluted EPS of $0.66. Adjusted EBITDA was $455 million versus negative $77 million in Q2. The release compares against Q2, so the swing reflects a quarter-over-quarter turnaround, not a year-over-year gain.",
-      "source_name": "Galaxy Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/galaxy-announces-third-quarter-2026-financial-results-302920339.html",
-      "ticker": "NASDAQ:GLXY",
-      "checked": "2026-10-27T17:50:04Z"
-    },
-    {
-      "id": "2026-10-27-glxy-datacenters",
-      "time": "2026-10-27T18:34:04Z",
-      "tag": "CRYPTO",
-      "headline": "Galaxy data centers Q3 adj. gross profit $79M vs $20M; $3.5B notes for Helios",
-      "take": "Galaxy's Data Centers segment posted Q3 adjusted gross profit of $79 million versus $20 million in Q2, and total assets rose to $16.4 billion from $10.8 billion. The company completed a $3.5 billion senior secured notes offering to fund construction of Helios I, Phase II. The balance sheet is expanding alongside its data-center build-out.",
-      "source_name": "Galaxy Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/galaxy-announces-third-quarter-2026-financial-results-302920339.html",
-      "ticker": "NASDAQ:GLXY",
-      "checked": "2026-10-27T17:50:04Z"
-    },
-    {
-      "id": "2026-10-27-shw-q3",
-      "time": "2026-10-27T16:59:10Z",
-      "tag": "EARNINGS",
-      "headline": "Sherwin-Williams Q3 sales $6.86B vs $6.36B; net income down 1.5%",
-      "take": "Sherwin-Williams reported Q3 2026 consolidated net sales of $6,860.0 million versus $6,358.2 million, up 7.9%. Diluted EPS was $3.38 versus $3.35 and net income was $821.0 million versus $833.1 million. Sales grew faster than profit in the quarter, with per-share earnings roughly flat.",
-      "source_name": "Sherwin-Williams Q3 2026 earnings release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/the-sherwin-williams-company-reports-2026-third-quarter-financial-results-302920605.html",
-      "ticker": "NYSE:SHW",
-      "checked": "2026-10-27T16:57:10Z"
-    },
-    {
-      "id": "2026-10-27-shw-guide",
-      "time": "2026-10-27T17:07:10Z",
-      "tag": "EQUITIES",
-      "headline": "Sherwin-Williams narrows 2026 adjusted EPS guide to $11.85-$12.15",
-      "take": "Sherwin-Williams narrowed full-year 2026 adjusted diluted EPS guidance to $11.85 to $12.15 and revised diluted EPS guidance to $10.92 to $11.22. It expects full-year net sales up a mid to high-single-digit percentage and a mid-single-digit increase in the fourth quarter. A narrower range signals less uncertainty about the year-end outcome than a wide one does.",
-      "source_name": "Sherwin-Williams Q3 2026 earnings release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/the-sherwin-williams-company-reports-2026-third-quarter-financial-results-302920605.html",
-      "ticker": "NYSE:SHW",
-      "checked": "2026-10-27T16:57:10Z"
-    },
-    {
-      "id": "2026-10-27-bce-lacaisse-tower",
-      "time": "2026-10-27T17:15:10Z",
-      "tag": "DEALS",
-      "headline": "BCE: La Caisse to buy 49.9% of Bell tower company for C$2.45B",
-      "take": "Bell Canada and La Caisse announced a partnership under which La Caisse will acquire a 49.9% stake in TowerCo, a newly formed wireless tower company, for C$2.45 billion subject to customary adjustments, which the release says values TowerCo at about C$4.91 billion. Bell keeps a 50.1% controlling interest, and closing is expected in Q1 2027 pending regulatory approvals. The structure raises capital while keeping control of the towers.",
-      "source_name": "BCE press release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/bce-announces-partnership-with-la-caisse-which-will-acquire-49-9-stake-in-bell-wireless-tower-infrastructure-company-822276026.html",
-      "checked": "2026-10-27T16:57:10Z"
     }
   ]
 }
