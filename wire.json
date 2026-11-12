@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-12T19:44:16Z",
+  "updated": "2026-11-12T20:39:57Z",
   "items": [
+    {
+      "id": "2026-11-12-fed-cp-nov9-rates",
+      "time": "2026-11-12T20:58:00Z",
+      "tag": "RATES",
+      "headline": "Fed commercial paper: AA nonfinancial 30-day 4.01%, financial 90-day 4.03% on Nov. 9",
+      "take": "The Federal Reserve's commercial paper release, posted Nov. 10, shows AA nonfinancial 30-day paper at 4.01% and AA financial 90-day paper at 4.03% on Nov. 9. Seasonally adjusted commercial paper outstanding was $1,503.3 billion on Nov. 4, up $4.3 billion from $1,499.0 billion on Oct. 28. AlphaGen read: the weekly total is the Fed's gauge of how much short-term paper corporations have outstanding, and it edged higher.",
+      "source_name": "Federal Reserve Board, Commercial Paper Rates and Outstanding",
+      "source_url": "https://www.federalreserve.gov/releases/cp/",
+      "checked": "2026-11-12T20:39:57Z"
+    },
+    {
+      "id": "2026-11-12-fed-minutes-nov18-beige-nov25",
+      "time": "2026-11-12T21:07:00Z",
+      "tag": "FED",
+      "headline": "Fed calendar: FOMC minutes Nov. 18 at 2 p.m., Beige Book Nov. 25 at 2 p.m.",
+      "take": "The Federal Reserve Board's November calendar lists the minutes of the Oct. 27-28 FOMC meeting for Nov. 18 at 2:00 p.m. ET and the Beige Book for Nov. 25 at 2:00 p.m. ET. Industrial production (G.17) is set for Nov. 17 at 9:15 a.m. and the H.4.1 balance sheet for Nov. 19. AlphaGen read: the minutes are the next primary-source detail on how the Committee described its October decision.",
+      "source_name": "Federal Reserve Board, Calendar: November 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-12T20:39:57Z"
+    },
+    {
+      "id": "2026-11-12-bls-nov-jobs-dec4-cpi-dec10",
+      "time": "2026-11-12T21:16:00Z",
+      "tag": "MACRO",
+      "headline": "BLS sets November jobs report for Dec. 4 and November CPI for Dec. 10, both 8:30 a.m. ET",
+      "take": "The BLS says the Employment Situation for November 2026 will be published Friday, Dec. 4, at 8:30 a.m. ET, and the November CPI release Thursday, Dec. 10, at 8:30 a.m. ET. The October jobs report showed payrolls up 165,000 and unemployment at 4.1%; October CPI rose 0.4% on a seasonally adjusted basis. AlphaGen read: those two October readings are the baseline the next reports will be measured against.",
+      "source_name": "U.S. Bureau of Labor Statistics, Employment Situation and CPI news releases",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-12T20:39:57Z"
+    },
+    {
+      "id": "2026-11-12-fred-30y-2y-nov9",
+      "time": "2026-11-12T21:25:00Z",
+      "tag": "RATES",
+      "headline": "30-year Treasury yield 0.70 point above 2-year on Nov. 9: 5.26% vs 4.56%",
+      "take": "FRED shows the 30-year Treasury constant-maturity yield at 5.26% and the 2-year at 4.56% on Nov. 9, a 0.70-point gap; the 10-year was 4.88%. The 30-year was 5.28% on Nov. 2, when the 2-year was 4.59%. AlphaGen read: the long end sits 0.38 point above the 10-year, so most of the curve's slope sits beyond the 10-year point.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS30, DGS2, DGS10)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-12T20:39:57Z"
+    },
     {
       "id": "2026-11-12-epd-notes-2032-2037",
       "time": "2026-11-12T19:46:00Z",
@@ -5244,50 +5284,6 @@
       "ticker": "NYSE:CMS",
       "time": "2026-10-27T19:11:51Z",
       "checked": "2026-10-27T18:49:51Z"
-    },
-    {
-      "id": "2026-10-27-itri-q3",
-      "tag": "EARNINGS",
-      "headline": "Itron Q3 revenue $599M vs $582M; non-GAAP EPS $1.94 vs $1.54",
-      "take": "Itron reported Q3 2026 revenue of $599.3 million versus $581.6 million, GAAP diluted EPS of $1.61 versus $1.41, and non-GAAP diluted EPS of $1.94 versus $1.54. It guided Q4 revenue to $621 million to $636 million and full-year 2026 revenue to $2.37 billion to $2.385 billion. Revenue rose about 3.0% year over year, with profit growing much faster.",
-      "source_name": "Itron Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388994/0/en/itron-announces-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:ITRI",
-      "time": "2026-10-27T19:21:51Z",
-      "checked": "2026-10-27T18:49:51Z"
-    },
-    {
-      "id": "2026-10-27-rgen-q3",
-      "tag": "EARNINGS",
-      "headline": "Repligen Q3 revenue $209.3M vs $188.8M; sets FY revenue guide $844-$852M",
-      "take": "Repligen reported Q3 2026 revenue of $209.3 million versus $188.8 million, a GAAP diluted loss of $0.68 per share versus EPS of $0.26, and adjusted diluted EPS of $0.53 versus $0.46. Full-year 2026 guidance is for revenue of $844 million to $852 million and adjusted diluted EPS of $2.05 to $2.09. Revenue rose about 10.9% year over year while GAAP results swung to a loss.",
-      "source_name": "Repligen Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388843/24603/en/repligen-reports-third-quarter-2026-financial-results-and-updates-full-year-2026-financial-guidance.html",
-      "ticker": "NASDAQ:RGEN",
-      "time": "2026-10-27T19:31:51Z",
-      "checked": "2026-10-27T18:49:51Z"
-    },
-    {
-      "id": "2026-10-27-asm-q3",
-      "time": "2026-10-27T17:58:04Z",
-      "tag": "EARNINGS",
-      "headline": "ASM International Q3 revenue €1,159.4M vs €800.0M; operating margin 32.7%",
-      "take": "ASM International reported Q3 2026 revenue of €1,159.4 million versus €800.0 million in Q3 2025 (45% reported, 44% at constant currency) and €1,003.1 million in Q2. Operating margin was 32.7% versus 30.3% a year earlier, and gross margin was 52.0%. Revenue rose far faster than costs, lifting margins on a year-over-year basis.",
-      "source_name": "ASM International Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://globenewswire.com/news-release/2026/10/27/3389491/0/en/asm-reports-third-quarter-2026-results.html",
-      "ticker": "EURONEXT:ASM",
-      "checked": "2026-10-27T17:50:04Z"
-    },
-    {
-      "id": "2026-10-27-asm-outlook",
-      "time": "2026-10-27T18:10:04Z",
-      "tag": "GLOBAL",
-      "headline": "ASM guides Q4 revenue €1,230M ±5%; 2027 revenue seen above €5.7B",
-      "take": "ASM said it expects Q4 2026 revenue of €1,230 million +/-5% at constant currencies, full-year 2026 revenue up approximately 35%, and 2027 revenue of more than €5.7 billion. It also authorized a new share buyback of up to €300 million. The 2027 projection is stated as company guidance, not an outcome.",
-      "source_name": "ASM International Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://globenewswire.com/news-release/2026/10/27/3389491/0/en/asm-reports-third-quarter-2026-results.html",
-      "ticker": "EURONEXT:ASM",
-      "checked": "2026-10-27T17:50:04Z"
     }
   ]
 }
