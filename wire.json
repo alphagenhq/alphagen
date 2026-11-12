@@ -1,6 +1,67 @@
 {
-  "updated": "2026-11-12T01:39:27Z",
+  "updated": "2026-11-12T02:39:16Z",
   "items": [
+    {
+      "id": "2026-11-12-fred-10y2y-nov10",
+      "time": "2026-11-12T03:29:00Z",
+      "tag": "RATES",
+      "headline": "10-year minus 2-year Treasury spread 0.25 point on Nov. 10, from 0.32 on Nov. 9",
+      "take": "FRED shows the 10-year minus 2-year Treasury constant-maturity spread at 0.25 percentage point on Nov. 10, down from 0.32 on Nov. 9 and 0.38 on Nov. 5. The spread remains positive. AlphaGen read: the curve flattened over the week, the opposite of the widening in the Oct. 28 H.15 data.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-12T02:39:16Z"
+    },
+    {
+      "id": "2026-11-12-ivz-qqq-liquidity",
+      "time": "2026-11-12T03:19:00Z",
+      "tag": "EQUITIES",
+      "ticker": "NYSE:IVZ",
+      "headline": "Invesco QQQ AUM $463.8B at Oct. 31 vs $498.9B; Global Liquidity $230.0B vs $261.6B",
+      "take": "Invesco's preliminary Oct. 31 assets under management table shows QQQ at $463.8 billion versus $498.9 billion at Sept. 30, a $35.1 billion decline of 7.0%, and Global Liquidity at $230.0 billion versus $261.6 billion, down $31.6 billion or 12.1%. Invesco said October numbers are preliminary and subject to adjustment. AlphaGen read: those two lines account for most of the $84.3 billion drop in total AUM to $2,453.5 billion.",
+      "source_name": "SEC EDGAR, IVZ Form 8-K (Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000424/0000914208-26-000424-index.htm",
+      "checked": "2026-11-12T02:39:16Z"
+    },
+    {
+      "id": "2026-11-12-bowman-core-pce-oct-est",
+      "time": "2026-11-12T03:09:00Z",
+      "tag": "FED",
+      "headline": "Bowman: October CPI suggests 12-month core PCE inflation likely rose to 3.3%",
+      "take": "In her Nov. 10 speech, Fed Vice Chair for Supervision Bowman said the day's consumer price index suggests 12-month core PCE inflation likely moved up further to 3.3 percent in October, as upward pressures from higher energy prices and AI-related demand continue to flow through to core goods and services prices. She said progress on lowering inflation has stalled over the past two years or so and that the latest data suggest price pressures may be broadening. AlphaGen read: her own forecast still has core PCE moving closer to 2 percent next year, so the worry is persistence, not a changed endpoint.",
+      "source_name": "Federal Reserve Board speeches",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+      "checked": "2026-11-12T02:39:16Z"
+    },
+    {
+      "id": "2026-11-12-bowman-risks-equities-rates",
+      "time": "2026-11-12T02:59:00Z",
+      "tag": "FED",
+      "headline": "Bowman flags equity correction and sharp rise in long-term rates as growth risks",
+      "take": "Bowman said she sees risks to economic activity originating in financial markets, including a large correction in equity valuations if returns on AI investment fall short of expectations and a sharp increase in private longer-term interest rates. She said lower equity prices could undermine resilience in consumer spending and higher rates could further strain interest-rate-sensitive sectors like housing and small business investment. AlphaGen read: she is naming the two channels, wealth effects and borrowing costs, that would link markets to the real economy.",
+      "source_name": "Federal Reserve Board speeches",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+      "checked": "2026-11-12T02:39:16Z"
+    },
+    {
+      "id": "2026-11-12-waller-uncertainty-beige-book",
+      "time": "2026-11-12T02:49:00Z",
+      "tag": "FED",
+      "headline": "Waller: uncertainty since early 2025 may be holding back hiring; cites Beige Book",
+      "take": "Governor Waller said hiring and job-switching may have been restrained by factors that have raised economic uncertainty since early 2025, including the advent of AI, tariffs, changes in immigration policy and enforcement, and general uncertainty about the outlook. He cited the Fed's November 2025 Beige Book, where employers reported hiring was unusually restrained because of uncertainty, and the most recent Beige Book, where several Districts reported firms delayed hiring or anticipate less job creation after investing in AI. He said he does not think uncertainty has diminished much since then. AlphaGen read: he is treating part of the low-hire pattern as uncertainty-driven rather than purely structural.",
+      "source_name": "Federal Reserve Board speeches",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "checked": "2026-11-12T02:39:16Z"
+    },
+    {
+      "id": "2026-11-12-waller-pandemic-switchers",
+      "time": "2026-11-12T02:39:00Z",
+      "tag": "FED",
+      "headline": "Waller: low firing may partly reflect 2020-2023 job-switching surge, possibly temporary",
+      "take": "Waller said low firing may be a consequence of the surge in job-switching from 2020 to 2023, since workers in new jobs are less inclined to change jobs again. He said that if this is a large factor it may be temporary, because workers stay in their jobs a median of three years before switching again and the last of the pandemic job switchers are nearing that threshold. AlphaGen read: this is the argument that labor-market dynamism could recover without a policy change.",
+      "source_name": "Federal Reserve Board speeches",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "checked": "2026-11-12T02:39:16Z"
+    },
     {
       "id": "2026-11-12-fred-policy-rate-vs-core-pce",
       "time": "2026-11-12T02:21:00Z",
@@ -5258,71 +5319,6 @@
       "source_name": "Truelink Capital press release (Oct. 26, 2026)",
       "source_url": "https://www.prnewswire.com/news-releases/truelink-capital-signs-definitive-agreement-to-acquire-johnson-controls-global-intrusion-products-business-302919844.html",
       "checked": "2026-10-27T02:44:06Z"
-    },
-    {
-      "id": "2026-10-27-boc-oct28-mpr",
-      "time": "2026-10-27T03:20:00Z",
-      "tag": "GLOBAL",
-      "headline": "Bank of Canada sets Oct. 28 rate announcement, with Monetary Policy Report",
-      "take": "The Bank of Canada's published 2026 schedule lists a policy rate announcement on Oct. 28 at 9:45 a.m. ET. The October announcement is published concurrently with the Monetary Policy Report, as are those in January, April and July. It arrives the same day the Fed's FOMC meeting concludes.",
-      "source_name": "Bank of Canada 2026 schedule",
-      "source_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
-      "checked": "2026-10-27T02:44:06Z"
-    },
-    {
-      "id": "2026-10-26-amkor-q3",
-      "time": "2026-10-26T23:46:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:AMKR",
-      "headline": "Amkor Q3 net sales $1,991M vs $1,987M; diluted EPS $0.76 vs $0.51",
-      "take": "Amkor reported third-quarter 2026 net sales of $1,991 million versus $1,987 million a year earlier and $1,898 million in Q2, with diluted EPS of $0.76 versus $0.51 and gross margin of 18.3%. The CEO cited record revenue in Computing and Automotive & Industrial despite expected weakness in Communications. Sales were essentially flat year over year while EPS rose about 49%, so the profit gain did not come from top-line growth.",
-      "source_name": "Amkor Technology 8-K Exhibit 99.1 (Oct. 26, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001047127/000104712726000049/amkr9302026erex-991.htm",
-      "checked": "2026-10-26T23:44:00Z"
-    },
-    {
-      "id": "2026-10-26-amkor-q4-guide",
-      "time": "2026-10-26T23:55:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:AMKR",
-      "headline": "Amkor guides Q4 net sales $1.9B-$2.0B, EPS $0.65-$0.75; 2026 capex about $2.5B",
-      "take": "Amkor's Q4 2026 guidance calls for net sales of $1.9 billion to $2.0 billion, gross margin of 18.0% to 19.0%, and net income of $160 million to $185 million, or $0.65 to $0.75 per diluted share. Full-year 2026 capital expenditures were updated to approximately $2.5 billion. Communications fell to 37% of Q3 sales from 51% a year earlier, a mix shift that matters for how the guide reads.",
-      "source_name": "Amkor Technology 8-K Exhibit 99.1 (Oct. 26, 2026)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001047127/000104712726000049/amkr9302026erex-991.htm",
-      "checked": "2026-10-26T23:44:00Z"
-    },
-    {
-      "id": "2026-10-26-nue-q3",
-      "time": "2026-10-27T00:04:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:NUE",
-      "headline": "Nucor Q3 net sales $11.25B vs $8.52B; diluted EPS $5.80 vs $2.63",
-      "take": "Nucor reported third-quarter 2026 net sales of $11,249 million versus $8,521 million a year earlier, and net earnings attributable to Nucor stockholders of $1,319 million, or $5.80 per diluted share, versus $607 million, or $2.63. Net sales were up about 32% year over year and EPS more than doubled. The results were released at 16:30 ET on Oct. 26.",
-      "source_name": "Nucor press release via PR Newswire (Oct. 26, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/nucor-reports-results-for-the-third-quarter-of-2026-302919790.html",
-      "checked": "2026-10-26T23:44:00Z"
-    },
-    {
-      "id": "2026-10-26-nue-shipments-outlook",
-      "time": "2026-10-27T00:13:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NYSE:NUE",
-      "headline": "Nucor steel mill shipments 7.23M tons vs 6.43M; Q4 seen in line to modestly higher",
-      "take": "Nucor's steel mill shipments were 7,231 thousand tons in Q3 2026 versus 7,100 thousand in Q2 and 6,428 thousand in Q3 2025. The company said it expects fourth-quarter 2026 earnings to be \"generally in-line with or modestly higher than the third quarter.\" Shipments rose about 12% from a year earlier, a smaller gain than net sales, so price and mix carried part of the revenue increase.",
-      "source_name": "Nucor press release via PR Newswire (Oct. 26, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/nucor-reports-results-for-the-third-quarter-of-2026-302919790.html",
-      "checked": "2026-10-26T23:44:00Z"
-    },
-    {
-      "id": "2026-10-26-cinf-q3",
-      "time": "2026-10-27T00:22:00Z",
-      "tag": "EARNINGS",
-      "ticker": "NASDAQ:CINF",
-      "headline": "Cincinnati Financial Q3 net income $459M, $2.96/share vs $7.11; revenues $3,047M",
-      "take": "Cincinnati Financial reported third-quarter 2026 total revenues of $3,047 million versus $3,726 million and net income of $459 million, or $2.96 per diluted share, versus $1,122 million, or $7.11. Non-GAAP operating income per share was $2.86 versus $2.85. The gap between GAAP and operating results points to non-operating items, most likely investment-related, as the swing factor.",
-      "source_name": "Cincinnati Financial press release via PR Newswire (Oct. 26, 2026)",
-      "source_url": "https://www.prnewswire.com/news-releases/cincinnati-financial-reports-third-quarter-2026-results-302919728.html",
-      "checked": "2026-10-26T23:44:00Z"
     }
   ]
 }
