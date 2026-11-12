@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-12T22:44:32Z",
+  "updated": "2026-11-12T23:38:34Z",
   "items": [
+    {
+      "id": "2026-11-12-fred-10s2s-nov10",
+      "time": "2026-11-12T23:46:00Z",
+      "tag": "RATES",
+      "headline": "10-year minus 2-year Treasury spread 0.25 point on Nov. 10, narrowest since Nov. 3",
+      "take": "FRED's T10Y2Y series shows the 10-year/2-year Treasury spread at 0.25 percentage point on Nov. 10, down from 0.32 on Nov. 9 and 0.34 on Nov. 3. Among the six observations from Nov. 3 to Nov. 10 it peaked at 0.38 on Nov. 5. AlphaGen read: the Nov. 10 reading is the lowest of the window, a flatter curve over that stretch.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-12T23:38:34Z"
+    },
+    {
+      "id": "2026-11-12-fred-eurjpy-cross-nov6",
+      "time": "2026-11-12T23:58:00Z",
+      "tag": "FX",
+      "headline": "Implied euro-yen cross 176.49 on Nov. 6, from 177.72 on Nov. 4 and 175.78 on Oct. 30",
+      "take": "FRED's H.10-based series show $1.1154 per euro and 158.23 yen per dollar on Nov. 6. Multiplying them gives an implied cross of about 176.49 yen per euro, versus 177.72 on Nov. 4 (the high of the window) and 175.78 on Oct. 30. AlphaGen read: the cross is a derived figure, not a published rate; both legs are the latest dated observations available.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "checked": "2026-11-12T23:38:34Z"
+    },
+    {
+      "id": "2026-11-12-fred-rrp-range-nov3-10",
+      "time": "2026-11-13T00:10:00Z",
+      "tag": "RATES",
+      "headline": "Overnight reverse repo usage ranged $0.125B-$0.427B over Nov. 3-10, ending at $0.152B",
+      "take": "FRED's RRPONTSYD series shows usage at the Fed's overnight reverse repo facility at $0.427 billion on Nov. 3, a low of $0.125 billion on Nov. 5 and $0.152 billion on Nov. 10. Over the six observations it moved only within about $0.3 billion. AlphaGen read: usage at the facility is near zero by any scale of the Fed's roughly $6.7 trillion balance sheet.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+      "checked": "2026-11-12T23:38:34Z"
+    },
+    {
+      "id": "2026-11-12-fred-walcl-oct-nov4",
+      "time": "2026-11-13T00:25:00Z",
+      "tag": "FED",
+      "headline": "Fed total assets $6.748T on Nov. 4, up $5.1B from Sep. 30, off the Oct. 14 peak of $6.756T",
+      "take": "FRED's WALCL series shows Fed total assets of $6,748,145 million on Nov. 4, versus $6,743,031 million on Sep. 30, a $5.1 billion rise. The six weekly observations peaked at $6,755,639 million on Oct. 14. AlphaGen read: the balance sheet has moved within a roughly $12.6 billion band in five weeks, essentially flat.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/WALCL",
+      "checked": "2026-11-12T23:38:34Z"
+    },
     {
       "id": "2026-11-12-fred-10y-range-nov2-9",
       "time": "2026-11-12T22:54:32Z",
@@ -5233,49 +5273,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389606/9652/en/orion-group-holdings-reports-third-quarter-2026-results.html",
       "ticker": "NYSE:ORN",
       "checked": "2026-10-27T20:49:45Z"
-    },
-    {
-      "id": "2026-10-27-phar-q3",
-      "time": "2026-10-27T21:21:45Z",
-      "tag": "EARNINGS",
-      "headline": "Pharming Q3 revenue $117.6M vs $97.3M; tightens 2026 guide to $380-$390M",
-      "take": "Pharming reported Q3 2026 total revenues of $117.6 million versus $97.3 million, up 20.9% by our calculation, with Joenja revenue of $23.8 million and a net profit of $22.4 million versus $7.5 million. Cash stood at $190.9 million, and 2026 revenue guidance was tightened to $380-$390 million from $375-$395 million. Phase II topline data in the broader CVID population is expected in November 2026.",
-      "source_name": "Pharming Group Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3388693/0/en/pharming-group-reports-third-quarter-2026-financial-results-strong-revenue-growth-joenja-apds-expansion-and-cvid-topline-data-in-november.html",
-      "ticker": "NASDAQ:PHAR",
-      "checked": "2026-10-27T20:49:45Z"
-    },
-    {
-      "id": "2026-10-27-boom-q3",
-      "time": "2026-10-27T21:27:45Z",
-      "tag": "EARNINGS",
-      "headline": "DMC Global Q3 sales $172.8M vs $151.5M; net income $9.7M vs loss of $3.1M",
-      "take": "DMC Global reported Q3 2026 net sales of $172.8 million versus $151.5 million, up 14.1% by our calculation, and net income attributable to DMC of $9.7 million, or $0.59 per diluted share, versus a net loss of $3.1 million. Adjusted EBITDA attributable to DMC was $19.0 million including $5.4 million of tariff refunds, versus $8.6 million. Q4 sales are guided to $154-$164 million.",
-      "source_name": "DMC Global Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389610/0/en/dmc-global-reports-third-quarter-financial-results.html",
-      "ticker": "NASDAQ:BOOM",
-      "checked": "2026-10-27T20:49:45Z"
-    },
-    {
-      "id": "2026-10-27-fmcc-q3-date",
-      "time": "2026-10-27T21:33:45Z",
-      "tag": "HOUSING",
-      "headline": "Freddie Mac to report Q3 results before the open Thursday, Oct. 29",
-      "take": "Freddie Mac said it will report third-quarter 2026 financial results before U.S. markets open on Thursday, Oct. 29, 2026, with a media webcast at 9 a.m. ET. The company's results are one of the few direct looks at the mortgage-finance system's earnings this week.",
-      "source_name": "Freddie Mac release-date notice (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389655/0/en/freddie-mac-announces-release-date-for-third-quarter-2026-financial-results.html",
-      "checked": "2026-10-27T20:49:45Z"
-    },
-    {
-      "id": "2026-10-27-ko-q3",
-      "tag": "EARNINGS",
-      "headline": "Coca-Cola Q3 revenue $13,380M vs $12,455M; GAAP EPS $0.93 vs $0.86",
-      "take": "Coca-Cola reported Q3 2026 net operating revenues of $13,380 million versus $12,455 million a year earlier, up 7%, with organic revenue growth of 7% and unit case volume up 5%. GAAP diluted EPS was $0.93 versus $0.86, and comparable EPS was $0.91, up 11%. Volume and pricing both appear to be supporting the top line, though the release leads with organic growth.",
-      "source_name": "Coca-Cola Q3 2026 earnings release (8-K Ex. 99.1)",
-      "source_url": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-26-067403/a2026q3earningsreleaseex-9.htm",
-      "ticker": "NYSE:KO",
-      "time": "2026-10-27T20:04:17Z",
-      "checked": "2026-10-27T20:01:17Z"
     }
   ]
 }
