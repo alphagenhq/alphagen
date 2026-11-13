@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-13T01:38:29Z",
+ "updated": "2026-11-13T02:43:58Z",
  "items": [
+  {
+   "id": "2026-11-13-fred-walcl-nov11",
+   "time": "2026-11-13T02:48:58Z",
+   "tag": "FED",
+   "headline": "Fed total assets $6.759T on Nov. 11, up $10.7B on the week from $6.748T",
+   "take": "The Fed's total assets were $6,758,867 million on Nov. 11 versus $6,748,145 million on Nov. 4, a rise of $10.7B. The Oct. 7 reading was $6,747,560 million, so the balance sheet is $11.3B higher than five weeks earlier. AlphaGen read: the weekly series has moved within a narrow band since early October.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-13T02:43:58Z"
+  },
+  {
+   "id": "2026-11-13-fred-rrp-nov12",
+   "time": "2026-11-13T03:03:58Z",
+   "tag": "RATES",
+   "headline": "Overnight reverse repo usage $0.250B on Nov. 12, up from $0.152B on Nov. 10",
+   "take": "FRED shows overnight reverse repurchase agreement usage at $0.250B on Nov. 12 versus $0.152B on Nov. 10, a rise of $0.098B. The Nov. 5 reading was $0.125B. AlphaGen read: usage stays at a few hundred million dollars, a very small figure next to the Fed's $6.759T balance sheet.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+   "checked": "2026-11-13T02:43:58Z"
+  },
+  {
+   "id": "2026-11-13-psa-board-change-8k",
+   "time": "2026-11-13T03:18:58Z",
+   "tag": "EQUITIES",
+   "headline": "Public Storage files 8-K reporting an executive or board change",
+   "take": "Public Storage filed a Form 8-K under Item 5.02, which covers departures and appointments of directors and certain officers, at 6:03 AM ET on Nov. 12. The filing index is on SEC EDGAR; the names and terms are in the filing itself. AlphaGen read: Item 5.02 filings can cover appointments as well as departures, so the filing text is needed to tell which this is.",
+   "source_name": "SEC EDGAR, PSA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526456624/0001193125-26-456624-index.htm",
+   "ticker": "NYSE:PSA",
+   "checked": "2026-11-13T02:43:58Z"
+  },
   {
    "id": "2026-11-13-fred-breakeven-nov12-224",
    "time": "2026-11-13T02:24:29Z",
@@ -5234,39 +5265,6 @@
    "source_name": "CoStar Group Q3 2026 results (company IR)",
    "source_url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-reports-record-third-quarter-revenue-952-million",
    "ticker": "NASDAQ:CSGP",
-   "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-csgp-guide",
-   "time": "2026-10-27T23:10:53Z",
-   "tag": "EQUITIES",
-   "headline": "CoStar raises 2026 adjusted EBITDA guide to $820M-$840M; revenue $3.75B-$3.77B",
-   "take": "CoStar now guides full-year 2026 adjusted EBITDA to $820 million to $840 million, up $30 million at the midpoint from its July guidance, and revenue to $3.75 billion to $3.77 billion. A midpoint raise just one quarter after the prior outlook signals management sees profit running ahead of its earlier plan.",
-   "source_name": "CoStar Group Q3 2026 results (company IR)",
-   "source_url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-reports-record-third-quarter-revenue-952-million",
-   "ticker": "NASDAQ:CSGP",
-   "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-slde-q3",
-   "time": "2026-10-27T23:18:53Z",
-   "tag": "EARNINGS",
-   "headline": "Slide Insurance Q3 revenue $361.1M vs $265.7M; net income $138.2M vs $111.0M",
-   "take": "Slide Insurance Holdings reported Q3 2026 total revenue of $361.1 million versus $265.7 million (up 36% by our calculation), net income of $138.2 million versus $111.0 million, and diluted EPS of $1.09 versus $0.79. Revenue grew faster than net income, so margins narrowed versus the year-ago quarter.",
-   "source_name": "Slide Insurance Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389639/0/en/slide-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:SLDE",
-   "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-slde-guide",
-   "time": "2026-10-27T23:26:53Z",
-   "tag": "CREDIT",
-   "headline": "Slide Insurance lifts 2026 net income guide to $500M-$520M from $455M-$470M",
-   "take": "Slide raised its full-year 2026 net income expectation to $500 million-$520 million from a prior $455 million-$470 million, and says the range includes up to $50 million of pre-tax losses tied to Hurricane Isaias in Q4. The raise lifts the midpoint by about $55 million, even after allowing for that storm-loss estimate.",
-   "source_name": "Slide Insurance Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389639/0/en/slide-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:SLDE",
    "checked": "2026-10-27T22:44:53Z"
   }
  ]
