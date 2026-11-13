@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-13T15:44:00Z",
+  "updated": "2026-11-13T16:44:25Z",
   "items": [
+    {
+      "id": "2026-11-13-bea-gdp-second-estimate-nov25",
+      "time": "2026-11-13T16:46:00Z",
+      "tag": "MACRO",
+      "headline": "BEA lists Q3 GDP second estimate and corporate profits for Nov. 25, 8:30 a.m. EST",
+      "take": "BEA's third-quarter advance GDP release lists the next release as November 25, 2026, at 8:30 a.m. EST: GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026. The advance estimate put real GDP growth at 3.4 percent, versus 2.2 percent in the second quarter. AlphaGen read: the second estimate updates the 3.4 percent advance figure.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-13T16:44:00Z"
+    },
+    {
+      "id": "2026-11-13-bea-oct-personal-income-nov25",
+      "time": "2026-11-13T16:55:00Z",
+      "tag": "MACRO",
+      "headline": "BEA sets October personal income and outlays for Nov. 25, 8:30 a.m. EST",
+      "take": "BEA's September release lists the next one, Personal Income and Outlays, October 2026, for November 25, 2026, at 8:30 a.m. EST. September showed the PCE price index up 0.5 percent from August and up 3.6 percent from the same month a year earlier. AlphaGen read: October is the next monthly reading on that price index.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-13T16:44:00Z"
+    },
+    {
+      "id": "2026-11-13-schnabel-ict-typical-american",
+      "time": "2026-11-13T17:04:00Z",
+      "tag": "GLOBAL",
+      "headline": "Schnabel: ICT drove over a quarter of U.S. productivity gains with under 2% of jobs",
+      "take": "ECB Executive Board member Isabel Schnabel said in her Nov. 13 Vilnius speech that since 2000 more than a quarter of total growth in U.S. value added per employee has accrued in the information and communications technology sector, which accounts for less than 2% of total employment. She said the typical American lives in a USD 45,000 economy, not a USD 67,000 one. AlphaGen read: she uses this to argue that standard U.S.-euro area GDP per capita comparisons overstate the gap in living standards.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "checked": "2026-11-13T16:44:00Z"
+    },
+    {
+      "id": "2026-11-13-schnabel-germany-stagnation",
+      "time": "2026-11-13T17:13:00Z",
+      "tag": "GLOBAL",
+      "headline": "Schnabel: German real GDP per capita fell 0.5% in 2019-2024; export view a 'misdiagnosis'",
+      "take": "ECB's Isabel Schnabel said Germany's real GDP per capita fell by 0.5% from 2019 to 2024, citing demographic change, energy costs that remain elevated compared with pre-pandemic levels, protectionism and global competition, especially from China. She said treating eroding export market shares as the main cause is a misdiagnosis, and that over the past ten years Germany's real goods exports have broadly tracked the global cycle. AlphaGen read: the speech contrasts Germany's weakness with growth in the euro area's south.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "checked": "2026-11-13T16:44:00Z"
+    },
+    {
+      "id": "2026-11-13-schnabel-spain-ireland",
+      "time": "2026-11-13T17:22:00Z",
+      "tag": "GLOBAL",
+      "headline": "Schnabel: Spain's renewables cut wholesale power prices; Ireland a tech and pharma hub",
+      "take": "In her Nov. 13 speech, ECB's Isabel Schnabel said Spain has emerged as a European leader in renewable energy, which has significantly reduced wholesale electricity prices and the country's vulnerability to global energy price shocks. She said Ireland has become a global hotspot for technology, pharmaceutical and life science companies and has the highest share of tertiary students in natural sciences, mathematics and statistics fields in the EU. AlphaGen read: these are her country examples of structural change supporting growth.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "checked": "2026-11-13T16:44:00Z"
+    },
+    {
+      "id": "2026-11-13-meridian-partior-observers",
+      "time": "2026-11-13T17:31:00Z",
+      "tag": "GLOBAL",
+      "headline": "Project Meridian FX APAC: Partior built prototype; RBA, BSP observed; 3 reports out",
+      "take": "The Bank of England, Monetary Authority of Singapore and Bank of Thailand said Partior, the project's delivery partner, developed, integrated and tested the Synchronisation Operator prototype for the trial. The Reserve Bank of Australia and Bangko Sentral ng Pilipinas participated as observer central banks, and the findings are published across three reports: Introduction and Executive Summary, Technical Report, and Policy Report. AlphaGen read: the release says future work could extend the approach to additional jurisdictions and a wider range of currencies.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+      "checked": "2026-11-13T16:44:00Z"
+    },
     {
       "id": "2026-11-13-barr-scf-wealth-concentration",
       "time": "2026-11-13T15:46:00Z",
@@ -5172,72 +5232,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390107/11167/en/franklin-electric-reports-third-quarter-2026-results.html",
       "ticker": "NASDAQ:FELE",
       "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-ip-q3",
-      "time": "2026-10-28T15:12:54Z",
-      "tag": "EARNINGS",
-      "headline": "International Paper Q3 net sales $6,197M vs $6,222M; adj. operating EPS $0.37",
-      "take": "International Paper reported Q3 2026 net sales of $6,197 million versus $6,222 million, a diluted net loss per share of $(2.13) versus $(2.09), and adjusted operating EPS (non-GAAP) of $0.37 versus $(0.43). The diluted loss per share from continuing operations was $(2.07) versus $(0.81). The gap between the GAAP loss and the positive adjusted figure shows how much of the quarter sat in items the company excludes.",
-      "source_name": "International Paper Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/international-paper-reports-third-quarter-2026-results-302921498.html",
-      "ticker": "NYSE:IP",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-ip-guide",
-      "time": "2026-10-28T15:19:54Z",
-      "tag": "EQUITIES",
-      "headline": "International Paper guides Q4 NA Packaging segment profit $460M-$500M",
-      "take": "International Paper guided Packaging Solutions North America Q4 2026 segment operating profit of $460 million to $500 million and full-year segment operating profit of $1.3 billion to $1.4 billion; adjusted EBITDA is guided at $700 million to $740 million for Q4 and $2.27 billion to $2.31 billion for the year. The company said it no longer provides guidance for Packaging Solutions EMEA. Guidance now covers only the North American segment.",
-      "source_name": "International Paper Q3 2026 results (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/international-paper-reports-third-quarter-2026-results-302921498.html",
-      "ticker": "NYSE:IP",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-fele-challenge",
-      "time": "2026-10-28T15:26:54Z",
-      "tag": "DEALS",
-      "headline": "Franklin Electric to acquire Challenge Pumps for about US$181M cash",
-      "take": "Franklin Electric entered into a definitive agreement to acquire Challenge Pumps Holdings Pty Ltd, a Perth-based underground mine dewatering provider, for about US$181 million (A$259 million) in cash plus up to US$14 million in contingent consideration. The release cites FY2026 revenue of about US$52 million and EBITDA of about US$18 million, and expects closing in 2026. The price is a multiple of roughly ten times that EBITDA figure by our calculation.",
-      "source_name": "Franklin Electric press release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389806/11167/en/franklin-electric-enters-into-agreement-to-acquire-challenge-pumps-strengthening-global-mineral-extraction-dewatering-platform.html",
-      "ticker": "NASDAQ:FELE",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-rnst-commercial",
-      "time": "2026-10-28T15:33:54Z",
-      "tag": "DEALS",
-      "headline": "Renasant to acquire Commercial Holding Company in deal valued at about $142M",
-      "take": "Renasant agreed to acquire Commercial Holding Company, parent of Commercial Bank & Trust, at 0.8798 Renasant shares per Commercial share, a value of about $142 million based on a $40.29 ten-day average price as of October 26. Commercial had total assets of about $1.1 billion at September 30, 2026, and closing is expected in Q1 2027 subject to regulatory and shareholder approvals. The deal adds roughly $1.2 billion of trust and wealth assets under management.",
-      "source_name": "Renasant press release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389670/6389/en/renasant-corporation-to-acquire-commercial-holding-company.html",
-      "ticker": "NYSE:RNST",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-patk-lci",
-      "time": "2026-10-28T15:40:54Z",
-      "tag": "DEALS",
-      "headline": "Patrick reaffirms LCI merger after LCI receives unsolicited Monomoy proposal",
-      "take": "Patrick Industries reaffirmed its all-stock merger agreement with LCI Industries after LCI told Patrick it received an unsolicited nonbinding proposal from Monomoy Capital Partners. LCI's board said it has a duty to evaluate the proposal and has not changed its recommendation for the Patrick merger. Terms of the Monomoy proposal were not disclosed, so the situation remains open.",
-      "source_name": "Patrick Industries press release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/patrick-industries-inc-reaffirms-merger-agreement-with-lci-industries-302921983.html",
-      "ticker": "NASDAQ:PATK",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-hlt-q3",
-      "time": "2026-10-28T11:01:00Z",
-      "tag": "EARNINGS",
-      "headline": "Hilton Q3 revenues $3,325M vs $3,120M; diluted EPS $2.37 vs $1.78",
-      "take": "Hilton reported Q3 2026 total revenues of $3,325 million versus $3,120 million, net income of $536 million versus $421 million, and diluted EPS of $2.37 versus $1.78 (adjusted for special items: $2.45 versus $2.11). System-wide comparable RevPAR rose 5.8% on a currency-neutral basis. Net income grew faster than revenue, which points to operating leverage in the quarter.",
-      "source_name": "Hilton Q3 2026 results (8-K exhibit)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001585689/000158568926000049/q32026earningsrelease.htm",
-      "ticker": "NYSE:HLT",
-      "checked": "2026-10-28T10:53:02Z"
     }
   ]
 }
