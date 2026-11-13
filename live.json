@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T19:49:40Z",
+ "updated": "2026-11-13T00:47:38Z",
  "items": [
+  {
+   "id": "live-0000027419-26-000049-5.02",
+   "time": "2026-11-12T21:35:43Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Target reports an executive or board change",
+   "take": "Target reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:35 PM ET, Nov 12.",
+   "source_name": "SEC EDGAR, TGT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000049/0000027419-26-000049-index.htm",
+   "ticker": "NYSE:TGT"
+  },
+  {
+   "id": "live-0001193125-26-458580-2.02",
+   "time": "2026-11-12T21:31:39Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Virgin Galactic Holdings releases financial results",
+   "take": "Virgin Galactic Holdings filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:31 PM ET, Nov 12.",
+   "source_name": "SEC EDGAR, SPCE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1706946/000119312526458580/0001193125-26-458580-index.htm",
+   "ticker": "NYSE:SPCE"
+  },
   {
    "id": "live-0001193125-26-457876-1.01",
    "time": "2026-11-12T18:13:37Z",
