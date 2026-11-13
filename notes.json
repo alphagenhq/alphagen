@@ -1,6 +1,85 @@
 {
-  "updated": "2026-11-12T21:39:24Z",
+  "updated": "2026-11-13T12:40:13Z",
   "items": [
+    {
+      "id": "2026-11-13-morning-brief",
+      "time": "2026-11-13T12:42:13Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: October PPI lands at 8:30 as wages only keep pace",
+      "dek": "October producer prices are due at 8:30 a.m. ET; BLS says real hourly earnings were unchanged in October, and mortgage rates fell for a fourth week.",
+      "key_points": [
+        "BLS: October PPI is due today at 8:30 a.m. ET. September final demand rose 1.3%, the largest advance since March 2022, and 6.3% over 12 months unadjusted.",
+        "BLS: October CPI-U rose 0.4% (0.6% in September); excluding food and energy, 0.3%. Real average hourly earnings for all employees were unchanged in October.",
+        "BLS: October payrolls rose 165,000 and the unemployment rate was 4.1%.",
+        "FRED: 10-year minus 2-year Treasury spread 0.24 point and 10-year breakeven inflation 2.24% on Nov. 12; Freddie Mac 30-year mortgage rate 7.11% on Nov. 12, from 7.40% on Oct. 15.",
+        "Next week: retail sales and import/export prices Nov. 17 at 8:30 a.m. ET; housing starts Nov. 18 at 8:30 a.m. ET and FOMC minutes Nov. 18 at 2:00 p.m. ET (Census, BLS and Federal Reserve schedules)."
+      ],
+      "talking_points": [
+        "Is inflation getting worse? Not from October's consumer data alone. BLS reported the CPI-U up 0.4% in October after 0.6% in September, with the index excluding food and energy up 0.3%, while September producer prices jumped 1.3%. Today's October PPI is the next check on whether those cost pressures are still building, so a long-term investor can simply watch whether bond yields and savings rates keep pace with prices.",
+        "Are paychecks keeping up with prices? Only just. BLS says real average hourly earnings for all employees were unchanged from September to October, because a 0.4% rise in hourly earnings matched a 0.4% rise in the CPI-U. If your pay raise is below the inflation rate, review your budget and any cash earning less than prices are rising.",
+        "Are mortgage rates coming down? Slowly, yes. Freddie Mac's survey, relayed by FRED, shows the 30-year fixed rate at 7.11% on Nov. 12, down from 7.18% on Nov. 5 and 7.40% on Oct. 15. If you are shopping for a home loan, rates are still above 7%, so compare lenders and total costs rather than waiting for one data point."
+      ],
+      "body": [
+        "The main scheduled event today is the Bureau of Labor Statistics' October Producer Price Index at 8:30 a.m. ET, per the AlphaGen calendar. The latest PPI in BLS's file, for September, showed final demand prices up 1.3 percent, the largest advance since a 1.7 percent rise in March 2022, and up 6.3 percent over the 12 months ended in September on an unadjusted basis. Today's release shows whether producer prices kept rising in October.",
+        {
+          "h": "Where consumer prices and pay stand"
+        },
+        "BLS reported on Tuesday that the CPI-U rose 0.4 percent in October after 0.6 percent in September, and that the index for all items less food and energy rose 0.3 percent, as it did in September and August. The energy index rose 0.7 percent in October following a 5.2 percent increase in September. In the same release week BLS said real average hourly earnings for all employees were unchanged in October: a 0.4 percent rise in average hourly earnings matched the 0.4 percent rise in the CPI-U. BLS could not publish over-the-year real earnings comparisons because October 2025 CPI data were not collected during the late-2025 lapse in appropriations.",
+        "On the labor market, BLS reported that total nonfarm payroll employment rose by 165,000 in October and that the unemployment rate changed little at 4.1 percent.",
+        {
+          "h": "Rates and housing"
+        },
+        "FRED data show the 10-year minus 2-year Treasury spread at 0.24 percentage point on Nov. 12, against 0.38 on Nov. 5, and the 10-year breakeven inflation rate at 2.24 percent on Nov. 12, up from 2.20 percent on Nov. 10. The 10-year Treasury yield was 4.98 percent on Nov. 10. Freddie Mac's weekly survey, relayed by FRED, put the 30-year fixed mortgage rate at 7.11 percent on Nov. 12, down from 7.18 percent on Nov. 5 and 7.40 percent on Oct. 15.",
+        {
+          "h": "Overnight and the week ahead"
+        },
+        "Overseas, the Bank of England, the Monetary Authority of Singapore and the Bank of Thailand published findings from Project Meridian FX APAC on central bank FX settlement, and ECB Executive Board member Isabel Schnabel spoke in Vilnius about Europe's growth model. Neither was a rate decision. Next week's calendar, from the official schedules, has retail sales and import and export prices on Tuesday, Nov. 17 at 8:30 a.m. ET, housing starts and permits on Wednesday, Nov. 18 at 8:30 a.m. ET, and minutes of the October 27-28 FOMC meeting that day at 2:00 p.m. ET.",
+        {
+          "h": "The AlphaGen read"
+        },
+        "With CPI already out and the payrolls report behind us, today's PPI is the last major inflation print of the week. Real earnings that merely hold even are consistent with prices and pay moving together, not with households gaining ground; the PPI will show whether the pressure upstream eased or kept building."
+      ],
+      "sources": [
+        {
+          "name": "BLS, Producer Price Index News Release (September 2026)",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        },
+        {
+          "name": "BLS, Consumer Price Index Summary (October 2026)",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+        },
+        {
+          "name": "BLS, Real Earnings Summary (October 2026)",
+          "url": "https://www.bls.gov/news.release/realer.nr0.htm"
+        },
+        {
+          "name": "BLS, Employment Situation Summary (October 2026)",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        },
+        {
+          "name": "FRED, 10-Year Treasury Constant Maturity Minus 2-Year",
+          "url": "https://fred.stlouisfed.org/series/T10Y2Y"
+        },
+        {
+          "name": "FRED, 10-Year Breakeven Inflation Rate",
+          "url": "https://fred.stlouisfed.org/series/T10YIE"
+        },
+        {
+          "name": "Freddie Mac, 30-Year Fixed Rate Mortgage Average via FRED",
+          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+        },
+        {
+          "name": "Bank of England, Project Meridian FX APAC media release",
+          "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release"
+        },
+        {
+          "name": "European Central Bank, speech by Isabel Schnabel",
+          "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html"
+        }
+      ],
+      "checked": "2026-11-13T12:40:13Z"
+    },
     {
       "id": "2026-11-12-the-close",
       "time": "2026-11-12T21:45:00Z",
