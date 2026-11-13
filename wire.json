@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-13T20:39:17Z",
+ "updated": "2026-11-13T21:40:47Z",
  "items": [
+  {
+   "id": "2026-11-13-fred-existing-home-oct-375m",
+   "time": "2026-11-13T21:42:00Z",
+   "tag": "HOUSING",
+   "headline": "FRED existing-home sales 3.75M in October, lowest of 13 months shown, from 3.97M in September",
+   "take": "FRED's existing home sales series (EXHOSLUSM495S) shows 3.75 million for October 2026, against 3.97 million in September and 4.11 million in October 2025. That is 5.5% below September and 8.8% below a year earlier. AlphaGen read: October is the lowest of the 13 monthly readings from October 2025 through October 2026, and September now shows as 3.97 million rather than the 3.99 million cited in an earlier Wire item.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/EXHOSLUSM495S",
+   "checked": "2026-11-13T21:40:47Z"
+  },
+  {
+   "id": "2026-11-13-fred-new-home-supply-sep-84",
+   "time": "2026-11-13T21:52:00Z",
+   "tag": "HOUSING",
+   "headline": "New-home supply 8.4 months in September, lowest reading of 2026",
+   "take": "FRED's monthly supply of new houses (MSACSR) was 8.4 months in September, down from 8.5 in August and 8.9 in July. The 2026 readings run 9.9 (January), 9.3, 8.7, 9.0, 9.2, 8.5, 8.9, 8.5 and 8.4. AlphaGen read: September is the lowest of the nine 2026 readings, though it is still above the 7.7 to 7.9 months shown for November and December 2025.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/MSACSR",
+   "checked": "2026-11-13T21:40:47Z"
+  },
+  {
+   "id": "2026-11-13-fred-bb-bbb-spreads-nov12",
+   "time": "2026-11-13T22:02:00Z",
+   "tag": "CREDIT",
+   "headline": "BB spread 1.83 points on Nov. 12, down from 2.13 on Nov. 5; BBB 1.11",
+   "take": "FRED shows the ICE BofA BB US High Yield Index option-adjusted spread at 1.83 percentage points on Nov. 12, from 2.13 on Nov. 5 and 1.93 on Nov. 11. The ICE BofA BBB US Corporate Index spread was 1.11, from 1.16 on Nov. 6 and 1.12 on Nov. 11. AlphaGen read: the BB reading equals the Sept. 28 reading of 1.83, the lowest since then, and 0.30 point below the Nov. 5 reading; BBB's October low was 1.02 on Oct. 6.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A1HYBB",
+   "checked": "2026-11-13T21:40:47Z"
+  },
+  {
+   "id": "2026-11-13-fred-3mo-bill-nov10-430",
+   "time": "2026-11-13T22:12:00Z",
+   "tag": "RATES",
+   "headline": "3-month Treasury yield 4.30% on Nov. 10, highest since Aug. 21, 2025",
+   "take": "FRED shows the 3-month Treasury constant-maturity yield (DGS3MO) at 4.30% on Nov. 10, up from 4.24% on Nov. 9 and 4.17% on Nov. 5. That is 0.30 percentage point above the 4.00% upper end of the federal funds target range (3.75% to 4.00%). AlphaGen read: the last higher daily reading in the series was 4.32% on Aug. 21, 2025.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
+   "checked": "2026-11-13T21:40:47Z"
+  },
+  {
+   "id": "2026-11-13-fred-eurusd-nov6-11154",
+   "time": "2026-11-13T22:22:00Z",
+   "tag": "FX",
+   "headline": "Euro at $1.1154 on Nov. 6, lowest since Oct. 28, per FRED",
+   "take": "FRED's daily series shows US dollars per euro (DEXUSEU) at 1.1154 on Nov. 6, from 1.1235 on Nov. 5 and 1.1217 on Nov. 4. The Oct. 27 and Oct. 28 readings were 1.1144 and 1.1140. AlphaGen read: Nov. 6 is the lowest reading since Oct. 28, a 0.0081 decline from Nov. 5 in dollars per euro.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
+   "checked": "2026-11-13T21:40:47Z"
+  },
   {
    "id": "2026-11-13-fred-ig-oas-nov12-089",
    "time": "2026-11-13T20:47:00Z",
@@ -5168,61 +5218,6 @@
    "source_name": "SPIE press release (GlobeNewswire)",
    "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390660/0/en/spie-signs-an-agreement-for-the-acquisition-of-sar-anlagenbau-gmbh-in-austria-and-germany.html",
    "checked": "2026-10-28T19:45:33Z"
-  },
-  {
-   "id": "2026-10-28-nhtc-q3",
-   "time": "2026-10-28T20:25:33Z",
-   "tag": "EARNINGS",
-   "headline": "Natural Health Trends Q3 revenue $7.56M vs $9.48M; net loss $0.23M",
-   "take": "Natural Health Trends reported Q3 2026 net sales of $7,560 thousand versus $9,477 thousand a year earlier, a decline of 20.2% by our calculation. Net loss was $(232) thousand, or $(0.03) per diluted share, versus $(431) thousand, or $(0.04). The release reports $1,716 thousand of dividends paid in the first nine months of 2026 and leaves future dividends to the Board's discretion.",
-   "source_name": "Natural Health Trends Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390242/0/en/natural-health-trends-reports-third-quarter-2026-financial-results.html",
-   "ticker": "NASDAQ:NHTC",
-   "checked": "2026-10-28T19:45:33Z"
-  },
-  {
-   "id": "2026-10-28-stla-q3",
-   "time": "2026-10-28T17:46:28Z",
-   "tag": "EARNINGS",
-   "headline": "Stellantis Q3 net revenues €37,611M vs €37,206M; net loss €(453)M vs €(4,532)M",
-   "take": "Stellantis reported Q3 2026 net revenues of €37,611 million versus €37,206 million, adjusted operating income of €256 million versus €90 million, and a net loss of €(453) million versus €(4,532) million. Industrial free cash flow was €(4,009) million versus €(4,304) million. The narrowing loss and a 0.7% AOI margin show the recovery is still thin against heavy cash outflow.",
-   "source_name": "Stellantis Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389892/0/en/stellantis-reports-q3-2026-financial-results.html",
-   "ticker": "NYSE:STLA",
-   "checked": "2026-10-28T17:45:28Z"
-  },
-  {
-   "id": "2026-10-28-stla-guide",
-   "time": "2026-10-28T17:55:28Z",
-   "tag": "EQUITIES",
-   "headline": "Stellantis reaffirms 2026 guidance; expects positive industrial free cash flow in 2027",
-   "take": "Stellantis reaffirmed 2026 guidance of a mid-single-digit percentage increase in net revenues and a low-single-digit AOI margin, with improved industrial free cash flow including about €1.6 billion in cash payments related to H2 2025 charges. It also expects positive industrial free cash flow in 2027. With Q3 industrial free cash flow at €(4.0) billion, the guide leaves the burden on Q4 and 2027.",
-   "source_name": "Stellantis Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389892/0/en/stellantis-reports-q3-2026-financial-results.html",
-   "ticker": "NYSE:STLA",
-   "checked": "2026-10-28T17:45:28Z"
-  },
-  {
-   "id": "2026-10-28-axgn-q3",
-   "time": "2026-10-28T18:04:28Z",
-   "tag": "EARNINGS",
-   "headline": "Axogen Q3 revenue $75.8M vs $60.1M; net income $2.3M, EPS $0.04",
-   "take": "Axogen reported Q3 2026 revenue of $75.8 million, up 26.2% from $60.1 million, with GAAP net income of $2.3 million, or $0.04 per share, versus $0.7 million, or $0.01 per share. It expects full-year revenue of at least $290 million, including at least $7 million from the BioCircuit acquisition. Excluding that deal, the guide implies at least $283 million of organic revenue.",
-   "source_name": "Axogen Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390038/0/en/axogen-inc-reports-third-quarter-2026-financial-results.html",
-   "ticker": "NASDAQ:AXGN",
-   "checked": "2026-10-28T17:45:28Z"
-  },
-  {
-   "id": "2026-10-28-calb-q3",
-   "time": "2026-10-28T18:13:28Z",
-   "tag": "CREDIT",
-   "headline": "California BanCorp Q3 net income $14.0M, EPS $0.43; NIM 4.61% vs 4.71% in Q2",
-   "take": "California BanCorp reported Q3 2026 net income of $14.0 million, or $0.43 per diluted share, versus $14.3 million, or $0.44, in Q2 and $15.7 million, or $0.48, in Q3 2025. Net interest margin was 4.61% versus 4.71% in Q2, while total deposits rose $117.4 million to $3.48 billion. Deposit growth outpaced loan growth of $53.3 million, but the margin slipped.",
-   "source_name": "California BanCorp Q3 2026 earnings (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390104/0/en/california-bancorp-reports-third-quarter-earnings-highlighted-by-steady-loan-growth-and-strong-deposit-growth.html",
-   "ticker": "NASDAQ:CALB",
-   "checked": "2026-10-28T17:45:28Z"
   }
  ]
 }
