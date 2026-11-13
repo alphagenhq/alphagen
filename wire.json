@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-13T17:44:00Z",
+  "updated": "2026-11-13T18:39:00Z",
   "items": [
+    {
+      "id": "2026-11-13-csco-q1-fy27",
+      "time": "2026-11-13T18:41:00Z",
+      "tag": "EARNINGS",
+      "headline": "Cisco Q1 FY27: revenue $18.5B vs $14.9B, GAAP EPS $1.14 vs $0.72",
+      "take": "Cisco reported revenue of $18.5 billion for the quarter ended Oct. 24, 2026, versus $14.9 billion a year earlier, with GAAP net income of $4.6 billion and GAAP diluted EPS of $1.14 versus $0.72. Non-GAAP EPS was $1.40 versus $1.00, and GAAP operating margin was 30.2%. AlphaGen read: the year-over-year revenue comparison is 24% by the company's own table, so the quarter was a broad step up on both lines.",
+      "source_name": "Cisco Systems Q1 FY2027 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000858877/000085887726000170/exhibit991pressrelease-q1f.htm",
+      "ticker": "NASDAQ:CSCO",
+      "checked": "2026-11-13T18:39:00Z"
+    },
+    {
+      "id": "2026-11-13-csco-guidance-raise-capital-return",
+      "time": "2026-11-13T18:51:00Z",
+      "tag": "EARNINGS",
+      "headline": "Cisco raises FY27 outlook to $74.8-$75.8B revenue; declares $0.42 dividend",
+      "take": "Cisco's release says it raised fiscal 2027 revenue and non-GAAP EPS guidance, to $74.8 billion-$75.8 billion and $5.47-$5.53. Q2 revenue is guided at $18.0 billion-$18.2 billion with non-GAAP EPS of $1.34-$1.36. It declared a $0.42 quarterly dividend payable Jan. 20, 2027 and repurchased about 18 million shares for $2.0 billion in Q1. AlphaGen read: Q2 revenue guidance sits below the Q1 figure of $18.5 billion.",
+      "source_name": "Cisco Systems Q1 FY2027 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000858877/000085887726000170/exhibit991pressrelease-q1f.htm",
+      "ticker": "NASDAQ:CSCO",
+      "checked": "2026-11-13T18:39:00Z"
+    },
+    {
+      "id": "2026-11-13-amat-q4-fy26",
+      "time": "2026-11-13T19:01:00Z",
+      "tag": "EARNINGS",
+      "headline": "Applied Materials Q4 revenue $10.41B vs $6.80B; GAAP EPS $3.40 vs $2.38",
+      "take": "Applied Materials reported fiscal Q4 (ended Oct. 25, 2026) revenue of $10.41 billion versus $6.80 billion a year earlier, GAAP diluted EPS of $3.40 versus $2.38, and non-GAAP EPS of $4.16 versus $2.17. GAAP gross margin was 50.4% and GAAP operating margin 35.1%. AlphaGen read: non-GAAP EPS nearly doubled from the prior-year quarter, outpacing revenue growth of about 53%.",
+      "source_name": "Applied Materials Q4 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026073360/exhibit991q42026earningsre.htm",
+      "ticker": "NASDAQ:AMAT",
+      "checked": "2026-11-13T18:39:00Z"
+    },
+    {
+      "id": "2026-11-13-amat-fy26-guide-q1",
+      "time": "2026-11-13T19:11:00Z",
+      "tag": "EARNINGS",
+      "headline": "Applied Materials FY26 revenue $34.45B vs $28.37B; Q1 guide $11.1B +/- $0.5B",
+      "take": "For fiscal 2026 Applied Materials reported revenue of $34.45 billion versus $28.37 billion and GAAP EPS of $12.62 versus $8.66. It guided fiscal Q1 2027 revenue to $11,100 million plus or minus $500 million and non-GAAP EPS to $4.35 plus or minus $0.20. AlphaGen read: the midpoint guide is above Q4's $10.41 billion; the release gives no full-year outlook.",
+      "source_name": "Applied Materials Q4 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026073360/exhibit991q42026earningsre.htm",
+      "ticker": "NASDAQ:AMAT",
+      "checked": "2026-11-13T18:39:00Z"
+    },
+    {
+      "id": "2026-11-13-amat-capital-return-fy26",
+      "time": "2026-11-13T19:21:00Z",
+      "tag": "EARNINGS",
+      "headline": "Applied Materials returned $2.42B in Q4: $2.00B buybacks, $421M dividends",
+      "take": "Applied Materials said it spent $2.00 billion on share repurchases and $421 million on dividends in fiscal Q4, a total of $2.42 billion. For fiscal 2026 buybacks were $3.18 billion and dividends $1.57 billion. Q4 operating cash flow was $3.30 billion and free cash flow $2,616 million. AlphaGen read: Q4 repurchases accounted for most of the full-year buyback total.",
+      "source_name": "Applied Materials Q4 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026073360/exhibit991q42026earningsre.htm",
+      "ticker": "NASDAQ:AMAT",
+      "checked": "2026-11-13T18:39:00Z"
+    },
     {
       "id": "2026-11-13-fred-30y-2y-nov10-062",
       "time": "2026-11-13T17:49:00Z",
@@ -5173,61 +5228,6 @@
       "source_name": "Constellium Q3 2026 results (GlobeNewswire)",
       "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389941/0/en/constellium-reports-strong-third-quarter-2026-results-raises-full-year-2026-guidance.html",
       "ticker": "NYSE:CSTM",
-      "checked": "2026-10-28T15:45:24Z"
-    },
-    {
-      "id": "2026-10-28-cstm-guide",
-      "time": "2026-10-28T15:55:24Z",
-      "tag": "EQUITIES",
-      "headline": "Constellium raises 2026 Adj. EBITDA guide to $1.03B-$1.06B; FCF over $300M",
-      "take": "Constellium said it is raising 2026 guidance and now expects Adjusted EBITDA of $1.03 billion to $1.06 billion, excluding the non-cash impact of metal price lag, and Free Cash Flow in excess of $300 million. The company generated Free Cash Flow of $128 million in the third quarter. The release does not state the prior range, so the size of the raise cannot be measured from the source.",
-      "source_name": "Constellium Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389941/0/en/constellium-reports-strong-third-quarter-2026-results-raises-full-year-2026-guidance.html",
-      "ticker": "NYSE:CSTM",
-      "checked": "2026-10-28T15:45:24Z"
-    },
-    {
-      "id": "2026-10-28-stng-q3",
-      "time": "2026-10-28T16:03:24Z",
-      "tag": "EARNINGS",
-      "headline": "Scorpio Tankers Q3 net income $224.3M vs $84.5M; diluted EPS $4.60 vs $1.73",
-      "take": "Scorpio Tankers reported Q3 2026 net income of $224.3 million versus $84.5 million a year earlier, with diluted EPS of $4.60 versus $1.73 and vessel revenue of $266.5 million versus $241.4 million. Net income was about 2.7 times the prior-year figure on revenue growth of about 10.4% by our calculation. Profit grew much faster than revenue in the quarter.",
-      "source_name": "Scorpio Tankers Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389990/0/en/scorpio-tankers-inc-announces-financial-results-for-the-third-quarter-of-2026-and-an-increase-to-its-quarterly-dividend.html",
-      "ticker": "NYSE:STNG",
-      "checked": "2026-10-28T15:45:24Z"
-    },
-    {
-      "id": "2026-10-28-stng-div",
-      "time": "2026-10-28T16:11:24Z",
-      "tag": "EQUITIES",
-      "headline": "Scorpio Tankers lifts quarterly dividend to $0.75 per share from $0.45",
-      "take": "Scorpio Tankers declared a quarterly cash dividend of $0.75 per common share, up from $0.45 paid in August 2026, payable December 4, 2026 to holders of record on November 13, 2026. The increase is about 66.7% by our calculation. The step-up comes after a quarter in which net income was $224.3 million versus $84.5 million a year earlier.",
-      "source_name": "Scorpio Tankers Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389990/0/en/scorpio-tankers-inc-announces-financial-results-for-the-third-quarter-of-2026-and-an-increase-to-its-quarterly-dividend.html",
-      "ticker": "NYSE:STNG",
-      "checked": "2026-10-28T15:45:24Z"
-    },
-    {
-      "id": "2026-10-28-rdwr-q3",
-      "time": "2026-10-28T16:19:24Z",
-      "tag": "EARNINGS",
-      "headline": "Radware Q3 revenue $84.4M vs $75.3M; cloud ARR $107M, up 21%",
-      "take": "Radware reported Q3 2026 revenue of $84.4 million versus $75.3 million in Q3 2025, GAAP net income from continuing operations of $4.5 million or $0.11 per diluted share, and non-GAAP diluted EPS from continuing operations of $0.32. Cloud ARR was $107 million, up 21% year over year, and revenue rose about 12.1% by our calculation. Cloud ARR grew faster than total revenue.",
-      "source_name": "Radware Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3389938/8980/en/radware-reports-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:RDWR",
-      "checked": "2026-10-28T15:45:24Z"
-    },
-    {
-      "id": "2026-10-28-cmre-q3",
-      "time": "2026-10-28T16:27:24Z",
-      "tag": "EARNINGS",
-      "headline": "Costamare Q3 revenues $220.4M vs $225.2M; EPS $0.73 vs $0.77",
-      "take": "Costamare reported Q3 2026 total revenues of $220.4 million versus $225.2 million a year earlier, net income from continuing operations of $95.0 million versus $99.4 million, and EPS from continuing operations of $0.73 versus $0.77. Revenue declined about 2.1% by our calculation. The company's declared common dividend of $0.125 per share is payable November 5, 2026.",
-      "source_name": "Costamare Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390043/0/en/costamare-inc-reports-results-for-the-third-quarter-and-nine-month-period-ended-september-30-2026.html",
-      "ticker": "NYSE:CMRE",
       "checked": "2026-10-28T15:45:24Z"
     }
   ]
