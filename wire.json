@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-13T02:43:58Z",
+ "updated": "2026-11-13T03:39:00Z",
  "items": [
+  {
+   "id": "2026-11-13-trade-sept-goods-exports-detail",
+   "time": "2026-11-13T03:47:00Z",
+   "tag": "MACRO",
+   "headline": "Sept goods exports rose $5.1B to $211.0B: capital goods +$3.8B, soybeans +$1.3B",
+   "take": "BEA and Census reported exports of goods rose $5.1 billion to $211.0 billion in September. Capital goods increased $3.8 billion and foods, feeds and beverages $1.9 billion (soybeans up $1.3 billion), while nonmonetary gold fell $3.4 billion and crude oil rose $1.2 billion. Services exports added $0.7 billion to $110.5 billion. AlphaGen read: capital goods and agricultural products led the increase, with gold the main offset.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-13T03:39:00Z"
+  },
+  {
+   "id": "2026-11-13-trade-sept-real-goods-deficit",
+   "time": "2026-11-13T03:57:00Z",
+   "tag": "MACRO",
+   "headline": "Real goods deficit widened 3.0% to $119.5B in Sept, faster than the 2.2% nominal rise",
+   "take": "On a Census basis in 2017 dollars, the real goods deficit increased $3.5 billion, or 3.0 percent, to $119.5 billion in September, versus a 2.2 percent increase in the nominal deficit. Real goods exports rose 0.1 percent to $152.2 billion against a 2.5 percent nominal gain, while real imports rose 1.4 percent to $271.6 billion against 2.4 percent nominal. AlphaGen read: in volume terms, export growth was far smaller than the nominal figures suggest.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-13T03:39:00Z"
+  },
+  {
+   "id": "2026-11-13-trade-sept-canada-eu-taiwan",
+   "time": "2026-11-13T04:07:00Z",
+   "tag": "MACRO",
+   "headline": "Sept trade: Canada deficit narrowed $2.7B to $4.4B; EU widened $3.2B, Taiwan $3.6B",
+   "take": "BEA reported the September goods deficit with Canada decreased $2.7 billion to $4.4 billion, as exports fell $0.3 billion to $29.7 billion and imports fell $3.0 billion to $34.1 billion. The deficit with the European Union increased $3.2 billion to $14.2 billion (exports $39.0 billion, imports $53.2 billion), and the Taiwan deficit increased $3.6 billion to $21.9 billion on imports of $27.3 billion. AlphaGen read: the month's country moves ran in opposite directions, with Canada narrowing while the EU and Taiwan widened.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-13T03:39:00Z"
+  },
+  {
+   "id": "2026-11-13-gdp-q3-petroleum-exports-capital-imports",
+   "time": "2026-11-13T04:17:00Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 export drop was led by petroleum; capital goods the biggest import contributor",
+   "take": "BEA's advance estimate put third-quarter real GDP growth at 3.4 percent, with a decrease in exports offsetting part of the gain while imports, a subtraction in GDP, increased. BEA said the export decrease primarily reflected goods, led by petroleum and related products, and that the largest contributor to imports was capital goods other than automotive. The second estimate is due Nov. 25. AlphaGen read: the trade drag in Q3 traced to energy exports and equipment imports, not a broad fall in goods trade.",
+   "source_name": "Bureau of Economic Analysis, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-13T03:39:00Z"
+  },
+  {
+   "id": "2026-11-13-fred-10s2s-nov12-024",
+   "time": "2026-11-13T04:27:00Z",
+   "tag": "RATES",
+   "headline": "10-year minus 2-year Treasury spread 0.24 point on Nov. 12, below 0.38 on Nov. 5",
+   "take": "FRED showed the 10-year minus 2-year Treasury spread at 0.24 percentage point on Nov. 12, from 0.25 on Nov. 10 and 0.38 on Nov. 5, a 14 basis point narrowing since Nov. 5. It was the lowest of the observations from Nov. 4 to Nov. 12 (no Nov. 11 reading was posted). AlphaGen read: the gap between long and short yields has narrowed since Nov. 5.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+   "checked": "2026-11-13T03:39:00Z"
+  },
   {
    "id": "2026-11-13-fred-walcl-nov11",
    "time": "2026-11-13T02:48:58Z",
@@ -5211,61 +5261,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389592/0/en/expand-energy-corporation-reports-third-quarter-2026-results.html",
    "ticker": "NASDAQ:EXE",
    "checked": "2026-10-27T23:50:06Z"
-  },
-  {
-   "id": "2026-10-27-exls-q3-guide",
-   "time": "2026-10-28T00:23:06Z",
-   "tag": "EARNINGS",
-   "headline": "EXL raises 2026 revenue guide to $2.430B-$2.440B; Q3 revenue $634.0M",
-   "take": "EXL reported Q3 2026 revenues of $634.0 million versus $529.6 million, GAAP diluted EPS of $0.45 versus $0.36 and adjusted diluted EPS of $0.62 versus $0.48. It now expects 2026 revenue of $2.430-$2.440 billion, up from $2.390-$2.415 billion, and adjusted diluted EPS of $2.34-$2.36, up from $2.25-$2.29. Both revenue and per-share results rose year over year, and the full-year ranges moved higher.",
-   "source_name": "EXL Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389591/9060/en/exl-reports-2026-third-quarter-results.html",
-   "ticker": "NASDAQ:EXLS",
-   "checked": "2026-10-27T23:50:06Z"
-  },
-  {
-   "id": "2026-10-27-czr-q3",
-   "time": "2026-10-28T00:31:06Z",
-   "tag": "EARNINGS",
-   "headline": "Caesars Q3 net revenues $2,940M vs $2,869M; net loss $(123)M",
-   "take": "Caesars Entertainment reported Q3 2026 net revenues of $2,940 million versus $2,869 million, a net loss attributable to Caesars of $123 million versus $55 million, and a diluted loss per share of $0.61 versus $0.27. Consolidated Adjusted EBITDA was $865 million versus $884 million; segment net revenues were $930 million in Las Vegas versus $952 million and $1,627 million in Regional versus $1,536 million. Revenue edged up while the loss widened.",
-   "source_name": "Caesars Entertainment Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001590895/000159089526000032/ex991-2026q3ceiearningsrel.htm",
-   "ticker": "NASDAQ:CZR",
-   "checked": "2026-10-27T23:50:06Z"
-  },
-  {
-   "id": "2026-10-27-nxpi-q3",
-   "time": "2026-10-27T22:46:53Z",
-   "tag": "EARNINGS",
-   "headline": "NXP Q3 revenue $3,786M vs $3,173M; GAAP EPS $3.48 vs $2.48",
-   "take": "NXP reported Q3 2026 revenue of $3,786 million versus $3,173 million a year earlier (up 19% by our calculation), with GAAP diluted EPS of $3.48 versus $2.48 and non-GAAP diluted EPS of $4.20 versus $3.11. Revenue and per-share earnings both rose by double digits, a broad gain in the chipmaker's results.",
-   "source_name": "NXP Semiconductors Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389631/0/en/nxp-semiconductors-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:NXPI",
-   "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-nxpi-guide-buyback",
-   "time": "2026-10-27T22:54:53Z",
-   "tag": "EQUITIES",
-   "headline": "NXP guides Q4 revenue $3,750M-$3,950M; announces $5B buyback authorization",
-   "take": "NXP's Q4 2026 revenue guidance is $3,750 million to $3,950 million (midpoint $3,850 million), with non-GAAP diluted EPS guided to $4.14-$4.58. The release also cites a newly announced $5 billion share repurchase authorization. The guidance midpoint sits above Q3's $3,786 million, pointing to continued sequential growth if realized.",
-   "source_name": "NXP Semiconductors Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389631/0/en/nxp-semiconductors-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:NXPI",
-   "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-csgp-q3",
-   "time": "2026-10-27T23:02:53Z",
-   "tag": "EARNINGS",
-   "headline": "CoStar Q3 revenue $952M vs $834M; net income $74M vs $(31)M loss",
-   "take": "CoStar reported Q3 2026 revenue of $952 million versus $834 million a year earlier (up 14% by our calculation), net income of $74 million versus a $31 million loss, and diluted EPS of $0.18 versus $(0.07). Adjusted EBITDA was $229 million versus $114 million. Earnings swung to a profit on revenue growth, a sharp improvement in profitability.",
-   "source_name": "CoStar Group Q3 2026 results (company IR)",
-   "source_url": "https://investors.costargroup.com/news-releases/news-release-details/costar-group-reports-record-third-quarter-revenue-952-million",
-   "ticker": "NASDAQ:CSGP",
-   "checked": "2026-10-27T22:44:53Z"
   }
  ]
 }
