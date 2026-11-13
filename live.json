@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T00:47:38Z",
+ "updated": "2026-11-13T21:38:07Z",
  "items": [
+  {
+   "id": "live-0001193125-26-460610-1.01",
+   "time": "2026-11-13T21:05:56Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "American Tower discloses a material agreement",
+   "take": "American Tower reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:05 PM ET, Nov 13.",
+   "source_name": "SEC EDGAR, AMT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312526460610/0001193125-26-460610-index.htm",
+   "ticker": "NYSE:AMT"
+  },
   {
    "id": "live-0000027419-26-000049-5.02",
    "time": "2026-11-12T21:35:43Z",
