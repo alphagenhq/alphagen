@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-13T00:38:35Z",
+ "updated": "2026-11-13T01:38:29Z",
  "items": [
+  {
+   "id": "2026-11-13-fred-breakeven-nov12-224",
+   "time": "2026-11-13T02:24:29Z",
+   "tag": "MACRO",
+   "headline": "10-year breakeven inflation rate 2.24% on Nov. 12, up 4 bp from 2.20% on Nov. 10",
+   "take": "The 10-year breakeven inflation rate, the gap between nominal and inflation-indexed 10-year Treasury yields, was 2.24% on Nov. 12 versus 2.20% on Nov. 10. On Nov. 4 it was 2.26%. FRED's 10-year minus 2-year Treasury spread was 0.24 point on Nov. 12. AlphaGen read: breakevens stayed within a 2.20%-2.26% band across the Nov. 4-12 observations.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+   "checked": "2026-11-13T01:38:29Z"
+  },
+  {
+   "id": "2026-11-13-fred-real-yield-nov10-278",
+   "time": "2026-11-13T02:13:29Z",
+   "tag": "RATES",
+   "headline": "10-year real yield jumped to 2.78% on Nov. 10 from 2.66%, while the breakeven slipped to 2.20%",
+   "take": "The 10-year Treasury inflation-indexed yield was 2.78% on Nov. 10, up 12 bp from 2.66% on Nov. 9, while the 10-year breakeven inflation rate eased to 2.20% from 2.22%. The nominal 10-year yield was 4.98%, which equals 2.78% plus 2.20%. AlphaGen read: the Nov. 10 rise in the 10-year came from the real component, not from higher inflation compensation.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DFII10",
+   "checked": "2026-11-13T01:38:29Z"
+  },
+  {
+   "id": "2026-11-13-fred-30y-nov10-535",
+   "time": "2026-11-13T02:02:29Z",
+   "tag": "RATES",
+   "headline": "30-year Treasury yield 5.35% on Nov. 10, up 9 bp from 5.26% and the highest since Nov. 3",
+   "take": "The 30-year Treasury yield was 5.35% on Nov. 10, up from 5.26% on both Nov. 6 and Nov. 9. The Nov. 3 reading was 5.32%, so Nov. 10 is the highest in the Nov. 3-10 observations. AlphaGen read: the long end rose 9 bp against 17 bp at 2 years, so the 30-year minus 2-year gap narrowed to 0.62 point from 0.70.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS30",
+   "checked": "2026-11-13T01:38:29Z"
+  },
+  {
+   "id": "2026-11-13-fred-10y-nov10-498",
+   "time": "2026-11-13T01:51:29Z",
+   "tag": "RATES",
+   "headline": "10-year Treasury yield 4.98% on Nov. 10, up 10 bp and above every Nov. 3-9 reading",
+   "take": "The 10-year Treasury yield was 4.98% on Nov. 10, up from 4.88% on Nov. 9. The prior high in the Nov. 3-9 observations was 4.95% on Nov. 3, and the low was 4.84% on Nov. 5. AlphaGen read: Nov. 10 more than reversed the early-November decline, leaving the 10-year 0.09 point above the 4.89% average of the five prior readings.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-13T01:38:29Z"
+  },
+  {
+   "id": "2026-11-13-fred-2y-nov10-jump",
+   "time": "2026-11-13T01:40:29Z",
+   "tag": "RATES",
+   "headline": "2-year Treasury yield rose 17 bp to 4.73% on Nov. 10, the largest move in Nov. 3-10 data",
+   "take": "The 2-year Treasury constant-maturity yield was 4.73% on Nov. 10, up from 4.56% on Nov. 9 and 4.46% on Nov. 5. The 17 bp rise is the largest one-day change in the Nov. 3-10 observations (the others ranged from -12 bp to +5 bp). AlphaGen read: the front end carried the day's repricing, which is why the 10-year minus 2-year gap narrowed to 0.25 point.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS2",
+   "checked": "2026-11-13T01:38:29Z"
+  },
   {
    "id": "2026-11-13-meta-eur-notes",
    "time": "2026-11-13T00:40:35Z",
@@ -5218,61 +5268,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389639/0/en/slide-reports-third-quarter-2026-results.html",
    "ticker": "NASDAQ:SLDE",
    "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-fcf-q3",
-   "time": "2026-10-27T23:34:53Z",
-   "tag": "CREDIT",
-   "headline": "First Commonwealth Q3 net income $44.9M, EPS $0.45; adds $25M buyback",
-   "take": "First Commonwealth reported Q3 2026 net income of $44.9 million and diluted EPS of $0.45, versus $44.6 million and $0.44 in Q2. The board declared a $0.14 quarterly dividend payable Nov. 20 to holders of record Nov. 6 and authorized an additional $25 million share repurchase program. Earnings were nearly flat sequentially.",
-   "source_name": "First Commonwealth Q3 2026 earnings (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389703/0/en/first-commonwealth-announces-third-quarter-2026-earnings-declares-quarterly-dividend-and-announces-additional-share-repurchase-authorization.html",
-   "ticker": "NASDAQ:FCF",
-   "checked": "2026-10-27T22:44:53Z"
-  },
-  {
-   "id": "2026-10-27-hood-q3",
-   "time": "2026-10-27T21:46:29Z",
-   "tag": "EARNINGS",
-   "headline": "Robinhood Q3 revenue $1,424M vs $1,274M; net income $476M vs $556M",
-   "take": "Robinhood reported Q3 2026 total net revenues of $1,424 million versus $1,274 million a year earlier (up 12% by our calculation), net income of $476 million versus $556 million, and diluted EPS of $0.51 versus $0.61. Funded Customers reached 28.7 million and Total Platform Assets $396 billion. Revenue grew while profit fell, so costs and other items outpaced the top line this quarter.",
-   "source_name": "Robinhood Q3 2026 results (SEC Form 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001783879/000178387926000164/q32026robinhoodexhibit991.htm",
-   "ticker": "NASDAQ:HOOD",
-   "checked": "2026-10-27T21:44:29Z"
-  },
-  {
-   "id": "2026-10-27-hood-outlook",
-   "time": "2026-10-27T21:54:29Z",
-   "tag": "EQUITIES",
-   "headline": "Robinhood trims top of 2026 adj. opex and SBC outlook to $2.675B-$2.75B",
-   "take": "Robinhood lowered the top end of its 2026 Adjusted Operating Expenses and SBC outlook by $25 million, to $2.675 billion-$2.75 billion from $2.675 billion-$2.775 billion. The outlook excludes provision for credit losses, costs related to pending acquisitions, and potential significant regulatory matters. The company gave no 2026 outlook for total operating expenses, so the range covers only part of its cost base.",
-   "source_name": "Robinhood Q3 2026 results (SEC Form 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001783879/000178387926000164/q32026robinhoodexhibit991.htm",
-   "ticker": "NASDAQ:HOOD",
-   "checked": "2026-10-27T21:44:29Z"
-  },
-  {
-   "id": "2026-10-27-bxp-q3",
-   "time": "2026-10-27T22:02:29Z",
-   "tag": "HOUSING",
-   "headline": "BXP Q3 FFO $1.89/share vs $1.74; 2026 FFO guide $7.06-$7.08",
-   "take": "BXP reported Q3 2026 FFO of $1.89 per diluted share versus $1.74 a year earlier, total revenue of $911.4 million versus $871.5 million, and net income attributable to BXP of $0.71 per diluted share versus a loss of $0.77. Its 2026 FFO per diluted share guidance is $7.06 to $7.08, a midpoint of $7.07. A $0.05 higher midpoint implies a prior midpoint near $7.02, per our calculation from the release.",
-   "source_name": "BXP Q3 2026 press release (SEC Form 8-K)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001037540/000103754026000041/q32026pressrelease.htm",
-   "ticker": "NYSE:BXP",
-   "checked": "2026-10-27T21:44:29Z"
-  },
-  {
-   "id": "2026-10-27-bxp-occupancy",
-   "time": "2026-10-27T22:12:29Z",
-   "tag": "HOUSING",
-   "headline": "BXP portfolio 89.4% occupied, 91.9% leased at Sept. 30; 74 leases signed in Q3",
-   "take": "BXP said total portfolio occupancy was 89.4% at Sept. 30, 2026, up 100 basis points from Q2, with 91.9% leased, up 60 basis points. It executed 74 leases totaling about 1.2 million square feet in Q3 with a weighted-average term of 10.3 years. The 250 basis point gap between leased and occupied space represents about 1.1 million square feet of future lease commencements.",
-   "source_name": "BXP Q3 2026 press release (SEC Form 8-K)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001037540/000103754026000041/q32026pressrelease.htm",
-   "ticker": "NYSE:BXP",
-   "checked": "2026-10-27T21:44:29Z"
   }
  ]
 }
