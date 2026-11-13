@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-13T21:40:47Z",
+ "updated": "2026-11-13T22:38:50Z",
  "items": [
+  {
+   "id": "2026-11-13-jefferson-ucsd-productivity-tonight",
+   "time": "2026-11-13T22:43:50Z",
+   "tag": "FED",
+   "headline": "Jefferson to speak tonight on productivity puzzles at UC San Diego roundtable",
+   "take": "The Fed's November calendar lists Vice Chair Philip N. Jefferson speaking Nov. 13 at 7:00 p.m. ET at the University of California San Diego Economics Roundtable in La Jolla, Calif. His listed topic is 'New Technology, Old Questions: Assessing Productivity Puzzles and Their Implications for Macroeconomic Activity.' AlphaGen read: the topic matches this week's Fed commentary on technology and productivity, including Barr's Nov. 12 remarks on artificial intelligence; the calendar links no speech text yet.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-13T22:38:50Z"
+  },
+  {
+   "id": "2026-11-13-warsh-productivity-jobs-conference-nov16",
+   "time": "2026-11-13T22:54:50Z",
+   "tag": "FED",
+   "headline": "Warsh to give opening remarks Nov. 16 at Fed productivity and jobs conference",
+   "take": "The Fed's November calendar lists Chairman Kevin Warsh giving opening remarks Monday, Nov. 16 at 12:00 p.m. ET at the Federal Reserve's Productivity and Jobs Task Force Conference, at the Federal Reserve Bank of San Francisco. The calendar shows a live-watch link for the event. AlphaGen read: the topic fits a week of Fed commentary on technology, productivity and labor-market structure.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-13T22:38:50Z"
+  },
+  {
+   "id": "2026-11-13-waller-tch-payments-nov17",
+   "time": "2026-11-13T23:05:50Z",
+   "tag": "FED",
+   "headline": "Waller to speak on payments Nov. 17 at The Clearing House annual conference",
+   "take": "The Fed's November calendar lists Governor Christopher J. Waller speaking on 'Payments' Tuesday, Nov. 17 at 9:10 a.m. ET at The Clearing House (TCH) Annual Conference in New York. The same calendar lists the G.17 industrial production and capacity utilization release for the 17th at 9:15 a.m. ET. AlphaGen read: the speech and the G.17 release are scheduled five minutes apart.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-13T22:38:50Z"
+  },
+  {
+   "id": "2026-11-13-barr-three-appearances-nov16-19",
+   "time": "2026-11-13T23:16:50Z",
+   "tag": "FED",
+   "headline": "Barr has three appearances Nov. 16-19: Milan on AI, New York, then a Washington AI panel",
+   "take": "The Fed's calendar lists Governor Michael S. Barr on Nov. 16 at 5:00 a.m. ET on 'Artificial Intelligence and Financial Stability' at the 7th ACM International Conference on AI in Finance in Milan; on Nov. 18 at 1:35 p.m. ET on 'Community Development Investments' at the New York Fed; and on Nov. 19 at 2:15 p.m. ET in a discussion on 'Artificial Intelligence' at the FinRegLab 2026 AI Symposium in Washington. AlphaGen read: two of the three appearances center on artificial intelligence, a theme Barr also covered Nov. 12.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-13T22:38:50Z"
+  },
+  {
+   "id": "2026-11-13-cook-chile-waller-college-fed-nov20",
+   "time": "2026-11-13T23:27:50Z",
+   "tag": "FED",
+   "headline": "Cook to speak in Chile Nov. 20 on U.S. economy; Waller opens College Fed finals",
+   "take": "The Fed's calendar lists Governor Lisa D. Cook speaking Nov. 20 at 12:15 p.m. ET on 'The U.S. Economy in Global Context' at the Annual Conference of the Central Bank of Chile in Santiago. Governor Christopher J. Waller gives welcoming remarks the same day at 8:25 a.m. ET at the College Fed Challenge Finals. AlphaGen read: the schedule follows the FOMC minutes release listed for Nov. 18 at 2:00 p.m. ET.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-13T22:38:50Z"
+  },
   {
    "id": "2026-11-13-fred-existing-home-oct-375m",
    "time": "2026-11-13T21:42:00Z",
@@ -5165,59 +5215,6 @@
    "source_url": "https://prnewswire.com/news-releases/markel-group-reports-2026-third-quarter-and-nine-months-results-302922728.html",
    "ticker": "NYSE:MKL",
    "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-epac-sfe",
-   "time": "2026-10-28T21:36:58Z",
-   "tag": "DEALS",
-   "headline": "Enerpac completes SFE Group acquisition for about $472M",
-   "take": "Enerpac Tool Group said it completed its previously announced acquisition of Specialized Fabrication Equipment Group LLC for a purchase price of approximately $472 million, including approximately $452 million in cash. SFE Group had about $170 million of sales and about $44 million of adjusted EBITDA for the twelve months ended March 31, 2026, implying 10.6x trailing adjusted EBITDA per the release. The deal was financed partly with a new $850 million credit facility, with pro forma net debt to adjusted EBITDA of about 2.3x.",
-   "source_name": "Enerpac Tool Group release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390136/0/en/enerpac-tool-group-completes-acquisition-of-sfe-group-expanding-portfolio-of-premium-industrial-tool-brands.html",
-   "ticker": "NYSE:EPAC",
-   "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-fomc-decision",
-   "time": "2026-10-28T19:47:33Z",
-   "tag": "FED",
-   "headline": "FOMC holds target range at 3-3/4 to 4 percent in 10-2 vote; Cook, Hammack dissent",
-   "take": "The Federal Reserve said the FOMC voted 10 to 2 to maintain the federal funds target range at 3-3/4 to 4 percent. Lisa D. Cook and Beth M. Hammack dissented, preferring a 1/4 percentage point increase. The statement says inflation remains elevated and that the Committee is maintaining ample reserves in the banking system; two dissents in favor of a hike mark a hawkish tilt within the vote.",
-   "source_name": "Federal Reserve Board: FOMC statement, Oct. 28, 2026",
-   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "checked": "2026-10-28T19:45:33Z"
-  },
-  {
-   "id": "2026-10-28-googl-q3-date",
-   "time": "2026-10-28T19:55:33Z",
-   "tag": "EQUITIES",
-   "headline": "Alphabet to post Q3 2026 results today; call set for 4:30 p.m. ET",
-   "take": "Alphabet said it will hold its Q3 2026 financial results conference call on Wednesday, Oct. 28 at 1:30 p.m. Pacific (4:30 p.m. Eastern), with the earnings release posted on its investor relations site before the call. A replay will be available on YouTube after the webcast.",
-   "source_name": "Alphabet Investor Relations",
-   "source_url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx",
-   "ticker": "NASDAQ:GOOGL",
-   "checked": "2026-10-28T19:45:33Z"
-  },
-  {
-   "id": "2026-10-28-vanti-q3",
-   "time": "2026-10-28T20:05:33Z",
-   "tag": "EARNINGS",
-   "headline": "Vantiva Q3 revenue €436M vs €470M; maintains positive 2026 free cash flow guide",
-   "take": "Vantiva reported Q3 2026 continuing-operations revenue of €436 million versus €470 million a year earlier, down 7.3% at current rates. Broadband revenue was €321 million versus €378 million, while Video was €115 million versus €92 million. The company maintained its full-year 2026 guidance for positive free cash flow; 2025 comparatives were restated for reclassifications.",
-   "source_name": "Vantiva Q3 and nine-month 2026 sales release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390653/0/en/third-quarter-2026-and-nine-month-sales.html",
-   "ticker": "EPA:VANTI",
-   "checked": "2026-10-28T19:45:33Z"
-  },
-  {
-   "id": "2026-10-28-spie-sar",
-   "time": "2026-10-28T20:15:33Z",
-   "tag": "DEALS",
-   "headline": "SPIE agrees to buy 76% of Austria's SAR Anlagenbau; closing seen early 2027",
-   "take": "SPIE announced an agreement to acquire a 76% stake in SAR ANLAGENBAU GmbH, based in Hausmening, Austria, with managing director Arno Reisinger holding up to 24%. SAR has about 230 employees and around €100 million of revenue for fiscal 2025/26, and the price was not disclosed. Closing is expected at the beginning of 2027, subject to customary closing conditions.",
-   "source_name": "SPIE press release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390660/0/en/spie-signs-an-agreement-for-the-acquisition-of-sar-anlagenbau-gmbh-in-austria-and-germany.html",
-   "checked": "2026-10-28T19:45:33Z"
   }
  ]
 }
