@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-13T03:39:00Z",
+ "updated": "2026-11-13T11:43:33Z",
  "items": [
+  {
+   "id": "2026-11-13-eia-nov-storage-forecast",
+   "time": "2026-11-13T11:43:00Z",
+   "tag": "ENERGY",
+   "headline": "EIA lifts November gas storage forecast by almost 70 Bcf; Henry Hub $2.87 Nov-Mar",
+   "take": "EIA's Nov. 10 release says it expects almost 70 billion cubic feet more natural gas in U.S. storage at the end of November than it forecast in October, after a warm start to the month. The November STEO has Henry Hub spot averaging $2.87 per million Btu from November through March, 16% less over that period than last month's forecast, with more gas in storage throughout the winter. AlphaGen read: warmer weather and fuller storage are what lowered the winter price forecast.",
+   "source_name": "EIA, Press Release (11/10/2026): EIA raises November natural gas storage forecast after warm start to month",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-13T11:43:33Z"
+  },
+  {
+   "id": "2026-11-13-eia-electricity-record-2026",
+   "time": "2026-11-13T11:51:00Z",
+   "tag": "ENERGY",
+   "headline": "EIA expects record U.S. power-sector generation of almost 4,390 billion kWh in 2026",
+   "take": "EIA's November outlook release expects U.S. electric power sector generation to reach a record of almost 4,390 billion kilowatthours in 2026, up 2.7% from 2025. It projects natural gas at 40% of generation in 2026 and 39% in 2027, solar at 8% in 2026 and 10% in 2027, and coal at 15% in both years. AlphaGen read: the generation mix is shifting toward solar while total demand for power keeps rising.",
+   "source_name": "EIA, Press Release (11/10/2026): EIA raises November natural gas storage forecast after warm start to month",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-13T11:43:33Z"
+  },
+  {
+   "id": "2026-11-13-eia-crude-stocks-lowest-oct-since-2014",
+   "time": "2026-11-13T11:59:00Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA: U.S. commercial crude inventories fell to lowest October level since 2014",
+   "take": "EIA's Nov. 10 release says U.S. commercial crude oil inventories fell to their lowest October level since 2014, and it expects U.S. crude production to reach a record 14.3 million barrels per day in 2027, up from 13.9 million in 2026. The release forecasts Brent spot averaging $86 a barrel in 2027. AlphaGen read: tight inventories and rising output are the two supply-side facts in EIA's forecast.",
+   "source_name": "EIA, Press Release (11/10/2026): EIA raises November natural gas storage forecast after warm start to month",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-13T11:43:33Z"
+  },
+  {
+   "id": "2026-11-13-fred-brent-wti-nov11",
+   "time": "2026-11-13T12:07:00Z",
+   "tag": "COMMODITIES",
+   "headline": "Brent spot $92.14 and WTI $89.62 on Nov. 11; Brent $14.89 below its Nov. 3 reading",
+   "take": "FRED's daily series show Brent spot at $92.14 a barrel on Nov. 11, up from $90.16 on Nov. 10 and below $107.03 on Nov. 3. WTI spot was $89.62 on both Nov. 10 and Nov. 11, leaving the Brent-WTI gap at $2.52. AlphaGen read: Brent has fallen $14.89 from its Nov. 3 reading, and the Brent-WTI gap on Nov. 11 was $2.52.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis, Crude Oil Prices: Brent - Europe (DCOILBRENTEU) and WTI (DCOILWTICO)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "checked": "2026-11-13T11:43:33Z"
+  },
+  {
+   "id": "2026-11-13-fred-tga-reserves-nov11",
+   "time": "2026-11-13T12:15:00Z",
+   "tag": "FED",
+   "headline": "Treasury account at Fed fell $42.8B to $914.4B on Nov. 11 as bank reserves rose $30.5B",
+   "take": "FRED shows the Treasury General Account at $914,370 million on Nov. 11, down from $957,175 million on Nov. 4, a $42.8 billion decline. Reserve balances with Federal Reserve Banks were $2,960,603 million, up from $2,930,088 million, a $30.5 billion increase. AlphaGen read: the account and reserves moved in opposite directions over the week.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis, Treasury General Account (WTREGEN) and Reserve Balances (WRESBAL)",
+   "source_url": "https://fred.stlouisfed.org/series/WTREGEN",
+   "checked": "2026-11-13T11:43:33Z"
+  },
+  {
+   "id": "2026-11-13-fred-5y-breakeven-nov12-231",
+   "time": "2026-11-13T12:23:00Z",
+   "tag": "MACRO",
+   "headline": "5-year breakeven inflation rate 2.31% on Nov. 12, up from 2.25% on Nov. 10",
+   "take": "The 5-year breakeven inflation rate was 2.31% on Nov. 12, up 0.06 percentage point from 2.25% on both Nov. 9 and Nov. 10, per FRED. The 10-year breakeven was 2.24% on Nov. 12. AlphaGen read: five-year inflation compensation sits above the 10-year rate on the latest observations.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis, 5-Year Breakeven Inflation Rate (T5YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "checked": "2026-11-13T11:43:33Z"
+  },
   {
    "id": "2026-11-13-trade-sept-goods-exports-detail",
    "time": "2026-11-13T03:47:00Z",
@@ -5196,71 +5256,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/0001809987/000162828026067591/a2026-10x27exhibit991.htm",
    "ticker": "NYSE:MIR",
    "checked": "2026-10-28T00:44:20Z"
-  },
-  {
-   "id": "2026-10-28-mir-guide",
-   "time": "2026-10-28T01:22:20Z",
-   "tag": "EQUITIES",
-   "headline": "Mirion updates 2026 guide: adj. EBITDA $285M-$292M, adj. EPS $0.50-$0.54",
-   "take": "Mirion revised its 2026 guidance to revenue growth of about 24%-25% (from 22%-24%) and organic growth of about 7%-8% (from 5%-7%). Adjusted EBITDA is now about $285 million to $292 million (from $285 million to $300 million), and adjusted free cash flow about $170 million to $185 million (from $155 million to $175 million). Adjusted EPS is guided to about $0.50-$0.54 versus $0.48-$0.55 previously, so the range narrowed rather than moved uniformly higher.",
-   "source_name": "Mirion Q3 2026 results (SEC 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001809987/000162828026067591/a2026-10x27exhibit991.htm",
-   "ticker": "NYSE:MIR",
-   "checked": "2026-10-28T00:44:20Z"
-  },
-  {
-   "id": "2026-10-28-boc-oct28",
-   "time": "2026-10-28T01:29:20Z",
-   "tag": "GLOBAL",
-   "headline": "Bank of Canada decision and Monetary Policy Report due 9:45 a.m. ET Wednesday",
-   "take": "The Bank of Canada will announce its overnight rate decision and publish its quarterly Monetary Policy Report at 9:45 a.m. ET on October 28, with a press conference by Governor Macklem and Senior Deputy Governor Rogers at about 10:30 a.m. ET. On September 2 the Bank held its overnight rate target at 2.25%, with the Bank Rate at 2.5%, citing higher upside inflation risks and new tariffs. This is the first decision since that hold and comes with updated projections.",
-   "source_name": "Bank of Canada: rate announcement and MPR, Oct 28, 2026",
-   "source_url": "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/",
-   "checked": "2026-10-28T00:44:20Z"
-  },
-  {
-   "id": "2026-10-27-lpla-q3",
-   "time": "2026-10-27T23:51:06Z",
-   "tag": "EARNINGS",
-   "headline": "LPL Financial Q3 revenue $5,344M vs $4,552M; GAAP EPS $4.52; adj. EPS $5.97",
-   "take": "LPL Financial reported Q3 2026 total revenue of $5,344.0 million versus $4,552.0 million a year earlier (up 17% by our calculation), net income of $357 million and GAAP diluted EPS of $4.52 versus a loss of $0.37 in Q3 2025. Adjusted EPS rose 15% to $5.97 from $5.20. The year-ago quarter carried $538 million of acquisition costs versus $83 million this quarter, which flatters the GAAP comparison.",
-   "source_name": "LPL Financial Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389614/29579/en/lpl-financial-announces-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:LPLA",
-   "checked": "2026-10-27T23:50:06Z"
-  },
-  {
-   "id": "2026-10-27-lpla-assets",
-   "time": "2026-10-27T23:59:06Z",
-   "tag": "EQUITIES",
-   "headline": "LPL total client assets $2,564.6B; organic net new assets $29.1B in Q3",
-   "take": "LPL said total client assets were $2,564.6 billion at quarter-end versus $2,314.5 billion a year earlier, an 11% increase, with advisory assets of $1,561.0 billion and brokerage assets of $1,003.6 billion. Total organic net new assets were $29.1 billion versus $32.7 billion in Q3 2025, and recruited assets were $24 billion, down 26% from a year ago. Asset growth continued while organic inflows slowed from the prior-year quarter.",
-   "source_name": "LPL Financial Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389614/29579/en/lpl-financial-announces-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:LPLA",
-   "checked": "2026-10-27T23:50:06Z"
-  },
-  {
-   "id": "2026-10-27-exe-q3",
-   "time": "2026-10-28T00:07:06Z",
-   "tag": "ENERGY",
-   "headline": "Expand Energy Q3 net income $519M vs $547M; production 7.54 Bcfe/d",
-   "take": "Expand Energy reported Q3 2026 total revenues and other of $3,286 million versus $2,966 million, net income of $519 million versus $547 million, and diluted EPS of $2.24 versus $2.28. Adjusted net income was $338 million versus $234 million, and net production was 7.54 Bcfe/d versus 7.33 Bcfe/d, 92% natural gas. Higher volumes and a wider non-GAAP profit contrasted with slightly lower GAAP earnings.",
-   "source_name": "Expand Energy Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389592/0/en/expand-energy-corporation-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:EXE",
-   "checked": "2026-10-27T23:50:06Z"
-  },
-  {
-   "id": "2026-10-27-exe-capital-buyback",
-   "time": "2026-10-28T00:15:06Z",
-   "tag": "ENERGY",
-   "headline": "Expand Energy updates 2026 capex guide to ~$3B; repurchased $305M in Q3",
-   "take": "Expand Energy said it updated its 2026 capital investment guidance to approximately $3 billion, with 11-12 rigs and average production of 7.45-7.55 Bcfe/d. It repurchased $305 million of stock in Q3 and has $1 billion of remaining capacity under its expanded authorization, and declared a base dividend of $0.575 per share payable December 3. The release does not state the prior capex figure.",
-   "source_name": "Expand Energy Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/27/3389592/0/en/expand-energy-corporation-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:EXE",
-   "checked": "2026-10-27T23:50:06Z"
   }
  ]
 }
