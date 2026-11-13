@@ -1,6 +1,59 @@
 {
-  "updated": "2026-11-13T12:40:13Z",
+  "updated": "2026-11-13T17:44:00Z",
   "items": [
+    {
+      "id": "2026-11-13-oil-retreat-forecast",
+      "time": "2026-11-13T17:44:00Z",
+      "tag": "COMMODITIES",
+      "title": "Brent has retreated about $31 in two weeks, yet EIA's forecast still centers near $100",
+      "dek": "FRED spot data show Brent at $92.14 on Nov. 11 versus $123.10 on Oct. 27, while EIA's November outlook expected prices near $100 for the rest of 2026.",
+      "key_points": [
+        "Brent spot: $92.14 on Nov. 11, from $123.10 on Oct. 27, a $30.96 decline (FRED).",
+        "EIA's November STEO says Brent averaged $124 in October and is expected to stay near $100 for the rest of 2026, averaging $86 in 2027.",
+        "Brent-WTI gap ranged from $0.11 to $3.91 across Nov. 4-11 (FRED).",
+        "EIA projects 2026 U.S. retail gasoline at $3.89 a gallon and 2027 at $3.73; 2027 diesel at $5.03.",
+        "BLS reported October PPI final demand up 0.3 percent, with goods up 0.5 percent."
+      ],
+      "body": [
+        "FRED's daily spot series show Brent crude at $92.14 a barrel on Nov. 11. On Oct. 27 it was $123.10, so the benchmark is down $30.96 over that span, with $107.03 recorded on Nov. 3 and $97.96 on Nov. 5 along the way. WTI was $89.62 on Nov. 11, from $103.37 on Oct. 27.",
+        {
+          "h": "What EIA's outlook assumed"
+        },
+        "The Energy Information Administration's November Short-Term Energy Outlook shows Brent averaging $124 a barrel in October and expects it to stay near $100 for the rest of 2026, before averaging $86 in 2027 and $77 in the fourth quarter of 2027. The latest FRED reading, $92.14, is below that near-$100 assumption. The outlook does not say how it would treat a lower starting point, and the two sources measure different things: one is a daily spot price, the other a forecast average.",
+        {
+          "h": "Supply and fuel prices"
+        },
+        "EIA says U.S. commercial crude inventories fell to their lowest October level since 2014 and expects U.S. crude production of 14.3 million barrels a day in 2027, up from 13.9 million in 2026. For consumers, the outlook puts retail gasoline at $3.89 a gallon in 2026 and $3.73 in 2027, and 2027 diesel at $5.03. An EIA analysis of Petroleum Supply Monthly data through August notes that gasoline yields averaged under 45 percent at U.S. refineries from January through August 2026 while distillate yields stayed above the five-year average, tied by EIA to higher margins on middle distillates.",
+        {
+          "h": "Why it matters for prices elsewhere"
+        },
+        "BLS reported that the October Producer Price Index for final demand rose 0.3 percent, with goods up 0.5 percent and services up 0.2 percent. Energy is one input among many, and this note does not attribute that figure to oil. The Brent-WTI gap itself has been unstable: it was $3.91 on Nov. 5, $0.63 on Nov. 9 and $2.52 on Nov. 11, which shows how quickly the two benchmarks can diverge.",
+        "For an everyday investor, the practical point is that an official forecast and a daily spot price are different measures. The spot price has moved well below the forecast's near-term assumption, and the next EIA outlook will show whether the agency revises its path. Gasoline and diesel prices at the pump tend to lag crude, so the retail forecasts above are the figures to compare against what you actually pay."
+      ],
+      "sources": [
+        {
+          "name": "FRED, Brent spot (DCOILBRENTEU)",
+          "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+        },
+        {
+          "name": "FRED, WTI spot (DCOILWTICO)",
+          "url": "https://fred.stlouisfed.org/series/DCOILWTICO"
+        },
+        {
+          "name": "EIA, Short-Term Energy Outlook, November 2026",
+          "url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf"
+        },
+        {
+          "name": "EIA, Today in Energy: refinery yields",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424"
+        },
+        {
+          "name": "BLS, Producer Price Index",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        }
+      ],
+      "checked": "2026-11-13T17:44:00Z"
+    },
     {
       "id": "2026-11-13-morning-brief",
       "time": "2026-11-13T12:42:13Z",

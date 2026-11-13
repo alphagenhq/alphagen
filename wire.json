@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-13T16:44:25Z",
+  "updated": "2026-11-13T17:44:00Z",
   "items": [
+    {
+      "id": "2026-11-13-fred-30y-2y-nov10-062",
+      "time": "2026-11-13T17:49:00Z",
+      "tag": "RATES",
+      "headline": "30-year minus 2-year Treasury gap 0.62 point on Nov. 10, lowest since at least Nov. 3",
+      "take": "FRED shows the 30-year Treasury constant-maturity yield at 5.35% and the 2-year at 4.73% on Nov. 10, a 0.62-point gap, versus 0.70 on Nov. 9 and 0.79 on Nov. 5. Across the six observations from Nov. 3 to Nov. 10 the gap ranged from 0.62 to 0.79. AlphaGen read: the 2-year's 17 bp rise outpaced the 30-year's 9 bp rise, which is what narrowed the gap.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-13T17:44:00Z"
+    },
+    {
+      "id": "2026-11-13-fred-2y-sofr-gap-nov10",
+      "time": "2026-11-13T18:04:00Z",
+      "tag": "RATES",
+      "headline": "2-year Treasury yield 0.84 point above SOFR on Nov. 10, widest of Nov. 3-10",
+      "take": "FRED shows the 2-year Treasury yield at 4.73% and SOFR at 3.89% on Nov. 10, a 0.84-point gap, versus 0.68 on Nov. 9 and 0.54 on Nov. 5. Across the six observations from Nov. 3 to Nov. 10 the gap ranged from 0.54 to 0.84. AlphaGen read: the widening came from the 2-year yield rising 17 bp while SOFR rose 1 bp.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-13T17:44:00Z"
+    },
+    {
+      "id": "2026-11-13-fred-brent-wti-gap-swings",
+      "time": "2026-11-13T18:19:00Z",
+      "tag": "COMMODITIES",
+      "headline": "Brent-WTI spot gap swung between $0.11 and $3.91 over Nov. 4-11",
+      "take": "FRED's daily spot series show the Brent minus WTI gap at $0.11 on Nov. 4, $3.91 on Nov. 5, $3.46 on Nov. 6, $0.63 on Nov. 9, $0.54 on Nov. 10 and $2.52 on Nov. 11. From Nov. 6 to Nov. 9 Brent fell $6.80 to $91.03 while WTI fell $3.97 to $90.40. AlphaGen read: Brent's larger drop on Nov. 9 is what closed most of the gap.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "checked": "2026-11-13T17:44:00Z"
+    },
     {
       "id": "2026-11-13-bea-gdp-second-estimate-nov25",
       "time": "2026-11-13T16:46:00Z",
@@ -5199,39 +5229,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390043/0/en/costamare-inc-reports-results-for-the-third-quarter-and-nine-month-period-ended-september-30-2026.html",
       "ticker": "NYSE:CMRE",
       "checked": "2026-10-28T15:45:24Z"
-    },
-    {
-      "id": "2026-10-28-kex-q3",
-      "time": "2026-10-28T14:51:54Z",
-      "tag": "EARNINGS",
-      "headline": "Kirby Q3 revenues $977.2M vs $871.2M; diluted EPS $2.09 vs $1.65",
-      "take": "Kirby reported Q3 2026 total revenues of $977.2 million versus $871.2 million, net earnings attributable to Kirby of $110.8 million versus $92.5 million, and diluted EPS of $2.09 versus $1.65. Revenue rose about 12.2% and EPS about 26.7% by our calculation. Earnings grew faster than sales, which points to operating leverage in the quarter.",
-      "source_name": "Kirby Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390014/0/en/kirby-corporation-announces-third-quarter-2026-results.html",
-      "ticker": "NYSE:KEX",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-kex-guide",
-      "time": "2026-10-28T14:58:54Z",
-      "tag": "EQUITIES",
-      "headline": "Kirby narrows 2026 EPS growth guide to 10%-15%, sees upper end",
-      "take": "Kirby narrowed its 2026 diluted EPS growth outlook to 10% to 15% and says it expects results toward the upper end of the range. It also guided operating cash flow of $575 million to $675 million and capital spending of $220 million to $260 million. A narrowed range with an upper-end bias suggests management has visibility into the rest of the year.",
-      "source_name": "Kirby Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390014/0/en/kirby-corporation-announces-third-quarter-2026-results.html",
-      "ticker": "NYSE:KEX",
-      "checked": "2026-10-28T14:50:54Z"
-    },
-    {
-      "id": "2026-10-28-fele-q3",
-      "time": "2026-10-28T15:05:54Z",
-      "tag": "EARNINGS",
-      "headline": "Franklin Electric Q3 net sales $633.6M vs $581.7M; GAAP EPS $1.35 vs $0.37",
-      "take": "Franklin Electric reported Q3 2026 net sales of $633.6 million versus $581.7 million, diluted EPS of $1.35 versus $0.37, and adjusted diluted EPS of $1.50 versus $1.31. Net sales rose about 8.9% by our calculation. The release raised 2026 guidance to net sales of $2.23 billion to $2.30 billion and adjusted diluted EPS of $4.62 to $4.82.",
-      "source_name": "Franklin Electric Q3 2026 results (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390107/11167/en/franklin-electric-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:FELE",
-      "checked": "2026-10-28T14:50:54Z"
     }
   ]
 }
