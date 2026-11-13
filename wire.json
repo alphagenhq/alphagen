@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-13T22:38:50Z",
+ "updated": "2026-11-13T23:39:56Z",
  "items": [
+  {
+   "id": "2026-11-13-cpi-all-items-apr-oct-path",
+   "time": "2026-11-13T23:41:56Z",
+   "tag": "MACRO",
+   "headline": "CPI all-items path since April: +0.6, +0.5, -0.4, +0.1, +0.4, +0.6, +0.4 percent",
+   "take": "BLS's October CPI release shows seasonally adjusted monthly all-items changes of 0.6% in April, 0.5% in May, -0.4% in June, 0.1% in July, 0.4% in August, 0.6% in September and 0.4% in October. Compounding those rounded monthly changes gives about 2.2% over the seven months (AlphaGen calculation). AlphaGen read: June is the only decline in the span, and the energy index also fell 5.7% that month.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-13T23:39:56Z"
+  },
+  {
+   "id": "2026-11-13-cpi-energy-path-apr-oct",
+   "time": "2026-11-13T23:51:56Z",
+   "tag": "ENERGY",
+   "headline": "CPI energy index: up 5.2% in September, 0.7% in October after two monthly declines",
+   "take": "BLS's Table A shows the seasonally adjusted CPI energy index at +3.8% in April, +3.9% in May, -5.7% in June, -1.5% in July, +2.1% in August, +5.2% in September and +0.7% in October. Compounding those rounded changes gives about 8.4% over the seven months (AlphaGen calculation). AlphaGen read: October's 0.7% was the smallest of the three increases since July's decline.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-13T23:39:56Z"
+  },
+  {
+   "id": "2026-11-13-eia-sw-hydro-interior-cut",
+   "time": "2026-11-14T00:01:56Z",
+   "tag": "ENERGY",
+   "headline": "EIA: Interior to cut CA, AZ, NV water use 1.25M acre-feet a year as hydropower falls",
+   "take": "EIA says the Department of the Interior decided to reduce the collective water consumption of California, Arizona and Nevada by 1.25 million acre-feet each year over the next two years, and that releases from Lake Powell were reduced to maintain an elevation of at least 3,510 feet. EIA expects Southwest hydropower to be about 4% of the region's 2026 generation mix, down from a peak of 8% in 2011. AlphaGen read: the drought is now shaping water allocation as well as power output.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+   "checked": "2026-11-13T23:39:56Z"
+  },
+  {
+   "id": "2026-11-13-eia-alaska-q3-pikka",
+   "time": "2026-11-14T00:11:56Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA: Alaska Q3 crude output grew 4%, first third-quarter rise in 40+ years",
+   "take": "EIA's STEO production data indicate third-quarter 2026 Alaskan crude production grew 4% as Pikka Phase 1 came online, the first third-quarter increase in more than 40 years; the prior five years (2021-2025) averaged third-quarter output 7% below first-quarter levels. EIA expects Pikka to reach peak production of 80,000 b/d by winter 2026-27, nearly 20% of total Alaskan production in 2025. AlphaGen read: the usual late-summer maintenance dip was more than offset this year.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+   "checked": "2026-11-13T23:39:56Z"
+  },
+  {
+   "id": "2026-11-13-amt-8k-item-101",
+   "time": "2026-11-14T00:21:56Z",
+   "tag": "DEALS",
+   "headline": "American Tower files 8-K under Item 1.01, a material definitive agreement",
+   "take": "American Tower filed a Form 8-K with the SEC at 4:05 p.m. ET on Nov. 13 under Item 1.01, the item for entry into a material definitive agreement. The SEC alert does not state the counterparty or terms. AlphaGen read: the agreement's details sit in the filing itself, so nothing about its size or purpose should be inferred from the alert.",
+   "source_name": "SEC EDGAR, AMT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312526460610/0001193125-26-460610-index.htm",
+   "ticker": "NYSE:AMT",
+   "checked": "2026-11-13T23:39:56Z"
+  },
   {
    "id": "2026-11-13-jefferson-ucsd-productivity-tonight",
    "time": "2026-11-13T22:43:50Z",
@@ -5159,61 +5210,6 @@
    "take": "The Bank of Canada raised its overnight rate target by 25 basis points to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%. It said CPI has been around 3% since April and is expected near 3½% by year-end, and that there could be a need to raise the policy rate further, though Governing Council agreed to proceed carefully. The move follows the Bank's September hold at 2¼%, and the explicit mention of more tightening makes this an energy-inflation response rather than a one-off.",
    "source_name": "Bank of Canada: Policy rate announcement, Oct. 28, 2026",
    "source_url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
-   "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-ppc-q3",
-   "time": "2026-10-28T21:01:58Z",
-   "tag": "EARNINGS",
-   "headline": "Pilgrim's Pride Q3 net sales $4,653.2M vs $4,759.3M; GAAP EPS $0.49 vs $1.44",
-   "take": "Pilgrim's Pride reported Q3 2026 net sales of $4,653.2 million versus $4,759.3 million, down 2.2%, and GAAP diluted EPS of $0.49 versus $1.44. Adjusted EBITDA was $316.3 million, a 6.8% margin, versus $633.1 million a year earlier. Profit fell far faster than sales, which points to a margin squeeze rather than a volume problem.",
-   "source_name": "Pilgrim's Pride Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390788/17519/en/pilgrim-s-pride-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:PPC",
-   "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-ryi-q3",
-   "time": "2026-10-28T21:08:58Z",
-   "tag": "EARNINGS",
-   "headline": "Ryerson Q3 revenue $2,177.8M vs $1,161.5M; diluted EPS $0.61 vs $(0.46)",
-   "take": "Ryerson reported Q3 2026 revenue of $2,177.8 million versus $1,161.5 million, up 87.5%, and net income attributable to Ryerson of $32.0 million versus a net loss of $14.8 million. Adjusted EBITDA excluding LIFO was $115.0 million versus $40.3 million. For Q4 it guided net sales of $1.96 billion to $2.04 billion, with the release including an expected $28 million to $30 million of adjusted EBITDA from Olympic Steel.",
-   "source_name": "Ryerson Q3 2026 results (PR Newswire)",
-   "source_url": "https://prnewswire.com/news-releases/ryerson-reports-third-quarter-2026-results-302922709.html",
-   "ticker": "NYSE:RYI",
-   "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-max-q3",
-   "time": "2026-10-28T21:15:58Z",
-   "tag": "EARNINGS",
-   "headline": "MediaAlpha Q3 revenue $375.9M vs $306.5M; net income $29.4M; Q4 revenue guide $355M-$375M",
-   "take": "MediaAlpha reported Q3 2026 revenue of $375.9 million versus $306.5 million, up 22.7%, with net income of $29.4 million versus $17.6 million and adjusted EBITDA of $39.5 million versus $29.1 million. It guided Q4 revenue to $355 million to $375 million and adjusted EBITDA to $36.0 million to $39.0 million. Net income grew 66.4% against revenue growth of 22.7%, which points to operating leverage in the quarter.",
-   "source_name": "MediaAlpha Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390734/0/en/mediaalpha-announces-third-quarter-2026-financial-results.html",
-   "ticker": "NYSE:MAX",
-   "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-eig-q3",
-   "time": "2026-10-28T21:22:58Z",
-   "tag": "CREDIT",
-   "headline": "Employers Holdings Q3 net income $11.6M vs $(8.3)M loss; combined ratio 108.4%",
-   "take": "Employers Holdings reported Q3 2026 net income of $11.6 million, or $0.64 per diluted share, versus a net loss of $8.3 million, or $(0.36), a year earlier. Net premiums earned were $160.2 million versus $192.1 million, and the GAAP combined ratio was 108.4% versus 129.7%. A combined ratio above 100% means underwriting costs and losses exceeded premiums earned, so the quarter's profit came despite an underwriting result still short of break-even.",
-   "source_name": "Employers Holdings Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390767/0/en/employers-holdings-inc-reports-third-quarter-2026-results-and-declares-regular-quarterly-dividend-of-0-34-per-share.html",
-   "ticker": "NYSE:EIG",
-   "checked": "2026-10-28T20:52:58Z"
-  },
-  {
-   "id": "2026-10-28-mkl-q3",
-   "time": "2026-10-28T21:29:58Z",
-   "tag": "EQUITIES",
-   "headline": "Markel Q3 total operating revenues $4,158.2M vs $3,934.5M; adj. operating income $707.4M",
-   "take": "Markel reported Q3 2026 total operating revenues of $4,158.2 million versus $3,934.5 million, up 5.7%. Operating income was $383.2 million versus $1,009.8 million, while adjusted operating income rose to $707.4 million from $621.0 million. The Markel Insurance segment's combined ratio was 92% versus 93%; the gap between operating and adjusted operating income is worth a read of the full release.",
-   "source_name": "Markel Group Q3 2026 results (PR Newswire)",
-   "source_url": "https://prnewswire.com/news-releases/markel-group-reports-2026-third-quarter-and-nine-months-results-302922728.html",
-   "ticker": "NYSE:MKL",
    "checked": "2026-10-28T20:52:58Z"
   }
  ]
