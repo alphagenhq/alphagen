@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T21:38:07Z",
+ "updated": "2026-11-14T01:48:44Z",
  "items": [
+  {
+   "id": "live-0001104659-26-127223-1.01",
+   "time": "2026-11-13T22:12:18Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Booking discloses a material agreement",
+   "take": "Booking reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:12 PM ET, Nov 13.",
+   "source_name": "SEC EDGAR, BKNG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm",
+   "ticker": "NASDAQ:BKNG"
+  },
+  {
+   "id": "live-0001193125-26-460879-1.01",
+   "time": "2026-11-13T21:50:13Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Apollo Global Management discloses a material agreement",
+   "take": "Apollo Global Management reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:50 PM ET, Nov 13.",
+   "source_name": "SEC EDGAR, APO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312526460879/0001193125-26-460879-index.htm",
+   "ticker": "NYSE:APO"
+  },
+  {
+   "id": "live-0001104659-26-127163-1.01",
+   "time": "2026-11-13T21:48:24Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Qualcomm discloses a material agreement",
+   "take": "Qualcomm reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:48 PM ET, Nov 13.",
+   "source_name": "SEC EDGAR, QCOM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm",
+   "ticker": "NASDAQ:QCOM"
+  },
   {
    "id": "live-0001193125-26-460610-1.01",
    "time": "2026-11-13T21:05:56Z",
