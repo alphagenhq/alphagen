@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-14T02:39:37Z",
+  "updated": "2026-11-14T03:39:14Z",
   "items": [
+    {
+      "id": "2026-11-14-eia-steo-coal-consumption-419",
+      "time": "2026-11-14T03:44:14Z",
+      "tag": "ENERGY",
+      "headline": "EIA outlook: coal use 419M short tons in 2026, down 7%; 398M in 2027",
+      "take": "EIA's November Short-Term Energy Outlook forecasts U.S. coal consumption of 419 million short tons in 2026, a 7% decrease from 2025, and a further 5% decline in 2027 to 398 million. It expects coal production of 518 million short tons in 2026 and 495 million in 2027, and coal's share of U.S. generation falling from 17% in 2025 to 15% by 2027. AlphaGen read: the forecast has coal use falling in both years as its generation share shrinks.",
+      "source_name": "EIA, Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php",
+      "checked": "2026-11-14T03:39:14Z"
+    },
+    {
+      "id": "2026-11-14-eia-steo-residential-power-price",
+      "time": "2026-11-14T03:53:14Z",
+      "tag": "ENERGY",
+      "headline": "EIA outlook: residential power price 18.2 cents/kWh in 2026, up from 17.2",
+      "take": "EIA's November Short-Term Energy Outlook table shows the U.S. residential electricity price at 16.5 cents per kilowatthour in 2024 and 17.2 in 2025, with forecasts of 18.2 for 2026 and 18.7 for 2027. That is a rise of 1.0 cent, or 5.8%, in 2026 and 0.5 cent, or 2.7%, in 2027. AlphaGen read: the forecast has household power prices rising in both years.",
+      "source_name": "EIA, Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php",
+      "checked": "2026-11-14T03:39:14Z"
+    },
+    {
+      "id": "2026-11-14-eia-steo-solar-wind-capacity",
+      "time": "2026-11-14T04:02:14Z",
+      "tag": "ENERGY",
+      "headline": "EIA outlook: U.S. solar capacity 183 GW in 2026, 223 GW in 2027",
+      "take": "EIA's November Short-Term Energy Outlook table lists U.S. solar capacity of 152 GW in 2025, 183 GW in 2026 and 223 GW in 2027, and wind capacity of 159 GW, 169 GW and 179 GW over the same years. EIA says wind's share of generation rises from 11% in 2025 to 12% by 2027, and nuclear averages 18%. AlphaGen read: the table has solar capacity growing faster than wind in both years.",
+      "source_name": "EIA, Short-Term Energy Outlook",
+      "source_url": "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php",
+      "checked": "2026-11-14T03:39:14Z"
+    },
+    {
+      "id": "2026-11-14-ppi-oct-diesel-jet-fuel",
+      "time": "2026-11-14T04:11:14Z",
+      "tag": "ENERGY",
+      "headline": "October PPI: diesel fuel prices fell 7.9% while jet fuel index moved higher",
+      "take": "BLS said in its October Producer Price Index release that within final demand goods, diesel fuel prices fell 7.9 percent, while the indexes for gas fuels and jet fuel moved higher. Final demand energy edged down 0.1 percent in the month. AlphaGen read: the diesel drop was a rare energy offset in a report where final demand goods rose 0.5 percent.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-14T03:39:14Z"
+    },
+    {
+      "id": "2026-11-14-fred-sofr-nov12-390",
+      "time": "2026-11-14T04:20:14Z",
+      "tag": "RATES",
+      "headline": "SOFR 3.90% on Nov. 12, down from 3.94% on Nov. 4",
+      "take": "FRED's Secured Overnight Financing Rate was 3.90% on Nov. 12, compared with 3.94% on Nov. 4, 3.92% on Nov. 5, 3.89% on Nov. 6, 3.88% on Nov. 9 and 3.89% on Nov. 10. That is a 4 bp decline from Nov. 4 and a 2 bp rise from the Nov. 9 low. AlphaGen read: overnight funding costs stayed in a 3.88%-3.94% band over the period, while the 10-year yield rose to 5.10%.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "checked": "2026-11-14T03:39:14Z"
+    },
     {
       "id": "2026-11-14-fred-rrp-nov13-325m",
       "time": "2026-11-14T02:44:37Z",
@@ -5148,58 +5198,6 @@
       "ticker": "NASDAQ:CHDN",
       "time": "2026-10-29T03:05:48Z",
       "checked": "2026-10-29T02:45:48Z"
-    },
-    {
-      "id": "2026-10-29-ecb-meeting",
-      "tag": "GLOBAL",
-      "headline": "ECB Governing Council meets Oct. 28-29; decision and press conference due Thursday",
-      "take": "The ECB's meeting calendar lists the Governing Council's monetary policy meeting on Oct. 28 and 29, 2026, with a press conference following on Day 2, and the next on Dec. 16-17. The ECB says monetary policy decisions are published in a press release at 14:15 CET on the day of the meeting. The Fed held and the Bank of Canada raised this week, so the ECB outcome rounds out the major central-bank decisions for the week.",
-      "source_name": "ECB: Meetings of the Governing Council",
-      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
-      "time": "2026-10-29T03:14:48Z",
-      "checked": "2026-10-29T02:45:48Z"
-    },
-    {
-      "id": "2026-10-29-boj-meeting",
-      "tag": "GLOBAL",
-      "headline": "Bank of Japan meets Oct. 29-30; policy statement due Friday, time not yet set",
-      "take": "The Bank of Japan's release schedule lists a Monetary Policy Meeting on Oct. 29 and 30, 2026, with the Statement on Monetary Policy and the October Outlook for Economic Activity and Prices both scheduled for Oct. 30, times undecided. The Summary of Opinions is scheduled for Nov. 10. The BoJ's most recent policy action was a Sept. 18 change to its guideline for money market operations, so Friday's statement is the first update since then.",
-      "source_name": "Bank of Japan: Release Schedule",
-      "source_url": "https://www.boj.or.jp/en/about/calendar/index.htm",
-      "time": "2026-10-29T03:23:48Z",
-      "checked": "2026-10-29T02:45:48Z"
-    },
-    {
-      "id": "2026-10-29-ust-7y-auction",
-      "tag": "DEBT",
-      "headline": "Treasury's 7-year note auction is set for Thursday, completing the week's coupon sales",
-      "take": "Treasury's tentative auction schedule lists a 7-year note auction on Thursday, Oct. 29, settling Monday, Nov. 2, after the 2-year note on Oct. 26 and the 5-year note on Oct. 27, which also settle Nov. 2; a 2-year floating rate note was set for Oct. 28. The schedule also lists 4-week and 8-week bill auctions on Oct. 29 settling Nov. 3. The schedule does not give offering amounts, which are set in the Treasury's announcement for each auction.",
-      "source_name": "U.S. Treasury: Tentative Auction Schedule",
-      "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
-      "time": "2026-10-29T03:32:48Z",
-      "checked": "2026-10-29T02:45:48Z"
-    },
-    {
-      "id": "2026-10-29-msft-q1fy27",
-      "time": "2026-10-29T01:59:02Z",
-      "tag": "EARNINGS",
-      "headline": "Microsoft Q1 FY27 revenue $92,279M vs $77,673M; GAAP diluted EPS $4.92 vs $3.72",
-      "take": "Microsoft reported revenue of $92,279 million for the quarter ended September 30, 2026 versus $77,673 million a year earlier, with operating income of $45,915 million versus $37,961 million. GAAP net income was $36,629 million versus $27,747 million and GAAP diluted EPS was $4.92 versus $3.72. Non-GAAP net income and EPS exclude the impact of OpenAI investments, so the GAAP and non-GAAP growth rates (32% and 18%) differ materially.",
-      "source_name": "Microsoft Q1 FY2027 earnings release (SEC EDGAR 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436122/msft-ex99_1.htm",
-      "ticker": "NASDAQ:MSFT",
-      "checked": "2026-10-29T01:51:02Z"
-    },
-    {
-      "id": "2026-10-29-msft-cloud-segments",
-      "time": "2026-10-29T02:08:02Z",
-      "tag": "EQUITIES",
-      "headline": "Microsoft Cloud revenue $63.9B, up 30%; Agents and Infra $76.8B, Devices and Consumer $15.5B",
-      "take": "Microsoft said Microsoft Cloud revenue was $63.9 billion, up 30% (31% in constant currency). Under its recast segments, Agents and Infra revenue was $76,795 million versus $61,672 million (up 25%), while Devices and Consumer was $15,484 million versus $16,001 million (down 3%). The release shows nearly all of the company's growth came from the cloud and infrastructure segment.",
-      "source_name": "Microsoft Q1 FY2027 earnings release (SEC EDGAR 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436122/msft-ex99_1.htm",
-      "ticker": "NASDAQ:MSFT",
-      "checked": "2026-10-29T01:51:02Z"
     }
   ]
 }
