@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-13T23:39:56Z",
+ "updated": "2026-11-14T00:39:12Z",
  "items": [
+  {
+   "id": "2026-11-13-qcom-5-tranche-notes",
+   "time": "2026-11-14T00:47:12Z",
+   "tag": "DEBT",
+   "headline": "Qualcomm sells $4.0B of senior notes in five tranches, due 2028-2036",
+   "take": "Qualcomm's 8-K says it executed an officers' certificate on Nov. 12 for $750M of 5.000% notes due 2028, $750M of 5.150% due 2029, $1.0B of 5.350% due 2031, $750M of 5.600% due 2033 and $750M of 5.800% due 2036, which sum to $4.0B (AlphaGen calculation). The notes are senior unsecured and pay interest semiannually starting May 20, 2027. AlphaGen read: coupons step up 80 basis points from the 2028 to the 2036 tranche.",
+   "source_name": "SEC EDGAR, QCOM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm",
+   "ticker": "NASDAQ:QCOM",
+   "checked": "2026-11-14T00:39:12Z"
+  },
+  {
+   "id": "2026-11-13-bkng-eur-notes-3550m",
+   "time": "2026-11-14T00:53:12Z",
+   "tag": "DEBT",
+   "headline": "Booking Holdings sells €3.55B of senior notes in four tranches, 2029-2038",
+   "take": "Booking Holdings' 8-K reports the sale of €1.25B of 3.950% notes due 2029, €800M of 4.375% due 2032, €750M of 4.750% due 2035 and €750M of 5.000% due 2038, totaling €3.55B (AlphaGen calculation). The notes are general senior unsecured obligations, with interest payable each Nov. 13 beginning in 2027. AlphaGen read: the coupon rises 105 basis points from the shortest to the longest tranche.",
+   "source_name": "SEC EDGAR, BKNG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm",
+   "ticker": "NASDAQ:BKNG",
+   "checked": "2026-11-14T00:39:12Z"
+  },
+  {
+   "id": "2026-11-13-apo-7550-junior-sub-notes",
+   "time": "2026-11-14T00:59:12Z",
+   "tag": "CREDIT",
+   "headline": "Apollo issues $600M of 7.550% junior subordinated notes due 2056",
+   "take": "Apollo Global Management's 8-K says it issued $600M of 7.550% Fixed-Rate Resettable Junior Subordinated Notes due 2056 on Nov. 13. The rate is fixed until Dec. 15, 2036, then resets to the five-year Treasury rate plus 2.672%, and net proceeds are intended for general corporate purposes, including the previously announced investment in Mubadala Capital Asset Management. AlphaGen read: the 7.550% coupon is the highest of the corporate offerings in today's filings.",
+   "source_name": "SEC EDGAR, APO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312526460879/0001193125-26-460879-index.htm",
+   "ticker": "NYSE:APO",
+   "checked": "2026-11-14T00:39:12Z"
+  },
+  {
+   "id": "2026-11-13-key-series-e-redemption",
+   "time": "2026-11-14T01:05:12Z",
+   "tag": "EQUITIES",
+   "headline": "KeyCorp to redeem all $500M of Series E preferred on Dec. 15",
+   "take": "KeyCorp's 8-K says it gave notice on Nov. 13 that it will redeem all 20,000,000 depositary shares of its Series E Fixed-to-Floating Rate Perpetual Non-Cumulative Preferred Stock on Dec. 15, 2026, an aggregate liquidation preference of $500M. The redemption price is $25.3828125 per depositary share, which is the $25.00 liquidation preference plus accumulated and unpaid dividends through the redemption date. The shares will be delisted from the NYSE upon redemption.",
+   "source_name": "SEC EDGAR, KEY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/91576/000162828026073875/0001628280-26-073875-index.htm",
+   "ticker": "NYSE:KEY",
+   "checked": "2026-11-14T00:39:12Z"
+  },
+  {
+   "id": "2026-11-13-agencies-third-party-risk-comment-extended",
+   "time": "2026-11-14T01:11:12Z",
+   "tag": "FED",
+   "headline": "Bank regulators extend third-party risk guidance comment period to Dec. 16",
+   "take": "The FDIC, Federal Reserve, NCUA and OCC said Nov. 13 they will extend to Dec. 16 the comment period on proposed guidance on managing risks tied to third-party relationships; comments were originally due Nov. 16. The Fed Board separately extended to Dec. 16 the comment period on a third-party risk management guide for traditional community banks. The agencies describe the guidance as principles-based and non-binding, and plan to rescind existing guidance once a final version is adopted.",
+   "source_name": "Federal Reserve Board, Joint Press Release",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "checked": "2026-11-14T00:39:12Z"
+  },
+  {
+   "id": "2026-11-13-eia-refinery-yields-distillate-jet",
+   "time": "2026-11-14T01:17:12Z",
+   "tag": "ENERGY",
+   "headline": "EIA: refiners cut gasoline yield below 45% in 2026 to favor diesel and jet fuel",
+   "take": "EIA's Nov. 5 analysis of Petroleum Supply Monthly data through August says U.S. refinery gasoline yields averaged less than 45% from January through August 2026 and were below the five-year low in every month. Distillate yields were above the five-year average in every month, and the fleetwide jet fuel yield has been at or above 12% since March 2026. EIA attributes the shift to distillate and jet margins that are significantly higher because of constrained global supplies.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
+   "checked": "2026-11-14T00:39:12Z"
+  },
+  {
+   "id": "2026-11-13-fred-fed-balance-sheet-nov11",
+   "time": "2026-11-14T01:23:12Z",
+   "tag": "FED",
+   "headline": "Fed balance sheet $6.759T on Nov. 11, up $10.7B in a week",
+   "take": "FRED's WALCL series shows Federal Reserve total assets of $6,758,867M on Nov. 11, versus $6,748,145M on Nov. 4, a rise of $10.7B (AlphaGen calculation). Prior weekly readings were $6,745,635M on Oct. 28 and $6,753,604M on Oct. 21. AlphaGen read: the balance sheet has stayed within a roughly $13B range across the six weeks shown.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (WALCL)",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-14T00:39:12Z"
+  },
   {
    "id": "2026-11-13-cpi-all-items-apr-oct-path",
    "time": "2026-11-13T23:41:56Z",
@@ -5135,82 +5209,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390740/0/en/tenable-announces-third-quarter-2026-financial-results.html",
    "ticker": "NASDAQ:TENB",
    "checked": "2026-10-29T00:49:47Z"
-  },
-  {
-   "id": "2026-10-28-googl-q3",
-   "time": "2026-10-28T23:52:30Z",
-   "tag": "EARNINGS",
-   "headline": "Alphabet Q3 revenue $127,577M vs $102,346M; diluted EPS $2.12 vs $2.87",
-   "take": "Alphabet reported Q3 2026 revenues of $127,577 million versus $102,346 million a year earlier, up 24.7%, and operating income of $40,576 million versus $31,228 million. Net income available to common stockholders was $26,170 million versus $34,979 million, and diluted EPS was $2.12 versus $2.87. Profit fell even as operating income rose, so the gap sits below the operating line.",
-   "source_name": "Alphabet Q3 2026 earnings release (Alphabet IR)",
-   "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
-   "ticker": "NASDAQ:GOOGL",
-   "checked": "2026-10-28T23:50:30Z"
-  },
-  {
-   "id": "2026-10-28-googl-cloud",
-   "time": "2026-10-29T00:01:30Z",
-   "tag": "EQUITIES",
-   "headline": "Alphabet: Google Cloud Q3 revenue $30,709M vs $15,157M; release cites 103% growth",
-   "take": "Alphabet's release says Google Cloud revenues increased 103% to $30.7 billion in Q3 2026; the segment table shows $30,709 million versus $15,157 million a year earlier. Alphabet also declared a quarterly cash dividend of $0.22 per share, payable December 14, 2026. Cloud now accounts for about 24% of Alphabet revenue, versus about 15% a year ago.",
-   "source_name": "Alphabet Q3 2026 earnings release (Alphabet IR)",
-   "source_url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
-   "ticker": "NASDAQ:GOOGL",
-   "checked": "2026-10-28T23:50:30Z"
-  },
-  {
-   "id": "2026-10-28-orly-q3",
-   "time": "2026-10-29T00:10:30Z",
-   "tag": "EARNINGS",
-   "headline": "O'Reilly Q3 sales $5.12B vs $4.71B; diluted EPS $0.97 vs $0.85; comps up 7.2%",
-   "take": "O'Reilly Automotive reported Q3 2026 sales of $5.12 billion versus $4.71 billion, an increase of $416 million or 9%, with comparable store sales up 7.2% on top of 5.6% a year earlier. Net income was $786 million versus $726 million and diluted EPS was $0.97 versus $0.85. Comparable-store growth outpacing the prior-year comparison points to demand strength rather than easy comps.",
-   "source_name": "O'Reilly Automotive Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390787/10672/en/o-reilly-automotive-inc-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:ORLY",
-   "checked": "2026-10-28T23:50:30Z"
-  },
-  {
-   "id": "2026-10-28-orly-guide",
-   "time": "2026-10-29T00:19:30Z",
-   "tag": "EQUITIES",
-   "headline": "O'Reilly raises 2026 comp-store sales guide to 5.5%-6.5%; EPS $3.25-$3.35",
-   "take": "O'Reilly raised its full-year 2026 comparable store sales guidance to a range of 5.5% to 6.5%. It guides diluted EPS of $3.25 to $3.35, total revenue of $19.0 billion to $19.3 billion, and 225 to 235 net new store openings. The raised comp range is the guidance item to watch against Q4 results.",
-   "source_name": "O'Reilly Automotive Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390787/10672/en/o-reilly-automotive-inc-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:ORLY",
-   "checked": "2026-10-28T23:50:30Z"
-  },
-  {
-   "id": "2026-10-28-mth-q3",
-   "time": "2026-10-29T00:28:30Z",
-   "tag": "HOUSING",
-   "headline": "Meritage Homes Q3 orders 3,083, down 15%; home closing gross margin 17.4% vs 19.1%",
-   "take": "Meritage Homes reported Q3 2026 orders of 3,083 homes, down 15% year over year, and home closing revenue of $1,162.4 million versus $1,399.3 million, a 17% decrease. Net earnings were $68 million ($1.04 per diluted share) versus $1.39 per share a year earlier, and backlog at Sept. 30 was 1,611 homes versus 1,699. A 170 bp gross margin decline alongside fewer orders shows pressure on both volume and pricing for this builder.",
-   "source_name": "Meritage Homes Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390783/6889/en/meritage-homes-reports-third-quarter-2026-results.html",
-   "ticker": "NYSE:MTH",
-   "checked": "2026-10-28T23:50:30Z"
-  },
-  {
-   "id": "2026-10-28-amrz-q3",
-   "time": "2026-10-29T00:37:30Z",
-   "tag": "EARNINGS",
-   "headline": "Amrize Q3 revenue $3,771M vs $3,690M; net income $558M; diluted EPS $1.02",
-   "take": "Amrize reported Q3 2026 revenues of $3,771 million versus $3,690 million, net income of $558 million versus $540 million, and diluted EPS of $1.02 versus $0.98. Adjusted EBITDA was $1,076 million versus $1,074 million. It updated 2026 guidance to revenues of $12.2 billion to $12.4 billion and adjusted EBITDA of $2.95 billion to $3.05 billion, so earnings growth outpaced a flat EBITDA line.",
-   "source_name": "Amrize Q3 2026 results (Amrize IR)",
-   "source_url": "https://investors.amrize.com/news/detail/141/amrize-reports-third-quarter-2026-results",
-   "ticker": "NYSE:AMRZ",
-   "checked": "2026-10-28T23:50:30Z"
-  },
-  {
-   "id": "2026-10-28-boc-hike",
-   "time": "2026-10-28T20:54:58Z",
-   "tag": "GLOBAL",
-   "headline": "Bank of Canada raises overnight rate 25 bp to 2.5%; says further hikes possible",
-   "take": "The Bank of Canada raised its overnight rate target by 25 basis points to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%. It said CPI has been around 3% since April and is expected near 3½% by year-end, and that there could be a need to raise the policy rate further, though Governing Council agreed to proceed carefully. The move follows the Bank's September hold at 2¼%, and the explicit mention of more tightening makes this an energy-inflation response rather than a one-off.",
-   "source_name": "Bank of Canada: Policy rate announcement, Oct. 28, 2026",
-   "source_url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
-   "checked": "2026-10-28T20:52:58Z"
   }
  ]
 }
