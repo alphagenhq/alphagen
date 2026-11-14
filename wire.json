@@ -1,6 +1,57 @@
 {
-  "updated": "2026-11-14T11:38:40Z",
+  "updated": "2026-11-14T12:38:20Z",
   "items": [
+    {
+      "id": "2026-11-14-jefferson-worker-ai-use-40-50",
+      "time": "2026-11-14T12:40:20Z",
+      "tag": "MACRO",
+      "headline": "Jefferson: 40-50% of working adults use AI at work, but few use it daily",
+      "take": "Fed Vice Chair Philip Jefferson said worker surveys find that 40 to 50 percent of working adults use generative AI in their jobs, while only a modest fraction of those users use it every day. He cited the Census Bureau's firm survey showing adoption near 10 percent in mining and in leisure and hospitality, versus roughly 25 percent of all U.S. firms. AlphaGen read: the Fed is describing broad but shallow use, which fits his view that AI's aggregate productivity contribution so far is limited.",
+      "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+      "checked": "2026-11-14T12:38:20Z"
+    },
+    {
+      "id": "2026-11-14-jefferson-ai-sales-per-employee-half-pct",
+      "time": "2026-11-14T12:48:20Z",
+      "tag": "FED",
+      "headline": "Jefferson: one manager survey puts AI gain at 1/2% in sales per employee over three years",
+      "take": "Fed Vice Chair Jefferson cited a recent study of senior managers that estimated AI has boosted sales per employee by just 1/2 percent over the past three years, while other evidence points to substantial efficiency gains on specific tasks. He said most adopting firms use AI in at most a few business functions and noted some firms report AI-generated code contains more errors, requiring more debugging. AlphaGen read: the Fed's own framing is a gap between task-level and firm-level gains.",
+      "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+      "checked": "2026-11-14T12:38:20Z"
+    },
+    {
+      "id": "2026-11-14-jefferson-1989-computers-32-pct",
+      "time": "2026-11-14T12:56:20Z",
+      "tag": "MACRO",
+      "headline": "Jefferson: 32% of workers used computers in 1989; IT lifted 1990s productivity ~3/4 pt",
+      "take": "Fed Vice Chair Jefferson noted that 32 percent of workers used computers at work in 1989, and that investment in information technology capital increased annual labor productivity growth by about 3/4 percentage point in the late 1990s. He said it may be reasonable to apply the same model to AI, a process that takes time to show up in measured productivity. AlphaGen read: the Fed is using the computer era as its template for judging how fast AI could matter.",
+      "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+      "checked": "2026-11-14T12:38:20Z"
+    },
+    {
+      "id": "2026-11-14-emr-eur-notes-completed-2032",
+      "time": "2026-11-14T13:04:20Z",
+      "tag": "DEBT",
+      "headline": "Emerson completes €750M offering of 4.000% senior notes due Nov. 13, 2032",
+      "take": "Emerson Electric said in an 8-K that it completed on Nov. 13 its previously announced public offering of €750 million aggregate principal amount of 4.000% notes due 2032. Interest is payable each Nov. 13 beginning Nov. 13, 2027, and the notes are senior unsecured obligations ranking equally with the company's other unsecured, unsubordinated debt. AlphaGen read: the filing confirms the closing of the euro deal priced Nov. 12.",
+      "source_name": "SEC EDGAR, EMR Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/32604/000114036126043782/0001140361-26-043782.txt",
+      "ticker": "NYSE:EMR",
+      "checked": "2026-11-14T12:38:20Z"
+    },
+    {
+      "id": "2026-11-14-fred-usdjpy-nov6-15823",
+      "time": "2026-11-14T13:12:20Z",
+      "tag": "FX",
+      "headline": "Yen per dollar 158.23 on Nov. 6, up 0.76 yen from 157.47 on Oct. 30",
+      "take": "The Federal Reserve's H.10 series on FRED shows 158.23 Japanese yen per U.S. dollar on Nov. 6, up 0.76 from 157.47 on Oct. 30. Readings in between ranged from 157.76 to 158.50. AlphaGen read: the latest dated observation sits within about a yen of the end-October level.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS)",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "checked": "2026-11-14T12:38:20Z"
+    },
     {
       "id": "2026-11-14-jefferson-productivity-2-2-vs-1-5",
       "time": "2026-11-14T11:40:40Z",
@@ -5138,61 +5189,6 @@
       "source_name": "Xcel Energy Q3 2026 earnings release (SEC 8-K Ex. 99.01)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000072903/000007290326000178/xcelearningsreleaseq32026.htm",
       "ticker": "NASDAQ:XEL",
-      "checked": "2026-10-29T10:44:51Z"
-    },
-    {
-      "id": "2026-10-29-xel-guide-capex",
-      "time": "2026-10-29T10:54:51Z",
-      "tag": "EQUITIES",
-      "headline": "Xcel narrows 2026 ongoing EPS guide to $4.10-$4.16; sets 2027 at $4.48-$4.62",
-      "take": "Xcel Energy narrowed 2026 ongoing EPS guidance to $4.10-$4.16 from $4.04-$4.16 and initiated 2027 ongoing EPS guidance of $4.48-$4.62. Its base capital plan for 2027 through 2031 totals $70,000 million, financed with $35,810 million of cash from operations, $26,190 million of new debt and $8,000 million of equity issuance. The financing mix shows that about 37% of the base plan ($26,190M of $70,000M) is slated to come from new debt.",
-      "source_name": "Xcel Energy Q3 2026 earnings release (SEC 8-K Ex. 99.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000072903/000007290326000178/xcelearningsreleaseq32026.htm",
-      "ticker": "NASDAQ:XEL",
-      "checked": "2026-10-29T10:44:51Z"
-    },
-    {
-      "id": "2026-10-29-shel-q3",
-      "time": "2026-10-29T11:01:51Z",
-      "tag": "ENERGY",
-      "headline": "Shell Q3 adjusted earnings $10.8B; CFFO $21.0B; $5B buyback for next 3 months",
-      "take": "Shell plc reported Q3 2026 adjusted earnings of $10.8 billion versus $9.8 billion in Q2 2026, income attributable to shareholders of $12.1 billion, and cash flow from operations of $21.0 billion versus $21.4 billion in Q2. It announced $5 billion of buybacks for the next three months. Net debt was $39.7 billion versus $41.8 billion in Q2 2026, so the balance sheet improved sequentially while shareholder distributions continued.",
-      "source_name": "Shell plc Q3 2026 press release",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3390956/0/en/shell-plc-publishes-third-quarter-2026-press-release.html",
-      "ticker": "NYSE:SHEL",
-      "checked": "2026-10-29T10:44:51Z"
-    },
-    {
-      "id": "2026-10-29-stm-q3",
-      "time": "2026-10-29T11:08:51Z",
-      "tag": "EARNINGS",
-      "headline": "STMicro Q3 revenue $3,757M vs $3,187M; GAAP EPS $0.31 vs $0.26; Q4 guide $4.15B",
-      "take": "STMicroelectronics reported Q3 2026 net revenues of $3,757 million versus $3,187 million, GAAP gross margin of 37.3% versus 33.2%, operating income of $367 million versus $180 million, and diluted EPS of $0.31 versus $0.26. At the midpoint, its outlook calls for Q4 net revenues of $4.15 billion and gross margin of about 39.0%. Margin expanded 410 basis points year over year, and the midpoint guide implies further sequential growth.",
-      "source_name": "STMicroelectronics Q3 2026 results (company release)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3390920/0/en/stmicroelectronics-reports-q3-2026-financial-results.html",
-      "ticker": "NYSE:STM",
-      "checked": "2026-10-29T10:44:51Z"
-    },
-    {
-      "id": "2026-10-29-qsr-q3",
-      "time": "2026-10-29T11:15:51Z",
-      "tag": "EARNINGS",
-      "headline": "Restaurant Brands Q3 revenue $2,525M vs $2,449M; diluted EPS $1.54 vs $0.96",
-      "take": "Restaurant Brands International reported Q3 2026 total revenues of $2,525 million versus $2,449 million, net income from continuing operations of $704 million versus $440 million, and diluted EPS from continuing operations of $1.54 versus $0.96. Consolidated comparable sales were 3.8% versus 4.0%, system-wide sales were $12,972 million versus $12,282 million, and net restaurant growth was 3.0%. Profit rose much faster than revenue, which grew about 3.1%.",
-      "source_name": "Restaurant Brands International Q3 2026 results (company release)",
-      "source_url": "https://www.prnewswire.com/news-releases/restaurant-brands-international-inc-reports-third-quarter-2026-results-302922527.html",
-      "ticker": "NYSE:QSR",
-      "checked": "2026-10-29T10:44:51Z"
-    },
-    {
-      "id": "2026-10-29-ares-q3",
-      "time": "2026-10-29T11:22:51Z",
-      "tag": "CREDIT",
-      "headline": "Ares Q3 AUM about $691B; fee related earnings $524.2M; dividend $1.35",
-      "take": "Ares Management reported GAAP net income attributable to Ares Management Corporation of $85.3 million ($0.21 per share) for Q3 2026, assets under management of approximately $691 billion at Sept. 30, fee related earnings of $524.2 million, and after-tax realized income of $449.6 million ($1.26 per Class A share). The common dividend is $1.35 per share, payable Dec. 31, 2026. GAAP earnings were far below realized income per share, which is the gap between its two reporting bases.",
-      "source_name": "Ares Management Q3 2026 results (company release)",
-      "source_url": "https://www.prnewswire.com/news-releases/ares-management-corporation-reports-third-quarter-2026-results-302922978.html",
-      "ticker": "NYSE:ARES",
       "checked": "2026-10-29T10:44:51Z"
     }
   ]
