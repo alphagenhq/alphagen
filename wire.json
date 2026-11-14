@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-14T16:39:00Z",
+ "updated": "2026-11-14T17:38:00Z",
  "items": [
+  {
+   "id": "2026-11-14-ppi-oct-services-transport-2-0",
+   "time": "2026-11-14T18:26:00Z",
+   "tag": "MACRO",
+   "headline": "October PPI services: transportation and warehousing +2.0%, trade margins -0.2%",
+   "take": "The final demand services index rose 0.2% in October, its fifth consecutive advance, and three-fourths of that rise traced to a 2.0% increase in transportation and warehousing services. Final demand services less trade, transportation and warehousing rose 0.2%, while trade services margins decreased 0.2%. BLS puts the 12-month change in total final demand at 6.5%. AlphaGen read: the services gain was concentrated in transport rather than broad-based.",
+   "source_name": "BLS, Producer Price Index News Release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-14T17:38:00Z"
+  },
+  {
+   "id": "2026-11-14-ppi-oct-goods-12m-10-2",
+   "time": "2026-11-14T18:16:00Z",
+   "tag": "MACRO",
+   "headline": "October PPI: final demand goods up 10.2% on the year, foods +1.3%, energy -0.1%",
+   "take": "BLS says the index for final demand goods rose 10.2% for the 12 months ended in October, the largest 12-month rise since 10.5% in October 2022. In October alone, goods rose 0.5%, foods rose 1.3% and energy edged down 0.1%. AlphaGen read: after a 2.5% jump in September, October's goods gain came from non-energy categories, with energy slightly lower.",
+   "source_name": "BLS, Producer Price Index News Release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-14T17:38:00Z"
+  },
+  {
+   "id": "2026-11-14-ppi-oct-intermediate-services-6-8",
+   "time": "2026-11-14T18:06:00Z",
+   "tag": "MACRO",
+   "headline": "October PPI: services for intermediate demand +0.6%, 6.8% over 12 months",
+   "take": "The PPI index for services for intermediate demand rose 0.6% in October after 1.0% in September, with margins for trade services up 1.6% accounting for over half of the advance. Over the 12 months ended in October the index rose 6.8%, the largest 12-month advance since 6.9% in November 2022, per BLS. AlphaGen read: business-to-business service costs are rising faster than the final-demand services index, which was up 0.2% in October.",
+   "source_name": "BLS, Producer Price Index News Release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-14T17:38:00Z"
+  },
+  {
+   "id": "2026-11-14-ppi-oct-processed-intermediate-14-6",
+   "time": "2026-11-14T17:56:00Z",
+   "tag": "MACRO",
+   "headline": "October PPI: processed intermediate goods +0.4%, 14.6% over 12 months",
+   "take": "Prices for processed goods for intermediate demand rose 0.4% in October, the third consecutive rise, and are up 14.6% over the 12 months ended in October, which BLS calls the largest 12-month rise since 17.2% in July 2022. Basic organic chemicals, up 3.9%, drove more than 40% of the monthly advance. AlphaGen read: input costs for producers are still running well ahead of last year even as the monthly pace slowed from 2.4% in September.",
+   "source_name": "BLS, Producer Price Index News Release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-14T17:38:00Z"
+  },
+  {
+   "id": "2026-11-14-ppi-oct-unprocessed-crude-down",
+   "time": "2026-11-14T17:46:00Z",
+   "tag": "COMMODITIES",
+   "headline": "October PPI: unprocessed intermediate goods -3.1%, crude petroleum -10.3%",
+   "take": "BLS reports prices for unprocessed goods for intermediate demand fell 3.1% in October, the largest decline since a 6.6% drop in June, led by a 7.7% fall in unprocessed energy materials and a 10.3% decrease in crude petroleum. The index is still up 16.9% over the 12 months ended in October. AlphaGen read: the pipeline's raw-materials layer cooled in October while the year-over-year level remains high.",
+   "source_name": "BLS, Producer Price Index News Release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-14T17:38:00Z"
+  },
   {
    "id": "2026-11-14-gdp-q3-quarterly-rate-0p8",
    "time": "2026-11-14T16:41:00Z",
@@ -5115,61 +5165,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391102/14858/en/hii-reports-third-quarter-2026-results.html",
    "ticker": "NYSE:HII",
    "checked": "2026-10-29T15:04:27Z"
-  },
-  {
-   "id": "2026-10-29-hii-guide",
-   "time": "2026-10-29T15:14:27Z",
-   "tag": "EQUITIES",
-   "headline": "HII raises 2026 shipbuilding revenue guide to $10.5B-$10.7B; FCF guide held",
-   "take": "HII raised its 2026 Shipbuilding revenue guidance to between $10.5 billion and $10.7 billion from $10.2-$10.4 billion, and reaffirmed free cash flow of $500-$600 million. Q3 contract awards were $32.4 billion. Larger awards typically feed future revenue, though timing depends on program execution.",
-   "source_name": "HII Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391102/14858/en/hii-reports-third-quarter-2026-results.html",
-   "ticker": "NYSE:HII",
-   "checked": "2026-10-29T15:04:27Z"
-  },
-  {
-   "id": "2026-10-29-ccc-q3",
-   "time": "2026-10-29T15:22:27Z",
-   "tag": "EARNINGS",
-   "headline": "CCC Q3 revenue $294.1M vs $267.1M; adjusted EBITDA $130.5M",
-   "take": "CCC Intelligent Solutions reported Q3 2026 revenue of $294.1 million versus $267.1 million (10.1% higher), net income of $30.2 million versus a $2.0 million net loss, and adjusted EBITDA of $130.5 million versus $110.1 million. The company said it is suspending guidance because of its proposed transaction with GTCR and Elliott.",
-   "source_name": "CCC Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391135/0/en/ccc-intelligent-solutions-holdings-inc-announces-third-quarter-2026-financial-results.html",
-   "ticker": "NYSE:CCCS",
-   "checked": "2026-10-29T15:04:27Z"
-  },
-  {
-   "id": "2026-10-29-lgnd-q3",
-   "time": "2026-10-29T15:30:27Z",
-   "tag": "EARNINGS",
-   "headline": "Ligand Q3 revenue $78.7M vs $115.5M; raises 2026 adjusted EPS guide to $9.50-$9.75",
-   "take": "Ligand reported Q3 2026 total revenues and income of $78.7 million versus $115.5 million, a GAAP net loss of $28.5 million ($1.43 per share), and adjusted diluted EPS of $2.67 versus $3.09. The prior-year figure included $53.1 million of Pelthos divestiture-related income, which explains much of the revenue gap. It raised 2026 adjusted EPS guidance to about $9.50-$9.75 from $9.00-$9.50.",
-   "source_name": "Ligand Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391098/0/en/ligand-reports-third-quarter-2026-financial-results.html",
-   "ticker": "NASDAQ:LGND",
-   "checked": "2026-10-29T15:04:27Z"
-  },
-  {
-   "id": "2026-10-29-pwp-q3",
-   "time": "2026-10-29T15:38:27Z",
-   "tag": "EARNINGS",
-   "headline": "Perella Weinberg Q3 revenue $251.4M vs $164.6M; GAAP EPS $0.21 vs $0.08",
-   "take": "Perella Weinberg reported Q3 2026 total revenues of $251.4 million versus $164.6 million (52.7% higher), with GAAP diluted EPS of $0.21 versus $0.08 and adjusted EPS of $0.39 versus $0.13. It declared a quarterly dividend of $0.07 per share, payable December 8, 2026.",
-   "source_name": "Perella Weinberg Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391078/0/en/perella-weinberg-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:PWP",
-   "checked": "2026-10-29T15:04:27Z"
-  },
-  {
-   "id": "2026-10-29-cat-q3",
-   "time": "2026-10-29T14:23:43Z",
-   "tag": "EARNINGS",
-   "headline": "Caterpillar Q3 sales and revenues $20.682B vs $17.638B; profit per share $7.13",
-   "take": "Caterpillar reported Q3 2026 total sales and revenues of $20.682 billion versus $17.638 billion, and operating profit of $4.214 billion versus $3.052 billion. Profit per share was $7.13 versus $4.88; adjusted profit per share was $7.20 versus $4.95. Operating margin rose to 20.4% from 17.3%.",
-   "source_name": "Caterpillar Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm",
-   "ticker": "NYSE:CAT",
-   "checked": "2026-10-29T14:18:43Z"
   }
  ]
 }
