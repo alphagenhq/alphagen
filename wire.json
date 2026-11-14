@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-14T17:38:00Z",
+ "updated": "2026-11-14T18:39:08Z",
  "items": [
+  {
+   "id": "2026-11-14-bea-sept-real-dpi-minus-0p3",
+   "time": "2026-11-14T18:41:08Z",
+   "tag": "MACRO",
+   "headline": "Real disposable income fell 0.3% in September after no change in August",
+   "take": "BEA reports current-dollar disposable personal income rose 0.2% in September, but real disposable personal income fell 0.3% after 0.0% in August. Real PCE was 0.0% after +0.5% in August, while the PCE price index rose 0.5%. With prices rising faster than income, September household purchasing power slipped.",
+   "source_name": "BEA",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+   "checked": "2026-11-14T18:39:08Z"
+  },
+  {
+   "id": "2026-11-14-bls-oct-aug-sep-payroll-revisions",
+   "time": "2026-11-14T18:53:08Z",
+   "tag": "MACRO",
+   "headline": "Payroll revisions: August raised to +186,000, September to +60,000",
+   "take": "BLS revised the August payroll gain up by 53,000, from +133,000 to +186,000, and September up by 31,000, from +29,000 to +60,000. Together the two months are 84,000 higher than previously reported. The upward revisions place the October gain of 165,000 in a firmer run than the first estimates showed.",
+   "source_name": "BLS",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-14T18:39:08Z"
+  },
+  {
+   "id": "2026-11-14-fred-10y-sofr-nov12-120",
+   "time": "2026-11-14T19:05:08Z",
+   "tag": "RATES",
+   "headline": "10-year Treasury yield 1.20 points above SOFR on Nov. 12, from 1.00 on Nov. 9",
+   "take": "FRED shows the 10-year yield at 5.10% and SOFR at 3.90% on Nov. 12, a 1.20-point gap. On Nov. 9 they were 4.88% and 3.88%, a 1.00-point gap. The 10-year yield rose 22 bp over the period while SOFR rose 2 bp, so the gap widened on longer-term yields.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-14T18:39:08Z"
+  },
+  {
+   "id": "2026-11-14-fred-2y-sofr-nov12-096",
+   "time": "2026-11-14T19:17:08Z",
+   "tag": "RATES",
+   "headline": "2-year Treasury yield 0.96 point above SOFR on Nov. 12, from 0.84 on Nov. 10",
+   "take": "FRED shows the 2-year yield at 4.86% and SOFR at 3.90% on Nov. 12, a 0.96-point gap, versus 4.73% and 3.89% on Nov. 10, a 0.84-point gap. The 2-year yield rose 13 bp between the two observations while SOFR rose 1 bp. The gap is the widest of the Nov. 9-12 readings.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS2",
+   "checked": "2026-11-14T18:39:08Z"
+  },
   {
    "id": "2026-11-14-ppi-oct-services-transport-2-0",
    "time": "2026-11-14T18:26:00Z",
@@ -5121,50 +5161,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/0000775158/000119312526437039/osk-ex99_1.htm",
    "ticker": "NYSE:OSK",
    "checked": "2026-10-29T16:04:14Z"
-  },
-  {
-   "id": "2026-10-29-ghc-q3",
-   "time": "2026-10-29T16:30:14Z",
-   "tag": "EARNINGS",
-   "headline": "Graham Holdings Q3 revenue $1,326.0M vs $1,278.9M; operating income $85.5M",
-   "take": "Graham Holdings reported Q3 2026 operating revenues of $1,326.0 million, up 4% from $1,278.9 million, and operating income of $85.5 million versus $67.1 million. Diluted EPS was $17.60 versus $27.91; adjusted diluted EPS was $18.77 versus $14.08. The gap between GAAP and adjusted per-share results is the item to read in the reconciliation.",
-   "source_name": "Graham Holdings Q3 2026 results (SEC 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000104889/000162828026068048/a2026q38-kexhibit991.htm",
-   "ticker": "NYSE:GHC",
-   "checked": "2026-10-29T16:04:14Z"
-  },
-  {
-   "id": "2026-10-29-ghc-buyback",
-   "time": "2026-10-29T16:38:14Z",
-   "tag": "EQUITIES",
-   "headline": "Graham Holdings repurchased 176,529 Class B shares for $198.6M in 9M 2026",
-   "take": "In the first nine months of 2026 Graham Holdings bought 176,529 Class B shares at a cost of $198.6 million, with authorization remaining for 285,953 shares as of Sept. 30, 2026. That is a sizable use of cash relative to quarterly operating income of $85.5 million.",
-   "source_name": "Graham Holdings Q3 2026 results (SEC 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000104889/000162828026068048/a2026q38-kexhibit991.htm",
-   "ticker": "NYSE:GHC",
-   "checked": "2026-10-29T16:04:14Z"
-  },
-  {
-   "id": "2026-10-29-tpg-q3",
-   "time": "2026-10-29T16:46:14Z",
-   "tag": "EQUITIES",
-   "headline": "TPG: $15B raised in Q3, ~$42B YTD; dry powder a record $86B; $0.55 dividend",
-   "take": "TPG said it raised $15 billion in the third quarter and nearly $42 billion year-to-date, and cited record dry powder of $86 billion. Its board declared a $0.55 per share Class A dividend, payable Nov. 23, 2026 to holders of record Nov. 9. Fundraising pace is the key driver of future fee streams for alternative asset managers.",
-   "source_name": "TPG Q3 2026 results (SEC 8-K press release)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001880661/000188066126000054/tpg3q26pressrelease.htm",
-   "ticker": "NASDAQ:TPG",
-   "checked": "2026-10-29T16:04:14Z"
-  },
-  {
-   "id": "2026-10-29-hii-q3",
-   "time": "2026-10-29T15:06:27Z",
-   "tag": "EARNINGS",
-   "headline": "HII Q3 revenue $3,537M vs $3,192M; diluted EPS $5.48 vs $3.68",
-   "take": "HII reported Q3 2026 revenues of $3,537 million versus $3,192 million a year earlier (10.8% higher), with net earnings of $217 million versus $145 million and diluted EPS of $5.48 versus $3.68. Free cash flow was $429 million versus $16 million. The jump in cash conversion is the notable change from a year ago.",
-   "source_name": "HII Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391102/14858/en/hii-reports-third-quarter-2026-results.html",
-   "ticker": "NYSE:HII",
-   "checked": "2026-10-29T15:04:27Z"
   }
  ]
 }
