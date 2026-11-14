@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-14T13:39:20Z",
+  "updated": "2026-11-14T14:39:57Z",
   "items": [
+    {
+      "id": "2026-11-14-fsr-hedge-fund-leverage-record",
+      "tag": "FED",
+      "headline": "Fed stability report: hedge fund leverage highest since data began in 2013",
+      "take": "The Fed's November 2026 Financial Stability Report says leverage at hedge funds reached the highest level since the data began in 2013, and that hedge fund gross asset value rose from $4 trillion in 2012 to $13 trillion in 2026. The report generally reflects information available as of Oct. 28, 2026. AlphaGen read: the Fed is flagging leverage outside the banking system as a vulnerability to watch.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "time": "2026-11-14T14:45:00Z",
+      "checked": "2026-11-14T14:39:57Z"
+    },
+    {
+      "id": "2026-11-14-fsr-bank-securities-330b-below-book",
+      "tag": "FED",
+      "headline": "Fed stability report: bank securities fair value about $330B below book in Q2",
+      "take": "The Fed's November 2026 Financial Stability Report says fair values of banks' available-for-sale and held-to-maturity portfolios were roughly $330 billion below their combined book value in the second quarter of 2026. It adds that yields rising through late October could add further downward pressure. AlphaGen read: higher Treasury yields flow directly into unrealized bank losses.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "time": "2026-11-14T14:53:00Z",
+      "checked": "2026-11-14T14:39:57Z"
+    },
+    {
+      "id": "2026-11-14-fed-week-ahead-minutes-nov18",
+      "tag": "FED",
+      "headline": "Week ahead: FOMC minutes of Oct. 27-28 meeting due Wed. Nov. 18 at 2:00 p.m.",
+      "take": "The Federal Reserve's November calendar lists the FOMC minutes of the Oct. 27-28 meeting for Wednesday, Nov. 18 at 2:00 p.m., and the G.17 industrial production release for Tuesday, Nov. 17 at 9:15 a.m. The H.4.1 reserve balances report is listed for Thursday, Nov. 19 at 4:30 p.m. AlphaGen read: the minutes are the week's main Fed event.",
+      "source_name": "Federal Reserve Board, November 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "time": "2026-11-14T15:01:00Z",
+      "checked": "2026-11-14T14:39:57Z"
+    },
+    {
+      "id": "2026-11-14-fsr-ai-data-center-debt-680b",
+      "tag": "DEBT",
+      "headline": "Fed stability report: AI computing debt issuance above $680B by October 2026",
+      "take": "The Fed's November 2026 Financial Stability Report says debt issuance tied to advanced computing rose to more than $680 billion by October 2026, with outstanding public debt of more than $1.1 trillion. It adds that leases not yet commenced exceed $1 trillion undiscounted and other obligations exceed $2 trillion. AlphaGen read: the Fed is tracking off-balance-sheet commitments alongside bonds.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "time": "2026-11-14T15:09:00Z",
+      "checked": "2026-11-14T14:39:57Z"
+    },
+    {
+      "id": "2026-11-14-fsr-private-credit-2-6t",
+      "tag": "CREDIT",
+      "headline": "Fed stability report: private credit assets above $2.6T in 2025, defaults at upper end",
+      "take": "The Fed's November 2026 Financial Stability Report says financial assets of private credit vehicles grew from approximately $350 billion in 2012 to more than $2.6 trillion in 2025, and that the loan default rate reached the upper end of its short historical distribution. It says elevated use of payment-in-kind interest indicates some degree of potential repayment difficulties. AlphaGen read: the sector's rapid growth has a short track record.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "time": "2026-11-14T15:17:00Z",
+      "checked": "2026-11-14T14:39:57Z"
+    },
+    {
+      "id": "2026-11-14-fed-week-ahead-speakers-nov16",
+      "tag": "FED",
+      "headline": "Week ahead: Warsh opens Fed productivity conference Mon. Nov. 16, 12:00 p.m.",
+      "take": "The Federal Reserve's November calendar lists Chairman Warsh's opening remarks at a Fed productivity and jobs conference on Monday, Nov. 16 at 12:00 p.m., Governor Waller on payments on Tuesday, Nov. 17 at 9:10 a.m., and Governor Barr on community development on Wednesday, Nov. 18 at 1:35 p.m. Governor Cook is listed Friday, Nov. 20 at 12:15 p.m. AlphaGen read: the productivity theme follows Vice Chair Jefferson's Nov. 13 speech on productivity.",
+      "source_name": "Federal Reserve Board, November 2026 calendar",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "time": "2026-11-14T15:25:00Z",
+      "checked": "2026-11-14T14:39:57Z"
+    },
     {
       "id": "2026-11-14-barr-income-top-10-one-half",
       "tag": "FED",
@@ -5119,72 +5179,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391091/8053/en/lkq-corporation-announces-results-for-third-quarter-2026.html",
       "ticker": "NASDAQ:LKQ",
       "checked": "2026-10-29T12:52:16Z"
-    },
-    {
-      "id": "2026-10-29-xpo-buyback",
-      "time": "2026-10-29T13:01:16Z",
-      "tag": "EQUITIES",
-      "headline": "XPO repurchased $150M of common stock in Q3; release gives no numeric guidance",
-      "take": "XPO said it repurchased $150 million of common stock in Q3 2026 and is accelerating free cash flow and capital return to shareholders. The release contains no formal financial guidance and no new buyback authorization amount. Capital return without a stated outlook leaves forward expectations to the company's call.",
-      "source_name": "XPO Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391063/0/en/xpo-reports-third-quarter-2026-results.html",
-      "ticker": "NYSE:XPO",
-      "checked": "2026-10-29T12:52:16Z"
-    },
-    {
-      "id": "2026-10-29-xpo-q3",
-      "time": "2026-10-29T12:52:16Z",
-      "tag": "EARNINGS",
-      "headline": "XPO Q3 revenue $2,373M vs $2,111M; GAAP diluted EPS $1.53 vs $0.68",
-      "take": "XPO reported Q3 2026 revenue of $2,373 million versus $2,111 million, net income of $181 million versus $82 million, and GAAP diluted EPS of $1.53 versus $0.68. Adjusted EBITDA was $433 million versus $342 million. Earnings grew much faster than revenue, which points to operating leverage rather than volume alone.",
-      "source_name": "XPO Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391063/0/en/xpo-reports-third-quarter-2026-results.html",
-      "ticker": "NYSE:XPO",
-      "checked": "2026-10-29T12:52:16Z"
-    },
-    {
-      "id": "2026-10-29-ftnt-q3",
-      "time": "2026-10-29T11:52:05Z",
-      "tag": "EARNINGS",
-      "headline": "Fortinet Q3 revenue $2,078.4M vs $1,724.9M; GAAP EPS $0.86 vs $0.62",
-      "take": "Fortinet reported Q3 2026 total revenue of $2,078.4 million versus $1,724.9 million, total billings of $2,336.3 million versus $1,807.7 million, and GAAP diluted EPS of $0.86 versus $0.62. GAAP operating margin was 33.9% versus 31.7%. Billings grew faster than revenue, which is the direction that tends to feed later reported revenue.",
-      "source_name": "Fortinet Q3 2026 earnings release (GlobeNewswire, Oct. 28)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390743/0/en/fortinet-reports-strong-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:FTNT",
-      "checked": "2026-10-29T11:52:05Z"
-    },
-    {
-      "id": "2026-10-29-wtw-q3",
-      "time": "2026-10-29T11:58:05Z",
-      "tag": "EARNINGS",
-      "headline": "WTW Q3 revenue $2,460M vs $2,288M; diluted EPS $3.24 vs $3.11",
-      "take": "WTW reported Q3 2026 revenue of $2.46 billion versus $2,288 million, with 4% organic growth, net income of $309 million versus $306 million, and diluted EPS of $3.24 versus $3.11. Adjusted diluted EPS was $3.63 versus $3.07. Adjusted EPS grew far faster than GAAP EPS, so the gap between the two measures is the figure to watch.",
-      "source_name": "WTW Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391029/0/en/wtw-reports-third-quarter-2026-earnings.html",
-      "ticker": "NASDAQ:WTW",
-      "checked": "2026-10-29T11:52:05Z"
-    },
-    {
-      "id": "2026-10-29-nclh-q3",
-      "time": "2026-10-29T12:04:05Z",
-      "tag": "EARNINGS",
-      "headline": "Norwegian Cruise Line Q3 revenue $2,946.8M; diluted EPS $1.07 vs $0.86",
-      "take": "Norwegian Cruise Line Holdings reported Q3 2026 total revenue of $2,946.8 million versus $2,938.1 million, net income of $491.5 million versus $419.3 million, and diluted EPS of $1.07 versus $0.86. Adjusted EBITDA was $937 million and adjusted EPS $1.12. Net income rose while revenue was nearly flat, and Net Yield decreased 6.5% as reported (6.7% in constant currency).",
-      "source_name": "Norwegian Cruise Line Holdings Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391046/24500/en/norwegian-cruise-line-holdings-reports-third-quarter-2026-financial-results.html",
-      "ticker": "NYSE:NCLH",
-      "checked": "2026-10-29T11:52:05Z"
-    },
-    {
-      "id": "2026-10-29-ftai-q3",
-      "time": "2026-10-29T12:10:05Z",
-      "tag": "EARNINGS",
-      "headline": "FTAI Aviation Q3 revenue $977.7M vs $667.1M; diluted EPS $1.43 vs $1.10",
-      "take": "FTAI Aviation reported Q3 2026 total revenues of $977.7 million versus $667.1 million, net income attributable to shareholders of $149.1 million versus $114.0 million, and diluted EPS of $1.43 versus $1.10. Adjusted EBITDA was $348.3 million versus $297.4 million. Revenue rose about 46.6% by our calculation, outpacing the 30.0% rise in diluted EPS.",
-      "source_name": "FTAI Aviation Q3 2026 earnings release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391031/35538/en/ftai-aviation-ltd-reports-strong-third-quarter-2026-performance-and-announces-500-0-million-accelerated-share-repurchase.html",
-      "ticker": "NASDAQ:FTAI",
-      "checked": "2026-10-29T11:52:05Z"
     }
   ]
 }
