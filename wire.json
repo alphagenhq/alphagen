@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-14T15:47:00Z",
+ "updated": "2026-11-14T16:39:00Z",
  "items": [
+  {
+   "id": "2026-11-14-gdp-q3-quarterly-rate-0p8",
+   "time": "2026-11-14T16:41:00Z",
+   "tag": "MACRO",
+   "headline": "Q3 GDP: 3.4% annual rate is 0.8% at a quarterly rate; current-dollar GDP up 5.6%",
+   "take": "BEA's advance estimate put third-quarter real GDP growth at a 3.4% annual rate, which it states is 0.8% at a quarterly rate, after 2.2% in the second quarter. Current-dollar GDP rose at a 5.6% annual rate, and the gross domestic purchases price index rose 3.0%. AlphaGen read: the annualized headline is about four times the quarter's actual growth, and nominal growth ran 2.2 points above real.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-14T16:39:00Z"
+  },
+  {
+   "id": "2026-11-14-trade-sept-census-vs-bop-imports",
+   "time": "2026-11-14T16:51:00Z",
+   "tag": "MACRO",
+   "headline": "Sept goods imports: +$8.0B on Census basis vs +$4.4B on balance-of-payments basis",
+   "take": "BEA reported September imports of goods rose $4.4 billion to $346.9 billion, while imports on a Census basis rose $8.0 billion. Net balance of payments adjustments decreased $3.6 billion, and nonmonetary gold imports fell $2.7 billion. AlphaGen read: the $3.6 billion gap between the two measures is the adjustment line, so the headline import rise understates the raw Census-basis increase.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-14T16:39:00Z"
+  },
+  {
+   "id": "2026-11-14-trade-sept-goods-surplus-partners",
+   "time": "2026-11-14T17:01:00Z",
+   "tag": "MACRO",
+   "headline": "Sept goods surpluses: Netherlands $7.7B, South and Central America $6.2B, UK $3.0B",
+   "take": "Census-basis figures in BEA's September trade release show nine goods surpluses, led by the Netherlands ($7.7 billion), South and Central America ($6.2 billion), the United Kingdom ($3.0 billion), Hong Kong ($2.5 billion) and Australia ($2.1 billion). Brazil ($1.1 billion), Singapore ($0.7 billion), Saudi Arabia ($0.5 billion) and Belgium ($0.2 billion) complete the list. AlphaGen read: the nine listed surpluses total $24.0 billion, small next to the $28.7 billion deficit with Mexico alone.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-14T16:39:00Z"
+  },
+  {
+   "id": "2026-11-14-pce-sept-spending-vs-after-tax-income",
+   "time": "2026-11-14T17:11:00Z",
+   "tag": "MACRO",
+   "headline": "Sept spending rose $113.1B vs after-tax income $52.7B; real PCE up $2.6B",
+   "take": "BEA reported September disposable personal income rose $52.7 billion (0.2%) while personal consumption expenditures rose $113.1 billion (0.5%); real PCE increased $2.6 billion, or less than 0.1%. Personal income rose $54.5 billion, led by compensation and government social benefits. AlphaGen read: spending grew $60.4 billion more than after-tax income, mostly price-driven, since the PCE price index rose 0.5% in the month.",
+   "source_name": "BEA, Personal Income and Outlays, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+   "checked": "2026-11-14T16:39:00Z"
+  },
   {
    "id": "2026-11-14-fred-10y-real-vs-breakeven-nov4-12",
    "time": "2026-11-14T15:52:00Z",
@@ -5129,50 +5169,6 @@
    "source_name": "Caterpillar Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm",
    "ticker": "NYSE:CAT",
-   "checked": "2026-10-29T14:18:43Z"
-  },
-  {
-   "id": "2026-10-29-cat-buyback",
-   "time": "2026-10-29T14:31:43Z",
-   "tag": "EQUITIES",
-   "headline": "Caterpillar spent $1.2B on share repurchases and $0.7B on dividends in Q3",
-   "take": "Caterpillar's release shows $1.2 billion of cash used to repurchase common stock in Q3 and $0.7 billion for dividends, with nine-month repurchase payments of $7.745 billion. The release gives no numeric outlook, though the company said it will discuss adjusted profit per share for Q4 and full-year 2026.",
-   "source_name": "Caterpillar Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000018230/000001823026000052/ex991toformcat3q2026earnin.htm",
-   "ticker": "NYSE:CAT",
-   "checked": "2026-10-29T14:18:43Z"
-  },
-  {
-   "id": "2026-10-29-cognizant-q3",
-   "time": "2026-10-29T14:39:43Z",
-   "tag": "EARNINGS",
-   "headline": "Cognizant Q3 revenue $5,664M vs $5,415M; GAAP diluted EPS $1.39 vs $0.56",
-   "take": "Cognizant reported Q3 2026 revenue of $5,664 million, up 4.6% from $5,415 million. GAAP diluted EPS was $1.39 versus $0.56, and the prior-year figure included a non-cash income tax charge that reduced EPS by $0.80. Adjusted diluted EPS was $1.49 versus $1.39.",
-   "source_name": "Cognizant Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001058290/000105829026000039/exhibit9919302026.htm",
-   "ticker": "NASDAQ:CTSH",
-   "checked": "2026-10-29T14:18:43Z"
-  },
-  {
-   "id": "2026-10-29-cognizant-guide",
-   "time": "2026-10-29T14:47:43Z",
-   "tag": "EQUITIES",
-   "headline": "Cognizant sets 2026 revenue guide at $22.05B-$22.14B; adjusted EPS $5.72-$5.79",
-   "take": "Cognizant guides full-year 2026 revenue to $22.05 billion-$22.14 billion, or growth of 4.5% to 4.9%, with adjusted operating margin of about 16.1% and adjusted diluted EPS of $5.72-$5.79. It repurchased 4.9 million shares for $258 million in Q3, with $2.08 billion left under its authorization.",
-   "source_name": "Cognizant Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001058290/000105829026000039/exhibit9919302026.htm",
-   "ticker": "NASDAQ:CTSH",
-   "checked": "2026-10-29T14:18:43Z"
-  },
-  {
-   "id": "2026-10-29-incyte-q3",
-   "time": "2026-10-29T14:55:43Z",
-   "tag": "EARNINGS",
-   "headline": "Incyte Q3 revenue $1,557.2M vs $1,366.0M; GAAP loss of $3.86 per share",
-   "take": "Incyte reported Q3 2026 total revenues of $1,557.2 million versus $1,366.0 million, with Jakafi/Jakafi XR net sales of $826.5 million versus $791.1 million. GAAP diluted EPS was $(3.86) versus $2.11; the company ties the swing to a one-time $1.23 billion IPR&D expense from its Vega Therapeutics acquisition.",
-   "source_name": "Incyte Q3 2026 earnings release (SEC Form 8-K Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000879169/000087916926000063/incy-q32026xexx991.htm",
-   "ticker": "NASDAQ:INCY",
    "checked": "2026-10-29T14:18:43Z"
   }
  ]
