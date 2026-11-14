@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-14T01:38:22Z",
+  "updated": "2026-11-14T02:39:37Z",
   "items": [
+    {
+      "id": "2026-11-14-fred-rrp-nov13-325m",
+      "time": "2026-11-14T02:44:37Z",
+      "tag": "RATES",
+      "headline": "Overnight reverse repo usage $0.325B on Nov. 13, highest of six readings since Nov. 5",
+      "take": "FRED's overnight reverse repurchase agreement series showed $0.325B on Nov. 13, up from $0.250B on Nov. 12 and above the $0.125B on Nov. 5, $0.150B on Nov. 6, $0.252B on Nov. 9 and $0.152B on Nov. 10. AlphaGen read: usage remains a tiny fraction of the Federal Reserve's $6.759T balance sheet reported for Nov. 11.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+      "checked": "2026-11-14T02:39:37Z"
+    },
+    {
+      "id": "2026-11-14-fred-curve-since-nov6-2y-leads",
+      "time": "2026-11-14T02:54:37Z",
+      "tag": "RATES",
+      "headline": "2-year yield up 35 bp since Nov. 6, 10-year up 24 bp, 30-year up 17 bp",
+      "take": "FRED shows the 2-year Treasury yield at 4.86% on Nov. 12 versus 4.51% on Nov. 6, the 10-year at 5.10% versus 4.86%, and the 30-year at 5.43% versus 5.26%. That is rises of 35, 24 and 17 basis points, so the 30-year minus 2-year gap narrowed to 0.57 point from 0.75 (AlphaGen calculation). AlphaGen read: shorter maturities led the climb across the Nov. 6-12 observations.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-14T02:39:37Z"
+    },
+    {
+      "id": "2026-11-14-schnabel-life-expectancy-health-spending",
+      "time": "2026-11-14T03:04:37Z",
+      "tag": "GLOBAL",
+      "headline": "Schnabel: child born in Spain or Italy can expect to live five years longer than in U.S.",
+      "take": "ECB Executive Board member Isabel Schnabel said in her Nov. 13 speech that a child born in Spain or Italy can expect to live five years longer than a child born in the United States, despite the United States spending a far larger share of GDP on healthcare than any other advanced economy. She cited the point alongside happiness and life satisfaction, which she said consistently rank among the highest in the world in Europe. AlphaGen read: she uses wellbeing measures to challenge the view of Europe as a continent in decline.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "checked": "2026-11-14T02:39:37Z"
+    },
+    {
+      "id": "2026-11-14-schnabel-austria-france-core",
+      "time": "2026-11-14T03:14:37Z",
+      "tag": "GLOBAL",
+      "headline": "Schnabel: Austria was in recession in 2023 and 2024; French deficit cuts stalled",
+      "take": "ECB's Isabel Schnabel said in her Nov. 13 speech that in France, efforts to reduce the fiscal deficit have stalled due to political resistance, and that Austria was in recession both in 2023 and 2024 and grew only moderately in 2025. She described headwinds as felt most acutely in the euro area's traditional core, albeit for different reasons. AlphaGen read: her contrast is between core economies and the southern countries she called among Europe's fastest growing.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "checked": "2026-11-14T02:39:37Z"
+    },
     {
       "id": "2026-11-13-fred-10y-nov12-510",
       "time": "2026-11-14T01:38:16Z",
@@ -5160,50 +5200,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526436122/msft-ex99_1.htm",
       "ticker": "NASDAQ:MSFT",
       "checked": "2026-10-29T01:51:02Z"
-    },
-    {
-      "id": "2026-10-29-mg-go-shop-expired",
-      "time": "2026-10-29T02:17:02Z",
-      "tag": "DEALS",
-      "headline": "MISTRAS go-shop ends with no rival bids; H.I.G. $20.35/share deal vote set Nov. 24",
-      "take": "MISTRAS said its 40-day go-shop expired on October 28 with no alternative acquisition proposals received; its adviser Baird contacted or was contacted by 122 third parties, and 40 signed confidentiality agreements. The all-cash H.I.G. Capital deal is at $20.35 per share, about $866 million enterprise value including debt, with a virtual special stockholder meeting on November 24, 2026. No-shop provisions now apply, subject to a fiduciary out, and closing is expected in late 2026 or early 2027.",
-      "source_name": "MISTRAS Group release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390799/12235/en/mistras-group-inc-announces-expiration-of-go-shop-period.html",
-      "ticker": "NYSE:MG",
-      "checked": "2026-10-29T01:51:02Z"
-    },
-    {
-      "id": "2026-10-29-myrg-q3",
-      "time": "2026-10-29T02:26:02Z",
-      "tag": "EARNINGS",
-      "headline": "MYR Group Q3 revenue $1,259.0M vs $950.4M; diluted EPS $3.82 vs $2.05; backlog $3.68B",
-      "take": "MYR Group reported Q3 2026 revenue of $1,259.0 million versus $950.4 million a year earlier, net income of $60.0 million versus $32.1 million, and diluted EPS of $3.82 versus $2.05. Backlog was $3.68 billion at September 30, 2026, up $1.02 billion (38.2%) from a year earlier, split $2.39 billion commercial and industrial and $1.29 billion transmission and distribution. The board also approved a repurchase program of up to $100.0 million effective November 4, 2026.",
-      "source_name": "MYR Group Q3 2026 release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390752/10748/en/myr-group-inc-announces-third-quarter-and-first-nine-months-2026-results-board-approves-new-100-million-share-repurchase-program.html",
-      "ticker": "NASDAQ:MYRG",
-      "checked": "2026-10-29T01:51:02Z"
-    },
-    {
-      "id": "2026-10-29-hdsn-q3",
-      "time": "2026-10-29T02:35:02Z",
-      "tag": "EARNINGS",
-      "headline": "Hudson Technologies Q3 revenue $59.4M vs $74.0M; diluted EPS $0.05 vs $0.27",
-      "take": "Hudson Technologies reported Q3 2026 revenue of $59.4 million versus $74.0 million a year earlier, net income of $2.0 million versus $12.4 million, and diluted EPS of $0.05 versus $0.27. The company expects full-year 2026 gross margin in the low-to-mid-twenty percent range, consistent with its prior target, and gave no revenue or EPS guidance.",
-      "source_name": "Hudson Technologies Q3 2026 release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390744/0/en/hudson-technologies-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:HDSN",
-      "checked": "2026-10-29T01:51:02Z"
-    },
-    {
-      "id": "2026-10-29-now-q3",
-      "time": "2026-10-29T00:49:47Z",
-      "tag": "EARNINGS",
-      "headline": "ServiceNow Q3 revenue $4,106M vs $3,407M; GAAP EPS $0.27 vs $0.48",
-      "take": "ServiceNow reported Q3 2026 total revenues of $4,106 million versus $3,407 million a year earlier, up 20.5%, with subscription revenues of $3,988 million versus $3,299 million. GAAP net income was $277 million versus $502 million, GAAP diluted EPS was $0.27 versus $0.48, and non-GAAP diluted EPS was $1.00 versus $0.95. Revenue grew faster than 20% while GAAP earnings fell, so the year-over-year decline in GAAP net income is the line to watch.",
-      "source_name": "ServiceNow Q3 2026 earnings 8-K (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001373715/000137371526000092/erq3fy26.htm",
-      "ticker": "NYSE:NOW",
-      "checked": "2026-10-29T00:49:47Z"
     }
   ]
 }
