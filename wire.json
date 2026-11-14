@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-14T21:39:24Z",
+  "updated": "2026-11-14T22:39:09Z",
   "items": [
+    {
+      "id": "2026-11-14-ppi-oct-sept-final-demand-revised",
+      "time": "2026-11-14T22:45:00Z",
+      "tag": "MACRO",
+      "headline": "October PPI release revises September final demand to +1.4%; energy to +10.0%",
+      "take": "BLS's October PPI release shows final demand up 1.4% in September, with goods +2.5%, final demand energy +10.0%, services +1.0% and trade-services margins +2.1%. The release footnote says June through September were revised for late reports and corrections. AlphaGen's earlier Wire items on the September report, which BLS published Oct. 15, showed final demand +1.3%, energy +10.8%, services +0.8% and trade margins +1.4%. AlphaGen read: the aggregate was revised up, with services and trade margins revised higher and energy lower.",
+      "source_name": "Bureau of Labor Statistics (PPI)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-14T22:39:09Z"
+    },
+    {
+      "id": "2026-11-14-ppi-oct-intermediate-sept-revised",
+      "time": "2026-11-14T22:55:00Z",
+      "tag": "MACRO",
+      "headline": "PPI revisions: September unprocessed intermediate goods now +6.3%, 12-month 19.0%",
+      "take": "In the October PPI release, BLS lists September unprocessed goods for intermediate demand at +6.3%, with unprocessed energy materials +15.6% and a 19.0% 12-month rise. AlphaGen's earlier Wire items on the original September report showed +8.4%, +22.2% and 21.5%. Processed goods for intermediate demand are now shown at +2.4% for September and 13.9% over 12 months, versus 2.5% and 14.1% before. AlphaGen read: the raw-materials surge in September was smaller after revision than first reported.",
+      "source_name": "Bureau of Labor Statistics (PPI)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-14T22:39:09Z"
+    },
+    {
+      "id": "2026-11-14-ppi-oct-yoy-path-65",
+      "time": "2026-11-14T23:05:00Z",
+      "tag": "MACRO",
+      "headline": "PPI final demand 12-month rate 6.5% in October, from 3.1% in December 2025",
+      "take": "BLS's Table A shows the unadjusted 12-month change in final demand at 3.1% in December 2025, 4.3% in March, 5.6% in June, 6.3% in September and 6.5% in October, the largest since 7.4% in November 2022. The index excluding foods, energy and trade services stood at 4.9% over 12 months in October, from 3.4% in December. AlphaGen read: the headline 12-month rate is 3.4 points above its December level and is running ahead of the core measure.",
+      "source_name": "Bureau of Labor Statistics (PPI)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-14T22:39:09Z"
+    },
+    {
+      "id": "2026-11-14-ppi-oct-2026-monthly-path-nine-of-ten",
+      "time": "2026-11-14T23:15:00Z",
+      "tag": "MACRO",
+      "headline": "PPI final demand rose in nine of ten months of 2026; June was the only decline at -0.1%",
+      "take": "BLS's Table A lists seasonally adjusted monthly changes in final demand of +0.6% in January, +0.5% February, +0.8% March, +1.1% April, +0.5% May, -0.1% June, +0.1% July, +0.4% August, +1.4% September and +0.3% October. Compounding those rounded monthly figures gives roughly 5.7% from December 2025 to October (AlphaGen calculation, approximate because BLS rounds to one decimal). AlphaGen read: producer prices rose in most months this year, with September the largest single gain.",
+      "source_name": "Bureau of Labor Statistics (PPI)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-14T22:39:09Z"
+    },
+    {
+      "id": "2026-11-14-ppi-oct-wholesaling-margins-detail",
+      "time": "2026-11-14T23:25:00Z",
+      "tag": "MACRO",
+      "headline": "PPI October: machinery, vehicle wholesaling margins fell 4.2%; airline services lower",
+      "take": "BLS says margins for machinery and vehicle wholesaling fell 4.2% in October, and prices for system software publishing and for airline passenger services also declined. Higher in the services index were fuels and lubricants retailing, health, beauty and optical goods retailing, food and alcohol wholesaling, hospital outpatient care and traveler accommodation services. AlphaGen read: final demand services rose 0.2% overall, with BLS attributing over 80% of the increase to a 3.9% rise in truck transportation of freight.",
+      "source_name": "Bureau of Labor Statistics (PPI)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-14T22:39:09Z"
+    },
     {
       "id": "2026-11-14-fred-10y-vs-fed-range-top-110",
       "time": "2026-11-14T22:21:24Z",
@@ -5098,61 +5148,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000114/earningspressreleaseq326.htm",
       "ticker": "NYSE:RDDT",
       "checked": "2026-10-29T22:39:57Z"
-    },
-    {
-      "id": "2026-10-29-rddt-guide",
-      "time": "2026-10-29T23:11:00Z",
-      "tag": "EQUITIES",
-      "headline": "Reddit guides Q4 revenue $1,000M-$1,030M, adj. EBITDA $480M-$510M",
-      "take": "Reddit gave fourth-quarter revenue guidance in the range of $1,000 million to $1,030 million and Adjusted EBITDA in the range of $480 million to $510 million. The release does not include full-year guidance. Q3 revenue was $895 million, so the range sits above the quarter just reported.",
-      "source_name": "Reddit Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000114/earningspressreleaseq326.htm",
-      "ticker": "NYSE:RDDT",
-      "checked": "2026-10-29T22:39:57Z"
-    },
-    {
-      "id": "2026-10-29-twlo-q3",
-      "time": "2026-10-29T23:19:00Z",
-      "tag": "EARNINGS",
-      "headline": "Twilio Q3 revenue $1.56B, up 20%; GAAP diluted EPS $1.00 vs $0.23",
-      "take": "Twilio reported revenue of $1.56 billion, up 20% reported and 16% organic year-over-year, for the quarter ended September 30, 2026. GAAP diluted net income per share was $1.00 versus $0.23 in Q3 2025. The gap between reported and organic growth shows part of the increase came from outside organic activity.",
-      "source_name": "Twilio Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001447669/000144766926000106/twloq326ex991.htm",
-      "ticker": "NYSE:TWLO",
-      "checked": "2026-10-29T22:39:57Z"
-    },
-    {
-      "id": "2026-10-29-twlo-guide",
-      "time": "2026-10-29T23:27:00Z",
-      "tag": "EQUITIES",
-      "headline": "Twilio raises 2026 outlook: reported growth 20%, organic 15%",
-      "take": "Twilio raised its full-year 2026 reported revenue growth outlook to 20% from 18% to 18.5%, and organic growth to 15% from 13% to 13.5%. It initiated fourth-quarter revenue of $1.595 billion to $1.605 billion. Both full-year figures moved up by roughly two points.",
-      "source_name": "Twilio Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001447669/000144766926000106/twloq326ex991.htm",
-      "ticker": "NYSE:TWLO",
-      "checked": "2026-10-29T22:39:57Z"
-    },
-    {
-      "id": "2026-10-29-lly-q3",
-      "time": "2026-10-29T20:55:54Z",
-      "tag": "EARNINGS",
-      "headline": "Lilly Q3 revenue $24.4B, up 39%; EPS $7.22 vs $6.21",
-      "take": "Lilly reported Q3 2026 worldwide revenue of $24.4 billion, an increase of 39% from Q3 2025, driven by a 53% increase in volume partially offset by a 15% decrease in realized prices. Reported EPS was $7.22 versus $6.21, and non-GAAP EPS was $7.48 versus $7.02; both periods included acquired IPR&D charges, $4.57 per share in Q3 2026 and $0.71 in Q3 2025. The volume-versus-price split shows the growth came from selling more product rather than from higher prices.",
-      "source_name": "Eli Lilly Q3 2026 earnings release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/lilly-reports-third-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-regulatory-progress-across-the-portfolio-302922907.html",
-      "ticker": "NYSE:LLY",
-      "checked": "2026-10-29T20:45:54Z"
-    },
-    {
-      "id": "2026-10-29-lly-guide",
-      "time": "2026-10-29T21:15:54Z",
-      "tag": "EQUITIES",
-      "headline": "Lilly lifts 2026 revenue guidance midpoint $5.5B to $91.0-$92.0B",
-      "take": "Lilly said it increased the midpoint of its 2026 full-year revenue guidance by $5.5 billion to a range of $91.0 billion to $92.0 billion. It gave an updated non-GAAP EPS range of $35.00 to $36.00. The release also lists Q3 non-GAAP net income of $6.7 billion, so the revenue guide and the EPS guide are being set on different bases and should be read separately.",
-      "source_name": "Eli Lilly Q3 2026 earnings release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/lilly-reports-third-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-regulatory-progress-across-the-portfolio-302922907.html",
-      "ticker": "NYSE:LLY",
-      "checked": "2026-10-29T20:45:54Z"
     }
   ]
 }
