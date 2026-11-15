@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-14T22:39:09Z",
+  "updated": "2026-11-15T00:44:26Z",
   "items": [
+    {
+      "id": "2026-11-15-cpi-oct-apparel-path",
+      "time": "2026-11-15T00:49:00Z",
+      "tag": "MACRO",
+      "headline": "CPI apparel +0.1% in October; June's -0.6% was the only decline Apr-Oct",
+      "take": "BLS's October CPI table shows the apparel index rose 0.1% in October after 0.3% in September. Over April through October the monthly changes were 0.6%, 0.3%, -0.6%, 0.1%, 0.0%, 0.3% and 0.1%, with June the only decline. AlphaGen read: clothing has been a small, uneven contributor to the monthly index.",
+      "source_name": "Bureau of Labor Statistics (CPI)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T00:44:26Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-medical-commodities-turn",
+      "time": "2026-11-15T01:03:00Z",
+      "tag": "MACRO",
+      "headline": "CPI medical care commodities +0.5% in October after six straight declines",
+      "take": "BLS's October CPI table shows medical care commodities rose 0.5% in October (not seasonally adjusted, per the table footnote), after declines of 0.4%, 0.7%, 0.2%, 0.6%, 0.2% and 0.7% from April through September. Medical care services rose 0.3% in both September and October. AlphaGen read: October is the first rise in the seven months shown for this category.",
+      "source_name": "Bureau of Labor Statistics (CPI)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T00:44:26Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-food-at-home-path",
+      "time": "2026-11-15T01:17:00Z",
+      "tag": "MACRO",
+      "headline": "CPI food at home +0.4% in October after -0.1%; two declines in seven months",
+      "take": "BLS's October CPI table shows the food at home index rose 0.4% in October after falling 0.1% in September. The monthly path from April was 0.7%, 0.1%, 0.2%, -0.1%, 0.0%, -0.1% and 0.4%, so July and September were the two declines. AlphaGen read: October's grocery gain is the largest since April's 0.7%.",
+      "source_name": "Bureau of Labor Statistics (CPI)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T00:44:26Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-food-away-path",
+      "time": "2026-11-15T01:31:00Z",
+      "tag": "MACRO",
+      "headline": "CPI food away from home +0.5% in October, largest rise of the seven months",
+      "take": "BLS's October CPI table shows food away from home rose 0.5% in October (not seasonally adjusted, per the table footnote), after 0.2% in September; April-September changes ranged from 0.2% to 0.3%. BLS reports full service meals rose 0.7% and limited service meals 0.4% in October. AlphaGen read: restaurant prices stepped up from a 0.2%-0.3% pace.",
+      "source_name": "Bureau of Labor Statistics (CPI)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T00:44:26Z"
+    },
     {
       "id": "2026-11-14-ppi-oct-sept-final-demand-revised",
       "time": "2026-11-14T22:45:00Z",
@@ -5104,50 +5144,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000021665/000002166526000047/q32026pressreleasetables.htm",
       "ticker": "NYSE:CL",
       "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-gd-q3",
-      "time": "2026-10-30T14:25:15Z",
-      "tag": "EARNINGS",
-      "headline": "General Dynamics Q3 operating earnings $1.5B; $4.49 per diluted share",
-      "take": "General Dynamics reported third-quarter 2026 operating earnings of $1.5 billion and $4.49 per diluted share, according to the company's release dated Oct. 30, 2026. Defense contractors' quarterly results are worth reading alongside backlog and cash flow disclosures in the full release.",
-      "source_name": "General Dynamics Q3 2026 earnings release",
-      "source_url": "https://www.prnewswire.com/news-releases/general-dynamics-reports-third-quarter-2026-financial-results-302924010.html",
-      "ticker": "NYSE:GD",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-29-intc-q3",
-      "time": "2026-10-29T22:47:00Z",
-      "tag": "EARNINGS",
-      "headline": "Intel Q3 revenue $16.5B, up 21%; GAAP EPS $0.60 vs $0.90",
-      "take": "Intel reported third-quarter 2026 revenue of $16.5 billion, up 21% year-over-year, and GAAP diluted EPS attributable to Intel of $0.60 versus $0.90 a year earlier. Data Center and AI revenue was $7.3 billion, up 78%. Revenue growth alongside lower GAAP EPS means the year-over-year comparison depends on which earnings basis is used.",
-      "source_name": "Intel Q3 2026 earnings release",
-      "source_url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results",
-      "ticker": "NASDAQ:INTC",
-      "checked": "2026-10-29T22:39:57Z"
-    },
-    {
-      "id": "2026-10-29-intc-guide",
-      "time": "2026-10-29T22:55:00Z",
-      "tag": "EQUITIES",
-      "headline": "Intel forecasts Q4 2026 revenue of $15.0B to $16.0B",
-      "take": "Intel said it is forecasting fourth-quarter 2026 revenue of $15.0 billion to $16.0 billion. Third-quarter revenue was $16.5 billion, so the range sits below the quarter just reported. The release gives a quarterly range rather than a full-year revenue outlook.",
-      "source_name": "Intel Q3 2026 earnings release",
-      "source_url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results",
-      "ticker": "NASDAQ:INTC",
-      "checked": "2026-10-29T22:39:57Z"
-    },
-    {
-      "id": "2026-10-29-rddt-q3",
-      "time": "2026-10-29T23:03:00Z",
-      "tag": "EARNINGS",
-      "headline": "Reddit Q3 revenue $895M, up 53%; diluted EPS $1.40 vs $0.80",
-      "take": "Reddit said total revenue increased 53% year-over-year to $895 million in the quarter ended September 30, 2026, with ad revenue up 54% to $847 million. Diluted EPS was $1.40 versus $0.80. Ad revenue made up the large majority of the total, so the quarter tracks advertising demand.",
-      "source_name": "Reddit Q3 2026 earnings release (SEC 8-K Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000114/earningspressreleaseq326.htm",
-      "ticker": "NYSE:RDDT",
-      "checked": "2026-10-29T22:39:57Z"
     }
   ]
 }
