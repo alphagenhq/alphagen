@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-15T22:39:43Z",
+  "updated": "2026-11-15T23:40:34Z",
   "items": [
+    {
+      "id": "2026-11-15-fsr-term-premium-above-median",
+      "time": "2026-11-15T23:41:34Z",
+      "tag": "RATES",
+      "headline": "Fed stability report: term premiums above median since late 1990s",
+      "take": "The Fed's November 2026 Financial Stability Report says Treasury yields rose markedly and term premiums climbed to a level above the median since the late 1990s. It also says the forward equity price-to-earnings ratio remained well above its historical median and corporate bond and leveraged loan spreads stayed at the low end of their historical range. The report reflects data as of Oct. 28, 2026. AlphaGen read: the Fed is describing yields moving up while credit spreads stayed tight, a pairing worth tracking against the Nov. 12 yield data.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "checked": "2026-11-15T23:40:34Z"
+    },
+    {
+      "id": "2026-11-15-fsr-household-debt-below-median",
+      "time": "2026-11-15T23:50:34Z",
+      "tag": "MACRO",
+      "headline": "Fed stability report: household debt-to-GDP below median, auto delinquencies high",
+      "take": "The Fed's November 2026 Financial Stability Report says the household debt-to-GDP ratio decreased further and stood below the median of its historical distribution, while auto delinquencies remained well above the median. It adds that overall mortgage delinquency rates stayed low on strong home equity cushions, and that delinquencies of Federal Housing Administration loans were above pre-pandemic levels. AlphaGen read: the Fed's picture is of solid aggregate household balance sheets with stress concentrated in auto and FHA loans.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "checked": "2026-11-15T23:40:34Z"
+    },
+    {
+      "id": "2026-11-15-fsr-business-debt-risky-firms",
+      "time": "2026-11-15T23:59:34Z",
+      "tag": "CREDIT",
+      "headline": "Fed stability report: business debt in upper quartile of range",
+      "take": "The Fed's November 2026 Financial Stability Report says total business debt to GDP declined slightly but remained in the upper quartile of its historical range, and that the credit quality of investment-grade corporations was strong while some riskier firms faced challenges in servicing their debt. It adds that robust debt issuance by large technology companies may drive aggregate business debt higher over time. AlphaGen read: the report separates healthy large-company credit from a weaker tail.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "checked": "2026-11-15T23:40:34Z"
+    },
+    {
+      "id": "2026-11-15-fsr-funding-risks-moderate",
+      "time": "2026-11-16T00:08:34Z",
+      "tag": "FED",
+      "headline": "Fed stability report: funding risks moderate, uninsured deposits below 2022 peaks",
+      "take": "The Fed's November 2026 Financial Stability Report says funding risks have remained moderate: most domestic banks maintained high levels of liquid assets and their reliance on uninsured deposits was well below 2022 peaks. It says redemption requests at certain business development companies trended lower, though funds maintained redemption limits and net flows remained negative. AlphaGen read: bank funding looks steadier than in 2022 in the Fed's account, with non-bank vehicles the area it flags for continued redemption limits.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "checked": "2026-11-15T23:40:34Z"
+    },
+    {
+      "id": "2026-11-15-fsr-market-contacts-top-risks",
+      "time": "2026-11-16T00:17:34Z",
+      "tag": "FED",
+      "headline": "Fed stability report: contacts cite AI, risk asset correction, long-term rates",
+      "take": "The Fed's November 2026 Financial Stability Report says contacts surveyed in September and October most frequently cited risks from artificial intelligence, risk asset correction, higher long-term rates, cyberattacks, and fiscal debt sustainability. The report also lists private credit among the risks. AlphaGen read: higher long-term rates sits among the top-cited risks alongside AI and a risk asset correction.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "checked": "2026-11-15T23:40:34Z"
+    },
+    {
+      "id": "2026-11-15-fsr-asset-sizes-public-equities-93-6t",
+      "time": "2026-11-16T00:26:34Z",
+      "tag": "EQUITIES",
+      "headline": "Fed stability report: public equities $93.6T in Q2 2026, up 25.3% in a year",
+      "take": "The Fed's November 2026 Financial Stability Report, Table 1.1, lists public equities at $93,608 billion in 2026:Q2, growth of 25.3% over 2025:Q2 to 2026:Q2, versus Treasury securities at $30,878 billion (8.3%), residential real estate at $61,750 billion (2.3%) and commercial real estate at $22,848 billion (9.7%). It lists private credit at $1,504 billion (13.8%). AlphaGen read: public equities grew faster than every other asset class in the table, which is the base for the report's valuation concerns.",
+      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
+      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "checked": "2026-11-15T23:40:34Z"
+    },
     {
       "id": "2026-11-15-fred-brent-vs-year-ago",
       "time": "2026-11-15T22:41:38Z",
@@ -5032,70 +5092,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001137774/000113777426000219/exhibit991-3q26earningspre.htm",
       "ticker": "NYSE:PRU",
       "checked": "2026-11-04T13:49:07Z"
-    },
-    {
-      "id": "2026-11-04-mrvl-lite-merger",
-      "time": "2026-11-04T14:27:07Z",
-      "tag": "DEALS",
-      "headline": "Marvell agrees to acquire Lumentum in all-stock deal at 4.500 shares per share",
-      "take": "Marvell Technology entered into an Agreement and Plan of Merger with Lumentum Holdings on Nov. 1, under which each Lumentum common share will be converted into the right to receive 4.500 shares of Marvell common stock. Closing is pending, subject to Lumentum and Marvell stockholder approvals, HSR expiration and an effective Form S-4. The outside date in the agreement is Nov. 1, 2027, so the regulatory and shareholder path will run well past this year.",
-      "source_name": "Marvell Technology 8-K (Item 1.01), Nov. 1, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001835632/000119312526442717/d352474d8k.htm",
-      "ticker": "NASDAQ:MRVL",
-      "checked": "2026-11-04T13:49:07Z"
-    },
-    {
-      "id": "2026-11-03-jolts-sep",
-      "time": "2026-11-03T18:47:49Z",
-      "tag": "MACRO",
-      "headline": "JOLTS: September job openings little changed at 7.5M; hires 5.4M",
-      "take": "BLS reported job openings little changed at 7.5 million (rate 4.5%) in September, with hires little changed at 5.4 million (3.4%) and total separations at 5.3 million (3.3%, unchanged). August openings were revised up by 111,000 to 7.2 million. Openings and hires moving little suggests the labor market data in this report showed no sharp shift in the month.",
-      "source_name": "BLS Job Openings and Labor Turnover Summary, September 2026",
-      "source_url": "https://www.bls.gov/news.release/jolts.nr0.htm",
-      "checked": "2026-11-03T18:45:49Z"
-    },
-    {
-      "id": "2026-11-03-jolts-quits",
-      "time": "2026-11-03T18:59:49Z",
-      "tag": "MACRO",
-      "headline": "JOLTS: quits rise to 3.4M in September; layoffs little changed at 1.6M",
-      "take": "BLS said quits increased to 3.4 million in September (rate 2.1%), up 375,000 from a year earlier, while layoffs and discharges were little changed at 1.6 million (1.0%). August quits were revised down by 22,000 to 3.0 million and August layoffs revised up by 127,000 to 1.8 million. A higher quits count alongside steady layoffs is the pairing watchers of labor-market turnover track.",
-      "source_name": "BLS Job Openings and Labor Turnover Summary, September 2026",
-      "source_url": "https://www.bls.gov/news.release/jolts.nr0.htm",
-      "checked": "2026-11-03T18:45:49Z"
-    },
-    {
-      "id": "2026-11-03-knf-q3",
-      "time": "2026-11-03T19:11:49Z",
-      "tag": "EARNINGS",
-      "headline": "Knife River Q3 revenue $1,275.6M, up 6%; updates 2026 guidance",
-      "take": "Knife River reported Q3 2026 revenue of $1,275.6 million versus $1,203.7 million a year earlier, net income of $137.9 million versus $143.2 million, and diluted EPS of $2.43 versus $2.52. Adjusted EBITDA was $271.7 million versus $272.8 million. The company updated full-year 2026 guidance to revenue of $3,375-$3,425 million and adjusted EBITDA of $475-$505 million, citing near-term headwinds.",
-      "source_name": "Knife River Q3 2026 earnings release (SEC 8-K Exhibit 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001955520/000162828026069132/a2026q3ex99.htm",
-      "ticker": "NYSE:KNF",
-      "checked": "2026-11-03T18:45:49Z"
-    },
-    {
-      "id": "2026-11-03-ball-q3",
-      "time": "2026-11-03T19:23:49Z",
-      "tag": "EARNINGS",
-      "headline": "Ball Q3 net sales $4.19B vs $3.38B; comparable EPS $1.10 vs $1.03",
-      "take": "Ball reported Q3 2026 net sales of $4,188 million versus $3,379 million, a net loss attributable to Ball of $94 million (diluted loss per share of $0.36) versus earnings of $321 million ($1.18). Comparable diluted EPS was $1.10 versus $1.03. For 2026 it expects comparable diluted EPS growth of 10-plus percent and free cash flow in the range of $900 million.",
-      "source_name": "Ball Corporation Q3 2026 results release",
-      "source_url": "https://investors.ball.com/news-presentations/press-releases/detail/734/ball-reports-strong-third-quarter-2026-results",
-      "ticker": "NYSE:BALL",
-      "checked": "2026-11-03T18:45:49Z"
-    },
-    {
-      "id": "2026-11-03-xmtr-q3",
-      "time": "2026-11-03T16:50:34Z",
-      "tag": "EARNINGS",
-      "headline": "Xometry Q3 revenue $252M, up 40%; raises full-year revenue growth outlook",
-      "take": "Xometry reported Q3 2026 revenue of $252.4 million versus $180.7 million a year earlier, with diluted EPS of $0.03 versus a loss of $0.23. It now expects 2026 revenue growth of at least 37%, up from a prior 33-34%, and Q4 revenue of $254-$256 million. The raised outlook comes with a return to GAAP profit for the quarter.",
-      "source_name": "Xometry Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394085/0/en/xometry-reports-record-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:XMTR",
-      "checked": "2026-11-03T16:45:34Z"
     }
   ]
 }
