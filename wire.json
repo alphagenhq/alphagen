@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-15T20:39:17Z",
+ "updated": "2026-11-15T21:38:57Z",
  "items": [
+  {
+   "id": "2026-11-15-fred-10y-2y-30y-vs-year-ago",
+   "time": "2026-11-15T21:41:00Z",
+   "tag": "RATES",
+   "headline": "10-year yield 5.10% on Nov. 12, up 1.02 points from 4.08% a year earlier",
+   "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.10% on Nov. 12, 2026, versus 4.08% on Nov. 12, 2025. The 2-year yield was 4.86% versus 3.56% (up 1.30 points) and the 30-year 5.43% versus 4.67% (up 0.76). AlphaGen read: the 2-year rose more than the 10-year, so the 10-year minus 2-year gap narrowed from 0.52 to 0.24 point.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS10, DGS2, DGS30)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-15T21:38:57Z"
+  },
+  {
+   "id": "2026-11-15-fred-mortgage-711-vs-624-year-ago",
+   "time": "2026-11-15T21:52:00Z",
+   "tag": "HOUSING",
+   "headline": "30-year mortgage rate 7.11% on Nov. 12, up 0.87 point from 6.24% a year earlier",
+   "take": "Freddie Mac's 30-year fixed mortgage rate, as reported by FRED, was 7.11% for the week of Nov. 12, 2026, compared with 6.24% for Nov. 13, 2025. That is a gap of 0.87 percentage point, even after four weekly declines from 7.40% on Oct. 15. AlphaGen read: the recent drop has recovered only a small part of the year-over-year rise.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (MORTGAGE30US, Freddie Mac)",
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "checked": "2026-11-15T21:38:57Z"
+  },
+  {
+   "id": "2026-11-15-fred-wti-henry-hub-vs-year-ago",
+   "time": "2026-11-15T22:03:00Z",
+   "tag": "COMMODITIES",
+   "headline": "WTI spot $89.62 on Nov. 11 vs $60.94 a year earlier; Henry Hub $3.00 vs $3.80",
+   "take": "FRED, using EIA data, shows WTI crude spot at $89.62 per barrel on Nov. 11, 2026, versus $60.94 on Nov. 10, 2025, a difference of $28.68. Henry Hub natural gas spot was $3.00 per million Btu versus $3.80 on Nov. 10, 2025, a difference of $0.80 lower. AlphaGen read: oil and gas have moved in opposite directions over the year.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO, DHHNGSP; EIA)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+   "checked": "2026-11-15T21:38:57Z"
+  },
+  {
+   "id": "2026-11-15-fred-real-10y-hy-spread-vs-year-ago",
+   "time": "2026-11-15T22:14:00Z",
+   "tag": "CREDIT",
+   "headline": "10-year real yield 2.86% on Nov. 12, up 1.05 from 1.81% a year ago; HY spread 3.20",
+   "take": "FRED shows the 10-year TIPS real yield at 2.86% on Nov. 12, 2026, versus 1.81% on Nov. 12, 2025 (up 1.05 points). The ICE BofA US High Yield option-adjusted spread was 3.20 percentage points versus 3.02 a year earlier, up 0.18. AlphaGen read: the real yield rose by far more than the high-yield spread over the year.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, BAMLH0A0HYM2)",
+   "source_url": "https://fred.stlouisfed.org/series/DFII10",
+   "checked": "2026-11-15T21:38:57Z"
+  },
+  {
+   "id": "2026-11-15-bea-q3-current-dollar-gdp-5p6-vs-real-3p4",
+   "time": "2026-11-15T22:25:00Z",
+   "tag": "MACRO",
+   "headline": "Current-dollar GDP rose 5.6% annualized in Q3 vs 3.4% real, a 2.2-point gap",
+   "take": "BEA's advance estimate shows real GDP up at a 3.4% annual rate in the third quarter of 2026 and current-dollar GDP up 5.6%, a difference of 2.2 percentage points. The gross domestic purchases price index rose 3.0%, and real final sales to private domestic purchasers rose 4.9% versus 4.6% in the second quarter. AlphaGen read: the nominal-real gap reflects price growth; BEA's second estimate is due Nov. 25.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-15T21:38:57Z"
+  },
   {
    "id": "2026-11-15-trade-sept-real-goods-deficit-119-5",
    "time": "2026-11-15T20:44:00Z",
@@ -5050,61 +5100,6 @@
    "source_name": "Luckin Coffee Q3 2026 results release (GlobeNewswire)",
    "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394076/0/en/luckin-coffee-announces-third-quarter-2026-financial-results.html",
    "checked": "2026-11-03T15:44:13Z"
-  },
-  {
-   "id": "2026-11-03-ipco-q3",
-   "time": "2026-11-03T16:19:13Z",
-   "tag": "ENERGY",
-   "headline": "IPC Q3 revenue $212M; net result $60M includes $45M gain on Canada asset sale",
-   "take": "International Petroleum Corporation reported Q3 2026 revenue of USD 211.955 million versus USD 172.297 million a year earlier and a net result of USD 59.901 million versus USD 3.802 million, including a gain on the sale of assets in Canada of MUSD 45. It raised 2026 operating cash flow guidance to MUSD 275-350 from MUSD 230-330, assuming Brent of USD 80 to 110 per barrel for the rest of 2026, and kept production guidance at 44,000 to 47,000 boepd. The guidance revision rests on a higher oil price assumption, so it moves with the commodity.",
-   "source_name": "IPC Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3393905/0/en/international-petroleum-corporation-announces-third-quarter-2026-financial-and-operational-results.html",
-   "ticker": "TSX:IPCO",
-   "checked": "2026-11-03T15:44:13Z"
-  },
-  {
-   "id": "2026-11-03-ipgp-q3",
-   "time": "2026-11-03T14:49:54Z",
-   "tag": "EARNINGS",
-   "headline": "IPG Photonics Q3 revenue $287.5M, up 15%; GAAP EPS $0.47 vs $0.18",
-   "take": "IPG Photonics reported Q3 2026 revenue of $287.5 million versus $250.8 million a year earlier, GAAP diluted EPS of $0.47 versus $0.18, and adjusted EPS of $0.61 versus $0.35. It guided Q4 revenue to $265 million to $295 million and adjusted EPS to $0.30 to $0.60, assuming no contribution from the Lumibird Medical acquisition. A fourth straight quarter of double-digit growth is the context for a Q4 range that brackets the Q3 revenue level.",
-   "source_name": "IPG Photonics Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394161/0/en/ipg-photonics-announces-third-quarter-2026-financial-results.html",
-   "ticker": "NASDAQ:IPGP",
-   "checked": "2026-11-03T14:44:54Z"
-  },
-  {
-   "id": "2026-11-03-adt-q3-thrive",
-   "time": "2026-11-03T14:58:54Z",
-   "tag": "EARNINGS",
-   "headline": "ADT Q3 revenue $1,349M, up 4%; guidance withdrawn amid Thrive deal",
-   "take": "ADT reported Q3 2026 revenue of $1,349 million versus $1,298 million, income from continuing operations of $0.20 per diluted share versus $0.17, and adjusted EPS of $0.24 versus $0.23. The company said it is not providing financial guidance and is withdrawing previously issued guidance; on Oct. 29 it agreed to be acquired by Thrive Holdings for $10.00 per share in cash, with closing expected in Q1 2027 subject to stockholder and U.S. antitrust approval. With a fixed cash price on the table, the quarterly numbers matter mainly for deal-closing conditions.",
-   "source_name": "ADT Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394022/0/en/adt-reports-third-quarter-2026-results.html",
-   "ticker": "NYSE:ADT",
-   "checked": "2026-11-03T14:44:54Z"
-  },
-  {
-   "id": "2026-11-03-bntx-q3",
-   "time": "2026-11-03T15:07:54Z",
-   "tag": "EARNINGS",
-   "headline": "BioNTech Q3 revenue EUR 1,289.2M vs EUR 1,518.9M; FY revenue range EUR 1.7-1.9B",
-   "take": "BioNTech reported Q3 2026 revenue of €1,289.2 million versus €1,518.9 million and IFRS diluted EPS of €0.73 versus €(0.12). Its full-year 2026 revenue guidance is now €1,700 million to €1,900 million, versus €1,600 million to €1,900 million previously. Cash, cash equivalents and security investments were €16,163.8 million at Sept. 30, which keeps the focus on how that balance is deployed.",
-   "source_name": "BioNTech Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394017/0/en/biontech-announces-third-quarter-2026-financial-results-and-corporate-update.html",
-   "ticker": "NASDAQ:BNTX",
-   "checked": "2026-11-03T14:44:54Z"
-  },
-  {
-   "id": "2026-11-03-apo-q3-dividend",
-   "time": "2026-11-03T15:16:54Z",
-   "tag": "EQUITIES",
-   "headline": "Apollo reports Q3; declares $0.5625 dividend; AUM about $1.07T, origination $114B",
-   "take": "Apollo said it had approximately $1.07 trillion of assets under management at Sept. 30, 2026, with origination reaching a new high of $114 billion in the quarter. It declared a cash dividend of $0.5625 per share, payable Nov. 30 to holders of record at the close of business Nov. 18. Origination volume is the input the firm itself points to as the driver of its model.",
-   "source_name": "Apollo Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394015/0/en/apollo-reports-third-quarter-2026-results.html",
-   "ticker": "NYSE:APO",
-   "checked": "2026-11-03T14:44:54Z"
   }
  ]
 }
