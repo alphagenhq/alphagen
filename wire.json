@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-15T19:39:00Z",
+ "updated": "2026-11-15T20:39:17Z",
  "items": [
+  {
+   "id": "2026-11-15-trade-sept-real-goods-deficit-119-5",
+   "time": "2026-11-15T20:44:00Z",
+   "tag": "MACRO",
+   "headline": "Real goods deficit up 3.0% in September to $119.5B vs 2.2% nominal rise",
+   "take": "BEA and Census report the real goods deficit (2017 dollars, Census basis) increased $3.5 billion, or 3.0 percent, to $119.5 billion in September, compared with a 2.2 percent increase in the nominal deficit. Real goods exports rose 0.1 percent to $152.2 billion versus 2.5 percent nominal; real imports rose 1.4 percent to $271.6 billion versus 2.4 percent nominal. AlphaGen read: after adjusting for prices, exports were nearly flat and imports carried the widening.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-15T20:39:17Z"
+  },
+  {
+   "id": "2026-11-15-trade-sept-capital-goods-imports-11-6",
+   "time": "2026-11-15T20:56:00Z",
+   "tag": "MACRO",
+   "headline": "September imports: capital goods +$11.6B, computers +$7.6B, semiconductors -$1.2B",
+   "take": "BEA's September trade release shows imports of capital goods rose $11.6 billion, with computers up $7.6 billion and computer accessories up $5.7 billion, while semiconductors decreased $1.2 billion. Industrial supplies and materials imports fell $3.7 billion, including a $2.7 billion drop in nonmonetary gold. AlphaGen read: the capital goods increase was the largest category move on the import side, and the reported $11.6 billion minus the $7.6 billion for computers leaves $4.0 billion from other capital goods.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-15T20:39:17Z"
+  },
+  {
+   "id": "2026-11-15-trade-sept-taiwan-eu-deficits-widen",
+   "time": "2026-11-15T21:08:00Z",
+   "tag": "GLOBAL",
+   "headline": "Goods deficit with Taiwan widens $3.6B to $21.9B; EU gap up $3.2B to $14.2B",
+   "take": "On a Census basis, the September goods deficit with Taiwan increased $3.6 billion to $21.9 billion, with exports up $0.6 billion to $5.3 billion and imports up $4.2 billion to $27.3 billion. The deficit with the European Union increased $3.2 billion to $14.2 billion, with exports down $0.6 billion to $39.0 billion. AlphaGen read: Taiwan ranks third among the listed deficits behind Mexico ($28.7 billion) and Vietnam ($25.3 billion).",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-15T20:39:17Z"
+  },
+  {
+   "id": "2026-11-15-trade-sept-exports-capital-goods-gold",
+   "time": "2026-11-15T21:20:00Z",
+   "tag": "MACRO",
+   "headline": "September goods exports: capital goods +$3.8B, soybeans +$1.3B, gold -$3.4B",
+   "take": "BEA reports goods exports rose $5.1 billion to $211.0 billion in September. Capital goods increased $3.8 billion (computers +$1.3 billion, civilian aircraft +$0.7 billion), foods, feeds and beverages rose $1.9 billion (soybeans +$1.3 billion), and crude oil exports rose $1.2 billion. Nonmonetary gold decreased $3.4 billion, while industrial supplies and materials fell $1.0 billion. AlphaGen read: the gold decline was the largest single offset among the categories listed.",
+   "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-15T20:39:17Z"
+  },
+  {
+   "id": "2026-11-15-fred-wti-henry-hub-ratio-nov11",
+   "time": "2026-11-15T21:32:00Z",
+   "tag": "COMMODITIES",
+   "headline": "WTI is 29.9 times Henry Hub gas on Nov. 11, from 36.3 on Nov. 6",
+   "take": "FRED shows WTI spot at $89.62 a barrel and Henry Hub natural gas at $3.00 per million Btu on Nov. 11; on Nov. 6 they were $94.37 and $2.60. Dividing the two gives ratios of 29.9 and 36.3. AlphaGen read: oil fell $4.75 while gas rose $0.40 over the span, so the gap between the two fuels narrowed (price units differ, so the ratio is a relative gauge only).",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO and DHHNGSP)",
+   "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
+   "checked": "2026-11-15T20:39:17Z"
+  },
   {
    "id": "2026-11-15-eia-winter-heating-oil-2115",
    "time": "2026-11-15T19:42:00Z",
@@ -5055,59 +5105,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394015/0/en/apollo-reports-third-quarter-2026-results.html",
    "ticker": "NYSE:APO",
    "checked": "2026-11-03T14:44:54Z"
-  },
-  {
-   "id": "2026-11-03-fisv-q3",
-   "time": "2026-11-03T13:41:48Z",
-   "tag": "EARNINGS",
-   "headline": "Fiserv Q3 GAAP revenue $5.20B, down 1%; organic flat; outlook affirmed",
-   "take": "Fiserv reported Q3 2026 GAAP revenue of $5.20 billion, a 1% decline from a year earlier, with organic revenue flat: Merchant Solutions down 2% and Financial Solutions up 2%. Adjusted EPS was $1.75, and the company affirmed 2026 organic revenue of (1%) to 0% and adjusted EPS of $7.20 to $7.40. Flat organic growth with a guidance affirmation puts the focus on whether Financial Solutions' return to growth can offset Merchant weakness.",
-   "source_name": "Fiserv Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394038/0/en/fiserv-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:FISV",
-   "checked": "2026-11-03T13:39:48Z"
-  },
-  {
-   "id": "2026-11-03-fisv-impairment-elevate",
-   "time": "2026-11-03T13:53:48Z",
-   "tag": "EQUITIES",
-   "headline": "Fiserv books $6.45B goodwill impairment, raises Project Elevate savings goal to $1B",
-   "take": "Fiserv's Q3 2026 GAAP diluted EPS was $(11.17), versus $1.46 a year earlier, reflecting a non-cash goodwill impairment of $6.45 billion. The company raised its Project Elevate savings target to $1 billion from $500 million and said it expects to repurchase $500 million of shares in Q4 2026. A non-cash charge of this size explains the gap between GAAP and adjusted results, so adjusted EPS of $1.75 is the better read on operating trend.",
-   "source_name": "Fiserv Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394038/0/en/fiserv-reports-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:FISV",
-   "checked": "2026-11-03T13:39:48Z"
-  },
-  {
-   "id": "2026-11-03-srad-q3",
-   "time": "2026-11-03T14:05:48Z",
-   "tag": "EARNINGS",
-   "headline": "Sportradar Q3 revenue rises 24% to EUR 363M; FY2026 outlook reiterated",
-   "take": "Sportradar reported Q3 2026 revenue of EUR 362.5 million versus EUR 292.1 million, up 24%, with profit of EUR 27 million and Adjusted EBITDA of EUR 102 million (28.2% margin). It reiterated 2026 guidance of 19% to 21% constant-currency revenue growth and 24% to 27% Adjusted EBITDA growth. The release also cites an agreement to divest Atrium Sports for US$170 million, excluded from guidance.",
-   "source_name": "Sportradar Q3 2026 results release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394042/0/en/sportradar-reports-third-quarter-2026-financial-results.html",
-   "ticker": "NASDAQ:SRAD",
-   "checked": "2026-11-03T13:39:48Z"
-  },
-  {
-   "id": "2026-11-03-merck-lonza-cdmo",
-   "time": "2026-11-03T14:17:48Z",
-   "tag": "DEALS",
-   "headline": "Merck KGaA to divest CDMO business to Lonza for a mid-triple-digit million euro sum",
-   "take": "Merck KGaA, Darmstadt, Germany signed a definitive agreement to divest its CDMO business within Life Science to Lonza for what the release calls a mid-triple-digit million-euro amount. The deal covers sites in Carlsbad, Madison, Verona, St. Louis and Indianapolis, excludes BioReliance Contract Testing Services, and is expected to close in mid-2027 subject to customary regulatory approvals. Merck KGaA frames it as sharpening focus on innovation-driven businesses.",
-   "source_name": "Merck KGaA release (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3393912/0/en/merck-kgaa-darmstadt-germany-to-divest-cdmo-business-to-lonza.html",
-   "checked": "2026-11-03T13:39:48Z"
-  },
-  {
-   "id": "2026-11-02-rba-decision-tonight",
-   "time": "2026-11-03T02:49:44Z",
-   "tag": "GLOBAL",
-   "headline": "RBA Monetary Policy Board decision due Nov. 3 at 2:30 p.m. AEDT, 10:30 p.m. ET",
-   "take": "The Reserve Bank of Australia's calendar lists a Monetary Policy Board meeting on Nov. 2-3, with the decision statement and the Statement on Monetary Policy both scheduled for Nov. 3 at 2:30 p.m. AEDT and a media conference at 3:30 p.m. AEDT. The Chart Pack follows Nov. 4 at 11:30 a.m. AEDT, and Deputy Governor Andrew Hauser speaks Nov. 5. The decision lands in the Asia session ahead of U.S. trading Tuesday.",
-   "source_name": "Reserve Bank of Australia calendar",
-   "source_url": "https://www.rba.gov.au/schedules-events/calendar/",
-   "checked": "2026-11-03T02:44:44Z"
   }
  ]
 }
