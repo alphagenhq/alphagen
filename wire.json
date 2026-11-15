@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-15T15:38:24Z",
+ "updated": "2026-11-15T16:45:23Z",
  "items": [
+  {
+   "id": "2026-11-15-fred-mortgage-vs-10y-201",
+   "time": "2026-11-15T16:48:00Z",
+   "tag": "HOUSING",
+   "headline": "30-year mortgage rate 2.01 points above 10-year yield on Nov. 12, from 2.34 on Nov. 5",
+   "take": "FRED shows the 30-year fixed mortgage rate (MORTGAGE30US) at 7.11% for the week of Nov. 12, down from 7.18% on Nov. 5, while the 10-year Treasury yield (DGS10) rose to 5.10% on Nov. 12 from 4.84% on Nov. 5. The gap narrowed to 2.01 percentage points from 2.34 (AlphaGen calculation). AlphaGen read: the mortgage rate edged down while the 10-year rose 26 basis points, so the spread between them narrowed.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (30-Year Fixed Rate Mortgage Average)",
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "checked": "2026-11-15T16:45:23Z"
+  },
+  {
+   "id": "2026-11-15-fred-2y-vs-fed-range-top-086",
+   "time": "2026-11-15T17:00:00Z",
+   "tag": "RATES",
+   "headline": "2-year Treasury yield 0.86 point above top of fed funds range on Nov. 12, from 0.58 on Nov. 4",
+   "take": "FRED shows the 2-year Treasury constant-maturity yield (DGS2) at 4.86% on Nov. 12, up from 4.58% on Nov. 4. The fed funds target range upper limit (DFEDTARU) is 4.00%, so the 2-year sits 0.86 percentage point above it, versus 0.58 on Nov. 4 (AlphaGen calculation). AlphaGen read: the 2-year rose 28 basis points over the period, moving further above the policy range.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS2",
+   "checked": "2026-11-15T16:45:23Z"
+  },
+  {
+   "id": "2026-11-15-fred-permits-starts-gap-sep",
+   "time": "2026-11-15T17:12:00Z",
+   "tag": "HOUSING",
+   "headline": "Permits ran 177,000 above housing starts in September; gap was 64,000 in July",
+   "take": "FRED shows building permits (PERMIT) at 1,398 thousand and housing starts (HOUST) at 1,221 thousand at a seasonally adjusted annual rate in September, a 177 thousand gap (AlphaGen calculation). The gap was 115 thousand in August (1,403 vs 1,288) and 64 thousand in July (1,433 vs 1,369). AlphaGen read: starts fell in each of the three months while permits moved less, so the gap widened.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Privately-Owned Housing Starts; New Private Housing Units Authorized)",
+   "source_url": "https://fred.stlouisfed.org/series/HOUST",
+   "checked": "2026-11-15T16:45:23Z"
+  },
+  {
+   "id": "2026-11-15-fred-walcl-nov11-highest-eight",
+   "time": "2026-11-15T17:24:00Z",
+   "tag": "FED",
+   "headline": "Fed total assets $6.759T on Nov. 11, highest of eight weekly readings since Sept. 23",
+   "take": "FRED's WALCL series shows Federal Reserve total assets of $6,758,867M on Nov. 11, up $11.3B from $6,747,560M on Oct. 7 (AlphaGen calculation). That is the highest of the eight Wednesday readings from Sept. 23, when the series was $6,747,704M, and Sept. 30 was $6,743,031M, the lowest. AlphaGen read: total assets stayed within a $15.8B range across the eight readings.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Federal Reserve Total Assets)",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-15T16:45:23Z"
+  },
   {
    "id": "2026-11-15-fred-henry-hub-nov11-300",
    "time": "2026-11-15T15:40:00Z",
@@ -5076,49 +5116,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392990/0/en/krystal-biotech-announces-third-quarter-2026-financial-and-operating-results.html",
    "ticker": "NASDAQ:KRYS",
    "checked": "2026-11-02T17:17:35Z"
-  },
-  {
-   "id": "2026-11-02-kos-q3",
-   "time": "2026-11-02T17:27:35Z",
-   "tag": "ENERGY",
-   "headline": "Kosmos Energy Q3 oil and gas revenue $410.1M vs $311.0M; net loss $0.07 per share",
-   "take": "Kosmos Energy reported Q3 2026 oil and gas revenue of $410.1 million versus $311.0 million in Q3 2025, a net loss of $43.0 million, or $(0.07) per diluted share, versus $(0.26) a year earlier. Full-year 2026 capital expenditure guidance of approximately $350 million is unchanged, and gross LNG cargo liftings are expected at the upper end of the 32-36 guidance range. The loss narrowed sharply on a per-share basis from the prior-year quarter.",
-   "source_name": "Kosmos Energy, Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392854/0/en/kosmos-energy-announces-third-quarter-2026-results.html",
-   "ticker": "NYSE:KOS",
-   "checked": "2026-11-02T17:17:35Z"
-  },
-  {
-   "id": "2026-11-02-cpx-q3",
-   "time": "2026-11-02T17:37:35Z",
-   "tag": "EARNINGS",
-   "headline": "Capital Power Q3 net income C$67M vs C$153M; raises sustaining capex target",
-   "take": "Capital Power reported Q3 2026 revenues and other income of $831 million versus $1,213 million a year earlier, net income of $67 million versus $153 million, and diluted EPS of $0.37 versus $0.94 (release figures in millions of dollars). Revised 2026 guidance lists AFFO of $890 million to $1,010 million, adjusted EBITDA of $1,565 million to $1,765 million, and sustaining capital expenditures of $350 million to $370 million versus an original $290 million to $330 million. The company also increased its annual common dividend by 2%.",
-   "source_name": "Capital Power, Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392978/0/en/capital-power-reports-third-quarter-2026-results.html",
-   "ticker": "TSX:CPX",
-   "checked": "2026-11-02T17:17:35Z"
-  },
-  {
-   "id": "2026-11-02-tsem-q3",
-   "time": "2026-11-02T17:47:35Z",
-   "tag": "EQUITIES",
-   "headline": "Tower Semiconductor Q3 revenue $526M vs $396M; guides Q4 revenue to $600M",
-   "take": "Tower Semiconductor reported Q3 2026 revenue of $526 million versus $396 million in Q3 2025. For Q4 2026 it guides revenue of $600 million, with an upward or downward range of 5%, which it says represents an increase of 36% year over year and 14% quarter over quarter at the midpoint. The company says the year closes at $2 billion of annual revenue.",
-   "source_name": "Tower Semiconductor, Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392999/0/en/tower-semiconductor-reports-third-quarter-record-results-providing-record-fourth-quarter-guidance-resulting-in-2026-2-billion-annual-revenue.html",
-   "ticker": "NASDAQ:TSEM",
-   "checked": "2026-11-02T17:17:35Z"
-  },
-  {
-   "id": "2026-11-02-riksbank-nov-3-4",
-   "time": "2026-11-02T03:49:07Z",
-   "tag": "GLOBAL",
-   "headline": "Riksbank calendar: policy meeting Nov. 3, decision published Nov. 4",
-   "take": "The Riksbank's 2026 calendar lists a monetary policy meeting on Nov. 3 titled \"Decision on monetary policy including the policy rate.\" It lists Nov. 4 for the \"Publication of monetary policy decision, including the policy rate, and the Monetary Policy Update.\" The pages show no times or rate level, so the decision itself is the next official data point for Swedish policy.",
-   "source_name": "Sveriges Riksbank, Calendar 2026",
-   "source_url": "https://www.riksbank.se/en-gb/press-and-published/calendar/calendar-2026/2026-11-04/",
-   "checked": "2026-11-02T03:44:07Z"
   }
  ]
 }
