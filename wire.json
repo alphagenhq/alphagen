@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-15T14:44:07Z",
+ "updated": "2026-11-15T15:38:24Z",
  "items": [
+  {
+   "id": "2026-11-15-fred-henry-hub-nov11-300",
+   "time": "2026-11-15T15:40:00Z",
+   "tag": "COMMODITIES",
+   "headline": "Henry Hub gas $3.00 on Nov. 10 and 11, up from $2.60 on Nov. 6",
+   "take": "FRED shows Henry Hub natural gas spot at $2.60 per million Btu on Nov. 6, $2.89 on Nov. 9 and $3.00 on both Nov. 10 and Nov. 11, a $0.40 rise from Nov. 6. The Oct. 30 reading was $2.42. AlphaGen read: the move came within a single week of daily observations, so one data window is not a trend.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Henry Hub Natural Gas Spot Price)",
+   "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
+   "checked": "2026-11-15T15:38:24Z"
+  },
+  {
+   "id": "2026-11-15-fred-wti-nov11-8962",
+   "time": "2026-11-15T15:52:00Z",
+   "tag": "ENERGY",
+   "headline": "WTI spot $89.62 on Nov. 10 and 11, down $4.75 from Nov. 6",
+   "take": "FRED lists WTI crude spot at $94.37 on Nov. 6, $90.40 on Nov. 9 and $89.62 on both Nov. 10 and Nov. 11, a $4.75 decline from Nov. 6. The Nov. 4 reading was $91.73 and Nov. 5 was $94.05. AlphaGen read: Nov. 10-11 are the lowest of the Nov. 4-11 readings shown.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (WTI Spot Price)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+   "checked": "2026-11-15T15:38:24Z"
+  },
+  {
+   "id": "2026-11-15-fred-mortgage-four-weekly-declines-711",
+   "time": "2026-11-15T16:04:00Z",
+   "tag": "HOUSING",
+   "headline": "30-year mortgage rate 7.11% on Nov. 12, four straight weekly declines from 7.40%",
+   "take": "FRED's weekly 30-year fixed mortgage rate series shows 7.40% on Oct. 8 and Oct. 15, then 7.32% on Oct. 22, 7.24% on Oct. 29, 7.18% on Nov. 5 and 7.11% on Nov. 12. That is 0.29 point below the Oct. 15 reading. AlphaGen read: each of the last four weekly readings was lower than the one before.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Freddie Mac 30-Year Mortgage Rate)",
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "checked": "2026-11-15T15:38:24Z"
+  },
+  {
+   "id": "2026-11-15-fred-hy-ig-gap-nov12-231",
+   "time": "2026-11-15T16:16:00Z",
+   "tag": "CREDIT",
+   "headline": "High-yield minus investment-grade spread 2.31 points on Nov. 12, from 2.55 on Nov. 5",
+   "take": "FRED shows the high-yield option-adjusted spread at 3.20 points and the investment-grade spread at 0.89 point on Nov. 12, a gap of 2.31 points. On Nov. 5 the readings were 3.48 and 0.93, a gap of 2.55. AlphaGen read: the gap is AlphaGen's arithmetic on the two published series and narrowed 0.24 point over the week.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA OAS indexes)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-15T15:38:24Z"
+  },
   {
    "id": "2026-11-15-cpi-oct-food-total-path",
    "time": "2026-11-15T15:24:00Z",
@@ -5079,46 +5119,6 @@
    "source_name": "Sveriges Riksbank, Calendar 2026",
    "source_url": "https://www.riksbank.se/en-gb/press-and-published/calendar/calendar-2026/2026-11-04/",
    "checked": "2026-11-02T03:44:07Z"
-  },
-  {
-   "id": "2026-11-02-fomc-no-nov-meeting",
-   "time": "2026-11-02T02:49:17Z",
-   "tag": "FED",
-   "headline": "Fed calendar: no FOMC meeting in November; next is Dec. 8-9",
-   "take": "The Federal Reserve's 2026 FOMC calendar lists the most recent meeting as Oct. 27-28 and the next as Dec. 8-9, which is marked as a meeting associated with a Summary of Economic Projections. The Board's November calendar lists no FOMC meeting. That leaves the Fed's scheduled data releases and speeches as the main official Fed inputs this month.",
-   "source_name": "Federal Reserve, FOMC Meeting Calendars",
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "checked": "2026-11-02T02:44:17Z"
-  },
-  {
-   "id": "2026-11-02-fomc-minutes-nov18",
-   "time": "2026-11-02T02:59:17Z",
-   "tag": "FED",
-   "headline": "Fed to release minutes of Oct. 27-28 FOMC meeting on Nov. 18 at 2:00 p.m.",
-   "take": "The Federal Reserve's November calendar lists FOMC Minutes for the meeting of Oct. 27-28 on Nov. 18 at 2:00 p.m. The minutes are the Fed's written record of the committee's discussion at that meeting. They are the next official FOMC document on the calendar before the December meeting.",
-   "source_name": "Federal Reserve Board, November 2026 calendar",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-   "checked": "2026-11-02T02:44:17Z"
-  },
-  {
-   "id": "2026-11-02-fed-sloos",
-   "time": "2026-11-02T03:09:17Z",
-   "tag": "FED",
-   "headline": "Fed lists Senior Loan Officer Opinion Survey for Nov. 2 at 2:00 p.m.",
-   "take": "The Federal Reserve's November calendar lists the Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) on Nov. 2 at 2:00 p.m. The survey covers banks' lending standards and demand, so it is the official read on credit availability for the week.",
-   "source_name": "Federal Reserve Board, November 2026 calendar",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-   "checked": "2026-11-02T02:44:17Z"
-  },
-  {
-   "id": "2026-11-02-fed-week-ahead",
-   "time": "2026-11-02T03:19:17Z",
-   "tag": "FED",
-   "headline": "Fed week ahead: H.4.1 on Nov. 5, Bowman remarks and G.19 on Nov. 6",
-   "take": "The Fed's calendar lists H.4.1, Factors Affecting Reserve Balances, on Nov. 5 at 4:30 p.m. On Nov. 6 it lists a discussion with Vice Chair for Supervision Michelle W. Bowman on supervision and regulation at the University of Mississippi Banking and Finance Symposium at 12:15 p.m., and G.19, Consumer Credit, at 3:00 p.m. H.15 interest-rate data is listed each business day at 4:15 p.m.",
-   "source_name": "Federal Reserve Board, November 2026 calendar",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-   "checked": "2026-11-02T02:44:17Z"
   }
  ]
 }
