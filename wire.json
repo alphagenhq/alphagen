@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-15T01:38:26Z",
+  "updated": "2026-11-15T02:58:00Z",
   "items": [
+    {
+      "id": "2026-11-15-cpi-oct-energy-path",
+      "time": "2026-11-15T02:50:00Z",
+      "tag": "MACRO",
+      "headline": "CPI energy +0.7% in October after +5.2%; June and July were the declines",
+      "take": "BLS's October CPI table shows the energy index rose 0.7% in October after 5.2% in September, with April through October changes of 3.8%, 3.9%, -5.7%, -1.5%, 2.1%, 5.2% and 0.7%. The two declines were in June (-5.7%) and July (-1.5%). AlphaGen read: October's energy gain was the smallest of the five increases in the seven months.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T02:58:00Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-gasoline-path",
+      "time": "2026-11-15T03:01:00Z",
+      "tag": "ENERGY",
+      "headline": "CPI gasoline +1.0% in October after +9.1%; 12-month change 37.4% unadjusted",
+      "take": "BLS's October CPI table shows the gasoline index (all types) rose 1.0% in October after 9.1% in September; April through October changes were 5.4%, 7.0%, -9.7%, -2.9%, 3.9%, 9.1% and 1.0%. BLS notes that before seasonal adjustment gasoline prices decreased 0.7% in October, and the unadjusted 12-month change is 37.4%. AlphaGen read: the seasonally adjusted gain slowed sharply from September, while the year-over-year change remains large.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T02:58:00Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-shelter-path",
+      "time": "2026-11-15T03:12:00Z",
+      "tag": "MACRO",
+      "headline": "CPI shelter +0.3% in October after +0.4%; April's +0.6% was the largest of seven months",
+      "take": "BLS's October CPI table shows shelter rose 0.3% in October after 0.4% in September, against changes of 0.6%, 0.3%, 0.1%, 0.1%, 0.3% and 0.4% from April through September. BLS says shelter accounted for over thirty percent of the monthly all items increase, with owners' equivalent rent up 0.3% and rent up 0.2%. AlphaGen read: shelter has stayed between 0.1% and 0.4% each month since May.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T02:58:00Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-used-cars-path",
+      "time": "2026-11-15T03:23:00Z",
+      "tag": "MACRO",
+      "headline": "CPI used cars and trucks -1.2% in October, the largest decline of seven months",
+      "take": "BLS's October CPI table shows the used cars and trucks index fell 1.2% in October after rising 0.7% in September; April through October changes were 0.0%, 0.1%, -0.2%, 0.4%, 0.4%, 0.7% and -1.2%. The index is down 3.3% over the 12 months ended October on an unadjusted basis. AlphaGen read: October's drop followed three straight monthly increases.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T02:58:00Z"
+    },
+    {
+      "id": "2026-11-15-cpi-oct-electricity-path",
+      "time": "2026-11-15T03:34:00Z",
+      "tag": "ENERGY",
+      "headline": "CPI electricity +0.9% in October after +0.2%; June was the only -1.0% reading",
+      "take": "BLS's October CPI table shows the electricity index rose 0.9% in October after 0.2% in September; April through October changes were 2.1%, 0.6%, -1.0%, 0.1%, -0.2%, 0.2% and 0.9%. Utility (piped) gas service fell 0.8% in October, and the energy services index rose 0.6%. AlphaGen read: October's electricity gain was the second largest of the seven months, behind April's 2.1%.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-15T02:58:00Z"
+    },
     {
       "id": "2026-11-15-fred-germany-10y-sep-347",
       "time": "2026-11-15T01:43:26Z",
@@ -5087,59 +5137,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000016868/000001686826000041/a2026q3pressreleasestatssu.htm",
       "ticker": "NYSE:CNI",
       "checked": "2026-10-30T15:46:05Z"
-    },
-    {
-      "id": "2026-10-30-cni-guide",
-      "time": "2026-10-30T16:13:05Z",
-      "tag": "EQUITIES",
-      "headline": "CN says 2026 adjusted EPS growth tracking toward upper end of mid-to-high single digits",
-      "take": "CN said it continues to expect adjusted diluted EPS growth in the mid-to-high single-digit range and is tracking more towards the upper end, with low single-digit RTM growth assumed and a capital program of about C$2.8 billion. It declared a Q4 dividend of C$0.9150 per common share, payable Dec. 30, 2026. The guidance relies on an assumed WTI range of US$80 to US$110 per barrel for the balance of 2026.",
-      "source_name": "CN Q3 2026 earnings release (SEC Form 6-K)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000016868/000001686826000041/a2026q3pressreleasestatssu.htm",
-      "ticker": "NYSE:CNI",
-      "checked": "2026-10-30T15:46:05Z"
-    },
-    {
-      "id": "2026-10-30-abbv-q3",
-      "time": "2026-10-30T16:22:05Z",
-      "tag": "EARNINGS",
-      "headline": "AbbVie Q3 diluted EPS $2.37 GAAP, $3.82 adjusted",
-      "take": "AbbVie reported Q3 2026 diluted EPS of $2.37 on a GAAP basis and adjusted diluted EPS of $3.82. The release describes the GAAP figure as an increase of over 100.0 percent. Adjusted EPS excludes specified items, so the two figures are not directly comparable.",
-      "source_name": "AbbVie Q3 2026 results release (PR Newswire)",
-      "source_url": "https://www.prnewswire.com/news-releases/abbvie-reports-third-quarter-2026-financial-results-302924866.html",
-      "ticker": "NYSE:ABBV",
-      "checked": "2026-10-30T15:46:05Z"
-    },
-    {
-      "id": "2026-10-30-bls-eci-q3",
-      "time": "2026-10-30T13:50:15Z",
-      "tag": "MACRO",
-      "headline": "BLS: Q3 employment costs up 0.8% in the quarter, 3.4% over the year",
-      "take": "BLS reported civilian compensation costs rose 0.8% (seasonally adjusted) in the 3 months ending September 2026 and 3.4% (not seasonally adjusted) over 12 months, with wages and salaries up 3.1% and benefit costs up 3.9% over the year. Private-industry inflation-adjusted wages and salaries decreased 0.6% over the year. Benefit costs growing faster than wages shows employers' labor costs are rising more through benefits than pay.",
-      "source_name": "BLS Employment Cost Index release",
-      "source_url": "https://www.bls.gov/news.release/eci.nr0.htm",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-bea-sep-pce",
-      "time": "2026-10-30T13:55:15Z",
-      "tag": "MACRO",
-      "headline": "BEA: September PCE prices up 3.6% from a year ago; core up 3.1%",
-      "take": "BEA reported the September PCE price index rose 0.5% from August and 3.6% from a year earlier, while excluding food and energy it rose 0.3% on the month and 3.1% over the year. Personal income increased $54.5 billion (0.2%) and consumer spending (PCE) increased $113.1 billion (0.5%). Spending outpacing income in a month of faster price gains is the combination to watch for household savings.",
-      "source_name": "BEA Personal Income and Outlays, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-      "checked": "2026-10-30T13:47:15Z"
-    },
-    {
-      "id": "2026-10-30-xom-q3",
-      "time": "2026-10-30T14:00:15Z",
-      "tag": "ENERGY",
-      "headline": "Exxon Q3 earnings $15.4B, $3.72 per share; plans $20B 2027 buybacks",
-      "take": "ExxonMobil reported third-quarter 2026 earnings of $15.4 billion, or $3.72 per share (assuming dilution), with cash flow from operating activities of $25.7 billion and free cash flow of $19.1 billion. It declared a fourth-quarter dividend of $1.07 per share and announced 2027 share repurchases of $20 billion, assuming reasonable market conditions. The release compares the quarter with Q2 rather than Q3 2025, so the year-ago comparison is not stated in it.",
-      "source_name": "ExxonMobil Q3 2026 earnings release",
-      "source_url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1213/exxonmobil-announces-third-quarter-2026-results",
-      "ticker": "NYSE:XOM",
-      "checked": "2026-10-30T13:47:15Z"
     }
   ]
 }
