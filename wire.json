@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-15T16:45:23Z",
+ "updated": "2026-11-15T17:45:11Z",
  "items": [
+  {
+   "id": "2026-11-15-cftc-euro-fx-net-short-157791",
+   "time": "2026-11-15T17:50:00Z",
+   "tag": "FX",
+   "headline": "CFTC: non-commercial euro FX net short 157,791 contracts as of Nov. 3, from 143,894 a week earlier",
+   "take": "CFTC's futures-only report for CME Euro FX (positions as of Nov. 3, updated Nov. 6) shows non-commercial longs of 229,383 and shorts of 387,174 on open interest of 876,122. Shorts rose 12,634 and longs fell 1,263 from Oct. 27, widening the net short by 13,897 contracts (AlphaGen calculation). AlphaGen read: this is the latest legacy report on the page we could open, so it is a week old and says nothing about positioning since.",
+   "source_name": "CFTC, Commitments of Traders (CME, futures only)",
+   "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
+   "checked": "2026-11-15T17:45:11Z"
+  },
+  {
+   "id": "2026-11-15-cftc-yen-net-long-102321",
+   "time": "2026-11-15T18:10:00Z",
+   "tag": "FX",
+   "headline": "CFTC: non-commercial yen futures net long 102,321 contracts as of Nov. 3, from 101,591",
+   "take": "CFTC's futures-only report for CME Japanese Yen (positions as of Nov. 3, updated Nov. 6) shows non-commercial longs of 227,198 and shorts of 124,877 on open interest of 380,641. Longs rose 1,682 and shorts rose 952 from Oct. 27, lifting the net long by 730 contracts (AlphaGen calculation). AlphaGen read: yen positioning barely moved, a contrast with the euro, where the net short widened by about 14,000.",
+   "source_name": "CFTC, Commitments of Traders (CME, futures only)",
+   "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
+   "checked": "2026-11-15T17:45:11Z"
+  },
   {
    "id": "2026-11-15-fred-mortgage-vs-10y-201",
    "time": "2026-11-15T16:48:00Z",
@@ -5094,28 +5114,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3393251/0/en/alexander-s-announces-third-quarter-financial-results.html",
    "ticker": "NYSE:ALX",
    "checked": "2026-11-02T19:45:38Z"
-  },
-  {
-   "id": "2026-11-02-ltbr-q3",
-   "time": "2026-11-02T20:26:00Z",
-   "tag": "EARNINGS",
-   "headline": "Lightbridge Q3 net loss $8.3M vs $4.1M; cash $236.7M at Sept. 30",
-   "take": "Lightbridge reported a net loss of $8.3 million, or $0.23 per basic and diluted share, for the quarter ended Sept. 30, 2026, versus $4.1 million, or $0.16, a year earlier, with no revenue in either period. Cash and cash equivalents were $236.7 million at Sept. 30 versus $201.9 million at Dec. 31, 2025, an increase of $34.8 million. R&D expense was $5.3 million versus $2.0 million, which accounts for much of the wider loss.",
-   "source_name": "Lightbridge Corporation, Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392979/24486/en/lightbridge-provides-business-update-and-announces-third-quarter-fiscal-2026-financial-results.html",
-   "ticker": "NASDAQ:LTBR",
-   "checked": "2026-11-02T19:45:38Z"
-  },
-  {
-   "id": "2026-11-02-krys-q3",
-   "time": "2026-11-02T17:17:35Z",
-   "tag": "EARNINGS",
-   "headline": "Krystal Biotech Q3 product revenue $127.3M vs $97.8M; diluted EPS $2.05 vs $2.66",
-   "take": "Krystal Biotech reported net product revenue of $127.3 million for the quarter ended Sept. 30, 2026, versus $97.8 million a year earlier. Net income was $63.1 million, or $2.05 per diluted share, versus $79.4 million, or $2.66 per diluted share, in the prior-year quarter. Revenue rose while net income and EPS fell, so the comparison turns on costs below the revenue line. The company also announced a share repurchase program of up to $400 million.",
-   "source_name": "Krystal Biotech, Q3 2026 results (GlobeNewswire)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/02/3392990/0/en/krystal-biotech-announces-third-quarter-2026-financial-and-operating-results.html",
-   "ticker": "NASDAQ:KRYS",
-   "checked": "2026-11-02T17:17:35Z"
   }
  ]
 }
