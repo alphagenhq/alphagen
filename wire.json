@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-15T13:39:49Z",
+ "updated": "2026-11-15T14:44:07Z",
  "items": [
+  {
+   "id": "2026-11-15-cpi-oct-food-total-path",
+   "time": "2026-11-15T15:24:00Z",
+   "tag": "MACRO",
+   "headline": "CPI food +0.5% in October after flat September; ties April's gain",
+   "take": "BLS's Nov. 10 CPI release shows the food index rose 0.5% in October after being unchanged in September. The monthly path from April was 0.5%, 0.2%, 0.2%, 0.1%, 0.1%, 0.0% and 0.5%. AlphaGen read: October equals April's gain as the largest monthly increase in the seven months shown.",
+   "source_name": "Bureau of Labor Statistics (CPI)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-15T14:44:07Z"
+  },
+  {
+   "id": "2026-11-15-cpi-oct-medical-services-path",
+   "time": "2026-11-15T15:13:00Z",
+   "tag": "MACRO",
+   "headline": "CPI medical care services +0.3% in October, matching September",
+   "take": "BLS's Nov. 10 CPI table shows the medical care services index rose 0.3% in October, the same as in September. The monthly path from April was 0.0%, 0.5%, -0.1%, 0.6%, -0.2%, 0.3% and 0.3%, with June and August the two declines. AlphaGen read: the series has been choppy, and the two latest months are steadier than the summer swings.",
+   "source_name": "Bureau of Labor Statistics (CPI)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-15T14:44:07Z"
+  },
+  {
+   "id": "2026-11-15-cpi-oct-services-less-energy-path",
+   "time": "2026-11-15T15:02:00Z",
+   "tag": "MACRO",
+   "headline": "CPI services less energy services +0.3% in October after +0.4%",
+   "take": "BLS's Nov. 10 CPI table shows services less energy services rose 0.3% in October after 0.4% in September. From April the monthly changes were 0.5%, 0.3%, 0.0%, 0.2%, 0.3%, 0.4% and 0.3%, with June the only flat reading. AlphaGen read: services inflation has run at 0.3% or higher in each of the last three months.",
+   "source_name": "Bureau of Labor Statistics (CPI)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-15T14:44:07Z"
+  },
+  {
+   "id": "2026-11-15-cpi-oct-core-monthly-path",
+   "time": "2026-11-15T14:51:00Z",
+   "tag": "MACRO",
+   "headline": "CPI excluding food and energy +0.3% for a third month; June was flat",
+   "take": "BLS's Nov. 10 CPI release shows the all-items-less-food-and-energy index rose 0.3% in October, as it did in September and August. The monthly path from April was 0.4%, 0.2%, 0.0%, 0.2%, 0.3%, 0.3% and 0.3%. AlphaGen read: the core index has held at 0.3% for three consecutive months after readings of 0.2%, 0.0% and 0.2% in May-July.",
+   "source_name": "Bureau of Labor Statistics (CPI)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-15T14:44:07Z"
+  },
+  {
+   "id": "2026-11-15-cpi-oct-transport-services-path",
+   "time": "2026-11-15T14:40:00Z",
+   "tag": "MACRO",
+   "headline": "CPI transportation services +0.8% in October, the largest of seven months",
+   "take": "BLS's Nov. 10 CPI release shows the transportation services index rose 0.8% in October after 0.6% in September. The monthly path from April was 0.3%, -0.6%, -0.3%, 0.3%, 0.5%, 0.6% and 0.8%, with May and June the two declines. AlphaGen read: the index has risen in each of the last four months, and October's reading is the highest in the April-October table.",
+   "source_name": "Bureau of Labor Statistics (CPI)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-15T14:44:07Z"
+  },
   {
    "id": "2026-11-15-eia-venezuela-us-top-destination",
    "time": "2026-11-15T13:41:00Z",
@@ -5069,58 +5119,6 @@
    "source_name": "Federal Reserve Board, November 2026 calendar",
    "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
    "checked": "2026-11-02T02:44:17Z"
-  },
-  {
-   "id": "2026-11-02-fed-veterans-day-shift",
-   "time": "2026-11-02T03:29:17Z",
-   "tag": "FED",
-   "headline": "Fed: Veterans Day holiday Nov. 11 moves daily and weekly releases to Nov. 12",
-   "take": "The Fed's November calendar lists Veterans Day on Nov. 11 and says releases scheduled that day move to Thursday, Nov. 12. The calendar also lists the Beige Book on Nov. 25 at 2:00 p.m. and a Thanksgiving Day holiday on Nov. 26. Data users should plan for the shifted H.15 and H.4.1 dates.",
-   "source_name": "Federal Reserve Board, November 2026 calendar",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-   "checked": "2026-11-02T02:44:17Z"
-  },
-  {
-   "id": "2026-11-01-boj-outlook-oct",
-   "time": "2026-11-01T19:50:24Z",
-   "tag": "GLOBAL",
-   "headline": "BoJ Outlook: FY2026 real GDP median +0.7%, core CPI median +2.5%",
-   "take": "The Bank of Japan's October 2026 Outlook Report, dated Oct. 30, puts the Policy Board median forecast for FY2026 real GDP at +0.7% (July: +0.6%) and CPI less fresh food at +2.5% (July: +2.5%). For FY2027 the medians are +0.7% for real GDP (July: +0.8%) and +2.6% for CPI less fresh food (July: +2.4%). The report says the Bank will continue to raise the policy interest rate, so the 2027 inflation revision is the part that bears on the pace of that path.",
-   "source_name": "Bank of Japan, Outlook for Economic Activity and Prices (Oct. 2026)",
-   "source_url": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
-   "checked": "2026-11-01T19:45:24Z"
-  },
-  {
-   "id": "2026-11-01-treasury-bill-week",
-   "time": "2026-11-01T20:10:24Z",
-   "tag": "DEBT",
-   "headline": "Treasury calendar: bill auctions run Nov. 2-5, 13- and 26-week first",
-   "take": "Treasury's tentative auction schedule lists 13-week and 26-week bills on Monday, Nov. 2 (announced Oct. 29, settling Nov. 5) and a 6-week bill on Tuesday, Nov. 3. A 17-week bill follows Wednesday, Nov. 4, and 4-week and 8-week bills Thursday, Nov. 5, all settling Nov. 10. The calendar lists no offering amounts or times, so the sizes announced Nov. 3 are the figures to watch.",
-   "source_name": "U.S. Treasury, Tentative Auction Schedule",
-   "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.xml",
-   "checked": "2026-11-01T19:45:24Z"
-  },
-  {
-   "id": "2026-10-31-fstr-dulworth",
-   "time": "2026-10-31T22:48:52Z",
-   "tag": "DEALS",
-   "headline": "L.B. Foster's CXT closes $52.18M cash purchase of Dulworth Enterprises assets",
-   "take": "L.B. Foster said in its 8-K that CXT Incorporated, a wholly owned subsidiary, agreed to buy Dulworth Enterprises' operating assets for $52,180,000 in cash, subject to customary indemnification holdbacks, and that the transaction closed Oct. 28, 2026. It was funded with cash on hand and available funds from its existing revolving credit facility. The assets will be integrated into the Precast Concrete Products business unit.",
-   "source_name": "L.B. Foster Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000352825/000035282526000053/fstr-20261028.htm",
-   "ticker": "NASDAQ:FSTR",
-   "checked": "2026-10-31T22:43:52Z"
-  },
-  {
-   "id": "2026-10-31-clmb-neovad",
-   "time": "2026-10-31T23:03:52Z",
-   "tag": "DEALS",
-   "headline": "Climb Global Solutions buys France's NeoVAD for about €16.0M",
-   "take": "Climb Global Solutions said in an 8-K that on Oct. 21, 2026 it entered into a Sale and Purchase Agreement and purchased 100% of the issued and outstanding shares of NeoVAD for an aggregate purchase price of approximately €16.0 million, subject to certain adjustments. The filing describes NeoVAD as a France-based value-added IT distributor specializing in cybersecurity, cloud services and virtualization solutions. Small bolt-ons like this extend a distributor's European footprint.",
-   "source_name": "Climb Global Solutions Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000945983/000143774926033185/clmb20261022_8k.htm",
-   "ticker": "NASDAQ:CLMB",
-   "checked": "2026-10-31T22:43:52Z"
   }
  ]
 }
