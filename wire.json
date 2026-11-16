@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-16T14:45:01Z",
+ "updated": "2026-11-16T15:44:46Z",
  "items": [
+  {
+   "id": "2026-11-16-q3-gdp-vs-final-sales-gap",
+   "time": "2026-11-16T15:50:00Z",
+   "tag": "MACRO",
+   "headline": "Q3 real GDP 3.4% vs 4.9% for private final sales; gap 1.5 points, from 2.4 in Q2",
+   "take": "BEA's advance estimate shows real GDP up 3.4% at an annual rate in Q3 and real final sales to private domestic purchasers up 4.9%, versus 2.2% and 4.6% in Q2. The gap between the two measures is 1.5 points, down from 2.4 in Q2 (AlphaGen calculation). BEA says the Q3 acceleration in GDP reflected investment and government spending, partly offset by a downturn in exports, with imports increasing.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-16T15:44:46Z"
+  },
+  {
+   "id": "2026-11-16-sept-pharma-trade",
+   "time": "2026-11-16T16:00:00Z",
+   "tag": "MACRO",
+   "headline": "September pharma trade: imports of preparations +$2.9B, exports +$0.7B",
+   "take": "The BEA-Census September trade release lists pharmaceutical preparations imports up $2.9 billion within a $2.4 billion rise in consumer goods imports, while pharmaceutical exports rose $0.7 billion within a $0.8 billion rise in consumer goods exports. The $2.2 billion difference between the two pharma moves is an AlphaGen calculation. The release does not break out the pharmaceutical level in its text.",
+   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-16T15:44:46Z"
+  },
+  {
+   "id": "2026-11-16-sept-crude-trade",
+   "time": "2026-11-16T16:10:00Z",
+   "tag": "COMMODITIES",
+   "headline": "September crude oil: exports +$1.2B, imports -$1.3B in the trade report",
+   "take": "Per the September trade release, crude oil exports increased $1.2 billion within a $1.0 billion decrease in industrial supplies and materials exports, and crude oil imports decreased $1.3 billion within a $3.7 billion decline in industrial supplies and materials imports. Together the two crude moves narrowed the goods deficit by $2.5 billion (AlphaGen calculation, before other items). BEA also says Q3 GDP exports fell on a decrease led by petroleum products.",
+   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-16T15:44:46Z"
+  },
+  {
+   "id": "2026-11-16-sept-real-goods-trade-split",
+   "time": "2026-11-16T16:20:00Z",
+   "tag": "MACRO",
+   "headline": "Real goods exports +0.1% vs nominal +2.5% in September; real imports +1.4% vs +2.4%",
+   "take": "Census-basis real goods exports rose $0.2 billion, or 0.1%, to $152.2 billion in September, against a 2.5% rise in nominal exports; real goods imports rose $3.6 billion, or 1.4%, to $271.6 billion, against a 2.4% nominal rise. That is why the real goods deficit grew 3.0% while the nominal deficit rose 2.2%. The gaps between real and nominal growth, 2.4 points for exports and 1.0 for imports, are AlphaGen calculations.",
+   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-16T15:44:46Z"
+  },
+  {
+   "id": "2026-11-16-sept-deficit-components",
+   "time": "2026-11-16T16:30:00Z",
+   "tag": "MACRO",
+   "headline": "September goods deficit $135.9B less $30.9B services surplus gives $105.0B total",
+   "take": "BEA and Census report a September goods deficit of $135.9 billion, down $0.7 billion, and a services surplus of $30.9 billion, down less than $0.1 billion, for a total goods and services deficit of $105.0 billion. Exports were $321.5 billion and imports $426.6 billion. The goods deficit is 4.4 times the services surplus (AlphaGen calculation).",
+   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-16T15:44:46Z"
+  },
   {
    "id": "2026-11-16-cpi-oct-all-items-path",
    "time": "2026-11-16T14:43:11Z",
@@ -5003,58 +5053,6 @@
    "source_name": "BLS Employment Situation Summary, October 2026",
    "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
    "checked": "2026-11-06T23:43:58Z"
-  },
-  {
-   "id": "2026-11-06-bls-oct-wages",
-   "time": "2026-11-07T00:11:58Z",
-   "tag": "MACRO",
-   "headline": "Average hourly earnings up 0.4% in October to $38.00; 3.1% over 12 months",
-   "take": "BLS said average hourly earnings for all employees on private nonfarm payrolls rose 14 cents, or 0.4%, to $38.00 in October, and are up 3.1% over the past 12 months. For production and nonsupervisory employees, earnings rose 12 cents, or 0.4%, to $32.75. Wage growth at this pace is a data point the Fed will read alongside inflation figures due next week.",
-   "source_name": "BLS Employment Situation Summary, October 2026",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-06T23:43:58Z"
-  },
-  {
-   "id": "2026-11-06-bls-oct-participation",
-   "time": "2026-11-07T00:21:58Z",
-   "tag": "MACRO",
-   "headline": "Participation 61.9%, employment-population ratio 59.3% in October",
-   "take": "BLS reported the labor force participation rate at 61.9% and the employment-population ratio at 59.3% in October, both little changed. Long-term unemployed workers numbered 2.0 million, or 27.6% of the unemployed, and those working part time for economic reasons rose by 339,000 to 4.8 million. The rise in involuntary part-time work is the softer detail beneath the headline payroll gain.",
-   "source_name": "BLS Employment Situation Summary, October 2026",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-06T23:43:58Z"
-  },
-  {
-   "id": "2026-11-06-bls-week-ahead",
-   "time": "2026-11-07T00:31:58Z",
-   "tag": "MACRO",
-   "headline": "Week ahead: October CPI Tuesday Nov. 10, PPI Friday Nov. 13 from BLS",
-   "take": "BLS's release schedule lists the Consumer Price Index and Real Earnings for October at 8:30 a.m. ET on Tuesday, Nov. 10, the Producer Price Index at 8:30 a.m. ET on Friday, Nov. 13, and Import and Export Price Indexes on Tuesday, Nov. 17 at 8:30 a.m. ET. Wednesday, Nov. 11 is the Veterans Day holiday. The next jobs report, for November, is scheduled for Friday, Dec. 4 at 8:30 a.m. ET.",
-   "source_name": "BLS Release Calendar, November 2026",
-   "source_url": "https://www.bls.gov/schedule/news_release/",
-   "checked": "2026-11-06T23:43:58Z"
-  },
-  {
-   "id": "2026-11-05-solv-q3-8k",
-   "time": "2026-11-05T23:46:32Z",
-   "tag": "EARNINGS",
-   "headline": "Solventum files 8-K on third-quarter 2026 results press release",
-   "take": "Solventum's Nov. 5, 2026 8-K (Item 2.02) states the company issued a press release reporting third-quarter 2026 financial results, furnished as Exhibit 99.1 dated Nov. 5. The 8-K cover filing itself does not carry the revenue or earnings figures. Investors need the exhibit for the numbers.",
-   "source_name": "Solventum Form 8-K, Nov. 5, 2026 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001964738/000196473826000055/solv-20261105.htm",
-   "ticker": "NYSE:SOLV",
-   "checked": "2026-11-05T23:43:32Z"
-  },
-  {
-   "id": "2026-11-05-ktb-q3-8k",
-   "time": "2026-11-06T00:00:32Z",
-   "tag": "EARNINGS",
-   "headline": "Kontoor Brands files 8-K on fiscal third-quarter 2026 results release",
-   "take": "Kontoor Brands' Nov. 5, 2026 8-K says the company issued a press release announcing financial results for the third quarter of fiscal 2026, furnished as Exhibit 99.1. The cover filing does not itself state revenue or earnings. The exhibit is the place to read the reported figures.",
-   "source_name": "Kontoor Brands Form 8-K, Nov. 5, 2026 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001760965/000176096526000072/ktb-20261105.htm",
-   "ticker": "NYSE:KTB",
-   "checked": "2026-11-05T23:43:32Z"
   }
  ]
 }
