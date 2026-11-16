@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-16T11:39:14Z",
+  "updated": "2026-11-16T12:39:27Z",
   "items": [
+    {
+      "id": "2026-11-16-eia-sw-hydro-flaming-gorge-hoover",
+      "time": "2026-11-16T12:42:27Z",
+      "tag": "ENERGY",
+      "headline": "EIA: Flaming Gorge water released to protect Lake Powell power; Hoover Dam exposed",
+      "take": "EIA's Nov. 13 analysis says water was released from Flaming Gorge, in the Upper Colorado River Basin, to reduce the risk of Lake Powell falling below the minimum power pool at Glen Canyon Dam. EIA adds that lower releases from Lake Powell could affect water elevation downstream at Lake Mead, in turn affecting hydropower generation at the Hoover Dam. AlphaGen read: the two reservoirs are linked, so protecting one shifts the risk to the other.",
+      "source_name": "U.S. Energy Information Administration, Today in Energy",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+      "checked": "2026-11-16T12:39:27Z"
+    },
+    {
+      "id": "2026-11-16-eia-sw-hydro-el-nino-caveat",
+      "time": "2026-11-16T12:53:27Z",
+      "tag": "ENERGY",
+      "headline": "EIA: El Niño could ease Southwest drought, but one wet year won't erase scarcity",
+      "take": "EIA's Nov. 13 analysis says this year's El Niño could bring more precipitation than normal, providing some drought relief and improving the hydropower generation forecast for the Southwest. EIA cautions, however, that one good water year likely won't eliminate the effects of multiple years of water scarcity. AlphaGen read: the agency's own forecast does not yet count on a rebound, with 2027 Southwest hydropower at 6.1 billion kWh versus 6.13 billion kWh in 2026.",
+      "source_name": "U.S. Energy Information Administration, Today in Energy",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+      "checked": "2026-11-16T12:39:27Z"
+    },
+    {
+      "id": "2026-11-16-eia-alaska-nuna-half-of-peak",
+      "time": "2026-11-16T13:04:27Z",
+      "tag": "ENERGY",
+      "headline": "EIA: Alaska's Nuna averaging 10,000 b/d this year versus 20,000 b/d expected peak",
+      "take": "EIA's Nov. 12 note says ConocoPhillips' Nuna project, which began production in December 2024, is expected to produce 20,000 barrels per day at its peak and has averaged 10,000 b/d so far this year, partially offsetting existing production declines. By comparison, EIA says the Santos- and Repsol-owned Pikka Phase 1 reached 38,000 b/d as of September 2026. AlphaGen read: Nuna is running at half its stated peak rate, while Pikka's September rate is already above Nuna's peak.",
+      "source_name": "U.S. Energy Information Administration, Today in Energy",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+      "checked": "2026-11-16T12:39:27Z"
+    },
+    {
+      "id": "2026-11-16-eia-venezuela-sanctions-history",
+      "time": "2026-11-16T13:15:27Z",
+      "tag": "COMMODITIES",
+      "headline": "EIA: Venezuelan crude to U.S. stopped after Jan. 2019 sanctions; Chevron resumed in 2023",
+      "take": "EIA's Nov. 6 note says U.S. crude oil imports from Venezuela stopped shortly after sanctions were imposed on PDVSA in January 2019, and that Chevron resumed exports from its Venezuelan joint venture to U.S. Gulf Coast refineries in January 2023 under waivers granted in November 2022. EIA says the U.S. government eased restrictions on PDVSA following the capture of Venezuelan President Nicolas Maduro in January 2026 and took additional measures to authorize U.S. companies to invest in the country. AlphaGen read: the 701,000 b/d July import figure follows a policy shift, not just refinery demand.",
+      "source_name": "U.S. Energy Information Administration, Today in Energy",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+      "checked": "2026-11-16T12:39:27Z"
+    },
     {
       "id": "2026-11-16-fred-10y-highest-since-oct21",
       "time": "2026-11-16T11:39:14Z",
@@ -5024,50 +5064,6 @@
       "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396198/0/en/dnow-reports-third-quarter-2026-results.html",
       "ticker": "NYSE:DNOW",
       "checked": "2026-11-05T18:45:30Z"
-    },
-    {
-      "id": "2026-11-05-sphr-q3",
-      "time": "2026-11-05T18:57:30Z",
-      "tag": "EARNINGS",
-      "headline": "Sphere Entertainment Q3 revenue $274.3M, up 4%; net loss $176.0M",
-      "take": "Sphere Entertainment reported revenues of $274.3 million for the quarter ended Sept. 30, 2026, up 4% from the prior-year quarter, with an operating loss of $240.6 million versus $163.1 million and adjusted operating income of $39.2 million versus $36.4 million. Net loss was $176.0 million, or $(4.84) per diluted share, versus $(125.7) million, or $(3.47), a year earlier as revised. Revenue grew modestly while the loss widened.",
-      "source_name": "Sphere Entertainment Q3 2026 results release (Business Wire, Nov. 5, 2026)",
-      "source_url": "https://www.businesswire.com/news/home/20261105830110/en/Sphere-Entertainment-Co.-Reports-Third-Quarter-2026-Results",
-      "ticker": "NYSE:SPHR",
-      "checked": "2026-11-05T18:45:30Z"
-    },
-    {
-      "id": "2026-11-05-cron-q3",
-      "time": "2026-11-05T19:09:30Z",
-      "tag": "EARNINGS",
-      "headline": "Cronos Group Q3 net revenue $63.5M, up 75%; adjusted EBITDA $17.1M",
-      "take": "Cronos Group reported Q3 2026 net revenue of $63,450 thousand versus $36,339 thousand, up 75%, with net income of $17.8 million versus $28.3 million and adjusted EBITDA of $17.1 million versus $5.7 million. The company repurchased 3.2 million shares for $9.4 million in the quarter, and the CanAdelaar acquisition closed Oct. 15, 2026. Profit fell even as revenue and adjusted EBITDA rose.",
-      "source_name": "Cronos Group Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396306/0/en/cronos-group-reports-2026-third-quarter-results.html",
-      "ticker": "NASDAQ:CRON",
-      "checked": "2026-11-05T18:45:30Z"
-    },
-    {
-      "id": "2026-11-05-dnow-buyback",
-      "time": "2026-11-05T19:21:30Z",
-      "tag": "EQUITIES",
-      "headline": "DNOW repurchased $17M of stock in Q3, $92M year to date",
-      "take": "DNOW said it repurchased $17 million of common stock in the third quarter of 2026 and $92 million year to date under its $160 million share repurchase program. At Sept. 30, 2026 the company reported cash of $112 million, total long-term debt of $377 million and net debt of $265 million. Buybacks are being funded alongside a net debt leverage ratio of 1.1 times.",
-      "source_name": "DNOW Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396198/0/en/dnow-reports-third-quarter-2026-results.html",
-      "ticker": "NYSE:DNOW",
-      "checked": "2026-11-05T18:45:30Z"
-    },
-    {
-      "id": "2026-11-05-qnity-q3-8k",
-      "time": "2026-11-05T11:46:42Z",
-      "tag": "EARNINGS",
-      "headline": "Qnity Electronics files 8-K announcing third-quarter 2026 results",
-      "take": "Qnity Electronics filed an 8-K on Nov. 4, 2026 under Item 2.02 announcing results for the third quarter 2026, with the press release dated Nov. 4 attached as Exhibit 99.1. The 8-K body itself carries no financial figures. The quarter's numbers sit in the exhibit release.",
-      "source_name": "Qnity Electronics Form 8-K, Nov. 4, 2026 (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0002058873/000205887326000039/q-20261104.htm",
-      "ticker": "NYSE:Q",
-      "checked": "2026-11-05T11:44:42Z"
     }
   ]
 }
