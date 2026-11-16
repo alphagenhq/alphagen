@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-16T16:39:37Z",
+ "updated": "2026-11-16T17:45:15Z",
  "items": [
+  {
+   "id": "2026-11-16-fred-yuan-vs-year-ago-nov6",
+   "time": "2026-11-16T17:50:15Z",
+   "tag": "FX",
+   "headline": "Yuan at 6.6760 per dollar on Nov. 6, from 7.1195 a year earlier",
+   "take": "The Fed's H.10 series on FRED shows 6.6760 Chinese yuan per U.S. dollar on Nov. 6, 2026, versus 7.1195 on Nov. 6, 2025. That is 6.2% fewer yuan per dollar (AlphaGen calculation). AlphaGen read: fewer yuan per dollar means the yuan is worth more in dollar terms than a year ago.",
+   "source_name": "Federal Reserve Board H.10 via FRED (DEXCHUS)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
+   "checked": "2026-11-16T17:45:15Z"
+  },
+  {
+   "id": "2026-11-16-fred-sterling-vs-year-ago-nov6",
+   "time": "2026-11-16T18:02:15Z",
+   "tag": "FX",
+   "headline": "Sterling at $1.3371 on Nov. 6, from $1.3107 a year earlier",
+   "take": "The Fed's H.10 series on FRED shows $1.3371 per British pound on Nov. 6, 2026, versus $1.3107 on Nov. 6, 2025, a rise of 2.0% (AlphaGen calculation). AlphaGen read: the pound buys slightly more dollars than a year ago.",
+   "source_name": "Federal Reserve Board H.10 via FRED (DEXUSUK)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
+   "checked": "2026-11-16T17:45:15Z"
+  },
+  {
+   "id": "2026-11-16-cpi-oct-core-seven-month-cumulative",
+   "time": "2026-11-16T18:14:15Z",
+   "tag": "MACRO",
+   "headline": "CPI core compounds to about 1.7% over April-October; services 2.0%, goods 0.6%",
+   "take": "Using BLS's published monthly seasonally adjusted changes for April through October 2026, CPI less food and energy compounds to about 1.7%, services less energy services to about 2.0%, and commodities less food and energy commodities to about 0.6% (AlphaGen calculation from rounded figures). AlphaGen read: services have carried most of the core increase over the period.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-16T17:45:15Z"
+  },
+  {
+   "id": "2026-11-16-fred-fed-assets-vs-year-ago-nov11",
+   "time": "2026-11-16T18:26:15Z",
+   "tag": "FED",
+   "headline": "Fed total assets $6.759T on Nov. 11, up $178B from a year earlier",
+   "take": "FRED's WALCL series shows Federal Reserve total assets of $6,758,867M on Nov. 11, 2026, versus $6,580,462M on Nov. 12, 2025, an increase of $178.4B or 2.7% (AlphaGen calculation). AlphaGen read: the balance sheet is larger than a year ago, though it has moved little in recent weeks.",
+   "source_name": "Federal Reserve Board H.4.1 via FRED (WALCL)",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-16T17:45:15Z"
+  },
   {
    "id": "2026-11-16-fred-ig-spread-089-vs-jan-low",
    "time": "2026-11-16T16:42:37Z",
@@ -5007,50 +5047,6 @@
    "source_name": "SEC EDGAR: Liberty Media Form 8-K, Nov. 5, 2026",
    "source_url": "https://www.sec.gov/Archives/edgar/data/0001560385/000156038526000028/lmca-20261105x8k.htm",
    "checked": "2026-11-07T11:43:51Z"
-  },
-  {
-   "id": "2026-11-06-chtr-q3-8k",
-   "time": "2026-11-07T01:46:45Z",
-   "tag": "EARNINGS",
-   "headline": "Charter files 8-K on third-quarter 2026 results press release",
-   "take": "Charter Communications filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing results for the third quarter ended September 30, 2026. The press release is furnished as Exhibit 99.1; the 8-K itself carries no financial figures. Investors looking for subscriber and margin detail will need the exhibit rather than the filing body.",
-   "source_name": "SEC EDGAR: Charter Communications Form 8-K, Nov. 6, 2026",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001091667/000109166726000072/chtr-20261106.htm",
-   "ticker": "NASDAQ:CHTR",
-   "checked": "2026-11-07T01:43:45Z"
-  },
-  {
-   "id": "2026-11-06-mrna-q3-8k",
-   "time": "2026-11-07T01:55:45Z",
-   "tag": "EARNINGS",
-   "headline": "Moderna files 8-K on third-quarter 2026 results press release",
-   "take": "Moderna filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing financial results for the third quarter ended September 30, 2026, furnished as Exhibit 99.1. The 8-K body contains no revenue, loss or guidance figures. Those details sit in the exhibit.",
-   "source_name": "SEC EDGAR: Moderna Form 8-K, Nov. 6, 2026",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001682852/000168285226000194/mrna-20261106.htm",
-   "ticker": "NASDAQ:MRNA",
-   "checked": "2026-11-07T01:43:45Z"
-  },
-  {
-   "id": "2026-11-06-kop-q3-8k",
-   "time": "2026-11-07T02:04:45Z",
-   "tag": "EARNINGS",
-   "headline": "Koppers Holdings files 8-K on third-quarter 2026 results release",
-   "take": "Koppers Holdings filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing third quarter of 2026 results, furnished as Exhibit 99.1. The filing body states no financial figures. The release is the place to check segment detail.",
-   "source_name": "SEC EDGAR: Koppers Holdings Form 8-K, Nov. 6, 2026",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001315257/000131525726000056/kop-20261106.htm",
-   "ticker": "NYSE:KOP",
-   "checked": "2026-11-07T01:43:45Z"
-  },
-  {
-   "id": "2026-11-06-nodk-q3-8k",
-   "time": "2026-11-07T02:13:45Z",
-   "tag": "EARNINGS",
-   "headline": "NI Holdings files 8-K with results for quarter ended Sept. 30, 2026",
-   "take": "NI Holdings, the Fargo, North Dakota-based insurance holding company, filed a Form 8-K under Item 2.02 stating that on November 6, 2026 it issued a press release announcing financial results for the quarter ended September 30, 2026. The release is attached as Exhibit 99.1 and the filing body contains no figures. Underwriting results will have to be read from the exhibit.",
-   "source_name": "SEC EDGAR: NI Holdings Form 8-K, Nov. 6, 2026",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001681206/000117494726000965/form8k-36475_nodk.htm",
-   "ticker": "NASDAQ:NODK",
-   "checked": "2026-11-07T01:43:45Z"
   }
  ]
 }
