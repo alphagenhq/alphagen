@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-16T22:38:36Z",
+  "updated": "2026-11-16T23:44:27Z",
   "items": [
+    {
+      "id": "2026-11-16-bea-q3-inventories-wholesale-manufacturing",
+      "time": "2026-11-17T00:22:27Z",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 inventory build led by wholesale trade and manufacturing, nondurable goods",
+      "take": "BEA said the increase in Q3 investment primarily reflected private inventory investment and equipment. The largest contributors to inventory investment were wholesale trade and manufacturing, both led by nondurable goods industries, based primarily on Census Bureau inventory book value data. AlphaGen read: inventories and equipment are the two named drivers of the Q3 investment increase behind 3.4% real GDP growth at an annual rate; BEA's second estimate is due Nov. 25.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-16T23:44:27Z"
+    },
+    {
+      "id": "2026-11-16-bea-sept-income-vs-prices",
+      "time": "2026-11-17T00:10:27Z",
+      "tag": "MACRO",
+      "headline": "September: personal income +0.2% while PCE prices rose 0.5%, versus +0.3% each in August",
+      "take": "BEA's table shows current-dollar personal income rose 0.2% in September after 0.3% in August, while the PCE price index rose 0.5% after 0.3%. Real disposable personal income fell 0.3% in September after no change in August. AlphaGen read: prices outran income growth in the month, which is the arithmetic behind the decline in real disposable income.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-16T23:44:27Z"
+    },
+    {
+      "id": "2026-11-16-bls-oct-payrolls-three-month-avg-137k",
+      "time": "2026-11-16T23:58:27Z",
+      "tag": "MACRO",
+      "headline": "Payrolls: Aug-Oct gains average 137,000 after revisions, using 186,000, 60,000 and 165,000",
+      "take": "After BLS revised August to +186,000 and September to +60,000, and reported October at +165,000, the three months total 411,000, an average of 137,000 a month (AlphaGen calculation). BLS said August and September combined are 84,000 higher than previously reported. AlphaGen read: the three-month average is well above the 48,000 average monthly gain BLS cites for the prior 12 months.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-16T23:44:27Z"
+    },
+    {
+      "id": "2026-11-16-bls-oct-avg-hourly-earnings-3800",
+      "time": "2026-11-16T23:46:27Z",
+      "tag": "MACRO",
+      "headline": "Average hourly earnings rose 14 cents to $38.00 in October, up 3.1% in 12 months",
+      "take": "BLS reported average hourly earnings for all private nonfarm employees rose 14 cents, or 0.4%, to $38.00 in October, and are up 3.1% over the past 12 months. For production and nonsupervisory employees, hourly earnings rose 12 cents, or 0.4%, to $32.75. AlphaGen read: pay growth of 3.1% over 12 months sits below the 3.6% 12-month September PCE inflation rate BEA reported, though the two series cover different months.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-16T23:44:27Z"
+    },
     {
       "id": "2026-11-16-vujcic-ipo-dotcom",
       "time": "2026-11-16T22:38:36Z",
@@ -4999,46 +5039,6 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
       "time": "2026-11-10T20:24:00Z",
       "checked": "2026-11-10T19:39:12Z"
-    },
-    {
-      "id": "2026-11-10-cpi-oct-headline",
-      "tag": "MACRO",
-      "headline": "October CPI rises 0.4% after 0.6% in September; core up 0.3%",
-      "take": "BLS reported the CPI-U increased 0.4% seasonally adjusted in October after rising 0.6% in September, and the index for all items less food and energy rose 0.3%, as it did in September and August. The not seasonally adjusted index rose 0.2% to 337.511. Core running at 0.3% for a third straight month is the pace to watch against the energy-driven headline swings.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "time": "2026-11-10T18:40:16Z",
-      "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-cpi-oct-energy-food",
-      "tag": "MACRO",
-      "headline": "CPI: energy up 0.7% in October after 5.2% in September; food up 0.5%",
-      "take": "The BLS energy index rose 0.7% in October following a 5.2% increase in September, with gasoline up 1.0% seasonally adjusted (down 0.7% before seasonal adjustment) and electricity up 0.9%. Food rose 0.5%, with food at home up 0.4% and food away from home up 0.5%. Energy's contribution cooled sharply from September, but grocery and restaurant prices both firmed.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "time": "2026-11-10T18:48:16Z",
-      "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-cpi-oct-shelter-core",
-      "tag": "MACRO",
-      "headline": "CPI shelter rises 0.3% in October; used cars fall 1.2%, motor vehicle insurance up 0.7%",
-      "take": "The BLS shelter index rose 0.3% in October after 0.4% in September, with owners' equivalent rent up 0.3% and rent up 0.2%, and shelter accounted for over thirty percent of the monthly all-items increase. Used cars and trucks fell 1.2% after rising 0.7%, while motor vehicle insurance rose 0.7% and recreation rose 0.8%. Offsetting moves in vehicles and services kept core at 0.3%.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "time": "2026-11-10T18:56:16Z",
-      "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-cpi-oct-no-12-month",
-      "tag": "MACRO",
-      "headline": "BLS cannot publish most 12-month CPI changes for October; gasoline up 37.4% on year",
-      "take": "BLS said it did not collect October 2025 survey data because of a lapse in appropriations, so it cannot publish October 2026 12-month changes for indexes lacking October 2025 values; the headline all-items 12-month rate is shown as unavailable. Where published, gasoline was up 37.4% over 12 months and used cars and trucks down 3.3%. That leaves monthly changes as the main inflation read from this release.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "time": "2026-11-10T19:04:16Z",
-      "checked": "2026-11-10T18:38:16Z"
     }
   ]
 }
