@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-16T18:38:03Z",
+  "updated": "2026-11-16T19:39:19Z",
   "items": [
+    {
+      "id": "2026-11-16-warsh-si-general-purpose-tech",
+      "time": "2026-11-16T19:42:19Z",
+      "tag": "FED",
+      "headline": "Warsh calls \"super intelligence\" a general-purpose technology that demands Fed attention",
+      "take": "Opening the Productivity and Jobs Task Force Conference in San Francisco, Chairman Warsh called the arrival of \"super intelligence\" an \"entirely new force in economic life and society.\" He said the Fed's role is \"neither advocacy nor opposition,\" but that wide adoption will have significant impact on the economy, with implications for monetary policy \"down the road.\" AlphaGen read: the Chairman is framing AI as a policy input to plan for, not a call on rates.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "checked": "2026-11-16T19:39:19Z"
+    },
+    {
+      "id": "2026-11-16-warsh-productivity-not-yet-breakout",
+      "time": "2026-11-16T19:52:19Z",
+      "tag": "FED",
+      "headline": "Warsh: productivity growth \"reasonably strong\" lately but no definitive breakout yet",
+      "take": "Chairman Warsh said productivity growth has fluctuated and, in recent quarters, \"it's been reasonably strong,\" but \"it hasn't yet broken out definitively and structurally to the upside.\" He cited Bloom, Jones and coauthors: research efforts have increased more than 20 times since the 1930s, yet research productivity has fallen by an even larger amount. AlphaGen read: the Chairman did not claim an AI productivity boom is yet visible in the data.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "checked": "2026-11-16T19:39:19Z"
+    },
+    {
+      "id": "2026-11-16-warsh-three-si-scenarios",
+      "time": "2026-11-16T20:02:19Z",
+      "tag": "FED",
+      "headline": "Warsh outlines three illustrative AI scenarios Fed staff are modeling, \"not forecasts\"",
+      "take": "Chairman Warsh said Board staff have begun evaluating contingencies with stylized, model-based frameworks: broadly shared gains with real GDP growth persistently above its long-run average; labor market disruption that could push the jobless rate above levels consistent with full employment; or a disappointment in which equity valuations fall, bringing a slowdown and a more notable rise in unemployment. He called them \"illustrative scenarios, not forecasts.\" AlphaGen read: the spread of outcomes shows why the Fed describes this as planning rather than predicting.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "checked": "2026-11-16T19:39:19Z"
+    },
+    {
+      "id": "2026-11-16-warsh-five-task-forces-one-fed",
+      "time": "2026-11-16T20:12:19Z",
+      "tag": "FED",
+      "headline": "Warsh: Productivity and Jobs panel is one of five task forces he has convened",
+      "take": "Chairman Warsh said the Productivity and Jobs Task Force is \"one of five\" he has convened as Chairman, meant to take discussion \"further and deeper than fleeting data points or daily market moves.\" He called the groups an intellectual investment to better equip the Fed \"for the next policy conjuncture and beyond,\" under the theme \"One Fed. Fit for Purpose. Focused on the Future.\" AlphaGen read: the task forces signal a longer-horizon framing alongside meeting-by-meeting data.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "checked": "2026-11-16T19:39:19Z"
+    },
+    {
+      "id": "2026-11-16-warsh-risks-bad-actors-infrastructure",
+      "time": "2026-11-16T20:22:19Z",
+      "tag": "FED",
+      "headline": "Warsh flags AI risks to critical infrastructure, including from \"bad actors\"",
+      "take": "Chairman Warsh said \"great opportunities rarely come risk free,\" noting that super intelligence \"empowers all, including bad actors,\" and that the Fed is thinking especially of \"critical infrastructures and their potential vulnerabilities.\" He posed open questions on magnitude, scope and timing, including whether total factor productivity will rise and when any surge would start and taper. AlphaGen read: the speech raises questions rather than answers, consistent with his statement that the Fed is \"certainly not here to make predictions.\"",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "checked": "2026-11-16T19:39:19Z"
+    },
     {
       "id": "2026-11-16-macklem-step-down-june-2027",
       "time": "2026-11-16T18:38:03Z",
@@ -4995,56 +5045,6 @@
       "source_name": "U.S. Treasury: Quarterly Refunding Statement, Nov. 4, 2026",
       "source_url": "https://home.treasury.gov/news/press-releases/sb0678",
       "checked": "2026-11-08T13:44:06Z"
-    },
-    {
-      "id": "2026-11-08-bill-auctions-week",
-      "time": "2026-11-08T14:04:06Z",
-      "tag": "RATES",
-      "headline": "Treasury bill auctions this week: 6-, 13-, 26-week Monday; 4-, 8-, 17-week Thursday",
-      "take": "Treasury's tentative Q4 auction schedule lists 6-, 13- and 26-week bills for auction Monday, Nov. 9 (settling Nov. 12) and 4-, 8- and 17-week bills for auction Thursday, Nov. 12 (settling Nov. 17). The schedule shows no offering amounts, and Treasury labels it tentative. Wednesday, Nov. 11 is listed as a Veterans Day holiday.",
-      "source_name": "U.S. Treasury: Tentative Auction Schedule, Q4 2026",
-      "source_url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ42026.pdf",
-      "checked": "2026-11-08T13:44:06Z"
-    },
-    {
-      "id": "2026-11-08-china-cpi-ppi-nov9",
-      "time": "2026-11-08T14:14:06Z",
-      "tag": "GLOBAL",
-      "headline": "China's NBS lists October CPI and PPI releases for Monday, Nov. 9",
-      "take": "The National Bureau of Statistics of China's 2026 release calendar lists the monthly Consumer Price Index and Industrial Producer Price Index reports for Monday, Nov. 9 at 9:30. The calendar states no time zone and says dates are preliminary and subject to adjustment. The prints are the first major Chinese price data of the week and bear on global inflation readings.",
-      "source_name": "National Bureau of Statistics of China: 2026 Press Release Calendar",
-      "source_url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
-      "checked": "2026-11-08T13:44:06Z"
-    },
-    {
-      "id": "2026-11-08-china-activity-nov16",
-      "time": "2026-11-08T14:24:06Z",
-      "tag": "GLOBAL",
-      "headline": "China's October activity data due Nov. 16: output, retail sales, investment",
-      "take": "The NBS calendar lists industrial production, total retail sales of consumer goods, fixed asset investment and real estate development for Monday, Nov. 16 at 10:00, alongside the national economic performance report. The calendar states no time zone and treats dates as preliminary. The release is a key official read on China's domestic demand and property sector.",
-      "source_name": "National Bureau of Statistics of China: 2026 Press Release Calendar",
-      "source_url": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
-      "checked": "2026-11-08T13:44:06Z"
-    },
-    {
-      "id": "2026-11-08-freddie-pmms-nov5",
-      "time": "2026-11-08T00:46:33Z",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate averages 7.18%, down for third straight week",
-      "take": "Freddie Mac's Primary Mortgage Market Survey put the 30-year fixed-rate mortgage at an average of 7.18% as of Nov. 5, 2026, down from 7.24% the prior week. The 15-year fixed averaged 6.57%, down from 6.60%. A year earlier the 30-year averaged 6.22%, so the rate sits 0.96 percentage point above its year-ago level despite the recent decline.",
-      "source_name": "Freddie Mac: Primary Mortgage Market Survey, Nov. 5, 2026",
-      "source_url": "https://www.freddiemac.com/pmms",
-      "checked": "2026-11-08T00:43:33Z"
-    },
-    {
-      "id": "2026-11-07-fed-minutes-nov18",
-      "time": "2026-11-07T11:45:51Z",
-      "tag": "FED",
-      "headline": "Fed to release Oct. 27-28 FOMC minutes Nov. 18 at 2:00 p.m.",
-      "take": "The Federal Reserve Board's November calendar lists the minutes of the FOMC meeting of October 27-28 for Nov. 18 at 2:00 p.m., with the Beige Book listed for Nov. 25 at 2:00 p.m. Industrial production and capacity utilization (G.17) is listed for Nov. 17 at 9:15 a.m. The minutes are the first detailed record of the committee's discussion at that meeting.",
-      "source_name": "Federal Reserve Board: November 2026 calendar",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-07T11:43:51Z"
     }
   ]
 }
