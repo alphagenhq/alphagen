@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-13T21:40:47Z",
+ "updated": "2026-11-16T13:41:29Z",
  "items": [
+  {
+   "id": "2026-11-16-morning-brief",
+   "time": "2026-11-16T13:41:29Z",
+   "tag": "MACRO",
+   "series": "morning-brief",
+   "title": "Morning Brief: Fed's Barr on AI debt, and a week of Fed events",
+   "dek": "Governor Barr spoke on AI and financial stability in Milan, Chairman Warsh opens a conference at noon, and the October FOMC minutes arrive Wednesday.",
+   "key_points": [
+    "Federal Reserve: Governor Barr (Milan, Nov. 16) said on-balance-sheet debt of the seven largest AI firms is expected to exceed $800 billion before year's end and that he is less concerned about direct losses given the still-limited debt backing the boom.",
+    "Federal Reserve calendar: Chairman Kevin Warsh gives opening remarks at a Productivity and Jobs Task Force conference in San Francisco at 12:00 p.m.; the H.10 exchange-rate release is at 4:15 p.m.",
+    "Later this week: Governor Waller on payments Nov. 17 at 9:10 a.m.; industrial production Nov. 17 at 9:15 a.m.; FOMC minutes Nov. 18 at 2:00 p.m.; the Beige Book Nov. 25 at 2:00 p.m.",
+    "FRED: 10-year Treasury yield 5.10% on Nov. 12 (real yield 2.86%, breakeven 2.24%); initial jobless claims 200,000 for the week ended Nov. 7, a four-week average of 195,250.",
+    "Treasury: 20-year bond auction Nov. 18 and a 10-year TIPS reopening Nov. 19 (tentative schedule); Census advance retail sales for October are due Nov. 17 at 8:30 a.m. ET."
+   ],
+   "talking_points": [
+    "Does the AI borrowing boom threaten the financial system? Not on its own, according to the Fed. Governor Michael Barr said on Nov. 16 that, given the still-limited amount of debt backing the boom, he is less concerned about direct losses, though a sharp reversal could force rapid deleveraging at leveraged funds. He also said on-balance-sheet debt of the seven largest AI firms is expected to exceed $800 billion before year's end. For an everyday investor, that is a reminder to check how much of a diversified portfolio is concentrated in a few AI-linked companies.",
+    "Are interest rates still rising? Yes, through last Thursday. FRED shows the 10-year Treasury yield at 5.10% on Nov. 12, up from 4.84% on Nov. 5, and the 2-year at 4.86%, up from 4.46%. Of the 10-year yield, 2.86 points was the inflation-adjusted yield and 2.24 points was breakeven inflation. If you hold bonds or are planning a loan, note that rates can keep moving, so match borrowing and savings to when you need the money.",
+    "What should I watch this week from the Fed? The minutes of the Oct. 27-28 FOMC meeting. The Fed's calendar lists them for Wednesday, Nov. 18 at 2:00 p.m. ET, and they show how officials discussed the economy and policy at that meeting. They are background reading, not a new decision, so a long-term investor does not need to react to any single line."
+   ],
+   "body": [
+    "The Federal Reserve's calendar for Monday, Nov. 16 is led by Governor Michael Barr, who spoke at an AI-in-finance conference in Milan, and Chairman Kevin Warsh, who gives opening remarks at 12:00 p.m. at a Productivity and Jobs Task Force conference hosted by the Federal Reserve Bank of San Francisco. The H.10 foreign exchange release follows at 4:15 p.m.",
+    {
+     "h": "Barr on AI and financial stability"
+    },
+    "Barr said the Fed's latest Financial Stability Report, issued Friday, focuses on the AI investment boom and on leverage in innovative debt structures. In his words, on-balance-sheet debt of the seven largest AI firms has been growing significantly in 2026 and is expected to exceed $800 billion before year's end. The report estimates the potential maximum nominal value of off-balance-sheet obligations now exceeds $3 trillion, and he noted that hyperscalers and large GPU producers have over $100 billion in cumulative equity investments in LLM labs and cloud-computing start-ups.",
+    "Barr said that, given the still-limited amount of debt backing the current boom, he is less concerned about direct losses. He added that with leverage at hedge funds and broader risk appetite apparently quite high, a sharp reversal could lead to rapid deleveraging and, potentially, self-reinforcing fire sales. That is the distinction worth keeping: the Fed is describing a channel that could amplify a reversal, not forecasting one.",
+    {
+     "h": "Rates and the labor market"
+    },
+    "The latest FRED observations, through Nov. 12, show the 10-year Treasury yield at 5.10%, up from 4.84% on Nov. 5, and the 2-year at 4.86% from 4.46%. The 10-year inflation-indexed yield was 2.86% and the 10-year breakeven rate 2.24% on Nov. 12, which sum to the nominal yield. Initial jobless claims were 195,000, 195,000, 191,000 and 200,000 for the four weeks ended Nov. 7, a four-week average of 195,250 by AlphaGen's calculation.",
+    {
+     "h": "The week ahead"
+    },
+    "On Tuesday, Census is scheduled to release October retail sales at 8:30 a.m. ET, the Fed publishes industrial production at 9:15 a.m., and Governor Christopher Waller speaks on payments at 9:10 a.m. Wednesday brings housing starts at 8:30 a.m. and the minutes of the Oct. 27-28 FOMC meeting at 2:00 p.m. On the Treasury side, the tentative schedule lists a 20-year bond auction on Nov. 18 and a 10-year TIPS reopening on Nov. 19, both settling Nov. 30. Last week's 3-, 10- and 30-year auctions settle today."
+   ],
+   "sources": [
+    {
+     "name": "Federal Reserve Board, Governor Barr speech (Nov. 16)",
+     "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"
+    },
+    {
+     "name": "Federal Reserve Board, November 2026 calendar",
+     "url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+    },
+    {
+     "name": "FRED, Federal Reserve Bank of St. Louis, 10-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS10"
+    },
+    {
+     "name": "FRED, 10-year TIPS yield",
+     "url": "https://fred.stlouisfed.org/series/DFII10"
+    },
+    {
+     "name": "FRED, initial claims",
+     "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    {
+     "name": "U.S. Treasury, tentative auction schedule",
+     "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ42026.pdf"
+    }
+   ],
+   "checked": "2026-11-16T13:41:29Z"
+  },
   {
    "id": "2026-11-13-the-close",
    "time": "2026-11-13T21:40:47Z",
