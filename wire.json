@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-16T15:44:46Z",
+ "updated": "2026-11-16T16:39:37Z",
  "items": [
+  {
+   "id": "2026-11-16-fred-ig-spread-089-vs-jan-low",
+   "time": "2026-11-16T16:42:37Z",
+   "tag": "CREDIT",
+   "headline": "Investment-grade spread 0.89 point on Nov. 13, 0.16 above its Jan. 22 low of 0.73",
+   "take": "The ICE BofA US Corporate Index option-adjusted spread was 0.89 percentage point on Nov. 13, per FRED. That compares with 0.73 on Jan. 22, the 2026 low in the series, 0.94 on Mar. 16, the 2026 high, and 0.84 on Nov. 13, 2025. The investment-grade spread sits 0.16 point above its 2026 low and 0.05 point above a year earlier.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA US Corporate Index OAS)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+   "checked": "2026-11-16T16:39:37Z"
+  },
+  {
+   "id": "2026-11-16-fred-hy-spread-320-range",
+   "time": "2026-11-16T16:54:37Z",
+   "tag": "CREDIT",
+   "headline": "High-yield spread 3.20 points on Nov. 12, 0.28 below its Nov. 5 peak for 2026",
+   "take": "The ICE BofA US High Yield Index option-adjusted spread was 3.20 percentage points on Nov. 12, per FRED. The 2026 range in the series runs from 2.60 on Aug. 28 to 3.48 on Nov. 5, and the spread was 3.02 on Nov. 12, 2025. The Nov. 12 reading is 0.28 point below the Nov. 5 high, 0.60 above the August low and 0.18 above a year earlier.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA US High Yield Index OAS)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-16T16:39:37Z"
+  },
+  {
+   "id": "2026-11-16-fred-5y5y-forward-breakeven-218",
+   "time": "2026-11-16T17:06:37Z",
+   "tag": "RATES",
+   "headline": "Implied 5y5y forward breakeven inflation 2.18% on Nov. 13 vs 2.22% on Nov. 5",
+   "take": "AlphaGen computed the implied 5-year, 5-year-forward breakeven from FRED's 5-year (2.30%) and 10-year (2.24%) breakeven rates on Nov. 13, using (10 x 10-year - 5 x 5-year) / 5, which gives 2.18%. The same calculation gives 2.22% on Nov. 5 (2.26% and 2.24%) and 2.19% on Nov. 13, 2025 (2.37% and 2.28%). The implied forward rate was 0.04 point lower than on Nov. 5 and 0.01 point lower than a year earlier.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE, T10YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+   "checked": "2026-11-16T16:39:37Z"
+  },
+  {
+   "id": "2026-11-16-census-new-home-months-supply-84",
+   "time": "2026-11-16T17:18:37Z",
+   "tag": "HOUSING",
+   "headline": "New-home months' supply 8.4 in September, lowest since December 2025",
+   "take": "The monthly supply of new houses for sale was 8.4 months in September, per Census Bureau data on FRED, down from 8.5 in August and up from 8.2 in September 2025. The 2026 high was 9.9 months in January, and the last reading at or below 8.4 was 7.9 in December 2025.",
+   "source_name": "U.S. Census Bureau via FRED (Monthly Supply of New Houses)",
+   "source_url": "https://fred.stlouisfed.org/series/MSACSR",
+   "checked": "2026-11-16T16:39:37Z"
+  },
   {
    "id": "2026-11-16-q3-gdp-vs-final-sales-gap",
    "time": "2026-11-16T15:50:00Z",
@@ -5011,48 +5051,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/0001681206/000117494726000965/form8k-36475_nodk.htm",
    "ticker": "NASDAQ:NODK",
    "checked": "2026-11-07T01:43:45Z"
-  },
-  {
-   "id": "2026-11-06-egy-q3-8k",
-   "time": "2026-11-07T02:22:45Z",
-   "tag": "EARNINGS",
-   "headline": "VAALCO Energy files 8-K on Q3 results and fourth-quarter 2026 guidance",
-   "take": "VAALCO Energy filed a Form 8-K stating that on November 5, 2026 it issued a press release announcing third-quarter 2026 results and guidance for the fourth quarter of 2026. A conference call was set for 8:00 a.m. Central Time on Friday, November 6, 2026. The figures are in Exhibit 99.1, not in the filing body.",
-   "source_name": "SEC EDGAR: VAALCO Energy Form 8-K, Nov. 5, 2026",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000894627/000089462726000058/egy-20261105.htm",
-   "ticker": "NYSE:EGY",
-   "checked": "2026-11-07T01:43:45Z"
-  },
-  {
-   "id": "2026-11-06-praa-q3-8k",
-   "time": "2026-11-07T02:31:45Z",
-   "tag": "EARNINGS",
-   "headline": "PRA Group files 8-K on third-quarter 2026 results; slides posted to IR site",
-   "take": "PRA Group filed a Form 8-K stating that on November 5, 2026 it issued a press release announcing third-quarter 2026 results, furnished as Exhibit 99.1. Under Item 7.01 it said the slide presentation for the November 5 webcast and conference call is available in the Investor Relations section of its website. The filing body contains no financial figures.",
-   "source_name": "SEC EDGAR: PRA Group Form 8-K, Nov. 5, 2026",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001185348/000118534826000033/praa-20261105.htm",
-   "ticker": "NASDAQ:PRAA",
-   "checked": "2026-11-07T01:43:45Z"
-  },
-  {
-   "id": "2026-11-06-bls-oct-payrolls",
-   "time": "2026-11-06T23:51:58Z",
-   "tag": "MACRO",
-   "headline": "October payrolls rise 165,000; unemployment rate 4.1%",
-   "take": "BLS reported total nonfarm payroll employment rose by 165,000 in October and the unemployment rate changed little at 4.1%, with 7.1 million people unemployed. The rate has stayed in a range of 4.1% to 4.3% since March. The October gain is well above the 12-month average monthly gain of 48,000 that BLS cites, which frames the month as a pickup rather than a trend.",
-   "source_name": "BLS Employment Situation Summary, October 2026",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-06T23:43:58Z"
-  },
-  {
-   "id": "2026-11-06-bls-oct-revisions",
-   "time": "2026-11-07T00:01:58Z",
-   "tag": "MACRO",
-   "headline": "BLS revises August, September payrolls up by a combined 84,000",
-   "take": "BLS revised August payroll growth up 53,000 to +186,000 and September up 31,000 to +60,000. Together the two months are 84,000 higher than previously reported (53,000 + 31,000). The upward revisions mean September's initial +29,000 reading understated hiring by more than half of the revised figure.",
-   "source_name": "BLS Employment Situation Summary, October 2026",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-06T23:43:58Z"
   }
  ]
 }
