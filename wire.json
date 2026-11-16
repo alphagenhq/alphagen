@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-16T00:45:00Z",
+  "updated": "2026-11-16T01:39:43Z",
   "items": [
+    {
+      "id": "2026-11-16-fred-industrial-production-sep-vs-year-ago",
+      "time": "2026-11-16T01:45:00Z",
+      "tag": "MACRO",
+      "headline": "Industrial production index 103.95 in September, up 2.3% from a year earlier",
+      "take": "FRED shows the industrial production index at 103.9506 for September 2026 versus 101.6680 for September 2025, a gain of 2.3% (computed). The index also stood above its 103.2664 August reading. AlphaGen read: output is running modestly above last year's level, a firmer backdrop than the housing data show.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (INDPRO)",
+      "source_url": "https://fred.stlouisfed.org/series/INDPRO",
+      "checked": "2026-11-16T01:39:43Z"
+    },
+    {
+      "id": "2026-11-16-fred-retail-sales-sep-vs-year-ago",
+      "time": "2026-11-16T01:53:00Z",
+      "tag": "MACRO",
+      "headline": "Retail sales $745.0B in September, up 6.3% from $700.9B a year earlier",
+      "take": "FRED's retail and food services sales series was $745,021 million in September 2026 versus $700,948 million in September 2025, a nominal gain of 6.3% (computed). AlphaGen read: the comparison is in current dollars, so it includes price increases, and the year-over-year pace is well above the 3.6% PCE price inflation rate the BEA reported for September.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (RSAFS)",
+      "source_url": "https://fred.stlouisfed.org/series/RSAFS",
+      "checked": "2026-11-16T01:39:43Z"
+    },
+    {
+      "id": "2026-11-16-fred-existing-home-sales-oct-vs-year-ago",
+      "time": "2026-11-16T02:01:00Z",
+      "tag": "HOUSING",
+      "headline": "Existing-home sales 3.75M in October, down 8.8% from 4.11M a year earlier",
+      "take": "FRED's existing-home sales series shows 3.75 million for October 2026 against 4.11 million for October 2025, a decline of 360,000 or 8.8% (computed). September was 3.97 million. AlphaGen read: with the 30-year mortgage rate at 7.11% on Nov. 12, resale activity remains well below last year's pace.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (EXHOSLUSM495S)",
+      "source_url": "https://fred.stlouisfed.org/series/EXHOSLUSM495S",
+      "checked": "2026-11-16T01:39:43Z"
+    },
+    {
+      "id": "2026-11-16-fred-starts-permits-sep-vs-year-ago",
+      "time": "2026-11-16T02:09:00Z",
+      "tag": "HOUSING",
+      "headline": "Housing starts 1.221M in September, down 7.4% on the year; permits down 3.2%",
+      "take": "FRED shows housing starts at 1,221 thousand in September 2026 versus 1,319 thousand a year earlier (-7.4%, computed) and building permits at 1,398 thousand versus 1,444 thousand (-3.2%, computed). AlphaGen read: permits have fallen less than starts, consistent with the gap between the two that has widened since July.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (HOUST)",
+      "source_url": "https://fred.stlouisfed.org/series/HOUST",
+      "checked": "2026-11-16T01:39:43Z"
+    },
+    {
+      "id": "2026-11-16-fred-fed-vs-ecb-rates-vs-year-ago",
+      "time": "2026-11-16T02:17:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB deposit rate 2.50% vs 2.00% a year ago; Fed target range unchanged at 3.75%-4.00%",
+      "take": "FRED shows the ECB deposit facility rate at 2.50% on Nov. 13, 2026, versus 2.00% on Nov. 13, 2025, while the Fed's federal funds target range is 3.75%-4.00% on both dates. The effective federal funds rate was 3.88% on Nov. 12, versus 3.87% a year earlier. AlphaGen read: the ECB has moved 50 bp over the past year while the Fed has held its range.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (ECBDFR)",
+      "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
+      "checked": "2026-11-16T01:39:43Z"
+    },
+    {
+      "id": "2026-11-16-fred-3m-bill-vs-year-ago-nov12",
+      "time": "2026-11-16T02:25:00Z",
+      "tag": "RATES",
+      "headline": "3-month Treasury yield 4.32% on Nov. 12, up from 3.95% a year earlier",
+      "take": "FRED shows the 3-month constant-maturity Treasury yield at 4.32% on Nov. 12, 2026, versus 3.95% on Nov. 12, 2025, a rise of 37 bp (computed). The Fed's target range was 3.75%-4.00% on both dates. AlphaGen read: the bill yield now sits above the top of the range, while it sat below the top a year ago.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS3MO)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
+      "checked": "2026-11-16T01:39:43Z"
+    },
+    {
+      "id": "2026-11-16-fred-payrolls-oct-vs-year-ago-level",
+      "time": "2026-11-16T02:33:00Z",
+      "tag": "MACRO",
+      "headline": "Payroll employment 159.293M in October, up 885,000 from a year earlier",
+      "take": "FRED shows total nonfarm payroll employment at 159,293 thousand in October 2026 versus 158,408 thousand in October 2025, an increase of 885,000 or 0.6% (computed). BLS reported that October payrolls rose 165,000 on the month. AlphaGen read: the year-over-year gain averages roughly 74,000 a month, below the October monthly gain.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (PAYEMS)",
+      "source_url": "https://fred.stlouisfed.org/series/PAYEMS",
+      "checked": "2026-11-16T01:39:43Z"
+    },
     {
       "id": "2026-11-16-treasury-20y-bond-tips-reopening-week",
       "time": "2026-11-16T00:47:00Z",
@@ -5010,83 +5080,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/0000071691/000007169126000039/pressrelease9302026.htm",
       "ticker": "NYSE:NYT",
       "checked": "2026-11-04T16:45:10Z"
-    },
-    {
-      "id": "2026-11-04-fis-q3",
-      "time": "2026-11-04T16:57:10Z",
-      "tag": "EARNINGS",
-      "headline": "FIS Q3 revenue $3,454M vs $2,717M; GAAP diluted EPS $0.69 vs $0.50",
-      "take": "FIS reported third-quarter 2026 GAAP revenue of $3,454 million versus $2,717 million, an increase of 27%, with GAAP net earnings attributable to common stockholders of $356 million, or $0.69 per diluted share. It updated its full-year outlook to adjusted revenue growth of 28-29%. The company states pro forma revenue growth of 3.1-3.6%, a reminder that reported growth reflects portfolio changes.",
-      "source_name": "FIS 8-K Exhibit 99.1, Q3 2026 results (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001136893/000113689326000061/q32026ex991.htm",
-      "ticker": "NYSE:FIS",
-      "checked": "2026-11-04T16:45:10Z"
-    },
-    {
-      "id": "2026-11-04-mdln-q3",
-      "time": "2026-11-04T17:07:10Z",
-      "tag": "EARNINGS",
-      "headline": "Medline Q3 net sales $7.9B, up 10.4%; raises FY organic sales growth outlook",
-      "take": "Medline reported third-quarter 2026 net sales of $7.9 billion versus $7.1 billion, up 10.4%, with organic sales up 10.5% and diluted EPS of $0.22. It raised its full-year 2026 organic sales growth outlook to 10.0% to 10.5% from 9.0% to 10.0% and reaffirmed Adjusted EBITDA of $3.3 billion to $3.4 billion. The company says that outlook excludes IEEPA tariff refunds, so reported profit and guidance are not on the same basis.",
-      "source_name": "Medline Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/04/3395210/0/en/medline-reports-third-quarter-and-nine-months-2026-results.html",
-      "ticker": "NASDAQ:MDLN",
-      "checked": "2026-11-04T16:45:10Z"
-    },
-    {
-      "id": "2026-11-04-cigi-q3",
-      "time": "2026-11-04T17:17:10Z",
-      "tag": "EARNINGS",
-      "headline": "Colliers Q3 revenue $1.64B, up 12%; cuts 2026 growth outlook to low teens",
-      "take": "Colliers reported third-quarter 2026 revenues of $1.64 billion, up 12%, with adjusted EBITDA of $218.8 million and GAAP diluted EPS of $0.14 versus $0.82. It revised its 2026 outlook for revenue, adjusted EBITDA and adjusted EPS growth to low teens from mid teens. The company cited geopolitical uncertainty and interest rate volatility.",
-      "source_name": "Colliers Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/04/3395181/0/en/colliers-reports-third-quarter-results.html",
-      "ticker": "NASDAQ:CIGI",
-      "checked": "2026-11-04T16:45:10Z"
-    },
-    {
-      "id": "2026-11-04-cfp-q3",
-      "time": "2026-11-04T17:27:10Z",
-      "tag": "COMMODITIES",
-      "headline": "Canfor Q3 sales C$1,284.8M; net loss C$88.2M, adjusted EBITDA C$98.1M",
-      "take": "Canfor reported third-quarter 2026 sales of C$1,284.8 million versus C$1,259.8 million and a net loss of C$88.2 million, or C$0.75 per share, versus a C$172.4 million loss a year earlier. Adjusted EBITDA was C$98.1 million versus a C$13.7 million loss. Canfor said it anticipates lumber markets will soften through the fourth quarter on seasonal and weaker underlying demand.",
-      "source_name": "Canfor Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/04/3395164/0/en/canfor-reports-results-for-the-third-quarter-of-2026.html",
-      "ticker": "TSX:CFP",
-      "checked": "2026-11-04T16:45:10Z"
-    },
-    {
-      "id": "2026-11-04-ddog-q3",
-      "time": "2026-11-04T14:46:37Z",
-      "tag": "EARNINGS",
-      "headline": "Datadog Q3 revenue $1.20B, up 35%; GAAP diluted EPS $0.32 vs $0.10",
-      "take": "Datadog reported third-quarter 2026 revenue of $1,197.1 million versus $885.7 million a year earlier, a 35.2% increase, with GAAP net income of $118.3 million and GAAP diluted EPS of $0.32 versus $0.10. It guided fourth-quarter revenue to $1.19-$1.20 billion and full-year revenue to $4.515-$4.525 billion. Q4 guidance brackets Q3's level, so sequential growth is the item to watch.",
-      "source_name": "Datadog Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/04/3395166/0/en/datadog-announces-third-quarter-2026-financial-results.html",
-      "ticker": "NASDAQ:DDOG",
-      "checked": "2026-11-04T14:44:37Z"
-    },
-    {
-      "id": "2026-11-04-mlm-q3-guidance",
-      "time": "2026-11-04T14:57:37Z",
-      "tag": "EARNINGS",
-      "headline": "Martin Marietta Q3 revenue $2,369M vs $1,846M; adjusted EBITDA $808M; updates guidance",
-      "take": "Martin Marietta reported Q3 2026 revenues of $2,369 million versus $1,846 million (28.3% higher) and adjusted EBITDA from continuing operations of $808 million versus $667 million; diluted EPS from continuing operations was $3.94 versus $5.97. The company said the LNA combination closed Aug. 21, 2026 and updated full-year guidance to midpoints of $7,800 million revenue and $2,475 million adjusted EBITDA. Acquired revenue lifted the top line while per-share earnings fell, a gap worth tracking.",
-      "source_name": "Martin Marietta Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/04/3395136/0/en/martin-marietta-reports-record-third-quarter-2026-results-and-updates-full-year-2026-guidance.html",
-      "ticker": "NYSE:MLM",
-      "checked": "2026-11-04T14:44:37Z"
-    },
-    {
-      "id": "2026-11-04-rprx-q3-guidance",
-      "time": "2026-11-04T15:08:37Z",
-      "tag": "EARNINGS",
-      "headline": "Royalty Pharma Q3 Portfolio Receipts $890M, up 9%; raises 2026 guidance",
-      "take": "Royalty Pharma reported Q3 2026 Portfolio Receipts of $890 million versus $814 million, up 9%, and raised 2026 Portfolio Receipts guidance to $3,500-$3,550 million from $3,400-$3,500 million. It also recorded a $150 million non-cash impairment related to pelacarsen. Receipts growth and the impairment point in different directions for reported earnings.",
-      "source_name": "Royalty Pharma Q3 2026 results release (GlobeNewswire)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/04/3395176/0/en/royalty-pharma-reports-third-quarter-2026-results.html",
-      "ticker": "NASDAQ:RPRX",
-      "checked": "2026-11-04T14:44:37Z"
     }
   ]
 }
