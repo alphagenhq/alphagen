@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-16T13:40:59Z",
+ "updated": "2026-11-16T14:45:01Z",
  "items": [
+  {
+   "id": "2026-11-16-cpi-oct-all-items-path",
+   "time": "2026-11-16T14:43:11Z",
+   "tag": "MACRO",
+   "headline": "CPI all items rose in six of seven months through October; June's -0.4% the lone decline",
+   "take": "BLS Table A shows seasonally adjusted monthly CPI-U changes of +0.6% in April, +0.5% in May, -0.4% in June, +0.1% in July, +0.4% in August, +0.6% in September and +0.4% in October. BLS could not publish a 12-month change for October because October 2025 data were not collected during the lapse in appropriations. AlphaGen read: compounding those rounded monthly figures gives roughly 2.2% over the seven months, an approximation rather than a BLS statistic.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-16T14:45:01Z"
+  },
+  {
+   "id": "2026-11-16-cpi-oct-core-goods-four-gains",
+   "time": "2026-11-16T14:55:11Z",
+   "tag": "MACRO",
+   "headline": "CPI core goods rose four straight months through October after two declines",
+   "take": "The BLS index for commodities less food and energy commodities changed 0.0% in April, -0.1% in May, -0.1% in June, then rose 0.2% in July, 0.1% in August, 0.3% in September and 0.2% in October (seasonally adjusted). AlphaGen read: the index has risen in each of the last four months, though the monthly moves are small.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-16T14:45:01Z"
+  },
+  {
+   "id": "2026-11-16-cpi-oct-new-vehicles-four-gains",
+   "time": "2026-11-16T15:07:11Z",
+   "tag": "MACRO",
+   "headline": "CPI new vehicles up four straight months to October; 0.7% over 12 months",
+   "take": "BLS reports the new vehicles index fell 0.2% in April and 0.3% in May, was unchanged in June, then rose 0.1% in July, 0.3% in August, 0.2% in September and 0.2% in October (seasonally adjusted). The unadjusted 12-month change through October 2026 is +0.7%. AlphaGen read: that contrasts with used cars and trucks, which fell 1.2% in October and 3.3% over 12 months.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-16T14:45:01Z"
+  },
+  {
+   "id": "2026-11-16-cpi-oct-energy-commodities-path",
+   "time": "2026-11-16T15:19:11Z",
+   "tag": "ENERGY",
+   "headline": "CPI energy commodities +0.8% in October after +9.3% in September; June and July fell",
+   "take": "BLS Table A shows energy commodities rising 5.6% in April and 6.7% in May, falling 9.5% in June and 2.9% in July, then rising 4.2% in August, 9.3% in September and 0.8% in October (seasonally adjusted). Gasoline, a component, was up 1.0% in October and 37.4% over 12 months before seasonal adjustment. AlphaGen read: October's gain was the smallest since the July decline, so the September surge was not repeated.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-16T14:45:01Z"
+  },
   {
    "id": "2026-11-16-barr-ai-debt-800b",
    "time": "2026-11-16T13:42:59Z",
@@ -5015,50 +5055,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/0001760965/000176096526000072/ktb-20261105.htm",
    "ticker": "NYSE:KTB",
    "checked": "2026-11-05T23:43:32Z"
-  },
-  {
-   "id": "2026-11-05-enov-q3-8k",
-   "time": "2026-11-06T00:14:32Z",
-   "tag": "EARNINGS",
-   "headline": "Enovis files 8-K on results for quarter ended Oct. 2, 2026",
-   "take": "Enovis' Nov. 5, 2026 8-K says the company issued a press release reporting financial results for the third quarter ended Oct. 2, 2026, attached as Exhibit 99.1, and scheduled a conference call for 8:30 a.m. Eastern on Nov. 5. The cover filing does not state the reported figures.",
-   "source_name": "Enovis Form 8-K, Nov. 5, 2026 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0001420800/000142080026000052/cfx-20261105.htm",
-   "ticker": "NYSE:ENOV",
-   "checked": "2026-11-05T23:43:32Z"
-  },
-  {
-   "id": "2026-11-05-tdc-q3-8k",
-   "time": "2026-11-06T00:28:32Z",
-   "tag": "EARNINGS",
-   "headline": "Teradata files 8-K with Q3 2026 results and Q4, full-year outlook estimates",
-   "take": "Teradata's Nov. 5, 2026 8-K says the company issued a press release setting out its third-quarter fiscal 2026 operating results and current outlook estimates for the fourth quarter and full-year 2026, furnished as Exhibit 99.1. The cover filing does not itself state the figures or the outlook ranges.",
-   "source_name": "Teradata Form 8-K, Nov. 5, 2026 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000816761/000162828026071034/tdc-20261105.htm",
-   "ticker": "NYSE:TDC",
-   "checked": "2026-11-05T23:43:32Z"
-  },
-  {
-   "id": "2026-11-05-nova-q3",
-   "time": "2026-11-05T22:50:00Z",
-   "tag": "EARNINGS",
-   "headline": "Nova Q3 revenue $287.8M, up 28%; GAAP EPS $2.64 vs $1.90",
-   "take": "Nova reported third-quarter 2026 revenue of $287.8 million versus $224.6 million a year earlier, and GAAP net income of $90.0 million, or $2.64 per diluted share, versus $61.4 million, or $1.90. For the fourth quarter it guided revenue of $305 million to $315 million and diluted GAAP EPS of $2.78 to $2.93. Revenue and earnings both grew by more than a quarter year over year, and the company's own outlook implies further sequential revenue growth.",
-   "source_name": "Nova Q3 2026 results release (PR Newswire, Nov. 5, 2026)",
-   "source_url": "https://www.prnewswire.com/il/news-releases/nova-reports-record-third-quarter-2026-financial-results-302930609.html",
-   "ticker": "NASDAQ:NVMI",
-   "checked": "2026-11-05T22:47:19Z"
-  },
-  {
-   "id": "2026-11-05-nfi-q3",
-   "time": "2026-11-05T22:59:00Z",
-   "tag": "EARNINGS",
-   "headline": "NFI Q3 revenue $1,007.4M, up 14.5%; adjusted EBITDA $108.7M",
-   "take": "NFI Group reported third-quarter 2026 revenue of $1,007.4 million versus $879.9 million a year earlier, adjusted EBITDA of $108.7 million versus $80.9 million, and net earnings of $0.1 million versus a net loss of $140.9 million. It raised the low end of its 2026 adjusted EBITDA guidance by $10 million to a $395 million to $415 million range, with revenue guidance unchanged at $4,000 million to $4,200 million. The swing from a large loss to roughly breakeven was the main change in the quarter.",
-   "source_name": "NFI Group Q3 2026 results release (GlobeNewswire, Nov. 5, 2026)",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3397206/0/en/nfi-reports-third-quarter-2026-results.html",
-   "ticker": "TSX:NFI",
-   "checked": "2026-11-05T22:47:19Z"
   }
  ]
 }
