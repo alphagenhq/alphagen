@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-16T21:38:50Z",
+  "updated": "2026-11-16T22:38:36Z",
   "items": [
+    {
+      "id": "2026-11-16-vujcic-ipo-dotcom",
+      "time": "2026-11-16T22:38:36Z",
+      "tag": "EQUITIES",
+      "headline": "ECB's Vujčić: IPO volumes on track to exceed dot-com high relative to U.S. GDP",
+      "take": "In his Nov. 16 Euro Finance Week speech, ECB Vice-President Boris Vujčić said equity issuance is surging, with IPO volumes now on track to exceed the dot-com bubble high relative to U.S. GDP. He added that such surges have historically often coincided with market peaks, pointing to the risk of excessive investor optimism. AlphaGen read: the ECB is treating issuance volume itself, not just valuations, as a stability signal.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "checked": "2026-11-16T22:38:36Z"
+    },
+    {
+      "id": "2026-11-16-vujcic-fsr-date",
+      "time": "2026-11-16T22:47:36Z",
+      "tag": "GLOBAL",
+      "headline": "Vujčić: ECB publishes its Financial Stability Review two days after Nov. 16 speech",
+      "take": "Vujčić said the ECB publishes its latest Financial Stability Review two days after his Nov. 16 remarks, and that an early-release special feature on AI-related cyber capabilities and concentration of ICT third-party providers was published that day. He named AI and sovereign debt markets as the two risks that stand out most versus a year ago. AlphaGen read: the full review lands this week and should expand on both themes.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "checked": "2026-11-16T22:38:36Z"
+    },
+    {
+      "id": "2026-11-16-vujcic-underlying-wages",
+      "time": "2026-11-16T22:56:36Z",
+      "tag": "GLOBAL",
+      "headline": "Vujčić: euro-area underlying inflation stable, wages not responding materially yet",
+      "take": "Vujčić said euro-area headline inflation rose to 4% in October from 3.8% in September, mainly on energy, while underlying inflation has remained broadly stable and wages are not showing a material response at this stage. He said weaker confidence and rising borrowing costs should partially contain the energy-driven rise by weighing on growth. AlphaGen read: the ECB is separating an energy shock from broader price-setting.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "checked": "2026-11-16T22:38:36Z"
+    },
+    {
+      "id": "2026-11-16-vujcic-hedgefunds-japan",
+      "time": "2026-11-16T23:05:36Z",
+      "tag": "CREDIT",
+      "headline": "Vujčić flags leveraged hedge funds in sovereign bond markets, Japanese investor risk",
+      "take": "Vujčić said hedge funds have become a significant but procyclical source of liquidity in sovereign bond markets, and that large Japanese investors may further reduce euro-area government bond holdings if Japanese yields rise. He said the growing footprint of leveraged hedge funds creates additional vulnerabilities. AlphaGen read: the ECB sees the buyer base for sovereign debt as increasingly price-sensitive.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "checked": "2026-11-16T22:38:36Z"
+    },
+    {
+      "id": "2026-11-16-warsh-ideas-20x",
+      "time": "2026-11-16T23:14:36Z",
+      "tag": "FED",
+      "headline": "Warsh: research effort up 20x+ since the 1930s, yet research productivity fell more",
+      "take": "Opening the Fed's Productivity and Jobs Task Force Conference on Nov. 16, Chairman Warsh cited estimates that research efforts have increased more than 20 times since the 1930s, while, quoting Bloom, Jones and coauthors, research productivity has fallen by an even larger amount. He said productivity growth has been reasonably strong in recent quarters but has not broken out definitively to the upside. AlphaGen read: the Chair is framing the AI debate around idea generation, not just capital spending.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "checked": "2026-11-16T22:38:36Z"
+    },
+    {
+      "id": "2026-11-16-tsy-4wk-bill-rate",
+      "time": "2026-11-16T23:23:36Z",
+      "tag": "DEBT",
+      "headline": "4-week bill high rate 4.068% on Oct. 15, up 2.0 bp from 4.048% a week earlier",
+      "take": "Treasury results show the $110 billion 4-week bill auctioned Oct. 15 had a 4.068% high investment rate and a 2.56 bid-to-cover ratio, versus 4.048% and 2.40 for the $110 billion offering on Oct. 8. The 8-week bill on Oct. 15 cleared at 4.132% with a 2.26 bid-to-cover. AlphaGen read: demand at the front end firmed slightly for the 4-week even as the rate edged up.",
+      "source_name": "U.S. Treasury, Fiscal Data auctions",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+      "checked": "2026-11-16T22:38:36Z"
+    },
     {
       "id": "2026-11-16-ecb-elderson-reporting-5pct-stress-tests",
       "time": "2026-11-16T22:25:50Z",
@@ -4979,66 +5039,6 @@
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "time": "2026-11-10T19:04:16Z",
       "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-real-earnings-oct",
-      "tag": "MACRO",
-      "headline": "Real average hourly earnings unchanged in October as pay and CPI both rise 0.4%",
-      "take": "BLS reported real average hourly earnings for all employees were unchanged from September to October (seasonally adjusted), as a 0.4% rise in average hourly earnings matched a 0.4% rise in the CPI-U. For production and nonsupervisory employees, real hourly earnings rose 0.1% and real weekly earnings fell 0.3% on a 0.3% shorter average workweek. Over-the-year comparisons are unavailable because of the missing October 2025 CPI data.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-      "time": "2026-11-10T19:12:16Z",
-      "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-fred-credit-spreads-nov9",
-      "tag": "CREDIT",
-      "headline": "High-yield spread 3.34 points on Nov. 9, down from 3.43 on Nov. 2; investment grade 0.91",
-      "take": "FRED data show the ICE BofA US High Yield option-adjusted spread at 3.34 percentage points on Nov. 9, versus 3.43 on Nov. 2 and 3.48 on Nov. 5. The investment-grade corporate spread was 0.91 on Nov. 9, down from 0.94 on Nov. 2. Both spreads sit near the low end of the past week's range.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-      "time": "2026-11-10T19:20:16Z",
-      "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-fred-jobless-claims-oct31",
-      "tag": "MACRO",
-      "headline": "Initial jobless claims 189,000 in week ended Oct. 31, lowest of six weekly readings",
-      "take": "FRED data show seasonally adjusted initial jobless claims at 189,000 for the week ended Oct. 31, down from 195,000 in each of the prior two weeks and 200,000 for the week ended Oct. 10. It is the lowest of the six weekly observations since Sept. 26. Low claims alongside October's 165,000 payroll gain point to a labor market with few layoffs.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/ICSA",
-      "time": "2026-11-10T19:28:16Z",
-      "checked": "2026-11-10T18:38:16Z"
-    },
-    {
-      "id": "2026-11-10-waller-london",
-      "tag": "FED",
-      "headline": "Waller: further tightening needed \"sooner rather than later\" to bring inflation to 2%",
-      "take": "In a Nov. 10 speech in London, Governor Christopher Waller said he voted with the FOMC majority to hold the policy rate at the most recent meeting, but that inflation remains too high and further tightening will be needed \"sooner rather than later.\" He said Q3 real GDP rose 3.4 percent in the initial estimate, the unemployment rate was 4.1 percent in October, and 6- and 12-month average payroll gains are closer to 80,000 a month. The speech makes clear that at least one voting-level official sees the timing of the next hike as flexible but the direction as set.",
-      "source_name": "Federal Reserve Board (Waller speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "time": "2026-11-10T17:41:00Z",
-      "checked": "2026-11-10T17:38:59Z"
-    },
-    {
-      "id": "2026-11-10-waller-low-hire-low-fire",
-      "tag": "MACRO",
-      "headline": "Waller on labor market: \"low hire, low fire\" for over a year, with 5M+ monthly separations and hires",
-      "take": "Governor Waller said that although September net job creation was 60,000, more than 5 million people left their jobs and more than 5 million were hired that month. He described the labor market as \"low hire, low fire\" for over a year and asked whether stability means a healthy market, noting the share of adults 25 and older with at least a bachelor's degree rose from 28 percent to 37 percent since 2010. Low gross flows matter because they can weigh on productivity and real wage growth even when the unemployment rate is steady.",
-      "source_name": "Federal Reserve Board (Waller speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "time": "2026-11-10T17:48:00Z",
-      "checked": "2026-11-10T17:38:59Z"
-    },
-    {
-      "id": "2026-11-10-ecb-lane-communication",
-      "tag": "GLOBAL",
-      "headline": "ECB's Lane: LLM-based tone measures track hawkish and dovish phases of ECB communication",
-      "take": "In a Nov. 10 keynote at the Bank of England Watchers Conference in London, ECB Executive Board member Philip Lane said new ECB staff LLM-based measures of the tone of monetary policy communication become more hawkish during tightening phases and more dovish during easing periods, closely tracking the deposit facility rate. He added that information in ECB policy statements can improve forecasts of euro-area core inflation several quarters ahead. The speech is about communication method rather than a new policy signal.",
-      "source_name": "European Central Bank (Lane speech)",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-      "time": "2026-11-10T17:55:00Z",
-      "checked": "2026-11-10T17:38:59Z"
     }
   ]
 }
