@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-16T02:39:49Z",
+  "updated": "2026-11-16T03:38:54Z",
   "items": [
+    {
+      "id": "2026-11-16-bea-q3-real-final-sales-private-4p9",
+      "time": "2026-11-16T03:48:00Z",
+      "tag": "MACRO",
+      "headline": "Q3 real final sales to private domestic purchasers +4.9%, vs 4.6% in Q2",
+      "take": "BEA's advance estimate shows real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, rose 4.9% at an annual rate in Q3, after 4.6% in Q2. Real GDP rose 3.4%, so private domestic demand ran 1.5 points faster (computed). AlphaGen read: the private-demand measure grew faster than headline GDP, which BEA says was held back by a decrease in exports.",
+      "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-16T03:38:54Z"
+    },
+    {
+      "id": "2026-11-16-bea-q3-gross-domestic-purchases-prices-3p0",
+      "time": "2026-11-16T04:00:00Z",
+      "tag": "MACRO",
+      "headline": "Q3 gross domestic purchases price index +3.0% annualized, from 5.6% in Q2",
+      "take": "BEA reports the price index for gross domestic purchases increased 3.0% at an annual rate in Q3, compared with 5.6% in Q2, a slowdown of 2.6 points (computed). Over the same quarters the PCE price index rose 2.1% versus 5.0%. AlphaGen read: the broadest BEA price gauge for domestic buyers cooled sharply from the second quarter.",
+      "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-16T03:38:54Z"
+    },
+    {
+      "id": "2026-11-16-ppi-oct-core-less-foods-energy-trade-4p9",
+      "time": "2026-11-16T04:12:00Z",
+      "tag": "MACRO",
+      "headline": "PPI excluding foods, energy and trade rose 0.5% in October, 4.9% over 12 months",
+      "take": "BLS reports the index for final demand less foods, energy, and trade services rose 0.5% in October, the same as in September, and advanced 4.9% for the 12 months ended in October. The table shows the 12-month rate at 5.0% for September and 3.5% in October 2025. AlphaGen read: the narrower producer-price gauge was a touch lower on the year than in September but well above its year-earlier pace.",
+      "source_name": "BLS, Producer Price Index News Release, October 2026",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-16T03:38:54Z"
+    },
+    {
+      "id": "2026-11-16-ppi-oct-other-services-0p2",
+      "time": "2026-11-16T04:24:00Z",
+      "tag": "MACRO",
+      "headline": "PPI services excluding trade, transportation and warehousing +0.2% in October",
+      "take": "BLS reports final demand services rose 0.2% in October, the fifth consecutive advance, with the index for services less trade, transportation, and warehousing up 0.2% after 0.2% in September and 0.0% in August (table A). Transportation and warehousing services rose 2.0% and trade margins fell 0.2%. AlphaGen read: the October services gain was driven by transportation rather than the broader services group.",
+      "source_name": "BLS, Producer Price Index News Release, October 2026",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-16T03:38:54Z"
+    },
     {
       "id": "2026-11-16-fred-yields-nov6-nov12-move",
       "time": "2026-11-16T02:40:00Z",
@@ -5031,50 +5071,6 @@
       "source_name": "Edwards Lifesciences Q3 2026 results release (SEC EDGAR EX-99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/0001099800/000109980026000053/ex-991q32026.htm",
       "ticker": "NYSE:EW",
-      "checked": "2026-11-05T00:44:51Z"
-    },
-    {
-      "id": "2026-11-04-afl-q3",
-      "time": "2026-11-05T00:54:51Z",
-      "tag": "EARNINGS",
-      "headline": "Aflac Q3 total revenues $3,271M vs $4,740M; adjusted EPS $2.43 vs $2.49",
-      "take": "Aflac reported Q3 2026 total revenues of $3,271 million versus $4,740 million, net earnings of $303 million ($0.61 per diluted share) versus $1,639 million ($3.08), and adjusted earnings per diluted share of $2.43 versus $2.49. The company said it returned $1.1 billion to shareholders in the quarter, consisting of $804 million in share repurchase and $305 million in dividends. The wide gap between GAAP and adjusted results is a reminder that insurers' reported net earnings can swing with investment-related items that adjusted figures exclude.",
-      "source_name": "Aflac Q3 2026 results release (SEC EDGAR EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004977/000162828026070181/aflex991-q32026new.htm",
-      "ticker": "NYSE:AFL",
-      "checked": "2026-11-05T00:44:51Z"
-    },
-    {
-      "id": "2026-11-04-kvyo-q3",
-      "time": "2026-11-05T01:02:51Z",
-      "tag": "EARNINGS",
-      "headline": "Klaviyo Q3 revenue $387.2M, up 25%; authorizes new $300M share repurchase",
-      "take": "Klaviyo reported Q3 2026 revenue of $387.2 million versus $310.9 million, which it described as 25% year-over-year growth, with GAAP net income of $704 thousand versus a net loss of $426 thousand. The company authorized a new share repurchase program of up to $300 million of Series A common stock, following completion of its prior $500 million program in October, and guided Q4 revenue to $421 million to $425 million. Moving to GAAP profitability while funding buybacks shows how far the cost base has scaled against revenue.",
-      "source_name": "Klaviyo Q3 2026 results release (SEC EDGAR EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001835830/000183583026000045/confidentialfiscalq32026ea.htm",
-      "ticker": "NYSE:KVYO",
-      "checked": "2026-11-05T00:44:51Z"
-    },
-    {
-      "id": "2026-11-04-afl-dividend",
-      "time": "2026-11-05T01:10:51Z",
-      "tag": "EQUITIES",
-      "headline": "Aflac board declares Q4 dividend of $0.61 per share, payable Dec. 1",
-      "take": "Aflac said in its Nov. 4, 2026 Q3 release that its board declared a fourth quarter dividend of $0.61 per share, payable December 1, 2026 to shareholders of record at the close of business on November 18, 2026. The company reported dividends paid per share of $0.61 in Q3 2026 versus $0.58 in Q3 2025. The declared amount matches the Q3 payout, so the signal here is steadiness rather than a change in the payout rate.",
-      "source_name": "Aflac Q3 2026 results release (SEC EDGAR EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004977/000162828026070181/aflex991-q32026new.htm",
-      "ticker": "NYSE:AFL",
-      "checked": "2026-11-05T00:44:51Z"
-    },
-    {
-      "id": "2026-11-04-wlk-q3-8k",
-      "time": "2026-11-05T01:18:51Z",
-      "tag": "EARNINGS",
-      "headline": "Westlake furnishes 8-K with 2026 third-quarter results and investor presentation",
-      "take": "Westlake Corporation filed a Form 8-K dated Nov. 4, 2026 under Items 2.02, 7.01 and 9.01, furnishing a press release announcing its 2026 third quarter results as Exhibit 99.1 and an investor presentation as Exhibit 99.2. The cover filing itself carries no financial figures. AlphaGen will cover the reported numbers once they can be read directly from the exhibit.",
-      "source_name": "Westlake Corporation 8-K, Nov. 4, 2026 (SEC EDGAR)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001262823/000126282326000076/wlk-20261104.htm",
-      "ticker": "NYSE:WLK",
       "checked": "2026-11-05T00:44:51Z"
     }
   ]
