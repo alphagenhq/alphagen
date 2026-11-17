@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-17T15:38:45Z",
+  "updated": "2026-11-17T16:39:08Z",
   "items": [
+    {
+      "id": "2026-11-17-hd-q3-sales-434b",
+      "time": "2026-11-17T16:39:08Z",
+      "tag": "EARNINGS",
+      "headline": "Home Depot Q3 sales $43.4B, up 4.9%; comparable sales up 2.2%",
+      "take": "Home Depot's Nov. 17 release reports third-quarter fiscal 2026 (ended Nov. 1) net sales of $43,398 million versus $41,352 million a year earlier, up 4.9 percent. Comparable sales rose 2.2 percent, both total and U.S., versus 0.2 percent in the prior-year quarter. AlphaGen read: the release shows nine-month comparable sales of 1.5 percent, so the third quarter ran above the year-to-date pace.",
+      "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
+      "ticker": "NYSE:HD",
+      "checked": "2026-11-17T16:39:08Z"
+    },
+    {
+      "id": "2026-11-17-hd-q3-eps-372-386",
+      "time": "2026-11-17T16:47:08Z",
+      "tag": "EARNINGS",
+      "headline": "Home Depot Q3 diluted EPS $3.72, up 2.8%; adjusted $3.86 vs $3.74",
+      "take": "Home Depot reported Q3 fiscal 2026 diluted EPS of $3.72 versus $3.62, up 2.8 percent, and adjusted diluted EPS of $3.86 versus $3.74, up 3.2 percent. Net earnings were $3,713 million versus $3,601 million, up 3.1 percent. AlphaGen read: profit grew less than sales, which rose 4.9 percent in the quarter.",
+      "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
+      "ticker": "NYSE:HD",
+      "checked": "2026-11-17T16:39:08Z"
+    },
+    {
+      "id": "2026-11-17-hd-q3-op-margin-126",
+      "time": "2026-11-17T16:55:08Z",
+      "tag": "EARNINGS",
+      "headline": "Home Depot Q3 operating margin 12.6% vs 12.9%; operating income $5.48B",
+      "take": "The Q3 release shows operating income of $5,479 million versus $5,353 million, up 2.4 percent, while operating margin was 12.6 percent versus 12.9 percent. Adjusted operating margin was 13.0 percent versus 13.3 percent. AlphaGen read: operating income rose, but more slowly than the 4.9 percent rise in sales, so the margin narrowed by 0.3 point.",
+      "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
+      "ticker": "NYSE:HD",
+      "checked": "2026-11-17T16:39:08Z"
+    },
+    {
+      "id": "2026-11-17-hd-q3-comps-ticket-transactions",
+      "time": "2026-11-17T17:03:08Z",
+      "tag": "EQUITIES",
+      "headline": "Home Depot Q3: comparable transactions -0.5%, average ticket +3.0%",
+      "take": "Home Depot's Q3 release lists comparable customer transactions of negative 0.5 percent versus negative 1.6 percent a year earlier, and comparable average ticket of 3.0 percent versus 1.8 percent. Total comparable sales were up 2.2 percent. AlphaGen read: the quarter's comparable gain came from a higher average ticket, as the release reports transactions still slightly lower.",
+      "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
+      "ticker": "NYSE:HD",
+      "checked": "2026-11-17T16:39:08Z"
+    },
+    {
+      "id": "2026-11-17-hd-fy26-guidance-updated",
+      "time": "2026-11-17T17:11:08Z",
+      "tag": "EARNINGS",
+      "headline": "Home Depot updates FY2026 guidance: sales growth ~4.5%, comps ~1.4%, EPS ~+1.5%",
+      "take": "Home Depot's release, titled 'Updates Fiscal 2026 Guidance,' now expects total sales growth of approximately 4.5 percent, comparable sales growth of approximately 1.4 percent, an operating margin of approximately 12.4 percent and diluted EPS growth of approximately 1.5 percent from $14.23 in fiscal 2025. Adjusted diluted EPS is expected to grow approximately 2.0 percent from $14.69. AlphaGen read: these are the company's own targets for the full year, stated in the release.",
+      "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
+      "ticker": "NYSE:HD",
+      "checked": "2026-11-17T16:39:08Z"
+    },
     {
       "id": "2026-11-17-census-oct-retail-748p2b",
       "time": "2026-11-17T15:38:45Z",
@@ -4996,56 +5051,6 @@
       "source_name": "BLS, Employment Situation",
       "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "checked": "2026-11-11T12:39:31Z"
-    },
-    {
-      "id": "2026-11-11-realearn-production-oct",
-      "time": "2026-11-11T13:08:31Z",
-      "tag": "MACRO",
-      "headline": "Production workers' real hourly pay +0.1% in October; real weekly pay -0.3%",
-      "take": "BLS said real average hourly earnings for production and nonsupervisory employees rose 0.1% from September to October (earnings +0.4%, CPI-W +0.3%), while real average weekly earnings fell 0.3% because the average workweek also fell 0.3%. For all employees, real hourly earnings were unchanged. AlphaGen read: for hourly and nonsupervisory workers, a shorter workweek more than offset the small hourly gain.",
-      "source_name": "BLS, Real Earnings",
-      "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-      "checked": "2026-11-11T12:39:31Z"
-    },
-    {
-      "id": "2026-11-11-mortgage-10yr-gap-nov5",
-      "time": "2026-11-11T13:17:31Z",
-      "tag": "HOUSING",
-      "headline": "Mortgage rate sits 2.34 points above 10-year yield: 7.18% vs 4.84% on Nov. 5",
-      "take": "FRED data show the 30-year fixed mortgage rate (Freddie Mac weekly average) at 7.18% for the week of Nov. 5, down from 7.40% on Oct. 15 and 7.28% on Oct. 1, while the 10-year Treasury constant-maturity yield was 4.84% on Nov. 5. The gap between them was 2.34 percentage points that day. AlphaGen read: the mortgage rate has eased over the past month, but it still carries a spread of more than two points over the 10-year Treasury.",
-      "source_name": "FRED (Freddie Mac PMMS; Federal Reserve H.15)",
-      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-      "checked": "2026-11-11T12:39:31Z"
-    },
-    {
-      "id": "2026-11-11-brent-wti-gap-nov3",
-      "time": "2026-11-11T13:26:31Z",
-      "tag": "COMMODITIES",
-      "headline": "Brent-WTI gap narrows to $7.39 on Nov. 3 from $19.73 on Oct. 27",
-      "take": "FRED daily spot data show Brent at $107.03 a barrel and WTI at $99.64 on Nov. 3, a gap of $7.39; on Oct. 27 Brent was $123.10 and WTI $103.37, a gap of $19.73. Brent fell $16.07 over that span while WTI fell $3.73. AlphaGen read: most of the narrowing came from a larger decline in Brent than in WTI.",
-      "source_name": "FRED (EIA spot prices)",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "checked": "2026-11-11T12:39:31Z"
-    },
-    {
-      "id": "2026-11-11-barkin-rooms-economy",
-      "time": "2026-11-11T11:49:22Z",
-      "tag": "FED",
-      "headline": "Richmond Fed's Barkin: demand healthy, inflation elevated, policy should move 'with care'",
-      "take": "Richmond Fed President Tom Barkin said on Nov. 9 in Greer, S.C., that September PCE inflation was 3.6% headline and 3.1% core and that the unemployment rate was 4.1% in October; both figures match BEA and BLS releases. He described demand as healthy and inflation as stubbornly elevated, said the direction of policy is relatively straightforward but risks to demand are easy to envision, and said policy should move with care, speaking for himself and not the FOMC. AlphaGen read: another regional Fed president putting inflation, not the labor market, as the nearer-term risk.",
-      "source_name": "Federal Reserve Bank of Richmond",
-      "source_url": "https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20261109",
-      "checked": "2026-11-11T11:44:22Z"
-    },
-    {
-      "id": "2026-11-11-fred-5y-breakeven-nov10",
-      "time": "2026-11-11T03:41:58Z",
-      "tag": "RATES",
-      "headline": "5-year breakeven inflation rate 2.25% on Nov. 10, from 2.46% on Oct. 30",
-      "take": "The 5-year breakeven inflation rate was 2.25% on Nov. 10, unchanged from Nov. 9 and down from 2.46% on Oct. 30, a 0.21 percentage-point decline, per FRED. AlphaGen read: the market-implied five-year inflation compensation has fallen over the last two weeks; the 10-year breakeven was 2.20% on Nov. 10.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE)",
-      "source_url": "https://fred.stlouisfed.org/series/T5YIE",
-      "checked": "2026-11-11T03:39:09Z"
     }
   ]
 }

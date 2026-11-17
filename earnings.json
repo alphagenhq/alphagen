@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T18:39:00Z",
+  "updated": "2026-11-17T16:39:08Z",
   "items": [
+    {
+      "id": "2026-11-17-HD-Q3FY26",
+      "time": "2026-11-17T16:39:08Z",
+      "ticker": "NYSE:HD",
+      "name": "The Home Depot, Inc.",
+      "period": "Q3 FY2026",
+      "report_date": "2026-11-17",
+      "revenue": 43.398,
+      "revenue_yoy": 4.9,
+      "eps_yoy": 2.8,
+      "eps": 3.72,
+      "take": "Home Depot reported Q3 net sales of $43,398 million versus $41,352 million and GAAP diluted EPS of $3.72 versus $3.62 (adjusted $3.86 versus $3.74). Comparable sales rose 2.2 percent, and the company updated fiscal 2026 guidance to total sales growth of approximately 4.5 percent.",
+      "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
+      "checked": "2026-11-17T16:39:08Z"
+    },
     {
       "id": "2026-11-12-CSCO-Q1FY27",
       "time": "2026-11-13T18:39:00Z",
