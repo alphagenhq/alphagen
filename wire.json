@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-17T11:39:01Z",
+ "updated": "2026-11-17T12:40:03Z",
  "items": [
+  {
+   "tag": "RATES",
+   "id": "2026-11-17-fred-2y-10y-30y-nov13-vs-nov5",
+   "headline": "2-year yield up 42 bp since Nov. 5 to 4.88%, 10-year up 31 bp, 30-year up 22 bp",
+   "take": "FRED shows the 2-year Treasury yield at 4.88% on Nov. 13 versus 4.46% on Nov. 5, the 10-year at 5.15% versus 4.84%, and the 30-year at 5.47% versus 5.25%. Those are rises of 42, 31 and 22 basis points, and the 30-year minus 2-year gap narrowed to 0.59 point from 0.79 (AlphaGen calculation). AlphaGen read: the shorter the maturity, the larger the rise across the Nov. 5-13 observations.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10, DGS30)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS2",
+   "time": "2026-11-17T12:45:03Z",
+   "checked": "2026-11-17T12:43:03Z"
+  },
+  {
+   "tag": "FED",
+   "id": "2026-11-17-fred-2y-sofr-nov13-098",
+   "headline": "2-year Treasury yield 0.98 point above SOFR on Nov. 13, from 0.54 on Nov. 5",
+   "take": "FRED shows the 2-year Treasury yield at 4.88% and the secured overnight financing rate at 3.90% on Nov. 13, a gap of 0.98 point (AlphaGen calculation). On Nov. 5 the yield was 4.46% and SOFR 3.92%, a gap of 0.54 point. AlphaGen read: SOFR barely moved over the span, so the wider gap came from the 2-year yield.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, SOFR)",
+   "source_url": "https://fred.stlouisfed.org/series/SOFR",
+   "time": "2026-11-17T12:56:03Z",
+   "checked": "2026-11-17T12:43:03Z"
+  },
+  {
+   "tag": "CREDIT",
+   "id": "2026-11-17-fred-hy-ig-nov13-323-089",
+   "headline": "High-yield spread 3.23% on Nov. 13, investment-grade 0.89%, as Treasury yields rose",
+   "take": "FRED shows the ICE BofA US High Yield option-adjusted spread at 3.23% on Nov. 13, up from 3.20% on Nov. 12 and below 3.42% on Nov. 6. The ICE BofA US Corporate spread was 0.89% on both Nov. 12 and Nov. 13, from 0.93% on Nov. 6. AlphaGen read: while the 10-year yield rose from 4.86% to 5.15% over Nov. 6-13, both credit spreads ended the week lower than they began it.",
+   "source_name": "ICE Data Indices via FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "time": "2026-11-17T13:07:03Z",
+   "checked": "2026-11-17T12:43:03Z"
+  },
+  {
+   "tag": "DEBT",
+   "id": "2026-11-17-tsy-6wk-bill-oct13-indirect-595",
+   "headline": "6-week bill sold Oct. 13 at 4.055% with 2.58 bid-to-cover; indirect bidders took 59.5%",
+   "take": "Treasury's auction data show the Oct. 13 6-week bill had a $95.0 billion offering, a 4.055% high investment rate and a 2.58 bid-to-cover ratio. Total accepted was $100.4 billion, of which indirect bidders took $59.8 billion, primary dealers $29.1 billion and direct bidders $2.9 billion; the indirect share is 59.5% (AlphaGen calculation). AlphaGen read: it is the lowest high rate of the six bill results in the latest data, which cover Oct. 13 to Oct. 15.",
+   "source_name": "U.S. Treasury, Fiscal Data (auction results)",
+   "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+   "time": "2026-11-17T13:18:03Z",
+   "checked": "2026-11-17T12:43:03Z"
+  },
+  {
+   "tag": "FED",
+   "id": "2026-11-17-fred-rrp-nov16-182m",
+   "headline": "Overnight reverse repo $0.182B on Nov. 16, down from $0.325B on Nov. 13",
+   "take": "FRED shows usage of the Fed's overnight reverse repurchase facility at $0.182 billion on Nov. 16, versus $0.325 billion on Nov. 13 and $0.150 billion on Nov. 6. Across the six observations listed from Nov. 6 to Nov. 16, usage stayed between $0.150 billion and $0.325 billion. AlphaGen read: the facility remains a very small part of the Fed's $6.759 trillion balance sheet reported for Nov. 11.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (RRPONTSYD)",
+   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+   "time": "2026-11-17T13:29:03Z",
+   "checked": "2026-11-17T12:43:03Z"
+  },
   {
    "tag": "EQUITIES",
    "id": "2026-11-17-invh-buybacks-1b",
@@ -4991,56 +5041,6 @@
    "source_name": "Federal Reserve Board",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
    "checked": "2026-11-11T01:43:28Z"
-  },
-  {
-   "id": "2026-11-11-bowman-inflation-shocks",
-   "time": "2026-11-11T00:46:00Z",
-   "tag": "FED",
-   "headline": "Bowman: tariffs, energy, AI each ~one-fourth of above-target core PCE inflation",
-   "take": "Fed Vice Chair for Supervision Michelle Bowman said on Nov. 10 that tariffs, energy and AI-related price pressures each accounted for roughly one-fourth of above-target core PCE inflation over the 12 months ending in September, with the remaining one-fourth likely reflecting persistent effects of inflationary shocks in recent years. She forecast core PCE inflation moving closer to 2 percent next year as those shocks wane or unwind. The split shows how much of the overshoot she attributes to sector-specific supply shocks rather than labor-market tightness.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T00:44:32Z"
-  },
-  {
-   "id": "2026-11-11-bowman-financial-conditions",
-   "time": "2026-11-11T00:55:00Z",
-   "tag": "FED",
-   "headline": "Bowman: financial conditions tightened a bit on equities, private rates, dollar",
-   "take": "Bowman said financial conditions have tightened a bit recently because of lower equity prices, higher private interest rates and a stronger dollar, against a backdrop of increased market volatility. She said corporate bond and mortgage rate spreads have widened and tech-sector equity valuations have dropped as investors reassess expected returns and risks tied to external financing of AI investment. She listed a large equity correction and a sharp increase in private longer-term rates among the risks to economic activity.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T00:44:32Z"
-  },
-  {
-   "id": "2026-11-11-bowman-hormuz-energy",
-   "time": "2026-11-11T01:04:00Z",
-   "tag": "ENERGY",
-   "headline": "Bowman: Hormuz carried ~20% of global oil supply pre-conflict; freight costs surge",
-   "take": "Bowman said the Strait of Hormuz accounted for about 20 percent of global oil supply before the Middle East conflict, roughly equivalent to total U.S. oil consumption. She said crude flows in the Persian Gulf have recovered to near pre-conflict levels, but freight rates and insurance premiums have surged, raising the cost of delivered oil, and that Brent dropped sharply last week on optimism about a U.S.-Iran agreement after the midterm elections. She expects energy-related price pressure to unwind when the conflict resolves, which keeps oil central to the Fed's inflation debate.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T00:44:32Z"
-  },
-  {
-   "id": "2026-11-11-bea-sept-saving-rate",
-   "time": "2026-11-11T01:13:00Z",
-   "tag": "MACRO",
-   "headline": "Personal saving rate 3.8% in September as real disposable income falls 0.3%",
-   "take": "BEA reported September personal saving was $911.1 billion, a personal saving rate of 3.8 percent of disposable income. Current-dollar disposable income rose 0.2 percent while real disposable income fell 0.3 percent, and real PCE rose less than 0.1 percent after 0.5 percent in August. With real income shrinking while spending still rose in dollar terms, households were working with a thin saving rate.",
-   "source_name": "BEA",
-   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-   "checked": "2026-11-11T00:44:32Z"
-  },
-  {
-   "id": "2026-11-11-bea-q3-gdp-contributors",
-   "time": "2026-11-11T01:22:00Z",
-   "tag": "MACRO",
-   "headline": "Q3 GDP: inventories and equipment led investment; exports fell, imports rose",
-   "take": "BEA's advance estimate put Q3 real GDP growth at a 3.4 percent annual rate and current-dollar GDP at 5.6 percent, with the gross domestic purchases price index up 3.0 percent. Investment, consumer spending and government spending contributed, partly offset by a decrease in exports, while imports increased. BEA said the investment increase primarily reflected private inventory investment, led by wholesale trade and manufacturing, and equipment, led by information processing equipment; the second estimate is due Nov. 25.",
-   "source_name": "BEA",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-11T00:44:32Z"
   }
  ]
 }

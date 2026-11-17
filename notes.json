@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-16T13:41:29Z",
+ "updated": "2026-11-17T12:40:03Z",
  "items": [
+  {
+   "id": "2026-11-17-morning-brief",
+   "time": "2026-11-17T12:40:03Z",
+   "tag": "MACRO",
+   "series": "morning-brief",
+   "title": "Morning Brief: Retail sales and Waller today, FOMC minutes Wednesday",
+   "dek": "Census releases October retail sales at 8:30 a.m. ET, with industrial production at 9:15; Treasury yields rose across the curve through Nov. 13.",
+   "key_points": [
+    "Scheduled today (ET): advance retail sales for October (Census) and import and export prices (BLS) at 8:30 a.m.; Governor Waller on payments at 9:10 a.m.; industrial production and capacity utilization (Federal Reserve) at 9:15 a.m.",
+    "Federal Reserve: Chairman Kevin Warsh said Nov. 16 the Productivity and Jobs Task Force is one of five he has convened, meant to go beyond \"fleeting data points or daily market moves.\"",
+    "Bank of Canada: Governor Tiff Macklem will not seek a second term; his seven-year term expires June 2, 2027, and the Board has begun a search.",
+    "FRED: 2-year Treasury yield 4.88%, 10-year 5.15% and 30-year 5.47% on Nov. 13, up 42, 31 and 22 basis points from Nov. 5.",
+    "Later this week: housing starts and permits for October (Census) Wednesday at 8:30 a.m., and the minutes of the Oct. 27-28 FOMC meeting Wednesday at 2:00 p.m. ET."
+   ],
+   "talking_points": [
+    "Are Treasury yields still climbing? Yes, through Nov. 13. FRED shows the 10-year Treasury yield at 5.15% on Nov. 13, up from 4.84% on Nov. 5, and the 2-year at 4.88%, up from 4.46%. The 2-year rose by more, so the gap between the 30-year and 2-year yields narrowed to 0.59 point from 0.79. If you plan to borrow or buy bonds, rates can keep moving, so line up the decision with when you actually need the money.",
+    "Is inflation cooling yet? Not clearly. BLS reported the consumer price index rose 0.4 percent in October after 0.6 percent in September, and the index excluding food and energy rose 0.3 percent, as it did in August and September. The gasoline index was up 37.4 percent over the 12 months ended in October. For an everyday investor, that is a reason to keep an eye on how much of your spending is energy-driven, and to treat any single month as one data point.",
+    "Is the Fed about to change course under its new chair? Too early to say from this speech. Chairman Kevin Warsh's Nov. 16 opening remarks focused on the Fed's Productivity and Jobs Task Force, one of five he has convened, which he said are meant to go further than \"fleeting data points or daily market moves.\" The next Fed document is the minutes of the Oct. 27-28 meeting, scheduled for Wednesday at 2:00 p.m. ET. Minutes describe a past meeting, so a long-term investor does not need to react to any single line."
+   ],
+   "body": [
+    "Tuesday's calendar is led by consumer demand and industrial output. Census is scheduled to release advance retail sales for October at 8:30 a.m. ET, the same time BLS publishes import and export prices. Federal Reserve Governor Christopher Waller speaks on payments at 9:10 a.m., and the Fed's industrial production and capacity utilization report follows at 9:15. None of those figures were available when this brief was written, so there is nothing to compare against yet.",
+    {
+     "h": "The Fed's new framing"
+    },
+    "Chairman Kevin Warsh opened the Fed's Productivity and Jobs Task Force Conference in San Francisco on Monday. He described the task force as one of five he has convened as Chairman, groups meant to take discussions \"further and deeper than fleeting data points or daily market moves,\" and called the current era possibly the most transformational period in his adult lifetime, marked by the arrival of what he called \"super intelligence.\" The remarks were about how the Fed thinks, not a policy announcement. The next scheduled Fed document is the minutes of the Oct. 27-28 FOMC meeting, due Wednesday at 2:00 p.m. ET.",
+    {
+     "h": "Canada's central bank"
+    },
+    "The Bank of Canada said Monday that Governor Tiff Macklem has told its Board he will not seek a second term when his seven-year term ends June 2, 2027. The Board's independent directors have formed a search committee assisted by an executive recruiting firm, and Macklem said he remains committed to his responsibilities for the rest of his term.",
+    {
+     "h": "Rates"
+    },
+    "The latest FRED observations show Treasury yields higher across the curve through Nov. 13. The 2-year yield was 4.88%, up 42 basis points from 4.46% on Nov. 5; the 10-year was 5.15%, up 31 basis points from 4.84%; and the 30-year was 5.47%, up 22 basis points from 5.25%. Because the short end rose the most, the 30-year minus 2-year gap narrowed to 0.59 point from 0.79, by AlphaGen's calculation. The secured overnight financing rate was 3.90% on Nov. 13, so the 2-year yield sat 0.98 point above it, compared with 0.54 point on Nov. 5.",
+    {
+     "h": "Inflation backdrop"
+    },
+    "The most recent CPI report, for October, showed the all-items index up 0.4 percent seasonally adjusted after a 0.6 percent rise in September, with core up 0.3 percent. BLS noted that, because of the 2025 lapse in appropriations, it could not publish most 12-month changes for October. Today's import and export prices and Wednesday's housing data add to the picture before the November CPI report on Dec. 10."
+   ],
+   "sources": [
+    {
+     "name": "FRED, Federal Reserve Bank of St. Louis, 2-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS2"
+    },
+    {
+     "name": "FRED, 10-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS10"
+    },
+    {
+     "name": "FRED, 30-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS30"
+    },
+    {
+     "name": "FRED, SOFR",
+     "url": "https://fred.stlouisfed.org/series/SOFR"
+    },
+    {
+     "name": "Federal Reserve Board, Chairman Warsh opening remarks (Nov. 16)",
+     "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
+    },
+    {
+     "name": "Federal Reserve Board, November 2026 calendar",
+     "url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+    },
+    {
+     "name": "Bank of Canada, Governor Macklem to step down in June 2027",
+     "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
+    },
+    {
+     "name": "Census Bureau, retail sales release schedule",
+     "url": "https://www.census.gov/retail/release_schedule.html"
+    },
+    {
+     "name": "BLS, November 2026 release schedule",
+     "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+    },
+    {
+     "name": "BLS, Consumer Price Index news release (October 2026)",
+     "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    }
+   ],
+   "checked": "2026-11-17T12:43:03Z"
+  },
   {
    "id": "2026-11-16-morning-brief",
    "time": "2026-11-16T13:41:29Z",

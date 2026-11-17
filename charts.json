@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-16T13:41:29Z",
+ "updated": "2026-11-17T12:40:03Z",
  "items": [
+  {
+   "id": "2026-11-17-2y-10y-30y-yields",
+   "time": "2026-11-17T12:40:03Z",
+   "title": "Treasury yields: 2-year 4.88%, 10-year 5.15%, 30-year 5.47%",
+   "subtitle": "2-, 10- and 30-year Treasury constant-maturity yields, daily, percent",
+   "series": [
+    {
+     "id": "DGS2",
+     "label": "2-year Treasury yield",
+     "t": "lvl"
+    },
+    {
+     "id": "DGS10",
+     "label": "10-year Treasury yield",
+     "t": "lvl"
+    },
+    {
+     "id": "DGS30",
+     "label": "30-year Treasury yield",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "percent",
+   "take": "FRED shows the 2-year Treasury yield at 4.88% on Nov. 13, up from 4.46% on Nov. 5, the 10-year at 5.15% from 4.84%, and the 30-year at 5.47% from 5.25%. The rises were 42, 31 and 22 basis points. The 30-year minus 2-year gap narrowed to 0.59 point from 0.79 (AlphaGen calculation). AlphaGen read: the curve flattened because shorter maturities rose the most.",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-17T12:43:03Z"
+  },
   {
    "id": "2026-11-16-10y-real-plus-breakeven",
    "time": "2026-11-16T13:41:29Z",
