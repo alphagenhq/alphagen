@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-14T01:48:44Z",
+ "updated": "2026-11-17T02:47:37Z",
  "items": [
+  {
+   "id": "live-0001682852-26-000208-1.01",
+   "time": "2026-11-16T22:19:39Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Moderna discloses a material agreement",
+   "take": "Moderna reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:19 PM ET, Nov 16.",
+   "source_name": "SEC EDGAR, MRNA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208-index.htm",
+   "ticker": "NASDAQ:MRNA"
+  },
+  {
+   "id": "live-0001193125-26-463733-2.01",
+   "time": "2026-11-16T21:51:14Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "AON completes an acquisition or sale of assets",
+   "take": "AON reported completing an acquisition or disposition of assets in an SEC filing (Form 8-K, Item 2.01). Filed 4:51 PM ET, Nov 16.",
+   "source_name": "SEC EDGAR, AON Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/0001193125-26-463733-index.htm",
+   "ticker": "NYSE:AON"
+  },
+  {
+   "id": "live-0001193125-26-463733-5.02",
+   "time": "2026-11-16T21:51:14Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "AON reports an executive or board change",
+   "take": "AON reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:51 PM ET, Nov 16.",
+   "source_name": "SEC EDGAR, AON Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/0001193125-26-463733-index.htm",
+   "ticker": "NYSE:AON"
+  },
+  {
+   "id": "live-0001193125-26-463597-5.02",
+   "time": "2026-11-16T21:24:45Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Cheniere Energy reports an executive or board change",
+   "take": "Cheniere Energy reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:24 PM ET, Nov 16.",
+   "source_name": "SEC EDGAR, LNG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526463597/0001193125-26-463597-index.htm",
+   "ticker": "NYSE:LNG"
+  },
   {
    "id": "live-0001104659-26-127223-1.01",
    "time": "2026-11-13T22:12:18Z",
