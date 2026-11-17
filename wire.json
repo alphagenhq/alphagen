@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-17T00:38:11Z",
+  "updated": "2026-11-17T01:40:00Z",
   "items": [
+    {
+      "id": "2026-11-16-ppi-oct-total-compounded-5p7",
+      "time": "2026-11-17T01:41:52Z",
+      "tag": "MACRO",
+      "headline": "PPI final demand: ten 2026 monthly changes compound to about 5.7%",
+      "take": "BLS's October PPI release shows final demand changes of +0.6, +0.5, +0.8, +1.1, +0.5, -0.1, +0.1, +0.4, +1.4 and +0.3 percent for January through October, with June the only decline. Compounding those published, rounded figures gives roughly 5.7% over the ten months, against a 12-month change of 6.5% for the period ended in October. AlphaGen read: March (+0.8%), April (+1.1%) and September (+1.4%) were the three largest monthly gains, so the cumulative figure is driven by a few large months rather than a steady drift.",
+      "source_name": "BLS, Producer Price Index news release (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-17T01:39:52Z"
+    },
+    {
+      "id": "2026-11-16-ppi-oct-energy-goods-compounded",
+      "time": "2026-11-17T01:53:52Z",
+      "tag": "ENERGY",
+      "headline": "PPI final demand energy: four declines in 2026, but monthly changes compound to ~34%",
+      "take": "BLS's October PPI table shows final demand energy changing -1.7, +2.0, +10.5, +7.1, +8.2, -7.2, -1.5, +4.2, +10.0 and -0.1 percent from January through October. Four of the ten months were declines, and six were gains of 2.0% or more. Compounding the published, rounded monthly figures gives roughly 34.4% over the ten months. AlphaGen read: March (+10.5%) and September (+10.0%) were the two largest monthly moves, which dominates the compounded total.",
+      "source_name": "BLS, Producer Price Index news release (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-17T01:39:52Z"
+    },
+    {
+      "id": "2026-11-16-ppi-oct-transport-warehousing-compounded",
+      "time": "2026-11-17T02:05:52Z",
+      "tag": "MACRO",
+      "headline": "PPI transportation and warehousing services: six of ten 2026 months rose 2% or more",
+      "take": "In BLS's October PPI table, final demand transportation and warehousing services changed +1.0, +0.8, +2.2, +3.7, +2.1, -0.3, -1.1, +2.4, +3.4 and +2.0 percent from January through October. Six months were gains of 2.0% or more and two were declines (June and July). Compounding the published, rounded figures gives roughly 17.3% over the ten months. AlphaGen read: October's +2.0% is the third straight gain of that size after the June-July dip.",
+      "source_name": "BLS, Producer Price Index news release (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-17T01:39:52Z"
+    },
+    {
+      "id": "2026-11-16-ppi-oct-foods-1p3-largest-since-feb",
+      "time": "2026-11-17T02:17:52Z",
+      "tag": "COMMODITIES",
+      "headline": "PPI final demand foods rose 1.3% in October, the largest monthly gain since February",
+      "take": "BLS's October PPI table shows final demand foods up 1.3% in October after +1.1% in September, versus +2.3% in February; the other seven 2026 months ranged from -1.3% to +0.6%. Five of the ten months were declines, and compounding the published, rounded changes gives roughly +2.0% for January through October. AlphaGen read: foods compounded to about 2.0% against about 34.4% for energy, though the last two months have turned upward.",
+      "source_name": "BLS, Producer Price Index news release (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-17T01:39:52Z"
+    },
     {
       "id": "2026-11-17-tsy-8wk-bill-oct15-vs-oct8",
       "time": "2026-11-17T00:41:11Z",
@@ -4997,47 +5037,6 @@
       "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "time": "2026-11-10T20:49:47Z",
       "checked": "2026-11-10T20:38:47Z"
-    },
-    {
-      "id": "2026-11-10-boe-apf-letters",
-      "tag": "GLOBAL",
-      "headline": "Bank of England and Chancellor exchange letters on Asset Purchase Facility",
-      "take": "The Bank of England published on Nov. 10 an exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility for November 2026. The Bank's news list on the same page shows its Nov. 5 Monetary Policy Committee item titled \"Bank rate increased to 4%.\" The page text available here carries the titles of the two letters rather than their contents, so the facility's terms are in the letters themselves.",
-      "source_name": "Bank of England",
-      "source_url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-      "time": "2026-11-10T20:58:47Z",
-      "checked": "2026-11-10T20:38:47Z"
-    },
-    {
-      "id": "2026-11-10-fred-dgs30-nov6",
-      "tag": "RATES",
-      "headline": "30-year Treasury yield 5.26% on Nov. 6, down from 5.31% on Oct. 30",
-      "take": "FRED's constant-maturity series shows the 30-year Treasury yield at 5.26% on Nov. 6, down 5 basis points from 5.31% on Oct. 30. With the 10-year at 4.86% the same day, the 30-year sat 40 basis points above it. The long end moved in the same direction as the front of the curve over the week.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "time": "2026-11-10T21:07:47Z",
-      "checked": "2026-11-10T20:38:47Z"
-    },
-    {
-      "id": "2026-11-09-fed-mutual-federal-bancorp",
-      "tag": "FED",
-      "headline": "Fed Board approves Mutual Federal Bancorp holding-company applications in Chicago",
-      "take": "The Federal Reserve Board announced on Nov. 9 its approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc., both of Chicago, Illinois. The approvals allow a new top-tier holding company, MFB Bancorp, Inc., which would become a savings and loan holding company by acquiring Mutual Federal Bank of Chicago. The approval concerns a holding-company structure, not monetary policy.",
-      "source_name": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "time": "2026-11-10T21:16:47Z",
-      "checked": "2026-11-10T20:38:47Z"
-    },
-    {
-      "id": "2026-11-10-stld-buyback",
-      "tag": "EQUITIES",
-      "headline": "Steel Dynamics adds $3.0B buyback authorization, declares $0.53 dividend",
-      "take": "Steel Dynamics said Nov. 9 its board authorized an additional $3.0 billion share repurchase program, effective immediately and additive to the prior $1.5 billion program, which had $216 million remaining on Sept. 30, 2026. The board also declared a quarterly cash dividend of $0.53 per share, payable on or about Jan. 8, 2027 to holders of record Dec. 31, 2026. The new authorization is more than 13 times what was left on the old one, a sizable step up in planned capital return.",
-      "source_name": "Steel Dynamics 8-K Exhibit 99.1",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
-      "ticker": "NASDAQ:STLD",
-      "time": "2026-11-10T19:44:00Z",
-      "checked": "2026-11-10T19:39:12Z"
     }
   ]
 }
