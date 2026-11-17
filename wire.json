@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-17T01:40:00Z",
+  "updated": "2026-11-17T02:38:19Z",
   "items": [
+    {
+      "id": "2026-11-16-fang-double-eagle",
+      "time": "2026-11-17T02:40:19Z",
+      "tag": "DEALS",
+      "headline": "Diamondback agrees to buy Double Eagle subsidiaries for 15.56M shares plus $2.15B cash",
+      "take": "Diamondback announced a definitive agreement on Nov. 16 to acquire certain subsidiaries of Double Eagle IV Midco and Double Eagle V Midco for about 15.56 million shares of common stock and $2.15 billion of cash, subject to customary adjustments. The company says the assets cover about 176,000 net acres in the Midland Basin and expects closing on Dec. 21, 2026. AlphaGen read: Diamondback describes it as buying out the 40% of the partnership it did not already own, so this consolidates an existing stake rather than opening a new position.",
+      "source_name": "Diamondback Energy, Inc. (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
+      "ticker": "NASDAQ:FANG",
+      "checked": "2026-11-17T02:46:19Z"
+    },
+    {
+      "id": "2026-11-16-aon-completes-usi",
+      "time": "2026-11-17T02:49:19Z",
+      "tag": "DEALS",
+      "headline": "Aon completes its acquisition of USI for a total purchase price of $17.0B",
+      "take": "Aon plc said on Nov. 16 it completed the acquisition of USI for a total purchase price of $17.0 billion. Aon describes USI as the tenth largest U.S. insurance broker, with about $3 billion in annual revenue and more than 10,500 team members, and cites $395 million of expected net adjusted EBITDA synergies. AlphaGen read: Aon will update its 2027 outlook, including USI, when it reports fourth-quarter earnings in early 2027.",
+      "source_name": "Aon plc (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
+      "ticker": "NYSE:AON",
+      "checked": "2026-11-17T02:46:19Z"
+    },
+    {
+      "id": "2026-11-16-mrna-ares-amendment",
+      "time": "2026-11-17T02:58:19Z",
+      "tag": "CREDIT",
+      "headline": "Moderna cuts term-loan margins 0.75 point and extends maturity to Nov. 24, 2031",
+      "take": "In an 8-K filed Nov. 16, Moderna disclosed Amendment No. 1 to its November 2025 credit agreement with Ares Capital as administrative agent, effective Nov. 9. Margins fall from 5.50% to 4.75% on SOFR-based loans and from 4.50% to 3.75% on base-rate loans, and maturity moves from Nov. 24, 2030 to Nov. 24, 2031. AlphaGen read: the delayed-draw availability periods are also extended to Nov. 24, 2029, which keeps those commitments open longer.",
+      "source_name": "Moderna, Inc. (Form 8-K, Item 1.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208.txt",
+      "ticker": "NASDAQ:MRNA",
+      "checked": "2026-11-17T02:46:19Z"
+    },
+    {
+      "id": "2026-11-16-kdp-2b-offering-deleveraging",
+      "time": "2026-11-17T03:07:19Z",
+      "tag": "EQUITIES",
+      "headline": "Keurig Dr Pepper starts a $2.0B common stock offering to repay about $2.0B of debt",
+      "take": "KDP's Nov. 12 release, furnished in an 8-K filed Nov. 16, says it commenced an underwritten public offering of $2.0 billion of common stock, with a 30-day underwriter option for up to $300 million more. It intends to use net proceeds to repay or repurchase about $2.0 billion of debt ahead of its planned separation into Beverage Co. and Global Coffee Co., targeted for early 2027. AlphaGen read: the stated aim is to strengthen the investment-grade profile of both companies after the split.",
+      "source_name": "Keurig Dr Pepper Inc. (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1418135/000119312526463583/d473035dex991.htm",
+      "ticker": "NASDAQ:KDP",
+      "checked": "2026-11-17T02:46:19Z"
+    },
+    {
+      "id": "2026-11-16-lng-davis-president-cfo",
+      "time": "2026-11-17T03:16:19Z",
+      "tag": "EQUITIES",
+      "headline": "Cheniere promotes Zach Davis to President and Chief Financial Officer",
+      "take": "Cheniere announced on Nov. 16 that Zach Davis was promoted to President and CFO from Executive Vice President and CFO, effective Nov. 12, 2026. He has been CFO since August 2020 and continues to report to Chairman and CEO Jack Fusco. AlphaGen read: this is a title and scope change for an existing executive, not a change of CFO.",
+      "source_name": "Cheniere Energy, Inc. (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526463597/d158128dex991.htm",
+      "ticker": "NYSE:LNG",
+      "checked": "2026-11-17T02:46:19Z"
+    },
+    {
+      "id": "2026-11-16-t10yie-2p20-t10y2y-0p29",
+      "time": "2026-11-17T03:25:19Z",
+      "tag": "RATES",
+      "headline": "10-year breakeven 2.20% on Nov. 16 while the 10-2 spread widened to 0.29 point",
+      "take": "FRED shows the 10-year breakeven inflation rate at 2.20% on Nov. 16, down from 2.24% on Nov. 13, and the 10-year minus 2-year Treasury spread at 0.29 percentage point, up from 0.27 on Nov. 13. The spread was 0.35 on Nov. 6 and 0.32 on Nov. 9 in the same series. AlphaGen read: breakevens eased while the curve steepened slightly, so the Nov. 16 moves do not point to a fresh inflation-expectations shock.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), T10YIE and T10Y2Y",
+      "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+      "checked": "2026-11-17T02:46:19Z"
+    },
     {
       "id": "2026-11-16-ppi-oct-total-compounded-5p7",
       "time": "2026-11-17T01:41:52Z",
@@ -4975,68 +5040,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
       "ticker": "NASDAQ:COST",
       "checked": "2026-11-10T21:39:44Z"
-    },
-    {
-      "id": "2026-11-10-bowman-cfr-outlook",
-      "time": "2026-11-10T21:53:44Z",
-      "tag": "FED",
-      "headline": "Bowman: backed October hold at 3-3/4 to 4%; sees 12-month core PCE at 3.3%",
-      "take": "Fed Vice Chair for Supervision Bowman said Nov. 10 that she supported holding the federal funds rate target range at 3-3/4 to 4 percent at last month's FOMC meeting. She said the unemployment rate has edged down to 4.1 percent in October, job gains have averaged about 80,000 per month through October, and that today's CPI suggests 12-month core PCE inflation likely moved up to 3.3 percent in October. She said progress on lowering inflation has stalled over the past two years or so, which keeps inflation, not jobs, at the center of the Fed debate.",
-      "source_name": "Federal Reserve Board (Vice Chair for Supervision Bowman speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-      "checked": "2026-11-10T21:39:44Z"
-    },
-    {
-      "id": "2026-11-10-ivz-oct-aum",
-      "time": "2026-11-10T22:04:44Z",
-      "tag": "EQUITIES",
-      "headline": "Invesco October AUM $2,453.5B, down 3.3%; money market outflows $32.9B",
-      "take": "Invesco reported preliminary month-end assets under management of $2,453.5 billion at Oct. 31, a 3.3% decrease from $2,537.8 billion at Sept. 30. Net long-term outflows were $1.0 billion, money market net outflows were $32.9 billion, market returns reduced AUM by $51 billion and FX added $0.6 billion. Those items account for the full $84.3 billion decline, so market moves and cash-fund outflows, not long-term client flows, drove the drop.",
-      "source_name": "Invesco 8-K (Ex. 99.1, preliminary AUM release)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000424/0000914208-26-000424.txt",
-      "ticker": "NYSE:IVZ",
-      "checked": "2026-11-10T21:39:44Z"
-    },
-    {
-      "id": "2026-11-10-ntrs-senior-notes",
-      "time": "2026-11-10T22:15:44Z",
-      "tag": "CREDIT",
-      "headline": "Northern Trust issues $2B of senior notes: 5.300% due 2031, 5.700% due 2036",
-      "take": "Northern Trust said in an 8-K that on Nov. 10 it issued $1.0 billion of 5.300% Senior Notes due 2031 and $1.0 billion of 5.700% Senior Notes due 2036 under an underwriting agreement dated Nov. 5. Interest is payable semi-annually on May 10 and Nov. 10 starting May 10, 2027. A $2.0 billion senior unsecured raise at these coupons is a data point on where a large custody bank can fund at five and ten years.",
-      "source_name": "Northern Trust 8-K (Item 8.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/73124/000119312526455429/0001193125-26-455429.txt",
-      "ticker": "NASDAQ:NTRS",
-      "checked": "2026-11-10T21:39:44Z"
-    },
-    {
-      "id": "2026-11-10-fred-dgs2-nov9",
-      "time": "2026-11-10T22:26:44Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 4.56% on Nov. 9, up from 4.51% on Nov. 6; 10s-2s spread 0.32",
-      "take": "FRED data show the 2-year constant-maturity Treasury yield at 4.56% on Nov. 9, up 5 basis points from 4.51% on Nov. 6. The 10-year minus 2-year spread narrowed to 0.32 percentage point from 0.35 over the same two observations. A rising 2-year alongside a narrower spread shows shorter-dated yields moving up faster.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, T10Y2Y)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-10T21:39:44Z"
-    },
-    {
-      "id": "2026-11-10-waller-hold-rationale",
-      "tag": "FED",
-      "headline": "Waller: voted to hold because markets already price in hikes; timing 'doesn't matter'",
-      "take": "Fed Governor Waller said Nov. 10 he supported the FOMC majority in holding policy at the most recent meeting because the Committee's communication about likely tightening had already led markets to price in some tightening. He said it is not necessary to raise rates at consecutive meetings, but that the promised hikes must be carried out in a reasonable period or market expectations and rates will fall. The message is that the debate is about follow-through on hikes, not the exact meeting.",
-      "source_name": "Federal Reserve Board (Governor Waller speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "time": "2026-11-10T20:40:47Z",
-      "checked": "2026-11-10T20:38:47Z"
-    },
-    {
-      "id": "2026-11-10-waller-payroll-averages",
-      "tag": "MACRO",
-      "headline": "Waller: 6- and 12-month payroll gains near 80,000 a month, labor supply and demand 'in rough balance'",
-      "take": "Governor Waller said October payrolls rose 165,000 with 85,000 added to estimates of the previous two months, and the unemployment rate ticked down to 4.1%. He said the 6-month and 12-month average payroll gains have been closer to 80,000 a month, a bit above most estimates of the breakeven level needed to keep unemployment steady. Averaging through the month-to-month swings gives a much slower trend than the October headline.",
-      "source_name": "Federal Reserve Board (Governor Waller speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "time": "2026-11-10T20:49:47Z",
-      "checked": "2026-11-10T20:38:47Z"
     }
   ]
 }
