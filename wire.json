@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-17T12:40:03Z",
+ "updated": "2026-11-17T13:39:35Z",
  "items": [
+  {
+   "tag": "HOUSING",
+   "id": "2026-11-17-census-week-ahead-starts-sales-durables",
+   "headline": "Census calendar: housing starts Nov. 18, durable goods and new home sales Nov. 25",
+   "take": "The Census Bureau's 2026 calendar lists New Residential Construction for October on Nov. 18 at 8:30 a.m., the Advance Services Report for the third quarter on Nov. 19 at 10:00 a.m., and Durable Goods for October on Nov. 25 at 8:30 a.m. with New Residential Sales at 10:00 a.m. the same day. The Advance Economic Indicators Report for October follows on Nov. 27 at 8:30 a.m. AlphaGen read: housing data lead the schedule this week, and the Thanksgiving-week releases fall on Nov. 25 and Nov. 27.",
+   "source_name": "U.S. Census Bureau, 2026 Economic Indicator Calendar",
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "time": "2026-11-17T14:20:35Z",
+   "checked": "2026-11-17T13:39:35Z"
+  },
+  {
+   "tag": "DEBT",
+   "id": "2026-11-17-tsy-bill-indirect-shares-13-17-26wk",
+   "headline": "Indirect bidders took 60.8% of the 26-week bill, 54.2% of the 13-week, 49.8% of the 17-week",
+   "take": "Treasury auction data show indirect bidders were accepted for $52.68 billion of $86.66 billion in the Oct. 13 26-week bill (60.8%), $54.38 billion of $100.40 billion in the Oct. 13 13-week bill (54.2%) and $39.86 billion of $80.05 billion in the Oct. 14 17-week bill (49.8%). Primary dealers took 21.3%, 30.2% and 34.7% of those auctions respectively (AlphaGen calculation from total accepted). AlphaGen read: the longer 26-week bill drew the largest indirect share and the smallest dealer share of the three.",
+   "source_name": "U.S. Treasury, Fiscal Data auctions",
+   "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+   "time": "2026-11-17T14:11:35Z",
+   "checked": "2026-11-17T13:39:35Z"
+  },
+  {
+   "tag": "MACRO",
+   "id": "2026-11-17-census-sept-retail-baseline",
+   "headline": "Retail sales release for October due 8:30 a.m. today; September was $745.0B, up 0.8%",
+   "take": "Census says the October 2026 advance retail report is scheduled for Nov. 17 at 8:30 a.m. In its prior report, for September, advance retail and food services sales were $745.0 billion, up 0.8% from August and up 6.3% from September 2025. Excluding gasoline stations, sales rose 0.2% on the month, and August's gain was revised to 1.3% from 1.1%. AlphaGen read: the September figures are the baseline against which the October report will be read.",
+   "source_name": "U.S. Census Bureau, Advance Monthly Sales for Retail and Food Services (September 2026 report)",
+   "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+   "time": "2026-11-17T14:02:35Z",
+   "checked": "2026-11-17T13:39:35Z"
+  },
+  {
+   "tag": "FED",
+   "id": "2026-11-17-fed-speaker-slate-nov17-20",
+   "headline": "Fed calendar: Waller Nov. 17, Barr Nov. 18 and 19, Jefferson Nov. 19, Cook Nov. 20",
+   "take": "The Fed Board calendar lists Governor Waller on payments at The Clearing House conference on Nov. 17 at 9:10 a.m., Governor Barr on community development investments on Nov. 18 at 1:35 p.m., and Vice Chair Jefferson on economic shocks on Nov. 19 at 9:25 a.m. Barr also appears in a discussion on artificial intelligence at the FinRegLab symposium on Nov. 19 at 2:15 p.m., and Governor Cook speaks on the U.S. economy in global context at the Central Bank of Chile conference on Nov. 20 at 12:15 p.m. AlphaGen read: the listed topics span payments, community development, economic shocks and AI.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm",
+   "time": "2026-11-17T13:53:35Z",
+   "checked": "2026-11-17T13:39:35Z"
+  },
+  {
+   "tag": "FED",
+   "id": "2026-11-17-fomc-minutes-nov18-2pm",
+   "headline": "FOMC minutes of Oct. 27-28 meeting due Nov. 18 at 2:00 p.m.",
+   "take": "The Federal Reserve Board's November calendar lists the FOMC Minutes for the meeting of October 27-28 at 2:00 p.m. on Nov. 18. The same calendar lists the Beige Book at 2:00 p.m. on Nov. 25. AlphaGen read: the minutes are the next official document describing the October meeting, ahead of the Beige Book a week later.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm",
+   "time": "2026-11-17T13:44:35Z",
+   "checked": "2026-11-17T13:39:35Z"
+  },
   {
    "tag": "RATES",
    "id": "2026-11-17-fred-2y-10y-30y-nov13-vs-nov5",
@@ -4991,56 +5041,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLC0A4CBBB, BAMLH0A1HYBB)",
    "source_url": "https://fred.stlouisfed.org/series/BAMLC0A4CBBB",
    "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-gasoline-nov9",
-   "time": "2026-11-11T02:41:38Z",
-   "tag": "COMMODITIES",
-   "headline": "U.S. regular gasoline averages $3.995 a gallon in week of Nov. 9, from $4.153",
-   "take": "The weekly U.S. regular gasoline price was $3.995 per gallon on Nov. 9, down from $4.153 on Nov. 2 and $4.269 on Oct. 26, per FRED. That is a decline of $0.274 over two weeks. AlphaGen read: pump prices fell over the same stretch in which FRED shows Brent spot lower.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (GASREGW)",
-   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
-   "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-bowman-ai-buildout-prices",
-   "time": "2026-11-11T02:30:28Z",
-   "tag": "MACRO",
-   "headline": "Bowman: AI buildout pushing up prices of specific high-tech capital as supply is inelastic",
-   "take": "Bowman said Nov. 10 that inflation pressures tied to the AI buildout seem to persist despite some early signs of slowing, because the buildout has quickly shifted investment demand toward specific types of high-tech capital while near-term supply is relatively inelastic. She said she mostly views these pressures as relative price shocks in specific sectors, and that over time increased AI adoption should raise productivity and put some downward pressure on inflation. AlphaGen read: the Fed is treating AI as both a near-term price pressure and a longer-term disinflation argument.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T01:43:28Z"
-  },
-  {
-   "id": "2026-11-11-bowman-energy-fuels",
-   "time": "2026-11-11T02:16:28Z",
-   "tag": "ENERGY",
-   "headline": "Bowman: Brent topped $110 in late October; gasoline, diesel, jet fuel near spring highs",
-   "take": "Bowman said Nov. 10 that Brent oil prices moved up to and above $110 per barrel in the second half of October before dropping sharply last week on optimism about a U.S.-Iran agreement after the midterm elections. She said gasoline, diesel and jet fuel prices moved up to near or even above their spring highs, reflecting both higher crude prices and wider refining margins. Her framing ties pump and fuel costs to refining spreads as well as crude, so a crude decline may not pass through fully.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T01:43:28Z"
-  },
-  {
-   "id": "2026-11-11-bowman-growth-housing",
-   "time": "2026-11-11T02:02:28Z",
-   "tag": "HOUSING",
-   "headline": "Bowman: Q3 GDP likely above 3%, but higher mortgage rates drag on home construction",
-   "take": "Bowman said Nov. 10 that real GDP rose 2.4 percent in the first half of 2026 and likely grew at more than 3 percent in the third quarter, versus a 2 percent pace last year, helped by AI-related capital expenditures and solid consumer spending. She said some interest-rate-sensitive sectors such as residential investment have declined and that the recent rise in mortgage rates appears to be dragging home construction and sales down further. Growth is being carried by investment and spending while housing is the visible weak spot.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T01:43:28Z"
-  },
-  {
-   "id": "2026-11-11-bowman-labor-dynamism",
-   "time": "2026-11-11T01:48:28Z",
-   "tag": "MACRO",
-   "headline": "Bowman: wage growth 3.1%, long-term unemployed share up in 'low-dynamism' labor market",
-   "take": "Fed Vice Chair for Supervision Michelle Bowman said Nov. 10 that the wages and salaries component of the employment cost index rose 3.1 percent over 12 months in September, the same pace as average hourly earnings in October, and that the share of multiple job holders is back to early-2025 levels. She said the share of long-term unemployed workers has moved up significantly, but that layoffs have declined this year, offsetting weak hiring. The mix of slower wages and stable unemployment supports her view that the labor market is stable but not tight.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-11T01:43:28Z"
   }
  ]
 }

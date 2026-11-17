@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:41:29Z",
+ "updated": "2026-11-17T13:39:35Z",
  "note": "Times are ET. Blank time means the agency schedule lists no time.",
  "items": [
   {
@@ -103,6 +103,16 @@
    "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
   },
   {
+   "id": "2026-11-19-advanceservicesreportq3",
+   "date": "2026-11-19",
+   "time": "10:00",
+   "name": "Advance Services Report (Q3)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
    "date": "2026-11-20",
    "time": "10:00",
    "name": "State Employment & Unemployment (Oct)",
@@ -173,6 +183,16 @@
    "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
   },
   {
+   "id": "2026-11-27-advanceeconomicindicatorsrepor",
+   "date": "2026-11-27",
+   "time": "08:30",
+   "name": "Advance Economic Indicators Report (Oct)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
    "id": "2026-12-01-jolts",
    "date": "2026-12-01",
    "time": "10:00",
@@ -201,6 +221,16 @@
    "category": "Labor",
    "importance": 3,
    "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
+  },
+  {
+   "id": "2026-12-08-usinternationaltradeingoodsand",
+   "date": "2026-12-08",
+   "time": "08:30",
+   "name": "U.S. International Trade in Goods and Services (Oct)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 2,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
   },
   {
    "id": "2026-12-09-boc-decision",
@@ -233,6 +263,16 @@
    "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
   },
   {
+   "id": "2026-12-16-advanceretailsalesnov",
+   "date": "2026-12-16",
+   "time": "08:30",
+   "name": "Advance Retail Sales (Nov)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 3,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
    "id": "2026-12-16-industrial-production",
    "date": "2026-12-16",
    "time": "09:15",
@@ -241,6 +281,36 @@
    "category": "Growth",
    "importance": 2,
    "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
+  },
+  {
+   "id": "2026-12-17-housingstartspermitsnov",
+   "date": "2026-12-17",
+   "time": "08:30",
+   "name": "Housing Starts & Permits (Nov)",
+   "agency": "Census",
+   "category": "Housing",
+   "importance": 2,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
+   "id": "2026-12-23-durablegoodsordersnov",
+   "date": "2026-12-23",
+   "time": "08:30",
+   "name": "Durable Goods Orders (Nov)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 2,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
+   "id": "2026-12-23-newhomesalesnov",
+   "date": "2026-12-23",
+   "time": "10:00",
+   "name": "New Home Sales (Nov)",
+   "agency": "Census",
+   "category": "Housing",
+   "importance": 2,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
   }
  ]
 }
