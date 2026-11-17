@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-17T21:50:00Z",
+  "updated": "2026-11-17T22:38:21Z",
   "items": [
+    {
+      "id": "2026-11-17-fred-t10y2y-nov16-029",
+      "time": "2026-11-17T23:25:00Z",
+      "tag": "RATES",
+      "headline": "10-year minus 2-year Treasury spread 0.29 point on Nov. 16, up from 0.27",
+      "take": "FRED's 10-year minus 2-year Treasury constant-maturity spread was 0.29 percentage point on Nov. 16, up 0.02 from 0.27 on Nov. 13 and below the 0.35 recorded on Nov. 6. The 10-year breakeven inflation rate was 2.20 percent on Nov. 16, down 0.04 from 2.24 percent on Nov. 13. AlphaGen read: the curve gap has narrowed from early November, with the two latest readings edging back up.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-17T22:38:21Z"
+    },
+    {
+      "id": "2026-11-17-bea-sept-pce-prices-headline-core-gap",
+      "time": "2026-11-17T23:14:00Z",
+      "tag": "MACRO",
+      "headline": "September PCE prices up 3.6% on the year; 3.1% excluding food and energy",
+      "take": "BEA's September release showed the PCE price index up 3.6 percent from a year earlier and up 3.1 percent excluding food and energy, a 0.5 percentage point gap. For the month, the headline index rose 0.5 percent and the core index 0.3 percent. AlphaGen read: food and energy added to headline PCE inflation in both the monthly and the annual comparisons.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-17T22:38:21Z"
+    },
+    {
+      "id": "2026-11-17-bea-sept-pce-services-78b-goods-35b",
+      "time": "2026-11-17T23:03:00Z",
+      "tag": "MACRO",
+      "headline": "September PCE: services spending up $78.1B, goods up $35.1B",
+      "take": "BEA said the $113.1 billion September increase in current-dollar personal consumption expenditures reflected a $35.1 billion increase in spending on goods and a $78.1 billion increase in spending on services. The services gain was 2.2 times the goods gain. AlphaGen read: most of the nominal rise in September spending came from services rather than goods.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-17T22:38:21Z"
+    },
+    {
+      "id": "2026-11-17-bea-sept-saving-rate-3p8",
+      "time": "2026-11-17T22:52:00Z",
+      "tag": "MACRO",
+      "headline": "Personal saving rate 3.8% in September; saving $911.1B",
+      "take": "BEA's September Personal Income and Outlays release put personal saving at $911.1 billion, a saving rate of 3.8 percent of disposable personal income. Personal income rose $54.5 billion (0.2 percent) while personal consumption expenditures rose $113.1 billion (0.5 percent). AlphaGen read: spending grew by more than twice the dollar gain in income in September, which is the arithmetic behind a saving rate in the 3s.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "checked": "2026-11-17T22:38:21Z"
+    },
+    {
+      "id": "2026-11-17-bls-oct-import-prices-1p1",
+      "time": "2026-11-17T22:41:00Z",
+      "tag": "MACRO",
+      "headline": "U.S. import prices rise 1.1% in October; export prices up 1.1%",
+      "take": "BLS reported Nov. 17 that U.S. import prices increased 1.1 percent in October after a 1.1 percent rise in September, while export prices rose 1.1 percent in October after a 2.4 percent rise in September. BLS attributed the import increase to higher nonfuel prices. AlphaGen read: import prices rose by the same 1.1 percent in each of the past two months, while the export gain slowed from September's 2.4 percent.",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/bls/",
+      "checked": "2026-11-17T22:38:21Z"
+    },
     {
       "id": "2026-11-17-jpm-de-best-cfo-successor",
       "time": "2026-11-17T21:44:00Z",
@@ -5014,57 +5064,6 @@
       "source_name": "Federal Reserve Board (Waller speech)",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "checked": "2026-11-11T18:44:24Z"
-    },
-    {
-      "id": "2026-11-11-jobs-oct-workweek",
-      "time": "2026-11-11T18:57:24Z",
-      "tag": "MACRO",
-      "headline": "Average private workweek holds at 34.4 hours in October; manufacturing 40.5, overtime 3.1",
-      "take": "BLS reported that the average workweek for all employees on private nonfarm payrolls was unchanged at 34.4 hours in October. In manufacturing the workweek was unchanged at 40.5 hours and overtime edged up 0.1 hour to 3.1 hours, while the workweek for production and nonsupervisory employees declined 0.1 hour to 33.8 hours. AlphaGen read: hours were flat even as payrolls rose 165,000, so October's gain did not come from longer schedules.",
-      "source_name": "BLS Employment Situation, October 2026",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "checked": "2026-11-11T18:44:24Z"
-    },
-    {
-      "id": "2026-11-11-jobs-oct-health-care-detail",
-      "time": "2026-11-11T19:09:24Z",
-      "tag": "MACRO",
-      "headline": "Health care added 42,000 jobs in October vs 31,000 average; hospitals +16,000",
-      "take": "BLS said health care employment rose 42,000 in October, above its average monthly gain of 31,000 over the prior 12 months. Gains were in hospitals (+16,000), home health care services (+11,000) and outpatient care centers (+5,000). AlphaGen read: health care remains one of the three industries BLS named as driving October's 165,000 total, alongside professional and business services and transportation and warehousing.",
-      "source_name": "BLS Employment Situation, October 2026",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "checked": "2026-11-11T18:44:24Z"
-    },
-    {
-      "id": "2026-11-11-waller-aging-education-dynamism",
-      "time": "2026-11-11T19:21:24Z",
-      "tag": "FED",
-      "headline": "Waller: aging, education explain part of low dynamism; degree share 28% to 37%",
-      "take": "Waller said part of the decline in both hiring and firing may reflect longer-run trends that predate the pandemic: an aging workforce, since older workers switch jobs less often, and rising education, since the share of adults 25 and older with at least a bachelor's degree has increased from 28 percent in 2010 to 37 percent. He said that if those were the only reasons, dynamism would be at a level consistent with trend, with no implications for monetary policy, but said that even after accounting for them, dynamism still seems somewhat low. AlphaGen read: the speech separates structural drift from cyclical weakness, which is the distinction that matters for policy.",
-      "source_name": "Federal Reserve Board (Waller speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "checked": "2026-11-11T18:44:24Z"
-    },
-    {
-      "id": "2026-11-11-ecb-euro-banknote-redesign",
-      "time": "2026-11-11T19:33:24Z",
-      "tag": "GLOBAL",
-      "headline": "ECB: banknote design survey drew almost 10 million responses; first new notes early 2030s",
-      "take": "ECB Executive Board member Piero Cipollone said the July survey on ten shortlisted designs for new euro banknotes, themed 'European culture' and 'Rivers and birds', received almost 10 million responses across all euro area countries and age groups. The Governing Council's decision on the final design concept is expected around the end of this year, when the survey results will also be published, and the first denominations of the new series are expected to enter circulation in the early 2030s. AlphaGen read: the timeline is slow, and the ECB paired it with support for mandatory cash acceptance rules.",
-      "source_name": "ECB (Cipollone speech, Nov. 10)",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "checked": "2026-11-11T18:44:24Z"
-    },
-    {
-      "id": "2026-11-11-tt-q2-fy27-results",
-      "time": "2026-11-11T17:39:51Z",
-      "tag": "EARNINGS",
-      "headline": "Take-Two fiscal Q2 revenue $1.50B vs $1.77B; net loss $54.0M, $0.29 a share",
-      "take": "Take-Two's release for the three months ended Sept. 30, 2026 reported GAAP net revenue of $1,497.0 million versus $1,773.8 million a year earlier (-15.6% by AlphaGen's calculation) and a GAAP net loss of $54.0 million, or $0.29 per share, versus $0.73 per share. Total Net Bookings decreased 18% to $1.60 billion from $1.96 billion. AlphaGen read: the quarter's bookings and revenue both fell year over year, so the company's fiscal outlook rests on what comes after the quarter.",
-      "source_name": "Take-Two Interactive Q2 FY2027 earnings release (SEC EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026072175/ttwo2q27earningsrelease.htm",
-      "ticker": "NASDAQ:TTWO",
-      "checked": "2026-11-11T17:39:51Z"
     }
   ]
 }
