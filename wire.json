@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-17T13:39:35Z",
+ "updated": "2026-11-17T14:38:31Z",
  "items": [
+  {
+   "id": "2026-11-17-fang-double-eagle-assets-4x",
+   "time": "2026-11-17T14:40:31Z",
+   "tag": "DEALS",
+   "headline": "Diamondback: Double Eagle assets cover 176,000 net acres, valued at about 4.0x 2027 EBITDA",
+   "take": "Diamondback's Nov. 16 release says the Double Eagle assets include approximately 176,000 net acres in the core of the Midland Basin, estimated 2027 oil production of approximately 35 MBo/d (92 MBoe/d, 38% oil) and a transaction valued at approximately 4.0x estimated 2027 EBITDA. About 68% of the asset is undeveloped, with over 1,200 gross (495 net) horizontal locations in primary development targets. AlphaGen read: the company's own multiple and the inventory count are the two numbers that frame what it is paying for.",
+   "source_name": "Diamondback Energy (Form 8-K, Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
+   "ticker": "NASDAQ:FANG",
+   "checked": "2026-11-17T14:38:31Z"
+  },
+  {
+   "id": "2026-11-17-fang-spanish-trail-barnett",
+   "time": "2026-11-17T14:48:31Z",
+   "tag": "ENERGY",
+   "headline": "Diamondback: four-well Barnett project in Midland County peaked near 7.5 MBo/d",
+   "take": "Diamondback said its first full-section Barnett development, at Spanish Trail in Midland County, consists of four 10,000-foot lateral wells that at a recent peak produced approximately 7.5 MBo/d and 37 MMcf/d. The company says this exceeded internal expectations for full-field development and is in line with delineation wells in the area, and it plans full-field Barnett development in 2027. AlphaGen read: these are early, company-reported results from a single project, so they speak to the play's potential rather than to a settled production base.",
+   "source_name": "Diamondback Energy (Form 8-K, Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
+   "ticker": "NASDAQ:FANG",
+   "checked": "2026-11-17T14:38:31Z"
+  },
+  {
+   "id": "2026-11-17-fang-double-eagle-funding-leverage",
+   "time": "2026-11-17T14:56:31Z",
+   "tag": "CREDIT",
+   "headline": "Diamondback to fund $2.15B cash piece from cash, credit facility and/or term loans",
+   "take": "Diamondback expects the $2.15 billion cash portion of the Double Eagle acquisition to be funded through a combination of cash on hand, borrowings under its credit facility and/or proceeds from term loans. The release calls the transaction expected to be leverage neutral and says Diamondback does not need to add a rig or materially alter its development plan. Closing is expected Dec. 21, 2026. AlphaGen read: the funding mix leaves open how much of the cash is borrowed, which is the number to look for in later filings.",
+   "source_name": "Diamondback Energy (Form 8-K, Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
+   "ticker": "NASDAQ:FANG",
+   "checked": "2026-11-17T14:38:31Z"
+  },
+  {
+   "id": "2026-11-17-aon-sicard-usi-middle-market",
+   "time": "2026-11-17T15:05:31Z",
+   "tag": "EQUITIES",
+   "headline": "Aon names Mike Sicard President and global CEO of middle market after USI close",
+   "take": "Aon said that effective immediately USI will go to market as \"USI, an Aon company\" under Mike Sicard, who now serves as President of Aon and global CEO of the middle market across Aon, NFP and USI. The release describes USI as the tenth largest U.S. insurance broker, with approximately $3 billion in annual revenue and more than 10,500 team members across nearly 200 U.S. offices. AlphaGen read: Aon is organizing its middle-market business under a single leader that spans NFP and USI.",
+   "source_name": "Aon plc (Form 8-K, Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
+   "ticker": "NYSE:AON",
+   "checked": "2026-11-17T14:38:31Z"
+  },
+  {
+   "id": "2026-11-17-kdp-debt-instruments-underwriters",
+   "time": "2026-11-17T15:14:31Z",
+   "tag": "CREDIT",
+   "headline": "KDP's $2.0B stock offering proceeds may retire term loan, commercial paper and notes",
+   "take": "Keurig Dr Pepper said it intends to use net proceeds to repay or repurchase approximately $2.0 billion aggregate principal amount of outstanding debt, which may include borrowings under its delayed draw term loan, commercial paper notes and senior unsecured notes. Goldman Sachs & Co. LLC and Morgan Stanley are joint book-running managers, and the offering is subject to market and other customary conditions. AlphaGen read: the release lists the debt types but not which will be retired, so the prospectus supplement is the filing that would show the split.",
+   "source_name": "Keurig Dr Pepper (Form 8-K, Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1418135/000119312526463583/d473035dex991.htm",
+   "ticker": "NASDAQ:KDP",
+   "checked": "2026-11-17T14:38:31Z"
+  },
   {
    "tag": "HOUSING",
    "id": "2026-11-17-census-week-ahead-starts-sales-durables",
@@ -4990,56 +5045,6 @@
    "take": "Reserve balances with Federal Reserve Banks were $2,930.1 billion on Nov. 4, up $36.3 billion from $2,893.8 billion on Oct. 28, per FRED. The Treasury General Account fell $42.6 billion to $957.2 billion over the same week. AlphaGen read: lower Treasury cash balances coincided with higher reserves.",
    "source_name": "FRED, Federal Reserve Bank of St. Louis (WRESBAL, WTREGEN)",
    "source_url": "https://fred.stlouisfed.org/series/WRESBAL",
-   "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-long-yields-uk-de-sep",
-   "time": "2026-11-11T03:16:38Z",
-   "tag": "GLOBAL",
-   "headline": "UK 10-year yield averaged 5.24% in September, Germany 3.47%, both up from August",
-   "take": "FRED's OECD-sourced monthly long-term government bond yield series shows the United Kingdom at 5.2421% in September 2026, up from 4.9886% in August, and Germany at 3.4695%, up from 3.1857%. That is increases of about 25 and 28 basis points. AlphaGen read: both markets saw yields rise through the third quarter.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01GBM156N, IRLTLT01DEM156N)",
-   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
-   "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-existing-sales-sep",
-   "time": "2026-11-11T03:09:38Z",
-   "tag": "HOUSING",
-   "headline": "Existing-home sales 3.99M annual rate in September, up from 3.93M in August",
-   "take": "FRED's existing home sales series stood at 3.99 million at a seasonally adjusted annual rate in September 2026, up from 3.93 million in August and down from 4.08 million in September 2025. July was 4.06 million. AlphaGen read: sales ticked up in September but remain below the year-earlier pace.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (EXHOSLUSM495S)",
-   "source_url": "https://fred.stlouisfed.org/series/EXHOSLUSM495S",
-   "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-case-shiller-aug",
-   "time": "2026-11-11T03:02:38Z",
-   "tag": "HOUSING",
-   "headline": "Case-Shiller national home price index 336.741 in August, up 2.1% from a year earlier",
-   "take": "FRED's national Case-Shiller index (not seasonally adjusted) was 336.741 for August 2026, versus 337.262 in July, a 0.15% monthly decline, and 329.844 in August 2025, a 2.09% annual gain. AlphaGen read: annual price growth remains positive but the latest monthly reading slipped.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (CSUSHPINSA)",
-   "source_url": "https://fred.stlouisfed.org/series/CSUSHPINSA",
-   "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-sloos-ci-oct",
-   "time": "2026-11-11T02:55:38Z",
-   "tag": "CREDIT",
-   "headline": "Loan officer survey: net 1.7% of banks tightened C&I standards for large firms",
-   "take": "FRED's series for the Federal Reserve's Senior Loan Officer survey shows a net 1.7% of domestic banks tightening standards on commercial and industrial loans to large and middle-market firms in the October 2026 reading, versus 0.0 in July and 8.1 in April. AlphaGen read: the net share tightening remains small, and is below the April reading.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DRTSCILM)",
-   "source_url": "https://fred.stlouisfed.org/series/DRTSCILM",
-   "checked": "2026-11-11T02:38:38Z"
-  },
-  {
-   "id": "2026-11-11-credit-bbb-bb-nov9",
-   "time": "2026-11-11T02:48:38Z",
-   "tag": "CREDIT",
-   "headline": "BBB option-adjusted spread 1.13 points, BB 2.00 on Nov. 9; BB was 2.13 on Nov. 5",
-   "take": "ICE BofA option-adjusted spreads on FRED were 1.13 points for BBB-rated and 2.00 points for BB-rated U.S. corporate bonds on Nov. 9, versus 1.16 and 2.13 on Nov. 5. The all-investment-grade index spread was 0.91 on Nov. 9, from 0.93 on Nov. 5. AlphaGen read: spreads narrowed across these three indexes between Nov. 5 and Nov. 9.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLC0A4CBBB, BAMLH0A1HYBB)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A4CBBB",
    "checked": "2026-11-11T02:38:38Z"
   }
  ]
