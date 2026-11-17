@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-16T23:44:27Z",
+  "updated": "2026-11-17T00:38:11Z",
   "items": [
+    {
+      "id": "2026-11-17-tsy-8wk-bill-oct15-vs-oct8",
+      "time": "2026-11-17T00:41:11Z",
+      "tag": "DEBT",
+      "headline": "8-week bill high rate 4.132% on Oct. 15, up 7.2 bp from 4.060% on Oct. 8",
+      "take": "Treasury results show the $105 billion 8-week bill auctioned Oct. 15 had a 4.132% high investment rate and a 2.26 bid-to-cover ratio, versus 4.060% and 2.77 on Oct. 8. Indirect bidders were accepted for $47.89 billion of $112.08 billion total accepted on Oct. 15, against $71.40 billion of $113.92 billion a week earlier. AlphaGen read: unlike the 4-week bill, whose bid-to-cover rose over the same week, the 8-week saw coverage fall as its rate increased.",
+      "source_name": "U.S. Treasury, Fiscal Data auctions",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+      "checked": "2026-11-17T00:38:11Z"
+    },
+    {
+      "id": "2026-11-17-tsy-17wk-bill-oct14-431",
+      "time": "2026-11-17T00:52:11Z",
+      "tag": "RATES",
+      "headline": "17-week bill high rate 4.313% on Oct. 14 with a 2.79 bid-to-cover, the highest in the latest results",
+      "take": "Treasury results show the $75 billion 17-week bill auctioned Oct. 14 had a 4.313% high investment rate and a 2.79 bid-to-cover ratio, with $80.05 billion total accepted. Among the eight bill auctions in the latest results, 2.79 was the highest bid-to-cover; the 8-week on Oct. 15 had the lowest at 2.26. AlphaGen read: the 17-week had the strongest coverage of the six bill maturities in these results.",
+      "source_name": "U.S. Treasury, Fiscal Data auctions",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+      "checked": "2026-11-17T00:38:11Z"
+    },
+    {
+      "id": "2026-11-17-tsy-13wk-26wk-gap-oct13",
+      "time": "2026-11-17T01:03:11Z",
+      "tag": "DEBT",
+      "headline": "26-week bill cleared 16.6 bp above the 13-week on Oct. 13: 4.351% vs 4.185%",
+      "take": "Treasury results show the $95 billion 13-week bill auctioned Oct. 13 had a 4.185% high investment rate and a 2.68 bid-to-cover, while the $82 billion 26-week bill had 4.351% and 2.76. The 16.6 basis-point gap is computed from the two stated rates. AlphaGen read: the 26-week offered a modestly higher rate for the longer maturity at that day's auctions.",
+      "source_name": "U.S. Treasury, Fiscal Data auctions",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+      "checked": "2026-11-17T00:38:11Z"
+    },
+    {
+      "id": "2026-11-17-tsy-bill-offerings-oct13-15",
+      "time": "2026-11-17T01:14:11Z",
+      "tag": "DEBT",
+      "headline": "Treasury bill offerings Oct. 13-15 ranged from $75B (17-week) to $110B (4-week)",
+      "take": "Treasury's latest auction results list offering amounts of $110 billion for the 4-week, $95 billion each for the 6-week and 13-week, $105 billion for the 8-week, $75 billion for the 17-week and $82 billion for the 26-week. Total accepted exceeded the offering amount in each case, from $80.05 billion for the 17-week to $117.41 billion for the 4-week. AlphaGen read: the 4-week and 8-week sizes together total $215 billion of the six offerings listed.",
+      "source_name": "U.S. Treasury, Fiscal Data auctions",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+      "checked": "2026-11-17T00:38:11Z"
+    },
+    {
+      "id": "2026-11-17-tsy-4wk-bill-dealers-share-oct15",
+      "time": "2026-11-17T01:25:11Z",
+      "tag": "DEBT",
+      "headline": "Primary dealers took 27% of the Oct. 15 4-week bill, vs 31% on Oct. 8",
+      "take": "Treasury results show primary dealers were accepted for $31.67 billion of $117.41 billion total accepted in the 4-week bill auction on Oct. 15, about 27.0%, versus $37.49 billion of $119.35 billion, about 31.4%, on Oct. 8. Indirect bidders rose to $64.87 billion from $58.73 billion. AlphaGen read: indirect bidders accounted for more of the 4-week bill accepted amount in the latest auction than a week earlier.",
+      "source_name": "U.S. Treasury, Fiscal Data auctions",
+      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
+      "checked": "2026-11-17T00:38:11Z"
+    },
     {
       "id": "2026-11-16-bea-q3-inventories-wholesale-manufacturing",
       "time": "2026-11-17T00:22:27Z",
@@ -4987,57 +5037,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926125064/tm2629447d1_ex99-1.htm",
       "ticker": "NASDAQ:STLD",
       "time": "2026-11-10T19:44:00Z",
-      "checked": "2026-11-10T19:39:12Z"
-    },
-    {
-      "id": "2026-11-10-rakuten-ast-jv",
-      "tag": "DEALS",
-      "headline": "Rakuten and AST SpaceMobile form Japan satellite JV tied to ~$1B in government support",
-      "take": "Rakuten Group and AST SpaceMobile agreed to establish Rakuten AST, Inc. on Nov. 6 (Japan time) to build a direct-to-device LEO satellite network in Japan, with Rakuten holding 51% of voting rights and AST SpaceMobile's Japanese subsidiary 49%. The release says the venture is expected to receive up to 148 billion yen (approximately $1 billion) in support over about three years from Japan's J-LEO project, with domestic operations targeted by the end of March 2029. The venture pairs a Japanese-government-backed funding award with AST SpaceMobile's satellite supply role.",
-      "source_name": "AST SpaceMobile 8-K Exhibit 99.1",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226050865/ex99-1.htm",
-      "ticker": "NASDAQ:ASTS",
-      "time": "2026-11-10T19:52:00Z",
-      "checked": "2026-11-10T19:39:12Z"
-    },
-    {
-      "id": "2026-11-10-cipollone-digital-euro",
-      "tag": "GLOBAL",
-      "headline": "ECB's Cipollone: digital euro pilot to start in 2H 2027, needs law adopted by year-end",
-      "take": "In remarks to the European Parliament's economics committee on Nov. 10, ECB Executive Board member Piero Cipollone said the digital euro pilot starts in the second half of 2027 with 36 selected payment service providers, and that first issuance can be set only after the Regulation is adopted. He said a swift end to trilogue talks would allow adoption of the Single Currency Package by the end of the year, and noted that on Nov. 2 the Pontes platform settled the European Stability Mechanism's first digitally native benchmark bond of EUR 1 billion. The timeline now hinges on legislation rather than technical readiness, by his account.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "time": "2026-11-10T20:00:00Z",
-      "checked": "2026-11-10T19:39:12Z"
-    },
-    {
-      "id": "2026-11-10-fred-sofr-rrp-walcl",
-      "tag": "FED",
-      "headline": "SOFR 3.88% on Nov. 9, down from 3.95% a week earlier; Fed assets $6.748T",
-      "take": "FRED shows the secured overnight financing rate at 3.88% on Nov. 9, down 7 basis points from 3.95% on Nov. 2, while overnight reverse repurchase take-up was $0.152 billion on Nov. 10. Federal Reserve total assets were $6,748,145 million (about $6.748 trillion) in the week of Nov. 4, up $2.5 billion from $6,745,635 million on Oct. 28. Repo funding rates drifting lower with almost no reverse repo usage points to ample cash in overnight markets.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/SOFR",
-      "time": "2026-11-10T20:08:00Z",
-      "checked": "2026-11-10T19:39:12Z"
-    },
-    {
-      "id": "2026-11-10-fred-fx-nov6",
-      "tag": "FX",
-      "headline": "EUR/USD at 1.1154 and USD/JPY at 158.23 on Nov. 6",
-      "take": "FRED daily exchange rates show the euro at $1.1154 on Nov. 6, down from $1.1235 on Nov. 5 and $1.1163 on Oct. 30. The yen rate was 158.23 per dollar on Nov. 6 versus 157.47 on Oct. 30, a move of 0.76 yen per dollar over the week. The euro's one-day drop was the largest of the six observations in the series pulled, while the yen has stayed in a narrow 157-158.5 range.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
-      "time": "2026-11-10T20:16:00Z",
-      "checked": "2026-11-10T19:39:12Z"
-    },
-    {
-      "id": "2026-11-10-eia-global-refinery-inputs",
-      "tag": "ENERGY",
-      "headline": "Global refinery inputs fell 4.8M b/d in 2Q26, then rose 1.8M b/d in 3Q: EIA",
-      "take": "EIA, citing Kpler data, said global crude refinery inputs fell by 4.8 million b/d, or 6%, in the second quarter of 2026 after the start of conflict in the Middle East in late February, then increased by 1.8 million b/d in the third quarter. China's inputs fell 2.1 million b/d in 2Q26 and a further 0.8 million b/d in 3Q26, while Kuwait, the UAE, Saudi Arabia and Iran together saw inputs rise 0.4 million b/d in 3Q26 after second-quarter declines. The third-quarter rebound recovered well under half of the second-quarter drop.",
-      "source_name": "EIA Today in Energy",
-      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
-      "time": "2026-11-10T20:24:00Z",
       "checked": "2026-11-10T19:39:12Z"
     }
   ]
