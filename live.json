@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-17T11:14:53Z",
+ "updated": "2026-11-17T19:55:07Z",
  "items": [
+  {
+   "id": "live-0000037996-26-000193-5.02",
+   "time": "2026-11-17T14:17:48Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Ford Motor reports an executive or board change",
+   "take": "Ford Motor reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 9:17 AM ET, Nov 17.",
+   "source_name": "SEC EDGAR, F Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000193/0000037996-26-000193-index.htm",
+   "ticker": "NYSE:F"
+  },
+  {
+   "id": "live-0000019617-26-000407-5.02",
+   "time": "2026-11-17T13:00:28Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "JPMorgan Chase reports an executive or board change",
+   "take": "JPMorgan Chase reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 8:00 AM ET, Nov 17.",
+   "source_name": "SEC EDGAR, JPM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000407/0000019617-26-000407-index.htm",
+   "ticker": "NYSE:JPM"
+  },
+  {
+   "id": "live-0000064040-26-000063-5.02",
+   "time": "2026-11-17T12:18:32Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "S&P Global reports an executive or board change",
+   "take": "S&P Global reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 7:18 AM ET, Nov 17.",
+   "source_name": "SEC EDGAR, SPGI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000063/0000064040-26-000063-index.htm",
+   "ticker": "NYSE:SPGI"
+  },
+  {
+   "id": "live-0001744489-26-000065-2.02",
+   "time": "2026-11-17T11:30:22Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Walt Disney releases financial results",
+   "take": "Walt Disney filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:30 AM ET, Nov 17.",
+   "source_name": "SEC EDGAR, DIS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/0001744489-26-000065-index.htm",
+   "ticker": "NYSE:DIS"
+  },
+  {
+   "id": "live-0000354950-26-000184-2.02",
+   "time": "2026-11-17T11:18:03Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Home Depot releases financial results",
+   "take": "Home Depot filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:18 AM ET, Nov 17.",
+   "source_name": "SEC EDGAR, HD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm",
+   "ticker": "NYSE:HD"
+  },
   {
    "id": "live-0000354950-26-000182-5.02",
    "time": "2026-11-17T11:08:09Z",
