@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T02:47:37Z",
+ "updated": "2026-11-17T11:14:53Z",
  "items": [
+  {
+   "id": "live-0000354950-26-000182-5.02",
+   "time": "2026-11-17T11:08:09Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Home Depot reports an executive or board change",
+   "take": "Home Depot reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 6:08 AM ET, Nov 17.",
+   "source_name": "SEC EDGAR, HD Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/0000354950-26-000182-index.htm",
+   "ticker": "NYSE:HD"
+  },
   {
    "id": "live-0001682852-26-000208-1.01",
    "time": "2026-11-16T22:19:39Z",
