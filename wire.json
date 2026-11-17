@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-17T17:39:41Z",
+ "updated": "2026-11-17T18:38:49Z",
  "items": [
+  {
+   "id": "2026-11-17-fred-broad-dollar-nov13",
+   "time": "2026-11-17T19:29:00Z",
+   "tag": "FX",
+   "headline": "Fed's broad dollar index 122.6503 on Nov. 13, up 0.7700 from Nov. 6",
+   "take": "FRED shows the Federal Reserve's nominal broad U.S. dollar index at 122.6503 on Nov. 13, 2026, versus 121.8803 on Nov. 6 and 121.6656 on Oct. 30. AlphaGen read: the index has risen across both weekly comparisons, consistent with the euro and yen moves in the same window.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DTWEXBGS)",
+   "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+   "checked": "2026-11-17T18:38:49Z"
+  },
+  {
+   "id": "2026-11-17-fred-japan-long-yield-oct",
+   "time": "2026-11-17T19:18:00Z",
+   "tag": "GLOBAL",
+   "headline": "Japan long-term yield 2.755% in October, down 29.5 bp from September",
+   "take": "FRED's OECD-sourced series shows Japan's long-term government bond yield at 2.755% in October 2026, versus 3.050% in September and 1.655% in October 2025. AlphaGen read: despite the monthly drop, the yield is still 110.0 bp above a year earlier.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01JPM156N)",
+   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01JPM156N",
+   "checked": "2026-11-17T18:38:49Z"
+  },
+  {
+   "id": "2026-11-17-fred-germany-long-yield-oct",
+   "time": "2026-11-17T19:06:00Z",
+   "tag": "GLOBAL",
+   "headline": "German long-term yield 3.42% in October, down 5.8 bp, still 79.8 bp above a year ago",
+   "take": "FRED's OECD-sourced series shows Germany's long-term government bond yield at 3.4159% in October 2026, versus 3.4741% in September and 2.6178% in October 2025. AlphaGen read: the monthly dip follows September's rise to 3.47%, leaving the yield about 80 bp higher on the year.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01DEM156N)",
+   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01DEM156N",
+   "checked": "2026-11-17T18:38:49Z"
+  },
+  {
+   "id": "2026-11-17-fred-uk-10y-gilt-oct",
+   "time": "2026-11-17T18:54:00Z",
+   "tag": "RATES",
+   "headline": "U.K. long-term government yield 5.34% in October, up 9.7 bp from September",
+   "take": "FRED's OECD-sourced series shows the U.K. long-term government bond yield at 5.3393% in October 2026, versus 5.2421% in September and 4.5721% in October 2025. That is 76.7 bp above a year earlier. AlphaGen read: the U.K. yield sits about 192 bp above Germany's 3.4159% for the same month.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01GBM156N)",
+   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
+   "checked": "2026-11-17T18:38:49Z"
+  },
+  {
+   "id": "2026-11-17-fred-gasoline-3805",
+   "time": "2026-11-17T18:42:00Z",
+   "tag": "ENERGY",
+   "headline": "Regular gasoline $3.805 on Nov. 16, down $0.190 in a week and $0.348 in two",
+   "take": "FRED shows the weekly U.S. regular all-formulations retail gasoline price at $3.805 per gallon for the week of Nov. 16, 2026, versus $3.995 on Nov. 9 and $4.153 on Nov. 2. A year earlier (Nov. 17, 2025) the price was $3.062, so it is $0.743 higher, or 24.3%. AlphaGen read: three straight weekly declines have not closed the gap with last year.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (GASREGW)",
+   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
+   "checked": "2026-11-17T18:38:49Z"
+  },
   {
    "id": "2026-11-17-jd-q3-revenue-3096b",
    "time": "2026-11-17T17:41:41Z",
@@ -5004,56 +5054,6 @@
    "source_name": "BEA, Personal Income and Outlays, September 2026",
    "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
    "checked": "2026-11-11T14:39:45Z"
-  },
-  {
-   "id": "2026-11-11-jobs-transport-prof-services-trend",
-   "time": "2026-11-11T15:23:45Z",
-   "tag": "MACRO",
-   "headline": "Transportation jobs +104,000 since February; professional services +269,000 since Oct. 2025",
-   "take": "BLS said transportation and warehousing has added 104,000 jobs since a recent employment low in February, with couriers and messengers (+71,000) contributing most of the gain, after +25,000 in October. Professional and business services has added 269,000 jobs since a recent low in October 2025, including +70,000 in October versus an average monthly gain of 15,000 over the prior 12 months. Total nonfarm payrolls rose 165,000 in October against a 48,000 monthly average over the prior 12 months.",
-   "source_name": "BLS, Employment Situation, October 2026",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-11T14:39:45Z"
-  },
-  {
-   "id": "2026-11-11-jobs-manufacturing-oct",
-   "time": "2026-11-11T13:41:35Z",
-   "tag": "MACRO",
-   "headline": "Manufacturing jobs +19,000 in October, +101,000 since December 2025 low",
-   "take": "BLS reported manufacturing employment continued to trend up in October (+19,000) and has increased by 101,000 since a recent low in December 2025, with gains in computer and electronic products (+7,000), machinery (+4,000) and primary metals (+4,000). The manufacturing average workweek was unchanged at 40.5 hours and overtime edged up 0.1 hour to 3.1 hours. AlphaGen read: manufacturing has added jobs in recent months, a counterpoint to the 165,000 total gain led by professional services.",
-   "source_name": "BLS, Employment Situation",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-11T13:38:35Z"
-  },
-  {
-   "id": "2026-11-11-jobs-unemp-groups-oct",
-   "time": "2026-11-11T13:50:35Z",
-   "tag": "MACRO",
-   "headline": "Unemployment rate holds 4.1%, in 4.1%-4.3% range since March; teens at 13.9%",
-   "take": "BLS said the unemployment rate has remained in a narrow range of 4.1% to 4.3% since March. In October, rates showed little or no change for adult men (3.9%), adult women (3.6%), teenagers (13.9%), and people who are White (3.7%), Black (6.6%), Asian (2.8%) or Hispanic (4.7%). AlphaGen read: the stability of the headline rate masks wide gaps between groups.",
-   "source_name": "BLS, Employment Situation",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-11T13:38:35Z"
-  },
-  {
-   "id": "2026-11-11-jobs-marginal-attached-oct",
-   "time": "2026-11-11T13:59:35Z",
-   "tag": "MACRO",
-   "headline": "6.0M outside labor force want a job; discouraged workers 448,000",
-   "take": "BLS reported the number of people not in the labor force who currently want a job changed little at 6.0 million in October. Of those, the marginally attached were little changed at 1.6 million, and discouraged workers, a subset who believed no jobs were available for them, were little changed at 448,000. AlphaGen read: these groups sit outside the 4.1% unemployment rate but show slack that the headline does not count.",
-   "source_name": "BLS, Employment Situation",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-11T13:38:35Z"
-  },
-  {
-   "id": "2026-11-11-cpi-oct-food-detail",
-   "time": "2026-11-11T14:08:35Z",
-   "tag": "MACRO",
-   "headline": "CPI food: beef +0.9%, snacks +1.0% in October; beverages -0.3%",
-   "take": "BLS reported the food index rose 0.5% in October after being unchanged in September. Within groceries, other food at home rose 0.7% as snacks rose 1.0%, meats, poultry, fish and eggs rose 0.5% with beef up 0.9%, and fruits and vegetables and dairy each rose 0.6%, while nonalcoholic beverages fell 0.3% and cereals and bakery products were unchanged. Full service meals rose 0.7% and limited service meals 0.4%. AlphaGen read: four of the six major grocery groups rose in October, per BLS, while one fell.",
-   "source_name": "BLS, Consumer Price Index",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-11T13:38:35Z"
   }
  ]
 }
