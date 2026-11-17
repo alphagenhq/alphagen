@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-17T02:38:19Z",
+  "updated": "2026-11-17T20:38:59Z",
   "items": [
+    {
+      "id": "2026-11-17-mdb-firebolt",
+      "time": "2026-11-17T20:38:59Z",
+      "type": "M&A",
+      "headline": "MongoDB acquires Firebolt, a real-time analytics database company",
+      "parties": "Acquirer: MongoDB, Inc.; Target: Firebolt Analytics Inc.",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-11-17",
+      "sector": "Software / data infrastructure",
+      "take": "MongoDB said on Nov. 17 that it acquired Firebolt Analytics Inc., announcing the deal in a blog post furnished with an 8-K. The filing does not disclose terms.",
+      "source_name": "MongoDB, Inc. (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026074373/0001628280-26-074373.txt",
+      "tickers": [
+        "NASDAQ:MDB"
+      ],
+      "checked": "2026-11-17T20:38:59Z"
+    },
+    {
+      "id": "2026-11-17-so-equity-units",
+      "time": "2026-11-17T20:38:59Z",
+      "type": "Debt",
+      "headline": "Southern Co. completes 40M equity unit offering at $50 stated amount per unit",
+      "parties": "Issuer: The Southern Company; Underwriters: BofA Securities, Barclays (representatives)",
+      "value": 2.0,
+      "value_text": "$2.0 billion aggregate stated amount (40M units x $50)",
+      "status": "Completed",
+      "announced": "2026-11-12",
+      "sector": "Utilities",
+      "take": "Southern completed its offering of 40,000,000 Corporate Units on Nov. 17, including the full 5,000,000-unit over-allotment option. Total annual distributions are 8.625% of the stated amount.",
+      "source_name": "The Southern Company (Form 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000082/0000092122-26-000082.txt",
+      "tickers": [
+        "NYSE:SO"
+      ],
+      "checked": "2026-11-17T20:38:59Z"
+    },
     {
       "id": "2026-11-16-aon-usi",
       "time": "2026-11-17T02:38:19Z",
