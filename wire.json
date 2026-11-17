@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-17T22:38:21Z",
+  "updated": "2026-11-17T23:44:35Z",
   "items": [
+    {
+      "id": "2026-11-17-dis-consumer-products-to-entertainment",
+      "tag": "EQUITIES",
+      "headline": "Disney moves Merchandise Licensing and Publishing into Entertainment from FY27 Q1",
+      "take": "In a Nov. 17 Form 8-K (Item 7.01), Disney said it will shift Merchandise Licensing and Publishing from the Experiences segment to the Entertainment segment, effective with the first quarter of fiscal 2027. Branded Retail stays in Experiences and will be reported as part of Domestic Parks and Experiences. The exhibit states the changes have no impact on historically reported net income or earnings per share. AlphaGen read: segment comparisons for Experiences and Entertainment will need the recast fiscal 2024-2026 figures Disney furnished.",
+      "source_name": "SEC EDGAR, DIS Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000067/0001744489-26-000067.txt",
+      "ticker": "NYSE:DIS",
+      "time": "2026-11-17T23:46:35Z",
+      "checked": "2026-11-17T23:44:35Z"
+    },
+    {
+      "id": "2026-11-17-dis-entertainment-revenue-lines-a-e",
+      "tag": "EQUITIES",
+      "headline": "Disney to report Entertainment revenue in three lines; A+E equity income excluded",
+      "take": "Disney said that, effective with fiscal 2027's first quarter, Entertainment revenues will be reported as subscription video-on-demand services, content and IP, and linear networks and vMVPD services. The company also said it sold its 50% interest in A+E Global Media on Sept. 30, 2026, and will exclude equity income from Entertainment segment operating results. AlphaGen read: the A+E sale is the stated reason equity income is being removed from that segment's operating results.",
+      "source_name": "SEC EDGAR, DIS Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000067/0001744489-26-000067.txt",
+      "ticker": "NYSE:DIS",
+      "time": "2026-11-18T00:01:35Z",
+      "checked": "2026-11-17T23:44:35Z"
+    },
+    {
+      "id": "2026-11-17-lng-capacity-56-mtpa-5-under-construction",
+      "tag": "ENERGY",
+      "headline": "Cheniere describes ~56 mtpa LNG capacity in operation, ~5 mtpa under construction",
+      "take": "In its Nov. 16 release announcing Zach Davis's promotion to President and CFO, Cheniere said its Sabine Pass and Corpus Christi liquefaction facilities have total production capacity of approximately 56 mtpa of LNG in operation. It added approximately 5 mtpa of expected capacity is under construction, inclusive of estimated debottlenecking opportunities. AlphaGen read: the company's own boilerplate puts the in-construction addition at roughly 9% of operating capacity (5 divided by 56).",
+      "source_name": "SEC EDGAR, LNG Form 8-K (Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526463597/d158128dex991.htm",
+      "ticker": "NYSE:LNG",
+      "time": "2026-11-18T00:16:35Z",
+      "checked": "2026-11-17T23:44:35Z"
+    },
+    {
+      "id": "2026-11-17-mrna-ares-delayed-draw-900m-2029",
+      "tag": "CREDIT",
+      "headline": "Moderna extends Ares delayed-draw availability on $900M of commitments to Nov. 2029",
+      "take": "Moderna's Nov. 9 amendment to its Ares-agented credit agreement extends availability for the first $400 million of delayed draw term loan commitments from Nov. 24, 2027 to Nov. 24, 2029, and for the remaining $500 million from Nov. 24, 2028 to Nov. 24, 2029. Together that is $900 million of commitments on one date. The 8-K says borrowings remain subject to the credit agreement's conditions. AlphaGen read: the amendment aligns both tranches to the same availability end date.",
+      "source_name": "SEC EDGAR, MRNA Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208.txt",
+      "ticker": "NASDAQ:MRNA",
+      "time": "2026-11-18T00:31:35Z",
+      "checked": "2026-11-17T23:44:35Z"
+    },
     {
       "id": "2026-11-17-fred-t10y2y-nov16-029",
       "time": "2026-11-17T23:25:00Z",
@@ -5024,46 +5068,6 @@
       "source_name": "European Central Bank (Cipollone statement)",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
       "checked": "2026-11-11T19:43:53Z"
-    },
-    {
-      "id": "2026-11-11-ecb-digital-euro-psps",
-      "time": "2026-11-11T20:02:53Z",
-      "tag": "GLOBAL",
-      "headline": "ECB: 36 payment providers chosen from 50+ applicants for digital euro pilot",
-      "take": "Cipollone said in July the ECB announced the 36 payment service providers selected for the digital euro pilot from more than 50 applicants, covering banks and non-bank providers. He said a September call for online and mobile merchants will have its final selection announced early next year, and the next wave of innovation-platform activities, including conditional payments and AI in payments, runs from January to June 2027. AlphaGen read: the pilot is widening to remote payments before the legal framework is final.",
-      "source_name": "European Central Bank (Cipollone statement)",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "checked": "2026-11-11T19:43:53Z"
-    },
-    {
-      "id": "2026-11-11-ecb-lane-between-meetings",
-      "time": "2026-11-11T20:16:53Z",
-      "tag": "GLOBAL",
-      "headline": "ECB's Lane: speeches between meetings can move rates across maturities",
-      "take": "In a Nov. 10 keynote at the Bank of England and its Watchers Conference, ECB Executive Board member Philip Lane cited research on thousands of speeches, interviews and hearings showing that communication between policy meetings can affect market interest rates across maturities. He said it can help markets anticipate policy changes, particularly ahead of tightening episodes, and that its cumulative effect over time can be comparable to that of policy announcements, especially at longer maturities. AlphaGen read: for rate-watchers, the ECB is saying a speech calendar matters between meetings, not only decision days.",
-      "source_name": "European Central Bank (Lane speech)",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-      "checked": "2026-11-11T19:43:53Z"
-    },
-    {
-      "id": "2026-11-11-ecb-cipollone-cash-anniversary",
-      "time": "2026-11-11T20:30:53Z",
-      "tag": "GLOBAL",
-      "headline": "ECB's Cipollone backs mandatory cash acceptance; euro notes turn 25 in two months",
-      "take": "Cipollone told the European Parliament committee on Nov. 10 that the ECB supports strong legislative provisions on mandatory cash acceptance, access to cash across the euro area and the resilience of cash infrastructure. He said that in two months the 25th anniversary of euro banknotes and coins entering circulation will be marked, and that adoption of the legal framework is necessary to issue a digital euro. AlphaGen read: the ECB is pairing its digital euro push with a cash-protection message to win legislative support.",
-      "source_name": "European Central Bank (Cipollone statement)",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "checked": "2026-11-11T19:43:53Z"
-    },
-    {
-      "id": "2026-11-11-waller-q4-growth-stocks",
-      "time": "2026-11-11T18:45:24Z",
-      "tag": "FED",
-      "headline": "Waller expects Q4 GDP growth to back off as spending aligns with income and wealth",
-      "take": "In a Nov. 10 speech, Fed Governor Waller said the initial estimate was that real GDP rose 3.4 percent in the third quarter, with consumption 'helped by a booming stock market' and business investment continuing to surge, especially in high-tech equipment tied to the AI buildout. He said he expects growth to back off a bit in the current quarter as consumer spending slows to levels he thinks are more consistent with household income and wealth, while output keeps growing at a solid pace. AlphaGen read: his case for a slower fourth quarter rests on spending normalizing, not on a weakening labor market.",
-      "source_name": "Federal Reserve Board (Waller speech)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "checked": "2026-11-11T18:44:24Z"
     }
   ]
 }
