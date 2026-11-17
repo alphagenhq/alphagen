@@ -1,6 +1,68 @@
 {
-  "updated": "2026-11-17T02:38:19Z",
+  "updated": "2026-11-17T03:38:00Z",
   "items": [
+    {
+      "id": "2026-11-16-amt-euro-notes-1p2b",
+      "time": "2026-11-17T03:40:00Z",
+      "tag": "CREDIT",
+      "headline": "American Tower prices €1.2B of euro notes at 4.200% (2031) and 4.500% (2034)",
+      "take": "American Tower said on Nov. 16 it priced €600.0 million of senior unsecured notes due 2031 at 4.200%, issued at 99.985% of face value, and €600.0 million due 2034 at 4.500%, issued at 99.697%. Expected net proceeds are €1,191.3 million (about $1,317.0 million), which the company intends to use for general corporate purposes, including refinancing upcoming euro maturities. AlphaGen read: the 30 basis point coupon step between the two maturities is the price the company paid for three extra years of euro funding.",
+      "source_name": "American Tower Corp (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000167/0001053507-26-000167.txt",
+      "ticker": "NYSE:AMT",
+      "checked": "2026-11-17T03:38:00Z"
+    },
+    {
+      "id": "2026-11-16-met-preferred-dividends-q4",
+      "time": "2026-11-17T03:49:00Z",
+      "tag": "EQUITIES",
+      "headline": "MetLife declares Q4 preferred dividends on Series A, E and F, payable Dec. 15",
+      "take": "MetLife declared quarterly dividends of $0.32584066 per share on its floating-rate Series A preferred, $351.5625 per share on the 5.625% Series E (about $0.3515625 per depositary share) and $296.875 per share on the 4.75% Series F ($0.296875 per depositary share). All are payable Dec. 15, 2026 to holders of record as of Nov. 30, 2026. AlphaGen read: these are fixed-rate coupons on the E and F series, so the payouts stay the same regardless of where rates move.",
+      "source_name": "MetLife, Inc. (Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000064/ex991newsrelease111626.htm",
+      "ticker": "NYSE:MET",
+      "checked": "2026-11-17T03:38:00Z"
+    },
+    {
+      "id": "2026-11-12-fred-mortgage30-711",
+      "time": "2026-11-17T03:58:00Z",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate 7.11% in week of Nov. 12, down from 7.40% on Oct. 15",
+      "take": "Freddie Mac's 30-year fixed mortgage rate, as reported on FRED, was 7.11% for Nov. 12, from 7.18% on Nov. 5, 7.24% on Oct. 29, 7.32% on Oct. 22 and 7.40% on both Oct. 8 and Oct. 15. That is four straight weekly declines totaling 0.29 percentage point since Oct. 15. AlphaGen read: over Nov. 5 to Nov. 13 the 10-year Treasury yield rose from 4.84% to 5.15% per FRED while the mortgage rate edged lower, so the two moved in opposite directions.",
+      "source_name": "Freddie Mac via FRED (MORTGAGE30US)",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-11-17T03:38:00Z"
+    },
+    {
+      "id": "2026-11-11-fred-brent-wti-spread",
+      "time": "2026-11-17T04:07:00Z",
+      "tag": "ENERGY",
+      "headline": "Brent spot $92.14 on Nov. 11, $5.82 below its Nov. 5 level; WTI $89.62",
+      "take": "FRED shows Brent spot at $92.14 per barrel on Nov. 11, down from $97.96 on Nov. 5 and $97.83 on Nov. 6, then $91.03 on Nov. 9 and $90.16 on Nov. 10. WTI was $89.62 on both Nov. 10 and Nov. 11, putting the Brent-WTI gap at $2.52 on Nov. 11. AlphaGen read: Henry Hub gas moved the other way, from $2.60 on Nov. 6 to $3.00 on Nov. 10 and Nov. 11.",
+      "source_name": "U.S. Energy Information Administration via FRED (DCOILBRENTEU)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "checked": "2026-11-17T03:38:00Z"
+    },
+    {
+      "id": "2026-11-13-fred-eurusd-1p1034",
+      "time": "2026-11-17T04:16:00Z",
+      "tag": "FX",
+      "headline": "Dollar per euro slides to 1.1034 on Nov. 13 from 1.1235 on Nov. 5; yen at 159.93",
+      "take": "FRED shows the euro at $1.1034 on Nov. 13, down 0.0201 from $1.1235 on Nov. 5. The Japanese yen was at 159.93 per dollar on Nov. 13, up from 157.76 on Nov. 5, a 2.17-yen move in the dollar's favor. AlphaGen read: both pairs moved toward a firmer dollar over the same eight days in which the 10-year Treasury yield rose from 4.84% to 5.15%.",
+      "source_name": "Board of Governors of the Federal Reserve System via FRED (DEXUSEU)",
+      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
+      "checked": "2026-11-17T03:38:00Z"
+    },
+    {
+      "id": "2026-11-11-fed-walcl-6p759t",
+      "time": "2026-11-17T04:25:00Z",
+      "tag": "FED",
+      "headline": "Fed balance sheet $6.759T on Nov. 11, up $10.7B from the prior week",
+      "take": "FRED shows Federal Reserve total assets (WALCL) at $6,758,867 million on Nov. 11, up $10,722 million from $6,748,145 million on Nov. 4. Weekly levels were $6,747,560 million on Oct. 7 and $6,755,639 million on Oct. 14, so the balance sheet has stayed in a narrow band since early October. AlphaGen read: the six weekly readings since Oct. 7 span $13.2 billion, and this week's $10.7 billion gain is the largest of the five weekly changes.",
+      "source_name": "Board of Governors of the Federal Reserve System via FRED (WALCL)",
+      "source_url": "https://fred.stlouisfed.org/series/WALCL",
+      "checked": "2026-11-17T03:38:00Z"
+    },
     {
       "id": "2026-11-16-fang-double-eagle",
       "time": "2026-11-17T02:40:19Z",
@@ -4977,69 +5039,6 @@
       "source_name": "BEA / Census, U.S. International Trade in Goods and Services, September 2026",
       "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
       "checked": "2026-11-10T22:38:48Z"
-    },
-    {
-      "id": "2026-11-10-fred-real-yield-breakeven-nov9",
-      "time": "2026-11-10T22:49:48Z",
-      "tag": "RATES",
-      "headline": "10-year real yield 2.66% and breakeven 2.22% on Nov. 9; nominal 10-year 4.88%",
-      "take": "FRED shows the 10-year Treasury inflation-indexed yield at 2.66% and the 10-year breakeven inflation rate at 2.22% on Nov. 9, with the nominal 10-year at 4.88%. Since Nov. 2 the real yield is up 4 basis points (from 2.62%) while the breakeven is down 7 basis points (from 2.29%). The nominal 10-year yield decomposes into those two pieces, so the real component now makes up most of it.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, T10YIE, DGS10)",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-10T22:38:48Z"
-    },
-    {
-      "id": "2026-11-10-fred-henry-hub-nov3",
-      "time": "2026-11-10T22:58:48Z",
-      "tag": "ENERGY",
-      "headline": "Henry Hub natural gas spot $2.63 per MMBtu on Nov. 3, from $2.76 on Oct. 27",
-      "take": "FRED's daily Henry Hub series shows the spot price at $2.63 per million Btu on Nov. 3, up from $2.54 on Nov. 2 and $2.42 on Oct. 30, but below the $2.76 recorded on Oct. 27. The latest observation in the series is Nov. 3. Henry Hub is the U.S. benchmark for natural gas, so these readings are the closest official daily read on gas prices ahead of the winter heating season.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DHHNGSP)",
-      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-      "checked": "2026-11-10T22:38:48Z"
-    },
-    {
-      "id": "2026-11-10-cof-kbw-nov11",
-      "time": "2026-11-10T23:07:48Z",
-      "tag": "EQUITIES",
-      "headline": "Capital One to present at KBW Fintech Conference Nov. 11, 11:40 a.m. ET",
-      "take": "Capital One said in an 8-K filed Nov. 10 that it will present at the KBW Fintech Ecosystem Conference in New York on Wednesday, Nov. 11, 2026, at 11:40 a.m. ET, with a live audio webcast on its Investor Center and a replay archived through at least Nov. 25. The filing is a Regulation FD notice and contains no financial results. Investors should treat it as a scheduling notice, not new information on the company's results.",
-      "source_name": "Capital One Financial 8-K (Item 7.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/927628/000092762826000157/0000927628-26-000157.txt",
-      "ticker": "NYSE:COF",
-      "checked": "2026-11-10T22:38:48Z"
-    },
-    {
-      "id": "2026-11-10-trow-ltip-amended",
-      "time": "2026-11-10T23:16:48Z",
-      "tag": "EQUITIES",
-      "headline": "T. Rowe Price amends 2020 incentive plan to allow vesting after some terminations",
-      "take": "In an 8-K filed Nov. 10, T. Rowe Price said its Executive Compensation and Management Development Committee amended the 2020 Long-Term Incentive Plan on Nov. 4, allowing continued vesting of awards for employees after certain involuntary terminations. The notice of grant was also amended to include new vesting provisions for award grants. The filing attaches the amended plan and forms of notice as exhibits and discloses no financial results.",
-      "source_name": "T. Rowe Price Group 8-K (Item 8.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1113169/000162828026072761/0001628280-26-072761.txt",
-      "ticker": "NASDAQ:TROW",
-      "checked": "2026-11-10T22:38:48Z"
-    },
-    {
-      "id": "2026-11-10-fred-rrp-nov10",
-      "time": "2026-11-10T23:25:48Z",
-      "tag": "FED",
-      "headline": "Overnight reverse repo usage $0.152B on Nov. 10, from $0.252B on Nov. 9",
-      "take": "FRED's New York Fed series shows overnight reverse repurchase agreement take-up at $0.152 billion on Nov. 10, down from $0.252 billion on Nov. 9 and $0.427 billion on Nov. 3. The daily readings in the series for Nov. 3 through Nov. 10 all sit below $0.5 billion. The facility is a floor-setting tool for short-term rates, so small balances mean little cash is parked there at the Fed's offered rate.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (RRPONTSYD)",
-      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
-      "checked": "2026-11-10T22:38:48Z"
-    },
-    {
-      "id": "2026-11-10-cost-special-dividend",
-      "time": "2026-11-10T21:42:44Z",
-      "tag": "EQUITIES",
-      "headline": "Costco declares $30 special dividend (~$13.3B) and reauthorizes $4B buyback",
-      "take": "Costco's board declared a special cash dividend of $30 per share, payable Dec. 4 to holders of record Nov. 24, with a total payment of approximately $13.3 billion. It also reauthorized a repurchase program of up to $4 billion, expiring in November 2030, replacing a $4 billion program adopted in 2023 under which $3.1 billion had been purchased. The special payout is far larger than the new buyback authorization, which is the clearest read on how the company is choosing to return cash.",
-      "source_name": "Costco Wholesale 8-K (Ex. 99.1 press release)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000134/costex9918-k111026.htm",
-      "ticker": "NASDAQ:COST",
-      "checked": "2026-11-10T21:39:44Z"
     }
   ]
 }
