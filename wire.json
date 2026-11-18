@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-18T01:38:44Z",
+  "updated": "2026-11-18T02:38:56Z",
   "items": [
+    {
+      "id": "2026-11-18-nvda-q3-fy27-revenue-115p8b",
+      "time": "2026-11-18T02:40:00Z",
+      "tag": "EARNINGS",
+      "headline": "NVIDIA Q3 revenue $115.8B, up 103% on the year; Data Center $107.6B",
+      "take": "NVIDIA reported fiscal Q3 2027 (ended Oct. 25) revenue of $115.8 billion, up 20% from the prior quarter and 103% from a year earlier. Data Center revenue was $107.6 billion, up 110% on the year, and GAAP diluted EPS was $2.70 versus $1.30 a year ago. AlphaGen read: Data Center is now about 93% of total revenue, so company-wide growth tracks that one segment.",
+      "source_name": "NVIDIA Form 8-K, Exhibit 99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
+      "ticker": "NASDAQ:NVDA",
+      "checked": "2026-11-18T02:38:56Z"
+    },
+    {
+      "id": "2026-11-18-nvda-q4-outlook-130b",
+      "time": "2026-11-18T02:48:00Z",
+      "tag": "EARNINGS",
+      "headline": "NVIDIA guides Q4 revenue to $130.0B, plus or minus 3%, with no China Data Center compute",
+      "take": "NVIDIA's outlook for fiscal Q4 2027, which includes an additional week, calls for revenue of $130.0 billion, plus or minus 3%, and GAAP and non-GAAP gross margins of 71.0% to 72.0%. The company said it assumes no Data Center compute revenue from China. AlphaGen read: the guided midpoint is about 12% above Q3's $115.8 billion, and the extra week is part of that comparison.",
+      "source_name": "NVIDIA Form 8-K, Exhibit 99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
+      "ticker": "NASDAQ:NVDA",
+      "checked": "2026-11-18T02:38:56Z"
+    },
+    {
+      "id": "2026-11-18-nvda-buyback-227b-remaining",
+      "time": "2026-11-18T02:56:00Z",
+      "tag": "EQUITIES",
+      "headline": "NVIDIA returned $28.1B in Q3; $227.3B left on buyback after $150B increase",
+      "take": "NVIDIA said it returned $28.1 billion to shareholders in Q3 through repurchases and dividends, and had about $227.3 billion remaining on its repurchase authorization. The board approved a $150 billion increase in September 2026, and the next quarterly dividend of $0.25 per share is payable Dec. 23 to holders of record Dec. 2. AlphaGen read: the remaining authorization is about 3.5 times Q3 GAAP net income of $65.3 billion.",
+      "source_name": "NVIDIA Form 8-K, Exhibit 99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
+      "ticker": "NASDAQ:NVDA",
+      "checked": "2026-11-18T02:38:56Z"
+    },
+    {
+      "id": "2026-11-18-csx-1p2b-revolver-nov17",
+      "time": "2026-11-18T03:04:00Z",
+      "tag": "CREDIT",
+      "headline": "CSX signs new $1.2B five-year revolver, replacing 2023 facility; nothing drawn",
+      "take": "CSX entered into a new $1.2 billion five-year senior unsecured revolving credit agreement on Nov. 17, with JPMorgan Chase Bank as administrative agent. It replaces the $1.2 billion facility dated Feb. 28, 2023, which was terminated effective the same day, and there were no outstanding borrowings under either. AlphaGen read: the size is unchanged, so this is a refinancing of back-up liquidity rather than new debt.",
+      "source_name": "CSX Corporation Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684.txt",
+      "ticker": "NASDAQ:CSX",
+      "checked": "2026-11-18T02:38:56Z"
+    },
+    {
+      "id": "2026-11-18-rivian-class-b-converted",
+      "time": "2026-11-18T03:12:00Z",
+      "tag": "EQUITIES",
+      "headline": "Rivian's Class B stock converts to Class A, ending 10-vote shares",
+      "take": "Rivian said each outstanding share of its Class B common stock automatically converted into one share of Class A on Nov. 15, the five-year anniversary of its IPO closing; 3,912,500 Class B shares were outstanding immediately before. After the conversion there were approximately 1,459,886,616 Class A shares outstanding, and holders now have one vote per share instead of ten. AlphaGen read: the filing says the conversion left total shares outstanding and economic interests unchanged.",
+      "source_name": "Rivian Automotive Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000073/0001874178-26-000073.txt",
+      "ticker": "NASDAQ:RIVN",
+      "checked": "2026-11-18T02:38:56Z"
+    },
+    {
+      "id": "2026-11-18-fred-t10y2y-t10yie-nov17",
+      "time": "2026-11-18T03:20:00Z",
+      "tag": "RATES",
+      "headline": "10-year minus 2-year Treasury spread 0.30 point on Nov. 17; 10-year breakeven 2.21%",
+      "take": "FRED shows the 10-year minus 2-year Treasury spread at 0.30 percentage point on Nov. 17, up from 0.29 on Nov. 16 and 0.27 on Nov. 13. The 10-year breakeven inflation rate was 2.21% on Nov. 17 versus 2.20% the day before. AlphaGen read: breakevens have held in a 2.20 to 2.24 range since Nov. 9 while the curve slope has edged wider.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-18T02:38:56Z"
+    },
     {
       "id": "2026-11-18-real-earnings-oct-production-workers-weekly-down-0p3",
       "time": "2026-11-18T02:25:00Z",
@@ -5008,66 +5073,6 @@
       "source_name": "Federal Reserve Board via FRED (DGS30, DGS10)",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "checked": "2026-11-11T22:39:22Z"
-    },
-    {
-      "id": "2026-11-11-indpro-sep",
-      "time": "2026-11-11T21:41:11Z",
-      "tag": "MACRO",
-      "headline": "Industrial production index rose 0.66% in September, 2.25% above a year earlier",
-      "take": "The Federal Reserve's industrial production index was 103.9506 in September, up from 103.2664 in August (+0.66%) and 101.668 in September 2025 (+2.25%), per FRED. The Fed's October reading is scheduled for Nov. 17 at 9:15 a.m. ET. AlphaGen read: factory and utility output has risen in each of the last four monthly readings on FRED.",
-      "source_name": "Federal Reserve Board via FRED (INDPRO)",
-      "source_url": "https://fred.stlouisfed.org/series/INDPRO",
-      "checked": "2026-11-11T21:39:11Z"
-    },
-    {
-      "id": "2026-11-11-housing-starts-sep",
-      "time": "2026-11-11T21:50:11Z",
-      "tag": "HOUSING",
-      "headline": "Housing starts 1.221M annual rate in September, down 5.2% from August",
-      "take": "Housing starts were 1,221 thousand at a seasonally adjusted annual rate in September, versus 1,288 thousand in August (-5.2%) and 1,319 thousand a year earlier (-7.4%), per Census data on FRED. Building permits were 1,398 thousand, versus 1,403 thousand in August and 1,444 thousand a year earlier (-3.2%). AlphaGen read: permits were nearly flat on the month while starts fell, and the October report is scheduled for Nov. 18 at 8:30 a.m. ET.",
-      "source_name": "U.S. Census Bureau via FRED (HOUST, PERMIT)",
-      "source_url": "https://fred.stlouisfed.org/series/HOUST",
-      "checked": "2026-11-11T21:39:11Z"
-    },
-    {
-      "id": "2026-11-11-retail-sales-sep",
-      "time": "2026-11-11T21:59:11Z",
-      "tag": "MACRO",
-      "headline": "Retail and food services sales $745.0B in September, up 0.77% on the month",
-      "take": "Advance retail and food services sales were $745,021 million in September, up from $739,322 million in August (+0.77%) and $700,948 million in September 2025 (+6.29%), per Census data on FRED. These are dollar amounts, not adjusted for price changes. Census is scheduled to publish October advance retail sales on Nov. 17 at 8:30 a.m. ET.",
-      "source_name": "U.S. Census Bureau via FRED (RSAFS)",
-      "source_url": "https://fred.stlouisfed.org/series/RSAFS",
-      "checked": "2026-11-11T21:39:11Z"
-    },
-    {
-      "id": "2026-11-11-credit-ig-ccc-nov9",
-      "time": "2026-11-11T22:08:11Z",
-      "tag": "CREDIT",
-      "headline": "Investment-grade spread 0.91 pt and CCC spread 13.11 pts on Nov. 9",
-      "take": "The ICE BofA US Corporate Index option-adjusted spread was 0.91 percentage point on Nov. 9, versus 0.89 on Oct. 29, per FRED. The ICE BofA CCC & Lower US High Yield spread was 13.11 points, versus 13.25 on Oct. 29. AlphaGen read: the investment-grade spread edged up 0.02 point while the lowest-rated junk spread narrowed 0.14 point over the period.",
-      "source_name": "ICE Data Indices via FRED (BAMLC0A0CM, BAMLH0A3HYC)",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A3HYC",
-      "checked": "2026-11-11T21:39:11Z"
-    },
-    {
-      "id": "2026-11-11-japan-10y-sep",
-      "time": "2026-11-11T22:17:11Z",
-      "tag": "GLOBAL",
-      "headline": "Japan 10-year government bond yield 3.05% in September, from 2.11% in February",
-      "take": "The OECD long-term (10-year) government bond yield for Japan was 3.05% in September, up from 2.94% in August, 2.11% in February and 1.645% in September 2025, per FRED. The monthly series has risen in each reading from February through September. AlphaGen read: the yield has risen about 1.4 percentage points in a year on this measure.",
-      "source_name": "OECD via FRED (IRLTLT01JPM156N)",
-      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01JPM156N",
-      "checked": "2026-11-11T21:39:11Z"
-    },
-    {
-      "id": "2026-11-11-new-home-supply-sep",
-      "time": "2026-11-11T22:25:11Z",
-      "tag": "HOUSING",
-      "headline": "New-home supply 8.4 months in September, from 8.5 in August",
-      "take": "The monthly supply of new houses for sale was 8.4 months at the current sales rate in September, versus 8.5 months in August and 8.2 months in September 2025, per Census data on FRED. The reading was 9.3 months in February. AlphaGen read: supply has eased from early-year levels but remains above its year-earlier level.",
-      "source_name": "U.S. Census Bureau via FRED (MSACSR)",
-      "source_url": "https://fred.stlouisfed.org/series/MSACSR",
-      "checked": "2026-11-11T21:39:11Z"
     }
   ]
 }

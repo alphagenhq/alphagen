@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T19:38:10Z",
+  "updated": "2026-11-18T02:38:56Z",
   "items": [
+    {
+      "id": "2026-11-17-NVDA-Q3FY27",
+      "time": "2026-11-18T02:38:56Z",
+      "ticker": "NASDAQ:NVDA",
+      "name": "NVIDIA Corporation",
+      "period": "Q3 FY2027",
+      "report_date": "2026-11-17",
+      "revenue": 115.8,
+      "revenue_yoy": 103.2,
+      "eps_yoy": 107.7,
+      "eps": 2.7,
+      "take": "NVIDIA reported Q3 FY2027 revenue of $115.8 billion versus $57.0 billion a year earlier, with Data Center revenue of $107.6 billion. GAAP diluted EPS was $2.70 versus $1.30 (non-GAAP $2.68 versus $1.27), and Q4 revenue is guided to $130.0 billion, plus or minus 3%.",
+      "source_name": "NVIDIA Q3 FY2027 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
+      "checked": "2026-11-18T02:38:56Z"
+    },
     {
       "id": "2026-11-17-DIS-Q4FY26",
       "time": "2026-11-17T19:38:10Z",
