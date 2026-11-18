@@ -1,6 +1,70 @@
 {
-  "updated": "2026-11-18T02:38:56Z",
+  "updated": "2026-11-18T03:38:58Z",
   "items": [
+    {
+      "id": "2026-11-18-fred-yields-nov16-2y-483-10y-512",
+      "time": "2026-11-18T03:43:00Z",
+      "tag": "RATES",
+      "headline": "Treasury yields Nov. 16: 2-year 4.83%, 10-year 5.12%, 30-year 5.46%",
+      "take": "FRED shows the 2-year Treasury yield at 4.83% on Nov. 16, down 0.05 point from 4.88% on Nov. 13. The 10-year was 5.12%, down 0.03 point from 5.15%, and the 30-year was 5.46%, down 0.01 point from 5.47%. AlphaGen read: the 2-year fell furthest, so the 10-year minus 2-year gap widened to 0.29 point.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-18T03:38:58Z"
+    },
+    {
+      "id": "2026-11-18-fred-10y-real-292-breakeven-220-nov16",
+      "time": "2026-11-18T03:51:00Z",
+      "tag": "RATES",
+      "headline": "10-year real yield 2.92%, breakeven inflation 2.20% on Nov. 16; nominal 5.12%",
+      "take": "FRED shows the 10-year Treasury inflation-indexed yield at 2.92% on Nov. 16, up 0.01 point from 2.91% on Nov. 13, while the 10-year nominal yield was 5.12%. The 10-year breakeven inflation rate was 2.20% on Nov. 16, down 0.04 point from 2.24% on Nov. 13. AlphaGen read: the 0.03-point dip in the nominal yield came from lower breakeven inflation, not a lower real yield.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DFII10",
+      "checked": "2026-11-18T03:38:58Z"
+    },
+    {
+      "id": "2026-11-18-low-vagell-evp-merchandising",
+      "time": "2026-11-18T03:59:00Z",
+      "tag": "EQUITIES",
+      "headline": "Lowe's names Margi Vagell EVP, Merchandising, succeeding William Boltz",
+      "take": "Lowe's said in an 8-K that on Nov. 13 it appointed Margrethe (Margi) Vagell Executive Vice President, Merchandising, effective Nov. 14, succeeding William P. Boltz in his planned retirement. Vagell keeps her Supply Chain responsibilities, and Boltz becomes President of the Lowe's Foundation effective Jan. 30, 2027. AlphaGen read: merchandising and supply chain now sit under one executive.",
+      "source_name": "Lowe's Companies Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122.txt",
+      "ticker": "NYSE:LOW",
+      "checked": "2026-11-18T03:38:58Z"
+    },
+    {
+      "id": "2026-11-18-asts-firefly-10m-shares",
+      "time": "2026-11-18T04:07:00Z",
+      "tag": "EQUITIES",
+      "headline": "AST SpaceMobile files supplement for 10M shares issued to Firefly under license",
+      "take": "AST SpaceMobile filed a Nov. 17 prospectus supplement covering 10,000,000 Class A shares it issued to Firefly Aerospace under an Intellectual Property License Agreement dated Nov. 6, 2026. The 8-K attaches a Freshfields US LLP legal opinion on the shares. AlphaGen read: the filing discloses the share count but not a dollar value for the license.",
+      "source_name": "AST SpaceMobile Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226052865/0001493152-26-052865.txt",
+      "ticker": "NASDAQ:ASTS",
+      "checked": "2026-11-18T03:38:58Z"
+    },
+    {
+      "id": "2026-11-18-bsx-2027-bonus-psp-plans",
+      "time": "2026-11-18T04:15:00Z",
+      "tag": "EQUITIES",
+      "headline": "Boston Scientific board approves 2027 bonus plan and two performance share programs",
+      "take": "Boston Scientific's board approved on Nov. 17 a 2027 Annual Bonus Plan for the Jan. 1 to Dec. 31, 2027 performance year, with a company-wide distribution percentage of 0% to 150% based on global sales and adjusted EPS goals. Individual payouts can range from 0% to 225% of target, consistent with prior years, and the board also adopted 2027 relative-TSR and organic net sales growth performance share programs. AlphaGen read: the filing describes both as substantially similar to the 2026 versions.",
+      "source_name": "Boston Scientific Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000073/0000885725-26-000073.txt",
+      "ticker": "NYSE:BSX",
+      "checked": "2026-11-18T03:38:58Z"
+    },
+    {
+      "id": "2026-11-18-o-abraham-cso-transition",
+      "time": "2026-11-18T04:23:00Z",
+      "tag": "EQUITIES",
+      "headline": "Realty Income's Chief Strategy Officer Neil Abraham to leave; role runs through Dec. 31",
+      "take": "Realty Income said Executive Vice President, Chief Strategy Officer and President of Realty Income International Neil Abraham will leave the company. He stays in his role through Dec. 31, 2026, and the company intends to enter a consulting agreement with him through March 31, 2027. AlphaGen read: the release names no successor.",
+      "source_name": "Realty Income Form 8-K, Exhibit 99.1",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/tm2630077d1_ex99-1.htm",
+      "ticker": "NYSE:O",
+      "checked": "2026-11-18T03:38:58Z"
+    },
     {
       "id": "2026-11-18-nvda-q3-fy27-revenue-115p8b",
       "time": "2026-11-18T02:40:00Z",
@@ -5013,66 +5077,6 @@
       "source_name": "Federal Reserve Board (calendar: November 2026)",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
       "checked": "2026-11-11T23:39:02Z"
-    },
-    {
-      "id": "2026-11-11-h15-1yr-bill-nov9",
-      "time": "2026-11-12T00:14:02Z",
-      "tag": "RATES",
-      "headline": "1-year Treasury yield 4.38% on Nov. 9, 0.50 point above 3.88% fed funds rate",
-      "take": "The Fed's H.15 release shows the 1-year Treasury constant-maturity yield at 4.38% on Nov. 9, up from 4.28% on Nov. 5, with the 6-month at 4.26% and the 3-month at 4.24%. The effective federal funds rate was 3.88% on each day shown, so the 1-year yield was 0.50 point above it. AlphaGen read: short-dated yields sit above the policy rate and rose across Nov. 5-9.",
-      "source_name": "Federal Reserve Board (H.15 Selected Interest Rates)",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-11-11T23:39:02Z"
-    },
-    {
-      "id": "2026-11-11-h15-curve-nov5-9",
-      "time": "2026-11-12T00:24:02Z",
-      "tag": "RATES",
-      "headline": "Treasury yields rose Nov. 5-9: 2-year +0.10 pt to 4.56%, 5-year +0.08 to 4.67%",
-      "take": "H.15 shows the 2-year Treasury yield at 4.56% on Nov. 9 versus 4.46% on Nov. 5, the 5-year at 4.67% versus 4.59%, the 10-year at 4.88% versus 4.84%, and the 30-year at 5.26% versus 5.25%. The rise was largest at the front of the curve, 0.10 point at 2 years against 0.01 point at 30 years. AlphaGen read: the move flattened the 2-year-to-30-year gap to 0.70 point from 0.79.",
-      "source_name": "Federal Reserve Board (H.15 Selected Interest Rates)",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-11-11T23:39:02Z"
-    },
-    {
-      "id": "2026-11-11-fred-breakeven10-nov10",
-      "time": "2026-11-11T22:44:22Z",
-      "tag": "RATES",
-      "headline": "10-year breakeven inflation rate 2.20% on Nov. 10, from 2.30% on Nov. 3",
-      "take": "The 10-year breakeven inflation rate was 2.20% on Nov. 10, per FRED, down from 2.22% on Nov. 9 and 2.30% on Nov. 3; it fell on each of the last five readings. AlphaGen read: 2.20% is the lowest of the six daily readings in the latest FRED pull.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED, T10YIE)",
-      "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-      "checked": "2026-11-11T22:39:22Z"
-    },
-    {
-      "id": "2026-11-11-fred-eur-nov6",
-      "time": "2026-11-11T22:54:22Z",
-      "tag": "FX",
-      "headline": "Euro at $1.1154 on Nov. 6, from $1.1235 on Nov. 5 and $1.1163 on Oct. 30",
-      "take": "The Federal Reserve's H.10 rate for the euro was $1.1154 on Nov. 6, per FRED, down from $1.1235 on Nov. 5 and $1.1163 on Oct. 30. AlphaGen read: the Nov. 6 reading is the lowest of the six in the latest FRED pull, which begins Oct. 30.",
-      "source_name": "Federal Reserve Board via FRED (DEXUSEU)",
-      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
-      "checked": "2026-11-11T22:39:22Z"
-    },
-    {
-      "id": "2026-11-11-fred-2y-sofr-nov9",
-      "time": "2026-11-11T23:04:22Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 0.68 point above SOFR on Nov. 9, from 0.64 on Nov. 2",
-      "take": "The 2-year Treasury yield was 4.56% on Nov. 9 and SOFR was 3.88%, per FRED, a gap of 0.68 percentage point versus 0.64 on Nov. 2 (4.59% and 3.95%). AlphaGen read: the gap widened as SOFR fell 7 basis points while the 2-year yield dipped 3 basis points over the week.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED, DGS2 and SOFR)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-11T22:39:22Z"
-    },
-    {
-      "id": "2026-11-11-fred-30y-10y-nov9",
-      "time": "2026-11-11T23:14:22Z",
-      "tag": "DEBT",
-      "headline": "30-year Treasury yield 0.38 point above the 10-year on Nov. 9; 5.26% vs 4.88%",
-      "take": "The 30-year Treasury constant-maturity yield was 5.26% on Nov. 9 against 4.88% for the 10-year, per FRED, a 0.38 percentage point gap versus 0.37 on Nov. 2 (5.28% and 4.91%). AlphaGen read: both yields ended the week lower than Nov. 2, by 2 basis points for the 30-year and 3 for the 10-year, so the gap held nearly flat.",
-      "source_name": "Federal Reserve Board via FRED (DGS30, DGS10)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "checked": "2026-11-11T22:39:22Z"
     }
   ]
 }
