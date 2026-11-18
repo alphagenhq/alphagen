@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-18T14:44:24Z",
+  "updated": "2026-11-18T15:39:12Z",
   "items": [
+    {
+      "id": "2026-11-18-mcd-8k-legal-matters-exhibit",
+      "tag": "EQUITIES",
+      "headline": "McDonald's 8-K exhibit: in-house counsel to pass on validity of its securities",
+      "take": "McDonald's filed a Form 8-K (Item 8.01) on Nov. 17 with an exhibit headed \"Legal Matters.\" It says Jeffrey J. Pochowicz, Vice President, Associate General Counsel and Corporate Secretary, will pass upon the validity of the securities the company offers, unless a prospectus supplement, pricing supplement or incorporated document says otherwise, and that he is a full-time employee who owns, and has the right to acquire, McDonald's common stock. AlphaGen read: the exhibit does not state the size or terms of any offering.",
+      "source_name": "SEC EDGAR, McDonald's Form 8-K (Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/63908/000110465926129050/tm2630018d1_ex99-1.htm",
+      "ticker": "NYSE:MCD",
+      "time": "2026-11-18T15:44:12Z",
+      "checked": "2026-11-18T15:39:12Z"
+    },
     {
       "id": "2026-11-18-census-oct-housing-starts-1309k",
       "tag": "HOUSING",
@@ -5073,16 +5084,6 @@
       "source_name": "BLS, Producer Price Index",
       "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
       "checked": "2026-11-12T11:45:00Z"
-    },
-    {
-      "id": "2026-11-12-cpi-oct-oer-rent-lodging",
-      "time": "2026-11-12T03:44:00Z",
-      "tag": "MACRO",
-      "headline": "CPI owners' equivalent rent +0.3%, rent +0.2% in October; lodging away from home +0.6%",
-      "take": "BLS says the shelter index rose 0.3% in October after 0.4% in September, with owners' equivalent rent up 0.3% and rent up 0.2%. Lodging away from home rose 0.6% after a 2.0% increase the previous month. AlphaGen read: the monthly shelter gain slowed from September, while lodging remains the volatile piece.",
-      "source_name": "BLS, Consumer Price Index",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-12T03:39:55Z"
     }
   ]
 }
