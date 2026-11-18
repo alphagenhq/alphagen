@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-18T19:38:18Z",
+ "updated": "2026-11-18T20:38:36Z",
  "items": [
+  {
+   "id": "2026-11-18-bea-gdp-second-estimate-nov25",
+   "time": "2026-11-18T20:41:36Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 GDP second estimate due Nov. 25; advance showed real GDP up 3.4%",
+   "take": "BEA's advance estimate put third-quarter real GDP up at an annual rate of 3.4%, after 2.2% in the second quarter, with current-dollar GDP up 5.6%. Real final sales to private domestic purchasers rose 4.9%, versus 4.6% in Q2. The second estimate and corporate profits are due Nov. 25 at 8:30 a.m. EST; AlphaGen read: the advance figure will be superseded then.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-18T20:38:36Z"
+  },
+  {
+   "id": "2026-11-18-bea-q3-gdp-pce-prices-2p1-core-2p5",
+   "time": "2026-11-18T20:52:36Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 PCE price index rose 2.1% annualized, core 2.5%, after 5.0% and 3.3% in Q2",
+   "take": "In BEA's advance Q3 estimate, the PCE price index increased 2.1% at an annual rate, compared with 5.0% in the second quarter. The PCE price index excluding food and energy rose 2.5%, compared with 3.3%, and the gross domestic purchases price index rose 3.0%, compared with 5.6%. AlphaGen read: the quarterly price slowdown is large, and the Nov. 25 second estimate will show whether it holds.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-18T20:38:36Z"
+  },
+  {
+   "id": "2026-11-18-bea-q3-gdp-inventories-equipment-drivers",
+   "time": "2026-11-18T21:03:36Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 GDP gain led by inventories and equipment; exports fell on petroleum",
+   "take": "BEA said third-quarter investment growth primarily reflected private inventory investment, led by wholesale trade and manufacturing nondurable goods, and equipment, led by information processing equipment (mainly computers and peripherals). Exports decreased, primarily on goods led by petroleum and related products, while the largest contributor to imports was capital goods except automotive. AlphaGen read: inventory and equipment swings are the pieces most likely to be revised in the second estimate.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-18T20:38:36Z"
+  },
+  {
+   "id": "2026-11-18-bea-sept-trade-deficit-105b-next-dec8",
+   "time": "2026-11-18T21:14:36Z",
+   "tag": "MACRO",
+   "headline": "BEA/Census: September trade deficit $105.0B; next trade report Dec. 8",
+   "take": "The September goods and services deficit was $105.0 billion, down $0.7 billion from a revised $105.7 billion in August, with exports of $321.5 billion and imports of $426.6 billion. Year to date, the deficit is down $92.4 billion, or 12.2%, from the same period in 2025, with exports up 11.6% and imports up 6.2%. The next release is Dec. 8; AlphaGen read: the three-month average deficit of $101.2 billion rose $11.3 billion.",
+   "source_name": "U.S. Census Bureau and BEA, International Trade in Goods and Services",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-18T20:38:36Z"
+  },
+  {
+   "id": "2026-11-18-nwsa-8k-buyback-1b-asx-disclosures",
+   "time": "2026-11-18T21:25:36Z",
+   "tag": "EQUITIES",
+   "headline": "News Corp files ASX repurchase disclosures under its $1B buyback program",
+   "take": "News Corp filed a Form 8-K saying that under its repurchase program it is authorized to acquire up to $1 billion of Class A and Class B common stock. Because of Australian Securities Exchange rules, it must provide daily disclosure of any program transactions, and the filing attaches two exhibits of information given to the ASX. AlphaGen read: the filing is routine disclosure, not a new authorization.",
+   "source_name": "SEC EDGAR, News Corp Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000264/0001564708-26-000264-index.htm",
+   "ticker": "NASDAQ:NWSA",
+   "checked": "2026-11-18T20:38:36Z"
+  },
   {
    "id": "2026-11-18-eia-gas-storage-3810bcf-season-end",
    "time": "2026-11-18T19:41:18Z",
@@ -5040,57 +5091,6 @@
    "source_name": "Federal Reserve Board, press release",
    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
    "checked": "2026-11-12T19:44:16Z"
-  },
-  {
-   "id": "2026-11-12-nvda-ceo-huang-resigns",
-   "time": "2026-11-12T18:42:00Z",
-   "tag": "EQUITIES",
-   "headline": "NVIDIA says Jensen Huang resigned as CEO; CFO Kress named interim CEO",
-   "take": "NVIDIA's Form 8-K (Item 5.02) says its Board accepted the resignation of Jensen Huang as President, CEO and director, effective immediately, and appointed CFO Colette Kress interim CEO while she remains CFO. Harvey Jones was named Chair of the Board, which the company's release calls its first-ever chair, and the Board is searching for a permanent CEO. The release says NVIDIA will still report third-quarter fiscal 2027 results on Tuesday, Nov. 17. AlphaGen read: that call is now the first public test of the interim structure.",
-   "source_name": "SEC EDGAR, NVDA Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082.txt",
-   "ticker": "NASDAQ:NVDA",
-   "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-barr-sce-wealth-concentration",
-   "time": "2026-11-12T18:50:00Z",
-   "tag": "FED",
-   "headline": "Barr cites Fed survey: top 1% of households hold about one-third of U.S. wealth",
-   "take": "In a Nov. 12 speech, Fed Governor Barr said the Fed's 2025 Survey of Consumer Finances shows the wealthiest 10% of households hold nearly three-fourths of wealth, the top 1% about one-third (nearly $60 trillion), and the bottom half just over 2%. He also cited a labor share of national income of 52.8% in Q2 2026, a record low, and 31% of 2025 survey respondents lacking cash for a $500 emergency. AlphaGen read: the speech frames distribution as an input to the outlook rather than a signal on rates.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-   "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-freddie-pmms-nov12-711",
-   "time": "2026-11-12T18:58:00Z",
-   "tag": "HOUSING",
-   "headline": "30-year mortgage rate 7.11% on Nov. 12, fourth straight weekly decline",
-   "take": "FRED's weekly 30-year fixed mortgage rate series reads 7.11% for Nov. 12, down from 7.18% on Nov. 5, 7.24% on Oct. 29 and 7.32% on Oct. 22. That is 0.29 percentage point below the 7.40% reading for Oct. 8 and Oct. 15. AlphaGen read: borrowing costs are easing steadily but remain above 7%.",
-   "source_name": "Freddie Mac via FRED",
-   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-   "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-eia-alaska-crude-2027",
-   "time": "2026-11-12T19:06:00Z",
-   "tag": "ENERGY",
-   "headline": "EIA sees Alaska crude output up 13% in 2027 to 505,000 b/d, most since 2014",
-   "take": "EIA's November Short-Term Energy Outlook forecasts Alaskan crude production up 23,000 b/d (6%) in 2026 and 60,000 b/d (13%) in 2027, to 505,000 b/d, which EIA says would be the most since 2014. EIA attributes the growth to the Nuna project (ConocoPhillips) and Pikka Phase 1 (Santos and Repsol), which reached 38,000 b/d as of September 2026. AlphaGen read: a small but notable domestic supply addition against 2027 forecasts.",
-   "source_name": "U.S. Energy Information Administration",
-   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
-   "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-fomc-2027-schedule-revised",
-   "time": "2026-11-12T19:14:00Z",
-   "tag": "FED",
-   "headline": "Fed revises 2027 FOMC calendar: eight meetings, Oct. 26-27 set for strategy",
-   "take": "The Federal Reserve announced a revised tentative 2027 FOMC schedule listing meetings on Jan. 26-27, Mar. 16-17, Apr. 27-28, Jun. 8-9, Jul. 27-28, Sep. 14-15, Oct. 26-27 and Nov. 16-17, plus Jan. 25-26, 2028. It says the Oct. 26-27 meeting will be dedicated to broad monetary policy strategy issues, so no policy decision is announced that day as usual. AlphaGen read: investors should treat Oct. 27, 2027 as a non-decision date.",
-   "source_name": "Federal Reserve",
-   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "checked": "2026-11-12T18:38:19Z"
   }
  ]
 }
