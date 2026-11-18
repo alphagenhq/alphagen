@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-17T12:40:03Z",
+ "updated": "2026-11-18T12:50:00Z",
  "items": [
+  {
+   "id": "2026-11-18-dollar-yen",
+   "time": "2026-11-18T12:50:00Z",
+   "title": "Dollar-yen: 159.93 yen per dollar on Nov. 13",
+   "subtitle": "Japanese yen per U.S. dollar, daily noon buying rates in New York",
+   "series": [
+    {
+     "id": "DEXJPUS",
+     "label": "Yen per U.S. dollar",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "yen per dollar",
+   "take": "FRED shows 159.93 yen per dollar on Nov. 13, up from 157.76 on Nov. 5, a rise of 2.17 yen. The rate was higher at each reading from Nov. 9 (157.99) to Nov. 13. AlphaGen read: a higher number means a weaker yen against the dollar.",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+   "checked": "2026-11-18T12:50:00Z"
+  },
   {
    "id": "2026-11-17-2y-10y-30y-yields",
    "time": "2026-11-17T12:40:03Z",
