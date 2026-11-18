@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-17T23:44:35Z",
+  "updated": "2026-11-18T01:38:44Z",
   "items": [
+    {
+      "id": "2026-11-18-real-earnings-oct-production-workers-weekly-down-0p3",
+      "time": "2026-11-18T02:25:00Z",
+      "tag": "MACRO",
+      "headline": "Real hourly pay for production workers +0.1% in October; weekly pay -0.3%",
+      "take": "BLS reported real average hourly earnings for production and nonsupervisory employees rose 0.1% from September to October, as a 0.4% increase in hourly earnings outpaced a 0.3% rise in the CPI-W. Real average weekly earnings for the group fell 0.3% because the average workweek also decreased 0.3%. AlphaGen read: for these workers the shorter workweek, not prices, drove the drop in weekly pay.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
+      "checked": "2026-11-18T01:38:44Z"
+    },
+    {
+      "id": "2026-11-18-jobs-oct-transportation-warehousing-couriers-71k",
+      "time": "2026-11-18T02:16:00Z",
+      "tag": "MACRO",
+      "headline": "Transportation and warehousing +25,000 in October; couriers +71,000 since February",
+      "take": "BLS reported transportation and warehousing added 25,000 jobs in October, with couriers and messengers up 17,000 and air transportation up 4,000. The sector has added 104,000 jobs since a recent low in February, and couriers and messengers account for 71,000 of that gain. AlphaGen read: couriers and messengers make up about two-thirds of the sector's gain since February.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-18T01:38:44Z"
+    },
+    {
+      "id": "2026-11-18-jobs-oct-manufacturing-19k-since-dec-low",
+      "time": "2026-11-18T02:07:00Z",
+      "tag": "MACRO",
+      "headline": "Manufacturing added 19,000 jobs in October, 101,000 since December 2025 low",
+      "take": "BLS reported manufacturing employment rose by 19,000 in October and has increased by 101,000 since a recent low in December 2025, with gains in computer and electronic products (+7,000), machinery (+4,000) and primary metals (+4,000). Health care added 42,000 jobs, above its 12-month average gain of 31,000. AlphaGen read: October payrolls of 165,000 were well above the 48,000 average monthly gain of the prior 12 months, and these two sectors were part of the mix.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-18T01:38:44Z"
+    },
+    {
+      "id": "2026-11-18-jobs-oct-participation-61p9-epop-59p3",
+      "time": "2026-11-18T01:58:00Z",
+      "tag": "MACRO",
+      "headline": "Labor force participation 61.9%, employment-population ratio 59.3% in October",
+      "take": "BLS reported a labor force participation rate of 61.9% and an employment-population ratio of 59.3% in October, both little changed, and says both have shown little net change since January. Among those not in the labor force who want a job, 1.6 million were marginally attached, and 448,000 of them were discouraged workers, both little changed. AlphaGen read: with participation little changed since January, the 4.1% unemployment rate reflects a stable share of people in the labor force.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-18T01:38:44Z"
+    },
+    {
+      "id": "2026-11-18-jobs-oct-part-time-economic-339k",
+      "time": "2026-11-18T01:49:00Z",
+      "tag": "MACRO",
+      "headline": "Part-time for economic reasons up 339,000 to 4.8M in October",
+      "take": "BLS reported the number of people working part time for economic reasons, meaning their hours were cut or they could not find full-time work, rose by 339,000 to 4.8 million in October. The same household survey showed 6.0 million people outside the labor force who currently want a job, little changed. AlphaGen read: this measure moved while the headline unemployment rate, at 4.1%, was little changed.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-18T01:38:44Z"
+    },
+    {
+      "id": "2026-11-18-jobs-oct-long-term-unemployed-27p6",
+      "time": "2026-11-18T01:40:00Z",
+      "tag": "MACRO",
+      "headline": "Long-term unemployed 2.0M in October, 27.6% of all jobless people",
+      "take": "BLS reported that people jobless for 27 weeks or more numbered 2.0 million in October and made up 27.6% of the 7.1 million unemployed, with the unemployment rate at 4.1%. BLS says the long-term count changed little over the month and the overall rate has stayed between 4.1% and 4.3% since March. AlphaGen read: the share of jobless people out of work for six months or more is a useful gauge of how hard it is to find a new job.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-18T01:38:44Z"
+    },
     {
       "id": "2026-11-17-dis-consumer-products-to-entertainment",
       "tag": "EQUITIES",
@@ -5008,66 +5068,6 @@
       "source_name": "U.S. Census Bureau via FRED (MSACSR)",
       "source_url": "https://fred.stlouisfed.org/series/MSACSR",
       "checked": "2026-11-11T21:39:11Z"
-    },
-    {
-      "id": "2026-11-11-fed-balance-sheet-nov4",
-      "time": "2026-11-11T20:40:41Z",
-      "tag": "FED",
-      "headline": "Fed total assets $6.748T on Nov. 4, up $2.5B in a week",
-      "take": "Federal Reserve total assets were $6,748,145 million on Nov. 4, up from $6,745,635 million on Oct. 28 and $6,743,031 million on Sept. 30, per the Fed's weekly H.4.1 data on FRED. That is a $2.5 billion weekly rise and a $5.1 billion gain over five weeks. AlphaGen read: the balance sheet is essentially flat, with changes in the low billions.",
-      "source_name": "Federal Reserve Board via FRED (WALCL)",
-      "source_url": "https://fred.stlouisfed.org/series/WALCL",
-      "checked": "2026-11-11T20:38:41Z"
-    },
-    {
-      "id": "2026-11-11-tga-nov4",
-      "time": "2026-11-11T20:51:41Z",
-      "tag": "DEBT",
-      "headline": "Treasury General Account $957.2B on Nov. 4, down $42.6B from Oct. 28",
-      "take": "The Treasury General Account at the Fed stood at $957,175 million on Nov. 4, down from $999,727 million on Oct. 28, a $42.6 billion drop, and above $880,253 million on Oct. 7, per FRED. AlphaGen read: the account swung by roughly $120 billion across October, a cash-management movement that interacts with bank reserves.",
-      "source_name": "Federal Reserve Board via FRED (WTREGEN)",
-      "source_url": "https://fred.stlouisfed.org/series/WTREGEN",
-      "checked": "2026-11-11T20:38:41Z"
-    },
-    {
-      "id": "2026-11-11-yuan-nov6",
-      "time": "2026-11-11T21:02:41Z",
-      "tag": "FX",
-      "headline": "Yuan at 6.6760 per dollar on Nov. 6, from 6.6538 on Oct. 30",
-      "take": "The Fed's H.10 series on FRED shows 6.6760 Chinese yuan per U.S. dollar on Nov. 6, up from 6.6538 on Oct. 30 and 6.6480 on Nov. 2. A higher figure means more yuan per dollar. AlphaGen read: the rate has stayed in a narrow range across the last week of data.",
-      "source_name": "Federal Reserve Board H.10 via FRED (DEXCHUS)",
-      "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
-      "checked": "2026-11-11T20:38:41Z"
-    },
-    {
-      "id": "2026-11-11-broad-dollar-nov6",
-      "time": "2026-11-11T21:13:41Z",
-      "tag": "FX",
-      "headline": "Fed's broad dollar index 121.8803 on Nov. 6 vs 121.6656 on Oct. 30",
-      "take": "The Federal Reserve's nominal broad U.S. dollar index was 121.8803 on Nov. 6, up from 121.6656 on Oct. 30, a rise of 0.2147 index points, and above the 121.3702 reading on Nov. 2, per FRED. AlphaGen read: the trade-weighted measure moved within a range of about half an index point over the week.",
-      "source_name": "Federal Reserve Board via FRED (DTWEXBGS)",
-      "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
-      "checked": "2026-11-11T20:38:41Z"
-    },
-    {
-      "id": "2026-11-11-dff-nov9",
-      "time": "2026-11-11T21:24:41Z",
-      "tag": "FED",
-      "headline": "Effective fed funds rate 3.88% every day Nov. 4-9; SOFR 3.88% Nov. 9",
-      "take": "The effective federal funds rate was 3.88% on each day from Nov. 4 through Nov. 9, per FRED, while the Secured Overnight Financing Rate was also 3.88% on Nov. 9, down from 3.95% on Nov. 2. AlphaGen read: overnight funding markets are tracking the policy rate closely, with no sign of strain in these readings.",
-      "source_name": "Federal Reserve Bank of New York and Board via FRED (DFF, SOFR)",
-      "source_url": "https://fred.stlouisfed.org/series/DFF",
-      "checked": "2026-11-11T20:38:41Z"
-    },
-    {
-      "id": "2026-11-11-ecb-pontes-settlement",
-      "time": "2026-11-11T19:48:53Z",
-      "tag": "GLOBAL",
-      "headline": "ECB's Cipollone: Pontes onboarded 18 participants on day one; ESM settled €1B bond",
-      "take": "In a Nov. 10 statement to the European Parliament's economic affairs committee, ECB Executive Board member Piero Cipollone said the Eurosystem's Pontes platform, launched in September, had 18 market participants and market DLT operators onboarded on day one. He said that on Nov. 2 it settled the European Stability Mechanism's first digitally native benchmark bond, of €1 billion. AlphaGen read: the ECB is presenting settlement of tokenised securities in central bank money as already operational, not a pilot.",
-      "source_name": "European Central Bank (Cipollone statement)",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "checked": "2026-11-11T19:43:53Z"
     }
   ]
 }
