@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-17T19:55:07Z",
+ "updated": "2026-11-18T02:14:40Z",
  "items": [
+  {
+   "id": "live-0000950103-26-017684-1.01",
+   "time": "2026-11-17T22:17:58Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "CSX discloses a material agreement",
+   "take": "CSX reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:17 PM ET, Nov 17.",
+   "source_name": "SEC EDGAR, CSX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm",
+   "ticker": "NASDAQ:CSX"
+  },
+  {
+   "id": "live-0001045810-26-000088-2.02",
+   "time": "2026-11-17T21:20:51Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "NVIDIA releases financial results",
+   "take": "NVIDIA filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:20 PM ET, Nov 17.",
+   "source_name": "SEC EDGAR, NVDA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm",
+   "ticker": "NASDAQ:NVDA"
+  },
+  {
+   "id": "live-0001104659-26-129070-5.02",
+   "time": "2026-11-17T21:16:42Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Realty Income reports an executive or board change",
+   "take": "Realty Income reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:16 PM ET, Nov 17.",
+   "source_name": "SEC EDGAR, O Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/0001104659-26-129070-index.htm",
+   "ticker": "NYSE:O"
+  },
+  {
+   "id": "live-0000060667-26-000122-5.02",
+   "time": "2026-11-17T21:10:08Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Lowe's Companies reports an executive or board change",
+   "take": "Lowe's Companies reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:10 PM ET, Nov 17.",
+   "source_name": "SEC EDGAR, LOW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122-index.htm",
+   "ticker": "NYSE:LOW"
+  },
+  {
+   "id": "live-0000885725-26-000073-5.02",
+   "time": "2026-11-17T21:08:58Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Boston Scientific reports an executive or board change",
+   "take": "Boston Scientific reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:08 PM ET, Nov 17.",
+   "source_name": "SEC EDGAR, BSX Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000073/0000885725-26-000073-index.htm",
+   "ticker": "NYSE:BSX"
+  },
+  {
+   "id": "live-0001193125-26-465510-1.01",
+   "time": "2026-11-17T21:06:06Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Cheniere Energy discloses a material agreement",
+   "take": "Cheniere Energy reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:06 PM ET, Nov 17.",
+   "source_name": "SEC EDGAR, LNG Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526465510/0001193125-26-465510-index.htm",
+   "ticker": "NYSE:LNG"
+  },
   {
    "id": "live-0000037996-26-000193-5.02",
    "time": "2026-11-17T14:17:48Z",
