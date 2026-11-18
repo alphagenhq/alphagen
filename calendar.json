@@ -1,27 +1,7 @@
 {
- "updated": "2026-11-17T13:39:35Z",
+ "updated": "2026-11-18T13:39:15Z",
  "note": "Times are ET. Blank time means the agency schedule lists no time.",
  "items": [
-  {
-   "date": "2026-11-10",
-   "time": "08:30",
-   "name": "Consumer Price Index (Oct)",
-   "agency": "BLS",
-   "category": "Inflation",
-   "importance": 3,
-   "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "id": "2026-11-10-consumerpriceindexoct"
-  },
-  {
-   "id": "2026-11-10-real-earnings",
-   "date": "2026-11-10",
-   "time": "08:30",
-   "name": "Real Earnings (Oct)",
-   "agency": "BLS",
-   "category": "Labor",
-   "importance": 1,
-   "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp"
-  },
   {
    "date": "2026-11-13",
    "time": "08:30",
@@ -31,6 +11,16 @@
    "importance": 2,
    "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
    "id": "2026-11-13-producerpriceindexoct"
+  },
+  {
+   "id": "2026-11-17-mtis",
+   "date": "2026-11-17",
+   "time": "",
+   "name": "Manufacturing & Trade Inventories and Sales (Sep)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
   },
   {
    "date": "2026-11-17",
@@ -71,16 +61,6 @@
    "category": "Growth",
    "importance": 2,
    "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
-  },
-  {
-   "id": "2026-11-17-mtis",
-   "date": "2026-11-17",
-   "time": "",
-   "name": "Manufacturing & Trade Inventories and Sales (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
   },
   {
    "date": "2026-11-18",
@@ -186,7 +166,7 @@
    "id": "2026-11-27-advanceeconomicindicatorsrepor",
    "date": "2026-11-27",
    "time": "08:30",
-   "name": "Advance Economic Indicators Report (Oct)",
+   "name": "Advance Economic Indicators Report",
    "agency": "Census",
    "category": "Growth",
    "importance": 1,
@@ -213,6 +193,16 @@
    "source_url": "https://www.census.gov/construction/c30/release.html"
   },
   {
+   "date": "2026-12-03",
+   "time": "10:00",
+   "name": "Manufacturers' Shipments, Inventories & Orders, Full Report",
+   "agency": "Census",
+   "category": "Manufacturing",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "id": "2026-12-03-manufacturersshipmentsinventor"
+  },
+  {
    "id": "2026-12-04-jobs-report",
    "date": "2026-12-04",
    "time": "08:30",
@@ -233,6 +223,16 @@
    "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
   },
   {
+   "date": "2026-12-09",
+   "time": "",
+   "name": "FOMC rate decision (with projections)",
+   "agency": "Federal Reserve",
+   "category": "Fed",
+   "importance": 3,
+   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "id": "2026-12-09-fomcratedecisionwithprojection"
+  },
+  {
    "id": "2026-12-09-boc-decision",
    "date": "2026-12-09",
    "time": "09:45",
@@ -244,13 +244,13 @@
   },
   {
    "date": "2026-12-09",
-   "time": "",
-   "name": "FOMC rate decision (with projections)",
-   "agency": "Federal Reserve",
-   "category": "Fed",
-   "importance": 3,
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "id": "2026-12-09-fomcratedecisionwithprojection"
+   "time": "10:00",
+   "name": "Monthly Wholesale Trade: Sales & Inventories",
+   "agency": "Census",
+   "category": "Business",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "id": "2026-12-09-monthlywholesaletradesalesinve"
   },
   {
    "id": "2026-12-10-cpi-nov",
@@ -261,6 +261,26 @@
    "category": "Inflation",
    "importance": 3,
    "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "10:00",
+   "name": "Quarterly Services Survey",
+   "agency": "Census",
+   "category": "Business",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "id": "2026-12-10-quarterlyservicessurveyq3"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "10:00",
+   "name": "Business Formation Statistics",
+   "agency": "Census",
+   "category": "Business",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "id": "2026-12-11-businessformationstatisticsnov"
   },
   {
    "id": "2026-12-16-advanceretailsalesnov",
@@ -311,6 +331,16 @@
    "category": "Housing",
    "importance": 2,
    "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
+   "date": "2026-12-28",
+   "time": "08:30",
+   "name": "Advance Economic Indicators Report",
+   "agency": "Census",
+   "category": "Trade",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "id": "2026-12-28-advanceeconomicindicatorsrepor"
   }
  ]
 }

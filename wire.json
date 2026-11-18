@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-18T12:50:00Z",
+ "updated": "2026-11-18T13:39:15Z",
  "items": [
+  {
+   "id": "2026-11-18-census-dec-schedule-trade-construction-m3",
+   "tag": "MACRO",
+   "headline": "Census schedule: construction spending Dec. 1, factory orders report Dec. 3, trade Dec. 8",
+   "take": "The Census Bureau's 2026 release calendar lists Construction Spending at 10:00 a.m. on Dec. 1, the full Manufacturers' Shipments, Inventories and Orders report at 10:00 a.m. on Dec. 3, and U.S. International Trade in Goods and Services at 8:30 a.m. on Dec. 8. AlphaGen read: together with the Dec. 4 jobs report already on the calendar, they fill out the first full week of December's data.",
+   "source_name": "U.S. Census Bureau, Economic Indicator Calendar 2026",
+   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "time": "2026-11-18T14:23:15Z",
+   "checked": "2026-11-18T13:39:15Z"
+  },
+  {
+   "id": "2026-11-18-lng-notes-par-call-registration-rights",
+   "tag": "CREDIT",
+   "headline": "Cheniere's 2037 notes callable at par from Sept. 15, 2036; exchange offer due within 360 days",
+   "take": "Before Sept. 15, 2036 Cheniere may redeem the notes at the greater of 100% of principal or a make-whole price, plus accrued interest; on and after that date, at 100% of principal plus accrued interest. Under a registration rights agreement with Morgan Stanley & Co. LLC as representative of the initial purchasers, Cheniere agreed to use commercially reasonable efforts to have an exchange-offer registration statement effective within 360 days of Nov. 17. AlphaGen read: additional interest is owed only if it misses the registration deadlines.",
+   "source_name": "Cheniere Energy, Inc. (Form 8-K, Item 1.01)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526465510/0001193125-26-465510.txt",
+   "ticker": "NYSE:LNG",
+   "time": "2026-11-18T14:09:15Z",
+   "checked": "2026-11-18T13:39:15Z"
+  },
+  {
+   "id": "2026-11-18-lng-notes-unregistered-no-guarantee",
+   "tag": "DEBT",
+   "headline": "Cheniere's 2037 notes sold under Rule 144A, ranking equally with senior debt, not initially guaranteed",
+   "take": "Cheniere's 8-K says the notes were sold in reliance on Rule 144A and Regulation S and were not registered under the Securities Act. They are senior unsubordinated obligations ranking equally with its other senior unsubordinated debt and are not initially guaranteed by subsidiaries; a subsidiary that guarantees or co-obligates on Cheniere's 4.625% senior notes due 2028 would also guarantee them. AlphaGen read: the guarantee link to the 2028 notes is the structural detail to watch.",
+   "source_name": "Cheniere Energy, Inc. (Form 8-K, Item 1.01)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526465510/0001193125-26-465510.txt",
+   "ticker": "NYSE:LNG",
+   "time": "2026-11-18T13:55:15Z",
+   "checked": "2026-11-18T13:39:15Z"
+  },
+  {
+   "id": "2026-11-18-lng-notes-1p2b-5p8-2037",
+   "tag": "CREDIT",
+   "headline": "Cheniere closes $1.2B of 5.800% senior notes due 2037, issued at 99.313% of par",
+   "take": "Cheniere Energy said it closed the sale of $1.2 billion aggregate principal amount of 5.800% Senior Notes due 2037 on Nov. 17, issued at 99.313% of par. The notes mature March 15, 2037, with interest payable semi-annually from March 15, 2027. AlphaGen read: at that issue price, par value times 99.313% works out to about $1,191.8 million before any fees or expenses, which the filing does not state.",
+   "source_name": "Cheniere Energy, Inc. (Form 8-K, Item 1.01)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526465510/0001193125-26-465510.txt",
+   "ticker": "NYSE:LNG",
+   "time": "2026-11-18T13:41:15Z",
+   "checked": "2026-11-18T13:39:15Z"
+  },
   {
    "id": "2026-11-18-tgt-q3-eps-2p65-tariff-refund-0p50",
    "time": "2026-11-18T12:56:00Z",
@@ -5040,46 +5083,6 @@
    "take": "Invesco's preliminary Oct. 31 assets under management table shows QQQ at $463.8 billion versus $498.9 billion at Sept. 30, a $35.1 billion decline of 7.0%, and Global Liquidity at $230.0 billion versus $261.6 billion, down $31.6 billion or 12.1%. Invesco said October numbers are preliminary and subject to adjustment. AlphaGen read: those two lines account for most of the $84.3 billion drop in total AUM to $2,453.5 billion.",
    "source_name": "SEC EDGAR, IVZ Form 8-K (Ex. 99.1)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000424/0000914208-26-000424-index.htm",
-   "checked": "2026-11-12T02:39:16Z"
-  },
-  {
-   "id": "2026-11-12-bowman-core-pce-oct-est",
-   "time": "2026-11-12T03:09:00Z",
-   "tag": "FED",
-   "headline": "Bowman: October CPI suggests 12-month core PCE inflation likely rose to 3.3%",
-   "take": "In her Nov. 10 speech, Fed Vice Chair for Supervision Bowman said the day's consumer price index suggests 12-month core PCE inflation likely moved up further to 3.3 percent in October, as upward pressures from higher energy prices and AI-related demand continue to flow through to core goods and services prices. She said progress on lowering inflation has stalled over the past two years or so and that the latest data suggest price pressures may be broadening. AlphaGen read: her own forecast still has core PCE moving closer to 2 percent next year, so the worry is persistence, not a changed endpoint.",
-   "source_name": "Federal Reserve Board speeches",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-12T02:39:16Z"
-  },
-  {
-   "id": "2026-11-12-bowman-risks-equities-rates",
-   "time": "2026-11-12T02:59:00Z",
-   "tag": "FED",
-   "headline": "Bowman flags equity correction and sharp rise in long-term rates as growth risks",
-   "take": "Bowman said she sees risks to economic activity originating in financial markets, including a large correction in equity valuations if returns on AI investment fall short of expectations and a sharp increase in private longer-term interest rates. She said lower equity prices could undermine resilience in consumer spending and higher rates could further strain interest-rate-sensitive sectors like housing and small business investment. AlphaGen read: she is naming the two channels, wealth effects and borrowing costs, that would link markets to the real economy.",
-   "source_name": "Federal Reserve Board speeches",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "checked": "2026-11-12T02:39:16Z"
-  },
-  {
-   "id": "2026-11-12-waller-uncertainty-beige-book",
-   "time": "2026-11-12T02:49:00Z",
-   "tag": "FED",
-   "headline": "Waller: uncertainty since early 2025 may be holding back hiring; cites Beige Book",
-   "take": "Governor Waller said hiring and job-switching may have been restrained by factors that have raised economic uncertainty since early 2025, including the advent of AI, tariffs, changes in immigration policy and enforcement, and general uncertainty about the outlook. He cited the Fed's November 2025 Beige Book, where employers reported hiring was unusually restrained because of uncertainty, and the most recent Beige Book, where several Districts reported firms delayed hiring or anticipate less job creation after investing in AI. He said he does not think uncertainty has diminished much since then. AlphaGen read: he is treating part of the low-hire pattern as uncertainty-driven rather than purely structural.",
-   "source_name": "Federal Reserve Board speeches",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-   "checked": "2026-11-12T02:39:16Z"
-  },
-  {
-   "id": "2026-11-12-waller-pandemic-switchers",
-   "time": "2026-11-12T02:39:00Z",
-   "tag": "FED",
-   "headline": "Waller: low firing may partly reflect 2020-2023 job-switching surge, possibly temporary",
-   "take": "Waller said low firing may be a consequence of the surge in job-switching from 2020 to 2023, since workers in new jobs are less inclined to change jobs again. He said that if this is a large factor it may be temporary, because workers stay in their jobs a median of three years before switching again and the last of the pandemic job switchers are nearing that threshold. AlphaGen read: this is the argument that labor-market dynamism could recover without a policy change.",
-   "source_name": "Federal Reserve Board speeches",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
    "checked": "2026-11-12T02:39:16Z"
   }
  ]
