@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-18T13:39:15Z",
+ "updated": "2026-11-18T18:39:07Z",
  "items": [
+  {
+   "id": "2026-11-17-qsr-secured-notes",
+   "time": "2026-11-18T18:39:07Z",
+   "type": "Debt",
+   "headline": "Restaurant Brands unit prices $1.0B of senior secured notes due 2031 and 2036",
+   "parties": "Issuers: 1011778 B.C. Unlimited Liability Company and New Red Finance, Inc. (subsidiaries of Restaurant Brands International Inc.); Underwriter representatives: J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, RBC Capital Markets, LLC",
+   "value": 1.0,
+   "value_text": "$1.0 billion",
+   "status": "Priced",
+   "announced": "2026-11-17",
+   "sector": "Consumer / restaurants",
+   "take": "On Nov. 17 the issuers entered into an underwriting agreement for $500 million of 6.000% Senior Secured Notes due 2031 and $500 million of 6.400% Senior Secured Notes due 2036. Proceeds are expected to repay a portion of term loan B borrowings and cover fees and expenses.",
+   "source_name": "Restaurant Brands International (Form 8-K, Item 1.01)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1618756/000161875626000058/0001618756-26-000058.txt",
+   "tickers": [
+    "NYSE:QSR"
+   ],
+   "checked": "2026-11-18T18:39:07Z"
+  },
   {
    "id": "2026-11-18-lng-notes-2037",
    "time": "2026-11-18T13:39:15Z",

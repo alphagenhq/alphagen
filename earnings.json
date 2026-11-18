@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-18T12:50:00Z",
+ "updated": "2026-11-18T18:39:07Z",
  "items": [
+  {
+   "id": "2026-11-18-TJX-Q3FY27",
+   "time": "2026-11-18T18:39:07Z",
+   "ticker": "NYSE:TJX",
+   "name": "The TJX Companies, Inc.",
+   "period": "Q3 FY2027",
+   "report_date": "2026-11-18",
+   "revenue": 15.952,
+   "revenue_yoy": 5.5,
+   "eps_yoy": 8.6,
+   "eps": 1.39,
+   "take": "TJX reported Q3 FY2027 net sales of $15,952 million versus $15,117 million a year earlier, with comparable sales up 4%. Diluted EPS was $1.39 versus $1.28; excluding a $0.05 net benefit from tariff refunds, adjusted diluted EPS was $1.34.",
+   "source_name": "TJX Q3 FY27 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058.txt",
+   "checked": "2026-11-18T18:39:07Z"
+  },
+  {
+   "id": "2026-11-18-LOW-Q3",
+   "time": "2026-11-18T18:39:07Z",
+   "ticker": "NYSE:LOW",
+   "name": "Lowe's Companies, Inc.",
+   "period": "Q3 2026",
+   "report_date": "2026-11-18",
+   "revenue": 22.8,
+   "revenue_yoy": 9.3,
+   "eps_yoy": 3.5,
+   "eps": 2.98,
+   "take": "Lowe's reported Q3 2026 total sales of $22.8 billion versus $20.8 billion (up 9.3% as stated in the release) and comparable sales up 1.8%. Diluted EPS was $2.98 versus $2.88; adjusted diluted EPS was $3.10, and both include a $0.34 positive impact from IEEPA tariff refunds.",
+   "source_name": "Lowe's Q3 2026 earnings release (SEC EX-99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126.txt",
+   "checked": "2026-11-18T18:39:07Z"
+  },
   {
    "id": "2026-11-18-TGT-Q3",
    "time": "2026-11-18T12:50:00Z",
