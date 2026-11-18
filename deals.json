@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-18T18:39:07Z",
+ "updated": "2026-11-18T19:38:18Z",
  "items": [
+  {
+   "id": "2026-11-18-fcx-ptfi-notes",
+   "time": "2026-11-18T19:38:18Z",
+   "type": "Debt",
+   "headline": "Freeport Indonesia prices $750M of 6.90% senior notes due 2033",
+   "parties": "Issuer: PT Freeport Indonesia (48.76%-owned subsidiary of Freeport-McMoRan Inc.)",
+   "value": 0.75,
+   "value_text": "$750 million",
+   "status": "Priced",
+   "announced": "2026-11-18",
+   "sector": "Mining / metals",
+   "take": "PT Freeport Indonesia priced US$750.0 million of 6.90% senior notes due Nov. 24, 2033, with settlement expected Nov. 24, 2026. Proceeds are intended to refinance existing indebtedness and for general corporate purposes.",
+   "source_name": "Freeport-McMoRan (Form 8-K, Item 8.01)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000053/0000831259-26-000053.txt",
+   "tickers": [
+    "NYSE:FCX"
+   ],
+   "checked": "2026-11-18T19:38:18Z"
+  },
   {
    "id": "2026-11-17-qsr-secured-notes",
    "time": "2026-11-18T18:39:07Z",

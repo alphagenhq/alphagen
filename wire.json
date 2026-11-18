@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-18T18:39:07Z",
+ "updated": "2026-11-18T19:38:18Z",
  "items": [
+  {
+   "id": "2026-11-18-eia-gas-storage-3810bcf-season-end",
+   "time": "2026-11-18T19:41:18Z",
+   "tag": "ENERGY",
+   "headline": "EIA: Lower 48 gas storage ended injection season at 3,810 Bcf, almost 2% above average",
+   "take": "EIA said working natural gas in Lower 48 storage ended the April 1–Oct. 31 injection season at 3,810 Bcf, almost 2% above the five-year average. Net injections were 2 Bcf below the five-year average, but stocks started the season at 1,878 Bcf, 3% (63 Bcf) above average. AlphaGen read: EIA's November outlook calls for 1,900 Bcf of heating-season withdrawals and inventories 4% above average at the end of March 2027.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-eia-alaska-crude-505k-2027",
+   "time": "2026-11-18T19:47:18Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA forecasts Alaskan crude output up 13% in 2027 to 505,000 b/d, most since 2014",
+   "take": "EIA's November Short-Term Energy Outlook expects Alaskan crude production to rise 23,000 b/d (6%) in 2026 and 60,000 b/d (13%) in 2027, to 505,000 b/d. EIA attributes the growth to the Nuna project and Pikka Phase 1, which reached 38,000 b/d as of September 2026. AlphaGen read: EIA says these would be the largest annual increases in Alaskan output since the 1980s.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-eia-southwest-hydropower-record-low",
+   "time": "2026-11-18T19:53:18Z",
+   "tag": "ENERGY",
+   "headline": "EIA: Southwest hydropower fell to record lows, April–August output down 19% on year",
+   "take": "EIA said Southwest hydropower generation from April through August 2026 was 19% below the same period last year and 28% below the 10-year average, with Lake Powell at 3,518 feet at the end of September, less than 1% above the 3,490-foot minimum power pool. Its November outlook sees 2026 Southwest hydropower at 6.13 BkWh, 9% below last year. AlphaGen read: EIA says one good water year likely won't eliminate the effects of multiple years of water scarcity.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-bea-outdoor-recreation-2025-704b-2p3pct-gdp",
+   "time": "2026-11-18T19:59:18Z",
+   "tag": "MACRO",
+   "headline": "BEA: Outdoor recreation was 2.3% of GDP in 2025, $704.2B of value added",
+   "take": "BEA said outdoor recreation value added was $704.2 billion, 2.3% of current-dollar GDP, in 2025. Real outdoor recreation GDP rose 1.9%, versus 2.3% for the overall U.S. economy and 2.5% for the sector in 2024; employment rose 1.7% and compensation 4.6%. AlphaGen read: the sector grew slightly slower than the economy in 2025, with boating/fishing the largest conventional activity at $39.1 billion.",
+   "source_name": "Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-oxy-tender-offers-two-pools-500m-caps",
+   "time": "2026-11-18T20:05:18Z",
+   "tag": "DEBT",
+   "headline": "Occidental launches cash tender offers for senior notes, with $500M caps in two pools",
+   "take": "Occidental said it began cash tender offers and consent solicitations for 16 series of senior notes and debentures, with up to $500.0 million aggregate principal amount in each of two pools, subject to increase by Occidental. The early tender time is 5:00 p.m. New York time on Dec. 2, 2026, and the offers expire at 5:00 p.m. on Dec. 17, 2026; an early tender premium of $30 per $1,000 applies. AlphaGen read: pricing is set at fixed spreads over Treasury yields, so the final price will depend on Treasury yields at the Dec. 3 price determination time.",
+   "source_name": "Occidental (8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/797468/000095015726001273/ex99-1.htm",
+   "ticker": "NYSE:OXY",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-fcx-ptfi-750m-6p90-notes-2033",
+   "time": "2026-11-18T20:11:18Z",
+   "tag": "CREDIT",
+   "headline": "Freeport's Indonesian unit prices $750M of 6.90% senior notes due 2033",
+   "take": "Freeport-McMoRan said PT Freeport Indonesia, a 48.76%-owned subsidiary, priced US$750.0 million of 6.90% senior notes due Nov. 24, 2033, with settlement expected Nov. 24, 2026. Proceeds are intended to refinance existing indebtedness and for general corporate purposes. AlphaGen read: the notes will be included in FCX's consolidated debt, according to the filing.",
+   "source_name": "Freeport-McMoRan (Form 8-K)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000053/0000831259-26-000053.txt",
+   "ticker": "NYSE:FCX",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-fred-initial-claims-nov7-200k",
+   "time": "2026-11-18T20:17:18Z",
+   "tag": "MACRO",
+   "headline": "Initial jobless claims 200,000 in week ended Nov. 7, up 9,000 from 191,000",
+   "take": "FRED's latest observation shows seasonally adjusted initial claims of 200,000 for the week ended Nov. 7, up 9,000 from 191,000 the prior week. Weekly readings since early October have ranged from 191,000 to 200,000. AlphaGen read: claims remain in a narrow band, a data point to weigh alongside the labor-market reports.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/ICSA",
+   "checked": "2026-11-18T19:38:18Z"
+  },
+  {
+   "id": "2026-11-18-fred-fed-total-assets-nov11-6p759t",
+   "time": "2026-11-18T20:23:18Z",
+   "tag": "FED",
+   "headline": "Fed total assets $6.759 trillion on Nov. 11, up $10.7B in a week",
+   "take": "FRED's latest weekly observation shows Federal Reserve total assets of $6,758,867 million on Nov. 11, up $10,722 million from $6,748,145 million on Nov. 4. Total assets were $6,745,635 million on Oct. 28, so the Nov. 11 level is $13.2 billion higher over two weeks. AlphaGen read: the balance sheet has moved within a narrow range since early October.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-18T19:38:18Z"
+  },
   {
    "id": "2026-11-18-tjx-q3-fy27-sales-16b-comps-4",
    "time": "2026-11-18T18:47:07Z",
@@ -5009,87 +5091,6 @@
    "source_name": "Federal Reserve",
    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
    "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-fed-payment-services-2027-pricing",
-   "time": "2026-11-12T19:22:00Z",
-   "tag": "FED",
-   "headline": "Fed sets 2027 payment-service prices: 1.4% average rise for mature services",
-   "take": "The Federal Reserve Board announced pricing effective Jan. 1, 2027 for Reserve Bank payment services to banks and credit unions, expecting to recover 101.5% of actual and imputed expenses in 2027. Price changes imply an estimated 1.4% average increase for established, mature services, and its check-service changes include optimizing processing windows during low-volume periods and increasing fees banks and credit unions pay to process checks. The Fed says consumers' and businesses' ability to pay with or receive checks is not affected.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-mrvl-board-expands-ten",
-   "time": "2026-11-12T19:28:00Z",
-   "tag": "EQUITIES",
-   "headline": "Marvell expands board from seven to ten, adds three independent directors",
-   "take": "Marvell's Form 8-K (Item 5.02) says its Board approved on Nov. 11 an increase in size from seven to ten members and appointed Donna C. Morris, Douglas R. Bettinger and Sasan K. Goodarzi, effective Nov. 12. The Board determined all three are independent; Bettinger joins the Audit Committee and qualifies as an audit committee financial expert, while Morris and Goodarzi join the Executive Compensation Committee. All three will stand for election at the 2027 annual meeting.",
-   "source_name": "SEC EDGAR, MRVL Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026.txt",
-   "ticker": "NASDAQ:MRVL",
-   "checked": "2026-11-12T18:38:19Z"
-  },
-  {
-   "id": "2026-11-12-ppi-oct-due-friday",
-   "time": "2026-11-12T17:52:56Z",
-   "tag": "MACRO",
-   "headline": "October PPI due Friday 8:30 a.m. ET after September's 1.3% final-demand jump",
-   "take": "BLS's schedule lists the October Producer Price Index for Friday, Nov. 13 at 8:30 a.m. ET. The September release put final demand up 1.3% seasonally adjusted after 0.5% in August and 0.2% in July, the largest advance since 1.7% in March 2022, and 6.3% higher over the 12 months to September unadjusted. AlphaGen read: the October print will show whether that step-up carried into a second month.",
-   "source_name": "U.S. Bureau of Labor Statistics",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-12T17:44:56Z"
-  },
-  {
-   "id": "2026-11-12-retail-sales-oct-due-nov17",
-   "time": "2026-11-12T18:02:56Z",
-   "tag": "MACRO",
-   "headline": "Retail sales $745.0B in September, up 0.8%; October report due Nov. 17",
-   "take": "FRED's Census series for advance retail and food services sales shows $745.0 billion in September, up from $739.3 billion in August, a 0.8% monthly rise by our calculation. The Census schedule lists October advance retail sales for Tuesday, Nov. 17 at 8:30 a.m. ET. AlphaGen read: September was the second straight monthly gain after July's $729.9 billion.",
-   "source_name": "U.S. Census Bureau via FRED",
-   "source_url": "https://fred.stlouisfed.org/series/RSAFS",
-   "checked": "2026-11-12T17:44:56Z"
-  },
-  {
-   "id": "2026-11-12-indpro-oct-due-nov17",
-   "time": "2026-11-12T18:12:56Z",
-   "tag": "MACRO",
-   "headline": "Industrial production index 103.95 in September, up 0.7% on month; October data Nov. 17",
-   "take": "The Federal Reserve's industrial production index stood at 103.9506 in September, up from 103.2664 in August, a 0.7% monthly rise by our calculation, and 1.0% above its June reading of 102.9610. The Fed's calendar lists the October release for Nov. 17 at 9:15 a.m. ET and an annual revision on Nov. 24 at noon ET. AlphaGen read: the Nov. 24 revision could restate the path of these monthly figures.",
-   "source_name": "Federal Reserve Board via FRED",
-   "source_url": "https://fred.stlouisfed.org/series/INDPRO",
-   "checked": "2026-11-12T17:44:56Z"
-  },
-  {
-   "id": "2026-11-12-housing-starts-permits-gap",
-   "time": "2026-11-12T18:22:56Z",
-   "tag": "HOUSING",
-   "headline": "Housing starts 1.221M in September, down three straight months; permits 1.398M",
-   "take": "Census data on FRED show housing starts at 1.221 million annualized in September, down from 1.288 million in August, 1.369 million in July and 1.439 million in June, 15.1% below June by our calculation. Building permits were 1.398 million in September, 177,000 or 14.5% above starts. The Census schedule lists October starts and permits for Nov. 18 at 8:30 a.m. ET. AlphaGen read: permits holding near 1.4 million while starts fall leaves a gap the October data will test.",
-   "source_name": "U.S. Census Bureau via FRED",
-   "source_url": "https://fred.stlouisfed.org/series/HOUST",
-   "checked": "2026-11-12T17:44:56Z"
-  },
-  {
-   "id": "2026-11-12-fred-payems-four-months",
-   "time": "2026-11-12T16:48:05Z",
-   "tag": "MACRO",
-   "headline": "Payrolls rose 401,000 over four months to October, averaging 100,250 a month",
-   "take": "FRED's total nonfarm payroll series (PAYEMS) rose from 158,892 thousand in June to 159,293 thousand in October, a gain of 401,000, or 100,250 a month. Monthly changes were -10,000 in July, +186,000 in August, +60,000 in September and +165,000 in October. AlphaGen read: the four-month average smooths one negative month, July, in an otherwise positive run.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (PAYEMS)",
-   "source_url": "https://fred.stlouisfed.org/series/PAYEMS",
-   "checked": "2026-11-12T16:45:15Z"
-  },
-  {
-   "id": "2026-11-12-fred-unrate-range",
-   "time": "2026-11-12T16:59:05Z",
-   "tag": "MACRO",
-   "headline": "Unemployment rate 4.1% in October, within a 4.1%-4.2% range for five months",
-   "take": "FRED shows the unemployment rate at 4.1% in October, after 4.2% in September, 4.1% in both July and August, and 4.2% in June. It was 4.3% in each of March, April and May. AlphaGen read: the rate has moved no more than 0.1 point a month since June, so October's reading continues a flat pattern rather than breaking it.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (UNRATE)",
-   "source_url": "https://fred.stlouisfed.org/series/UNRATE",
-   "checked": "2026-11-12T16:45:15Z"
   }
  ]
 }
