@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-18T03:38:58Z",
+  "updated": "2026-11-18T11:39:00Z",
   "items": [
+    {
+      "id": "2026-11-18-uk-cpi-oct-3p6",
+      "time": "2026-11-18T11:42:00Z",
+      "tag": "GLOBAL",
+      "headline": "UK CPI inflation 3.6% in October, up from 3.5%; CPIH 3.7%",
+      "take": "The Office for National Statistics said UK CPI rose 3.6% in the 12 months to October 2026, up from 3.5% in September, while CPIH rose 3.7%, up from 3.6%. Prices rose 0.5% on the month, against 0.4% in October 2025. AlphaGen read: the pickup in the annual rate came from transport costs rather than services.",
+      "source_name": "Office for National Statistics",
+      "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
+      "checked": "2026-11-18T11:39:00Z"
+    },
+    {
+      "id": "2026-11-18-uk-motor-fuel-33p2-diesel-199p5",
+      "time": "2026-11-18T11:49:00Z",
+      "tag": "ENERGY",
+      "headline": "UK motor fuel prices up 33.2% in a year; diesel 199.5p a litre, record",
+      "take": "ONS said motor fuel prices rose 33.2% in the 12 months to October 2026, against 29.8% the previous month, and transport made the largest upward contribution to the monthly change in CPI and CPIH. Diesel reached 199.5 pence per litre, the highest since records began in January 1996. AlphaGen read: fuel is the main pressure point in the UK inflation print.",
+      "source_name": "Office for National Statistics",
+      "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
+      "checked": "2026-11-18T11:39:00Z"
+    },
+    {
+      "id": "2026-11-18-uk-core-cpi-2p8-services-3p7-goods-3p5",
+      "time": "2026-11-18T11:56:00Z",
+      "tag": "GLOBAL",
+      "headline": "UK core CPI 2.8%, services 3.7%; goods inflation rises to 3.5%",
+      "take": "ONS reported core CPI, which excludes energy, food, alcohol and tobacco, at 2.8% in October 2026, little changed from September. Services CPI was 3.7%, also little changed, while goods CPI rose from 3.2% to 3.5%. Restaurants and hotels made the largest downward contribution, at 3.4% versus 3.8% a month earlier. AlphaGen read: the underlying services rate held steady while goods drove the change.",
+      "source_name": "Office for National Statistics",
+      "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
+      "checked": "2026-11-18T11:39:00Z"
+    },
+    {
+      "id": "2026-11-18-ecb-fsr-ai-valuations-debt-funded",
+      "time": "2026-11-18T12:03:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB: AI valuations rely on ambitious earnings; debt funding widens spillover risk",
+      "take": "The ECB's November 2026 Financial Stability Review said current AI valuations rely on ambitious earnings expectations that could be challenged by financing concerns or competition from cheaper AI models. It noted that AI infrastructure investment is increasingly funded through debt, so a change in sentiment could spread losses from equity markets to bond markets. AlphaGen read: the ECB is treating AI financing as a cross-asset channel, not only an equity-valuation question.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "checked": "2026-11-18T11:39:00Z"
+    },
+    {
+      "id": "2026-11-18-ecb-fsr-sovereign-repricing-banks-resilient",
+      "time": "2026-11-18T12:10:00Z",
+      "tag": "CREDIT",
+      "headline": "ECB flags abrupt sovereign repricing risk; says euro area banks well placed",
+      "take": "The ECB said elevated debt levels, growing sovereign borrowing needs and a shift toward more news-sensitive, leveraged investors in euro area sovereign bonds raise the risk of abrupt repricing episodes, though markets have continued to function in an orderly manner. It added that the banking sector is well positioned to absorb shocks, underpinned by strong profits, solid capital buffers and ample liquidity. Vice-President Boris Vujcic said vulnerabilities are more pronounced in certain non-banks. AlphaGen read: the ECB places the weaker safeguards outside the banking system.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "checked": "2026-11-18T11:39:00Z"
+    },
+    {
+      "id": "2026-11-18-tgt-q3-2026-sales-7p1-comps-5p6",
+      "time": "2026-11-18T12:17:00Z",
+      "tag": "EARNINGS",
+      "headline": "Target Q3 net sales up 7.1%, comparable sales up 5.6%",
+      "take": "Target said third-quarter 2026 net sales grew 7.1% over last year, with comparable sales growth of 5.6%, in its Nov. 18 release for the quarter ended Oct. 31. AlphaGen read: comparable growth of 5.6% is the figure to weigh against the company's full-year outlook in the full release.",
+      "source_name": "Target Corporation (PR Newswire release)",
+      "source_url": "https://www.prnewswire.com/news-releases/target-corporation-reports-third-quarter-earnings-302942872.html",
+      "ticker": "NYSE:TGT",
+      "checked": "2026-11-18T11:39:00Z"
+    },
+    {
+      "id": "2026-11-18-low-q3-2026-eps-2p98-net-earnings-1p7b",
+      "time": "2026-11-18T12:24:00Z",
+      "tag": "EARNINGS",
+      "headline": "Lowe's Q3 net earnings $1.7B, diluted EPS $2.98",
+      "take": "Lowe's reported third-quarter fiscal 2026 net earnings of $1.7 billion and diluted earnings per share of $2.98 in its Nov. 18 release, for the quarter ended Oct. 30. AlphaGen read: the full release also updates the company's full-year outlook, which is the next thing to read.",
+      "source_name": "Lowe's Companies (PR Newswire release)",
+      "source_url": "https://www.prnewswire.com/news-releases/lowes-reports-third-quarter-2026-sales-and-earnings-results-302943071.html",
+      "ticker": "NYSE:LOW",
+      "checked": "2026-11-18T11:39:00Z"
+    },
     {
       "id": "2026-11-18-fred-yields-nov16-2y-483-10y-512",
       "time": "2026-11-18T03:43:00Z",
@@ -5007,76 +5079,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/GDPNOW",
       "checked": "2026-11-12T00:38:37Z"
-    },
-    {
-      "id": "2026-11-12-copper-sep",
-      "time": "2026-11-12T00:47:37Z",
-      "tag": "COMMODITIES",
-      "headline": "Global copper price $14,473 per tonne in September, up 44.8% from a year earlier",
-      "take": "The global price of copper averaged $14,473.06 per metric ton in September 2026, from $14,331.26 in August and $9,994.77 in September 2025, a rise of 1.0% on the month and 44.8% on the year. AlphaGen's read: a 12-month gain this large keeps input costs elevated for wiring, electrical equipment and construction.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/PCOPPUSDM",
-      "checked": "2026-11-12T00:38:37Z"
-    },
-    {
-      "id": "2026-11-12-aluminum-sep",
-      "time": "2026-11-12T00:55:37Z",
-      "tag": "COMMODITIES",
-      "headline": "Global aluminum price $3,283 per tonne in September, up 23.7% on the year",
-      "take": "The global price of aluminum averaged $3,283.05 per metric ton in September 2026, from $3,250.12 in August and $2,654.48 in September 2025, a rise of 1.0% on the month and 23.7% on the year. AlphaGen's read: aluminum is above its year-ago level, which matters for packaging, autos and aerospace costs.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/PALUMUSDM",
-      "checked": "2026-11-12T00:38:37Z"
-    },
-    {
-      "id": "2026-11-12-wheat-sep",
-      "time": "2026-11-12T01:04:37Z",
-      "tag": "COMMODITIES",
-      "headline": "Global wheat price $247 per tonne in September, up 59% from a year earlier",
-      "take": "The global price of wheat averaged $246.85 per metric ton in September 2026, from $237.86 in August and $155.12 in September 2025, a rise of 3.8% on the month and 59.1% on the year. AlphaGen's read: grain costs are an early input into food prices, so a gain of this size is worth tracking in upcoming CPI food readings.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM",
-      "checked": "2026-11-12T00:38:37Z"
-    },
-    {
-      "id": "2026-11-12-maize-sep",
-      "time": "2026-11-12T01:13:37Z",
-      "tag": "COMMODITIES",
-      "headline": "Global maize price $237 per tonne in September, up 20.8% on the year",
-      "take": "The global price of maize (corn) averaged $236.92 per metric ton in September 2026, from $221.30 in August and $196.15 in September 2025, a rise of 7.1% on the month and 20.8% on the year. AlphaGen's read: maize feeds livestock and ethanol as well as food, so higher prices spread across several cost lines.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/PMAIZMTUSDM",
-      "checked": "2026-11-12T00:38:37Z"
-    },
-    {
-      "id": "2026-11-11-fed-veterans-day-releases",
-      "time": "2026-11-11T23:44:02Z",
-      "tag": "FED",
-      "headline": "Fed: Veterans Day holiday moves Nov. 11 statistical releases to Thursday, Nov. 12",
-      "take": "The Federal Reserve Board's November calendar lists Nov. 11 as a holiday (Veterans Day) and says the daily and weekly statistical releases scheduled for that day will be released Thursday, Nov. 12. Nov. 12 also lists the 1:00 p.m. commercial paper release, the 4:15 p.m. H.15 selected interest rates and the 4:30 p.m. H.4.1 balance sheet release. AlphaGen read: the weekly Fed balance sheet and rates data arrive together on Thursday afternoon.",
-      "source_name": "Federal Reserve Board (calendar: November 2026)",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-11T23:39:02Z"
-    },
-    {
-      "id": "2026-11-11-fed-speakers-nov12-13",
-      "time": "2026-11-11T23:54:02Z",
-      "tag": "FED",
-      "headline": "Fed calendar: Barr speaks Nov. 12; Bowman and Jefferson appear Nov. 13",
-      "take": "The Federal Reserve Board's calendar lists Governor Michael S. Barr on \"Artificial Intelligence and Inequality\" at 10:00 a.m. on Nov. 12 (virtual), Vice Chair for Supervision Michelle W. Bowman in a discussion on \"Supervision and Regulation\" at 10:50 a.m. on Nov. 13 (Connecticut Bankers Association, virtual), and Vice Chair Philip N. Jefferson on productivity puzzles at 7:00 p.m. on Nov. 13 in La Jolla, Calif. AlphaGen read: Jefferson's Friday-evening talk is the one scheduled appearance on the macroeconomic outlook.",
-      "source_name": "Federal Reserve Board (calendar: November 2026)",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-11T23:39:02Z"
-    },
-    {
-      "id": "2026-11-11-fed-week-ahead-nov16-17",
-      "time": "2026-11-12T00:04:02Z",
-      "tag": "MACRO",
-      "headline": "Fed calendar: foreign exchange rates Nov. 16, industrial production Nov. 17",
-      "take": "The Federal Reserve Board's calendar lists the H.10 foreign exchange rates release at 4:15 p.m. on Monday, Nov. 16 and the G.17 industrial production and capacity utilization release at 9:15 a.m. on Tuesday, Nov. 17. The calendar shows no speeches or testimony for Nov. 16-20. AlphaGen read: the G.17 is the next Fed data print on the schedule for the week after next.",
-      "source_name": "Federal Reserve Board (calendar: November 2026)",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-11T23:39:02Z"
     }
   ]
 }
