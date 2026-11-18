@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-18T21:39:14Z",
+  "updated": "2026-11-18T22:44:29Z",
   "items": [
+    {
+      "id": "2026-11-18-low-2026-outlook-capex-2p5b-adj-margin-11p5",
+      "time": "2026-11-18T23:27:29Z",
+      "tag": "EARNINGS",
+      "headline": "Lowe's 2026 outlook: capex up to $2.5B, net interest about $1.5B",
+      "take": "Lowe's outlook for fiscal 2026 calls for capital expenditures of up to $2.5 billion, net interest expense of about $1.5 billion (previously $1.6 billion) and an effective tax rate of about 24.5%. Adjusted operating margin is now about 11.5%, down from 11.6%. The company said it will share more about growth opportunities at its Analyst and Investor Conference in December. AlphaGen read: the adjusted margin change is 0.1 point, while the interest expense estimate fell by about $0.1 billion.",
+      "source_name": "Lowe's Companies (8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126.txt",
+      "ticker": "NYSE:LOW",
+      "checked": "2026-11-18T22:44:29Z"
+    },
+    {
+      "id": "2026-11-18-tgt-capital-roic-16p5-2027-capex-5-6b",
+      "time": "2026-11-18T23:15:29Z",
+      "tag": "EARNINGS",
+      "headline": "Target: trailing ROIC 16.5%; plans $5B-$6B of 2027 capex",
+      "take": "Target said Q3 capital expenditures were $1.4 billion, $0.4 billion above last year, mainly for new and existing stores, and it expects $5 billion to $6 billion of capex in 2027. It paid $527 million of dividends, repurchased $251 million of shares (1.6 million retired) and had about $8.0 billion of repurchase capacity left. Trailing-twelve-month after-tax ROIC was 16.5% versus 13.4% a year earlier. AlphaGen read: the capex plan shows the company is still funding stores while returning cash.",
+      "source_name": "Target Corporation Q3 2026 earnings release (SEC Exhibit 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
+      "ticker": "NYSE:TGT",
+      "checked": "2026-11-18T22:44:29Z"
+    },
+    {
+      "id": "2026-11-18-tgt-q3-gross-margin-30p5-op-income-1p7b",
+      "time": "2026-11-18T23:03:29Z",
+      "tag": "EARNINGS",
+      "headline": "Target Q3 gross margin rate 30.5%, up 2.3 points; operating income $1.7B",
+      "take": "Target's Q3 gross margin rate was 30.5%, up 2.3 points, including 1.1 points from tariff refunds; excluding refunds it would have expanded about 1.2 points from 28.2%. Operating income was $1.7 billion versus $0.9 billion in the prior-year quarter, and the operating margin rate was 6.2% versus 3.8% GAAP last year. AlphaGen read: about half of the gross margin gain came from refunds, so the underlying improvement is the 1.2 points.",
+      "source_name": "Target Corporation Q3 2026 earnings release (SEC Exhibit 99)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
+      "ticker": "NYSE:TGT",
+      "checked": "2026-11-18T22:44:29Z"
+    },
+    {
+      "id": "2026-11-18-low-q3-adj-eps-3p10-tariff-refund-0p34",
+      "time": "2026-11-18T22:51:29Z",
+      "tag": "EARNINGS",
+      "headline": "Lowe's Q3 adjusted EPS $3.10, up 1.3%; tariff refunds added $0.34",
+      "take": "Lowe's said Q3 adjusted diluted EPS rose 1.3% to $3.10 from the prior-year adjusted figure, excluding $96 million of pre-tax amortization tied to its FBM and ADG acquisitions. Both diluted and adjusted EPS include a $0.34 benefit from IEEPA tariff refunds, a pre-tax impact of about $250 million. AlphaGen read: stripping out the refund leaves adjusted EPS of $2.76 on our arithmetic, so the 1.3% gain depends on the one-time refund.",
+      "source_name": "Lowe's Companies (8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126.txt",
+      "ticker": "NYSE:LOW",
+      "checked": "2026-11-18T22:44:29Z"
+    },
     {
       "id": "2026-11-18-pgr-oct-policies-in-force-40p5m",
       "time": "2026-11-18T21:39:14Z",
@@ -5055,46 +5099,6 @@
       "source_name": "EIA Short-Term Energy Outlook",
       "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
       "checked": "2026-11-12T21:39:03Z"
-    },
-    {
-      "id": "2026-11-12-eia-steo-henry-hub-lng",
-      "time": "2026-11-12T22:10:00Z",
-      "tag": "ENERGY",
-      "headline": "EIA sees Henry Hub gas at $2.88 in 2027, from $3.37 in 2026; LNG exports 19 Bcf/d",
-      "take": "EIA's November Short-Term Energy Outlook shows the Henry Hub natural gas spot price averaging $3.53 per MMBtu in 2025, $3.37 in 2026 and $2.88 in 2027, and forecasts $2.87 for November through March. U.S. LNG gross exports are projected at 15 Bcf/d in 2025, 18 in 2026 and 19 in 2027. AlphaGen read: EIA pairs record export volumes with a lower 2027 average gas price, so its forecast does not show higher export volumes lifting the average gas price.",
-      "source_name": "EIA Short-Term Energy Outlook",
-      "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
-      "checked": "2026-11-12T21:39:03Z"
-    },
-    {
-      "id": "2026-11-12-eia-steo-gasoline-diesel",
-      "time": "2026-11-12T22:22:00Z",
-      "tag": "ENERGY",
-      "headline": "EIA's outlook: retail gasoline $3.89 a gallon in 2026, $3.73 in 2027; 2027 diesel $5.03",
-      "take": "EIA's November Short-Term Energy Outlook shows the U.S. retail gasoline price averaging $3.10 a gallon in 2025, $3.89 in 2026 and $3.73 in 2027, a 16-cent decline from 2026 to 2027. It puts 2027 retail diesel at $5.03 a gallon. AlphaGen read: the diesel forecast sits $1.30 above the 2027 gasoline forecast.",
-      "source_name": "EIA Short-Term Energy Outlook",
-      "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
-      "checked": "2026-11-12T21:39:03Z"
-    },
-    {
-      "id": "2026-11-12-fed-cp-nov9-rates",
-      "time": "2026-11-12T20:58:00Z",
-      "tag": "RATES",
-      "headline": "Fed commercial paper: AA nonfinancial 30-day 4.01%, financial 90-day 4.03% on Nov. 9",
-      "take": "The Federal Reserve's commercial paper release, posted Nov. 10, shows AA nonfinancial 30-day paper at 4.01% and AA financial 90-day paper at 4.03% on Nov. 9. Seasonally adjusted commercial paper outstanding was $1,503.3 billion on Nov. 4, up $4.3 billion from $1,499.0 billion on Oct. 28. AlphaGen read: the weekly total is the Fed's gauge of how much short-term paper corporations have outstanding, and it edged higher.",
-      "source_name": "Federal Reserve Board, Commercial Paper Rates and Outstanding",
-      "source_url": "https://www.federalreserve.gov/releases/cp/",
-      "checked": "2026-11-12T20:39:57Z"
-    },
-    {
-      "id": "2026-11-12-fed-minutes-nov18-beige-nov25",
-      "time": "2026-11-12T21:07:00Z",
-      "tag": "FED",
-      "headline": "Fed calendar: FOMC minutes Nov. 18 at 2 p.m., Beige Book Nov. 25 at 2 p.m.",
-      "take": "The Federal Reserve Board's November calendar lists the minutes of the Oct. 27-28 FOMC meeting for Nov. 18 at 2:00 p.m. ET and the Beige Book for Nov. 25 at 2:00 p.m. ET. Industrial production (G.17) is set for Nov. 17 at 9:15 a.m. and the H.4.1 balance sheet for Nov. 19. AlphaGen read: the minutes are the next primary-source detail on how the Committee described its October decision.",
-      "source_name": "Federal Reserve Board, Calendar: November 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-12T20:39:57Z"
     }
   ]
 }
