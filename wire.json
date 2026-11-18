@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-18T16:43:29Z",
+  "updated": "2026-11-18T17:44:00Z",
   "items": [
+    {
+      "id": "2026-11-18-ecb-fsr-nonbank-vulnerabilities",
+      "time": "2026-11-18T17:49:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB: risks elevated; non-bank vulnerabilities more pronounced, safeguards less developed",
+      "take": "In the Nov. 18 Financial Stability Review release, Vice-President Boris Vujčić said risks to euro area financial stability \"remain elevated, given persistent geoeconomic uncertainty and growing exposure to AI.\" He said banks are \"well placed to withstand shocks, while vulnerabilities are more pronounced in certain non-banks where risks are growing and macroprudential safeguards are less developed.\" AlphaGen read: the ECB is drawing a line between a bank sector it calls resilient and non-bank pockets where it sees thinner safeguards.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "checked": "2026-11-18T17:44:00Z"
+    },
+    {
+      "id": "2026-11-18-bls-oct-cpi-oer-rent-lodging",
+      "time": "2026-11-18T17:57:00Z",
+      "tag": "MACRO",
+      "headline": "October CPI: owners' equivalent rent +0.3%, rent +0.2%, lodging away from home +0.6%",
+      "take": "BLS's October CPI, released Nov. 10, shows shelter rose 0.3 percent, accounting for over thirty percent of the monthly all-items increase. Within it, owners' equivalent rent rose 0.3 percent, rent increased 0.2 percent, and lodging away from home rose 0.6 percent after a 2.0 percent rise in September. AlphaGen read: rent and owners' equivalent rent moved in a narrow range, so the lodging swing was the more volatile part of shelter.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-18T17:44:00Z"
+    },
+    {
+      "id": "2026-11-18-ecb-fsr-energy-shock-resilience",
+      "time": "2026-11-18T18:05:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB: euro area resilient despite energy shock; prolonged supply disruption could test it",
+      "take": "The ECB's Nov. 18 Financial Stability Review release says the euro area economy has continued to demonstrate resilience despite an energy shock, trade frictions and extreme weather events. It adds that prolonged energy supply disruptions and persistent trade policy uncertainty could test that resilience, and that higher energy prices and weaker economic conditions could make it harder for households and firms to repay debts. AlphaGen read: the ECB ties the energy backdrop directly to loan repayment risk, even while saying bank asset quality remains sound.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "checked": "2026-11-18T17:44:00Z"
+    },
+    {
+      "id": "2026-11-18-bls-oct-cpi-snacks-beef-beverages",
+      "time": "2026-11-18T18:13:00Z",
+      "tag": "MACRO",
+      "headline": "October CPI: snacks +1.0%, beef +0.9%; nonalcoholic beverages -0.3% after +0.9%",
+      "take": "BLS's October CPI, released Nov. 10, shows the food index rose 0.5 percent after being unchanged in September, with food at home up 0.4 percent. Other food at home rose 0.7 percent as snacks rose 1.0 percent, and the beef index rose 0.9 percent. Nonalcoholic beverages fell 0.3 percent after rising 0.9 percent in September, and cereals and bakery products were unchanged. AlphaGen read: the grocery increase was concentrated in a few groups rather than broad.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-18T17:44:00Z"
+    },
+    {
+      "id": "2026-11-18-ecb-fsr-bank-nonbank-links",
+      "time": "2026-11-18T18:21:00Z",
+      "tag": "CREDIT",
+      "headline": "ECB: AI financing, sovereign bond exposures leave banks, non-banks open to repricing",
+      "take": "The ECB's Nov. 18 Financial Stability Review release says banks' and non-banks' exposures to AI financing and sovereign bonds leave them exposed to repricing risks, and that closer links between banks and non-banks could spread and amplify shocks across the financial system. It also says the banking sector is well positioned to absorb shocks, with strong profits, solid capital buffers and ample liquidity. AlphaGen read: the ECB's concern is transmission between banks and non-banks, not bank capital.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "checked": "2026-11-18T17:44:00Z"
+    },
+    {
+      "id": "2026-11-18-bls-oct-cpi-recreation-insurance-medical",
+      "time": "2026-11-18T18:29:00Z",
+      "tag": "MACRO",
+      "headline": "October CPI: recreation +0.8%, motor vehicle insurance +0.7%, hospital services +0.8%",
+      "take": "BLS's October CPI, released Nov. 10, shows the recreation index increased 0.8 percent after rising 0.5 percent in September, and the motor vehicle insurance index rose 0.7 percent. The medical care index increased 0.3 percent after 0.1 percent in September, with hospital services up 0.8 percent, physicians' services up 0.4 percent and prescription drugs up 0.3 percent. AlphaGen read: services categories outside shelter contributed several of the larger monthly gains.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-18T17:44:00Z"
+    },
+    {
+      "id": "2026-11-18-ecb-fsr-priorities-savings-investments-union",
+      "time": "2026-11-18T18:37:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB priorities: bank resilience, non-bank liquidity; backs savings and investments union",
+      "take": "The ECB's Nov. 18 Financial Stability Review release says preserving bank resilience remains a key macroprudential priority, alongside addressing vulnerabilities related to liquidity and high levels of borrowing among some non-banks. It adds that accelerating progress on the EU's savings and investments union will be essential to support economic growth and competitiveness while preserving financial stability. AlphaGen read: the ECB pairs near-term supervisory priorities with a structural capital-markets agenda.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "checked": "2026-11-18T17:44:00Z"
+    },
     {
       "id": "2026-11-18-eia-supply-demand-gap-0p3pct-2025",
       "tag": "ENERGY",
@@ -5013,77 +5083,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis (ICSA)",
       "source_url": "https://fred.stlouisfed.org/series/ICSA",
       "checked": "2026-11-12T14:44:12Z"
-    },
-    {
-      "id": "2026-11-12-fred-gasoline-weekly-nov9",
-      "time": "2026-11-12T15:15:00Z",
-      "tag": "ENERGY",
-      "headline": "U.S. regular gasoline averages $3.995 a gallon, down from $4.354 on Oct. 5",
-      "take": "FRED's weekly U.S. regular gasoline series stood at $3.995 per gallon on Nov. 9, down from $4.153 on Nov. 2, $4.284 on Oct. 19 and $4.354 on Oct. 5, a fall of $0.359 over five weeks. The Nov. 9 figure is 30.7% above the $3.056 recorded on Nov. 10, 2025. AlphaGen read: pump prices have eased for four straight weeks but remain well above a year ago.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (GASREGW)",
-      "source_url": "https://fred.stlouisfed.org/series/GASREGW",
-      "checked": "2026-11-12T14:44:12Z"
-    },
-    {
-      "id": "2026-11-12-fred-sofr-in-range-nov10",
-      "time": "2026-11-12T15:40:00Z",
-      "tag": "FED",
-      "headline": "SOFR 3.89% on Nov. 10, inside the 3.75%-4.00% fed funds target range",
-      "take": "FRED shows the secured overnight financing rate at 3.89% on Nov. 10, up from 3.88% on Nov. 9 and down from 3.97% on Nov. 3. The target range for the federal funds rate is 3.75% to 4.00% as of Nov. 12, and the effective federal funds rate was 3.88% on Nov. 9. AlphaGen read: overnight repo funding is trading 14 basis points above the bottom of the range and 11 below the top, in line with the policy rate.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (SOFR)",
-      "source_url": "https://fred.stlouisfed.org/series/SOFR",
-      "checked": "2026-11-12T14:44:12Z"
-    },
-    {
-      "id": "2026-11-12-invh-board-connolly",
-      "time": "2026-11-12T13:49:00Z",
-      "tag": "EQUITIES",
-      "headline": "Invitation Homes adds Cousins Properties CEO Colin Connolly to its board",
-      "take": "Invitation Homes said its board raised its size from 9 to 10 members and appointed M. Colin Connolly, President, CEO and a director of Cousins Properties, as a director effective Nov. 13, 2026, with a term running to the 2027 annual meeting. He joins the Compensation and Management Development and Investment and Finance committees and receives a one-time restricted stock unit award valued at $96,000. The filing states no arrangement under which he was selected, so the move reads as a routine governance addition rather than a strategy change.",
-      "source_name": "SEC EDGAR, Invitation Homes Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0001687229/000119312526456656/d464876d8k.htm",
-      "ticker": "NYSE:INVH",
-      "checked": "2026-11-12T13:44:11Z"
-    },
-    {
-      "id": "2026-11-12-ppi-sep-intermediate-processed",
-      "time": "2026-11-12T12:42:00Z",
-      "tag": "MACRO",
-      "headline": "September PPI: processed goods for intermediate demand +2.5%, 14.1% over 12 months",
-      "take": "BLS says the index for processed goods for intermediate demand rose 2.5% in September, the largest rise since 2.8% in May, with more than 80% of the advance attributable to a 10.2% increase in processed energy goods. Nearly half of the rise traces to a 21.0% increase in diesel fuel, and the 12-month increase of 14.1% is the largest since 14.3% in August 2022. AlphaGen read: input costs further up the supply chain were rising faster than final-demand prices in the latest PPI (released Oct. 15); the October report is due Friday at 8:30 a.m. ET.",
-      "source_name": "BLS, Producer Price Index",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-12T12:52:00Z"
-    },
-    {
-      "id": "2026-11-12-ppi-sep-intermediate-unprocessed",
-      "time": "2026-11-12T12:57:00Z",
-      "tag": "COMMODITIES",
-      "headline": "September PPI: unprocessed intermediate goods +8.4%, crude petroleum +28.3%",
-      "take": "BLS says prices for unprocessed goods for intermediate demand rose 8.4% in September, the largest increase since 9.2% in February 2022, and are up 21.5% for the 12 months ended in September. Over 80% of the September advance is attributable to unprocessed energy materials, which jumped 22.2%, led by a 28.3% rise in crude petroleum. AlphaGen read: this is the earliest stage of the PPI pipeline, and it shows the September price surge was concentrated in crude oil.",
-      "source_name": "BLS, Producer Price Index",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-12T12:52:00Z"
-    },
-    {
-      "id": "2026-11-12-ppi-sep-intermediate-services",
-      "time": "2026-11-12T13:12:00Z",
-      "tag": "MACRO",
-      "headline": "September PPI: services for intermediate demand +0.9%, trade margins +2.0%",
-      "take": "BLS says the index for services for intermediate demand rose 0.9% in September, matching the largest increase since 0.9% in April, with over 40% of the advance traced to a 2.0% jump in trade-services margins. Transportation and warehousing services rose 1.8%, and the index is up 6.3% over the 12 months ended in September, the largest 12-month advance since 6.3% in January 2023. AlphaGen read: business-to-business service prices, not just fuel, were climbing in the latest PPI (released Oct. 15).",
-      "source_name": "BLS, Producer Price Index",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-12T12:52:00Z"
-    },
-    {
-      "id": "2026-11-12-fred-fed-ecb-policy-rates",
-      "time": "2026-11-12T13:27:00Z",
-      "tag": "GLOBAL",
-      "headline": "Fed target range 3.75%-4.00%, ECB deposit rate 2.50%: both raised in September",
-      "take": "FRED shows the ECB deposit facility rate at 2.50% on Nov. 11, up from 2.25% on Sept. 16, while the Federal Reserve's federal funds target range was 3.75% to 4.00% on Nov. 11, moved up from 3.50% to 3.75% on Sept. 17. The Fed's upper bound sits 1.50 percentage points above the ECB rate and its lower bound 1.25 points above. AlphaGen read: the two central banks made their latest moves a day apart, and the Fed's range remains 1.25 to 1.50 points above the ECB rate.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (ECB, Federal Reserve Board)",
-      "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
-      "checked": "2026-11-12T12:52:00Z"
     }
   ]
 }
