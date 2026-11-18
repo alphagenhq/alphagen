@@ -1,6 +1,91 @@
 {
-  "updated": "2026-11-18T17:44:00Z",
+  "updated": "2026-11-18T21:39:48Z",
   "items": [
+    {
+      "id": "2026-11-18-the-close",
+      "time": "2026-11-18T21:39:48Z",
+      "tag": "EARNINGS",
+      "series": "the-close",
+      "title": "The Close: Target, Lowe's and TJX report, with tariff refunds in the numbers",
+      "dek": "Three big retailers reported Wednesday and each cited IEEPA tariff-refund benefits, while Progressive's October results and the latest FRED readings rounded out the official record.",
+      "key_points": [
+        "Target: Q3 comparable sales up 5.6% on 5.0% higher traffic; GAAP and adjusted EPS of $2.65, including $0.50 of tariff-refund benefit.",
+        "Lowe's: Q3 sales of $22.8 billion versus $20.8 billion; comparable sales up 1.8%; diluted EPS of $2.98, including $0.34 from IEEPA tariff refunds.",
+        "TJX: Q3 net sales of $16.0 billion, up 6%; comparable sales up 4%; diluted EPS of $1.39 versus $1.28, or $1.34 adjusted.",
+        "Progressive: October net income of $828 million versus $846 million; policies in force of 40.5 million, up 6%.",
+        "FRED: high-yield spread 3.43 points and investment-grade 0.92 on Nov. 17; initial claims 200,000 for the week of Nov. 7."
+      ],
+      "talking_points": [
+        "Are tariffs hurting retailers' profits? Not in these results. Target, Lowe's and TJX each said third-quarter earnings included a benefit from tariff refunds: $0.50 per share at Target, $0.34 at Lowe's and a $0.05 net benefit at TJX. These one-time refunds flatter the quarter, so when you read a retailer's headline earnings, check whether the company also reports a figure without them.",
+        "Is the consumer still shopping? Target reported comparable sales up 5.6 percent, with traffic up 5.0 percent, and TJX reported comparable sales up 4 percent. Lowe's comparable sales rose 1.8 percent, helped by a 17.4 percent increase in online sales. Retail results vary by company, so one quarter from a few retailers is a reason to keep a diversified plan rather than to change it.",
+        "Are credit markets signaling stress? Not from these readings. FRED shows the ICE BofA high-yield spread at 3.43 percentage points and the investment-grade spread at 0.92 on Nov. 17, up from 3.34 and 0.90 the day before. A small widening is worth watching, but spreads this size do not on their own call for changes to a long-term bond allocation."
+      ],
+      "body": [
+        {
+          "h": "Three retailers, one common thread"
+        },
+        "Target reported third-quarter net sales up 7.1 percent, with comparable sales up 5.6 percent on a 5.0 percent increase in comparable traffic; store comparable sales rose 4.6 percent and digital comparable sales 9.8 percent. GAAP and adjusted EPS were $2.65 compared with $1.51 GAAP and $1.78 adjusted a year earlier, and the company said tariff refunds contributed $0.50. Target also said November net sales to date were in line with its guidance and accelerating from October.",
+        "Lowe's reported total sales of $22.8 billion versus $20.8 billion, comparable sales up 1.8 percent with online sales up 17.4 percent, net earnings of $1.7 billion and diluted EPS of $2.98 versus $2.88. Adjusted diluted EPS was $3.10, up 1.3 percent from the prior-year adjusted figure, and both measures include a $0.34 benefit from about $250 million of pretax IEEPA tariff refunds. The company also updated its full-year outlook.",
+        "TJX reported net sales of $16.0 billion, up 6 percent, with comparable sales up 4 percent and net income of $1.5 billion. Diluted EPS was $1.39 versus $1.28, and $1.34 excluding a $0.05 net tariff-refund benefit, up 5 percent. For the first nine months, net sales were $45.5 billion, up 7 percent, and diluted EPS was $3.94 versus $3.30. TJX said it returned $1.5 billion to shareholders in the quarter.",
+        {
+          "h": "Progressive's October"
+        },
+        "Progressive reported October net income of $828 million versus $846 million a year earlier, with a combined ratio of 91.2 versus 89.7 and net premiums written of $7,079 million, up 1 percent. Total policies in force reached 40,532 thousand, up 6 percent, led by personal-lines auto. Year to date, net premiums written were $74,098 million versus $70,668 million.",
+        {
+          "h": "Corporate financing"
+        },
+        "CSX said it entered a new $1.2 billion five-year senior unsecured revolving credit agreement on Nov. 17, replacing a facility of the same size; neither had outstanding borrowings. Separately, Moderna's Nov. 9 amendment to its Ares credit agreement cut the SOFR-based margin on its term loans from 5.50 percent to 4.75 percent.",
+        {
+          "h": "Credit and labor readings"
+        },
+        "FRED shows the ICE BofA high-yield option-adjusted spread at 3.43 percentage points on Nov. 17, up from 3.34 on Nov. 16, and the investment-grade spread at 0.92, up from 0.90. Initial jobless claims were 200,000 for the week ending Nov. 7, against 191,000 the prior week.",
+        {
+          "h": "Reading the day"
+        },
+        "Wednesday's record was dominated by retail earnings, and the shared tariff-refund benefit is the detail to keep in view: it lifts reported EPS at all three companies, and each one separates it out. Comparable-sales growth ranged from 1.8 percent to 5.6 percent, a reminder that results differ by business."
+      ],
+      "sources": [
+        {
+          "name": "Target Corp., Form 8-K Ex. 99 (Q3 2026 earnings)",
+          "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm"
+        },
+        {
+          "name": "Lowe's Companies, Form 8-K Ex. 99.1 (Q3 2026 results)",
+          "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126-index.htm"
+        },
+        {
+          "name": "TJX Companies, Form 8-K Ex. 99.1 (Q3 FY27 results)",
+          "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm"
+        },
+        {
+          "name": "Progressive Corp., Form 8-K Ex. 99 (October results)",
+          "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000384/0000080661-26-000384-index.htm"
+        },
+        {
+          "name": "CSX Corp., Form 8-K (credit agreement)",
+          "url": "https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm"
+        },
+        {
+          "name": "Moderna, Inc., Form 8-K (credit agreement amendment)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208.txt"
+        },
+        {
+          "name": "FRED, BAMLH0A0HYM2 and BAMLC0A0CM",
+          "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+        },
+        {
+          "name": "FRED, ICSA",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        }
+      ],
+      "tickers": [
+        "NYSE:TGT",
+        "NYSE:LOW",
+        "NYSE:TJX",
+        "NYSE:PGR"
+      ],
+      "checked": "2026-11-18T21:39:48Z"
+    },
     {
       "id": "2026-11-18-october-cpi-mix-services-food-energy",
       "time": "2026-11-18T17:44:00Z",
