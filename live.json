@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T01:02:06Z",
+ "updated": "2026-11-19T23:54:09Z",
  "items": [
+  {
+   "id": "live-0001193125-26-468834-1.01",
+   "time": "2026-11-19T22:26:43Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Intuit discloses a material agreement",
+   "take": "Intuit reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 5:26 PM ET, Nov 19.",
+   "source_name": "SEC EDGAR, INTU Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm",
+   "ticker": "NASDAQ:INTU"
+  },
+  {
+   "id": "live-0000320187-26-000211-5.02",
+   "time": "2026-11-19T21:18:31Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Nike reports an executive or board change",
+   "take": "Nike reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:18 PM ET, Nov 19.",
+   "source_name": "SEC EDGAR, NKE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211-index.htm",
+   "ticker": "NYSE:NKE"
+  },
+  {
+   "id": "live-0001099800-26-000057-1.01",
+   "time": "2026-11-19T21:12:26Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Edwards Lifesciences discloses a material agreement",
+   "take": "Edwards Lifesciences reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:12 PM ET, Nov 19.",
+   "source_name": "SEC EDGAR, EW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1099800/000109980026000057/0001099800-26-000057-index.htm",
+   "ticker": "NYSE:EW"
+  },
   {
    "id": "live-0001327567-26-000030-2.02",
    "time": "2026-11-18T21:37:04Z",
@@ -3267,39 +3300,6 @@
    "source_name": "SEC EDGAR, PM Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026066596/0001628280-26-066596-index.htm",
    "ticker": "NYSE:PM"
-  },
-  {
-   "id": "live-0001628280-26-066594-2.02",
-   "time": "2026-10-21T10:57:57Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Moody's releases financial results",
-   "take": "Moody's filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, MCO Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026066594/0001628280-26-066594-index.htm",
-   "ticker": "NYSE:MCO"
-  },
-  {
-   "id": "live-0000073124-26-000063-2.02",
-   "time": "2026-10-21T10:39:37Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Northern Trust releases financial results",
-   "take": "Northern Trust filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:39 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, NTRS Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/73124/000007312426000063/0000073124-26-000063-index.htm",
-   "ticker": "NASDAQ:NTRS"
-  },
-  {
-   "id": "live-0000732717-26-000370-2.02",
-   "time": "2026-10-21T10:32:08Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "AT&T releases financial results",
-   "take": "AT&T filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:32 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, T Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000370/0000732717-26-000370-index.htm",
-   "ticker": "NYSE:T"
   }
  ]
 }
