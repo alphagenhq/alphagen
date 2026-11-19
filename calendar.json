@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:39:15Z",
+ "updated": "2026-11-19T13:45:53Z",
  "note": "Times are ET. Blank time means the agency schedule lists no time.",
  "items": [
   {
@@ -11,16 +11,6 @@
    "importance": 2,
    "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
    "id": "2026-11-13-producerpriceindexoct"
-  },
-  {
-   "id": "2026-11-17-mtis",
-   "date": "2026-11-17",
-   "time": "",
-   "name": "Manufacturing & Trade Inventories and Sales (Sep)",
-   "agency": "Census",
-   "category": "Growth",
-   "importance": 1,
-   "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
   },
   {
    "date": "2026-11-17",
@@ -63,6 +53,16 @@
    "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
   },
   {
+   "id": "2026-11-17-mtis",
+   "date": "2026-11-17",
+   "time": "",
+   "name": "Manufacturing & Trade Inventories and Sales (Sep)",
+   "agency": "Census",
+   "category": "Growth",
+   "importance": 1,
+   "source_url": "https://www.census.gov/economic-indicators/econcards/assets/pdf/censusreleaseglance_2026.pdf"
+  },
+  {
    "date": "2026-11-18",
    "time": "08:30",
    "name": "Housing Starts & Permits (Oct)",
@@ -83,6 +83,16 @@
    "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
   },
   {
+   "id": "2026-11-19-fedvicechairjeffersondiscussio",
+   "date": "2026-11-19",
+   "time": "09:25",
+   "name": "Fed Vice Chair Jefferson discussion: Economic Shocks (IMF/BCB conference)",
+   "agency": "Federal Reserve",
+   "category": "Fed",
+   "importance": 1,
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+  },
+  {
    "id": "2026-11-19-advanceservicesreportq3",
    "date": "2026-11-19",
    "time": "10:00",
@@ -93,6 +103,26 @@
    "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
   },
   {
+   "id": "2026-11-19-fedgovernorbarrdiscussionartif",
+   "date": "2026-11-19",
+   "time": "14:15",
+   "name": "Fed Governor Barr discussion: Artificial Intelligence (FinRegLab)",
+   "agency": "Federal Reserve",
+   "category": "Fed",
+   "importance": 1,
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+  },
+  {
+   "id": "2026-11-20-fedgovernorwallerwelcomingrema",
+   "date": "2026-11-20",
+   "time": "08:25",
+   "name": "Fed Governor Waller welcoming remarks (College Fed Challenge Finals)",
+   "agency": "Federal Reserve",
+   "category": "Fed",
+   "importance": 1,
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+  },
+  {
    "date": "2026-11-20",
    "time": "10:00",
    "name": "State Employment & Unemployment (Oct)",
@@ -101,6 +131,16 @@
    "importance": 1,
    "source_url": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
    "id": "2026-11-20-stateemploymentunemploymentoct"
+  },
+  {
+   "id": "2026-11-20-fedgovernorcookspeechtheusecon",
+   "date": "2026-11-20",
+   "time": "",
+   "name": "Fed Governor Cook speech: The U.S. Economy in Global Context (Santiago, Chile)",
+   "agency": "Federal Reserve",
+   "category": "Fed",
+   "importance": 1,
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
   },
   {
    "id": "2026-11-24-ip-annual-revision",
@@ -223,14 +263,14 @@
    "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
   },
   {
-   "date": "2026-12-09",
-   "time": "",
-   "name": "FOMC rate decision (with projections)",
-   "agency": "Federal Reserve",
-   "category": "Fed",
-   "importance": 3,
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "id": "2026-12-09-fomcratedecisionwithprojection"
+   "id": "2026-12-08-productivityandcostsrevisedq3",
+   "date": "2026-12-08",
+   "time": "08:30",
+   "name": "Productivity and Costs, revised (Q3)",
+   "agency": "BLS",
+   "category": "Growth",
+   "importance": 1,
+   "source_url": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
   },
   {
    "id": "2026-12-09-boc-decision",
@@ -251,6 +291,16 @@
    "importance": 1,
    "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
    "id": "2026-12-09-monthlywholesaletradesalesinve"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "",
+   "name": "FOMC rate decision (with projections)",
+   "agency": "Federal Reserve",
+   "category": "Fed",
+   "importance": 3,
+   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "id": "2026-12-09-fomcratedecisionwithprojection"
   },
   {
    "id": "2026-12-10-cpi-nov",
@@ -283,6 +333,16 @@
    "id": "2026-12-11-businessformationstatisticsnov"
   },
   {
+   "id": "2026-12-15-producerpriceindexnov",
+   "date": "2026-12-15",
+   "time": "08:30",
+   "name": "Producer Price Index (Nov)",
+   "agency": "BLS",
+   "category": "Inflation",
+   "importance": 2,
+   "source_url": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+  },
+  {
    "id": "2026-12-16-advanceretailsalesnov",
    "date": "2026-12-16",
    "time": "08:30",
@@ -303,6 +363,16 @@
    "source_url": "https://www.federalreserve.gov/RELEASES/g17/"
   },
   {
+   "id": "2026-12-16-employercostsforemployeecompen",
+   "date": "2026-12-16",
+   "time": "10:00",
+   "name": "Employer Costs for Employee Compensation (Sep)",
+   "agency": "BLS",
+   "category": "Labor",
+   "importance": 1,
+   "source_url": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+  },
+  {
    "id": "2026-12-17-housingstartspermitsnov",
    "date": "2026-12-17",
    "time": "08:30",
@@ -311,6 +381,26 @@
    "category": "Housing",
    "importance": 2,
    "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+  },
+  {
+   "id": "2026-12-17-importexportpricesnov",
+   "date": "2026-12-17",
+   "time": "08:30",
+   "name": "Import & Export Prices (Nov)",
+   "agency": "BLS",
+   "category": "Inflation",
+   "importance": 1,
+   "source_url": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+  },
+  {
+   "id": "2026-12-18-stateemploymentunemploymentnov",
+   "date": "2026-12-18",
+   "time": "10:00",
+   "name": "State Employment & Unemployment (Nov)",
+   "agency": "BLS",
+   "category": "Labor",
+   "importance": 1,
+   "source_url": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
   },
   {
    "id": "2026-12-23-durablegoodsordersnov",

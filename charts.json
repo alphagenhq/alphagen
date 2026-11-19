@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-18T12:50:00Z",
+ "updated": "2026-11-19T13:45:53Z",
  "items": [
+  {
+   "id": "2026-11-19-brent-wti",
+   "time": "2026-11-19T13:47:53Z",
+   "title": "Oil: Brent $92.94, WTI $89.53 on Nov. 17",
+   "subtitle": "Crude oil spot prices, dollars per barrel, daily",
+   "series": [
+    {
+     "id": "DCOILBRENTEU",
+     "label": "Brent crude",
+     "t": "lvl"
+    },
+    {
+     "id": "DCOILWTICO",
+     "label": "WTI crude",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "dollars per barrel",
+   "take": "FRED shows Brent at $92.94 per barrel on Nov. 17, up from $90.16 on Nov. 10 and below its $95.42 reading on Nov. 12. WTI was $89.53, leaving Brent $3.41 above it. AlphaGen read: the Brent-WTI gap widened from $0.54 on Nov. 10 to $3.41 on Nov. 17 (AlphaGen calculation).",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "checked": "2026-11-19T13:45:53Z"
+  },
   {
    "id": "2026-11-18-dollar-yen",
    "time": "2026-11-18T12:50:00Z",
