@@ -1,6 +1,57 @@
 {
-  "updated": "2026-11-19T01:38:59Z",
+  "updated": "2026-11-19T02:38:45Z",
   "items": [
+    {
+      "id": "2026-11-19-fred-treasury-yields-nov17-2y-480-10y-510-30y-546",
+      "time": "2026-11-19T02:46:45Z",
+      "tag": "RATES",
+      "headline": "FRED: 2-year 4.80%, 10-year 5.10%, 30-year 5.46% on Nov. 17",
+      "take": "FRED shows the 2-year Treasury yield at 4.80% on Nov. 17, down from 4.83% on Nov. 16; the 10-year at 5.10%, down from 5.12%; and the 30-year at 5.46%, unchanged. Versus Nov. 9, the 2-year is up 0.24 percentage point, the 10-year up 0.22 and the 30-year up 0.20. AlphaGen read: the front end has risen slightly more than the long end over the past week, though all three eased or held on the latest day.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10, DGS30)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-19T02:38:45Z"
+    },
+    {
+      "id": "2026-11-19-fred-10y-real-yield-nov17-289",
+      "time": "2026-11-19T02:54:45Z",
+      "tag": "RATES",
+      "headline": "FRED: 10-year TIPS real yield 2.89% on Nov. 17, down from 2.92%",
+      "take": "FRED shows the 10-year Treasury inflation-indexed (real) yield at 2.89% on Nov. 17, down from 2.92% on Nov. 16 and up from 2.66% on Nov. 9, a rise of 0.23 percentage point. The 10-year nominal yield was 5.10% that day, so the gap between the two is 2.21 points. AlphaGen read: most of the past week's rise in long yields has come through the real component rather than inflation compensation.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, DGS10)",
+      "source_url": "https://fred.stlouisfed.org/series/DFII10",
+      "checked": "2026-11-19T02:38:45Z"
+    },
+    {
+      "id": "2026-11-19-fred-t10y2y-027-t10yie-219-nov18",
+      "time": "2026-11-19T03:02:45Z",
+      "tag": "RATES",
+      "headline": "FRED: 10s-2s spread 0.27 pt, 10-year breakeven 2.19% on Nov. 18",
+      "take": "FRED's 10-year minus 2-year Treasury spread was 0.27 percentage point on Nov. 18, down from 0.30 on Nov. 17. The 10-year breakeven inflation rate was 2.19%, down from 2.21% the prior day and below the 2.20% to 2.24% range of the readings since Nov. 10. AlphaGen read: the curve slope remains within its recent range, while the breakeven has edged to the low end of it.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (T10Y2Y, T10YIE)",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-19T02:38:45Z"
+    },
+    {
+      "id": "2026-11-19-fred-sofr-nov17-392-2y-gap-088",
+      "time": "2026-11-19T03:10:45Z",
+      "tag": "RATES",
+      "headline": "FRED: SOFR 3.92% on Nov. 17; 2-year yield 0.88 pt above it",
+      "take": "FRED shows the Secured Overnight Financing Rate at 3.92% on Nov. 17, down from 3.93% on Nov. 16 and up from 3.88% on Nov. 9. With the 2-year Treasury yield at 4.80% that day, the 2-year sits 0.88 percentage point above SOFR. AlphaGen read: the 2-year yield sits well above the overnight rate, a gap that has persisted through the past week of readings.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (SOFR, DGS2)",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "checked": "2026-11-19T02:38:45Z"
+    },
+    {
+      "id": "2026-11-19-asts-ligado-780052-shares-prospectus",
+      "time": "2026-11-19T03:18:45Z",
+      "tag": "EQUITIES",
+      "ticker": "NASDAQ:ASTS",
+      "headline": "AST SpaceMobile files supplement covering up to 780,052 shares for Ligado",
+      "take": "AST SpaceMobile filed a prospectus supplement on Nov. 18, dated Nov. 17, relating to 780,052 Class A shares it may elect to issue to Ligado Networks and One Dot Six in satisfaction of certain payments under its Collaboration Agreement and Spectrum Usage Rights Agreement. A Nov. 14, 2025 supplement covered 381,990 shares. AlphaGen read: the 2026 share count is about double last year's, and the filing frames the shares as payment the company may choose to make this way.",
+      "source_name": "AST SpaceMobile, Inc., Form 8-K (Item 8.01), filed Nov. 18, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226053080/0001493152-26-053080.txt",
+      "checked": "2026-11-19T02:38:45Z"
+    },
     {
       "id": "2026-11-18-mkl-buyback-up-2p5b-3p1b-available",
       "time": "2026-11-19T01:41:59Z",
@@ -5054,57 +5105,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
       "checked": "2026-11-13T03:39:00Z"
-    },
-    {
-      "id": "2026-11-13-fred-walcl-nov11",
-      "time": "2026-11-13T02:48:58Z",
-      "tag": "FED",
-      "headline": "Fed total assets $6.759T on Nov. 11, up $10.7B on the week from $6.748T",
-      "take": "The Fed's total assets were $6,758,867 million on Nov. 11 versus $6,748,145 million on Nov. 4, a rise of $10.7B. The Oct. 7 reading was $6,747,560 million, so the balance sheet is $11.3B higher than five weeks earlier. AlphaGen read: the weekly series has moved within a narrow band since early October.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/WALCL",
-      "checked": "2026-11-13T02:43:58Z"
-    },
-    {
-      "id": "2026-11-13-fred-rrp-nov12",
-      "time": "2026-11-13T03:03:58Z",
-      "tag": "RATES",
-      "headline": "Overnight reverse repo usage $0.250B on Nov. 12, up from $0.152B on Nov. 10",
-      "take": "FRED shows overnight reverse repurchase agreement usage at $0.250B on Nov. 12 versus $0.152B on Nov. 10, a rise of $0.098B. The Nov. 5 reading was $0.125B. AlphaGen read: usage stays at a few hundred million dollars, a very small figure next to the Fed's $6.759T balance sheet.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
-      "checked": "2026-11-13T02:43:58Z"
-    },
-    {
-      "id": "2026-11-13-psa-board-change-8k",
-      "time": "2026-11-13T03:18:58Z",
-      "tag": "EQUITIES",
-      "headline": "Public Storage files 8-K reporting an executive or board change",
-      "take": "Public Storage filed a Form 8-K under Item 5.02, which covers departures and appointments of directors and certain officers, at 6:03 AM ET on Nov. 12. The filing index is on SEC EDGAR; the names and terms are in the filing itself. AlphaGen read: Item 5.02 filings can cover appointments as well as departures, so the filing text is needed to tell which this is.",
-      "source_name": "SEC EDGAR, PSA Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526456624/0001193125-26-456624-index.htm",
-      "ticker": "NYSE:PSA",
-      "checked": "2026-11-13T02:43:58Z"
-    },
-    {
-      "id": "2026-11-13-fred-breakeven-nov12-224",
-      "time": "2026-11-13T02:24:29Z",
-      "tag": "MACRO",
-      "headline": "10-year breakeven inflation rate 2.24% on Nov. 12, up 4 bp from 2.20% on Nov. 10",
-      "take": "The 10-year breakeven inflation rate, the gap between nominal and inflation-indexed 10-year Treasury yields, was 2.24% on Nov. 12 versus 2.20% on Nov. 10. On Nov. 4 it was 2.26%. FRED's 10-year minus 2-year Treasury spread was 0.24 point on Nov. 12. AlphaGen read: breakevens stayed within a 2.20%-2.26% band across the Nov. 4-12 observations.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-      "checked": "2026-11-13T01:38:29Z"
-    },
-    {
-      "id": "2026-11-13-fred-real-yield-nov10-278",
-      "time": "2026-11-13T02:13:29Z",
-      "tag": "RATES",
-      "headline": "10-year real yield jumped to 2.78% on Nov. 10 from 2.66%, while the breakeven slipped to 2.20%",
-      "take": "The 10-year Treasury inflation-indexed yield was 2.78% on Nov. 10, up 12 bp from 2.66% on Nov. 9, while the 10-year breakeven inflation rate eased to 2.20% from 2.22%. The nominal 10-year yield was 4.98%, which equals 2.78% plus 2.20%. AlphaGen read: the Nov. 10 rise in the 10-year came from the real component, not from higher inflation compensation.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-13T01:38:29Z"
     }
   ]
 }
