@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-19T21:39:54Z",
+  "updated": "2026-11-19T22:39:03Z",
   "items": [
+    {
+      "id": "2026-11-19-fred-sloos-ci-large-firms-net-tighten-1p7-oct",
+      "time": "2026-11-19T22:54:03Z",
+      "tag": "CREDIT",
+      "headline": "Banks' net tightening of C&I loan standards 1.7% in Oct survey, from 0.0% in July",
+      "take": "FRED's series for the Fed's Senior Loan Officer Opinion Survey shows a net 1.7% of domestic banks tightening standards on commercial and industrial loans to large and middle-market firms in the October 2026 reading, up from 0.0% in July and 8.1% in April. A year earlier, in October 2025, the figure was 6.5%. AlphaGen read: the net share is small and positive, so on this measure credit standards for large firms are close to unchanged rather than tightening broadly.",
+      "source_name": "Federal Reserve Board Senior Loan Officer Opinion Survey, via FRED (DRTSCILM)",
+      "source_url": "https://fred.stlouisfed.org/series/DRTSCILM",
+      "checked": "2026-11-19T22:39:03Z"
+    },
+    {
+      "id": "2026-11-19-fred-ecb-deposit-rate-250-vs-effr-388",
+      "time": "2026-11-19T23:04:03Z",
+      "tag": "GLOBAL",
+      "headline": "ECB deposit rate 2.50% on Nov. 19 vs. U.S. effective fed funds 3.88% on Nov. 18",
+      "take": "The European Central Bank's deposit facility rate stood at 2.50% on Nov. 19, according to FRED, while the U.S. effective federal funds rate was 3.88% on Nov. 18, the latest reading in the FRED series. That is a gap of 1.38 percentage points. AlphaGen read: the two central banks' policy rates remain well apart, and the dates differ by a day because the series update on different schedules.",
+      "source_name": "European Central Bank, via FRED (ECBDFR); Federal Reserve Board, via FRED (DFF)",
+      "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
+      "checked": "2026-11-19T22:39:03Z"
+    },
+    {
+      "id": "2026-11-19-fred-copper-sep-14473-up-45pct-yoy",
+      "time": "2026-11-19T23:14:03Z",
+      "tag": "COMMODITIES",
+      "headline": "Global copper price $14,473 a tonne in September, up 44.8% from a year earlier",
+      "take": "FRED's monthly global copper price series, sourced from the IMF, was $14,473.06 per metric ton in September 2026, up 1.0% from $14,331.26 in August and 44.8% above $9,994.79 in September 2025. Aluminum in the same data set was $3,283.05 per metric ton, up 1.0% on the month and 23.7% on the year. AlphaGen read: industrial metals prices have risen sharply over the past year, which is a cost input for manufacturers and construction.",
+      "source_name": "International Monetary Fund global commodity prices, via FRED (PCOPPUSDM, PALUMUSDM)",
+      "source_url": "https://fred.stlouisfed.org/series/PCOPPUSDM",
+      "checked": "2026-11-19T22:39:03Z"
+    },
+    {
+      "id": "2026-11-19-fred-wheat-sep-246p85-maize-236p92",
+      "time": "2026-11-19T23:24:03Z",
+      "tag": "COMMODITIES",
+      "headline": "Global wheat price $246.85 a tonne in September, up 59.1% on the year; maize $236.92",
+      "take": "FRED's monthly IMF-sourced series show the global wheat price at $246.85 per metric ton in September 2026, up 3.8% from August and 59.1% above $155.12 in September 2025. The global maize price was $236.92 per metric ton, up 7.1% on the month and 20.8% on the year. AlphaGen read: both grain prices were higher in September than in July and August in these series, which can feed into food costs with a lag.",
+      "source_name": "International Monetary Fund global commodity prices, via FRED (PWHEAMTUSDM, PMAIZMTUSDM)",
+      "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM",
+      "checked": "2026-11-19T22:39:03Z"
+    },
+    {
+      "id": "2026-11-19-fred-new-home-months-supply-sep-8p4",
+      "time": "2026-11-19T23:34:03Z",
+      "tag": "HOUSING",
+      "headline": "New-home supply 8.4 months at the Sept. sales pace, from 8.5 in August",
+      "take": "FRED's Census series for monthly supply of new houses was 8.4 months in September 2026, down from 8.5 in August and 8.9 in July, and above 8.2 months in September 2025. AlphaGen read: supply stays above eight months at the current sales pace, and the slight decline in August and September is a small move.",
+      "source_name": "U.S. Census Bureau and HUD, via FRED (MSACSR)",
+      "source_url": "https://fred.stlouisfed.org/series/MSACSR",
+      "checked": "2026-11-19T22:39:03Z"
+    },
     {
       "id": "2026-11-19-jefferson-contained-prices-downside-employment",
       "time": "2026-11-19T21:42:54Z",
@@ -5052,57 +5102,6 @@
       "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "checked": "2026-11-13T23:39:56Z"
-    },
-    {
-      "id": "2026-11-13-eia-sw-hydro-interior-cut",
-      "time": "2026-11-14T00:01:56Z",
-      "tag": "ENERGY",
-      "headline": "EIA: Interior to cut CA, AZ, NV water use 1.25M acre-feet a year as hydropower falls",
-      "take": "EIA says the Department of the Interior decided to reduce the collective water consumption of California, Arizona and Nevada by 1.25 million acre-feet each year over the next two years, and that releases from Lake Powell were reduced to maintain an elevation of at least 3,510 feet. EIA expects Southwest hydropower to be about 4% of the region's 2026 generation mix, down from a peak of 8% in 2011. AlphaGen read: the drought is now shaping water allocation as well as power output.",
-      "source_name": "U.S. Energy Information Administration, Today in Energy",
-      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
-      "checked": "2026-11-13T23:39:56Z"
-    },
-    {
-      "id": "2026-11-13-eia-alaska-q3-pikka",
-      "time": "2026-11-14T00:11:56Z",
-      "tag": "COMMODITIES",
-      "headline": "EIA: Alaska Q3 crude output grew 4%, first third-quarter rise in 40+ years",
-      "take": "EIA's STEO production data indicate third-quarter 2026 Alaskan crude production grew 4% as Pikka Phase 1 came online, the first third-quarter increase in more than 40 years; the prior five years (2021-2025) averaged third-quarter output 7% below first-quarter levels. EIA expects Pikka to reach peak production of 80,000 b/d by winter 2026-27, nearly 20% of total Alaskan production in 2025. AlphaGen read: the usual late-summer maintenance dip was more than offset this year.",
-      "source_name": "U.S. Energy Information Administration, Today in Energy",
-      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
-      "checked": "2026-11-13T23:39:56Z"
-    },
-    {
-      "id": "2026-11-13-amt-8k-item-101",
-      "time": "2026-11-14T00:21:56Z",
-      "tag": "DEALS",
-      "headline": "American Tower files 8-K under Item 1.01, a material definitive agreement",
-      "take": "American Tower filed a Form 8-K with the SEC at 4:05 p.m. ET on Nov. 13 under Item 1.01, the item for entry into a material definitive agreement. The SEC alert does not state the counterparty or terms. AlphaGen read: the agreement's details sit in the filing itself, so nothing about its size or purpose should be inferred from the alert.",
-      "source_name": "SEC EDGAR, AMT Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312526460610/0001193125-26-460610-index.htm",
-      "ticker": "NYSE:AMT",
-      "checked": "2026-11-13T23:39:56Z"
-    },
-    {
-      "id": "2026-11-13-jefferson-ucsd-productivity-tonight",
-      "time": "2026-11-13T22:43:50Z",
-      "tag": "FED",
-      "headline": "Jefferson to speak tonight on productivity puzzles at UC San Diego roundtable",
-      "take": "The Fed's November calendar lists Vice Chair Philip N. Jefferson speaking Nov. 13 at 7:00 p.m. ET at the University of California San Diego Economics Roundtable in La Jolla, Calif. His listed topic is 'New Technology, Old Questions: Assessing Productivity Puzzles and Their Implications for Macroeconomic Activity.' AlphaGen read: the topic matches this week's Fed commentary on technology and productivity, including Barr's Nov. 12 remarks on artificial intelligence; the calendar links no speech text yet.",
-      "source_name": "Federal Reserve Board, Calendar: November 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-13T22:38:50Z"
-    },
-    {
-      "id": "2026-11-13-warsh-productivity-jobs-conference-nov16",
-      "time": "2026-11-13T22:54:50Z",
-      "tag": "FED",
-      "headline": "Warsh to give opening remarks Nov. 16 at Fed productivity and jobs conference",
-      "take": "The Fed's November calendar lists Chairman Kevin Warsh giving opening remarks Monday, Nov. 16 at 12:00 p.m. ET at the Federal Reserve's Productivity and Jobs Task Force Conference, at the Federal Reserve Bank of San Francisco. The calendar shows a live-watch link for the event. AlphaGen read: the topic fits a week of Fed commentary on technology, productivity and labor-market structure.",
-      "source_name": "Federal Reserve Board, Calendar: November 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-13T22:38:50Z"
     }
   ]
 }
