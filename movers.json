@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-19T14:39:34Z",
+  "updated": "2026-11-19T17:40:05Z",
   "items": [
     {
       "id": "2026-11-19-NVDA",
-      "time": "2026-11-19T14:39:34Z",
+      "time": "2026-11-19T17:40:05Z",
       "ticker": "NVDA",
       "name": "NVIDIA",
       "headline": "Reports Q3 FY2027 results and guides Q4 revenue to $130.0 billion",
@@ -11,11 +11,11 @@
       "thesis": "Revenue was $115.8 billion versus $57.0 billion a year earlier, with Data Center revenue of $107.6 billion. GAAP diluted EPS was $2.70, and Q4 revenue is guided to $130.0 billion, plus or minus 3%.",
       "source_name": "NVIDIA Q3 FY2027 results (SEC Form 8-K)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
-      "checked": "2026-11-19T14:39:34Z"
+      "checked": "2026-11-19T17:40:05Z"
     },
     {
       "id": "2026-11-19-PANW",
-      "time": "2026-11-19T14:39:34Z",
+      "time": "2026-11-19T17:41:05Z",
       "ticker": "PANW",
       "name": "Palo Alto Networks",
       "headline": "Reports fiscal Q1 2027 and says it intends to acquire Applied Compute",
@@ -23,11 +23,11 @@
       "thesis": "Total revenue was $3.44 billion, Next-Generation Security ARR was $9.73 billion, and GAAP diluted EPS was $0.57. Fiscal 2027 revenue guidance is $14.52 billion to $14.57 billion.",
       "source_name": "Palo Alto Networks Q1 FY2027 earnings release (SEC Exhibit 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
-      "checked": "2026-11-19T14:39:34Z"
+      "checked": "2026-11-19T17:40:05Z"
     },
     {
       "id": "2026-11-19-TJX",
-      "time": "2026-11-19T14:39:34Z",
+      "time": "2026-11-19T17:42:05Z",
       "ticker": "TJX",
       "name": "TJX Companies",
       "headline": "Reports third-quarter FY2027 results with comparable sales up 4%",
@@ -35,11 +35,11 @@
       "thesis": "Net sales were $15,952 million and diluted EPS was $1.39; excluding a $0.05 net benefit from tariff refunds, adjusted diluted EPS was $1.34. Comparable sales rose 4%.",
       "source_name": "TJX Q3 FY2027 results (SEC Form 8-K)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058.txt",
-      "checked": "2026-11-19T14:39:34Z"
+      "checked": "2026-11-19T17:40:05Z"
     },
     {
       "id": "2026-11-19-LOW",
-      "time": "2026-11-19T14:39:34Z",
+      "time": "2026-11-19T17:43:05Z",
       "ticker": "LOW",
       "name": "Lowe's",
       "headline": "Reports third-quarter results including a tariff-refund benefit",
@@ -47,11 +47,11 @@
       "thesis": "Total sales were $22.8 billion with comparable sales up 1.8%. Adjusted diluted EPS was $3.10, and both reported and adjusted EPS include a $0.34 positive impact from IEEPA tariff refunds.",
       "source_name": "Lowe's Q3 2026 results (SEC Form 8-K)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126.txt",
-      "checked": "2026-11-19T14:39:34Z"
+      "checked": "2026-11-19T17:40:05Z"
     },
     {
       "id": "2026-11-19-TGT",
-      "time": "2026-11-19T14:39:34Z",
+      "time": "2026-11-19T17:44:05Z",
       "ticker": "TGT",
       "name": "Target",
       "headline": "Updates full-year EPS guidance range to $10.65-$11.40",
@@ -59,11 +59,11 @@
       "thesis": "Net sales were $27,067 million and GAAP diluted EPS was $2.65, including $0.50 from tariff refunds. The updated GAAP and adjusted EPS guidance range of $10.65 to $11.40 includes about $2.14 of tariff refund benefits recognized to date.",
       "source_name": "Target Q3 2026 earnings release (SEC Exhibit 99)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
-      "checked": "2026-11-19T14:39:34Z"
+      "checked": "2026-11-19T17:40:05Z"
     },
     {
       "id": "2026-11-19-HPE",
-      "time": "2026-11-19T14:39:34Z",
+      "time": "2026-11-19T17:45:05Z",
       "ticker": "HPE",
       "name": "Hewlett Packard Enterprise",
       "headline": "Amends Elliott cooperation agreement on board-size limits",
@@ -71,19 +71,7 @@
       "thesis": "HPE and Elliott entities signed a second amendment, effective November 18, 2026, to their July 16, 2025 Cooperation Agreement, first amended May 29, 2026. Until the 2026 Annual Meeting closes, board size may not exceed 13 directors (14 if the Investor Director is appointed before then).",
       "source_name": "HPE-Elliott second amendment (SEC Exhibit 99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000092/ex991hpe-elliottsecondamen.htm",
-      "checked": "2026-11-19T14:39:34Z"
-    },
-    {
-      "id": "2026-11-19-JPM",
-      "time": "2026-11-19T14:39:34Z",
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "headline": "Names Bregje de Best to succeed Jeremy Barnum as CFO",
-      "catalyst": "CFO succession announcement (Nov. 17, SEC Form 8-K, Item 5.02).",
-      "thesis": "JPMorgan said Bregje de Best, currently CFO of its Commercial & Investment Bank, will succeed Jeremy Barnum as Chief Financial Officer following its first-quarter 2027 financial reporting. Barnum will become a Vice Chairman at that time.",
-      "source_name": "JPMorgan Chase Form 8-K and press release, Nov. 17, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000407/0000019617-26-000407.txt",
-      "checked": "2026-11-19T14:39:34Z"
+      "checked": "2026-11-19T17:40:05Z"
     }
   ]
 }
