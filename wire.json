@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-19T11:39:17Z",
+ "updated": "2026-11-19T12:39:06Z",
  "items": [
+  {
+   "id": "2026-11-19-fred-yields-nov9-nov17-2y-10y-30y",
+   "time": "2026-11-19T12:41:06Z",
+   "tag": "RATES",
+   "headline": "FRED: 2-year up 24 bp, 10-year up 22 bp since Nov. 9",
+   "take": "FRED shows the 2-year Treasury yield at 4.80% on Nov. 17 versus 4.56% on Nov. 9, a rise of 24 basis points. The 10-year went from 4.88% to 5.10% (22 bp) and the 30-year from 5.26% to 5.46% (20 bp; AlphaGen calculations). AlphaGen read: the front end rose slightly more than the long end over the span, so the move was a broad shift up rather than a steepening.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10, DGS30)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-19T12:39:06Z"
+  },
+  {
+   "id": "2026-11-19-waller-stablecoins-card-networks-tch",
+   "time": "2026-11-19T12:52:06Z",
+   "tag": "FED",
+   "headline": "Waller: stablecoins already settle obligations among card-network participants",
+   "take": "Governor Waller said in his Nov. 17 speech that stablecoins are starting to be used behind the scenes to settle obligations among participants in card networks. He added that The Clearing House is one of several groups building a network for clearing and settling tokenized deposits. AlphaGen read: the speech frames tokenization as an extension of existing payment plumbing, not only of crypto-asset trading.",
+   "source_name": "Federal Reserve Board (Waller speech, Nov. 17, 2026)",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+   "checked": "2026-11-19T12:39:06Z"
+  },
+  {
+   "id": "2026-11-19-fred-30y-10y-gap-nov17-036",
+   "time": "2026-11-19T13:03:06Z",
+   "tag": "RATES",
+   "headline": "FRED: 30-year yield 0.36 pt above 10-year on Nov. 17, versus 0.38 on Nov. 9",
+   "take": "FRED shows the 30-year Treasury yield at 5.46% and the 10-year at 5.10% on Nov. 17, a gap of 0.36 percentage point. On Nov. 9 the yields were 5.26% and 4.88%, a gap of 0.38 (AlphaGen calculations). AlphaGen read: the long end has kept its small premium over the 10-year as both rose.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS10, DGS30)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS30",
+   "checked": "2026-11-19T12:39:06Z"
+  },
+  {
+   "id": "2026-11-19-waller-tokenized-legal-identity-resolution",
+   "time": "2026-11-19T13:14:06Z",
+   "tag": "FED",
+   "headline": "Waller: tokenized assets must keep legal identity, ownership rights across networks",
+   "take": "Governor Waller said assets that move across networks must maintain legal identity, ownership rights, economic terms, compliance obligations, corporate-action treatment, and access to liquidity. He said clear legal treatment of tokenized claims, settlement records, custody, insolvency, and resolution will be critical to mainstream institutional adoption. AlphaGen read: the Fed governor put legal and governance clarity ahead of technology as the hurdle for scale.",
+   "source_name": "Federal Reserve Board (Waller speech, Nov. 17, 2026)",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+   "checked": "2026-11-19T12:39:06Z"
+  },
+  {
+   "id": "2026-11-19-fred-rrp-nov18-331m",
+   "time": "2026-11-19T13:25:06Z",
+   "tag": "RATES",
+   "headline": "FRED: Fed reverse repo usage $0.331B on Nov. 18, from $0.351B a day earlier",
+   "take": "FRED shows overnight reverse repurchase agreement usage at $0.331 billion on Nov. 18, versus $0.351 billion on Nov. 17 and $0.182 billion on Nov. 16. On Nov. 10 it was $0.152 billion. AlphaGen read: usage remains a tiny fraction of the Fed's $6.76 trillion balance sheet (WALCL, Nov. 11), so the facility is not a meaningful liquidity sink.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (RRPONTSYD)",
+   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+   "checked": "2026-11-19T12:39:06Z"
+  },
   {
    "id": "2026-11-19-barr-syracuse-loan-fund-30m-120m",
    "time": "2026-11-19T12:26:17Z",
@@ -5054,57 +5104,6 @@
    "source_name": "Federal Reserve Board",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
    "checked": "2026-11-13T13:45:02Z"
-  },
-  {
-   "id": "2026-11-13-mco-eur-notes-2033",
-   "time": "2026-11-13T12:48:13Z",
-   "tag": "CREDIT",
-   "headline": "Moody's closes €500M 4.125% notes due 2033; proceeds may repay 2027 notes",
-   "take": "In an 8-K, Moody's said it closed its public offering of €500,000,000 of 4.125% Senior Notes due 2033 on Nov. 12; the notes mature Nov. 12, 2033, with annual interest starting Nov. 12, 2027. Net proceeds are expected to be used for general corporate purposes, which may include repaying its 1.75% Senior Notes due 2027. AlphaGen read: the filing lists the 2027 notes as one possible use of proceeds, not a commitment.",
-   "source_name": "SEC EDGAR, Moody's Corp Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1059556/000162828026073528/0001628280-26-073528.txt",
-   "ticker": "NYSE:MCO",
-   "checked": "2026-11-13T12:40:13Z"
-  },
-  {
-   "id": "2026-11-13-boe-mas-bot-meridian",
-   "time": "2026-11-13T12:57:13Z",
-   "tag": "GLOBAL",
-   "headline": "BoE, MAS and Bank of Thailand publish Project Meridian FX APAC findings",
-   "take": "The three central banks said today their trial showed synchronised settlement can be achieved across central bank systems with different technologies, testing payment-versus-payment FX settlement and multilateral net FX across real-time gross settlement and distributed-ledger systems. The Bank of England said it plans to launch a live synchronisation interface in 2028. AlphaGen read: this is a test-environment result, and the release frames it as insight for developing a live service.",
-   "source_name": "Bank of England, joint media release (13 Nov 2026)",
-   "source_url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-   "checked": "2026-11-13T12:40:13Z"
-  },
-  {
-   "id": "2026-11-13-ecb-schnabel-made-in-europe",
-   "time": "2026-11-13T13:06:13Z",
-   "tag": "GLOBAL",
-   "headline": "ECB's Schnabel: Europe lacks scale, not talent; backs a '28th regime'",
-   "take": "In a Nov. 13 speech at the Bank of Lithuania's economics conference in Vilnius, ECB Executive Board member Isabel Schnabel said a 28th regime would give firms access to the entire European market and the scale to turn innovation into growth. She said that if Europeans worked as many hours as Americans, holding productivity per hour and the employment rate constant, euro area real GDP per capita would be 21% higher. AlphaGen read: the speech is about Europe's growth model and does not discuss interest rates.",
-   "source_name": "European Central Bank, speech by Isabel Schnabel",
-   "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "checked": "2026-11-13T12:40:13Z"
-  },
-  {
-   "id": "2026-11-13-bls-real-earnings-oct-flat",
-   "time": "2026-11-13T13:15:13Z",
-   "tag": "MACRO",
-   "headline": "October real hourly earnings unchanged: pay +0.4%, CPI-U +0.4%",
-   "take": "BLS says real average hourly earnings for all employees were unchanged from September to October, seasonally adjusted, as a 0.4% rise in average hourly earnings matched a 0.4% rise in the CPI-U; real average weekly earnings were also unchanged. BLS adds that over-the-year comparisons are unavailable because October 2025 CPI data could not be collected during the late-2025 funding lapse. AlphaGen read: in October, wage growth only kept pace with prices.",
-   "source_name": "BLS, Real Earnings Summary, October 2026",
-   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-   "checked": "2026-11-13T12:40:13Z"
-  },
-  {
-   "id": "2026-11-13-eia-venezuela-crude-imports-july",
-   "time": "2026-11-13T13:24:13Z",
-   "tag": "COMMODITIES",
-   "headline": "EIA: U.S. imports of Venezuelan crude hit 701,000 b/d in July, most since 2017",
-   "take": "EIA's Nov. 6 Today in Energy note says U.S. crude imports from Venezuela averaged 701,000 barrels per day in July 2026, the most since May 2017, before easing to 655,000 b/d in August; they started the year at 200,000 b/d. EIA attributes the rise to strong refinery demand amid high global refinery margins and eased U.S. restrictions on purchases from the country. AlphaGen read: Gulf Coast refiners configured for heavy sour crude are the main buyers EIA points to.",
-   "source_name": "EIA, Today in Energy (11/6/2026)",
-   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
-   "checked": "2026-11-13T12:40:13Z"
   }
  ]
 }
