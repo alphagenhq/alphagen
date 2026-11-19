@@ -1,6 +1,82 @@
 {
-  "updated": "2026-11-18T23:38:54Z",
+  "updated": "2026-11-19T00:39:15Z",
   "items": [
+    {
+      "id": "2026-11-18-panw-q1fy27-revenue-3p44b-arr-9p73b",
+      "time": "2026-11-19T00:41:15Z",
+      "tag": "EARNINGS",
+      "headline": "Palo Alto Networks Q1 revenue $3.44B, up 39%; NGS ARR $9.73B, up 66%",
+      "take": "Palo Alto Networks reported fiscal Q1 2027 total revenue of $3.44 billion, up 39% year over year, and Next-Generation Security ARR of $9.73 billion, up 66%. Remaining performance obligations were $21.0 billion, up 35%. AlphaGen read: the company itself called this a seasonally slower quarter and still reported acceleration across each of its segments.",
+      "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+      "ticker": "NASDAQ:PANW",
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-barr-appropriate-raise-rates-further",
+      "time": "2026-11-19T00:48:15Z",
+      "tag": "FED",
+      "headline": "Fed's Barr: expects it will be appropriate to raise rates further",
+      "take": "In remarks on Nov. 18, Governor Barr said the economy is strong, with low unemployment, solid consumer spending and robust business investment, but that inflation is too high. He said that if the economy evolves as he currently forecasts, he expects it will be appropriate to raise rates further, while continuing to monitor incoming data and the balance of risks. AlphaGen read: this is a single governor's conditional view, delivered in a speech on community investment, not a committee decision.",
+      "source_name": "Federal Reserve Board, Barr speech (Nov. 18, 2026)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-panw-gaap-eps-0p57-fy27-guide-14p52-14p57b",
+      "time": "2026-11-19T00:55:15Z",
+      "tag": "EARNINGS",
+      "headline": "Palo Alto: GAAP EPS $0.57 vs $0.47; FY27 revenue guide $14.52B-$14.57B",
+      "take": "Palo Alto Networks reported fiscal Q1 GAAP net income of $482 million, or $0.57 per diluted share, versus $0.47 a year earlier; non-GAAP EPS was $1.05 versus $0.93. GAAP operating income fell to $96 million from $309 million. For fiscal 2027 it guides revenue of $14.52 billion to $14.57 billion and non-GAAP EPS of $4.26 to $4.30, and said it is raising full-year guidance. AlphaGen read: GAAP operating income fell even as revenue grew, so the gap to non-GAAP results matters.",
+      "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+      "ticker": "NASDAQ:PANW",
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-panw-intent-acquire-applied-compute",
+      "time": "2026-11-19T01:02:15Z",
+      "tag": "DEALS",
+      "headline": "Palo Alto Networks announces intent to acquire Applied Compute",
+      "take": "Palo Alto Networks said in its Nov. 18 earnings release that it intends to acquire Applied Compute, which it describes as a platform for post-training and inference of open-weight AI models. The release says the deal would let it deliver secure open weight models to customers. AlphaGen read: the release excerpt gives no price or closing timetable, so terms remain undisclosed there.",
+      "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+      "ticker": "NASDAQ:PANW",
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-spgi-2b-senior-notes-three-tranches",
+      "time": "2026-11-19T01:09:15Z",
+      "tag": "CREDIT",
+      "headline": "S&P Global completes $2.0B senior notes offering in three tranches",
+      "take": "S&P Global completed an offering on Nov. 18 of $750 million of 5.600% senior notes due 2031, $600 million of 5.800% notes due 2034 and $650 million of 6.000% notes due 2036, totaling $2.0 billion. It intends to use net proceeds for general corporate purposes, which may include acquisitions, debt repayment or refinancing, capex, working capital or share repurchases. AlphaGen read: the coupons span 5.600% to 6.000% across five-to-ten-year maturities.",
+      "source_name": "S&P Global Inc. (Form 8-K, Item 1.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710.txt",
+      "ticker": "NYSE:SPGI",
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-lpla-750m-5p850-notes-2029",
+      "time": "2026-11-19T01:16:15Z",
+      "tag": "CREDIT",
+      "headline": "LPL Holdings sells $750M of 5.850% senior notes due 2029",
+      "take": "LPL Holdings, a wholly owned subsidiary of LPL Financial, completed the sale of $750 million of 5.850% senior notes due 2029 on Nov. 18; the notes mature Nov. 16, 2029, with interest payable semi-annually from May 16, 2027. Proceeds are intended to repay revolving credit facility borrowings and for general corporate purposes. AlphaGen read: the notes are guaranteed by LPL Financial Holdings on a senior unsecured basis.",
+      "source_name": "LPL Financial Holdings Inc. (Form 8-K, Item 1.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1397911/000119312526467125/0001193125-26-467125.txt",
+      "ticker": "NASDAQ:LPLA",
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-mrk-glocer-retire-baker-lead-director",
+      "time": "2026-11-19T01:23:15Z",
+      "tag": "EQUITIES",
+      "headline": "Merck: Glocer to retire from board in May 2027; Baker named lead director",
+      "take": "Merck said Thomas Glocer intends to retire from its board at the May 2027 annual meeting. Independent directors appointed Douglas Baker, Jr., a director since 2022, as independent lead director effective Jan. 1, 2027, succeeding Glocer in that role. AlphaGen read: the change is a board governance transition with defined effective dates.",
+      "source_name": "Merck & Co., Inc. (Form 8-K, Item 5.02)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/ex991.htm",
+      "ticker": "NYSE:MRK",
+      "checked": "2026-11-19T00:39:15Z"
+    },
     {
       "id": "2026-11-18-bea-sept-income-private-wages-medicare-drivers",
       "time": "2026-11-19T00:27:47Z",
@@ -2025,7 +2101,7 @@
       "time": "2026-11-16T21:40:50Z",
       "tag": "FED",
       "headline": "Barr: Fed's FSR puts hyperscaler off-balance-sheet obligations above $3 trillion",
-      "take": "In his Nov. 16 Milan speech, Fed Governor Michael Barr said the Financial Stability Report estimates the potential maximum nominal value of hyperscalers' long-term contracts, lease commitments and residual value guarantees now exceeds $3 trillion. He said these have grown even more rapidly than on-balance-sheet debt and that the opacity of such structures can exacerbate selloffs, so they warrant close monitoring. AlphaGen read: the Fed is flagging contingent AI-related commitments, not just reported debt, as the place risk could hide.",
+      "take": "In his Nov. 16 Milan speech, Fed Governor Barr said the Financial Stability Report estimates the potential maximum nominal value of hyperscalers' long-term contracts, lease commitments and residual value guarantees now exceeds $3 trillion. He said these have grown even more rapidly than on-balance-sheet debt and that the opacity of such structures can exacerbate selloffs, so they warrant close monitoring. AlphaGen read: the Fed is flagging contingent AI-related commitments, not just reported debt, as the place risk could hide.",
       "source_name": "Federal Reserve Board",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
       "checked": "2026-11-16T21:38:50Z"
@@ -2355,7 +2431,7 @@
       "time": "2026-11-16T13:42:59Z",
       "tag": "FED",
       "headline": "Barr: AI firms' on-balance-sheet debt expected to exceed $800 billion by year-end",
-      "take": "Fed Governor Michael Barr said in Milan on Nov. 16 that on-balance-sheet debt of the seven largest AI firms has been growing significantly in 2026 and is expected to exceed $800 billion before year's end. He cited the Fed's latest Financial Stability Report, which estimates the potential maximum nominal value of off-balance-sheet liabilities now exceeds $3 trillion. AlphaGen read: the \"potential maximum\" wording means the $3 trillion is an upper bound on obligations, not a loss estimate.",
+      "take": "Fed Governor Barr said in Milan on Nov. 16 that on-balance-sheet debt of the seven largest AI firms has been growing significantly in 2026 and is expected to exceed $800 billion before year's end. He cited the Fed's latest Financial Stability Report, which estimates the potential maximum nominal value of off-balance-sheet liabilities now exceeds $3 trillion. AlphaGen read: the \"potential maximum\" wording means the $3 trillion is an upper bound on obligations, not a loss estimate.",
       "source_name": "Federal Reserve Board, Governor Barr speech",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
       "checked": "2026-11-16T13:40:59Z"
@@ -5027,78 +5103,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
       "checked": "2026-11-13T00:38:35Z"
-    },
-    {
-      "id": "2026-11-13-spce-q3-2026",
-      "time": "2026-11-13T01:08:35Z",
-      "tag": "EARNINGS",
-      "headline": "Virgin Galactic Q3: revenue $0.4M, net loss $59M, cash $184M; first commercial flight eyed Q2 2027",
-      "take": "Virgin Galactic reported third-quarter 2026 revenue of $0.4 million, a net loss of $59 million versus $64 million a year earlier, and cash and marketable securities of $184 million at Sept. 30. It guided fourth-quarter free cash flow to $(80) million to $(90) million and expects first commercial spaceflight early in Q2 2027. AlphaGen read: free cash flow was $(99) million in Q3 against $(108) million a year earlier.",
-      "source_name": "Virgin Galactic Q3 2026 results (SEC EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1706946/000119312526458580/d183696dex991.htm",
-      "ticker": "NYSE:SPCE",
-      "checked": "2026-11-13T00:38:35Z"
-    },
-    {
-      "id": "2026-11-13-tgt-board-grimes",
-      "time": "2026-11-13T01:15:35Z",
-      "tag": "EQUITIES",
-      "headline": "Target elects Sally Grimes, ex-Diageo North America CEO, to board effective Dec. 1",
-      "take": "Target said its board elected Sally Grimes as a director effective Dec. 1, 2026, and appointed her to the Audit & Risk and Infrastructure & Finance committees. Grimes was CEO, North America at Diageo plc from September 2023 to March 2026 and earlier CEO of Clif Bar & Company. AlphaGen read: the filing states no arrangements or related-person transactions tied to the appointment.",
-      "source_name": "SEC EDGAR, TGT Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000049/0000027419-26-000049.txt",
-      "ticker": "NYSE:TGT",
-      "checked": "2026-11-13T00:38:35Z"
-    },
-    {
-      "id": "2026-11-12-fred-10s2s-nov10",
-      "time": "2026-11-12T23:46:00Z",
-      "tag": "RATES",
-      "headline": "10-year minus 2-year Treasury spread 0.25 point on Nov. 10, narrowest since Nov. 3",
-      "take": "FRED's T10Y2Y series shows the 10-year/2-year Treasury spread at 0.25 percentage point on Nov. 10, down from 0.32 on Nov. 9 and 0.34 on Nov. 3. Among the six observations from Nov. 3 to Nov. 10 it peaked at 0.38 on Nov. 5. AlphaGen read: the Nov. 10 reading is the lowest of the window, a flatter curve over that stretch.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-      "checked": "2026-11-12T23:38:34Z"
-    },
-    {
-      "id": "2026-11-12-fred-eurjpy-cross-nov6",
-      "time": "2026-11-12T23:58:00Z",
-      "tag": "FX",
-      "headline": "Implied euro-yen cross 176.49 on Nov. 6, from 177.72 on Nov. 4 and 175.78 on Oct. 30",
-      "take": "FRED's H.10-based series show $1.1154 per euro and 158.23 yen per dollar on Nov. 6. Multiplying them gives an implied cross of about 176.49 yen per euro, versus 177.72 on Nov. 4 (the high of the window) and 175.78 on Oct. 30. AlphaGen read: the cross is a derived figure, not a published rate; both legs are the latest dated observations available.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
-      "checked": "2026-11-12T23:38:34Z"
-    },
-    {
-      "id": "2026-11-12-fred-rrp-range-nov3-10",
-      "time": "2026-11-13T00:10:00Z",
-      "tag": "RATES",
-      "headline": "Overnight reverse repo usage ranged $0.125B-$0.427B over Nov. 3-10, ending at $0.152B",
-      "take": "FRED's RRPONTSYD series shows usage at the Fed's overnight reverse repo facility at $0.427 billion on Nov. 3, a low of $0.125 billion on Nov. 5 and $0.152 billion on Nov. 10. Over the six observations it moved only within about $0.3 billion. AlphaGen read: usage at the facility is near zero by any scale of the Fed's roughly $6.7 trillion balance sheet.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
-      "checked": "2026-11-12T23:38:34Z"
-    },
-    {
-      "id": "2026-11-12-fred-walcl-oct-nov4",
-      "time": "2026-11-13T00:25:00Z",
-      "tag": "FED",
-      "headline": "Fed total assets $6.748T on Nov. 4, up $5.1B from Sep. 30, off the Oct. 14 peak of $6.756T",
-      "take": "FRED's WALCL series shows Fed total assets of $6,748,145 million on Nov. 4, versus $6,743,031 million on Sep. 30, a $5.1 billion rise. The six weekly observations peaked at $6,755,639 million on Oct. 14. AlphaGen read: the balance sheet has moved within a roughly $12.6 billion band in five weeks, essentially flat.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/WALCL",
-      "checked": "2026-11-12T23:38:34Z"
-    },
-    {
-      "id": "2026-11-12-fred-10y-range-nov2-9",
-      "time": "2026-11-12T22:54:32Z",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield 4.88% on Nov. 9, in a 4.84%-4.95% range since Nov. 2",
-      "take": "FRED's constant-maturity series shows the 10-year Treasury yield at 4.88% on Nov. 9, versus 4.91% on Nov. 2. Over the six observations from Nov. 2 to Nov. 9 it peaked at 4.95% on Nov. 3 and bottomed at 4.84% on Nov. 5. AlphaGen read: the 11-basis-point range shows the benchmark yield holding in a narrow band over the period.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-12T22:44:32Z"
     }
   ]
 }

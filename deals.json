@@ -1,6 +1,63 @@
 {
-  "updated": "2026-11-18T21:39:28Z",
+  "updated": "2026-11-19T00:39:15Z",
   "items": [
+    {
+      "id": "2026-11-18-panw-applied-compute",
+      "time": "2026-11-19T00:44:15Z",
+      "type": "M&A",
+      "headline": "Palo Alto Networks announces intent to acquire Applied Compute",
+      "parties": "Acquirer: Palo Alto Networks; Target: Applied Compute",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Announced",
+      "announced": "2026-11-18",
+      "sector": "Cybersecurity / AI",
+      "take": "Palo Alto Networks announced its intent to acquire Applied Compute, a platform for post-training and inference of open-weight AI models. The company says it would let it deliver secure open weight models to customers.",
+      "source_name": "Palo Alto Networks (Form 8-K, EX-99.1 earnings release)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+      "tickers": [
+        "NASDAQ:PANW"
+      ],
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-spgi-2b-senior-notes",
+      "time": "2026-11-19T00:45:15Z",
+      "type": "Debt",
+      "headline": "S&P Global completes $2.0B three-tranche senior notes offering",
+      "parties": "Issuer: S&P Global Inc.; Guarantor: Standard & Poor's Financial Services LLC; Representatives: BofA Securities, Goldman Sachs & Co. LLC",
+      "value": 2.0,
+      "value_text": "$2.0 billion",
+      "status": "Completed",
+      "announced": "2026-11-18",
+      "sector": "Financial data / ratings",
+      "take": "S&P Global completed an offering of $750 million of 5.600% notes due 2031, $600 million of 5.800% notes due 2034 and $650 million of 6.000% notes due 2036. Proceeds are for general corporate purposes, which may include acquisitions, refinancing, capex or share repurchases.",
+      "source_name": "S&P Global Inc. (Form 8-K, Item 1.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710.txt",
+      "tickers": [
+        "NYSE:SPGI"
+      ],
+      "checked": "2026-11-19T00:39:15Z"
+    },
+    {
+      "id": "2026-11-18-lplh-750m-notes-2029",
+      "time": "2026-11-19T00:46:15Z",
+      "type": "Debt",
+      "headline": "LPL Holdings sells $750M of 5.850% senior notes due 2029",
+      "parties": "Issuer: LPL Holdings, Inc.; Guarantor: LPL Financial Holdings Inc.",
+      "value": 0.75,
+      "value_text": "$750 million",
+      "status": "Completed",
+      "announced": "2026-11-18",
+      "sector": "Wealth management / brokerage",
+      "take": "LPL Holdings completed the sale of $750 million of 5.850% senior notes maturing Nov. 16, 2029. Net proceeds are intended to repay revolving credit facility borrowings and for general corporate purposes.",
+      "source_name": "LPL Financial Holdings Inc. (Form 8-K, Item 1.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1397911/000119312526467125/0001193125-26-467125.txt",
+      "tickers": [
+        "NASDAQ:LPLA"
+      ],
+      "checked": "2026-11-19T00:39:15Z"
+    },
     {
       "id": "2026-11-17-csx-1p2b-revolver",
       "time": "2026-11-18T21:39:28Z",
