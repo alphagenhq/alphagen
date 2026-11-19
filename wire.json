@@ -1,6 +1,80 @@
 {
-  "updated": "2026-11-19T22:39:03Z",
+  "updated": "2026-11-19T23:45:00Z",
   "items": [
+    {
+      "id": "2026-11-19-intu-mailchimp-sale-bending-spoons-3p68b",
+      "time": "2026-11-19T23:40:00Z",
+      "tag": "DEALS",
+      "headline": "Intuit agrees to sell Mailchimp to Bending Spoons for $3.68B in cash",
+      "take": "In an 8-K, Intuit said it entered an Equity and Asset Purchase Agreement on Nov. 19 to sell its Mailchimp business to Bending Spoons US Inc. for an all-cash base purchase price of $3.68 billion, subject to customary adjustments. Intuit also agreed to invest about $368 million of the purchase price in Bending Spoons S.p.A. for 8,818,595 newly issued ordinary shares, and closing is expected in early calendar 2027. AlphaGen read: the reinvestment equals 10% of the base price, so Intuit's net cash from the sale would be lower than the headline figure.",
+      "source_name": "Intuit Inc., Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834.txt",
+      "ticker": "NASDAQ:INTU",
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-fred-mortgage-rate-nov19-728",
+      "time": "2026-11-19T23:49:00Z",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate 7.28% on Nov. 19, up from 7.11% a week earlier",
+      "take": "FRED's series for Freddie Mac's Primary Mortgage Market Survey shows the 30-year fixed rate at 7.28% on Nov. 19, up 0.17 percentage point from 7.11% on Nov. 12. It had been 7.18% on Nov. 5 and 7.24% on Oct. 29. AlphaGen read: the weekly reading reverses the declines of the prior three weeks and returns to roughly the late-October level.",
+      "source_name": "Freddie Mac Primary Mortgage Market Survey, via FRED (MORTGAGE30US)",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-fred-fed-assets-nov18-6p741t",
+      "time": "2026-11-19T23:58:00Z",
+      "tag": "FED",
+      "headline": "Fed total assets $6.741T on Nov. 18, down $17.4B from a week earlier",
+      "take": "FRED's weekly series for Federal Reserve total assets (WALCL) shows $6,741,452 million on Nov. 18, versus $6,758,867 million on Nov. 11, a decline of $17.4 billion. The Nov. 4 level was $6,748,145 million. AlphaGen read: the balance sheet is little changed over the four weeks shown, moving within a range of about $17 billion.",
+      "source_name": "Federal Reserve Board H.4.1, via FRED (WALCL)",
+      "source_url": "https://fred.stlouisfed.org/series/WALCL",
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-duk-875m-6p05-notes-due-2036",
+      "time": "2026-11-20T00:07:00Z",
+      "tag": "DEBT",
+      "headline": "Duke Energy sells $875M of 6.05% senior notes due 2036",
+      "take": "Duke Energy filed an underwriting agreement dated Nov. 17, 2026 for $875,000,000 aggregate principal amount of 6.05% Senior Notes due 2036, with MUFG, PNC, Santander, SMBC Nikko, U.S. Bancorp and Wells Fargo as representatives of the underwriters. The agreement was filed as Exhibit 99.1 to an 8-K. AlphaGen read: a 6.05% coupon on a 10-year utility note is a reference point for borrowing costs in a sector with heavy capital spending.",
+      "source_name": "Duke Energy Corporation, Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_ex99-1.htm",
+      "ticker": "NYSE:DUK",
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-ew-750m-revolver-matures-2031",
+      "time": "2026-11-20T00:16:00Z",
+      "tag": "CREDIT",
+      "headline": "Edwards Lifesciences signs new $750M five-year revolving credit facility",
+      "take": "Edwards Lifesciences said on Nov. 19 it entered an Amended and Restated Five Year Credit Agreement providing a $750 million multi-currency unsecured revolving facility maturing Nov. 19, 2031, with an option to add up to $375 million more. Borrowings bear interest at SOFR or a base rate plus a margin based on leverage ratio or debt ratings. AlphaGen read: the company describes the move as a planned refreshment of its bank facility, replacing the July 2022 agreement.",
+      "source_name": "Edwards Lifesciences Corp., Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1099800/000109980026000057/0001099800-26-000057.txt",
+      "ticker": "NYSE:EW",
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-fred-10y-breakeven-nov19-216",
+      "time": "2026-11-20T00:25:00Z",
+      "tag": "RATES",
+      "headline": "10-year breakeven inflation rate 2.16% on Nov. 19, down from 2.24% on Nov. 13",
+      "take": "FRED's 10-year breakeven inflation rate was 2.16% on Nov. 19, from 2.19% on Nov. 18 and 2.24% on Nov. 13, a drop of 0.08 percentage point over the six observations shown. The 10-year TIPS real yield was 2.88% on Nov. 18 versus 2.91% on Nov. 13. AlphaGen read: this market-based inflation measure has eased through the week while real yields stayed near 2.9%.",
+      "source_name": "Federal Reserve Bank of St. Louis, FRED (T10YIE, DFII10)",
+      "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-nke-director-gil-resigns-board-11",
+      "time": "2026-11-20T00:30:00Z",
+      "tag": "EQUITIES",
+      "headline": "Nike director Mónica Gil resigns; board shrinks to eleven",
+      "take": "Nike said in an 8-K that director Mónica Gil notified the company on Nov. 13 of her decision to resign from the Board and its Compensation Committee, effective Nov. 19, reducing the Board to eleven directors. The filing says her decision is not because of a disagreement with the company or the Board on any matter relating to operations, policies or practices. AlphaGen read: the filing describes no replacement director.",
+      "source_name": "NIKE, Inc., Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211.txt",
+      "ticker": "NYSE:NKE",
+      "checked": "2026-11-19T23:45:00Z"
+    },
     {
       "id": "2026-11-19-fred-sloos-ci-large-firms-net-tighten-1p7-oct",
       "time": "2026-11-19T22:54:03Z",
@@ -5030,78 +5104,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm",
       "ticker": "NASDAQ:BKNG",
       "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-apo-7550-junior-sub-notes",
-      "time": "2026-11-14T00:59:12Z",
-      "tag": "CREDIT",
-      "headline": "Apollo issues $600M of 7.550% junior subordinated notes due 2056",
-      "take": "Apollo Global Management's 8-K says it issued $600M of 7.550% Fixed-Rate Resettable Junior Subordinated Notes due 2056 on Nov. 13. The rate is fixed until Dec. 15, 2036, then resets to the five-year Treasury rate plus 2.672%, and net proceeds are intended for general corporate purposes, including the previously announced investment in Mubadala Capital Asset Management. AlphaGen read: the 7.550% coupon is the highest of the corporate offerings in today's filings.",
-      "source_name": "SEC EDGAR, APO Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312526460879/0001193125-26-460879-index.htm",
-      "ticker": "NYSE:APO",
-      "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-key-series-e-redemption",
-      "time": "2026-11-14T01:05:12Z",
-      "tag": "EQUITIES",
-      "headline": "KeyCorp to redeem all $500M of Series E preferred on Dec. 15",
-      "take": "KeyCorp's 8-K says it gave notice on Nov. 13 that it will redeem all 20,000,000 depositary shares of its Series E Fixed-to-Floating Rate Perpetual Non-Cumulative Preferred Stock on Dec. 15, 2026, an aggregate liquidation preference of $500M. The redemption price is $25.3828125 per depositary share, which is the $25.00 liquidation preference plus accumulated and unpaid dividends through the redemption date. The shares will be delisted from the NYSE upon redemption.",
-      "source_name": "SEC EDGAR, KEY Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/91576/000162828026073875/0001628280-26-073875-index.htm",
-      "ticker": "NYSE:KEY",
-      "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-agencies-third-party-risk-comment-extended",
-      "time": "2026-11-14T01:11:12Z",
-      "tag": "FED",
-      "headline": "Bank regulators extend third-party risk guidance comment period to Dec. 16",
-      "take": "The FDIC, Federal Reserve, NCUA and OCC said Nov. 13 they will extend to Dec. 16 the comment period on proposed guidance on managing risks tied to third-party relationships; comments were originally due Nov. 16. The Fed Board separately extended to Dec. 16 the comment period on a third-party risk management guide for traditional community banks. The agencies describe the guidance as principles-based and non-binding, and plan to rescind existing guidance once a final version is adopted.",
-      "source_name": "Federal Reserve Board, Joint Press Release",
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-eia-refinery-yields-distillate-jet",
-      "time": "2026-11-14T01:17:12Z",
-      "tag": "ENERGY",
-      "headline": "EIA: refiners cut gasoline yield below 45% in 2026 to favor diesel and jet fuel",
-      "take": "EIA's Nov. 5 analysis of Petroleum Supply Monthly data through August says U.S. refinery gasoline yields averaged less than 45% from January through August 2026 and were below the five-year low in every month. Distillate yields were above the five-year average in every month, and the fleetwide jet fuel yield has been at or above 12% since March 2026. EIA attributes the shift to distillate and jet margins that are significantly higher because of constrained global supplies.",
-      "source_name": "U.S. Energy Information Administration, Today in Energy",
-      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
-      "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-fred-fed-balance-sheet-nov11",
-      "time": "2026-11-14T01:23:12Z",
-      "tag": "FED",
-      "headline": "Fed balance sheet $6.759T on Nov. 11, up $10.7B in a week",
-      "take": "FRED's WALCL series shows Federal Reserve total assets of $6,758,867M on Nov. 11, versus $6,748,145M on Nov. 4, a rise of $10.7B (AlphaGen calculation). Prior weekly readings were $6,745,635M on Oct. 28 and $6,753,604M on Oct. 21. AlphaGen read: the balance sheet has stayed within a roughly $13B range across the six weeks shown.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (WALCL)",
-      "source_url": "https://fred.stlouisfed.org/series/WALCL",
-      "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-cpi-all-items-apr-oct-path",
-      "time": "2026-11-13T23:41:56Z",
-      "tag": "MACRO",
-      "headline": "CPI all-items path since April: +0.6, +0.5, -0.4, +0.1, +0.4, +0.6, +0.4 percent",
-      "take": "BLS's October CPI release shows seasonally adjusted monthly all-items changes of 0.6% in April, 0.5% in May, -0.4% in June, 0.1% in July, 0.4% in August, 0.6% in September and 0.4% in October. Compounding those rounded monthly changes gives about 2.2% over the seven months (AlphaGen calculation). AlphaGen read: June is the only decline in the span, and the energy index also fell 5.7% that month.",
-      "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-13T23:39:56Z"
-    },
-    {
-      "id": "2026-11-13-cpi-energy-path-apr-oct",
-      "time": "2026-11-13T23:51:56Z",
-      "tag": "ENERGY",
-      "headline": "CPI energy index: up 5.2% in September, 0.7% in October after two monthly declines",
-      "take": "BLS's Table A shows the seasonally adjusted CPI energy index at +3.8% in April, +3.9% in May, -5.7% in June, -1.5% in July, +2.1% in August, +5.2% in September and +0.7% in October. Compounding those rounded changes gives about 8.4% over the seven months (AlphaGen calculation). AlphaGen read: October's 0.7% was the smallest of the three increases since July's decline.",
-      "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-13T23:39:56Z"
     }
   ]
 }

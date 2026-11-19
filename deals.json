@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-19T19:44:59Z",
+  "updated": "2026-11-19T23:45:00Z",
   "items": [
+    {
+      "id": "2026-11-19-intuit-mailchimp-bending-spoons",
+      "time": "2026-11-19T23:40:00Z",
+      "type": "M&A",
+      "headline": "Intuit to sell Mailchimp to Bending Spoons for $3.68B cash base price",
+      "parties": "Acquirer: Bending Spoons US Inc. (Bending Spoons S.p.A.); Target: Mailchimp (Intuit Inc.)",
+      "value": 3.68,
+      "value_text": "$3.68B all-cash base purchase price, subject to customary adjustments",
+      "status": "Announced",
+      "announced": "2026-11-19",
+      "sector": "Software / marketing technology",
+      "take": "Intuit entered an Equity and Asset Purchase Agreement to sell its Mailchimp business, with Intuit agreeing to invest about $368 million of the purchase price in Bending Spoons for 8,818,595 new shares. The filing says closing is expected in early calendar 2027 and is subject to HSR and other regulatory approvals, with no shareholder vote or financing condition.",
+      "source_name": "Intuit Inc., Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834.txt",
+      "tickers": [
+        "NASDAQ:INTU"
+      ],
+      "checked": "2026-11-19T23:45:00Z"
+    },
+    {
+      "id": "2026-11-19-duke-energy-875m-notes-2036",
+      "time": "2026-11-20T00:07:00Z",
+      "type": "Debt",
+      "headline": "Duke Energy underwrites $875M of 6.05% senior notes due 2036",
+      "parties": "Issuer: Duke Energy Corporation; Underwriter representatives: MUFG, PNC, Santander, SMBC Nikko, U.S. Bancorp, Wells Fargo",
+      "value": 0.875,
+      "value_text": "$875 million",
+      "status": "Priced",
+      "announced": "2026-11-17",
+      "sector": "Utilities",
+      "take": "Duke Energy filed an underwriting agreement dated Nov. 17, 2026 for $875,000,000 of 6.05% Senior Notes due 2036 under its existing indenture. The agreement was filed as Exhibit 99.1 to an 8-K.",
+      "source_name": "Duke Energy Corporation, Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_ex99-1.htm",
+      "tickers": [
+        "NYSE:DUK"
+      ],
+      "checked": "2026-11-19T23:45:00Z"
+    },
     {
       "id": "2026-11-19-adp-zenbusiness",
       "time": "2026-11-19T19:46:59Z",
