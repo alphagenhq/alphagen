@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-18T18:56:03Z",
+ "updated": "2026-11-19T01:02:06Z",
  "items": [
+  {
+   "id": "live-0001327567-26-000030-2.02",
+   "time": "2026-11-18T21:37:04Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Palo Alto Networks releases financial results",
+   "take": "Palo Alto Networks filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:37 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, PANW Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/0001327567-26-000030-index.htm",
+   "ticker": "NASDAQ:PANW"
+  },
+  {
+   "id": "live-0001193125-26-467177-1.01",
+   "time": "2026-11-18T21:30:17Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Consolidated Edison discloses a material agreement",
+   "take": "Consolidated Edison reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:30 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, ED Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177-index.htm",
+   "ticker": "NYSE:ED"
+  },
+  {
+   "id": "live-0000310158-26-000255-5.02",
+   "time": "2026-11-18T21:27:51Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Merck & Co. reports an executive or board change",
+   "take": "Merck & Co. reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:27 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, MRK Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/0000310158-26-000255-index.htm",
+   "ticker": "NYSE:MRK"
+  },
+  {
+   "id": "live-0001104659-26-129710-1.01",
+   "time": "2026-11-18T21:15:29Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "S&P Global discloses a material agreement",
+   "take": "S&P Global reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:15 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, SPGI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710-index.htm",
+   "ticker": "NYSE:SPGI"
+  },
+  {
+   "id": "live-0001193125-26-467125-1.01",
+   "time": "2026-11-18T21:15:20Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "LPL Financial discloses a material agreement",
+   "take": "LPL Financial reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:15 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, LPLA Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1397911/000119312526467125/0001193125-26-467125-index.htm",
+   "ticker": "NASDAQ:LPLA"
+  },
+  {
+   "id": "live-0001645590-26-000092-1.01",
+   "time": "2026-11-18T21:08:26Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Hewlett Packard Enterprise discloses a material agreement",
+   "take": "Hewlett Packard Enterprise reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:08 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, HPE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000092/0001645590-26-000092-index.htm",
+   "ticker": "NYSE:HPE"
+  },
+  {
+   "id": "live-0001645590-26-000092-5.02",
+   "time": "2026-11-18T21:08:26Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Hewlett Packard Enterprise reports an executive or board change",
+   "take": "Hewlett Packard Enterprise reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:08 PM ET, Nov 18.",
+   "source_name": "SEC EDGAR, HPE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000092/0001645590-26-000092-index.htm",
+   "ticker": "NYSE:HPE"
+  },
   {
    "id": "live-0000109198-26-000058-2.02",
    "time": "2026-11-18T14:19:28Z",
@@ -3223,39 +3300,6 @@
    "source_name": "SEC EDGAR, T Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000370/0000732717-26-000370-index.htm",
    "ticker": "NYSE:T"
-  },
-  {
-   "id": "live-0000097745-26-000173-2.02",
-   "time": "2026-10-21T10:03:16Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Thermo Fisher Scientific releases financial results",
-   "take": "Thermo Fisher Scientific filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:03 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, TMO Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000173/0000097745-26-000173-index.htm",
-   "ticker": "NYSE:TMO"
-  },
-  {
-   "id": "live-0001156039-26-000068-2.02",
-   "time": "2026-10-21T10:01:36Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Elevance Health releases financial results",
-   "take": "Elevance Health filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:01 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, ELV Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000068/0001156039-26-000068-index.htm",
-   "ticker": "NYSE:ELV"
-  },
-  {
-   "id": "live-0000313616-26-000201-2.02",
-   "time": "2026-10-20T21:43:14Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Danaher releases financial results",
-   "take": "Danaher filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 5:43 PM ET, Oct 20. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, DHR Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000201/0000313616-26-000201-index.htm",
-   "ticker": "NYSE:DHR"
   }
  ]
 }
