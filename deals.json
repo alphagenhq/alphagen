@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-19T01:38:59Z",
+  "updated": "2026-11-19T19:44:59Z",
   "items": [
+    {
+      "id": "2026-11-19-adp-zenbusiness",
+      "time": "2026-11-19T19:46:59Z",
+      "type": "M&A",
+      "headline": "ADP acquires ZenBusiness, extending into business formation and compliance",
+      "parties": "Acquirer: ADP, Inc.; Target: ZenBusiness",
+      "value": null,
+      "value_text": "Undisclosed",
+      "status": "Completed",
+      "announced": "2026-11-19",
+      "sector": "Business services / HR software",
+      "take": "ADP said it has acquired ZenBusiness, an Austin, Texas-based formation and compliance services business that the release says has helped over one million entrepreneurs. Terms, financing and closing timing were not stated in the release.",
+      "source_name": "ADP, Inc. (PR Newswire release)",
+      "source_url": "https://www.prnewswire.com/news-releases/adp-acquires-zenbusiness-302946034.html",
+      "tickers": [
+        "NASDAQ:ADP"
+      ],
+      "checked": "2026-11-19T19:44:59Z"
+    },
     {
       "id": "2026-11-17-nxpi-eur1b-notes",
       "time": "2026-11-19T02:30:59Z",

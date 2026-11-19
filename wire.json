@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-19T18:43:45Z",
+ "updated": "2026-11-19T19:44:59Z",
  "items": [
+  {
+   "id": "2026-11-19-adp-acquires-zenbusiness",
+   "time": "2026-11-19T19:46:59Z",
+   "tag": "DEALS",
+   "headline": "ADP says it has acquired ZenBusiness, adding business formation and compliance",
+   "take": "ADP said Nov. 19 that it has acquired ZenBusiness, a formation and compliance services business founded in 2015 and based in Austin, Texas, which the release says has helped over one million entrepreneurs. The release does not state a price, financing or closing timeline, and describes the deal as completed. AlphaGen read: it adds formation and compliance to a small-business base that ADP puts at more than 980,000 clients.",
+   "source_name": "ADP, Inc. (PR Newswire release)",
+   "source_url": "https://www.prnewswire.com/news-releases/adp-acquires-zenbusiness-302946034.html",
+   "ticker": "NASDAQ:ADP",
+   "checked": "2026-11-19T19:44:59Z"
+  },
+  {
+   "id": "2026-11-19-freddie-15y-645-30y-yoy-624",
+   "time": "2026-11-19T19:58:59Z",
+   "tag": "HOUSING",
+   "headline": "Freddie Mac: 15-year mortgage rate 6.45%; 30-year 7.11% vs 6.24% a year ago",
+   "take": "Freddie Mac's survey for the week ended Nov. 12 put the 15-year fixed rate at 6.45%, down from 6.57% the prior week and up from 5.49% a year ago. The 30-year rate was 7.11%, from 7.18% last week and 6.24% a year ago, a fourth consecutive weekly decline that Freddie Mac called the lowest in seven weeks. AlphaGen calculation: the 30-year rate is 0.87 percentage point above a year ago and the 15-year rate 0.96 point above. The Nov. 19 release was not yet posted on the page when read.",
+   "source_name": "Freddie Mac Primary Mortgage Market Survey",
+   "source_url": "https://www.freddiemac.com/pmms",
+   "checked": "2026-11-19T19:44:59Z"
+  },
+  {
+   "id": "2026-11-19-jobs-oct-sectors-little-change",
+   "time": "2026-11-19T20:10:59Z",
+   "tag": "MACRO",
+   "headline": "BLS: October payrolls showed little change in retail, construction, government and more",
+   "take": "BLS said October employment showed little change in mining, quarrying, and oil and gas extraction; construction; wholesale trade; retail trade; information; financial activities; social assistance; leisure and hospitality; other services; and government. The 165,000 total gain came from professional and business services, health care, and transportation and warehousing, with manufacturing up 19,000. AlphaGen read: the report's strength was concentrated in a few industries rather than spread across the economy.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-19T19:44:59Z"
+  },
+  {
+   "id": "2026-11-19-jobs-oct-prof-business-services-269k-since-low",
+   "time": "2026-11-19T20:22:59Z",
+   "tag": "MACRO",
+   "headline": "BLS: professional and business services has added 269,000 jobs since October 2025 low",
+   "take": "BLS's October jobs report says professional and business services has added 269,000 jobs since a recent low in October 2025, after a 70,000 gain in October against a 12-month average of 15,000. Within the sector, professional, scientific, and technical services rose 33,000 and management of companies and enterprises rose 9,000. AlphaGen read: the sector went from a low last October to the largest single-month contributor to October's 165,000 payroll gain.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-19T19:44:59Z"
+  },
   {
    "id": "2026-11-19-wmt-q3-fy27-revenue-188p8b-up-5p2",
    "time": "2026-11-19T18:45:45Z",
@@ -5061,47 +5102,6 @@
    "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
    "source_url": "https://www.federalreserve.gov/releases/h15/",
    "checked": "2026-11-13T20:39:17Z"
-  },
-  {
-   "id": "2026-11-13-fred-claims-4wk-avg-195k",
-   "time": "2026-11-13T21:21:00Z",
-   "tag": "MACRO",
-   "headline": "Initial claims four-week average 195,250 for week ended Nov. 7, unchanged from prior week",
-   "take": "FRED's ICSA series shows 200,000 initial jobless claims for the week ended Nov. 7, up from 191,000 the week before. AlphaGen computes the four-week average at 195,250 for both weeks ended Nov. 7 and Oct. 31, since the 200,000 reading replaced 200,000 from Oct. 10 in the window. AlphaGen read: the 9,000 rise in the latest week left the smoothed level unchanged because the figure dropping out of the window was equal to it.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/ICSA",
-   "checked": "2026-11-13T20:39:17Z"
-  },
-  {
-   "id": "2026-11-13-eia-sw-hydropower-record-low",
-   "time": "2026-11-13T19:41:00Z",
-   "tag": "ENERGY",
-   "headline": "EIA: Southwest hydropower hit record low this summer, 19% below last year",
-   "take": "EIA's Form EIA-923 data show Southwest hydropower generation from April through August 2026 was 19% lower than a year earlier and 28% lower than the 10-year average. Lake Powell reached 3,518 feet at the end of September versus a 3,490-foot minimum power pool, and Lake Mead reached 1,038 feet versus 950 feet. AlphaGen read: EIA's November STEO projects 6.13 billion kWh of Southwest hydropower in 2026, 24% below the 10-year average, and 2027 is forecast at 6.1 billion kWh, 0.5% below 2026.",
-   "source_name": "U.S. Energy Information Administration, Today in Energy",
-   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
-   "checked": "2026-11-13T19:39:00Z"
-  },
-  {
-   "id": "2026-11-13-cftc-sues-arkansas-prediction-markets",
-   "time": "2026-11-13T19:51:00Z",
-   "tag": "COMMODITIES",
-   "headline": "CFTC sues Arkansas over state action against Kalshi, its 11th state suit",
-   "take": "The CFTC said Nov. 13 it filed a lawsuit to block Arkansas from halting event-contract trading and from imposing up to hundreds of millions of dollars in civil penalties on CFTC-registered exchanges. Arkansas is bringing a civil enforcement action against Kalshi in state court, and the CFTC calls Arkansas the 11th state it has sued. AlphaGen read: the agency has also filed amicus briefs in four federal Courts of Appeal and one state Supreme Court, so the federal-versus-state jurisdiction question is being argued in several courts at once.",
-   "source_name": "CFTC",
-   "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9325-26",
-   "checked": "2026-11-13T19:39:00Z"
-  },
-  {
-   "id": "2026-11-13-spce-2027-notes-exchange",
-   "time": "2026-11-13T20:01:00Z",
-   "tag": "DEBT",
-   "ticker": "NYSE:SPCE",
-   "headline": "Virgin Galactic to exchange ~$12.5M of 2027 convertible notes for stock",
-   "take": "In a Nov. 13 8-K, Virgin Galactic said it agreed to exchange approximately $12.5 million of its 2.50% Convertible Senior Notes due 2027 for common shares, which would cut the outstanding 2027 notes from $17.9 million to $5.4 million. The exchange is expected to close on or about Nov. 19, subject to customary conditions, with the share count set over a two-day observation period beginning Nov. 17. AlphaGen read: the remaining $5.4 million is about 1.3% of the $425.0 million originally issued in January 2022.",
-   "source_name": "SEC EDGAR, Virgin Galactic Holdings Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1706946/000119312526459413/0001193125-26-459413.txt",
-   "checked": "2026-11-13T19:39:00Z"
   }
  ]
 }
