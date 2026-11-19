@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-19T13:45:53Z",
+ "updated": "2026-11-19T14:39:21Z",
  "items": [
+  {
+   "id": "2026-11-19-ppi-oct-processed-ex-food-energy-0p9",
+   "time": "2026-11-19T14:44:00Z",
+   "tag": "MACRO",
+   "headline": "PPI: processed goods ex food and energy up 0.9% in October; energy goods down 1.6%",
+   "take": "BLS's October PPI says processed goods for intermediate demand rose 0.4%, with processed materials less foods and energy up 0.9%, processed foods and feeds up 1.0% and processed energy goods down 1.6%. The 12-month rise for processed goods was 14.6%. AlphaGen read: the small headline gain hid a firmer non-energy core, which energy goods offset.",
+   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-19T14:39:21Z"
+  },
+  {
+   "id": "2026-11-19-ppi-oct-processed-ex-food-energy-compounded-8p4",
+   "time": "2026-11-19T14:56:00Z",
+   "tag": "MACRO",
+   "headline": "PPI: processed goods ex food and energy compound to about 8.4% since December",
+   "take": "BLS's Table B shows processed goods for intermediate demand less foods and energy rising 0.5, 0.8, 0.8, 1.6, 1.7, 0.7, 0.1, 0.5, 0.5 and 0.9% from January through October, with no monthly decline. Compounding those rounded figures gives roughly 8.4% (AlphaGen calculation), against about 5.7% for total final demand on the same basis. AlphaGen read: October's 0.9% was the largest monthly gain since May's 1.7%.",
+   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-19T14:39:21Z"
+  },
+  {
+   "id": "2026-11-19-ppi-oct-intermediate-services-metals-wholesaling-9p2",
+   "time": "2026-11-19T15:08:00Z",
+   "tag": "MACRO",
+   "headline": "PPI: metals wholesaling margins jumped 9.2% in October, driving services for intermediate demand",
+   "take": "BLS says services for intermediate demand rose 0.6% in October, and thirty percent of the increase traced to a 9.2% jump in margins for metals, minerals and ores wholesaling. Nonresidential property management fees decreased 5.9%, and transportation and warehousing services for intermediate demand rose 1.2%. AlphaGen read: one wholesaling category accounted for roughly a third of the advance, so the broad gain leaned on a single margin line.",
+   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-19T14:39:21Z"
+  },
+  {
+   "id": "2026-11-19-ppi-oct-unprocessed-nonfood-foodstuffs-raw-milk",
+   "time": "2026-11-19T15:20:00Z",
+   "tag": "COMMODITIES",
+   "headline": "PPI: unprocessed nonfood materials ex energy fell 0.9% in October; raw milk rose 8.2%",
+   "take": "BLS's October PPI shows unprocessed nonfood materials less energy down 0.9% and unprocessed foodstuffs and feedstuffs down 0.2%, with corn, slaughter hogs, wheat, aluminum base scrap and hay and hayseeds lower. Raw milk advanced 8.2%, and natural gas and carbon steel scrap also rose. AlphaGen read: outside energy, raw-material prices were mostly lower in October, with dairy and a few inputs the exceptions.",
+   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-19T14:39:21Z"
+  },
   {
    "id": "2026-11-19-eia-nov-gas-storage-70bcf-henry-hub-2p87",
    "time": "2026-11-19T13:53:53Z",
@@ -5064,46 +5104,6 @@
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
    "checked": "2026-11-13T15:44:00Z"
-  },
-  {
-   "id": "2026-11-13-schnabel-southern-euro-area",
-   "time": "2026-11-13T16:30:00Z",
-   "tag": "GLOBAL",
-   "headline": "Schnabel: southern euro-area economies now among Europe's fastest growing",
-   "take": "In her Nov. 13 Vilnius speech, Schnabel said southern euro area countries, synonymous with crises and austerity a decade ago, are now among the fastest-growing economies in Europe, with record investment and declining unemployment. She said their financing conditions relative to Germany, despite some recent spread widening, remain close to their most favourable since 2008, and the European Commission projects Spain, Portugal and Greece potential growth above the euro area average. AlphaGen read: the speech frames the south as evidence that structural reform pays off.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "checked": "2026-11-13T15:44:00Z"
-  },
-  {
-   "id": "2026-11-13-ppi-oct-final-demand",
-   "time": "2026-11-13T14:42:16Z",
-   "tag": "MACRO",
-   "headline": "October PPI final demand +0.3%; goods +0.5%, services +0.2%",
-   "take": "BLS reported the Producer Price Index for final demand rose 0.3 percent in October, seasonally adjusted, and increased 6.5 percent unadjusted for the 12 months ended in October. Final demand goods rose 0.5 percent and final demand services moved up 0.2 percent, the fifth consecutive advance. AlphaGen read: producer-level price pressure is still building, led by goods.",
-   "source_name": "Bureau of Labor Statistics",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-13T14:40:16Z"
-  },
-  {
-   "id": "2026-11-13-ppi-oct-core-trade-margins",
-   "time": "2026-11-13T14:50:16Z",
-   "tag": "MACRO",
-   "headline": "PPI less foods, energy, trade services +0.5% in October, same as September",
-   "take": "BLS said the index for final demand less foods, energy, and trade services rose 0.5 percent in October, the same as in September, and advanced 4.9 percent over the 12 months ended in October. Margins for final demand trade services decreased 0.2 percent, and final demand energy edged down 0.1 percent while final demand foods increased 1.3 percent. AlphaGen read: the core measure is running above the headline's 0.3 percent, with trade margins and energy lower in the same report.",
-   "source_name": "Bureau of Labor Statistics",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-13T14:40:16Z"
-  },
-  {
-   "id": "2026-11-13-ppi-oct-goods-chemicals-trucking",
-   "time": "2026-11-13T14:58:16Z",
-   "tag": "MACRO",
-   "headline": "PPI goods +0.5% after +2.5% in Sept; organic chemicals +3.9%, trucking +3.9%",
-   "take": "BLS reported final demand goods increased 0.5 percent in October following a 2.5-percent rise in September, with basic organic chemicals up 3.9 percent; final demand goods rose 10.2 percent over the 12 months ended in October. Over 80 percent of the October increase in final demand services is attributable to truck transportation of freight, which rose 3.9 percent. AlphaGen read: freight and chemicals are the pressure points in this report.",
-   "source_name": "Bureau of Labor Statistics",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-13T14:40:16Z"
   }
  ]
 }
