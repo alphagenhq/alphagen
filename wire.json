@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-19T15:44:08Z",
+  "updated": "2026-11-19T16:38:46Z",
   "items": [
+    {
+      "id": "2026-11-19-dol-claims-nov14-203k-4wk-197750",
+      "time": "2026-11-19T16:40:46Z",
+      "tag": "MACRO",
+      "headline": "Jobless claims 203,000 in week ended Nov. 14; four-week average 197,750",
+      "take": "The Labor Department reported seasonally adjusted initial claims of 203,000 for the week ending November 14, up 1,000 from the prior week's revised 202,000. The four-week moving average was 197,750, up 2,000 from a revised 195,750. AlphaGen read: claims remain near 200,000, with no sign of a layoff wave in this report.",
+      "source_name": "U.S. Department of Labor (Unemployment Insurance Weekly Claims, Nov. 19, 2026)",
+      "source_url": "https://www.dol.gov/ui/data.pdf",
+      "checked": "2026-11-19T16:38:46Z"
+    },
+    {
+      "id": "2026-11-19-fed-jefferson-energy-shock-inflation-above-target",
+      "time": "2026-11-19T16:50:46Z",
+      "tag": "FED",
+      "headline": "Jefferson: inflation was already above 2% target when energy shock hit",
+      "take": "Vice Chair Jefferson, speaking in Brasília on Nov. 19, said: \"When the recent energy price shock occurred, inflation in the U.S. was already above our 2 percent target.\" He added that if inflation expectations risk becoming unanchored, \"a stronger reaction to inflation is warranted.\" AlphaGen read: the speech frames expectations as the main test for how the Fed treats an energy-driven price jump.",
+      "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+      "checked": "2026-11-19T16:38:46Z"
+    },
+    {
+      "id": "2026-11-19-dol-continuing-claims-1763k-rate-1p1",
+      "time": "2026-11-19T17:00:46Z",
+      "tag": "MACRO",
+      "headline": "Continuing claims rise 70,000 to 1.763 million; insured rate 1.1%",
+      "take": "The Labor Department said insured unemployment was 1,763,000 for the week ending November 7, up 70,000 from a revised 1,693,000, with the insured unemployment rate at 1.1% (unchanged). Unadjusted initial claims for the week ending November 14 were 197,492, versus 218,228 a year earlier, about 9.5% lower by AlphaGen's calculation. AlphaGen read: the continuing-claims increase is the more notable move in an otherwise low-claims report.",
+      "source_name": "U.S. Department of Labor (Unemployment Insurance Weekly Claims, Nov. 19, 2026)",
+      "source_url": "https://www.dol.gov/ui/data.pdf",
+      "checked": "2026-11-19T16:38:46Z"
+    },
+    {
+      "id": "2026-11-19-fed-jefferson-ai-buildout-demand-inflation",
+      "time": "2026-11-19T17:10:46Z",
+      "tag": "FED",
+      "headline": "Jefferson: AI buildout is adding upward pressure on demand and inflation",
+      "take": "In his Nov. 19 speech, Vice Chair Jefferson said: \"Currently, the AI buildout is exerting upward pressure on demand and inflation.\" He also said \"AI could cause some job displacement, a meaningful challenge for affected households.\" AlphaGen read: the Fed is weighing AI investment as both a demand source and a labor-market risk.",
+      "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+      "checked": "2026-11-19T16:38:46Z"
+    },
+    {
+      "id": "2026-11-19-fed-jefferson-goal-price-stability-solid-labor",
+      "time": "2026-11-19T17:20:46Z",
+      "tag": "FED",
+      "headline": "Jefferson: goal is price stability with a solid labor market",
+      "take": "Vice Chair Jefferson said: \"For the U.S. economy, my goal is to restore price stability while maintaining a solid labor market.\" He also said \"If price pressures are contained, it may be prudent to prioritize downside risks to employment.\" AlphaGen read: the conditional wording ties any shift toward employment risks to inflation first being contained.",
+      "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+      "checked": "2026-11-19T16:38:46Z"
+    },
     {
       "id": "2026-11-19-cpi-oct-fuel-oil-2p0-after-15p3",
       "time": "2026-11-19T15:49:08Z",
@@ -5054,56 +5104,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
       "checked": "2026-11-13T17:44:00Z"
-    },
-    {
-      "id": "2026-11-13-bea-gdp-second-estimate-nov25",
-      "time": "2026-11-13T16:46:00Z",
-      "tag": "MACRO",
-      "headline": "BEA lists Q3 GDP second estimate and corporate profits for Nov. 25, 8:30 a.m. EST",
-      "take": "BEA's third-quarter advance GDP release lists the next release as November 25, 2026, at 8:30 a.m. EST: GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026. The advance estimate put real GDP growth at 3.4 percent, versus 2.2 percent in the second quarter. AlphaGen read: the second estimate updates the 3.4 percent advance figure.",
-      "source_name": "BEA",
-      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-      "checked": "2026-11-13T16:44:00Z"
-    },
-    {
-      "id": "2026-11-13-bea-oct-personal-income-nov25",
-      "time": "2026-11-13T16:55:00Z",
-      "tag": "MACRO",
-      "headline": "BEA sets October personal income and outlays for Nov. 25, 8:30 a.m. EST",
-      "take": "BEA's September release lists the next one, Personal Income and Outlays, October 2026, for November 25, 2026, at 8:30 a.m. EST. September showed the PCE price index up 0.5 percent from August and up 3.6 percent from the same month a year earlier. AlphaGen read: October is the next monthly reading on that price index.",
-      "source_name": "BEA",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-      "checked": "2026-11-13T16:44:00Z"
-    },
-    {
-      "id": "2026-11-13-schnabel-ict-typical-american",
-      "time": "2026-11-13T17:04:00Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: ICT drove over a quarter of U.S. productivity gains with under 2% of jobs",
-      "take": "ECB Executive Board member Isabel Schnabel said in her Nov. 13 Vilnius speech that since 2000 more than a quarter of total growth in U.S. value added per employee has accrued in the information and communications technology sector, which accounts for less than 2% of total employment. She said the typical American lives in a USD 45,000 economy, not a USD 67,000 one. AlphaGen read: she uses this to argue that standard U.S.-euro area GDP per capita comparisons overstate the gap in living standards.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-      "checked": "2026-11-13T16:44:00Z"
-    },
-    {
-      "id": "2026-11-13-schnabel-germany-stagnation",
-      "time": "2026-11-13T17:13:00Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: German real GDP per capita fell 0.5% in 2019-2024; export view a 'misdiagnosis'",
-      "take": "ECB's Isabel Schnabel said Germany's real GDP per capita fell by 0.5% from 2019 to 2024, citing demographic change, energy costs that remain elevated compared with pre-pandemic levels, protectionism and global competition, especially from China. She said treating eroding export market shares as the main cause is a misdiagnosis, and that over the past ten years Germany's real goods exports have broadly tracked the global cycle. AlphaGen read: the speech contrasts Germany's weakness with growth in the euro area's south.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-      "checked": "2026-11-13T16:44:00Z"
-    },
-    {
-      "id": "2026-11-13-schnabel-spain-ireland",
-      "time": "2026-11-13T17:22:00Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: Spain's renewables cut wholesale power prices; Ireland a tech and pharma hub",
-      "take": "In her Nov. 13 speech, ECB's Isabel Schnabel said Spain has emerged as a European leader in renewable energy, which has significantly reduced wholesale electricity prices and the country's vulnerability to global energy price shocks. She said Ireland has become a global hotspot for technology, pharmaceutical and life science companies and has the highest share of tertiary students in natural sciences, mathematics and statistics fields in the EU. AlphaGen read: these are her country examples of structural change supporting growth.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-      "checked": "2026-11-13T16:44:00Z"
     }
   ]
 }
