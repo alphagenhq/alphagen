@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-19T00:39:15Z",
+  "updated": "2026-11-19T01:38:59Z",
   "items": [
+    {
+      "id": "2026-11-17-nxpi-eur1b-notes",
+      "time": "2026-11-19T02:30:59Z",
+      "type": "Debt",
+      "headline": "NXP signs underwriting for €1.0B senior notes due 2034 and 2037",
+      "parties": "Issuers: NXP B.V., NXP Funding LLC, NXP USA, Inc.; Guarantor: NXP Semiconductors N.V.; Underwriter representatives: BNP Paribas, Coöperatieve Rabobank, Crédit Agricole CIB, Deutsche Bank, SMBC Bank EU",
+      "value": null,
+      "value_text": "€1.0B (two €500M tranches)",
+      "status": "Priced",
+      "announced": "2026-11-17",
+      "sector": "Semiconductors",
+      "take": "NXP signed an underwriting agreement for €500 million of 4.625% Senior Notes due 2034 and €500 million of 4.875% Senior Notes due 2037. The notes are senior unsecured and guaranteed by NXP Semiconductors N.V., with the sale expected to complete November 24, 2026.",
+      "source_name": "NXP Semiconductors N.V., Form 8-K (Item 8.01)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312526467184/0001193125-26-467184.txt",
+      "tickers": [
+        "NASDAQ:NXPI"
+      ],
+      "checked": "2026-11-19T01:38:59Z"
+    },
     {
       "id": "2026-11-18-panw-applied-compute",
       "time": "2026-11-19T00:44:15Z",

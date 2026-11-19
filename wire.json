@@ -1,6 +1,81 @@
 {
-  "updated": "2026-11-19T00:39:15Z",
+  "updated": "2026-11-19T01:38:59Z",
   "items": [
+    {
+      "id": "2026-11-18-mkl-buyback-up-2p5b-3p1b-available",
+      "time": "2026-11-19T01:41:59Z",
+      "tag": "EQUITIES",
+      "headline": "Markel raises buyback authorization by $2.5B; about $3.1B now available",
+      "take": "Markel Group's board approved a $2.5 billion increase on November 18, 2026 to its existing $2.0 billion share repurchase authorization. After the increase and amounts remaining under the existing authorization, about $3.1 billion is available. The filing says the program has no expiration date, does not obligate Markel to buy any particular number of shares, and can be ended by the board at any time. AlphaGen read: the new authorization is a ceiling on capacity, and actual repurchases will depend on the factors the company lists, including market conditions and capital needs.",
+      "source_name": "Markel Group Inc., Form 8-K (Item 8.01), filed Nov. 18, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000088/0001096343-26-000088.txt",
+      "ticker": "NYSE:MKL",
+      "checked": "2026-11-19T01:38:59Z"
+    },
+    {
+      "id": "2026-11-18-hpe-elliott-second-amendment-board-size",
+      "time": "2026-11-19T01:48:59Z",
+      "tag": "EQUITIES",
+      "headline": "HPE and Elliott amend cooperation agreement again, resetting board-size caps",
+      "take": "Hewlett Packard Enterprise and Elliott entities signed a second amendment, effective November 18, 2026, to their July 16, 2025 Cooperation Agreement, which was first amended on May 29, 2026. Board size may not exceed 13 directors (14 if the Investor Director is appointed before the close of the 2026 Annual Meeting) until that meeting closes, then 14 directors (15 if the Investor Director is appointed) until the Expiration Date. If the Expiration Date has not occurred before the close of the 2027 Annual Meeting, the cap falls to 13 thereafter. AlphaGen read: the amendment changes only board-size limits; all other terms remain in force per the document.",
+      "source_name": "Hewlett Packard Enterprise, Form 8-K Exhibit 99.1 (Second Amendment to Cooperation Agreement)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000092/ex991hpe-elliottsecondamen.htm",
+      "ticker": "NYSE:HPE",
+      "checked": "2026-11-19T01:38:59Z"
+    },
+    {
+      "id": "2026-11-18-apd-nominates-carol-williams-two-directors-retire",
+      "time": "2026-11-19T01:55:59Z",
+      "tag": "EQUITIES",
+      "headline": "Air Products to nominate Carol Williams; two directors won't stand in 2027",
+      "take": "Air Products announced on November 18, 2026 that it will nominate Carol Williams as an independent director candidate at its 2027 Annual Meeting of Shareholders. The company said Jessica Trocchi Graziano and Bhavesh (Bob) Patel will not stand for re-election and will retire from the board when their terms conclude. Williams spent 34 years at The Dow Chemical Company and retired at the end of 2014 as Special Advisor to the CEO. AlphaGen read: the release frames the nomination around manufacturing, supply-chain and safety experience.",
+      "source_name": "Air Products and Chemicals, Inc., Form 8-K Exhibit 99.1 news release",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2969/000119312526467126/d136262dex991.htm",
+      "ticker": "NYSE:APD",
+      "checked": "2026-11-19T01:38:59Z"
+    },
+    {
+      "id": "2026-11-18-ed-forward-sale-6m-shares-119p81",
+      "time": "2026-11-19T02:02:59Z",
+      "tag": "EQUITIES",
+      "headline": "Con Edison enters forward sale of 6 million shares at $119.81 initial price",
+      "take": "Con Edison entered into a forward sale agreement on November 16, 2026 with Bank of America, N.A. relating to 6,000,000 of its common shares. The initial forward price is $119.81 per share, subject to daily adjustment and to reductions tied to expected dividends. Con Edison expects the agreement to settle by December 31, 2027, with physical settlement unless it elects cash or net share settlement. AlphaGen read: under physical settlement, shares are issued only on the settlement date, at the then-applicable forward price.",
+      "source_name": "Consolidated Edison, Inc., Form 8-K (Items 1.01, 8.01), filed Nov. 18, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177.txt",
+      "ticker": "NYSE:ED",
+      "checked": "2026-11-19T01:38:59Z"
+    },
+    {
+      "id": "2026-11-18-nxpi-eur1b-notes-2034-2037",
+      "time": "2026-11-19T02:09:59Z",
+      "tag": "CREDIT",
+      "headline": "NXP signs underwriting for €1.0B of notes: 4.625% due 2034, 4.875% due 2037",
+      "take": "NXP B.V., NXP Funding LLC and NXP USA, Inc., together with NXP Semiconductors N.V., signed an underwriting agreement on November 17, 2026 for €500 million of 4.625% Senior Notes due 2034 and €500 million of 4.875% Senior Notes due 2037. The notes are senior unsecured obligations guaranteed by NXP Semiconductors N.V., and the sale is expected to complete on November 24, 2026, subject to customary closing conditions. AlphaGen read: the longer-dated 2037 tranche carries a coupon 0.25 percentage point above the 2034 tranche.",
+      "source_name": "NXP Semiconductors N.V., Form 8-K (Item 8.01), filed Nov. 18, 2026",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312526467184/0001193125-26-467184.txt",
+      "ticker": "NASDAQ:NXPI",
+      "checked": "2026-11-19T01:38:59Z"
+    },
+    {
+      "id": "2026-11-18-fred-brent-wti-nov17-spread-341",
+      "time": "2026-11-19T02:16:59Z",
+      "tag": "COMMODITIES",
+      "headline": "FRED: Brent $92.94, WTI $89.53 on Nov. 17; Brent down $2.48 from Nov. 12",
+      "take": "The St. Louis Fed's FRED series show Brent at $92.94 a barrel and WTI at $89.53 on November 17, a $3.41 gap. Brent was $95.42 on November 12, so it is $2.48 lower over that span. AlphaGen read: the November 12 reading of $95.42 is the highest Brent print in the window of observations shown, and the benchmark has since eased.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILBRENTEU, DCOILWTICO)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "checked": "2026-11-19T01:38:59Z"
+    },
+    {
+      "id": "2026-11-18-fred-henry-hub-nov17-310",
+      "time": "2026-11-19T02:23:59Z",
+      "tag": "ENERGY",
+      "headline": "FRED: Henry Hub gas $3.10 on Nov. 17, down from $3.26 on Nov. 13",
+      "take": "Henry Hub natural gas spot was $3.10 per million Btu on November 17 per FRED, after $3.20 on November 16 and $3.26 on November 13, a $0.16 decline from the Nov. 13 reading. It was $3.00 on each of November 10, 11 and 12. AlphaGen read: gas has stayed in a $3.00-$3.26 band over the past week of observations.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DHHNGSP)",
+      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
+      "checked": "2026-11-19T01:38:59Z"
+    },
     {
       "id": "2026-11-18-panw-q1fy27-revenue-3p44b-arr-9p73b",
       "time": "2026-11-19T00:41:15Z",
@@ -5030,79 +5105,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/DFII10",
       "checked": "2026-11-13T01:38:29Z"
-    },
-    {
-      "id": "2026-11-13-fred-30y-nov10-535",
-      "time": "2026-11-13T02:02:29Z",
-      "tag": "RATES",
-      "headline": "30-year Treasury yield 5.35% on Nov. 10, up 9 bp from 5.26% and the highest since Nov. 3",
-      "take": "The 30-year Treasury yield was 5.35% on Nov. 10, up from 5.26% on both Nov. 6 and Nov. 9. The Nov. 3 reading was 5.32%, so Nov. 10 is the highest in the Nov. 3-10 observations. AlphaGen read: the long end rose 9 bp against 17 bp at 2 years, so the 30-year minus 2-year gap narrowed to 0.62 point from 0.70.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "checked": "2026-11-13T01:38:29Z"
-    },
-    {
-      "id": "2026-11-13-fred-10y-nov10-498",
-      "time": "2026-11-13T01:51:29Z",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield 4.98% on Nov. 10, up 10 bp and above every Nov. 3-9 reading",
-      "take": "The 10-year Treasury yield was 4.98% on Nov. 10, up from 4.88% on Nov. 9. The prior high in the Nov. 3-9 observations was 4.95% on Nov. 3, and the low was 4.84% on Nov. 5. AlphaGen read: Nov. 10 more than reversed the early-November decline, leaving the 10-year 0.09 point above the 4.89% average of the five prior readings.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-13T01:38:29Z"
-    },
-    {
-      "id": "2026-11-13-fred-2y-nov10-jump",
-      "time": "2026-11-13T01:40:29Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield rose 17 bp to 4.73% on Nov. 10, the largest move in Nov. 3-10 data",
-      "take": "The 2-year Treasury constant-maturity yield was 4.73% on Nov. 10, up from 4.56% on Nov. 9 and 4.46% on Nov. 5. The 17 bp rise is the largest one-day change in the Nov. 3-10 observations (the others ranged from -12 bp to +5 bp). AlphaGen read: the front end carried the day's repricing, which is why the 10-year minus 2-year gap narrowed to 0.25 point.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-13T01:38:29Z"
-    },
-    {
-      "id": "2026-11-13-meta-eur-notes",
-      "time": "2026-11-13T00:40:35Z",
-      "tag": "CREDIT",
-      "headline": "Meta completes €9.0B euro bond offering across six maturities, 2031 to 2065",
-      "take": "Meta Platforms said it completed on Nov. 12 an offering of €9.0 billion of senior notes in six series: €1.75B 4.300% due 2031, €1.25B 4.650% due 2033, €1.0B 4.900% due 2035, €1.75B 5.400% due 2038, €1.75B 6.050% due 2044 and €1.5B 6.400% due 2065. AlphaGen read: the coupons rise with maturity, and the 2065 tranche carries the highest at 6.400%.",
-      "source_name": "SEC EDGAR, Meta Platforms Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/0001193125-26-458525.txt",
-      "ticker": "NASDAQ:META",
-      "checked": "2026-11-13T00:38:35Z"
-    },
-    {
-      "id": "2026-11-13-schw-senior-notes",
-      "time": "2026-11-13T00:47:35Z",
-      "tag": "DEBT",
-      "headline": "Schwab issues $3.0B of senior notes: floating 2030, 5.334% 2030 and 5.732% 2034",
-      "take": "Charles Schwab said it issued $300M of Floating Rate Notes due 2030, $1.3B of 5.334% Fixed-to-Floating Rate Senior Notes due 2030 and $1.4B of 5.732% Fixed-to-Floating Rate Senior Notes due 2034 on Nov. 12, with net proceeds of about $2,982 million. AlphaGen read: the three tranches total $3.0B in principal, with the 2034 notes the largest at $1.4B.",
-      "source_name": "SEC EDGAR, SCHW Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312526458663/0001193125-26-458663.txt",
-      "ticker": "NYSE:SCHW",
-      "checked": "2026-11-13T00:38:35Z"
-    },
-    {
-      "id": "2026-11-13-emr-eur-notes",
-      "time": "2026-11-13T00:54:35Z",
-      "tag": "CREDIT",
-      "headline": "Emerson prices €750M of 4.000% notes due 2032; closing expected Nov. 13",
-      "take": "Emerson Electric entered a pricing agreement on Nov. 10 for €750,000,000 of 4.000% Notes due 2032, sold to underwriters at 99.264% of principal and offered to the public at 99.639%. Closing is expected Nov. 13 and the company is applying to list the notes on the NYSE. AlphaGen read: the 0.375-point gap between the two prices is the underwriters' discount.",
-      "source_name": "SEC EDGAR, EMR Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/32604/000114036126043442/0001140361-26-043442.txt",
-      "ticker": "NYSE:EMR",
-      "checked": "2026-11-13T00:38:35Z"
-    },
-    {
-      "id": "2026-11-13-fred-henryhub-nov11",
-      "time": "2026-11-13T01:01:35Z",
-      "tag": "ENERGY",
-      "headline": "Henry Hub gas spot $3.00 on Nov. 11, up from $2.60 on Nov. 6",
-      "take": "FRED's DHHNGSP series shows Henry Hub natural gas spot at $3.00 per million BTU on Nov. 10 and Nov. 11, versus $2.89 on Nov. 9 and $2.60 on Nov. 6, a $0.40 rise over the five observations. AlphaGen read: the Nov. 11 reading is the highest of the Nov. 4-11 window.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-      "checked": "2026-11-13T00:38:35Z"
     }
   ]
 }
