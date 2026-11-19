@@ -1,6 +1,94 @@
 {
-  "updated": "2026-11-19T17:40:05Z",
+  "updated": "2026-11-19T21:39:54Z",
   "items": [
+    {
+      "id": "2026-11-19-the-close",
+      "time": "2026-11-19T21:39:54Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Walmart raises its outlook as the Philly Fed index drops and claims stay near 200,000",
+      "dek": "Walmart reported third-quarter revenue of $188.8 billion and raised its fiscal 2027 outlook, the Philadelphia Fed's factory index fell to 6.3, and Vice Chair Jefferson laid out how the Fed weighs energy and AI shocks.",
+      "key_points": [
+        "Walmart: Q3 fiscal 2027 revenue of $188.8 billion, up 5.2% (4.5% in constant currency); GAAP EPS $0.62, adjusted EPS $0.65; outlook for fiscal 2027 raised.",
+        "Philadelphia Fed: November general activity index 6.3, down from 20.9 in October; prices paid 58.2, up from 43.2.",
+        "Labor Department: initial jobless claims 203,000 for the week ended Nov. 14; four-week average 197,750; continuing claims 1.763 million.",
+        "Freddie Mac: 30-year mortgage rate 7.11% for the week ended Nov. 12, a fourth straight weekly decline; 6.24% a year ago.",
+        "Vice Chair Jefferson: inflation was already above 2% when the energy shock hit; if price pressures are contained, prioritizing downside risks to employment may be prudent."
+      ],
+      "talking_points": [
+        "Is the job market cracking? Not in this report. The Labor Department said initial jobless claims were 203,000 for the week ended Nov. 14, and the four-week average was 197,750. Continuing claims rose 70,000 to 1.763 million, which is the number to watch in coming weeks. Keeping an emergency fund and steady savings habits matters more than any single week's claims figure.",
+        "Is the Fed about to cut rates? Not from what Vice Chair Jefferson said today. He said inflation was already above the 2 percent target when the energy shock hit, and that a stronger reaction is warranted if expectations risk becoming unanchored, while employment risks could take priority if price pressures are contained. The October FOMC minutes show the Committee held the range at 3-3/4 to 4 percent. Rate decisions depend on incoming data, so it makes sense to plan around a range of outcomes rather than one.",
+        "Are mortgage rates coming down? A little. Freddie Mac's 30-year rate was 7.11 percent for the week ended Nov. 12, from 7.18 percent the week before and 6.24 percent a year ago, with the 15-year rate at 6.45 percent. Four straight weekly declines still leave rates 0.87 percentage point above last year, so buyers should budget at today's rate rather than count on a lower one."
+      ],
+      "body": [
+        {
+          "h": "Walmart reports and raises its outlook"
+        },
+        "Walmart reported third-quarter fiscal 2027 revenue of $188.8 billion, up 5.2 percent, or 4.5 percent in constant currency, and said it is raising its outlook for fiscal 2027. Operating income rose $1.1 billion, or 16.0 percent. GAAP EPS was $0.62 and adjusted EPS was $0.65, which excludes a net loss of $0.03 on equity and other investments. Global eCommerce sales grew 17 percent, advertising rose 25 percent and membership fee revenue grew 17 percent. Global inventory was up 8.1 percent, and the company said it issued $6.5 billion of long-term debt for general corporate purposes.",
+        {
+          "h": "Regional manufacturing and weekly labor data"
+        },
+        "The Philadelphia Fed's November Manufacturing Business Outlook Survey put the current general activity index at 6.3, down from 20.9 in October. The prices paid index rose to 58.2 from 43.2, and prices received rose to 47.0 from 40.1. Separately, the Labor Department reported seasonally adjusted initial jobless claims of 203,000 for the week ended Nov. 14, up 1,000 from a revised 202,000, with a four-week average of 197,750. Insured unemployment was 1,763,000 for the week ended Nov. 7, up 70,000 from a revised 1,693,000, and the insured unemployment rate was 1.1 percent.",
+        {
+          "h": "Mortgage rates"
+        },
+        "Freddie Mac's survey for the week ended Nov. 12 put the 30-year fixed rate at 7.11 percent, down from 7.18 percent the prior week and up from 6.24 percent a year ago, and the 15-year rate at 6.45 percent. The 30-year rate is 0.87 percentage point above a year ago by AlphaGen's calculation. Freddie Mac described the decline as the fourth in a row.",
+        {
+          "h": "The Fed's framework for shocks"
+        },
+        "Speaking in Brasília, Vice Chair Jefferson said the recent rise in oil prices tied to the conflict in the Middle East pushes inflation and the output gap in opposite directions. He said that when the energy shock occurred, inflation was already above the 2 percent target, that a stronger reaction is warranted if inflation expectations risk becoming unanchored, and that if price pressures are contained it may be prudent to prioritize downside risks to employment. On artificial intelligence, he said the buildout is currently exerting upward pressure on demand and inflation, while future productivity gains could exert downward pressure on inflation. He closed by saying his goal is to restore price stability while maintaining a solid labor market.",
+        {
+          "h": "Rates, credit and the Fed's balance sheet"
+        },
+        "The October FOMC minutes, released Nov. 18, say the Committee maintained the target range at 3-3/4 to 4 percent on a 10-2 vote, with Lisa D. Cook and Beth M. Hammack dissenting in favor of a quarter-point increase. FRED shows the ICE BofA high-yield option-adjusted spread at 3.47 percentage points on Nov. 18 and the investment-grade spread at 0.93, and the 5-year breakeven inflation rate at 2.23 percent. Reserve balances at Federal Reserve Banks were $2.961 trillion on Nov. 11.",
+        {
+          "h": "Reading the day"
+        },
+        "Thursday's record mixed a retailer raising its outlook with a sharp drop in a regional factory index, a weekly labor report with low initial claims, and a Fed official describing a two-sided approach to inflation and employment risks. None of the readings alone settles the direction of the economy, and the Fed speech notes the shocks are unfolding at once."
+      ],
+      "sources": [
+        {
+          "name": "Walmart Inc. (Business Wire release, Q3 FY27)",
+          "url": "https://www.businesswire.com/news/home/20261118447417/en/Walmart-reports-revenue-growth-of-5.2-up-4.5-in-constant-currency-cc"
+        },
+        {
+          "name": "Federal Reserve Bank of Philadelphia, Manufacturing Business Outlook Survey",
+          "url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/mbos-2026-11"
+        },
+        {
+          "name": "U.S. Department of Labor, Unemployment Insurance Weekly Claims",
+          "url": "https://www.dol.gov/ui/data.pdf"
+        },
+        {
+          "name": "Freddie Mac Primary Mortgage Market Survey",
+          "url": "https://www.freddiemac.com/pmms"
+        },
+        {
+          "name": "Federal Reserve Board, Vice Chair Jefferson speech, Nov. 19, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm"
+        },
+        {
+          "name": "Federal Reserve Board, FOMC minutes, Oct. 27-28, 2026",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+        },
+        {
+          "name": "FRED, BAMLH0A0HYM2",
+          "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+        },
+        {
+          "name": "FRED, T5YIE",
+          "url": "https://fred.stlouisfed.org/series/T5YIE"
+        },
+        {
+          "name": "FRED, WRESBAL",
+          "url": "https://fred.stlouisfed.org/series/WRESBAL"
+        }
+      ],
+      "tickers": [
+        "NYSE:WMT"
+      ],
+      "checked": "2026-11-19T21:39:54Z"
+    },
     {
       "id": "2026-11-19-ten-year-yield-real-rate-breakeven",
       "time": "2026-11-19T17:40:05Z",
