@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-20T15:39:31Z",
+  "updated": "2026-11-20T16:39:18Z",
   "items": [
+    {
+      "id": "2026-11-20-fred-walcl-nov18-6p741t-down-17b",
+      "time": "2026-11-20T16:42:00Z",
+      "tag": "FED",
+      "headline": "Fed total assets $6.741T on Nov. 18, down $17.4B from Nov. 11",
+      "take": "FRED's weekly series for Federal Reserve total assets shows $6,741,452 million on Nov. 18, versus $6,758,867 million on Nov. 11, a drop of $17,415 million, or about $17.4 billion. The Nov. 18 level is also $14,187 million below Oct. 14's $6,755,639 million. AlphaGen read: the balance sheet is moving by small weekly amounts rather than trending decisively.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (WALCL)",
+      "source_url": "https://fred.stlouisfed.org/series/WALCL",
+      "checked": "2026-11-20T16:39:18Z"
+    },
+    {
+      "id": "2026-11-20-fed-g17-annual-revision-nov24-noon",
+      "time": "2026-11-20T16:50:00Z",
+      "tag": "MACRO",
+      "headline": "Fed schedules Industrial Production annual revision for Nov. 24 at noon ET",
+      "take": "The Federal Reserve's release schedule lists the Industrial Production (G.17) annual revision for Tuesday, Nov. 24 at 12:00 p.m. ET. The last published October reading was an index of 103.395, per FRED. AlphaGen read: annual revisions can restate earlier monthly figures, so recent industrial-production comparisons are worth rechecking after the release.",
+      "source_name": "Federal Reserve Board, G.17 release schedule",
+      "source_url": "https://www.federalreserve.gov/RELEASES/g17/",
+      "checked": "2026-11-20T16:39:18Z"
+    },
+    {
+      "id": "2026-11-20-census-advance-indicators-nov27-0830",
+      "time": "2026-11-20T17:00:00Z",
+      "tag": "MACRO",
+      "headline": "Census lists Advance Economic Indicators Report for Nov. 27 at 8:30 a.m. ET",
+      "take": "The Census Bureau's economic-indicators calendar lists the Advance Economic Indicators Report for Friday, Nov. 27 at 8:30 a.m. ET, the day after Thanksgiving. AlphaGen read: it is one more scheduled data point in the holiday week to check against the Nov. 25 releases.",
+      "source_name": "U.S. Census Bureau, Economic Indicators calendar",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+      "checked": "2026-11-20T16:39:18Z"
+    },
+    {
+      "id": "2026-11-20-bls-jolts-oct-dec1-1000",
+      "time": "2026-11-20T17:10:00Z",
+      "tag": "MACRO",
+      "headline": "BLS schedules October JOLTS job openings for Dec. 1 at 10:00 a.m. ET",
+      "take": "The BLS release schedule lists JOLTS Job Openings for October on Tuesday, Dec. 1 at 10:00 a.m. ET. AlphaGen's earlier read of the BLS schedule has the November jobs report on Dec. 4. AlphaGen read: JOLTS adds a demand-side view of hiring to the payroll and unemployment numbers.",
+      "source_name": "U.S. Bureau of Labor Statistics, release schedule",
+      "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp",
+      "checked": "2026-11-20T16:39:18Z"
+    },
+    {
+      "id": "2026-11-20-census-construction-spending-oct-dec1-1000",
+      "time": "2026-11-20T17:20:00Z",
+      "tag": "HOUSING",
+      "headline": "Census schedules October construction spending for Dec. 1 at 10:00 a.m. ET",
+      "take": "The Census Bureau's schedule lists Construction Spending for October on Tuesday, Dec. 1 at 10:00 a.m. ET, the same hour as BLS's JOLTS. AlphaGen read: it is a complement to the October housing starts and permits already published.",
+      "source_name": "U.S. Census Bureau, Construction Spending release schedule",
+      "source_url": "https://www.census.gov/construction/c30/release.html",
+      "checked": "2026-11-20T16:39:18Z"
+    },
     {
       "id": "2026-11-20-aal-8k-item-502-officer-director-change",
       "time": "2026-11-20T16:25:31Z",
@@ -5058,56 +5108,6 @@
       "source_name": "BLS, Producer Price Index News Release (October 2026)",
       "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
       "checked": "2026-11-14T17:38:00Z"
-    },
-    {
-      "id": "2026-11-14-ppi-oct-goods-12m-10-2",
-      "time": "2026-11-14T18:16:00Z",
-      "tag": "MACRO",
-      "headline": "October PPI: final demand goods up 10.2% on the year, foods +1.3%, energy -0.1%",
-      "take": "BLS says the index for final demand goods rose 10.2% for the 12 months ended in October, the largest 12-month rise since 10.5% in October 2022. In October alone, goods rose 0.5%, foods rose 1.3% and energy edged down 0.1%. AlphaGen read: after a 2.5% jump in September, October's goods gain came from non-energy categories, with energy slightly lower.",
-      "source_name": "BLS, Producer Price Index News Release (October 2026)",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-14T17:38:00Z"
-    },
-    {
-      "id": "2026-11-14-ppi-oct-intermediate-services-6-8",
-      "time": "2026-11-14T18:06:00Z",
-      "tag": "MACRO",
-      "headline": "October PPI: services for intermediate demand +0.6%, 6.8% over 12 months",
-      "take": "The PPI index for services for intermediate demand rose 0.6% in October after 1.0% in September, with margins for trade services up 1.6% accounting for over half of the advance. Over the 12 months ended in October the index rose 6.8%, the largest 12-month advance since 6.9% in November 2022, per BLS. AlphaGen read: business-to-business service costs are rising faster than the final-demand services index, which was up 0.2% in October.",
-      "source_name": "BLS, Producer Price Index News Release (October 2026)",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-14T17:38:00Z"
-    },
-    {
-      "id": "2026-11-14-ppi-oct-processed-intermediate-14-6",
-      "time": "2026-11-14T17:56:00Z",
-      "tag": "MACRO",
-      "headline": "October PPI: processed intermediate goods +0.4%, 14.6% over 12 months",
-      "take": "Prices for processed goods for intermediate demand rose 0.4% in October, the third consecutive rise, and are up 14.6% over the 12 months ended in October, which BLS calls the largest 12-month rise since 17.2% in July 2022. Basic organic chemicals, up 3.9%, drove more than 40% of the monthly advance. AlphaGen read: input costs for producers are still running well ahead of last year even as the monthly pace slowed from 2.4% in September.",
-      "source_name": "BLS, Producer Price Index News Release (October 2026)",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-14T17:38:00Z"
-    },
-    {
-      "id": "2026-11-14-ppi-oct-unprocessed-crude-down",
-      "time": "2026-11-14T17:46:00Z",
-      "tag": "COMMODITIES",
-      "headline": "October PPI: unprocessed intermediate goods -3.1%, crude petroleum -10.3%",
-      "take": "BLS reports prices for unprocessed goods for intermediate demand fell 3.1% in October, the largest decline since a 6.6% drop in June, led by a 7.7% fall in unprocessed energy materials and a 10.3% decrease in crude petroleum. The index is still up 16.9% over the 12 months ended in October. AlphaGen read: the pipeline's raw-materials layer cooled in October while the year-over-year level remains high.",
-      "source_name": "BLS, Producer Price Index News Release (October 2026)",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-14T17:38:00Z"
-    },
-    {
-      "id": "2026-11-14-gdp-q3-quarterly-rate-0p8",
-      "time": "2026-11-14T16:41:00Z",
-      "tag": "MACRO",
-      "headline": "Q3 GDP: 3.4% annual rate is 0.8% at a quarterly rate; current-dollar GDP up 5.6%",
-      "take": "BEA's advance estimate put third-quarter real GDP growth at a 3.4% annual rate, which it states is 0.8% at a quarterly rate, after 2.2% in the second quarter. Current-dollar GDP rose at a 5.6% annual rate, and the gross domestic purchases price index rose 3.0%. AlphaGen read: the annualized headline is about four times the quarter's actual growth, and nominal growth ran 2.2 points above real.",
-      "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
-      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-      "checked": "2026-11-14T16:39:00Z"
     }
   ]
 }
