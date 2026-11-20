@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-20T13:38:50Z",
+  "updated": "2026-11-20T14:39:15Z",
   "items": [
+    {
+      "id": "2026-11-20-fred-brent-nov17-9294-vs-nov12-9542",
+      "time": "2026-11-20T15:21:15Z",
+      "tag": "COMMODITIES",
+      "headline": "Brent spot $92.94 a barrel on Nov. 17, down $2.48 from Nov. 12's $95.42",
+      "take": "FRED's Brent crude spot series (U.S. Energy Information Administration) was $92.94 per barrel on Nov. 17 and $95.42 on Nov. 12, a change of -2.48 dollars. The Nov. 10 reading was $90.16. AlphaGen read: Brent has stayed in a $90 to $96 band across the six observations in the series.",
+      "source_name": "U.S. Energy Information Administration via FRED",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "checked": "2026-11-20T14:39:15Z"
+    },
+    {
+      "id": "2026-11-20-fred-30y-2y-gap-nov18-061",
+      "time": "2026-11-20T15:11:15Z",
+      "tag": "RATES",
+      "headline": "30-year yield 5.41% and 2-year 4.80% on Nov. 18: curve gap 0.61 point, from 0.59 on Nov. 13",
+      "take": "FRED shows the 30-year Treasury yield at 5.41% and the 2-year at 4.80% on Nov. 18, a gap of 0.61 percentage points. On Nov. 13 the readings were 5.47% and 4.88%, a gap of 0.59. AlphaGen read: both ends of the curve eased over the period while the long-short gap barely moved.",
+      "source_name": "Federal Reserve Board H.15 via FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-20T14:39:15Z"
+    },
+    {
+      "id": "2026-11-20-fred-10y-sofr-gap-nov18-117",
+      "time": "2026-11-20T15:01:15Z",
+      "tag": "RATES",
+      "headline": "10-year yield 5.07% on Nov. 18 sits 1.17 points above SOFR at 3.90%",
+      "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.07% and the Secured Overnight Financing Rate at 3.90% on Nov. 18. The difference is 1.17 percentage points. AlphaGen read: the gap measures how much the market pays for ten years of duration over overnight funding.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-20T14:39:15Z"
+    },
+    {
+      "id": "2026-11-20-fred-hy-ig-gap-nov18-254",
+      "time": "2026-11-20T14:51:15Z",
+      "tag": "CREDIT",
+      "headline": "High-yield spread 3.47 points, investment-grade 0.93 on Nov. 18; gap 2.54 points",
+      "take": "ICE BofA indexes in FRED show the U.S. high-yield option-adjusted spread at 3.47 percentage points and the investment-grade spread at 0.93 on Nov. 18. The gap between them was 2.54 points, versus 2.51 on Nov. 17. AlphaGen read: both spreads moved wider on the day, with high yield moving more.",
+      "source_name": "ICE Data Indices via FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "checked": "2026-11-20T14:39:15Z"
+    },
+    {
+      "id": "2026-11-20-fred-mortgage-nov19-728-vs-10y-nov18-221",
+      "time": "2026-11-20T14:41:15Z",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate 7.28% on Nov. 19 sits 2.21 points above the 10-year Treasury yield",
+      "take": "Freddie Mac's 30-year fixed mortgage rate was 7.28% in the week of Nov. 19, up from 7.11% on Nov. 12, in FRED data. The 10-year Treasury yield was 5.07% on Nov. 18, which puts the gap at 2.21 percentage points. AlphaGen read: dates differ by a day, so treat the gap as approximate.",
+      "source_name": "Freddie Mac via FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-11-20T14:39:15Z"
+    },
     {
       "id": "2026-11-20-ecb-lagarde-digital-euro-2029-card-schemes-60pct",
       "time": "2026-11-20T13:40:50Z",
@@ -5056,56 +5106,6 @@
       "source_name": "U.S. Census Bureau and BEA, U.S. International Trade in Goods and Services, September 2026",
       "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
       "checked": "2026-11-14T15:47:00Z"
-    },
-    {
-      "id": "2026-11-14-trade-sept-3mo-avg-yoy",
-      "time": "2026-11-14T16:08:00Z",
-      "tag": "MACRO",
-      "headline": "Trade: 3-month average imports up $65.4B on the year vs exports up $28.9B",
-      "take": "For the three months ending September, average exports were up $28.9 billion from the same period a year earlier and average imports were up $65.4 billion. The $36.5 billion difference is the year-over-year widening in the average deficit, which stood at $101.2 billion. AlphaGen read: the three-month view is widening even as the year-to-date total is narrowing, so the comparison period matters.",
-      "source_name": "U.S. Census Bureau and BEA, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-14T15:47:00Z"
-    },
-    {
-      "id": "2026-11-14-pce-aug-vs-sep-real-spending",
-      "time": "2026-11-14T16:16:00Z",
-      "tag": "MACRO",
-      "headline": "Consumer spending: nominal +0.5% in Sept vs +0.9% in Aug; real flat after +0.5%",
-      "take": "BEA's table shows current-dollar personal consumption expenditures rose 0.9% in August and 0.5% in September, while real PCE went from +0.5% to 0.0%. The PCE price index rose 0.5% in September after 0.3% in August, and real disposable income fell 0.3% after 0.0%. AlphaGen read: September's spending gain was absorbed almost entirely by higher prices.",
-      "source_name": "U.S. Bureau of Economic Analysis, Personal Income and Outlays, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-      "checked": "2026-11-14T15:47:00Z"
-    },
-    {
-      "id": "2026-11-14-trade-sept-services-detail",
-      "time": "2026-11-14T16:24:00Z",
-      "tag": "MACRO",
-      "headline": "Services trade: exports up $0.7B to $110.5B, imports up $0.8B to $79.7B in Sept",
-      "take": "BEA reports September exports of services rose $0.7 billion to $110.5 billion, led by a $0.3 billion increase in travel, while imports of services rose $0.8 billion to $79.7 billion, with travel up $0.5 billion and transport up $0.2 billion. The services surplus was $30.9 billion as reported. AlphaGen read: services trade changed little in September, so the monthly movement in the deficit came mostly from goods.",
-      "source_name": "U.S. Census Bureau and BEA, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-14T15:47:00Z"
-    },
-    {
-      "id": "2026-11-14-fsr-hedge-fund-leverage-record",
-      "tag": "FED",
-      "headline": "Fed stability report: hedge fund leverage highest since data began in 2013",
-      "take": "The Fed's November 2026 Financial Stability Report says leverage at hedge funds reached the highest level since the data began in 2013, and that hedge fund gross asset value rose from $4 trillion in 2012 to $13 trillion in 2026. The report generally reflects information available as of Oct. 28, 2026. AlphaGen read: the Fed is flagging leverage outside the banking system as a vulnerability to watch.",
-      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
-      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-      "time": "2026-11-14T14:45:00Z",
-      "checked": "2026-11-14T14:39:57Z"
-    },
-    {
-      "id": "2026-11-14-fsr-bank-securities-330b-below-book",
-      "tag": "FED",
-      "headline": "Fed stability report: bank securities fair value about $330B below book in Q2",
-      "take": "The Fed's November 2026 Financial Stability Report says fair values of banks' available-for-sale and held-to-maturity portfolios were roughly $330 billion below their combined book value in the second quarter of 2026. It adds that yields rising through late October could add further downward pressure. AlphaGen read: higher Treasury yields flow directly into unrealized bank losses.",
-      "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
-      "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-      "time": "2026-11-14T14:53:00Z",
-      "checked": "2026-11-14T14:39:57Z"
     }
   ]
 }
