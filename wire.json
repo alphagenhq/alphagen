@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-20T00:38:44Z",
+  "updated": "2026-11-20T01:39:31Z",
   "items": [
+    {
+      "id": "2026-11-20-bea-nov25-gdp-second-estimate-pce-october",
+      "time": "2026-11-20T01:41:31Z",
+      "tag": "MACRO",
+      "headline": "BEA schedules Q3 GDP second estimate and October PCE for Nov. 25, 8:30 a.m.",
+      "take": "BEA's release schedule lists \"GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026\" and \"Personal Income and Outlays, October 2026\" for Nov. 25 at 8:30 AM, both at the same time. AlphaGen read: the two releases landing together put the revised growth picture and October's income and spending data in front of markets in a single morning ahead of the Thanksgiving holiday.",
+      "source_name": "U.S. Bureau of Economic Analysis, Release Schedule",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "checked": "2026-11-20T01:39:31Z"
+    },
+    {
+      "id": "2026-11-20-fed-beige-book-nov25-2pm",
+      "time": "2026-11-20T01:51:31Z",
+      "tag": "FED",
+      "headline": "Fed calendar lists the Beige Book for Wednesday, Nov. 25, at 2:00 p.m.",
+      "take": "The Federal Reserve Board's November 2026 calendar lists the Beige Book at 2:00 p.m. on Nov. 25. The Beige Book summarizes commentary on current economic conditions from the Fed's districts. AlphaGen read: it arrives the same day as BEA's GDP and personal income and outlays releases, giving anecdotal context to the hard data.",
+      "source_name": "Federal Reserve Board, Calendar: November 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-20T01:39:31Z"
+    },
+    {
+      "id": "2026-11-20-fred-10y-nominal-real-breakeven-nov18",
+      "time": "2026-11-20T02:01:31Z",
+      "tag": "RATES",
+      "headline": "FRED: 10-year yield 5.07% on Nov. 18 splits into 2.88% real and 2.19% breakeven",
+      "take": "FRED shows the 10-year Treasury yield at 5.07% on Nov. 18, the 10-year inflation-indexed (TIPS) yield at 2.88% and the 10-year breakeven inflation rate at 2.19%. The 10-year real yield was 2.91% on Nov. 13 and the breakeven 2.24%. AlphaGen read: the real yield accounts for most of the 5.07% level, with the breakeven rate contributing 2.19 points.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), DGS10, DFII10, T10YIE",
+      "source_url": "https://fred.stlouisfed.org/series/DFII10",
+      "checked": "2026-11-20T01:39:31Z"
+    },
+    {
+      "id": "2026-11-20-fed-cook-waller-speeches-nov20",
+      "time": "2026-11-20T02:11:31Z",
+      "tag": "FED",
+      "headline": "Fed calendar: Waller opens College Fed Challenge Finals; Cook speaks in Chile Nov. 20",
+      "take": "The Federal Reserve Board's calendar lists Governor Christopher J. Waller's welcoming remarks at the College Fed Challenge Finals at 8:25 a.m. on Nov. 20, and Governor Lisa D. Cook's speech \"The U.S. Economy in Global Context\" at the Annual Conference of the Central Bank of Chile in Santiago at 12:15 p.m. the same day. AlphaGen read: Cook's is the only economic-outlook speech on the Board's calendar for the day.",
+      "source_name": "Federal Reserve Board, Calendar: November 2026",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+      "checked": "2026-11-20T01:39:31Z"
+    },
+    {
+      "id": "2026-11-20-bea-dec2-county-gdp-income-dec8-trade",
+      "time": "2026-11-20T02:24:31Z",
+      "tag": "MACRO",
+      "headline": "BEA schedule: county GDP and income data Dec. 2; October trade report Dec. 8",
+      "take": "BEA's schedule lists \"GDP by County and Personal Income by County, 2025\" for Dec. 2 at 8:30 AM and \"U.S. International Trade in Goods and Services, October 2026\" on Dec. 8. AlphaGen read: the Dec. 2 release is a regional, annual look at 2025 and is separate from the Nov. 25 national releases.",
+      "source_name": "U.S. Bureau of Economic Analysis, Release Schedule",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "checked": "2026-11-20T01:39:31Z"
+    },
     {
       "id": "2026-11-20-fred-treasury-yields-nov18-2y-480-10y-507-30y-541",
       "time": "2026-11-20T00:43:00Z",
@@ -5052,56 +5102,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
       "checked": "2026-11-14T02:39:37Z"
-    },
-    {
-      "id": "2026-11-14-fred-curve-since-nov6-2y-leads",
-      "time": "2026-11-14T02:54:37Z",
-      "tag": "RATES",
-      "headline": "2-year yield up 35 bp since Nov. 6, 10-year up 24 bp, 30-year up 17 bp",
-      "take": "FRED shows the 2-year Treasury yield at 4.86% on Nov. 12 versus 4.51% on Nov. 6, the 10-year at 5.10% versus 4.86%, and the 30-year at 5.43% versus 5.26%. That is rises of 35, 24 and 17 basis points, so the 30-year minus 2-year gap narrowed to 0.57 point from 0.75 (AlphaGen calculation). AlphaGen read: shorter maturities led the climb across the Nov. 6-12 observations.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-14T02:39:37Z"
-    },
-    {
-      "id": "2026-11-14-schnabel-life-expectancy-health-spending",
-      "time": "2026-11-14T03:04:37Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: child born in Spain or Italy can expect to live five years longer than in U.S.",
-      "take": "ECB Executive Board member Isabel Schnabel said in her Nov. 13 speech that a child born in Spain or Italy can expect to live five years longer than a child born in the United States, despite the United States spending a far larger share of GDP on healthcare than any other advanced economy. She cited the point alongside happiness and life satisfaction, which she said consistently rank among the highest in the world in Europe. AlphaGen read: she uses wellbeing measures to challenge the view of Europe as a continent in decline.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-      "checked": "2026-11-14T02:39:37Z"
-    },
-    {
-      "id": "2026-11-14-schnabel-austria-france-core",
-      "time": "2026-11-14T03:14:37Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: Austria was in recession in 2023 and 2024; French deficit cuts stalled",
-      "take": "ECB's Isabel Schnabel said in her Nov. 13 speech that in France, efforts to reduce the fiscal deficit have stalled due to political resistance, and that Austria was in recession both in 2023 and 2024 and grew only moderately in 2025. She described headwinds as felt most acutely in the euro area's traditional core, albeit for different reasons. AlphaGen read: her contrast is between core economies and the southern countries she called among Europe's fastest growing.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-      "checked": "2026-11-14T02:39:37Z"
-    },
-    {
-      "id": "2026-11-13-fred-10y-nov12-510",
-      "time": "2026-11-14T01:38:16Z",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield 5.10% on Nov. 12, up 12 bp and above every Nov. 4-12 reading",
-      "take": "FRED's 10-year constant-maturity yield was 5.10% on Nov. 12, up 12 basis points from 4.98% on Nov. 10 (no Nov. 11 observation) and above every other reading from Nov. 4 to Nov. 12, which ranged 4.84%-4.98% before it. The 10-year sat 1.20 points above SOFR's 3.90% for the same day (AlphaGen calculation). AlphaGen read: the move continues the climb from 4.88% on Nov. 9.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-14T01:38:22Z"
-    },
-    {
-      "id": "2026-11-13-fred-2y-nov12-486",
-      "time": "2026-11-14T01:48:16Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 4.86% on Nov. 12, up 13 bp from 4.73% on Nov. 10",
-      "take": "FRED shows the 2-year Treasury yield at 4.86% on Nov. 12, up 13 basis points from 4.73% on Nov. 10 and the highest of the Nov. 4-12 observations, which began at 4.58%. That is 0.86 point above the 4.00% top of the 3.75%-4.00% fed funds target range (AlphaGen calculation). AlphaGen read: short-end yields are pricing well above current policy settings.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-14T01:38:22Z"
     }
   ]
 }
