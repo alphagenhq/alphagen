@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-20T02:39:28Z",
+ "updated": "2026-11-20T03:38:46Z",
  "items": [
+  {
+   "id": "2026-11-20-fred-cpi-3m-annualized-oct-5p7",
+   "time": "2026-11-20T03:40:00Z",
+   "tag": "MACRO",
+   "headline": "CPI all-items index up 1.4% in three months to October, a 5.7% annual pace",
+   "take": "FRED's seasonally adjusted CPI index was 337.476 in October, up 0.35% from 336.298 in September and 1.40% from 332.813 in July. Compounded over four quarters, the July–October gain equals a 5.7% annual rate. AlphaGen read: the headline index has run well ahead of the core index, which rose 0.92% over the same three months, a 3.7% annual pace.",
+   "source_name": "BLS Consumer Price Index via FRED (CPIAUCSL, CPILFESL)",
+   "source_url": "https://fred.stlouisfed.org/series/CPIAUCSL",
+   "checked": "2026-11-20T03:38:46Z"
+  },
+  {
+   "id": "2026-11-20-fred-core-pce-sep-130p902",
+   "time": "2026-11-20T03:48:00Z",
+   "tag": "FED",
+   "headline": "Core PCE index 130.902 in September, up 0.32% on the month",
+   "take": "FRED's core PCE price index (excluding food and energy) was 130.902 in September, up from 130.489 in August and 129.969 in June. That is a 0.32% monthly gain and a 2.9% annualized pace over June–September. AlphaGen read: core PCE, the Fed's preferred inflation gauge, has been running below the 3.7% annualized pace of core CPI over July–October, though the two cover different months and baskets.",
+   "source_name": "BEA Personal Consumption Expenditures via FRED (PCEPILFE)",
+   "source_url": "https://fred.stlouisfed.org/series/PCEPILFE",
+   "checked": "2026-11-20T03:38:46Z"
+  },
+  {
+   "id": "2026-11-20-bls-unemployment-rate-oct-4p1",
+   "time": "2026-11-20T03:56:00Z",
+   "tag": "MACRO",
+   "headline": "Unemployment rate 4.1% in October, 7.1M unemployed; range 4.1%–4.3% since March",
+   "take": "BLS said the unemployment rate changed little at 4.1% in October and the number of unemployed people, at 7.1 million, was little changed. The rate has stayed in a narrow range of 4.1% to 4.3% since March, and FRED shows 4.2% in September and 4.1% in July and August. AlphaGen read: a labor market that is not loosening keeps the Fed's focus on inflation.",
+   "source_name": "BLS Employment Situation, October 2026",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-20T03:38:46Z"
+  },
+  {
+   "id": "2026-11-20-fred-bbb-spread-nov18-116",
+   "time": "2026-11-20T04:04:00Z",
+   "tag": "CREDIT",
+   "headline": "BBB corporate spread 1.16 points on Nov. 18, up from 1.11 on Nov. 13",
+   "take": "FRED's ICE BofA BBB option-adjusted spread was 1.16 percentage points on Nov. 18, up from 1.12 on Nov. 16, 1.15 on Nov. 17 and 1.11 on Nov. 13. The broad investment-grade index spread was 0.93 on Nov. 18, so BBB paper carried 0.23 point more than the index. AlphaGen read: the BBB gap widened 5 basis points in three sessions.",
+   "source_name": "ICE Data Indices via FRED (BAMLC0A4CBBB, BAMLC0A0CM)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A4CBBB",
+   "checked": "2026-11-20T03:38:46Z"
+  },
+  {
+   "id": "2026-11-20-census-qss-q3-benchmark-revision",
+   "time": "2026-11-20T04:12:00Z",
+   "tag": "MACRO",
+   "headline": "Census revises Quarterly Services estimates with the Q3 advance release",
+   "take": "Census says that effective with the November 2026 advance release for the third quarter of 2026, not seasonally adjusted Quarterly Services estimates were revised for historical corrections and the 2023 and 2024 Annual Integrated Economic Survey results. The seasonally adjusted Selected Services Total was also revised, with new seasonal factors. AlphaGen read: BEA uses the survey in its GDP estimates, so the revisions bear on the Nov. 25 GDP second estimate.",
+   "source_name": "U.S. Census Bureau, Quarterly Services Survey",
+   "source_url": "https://www.census.gov/services/index.html",
+   "checked": "2026-11-20T03:38:46Z"
+  },
   {
    "id": "2026-11-20-fred-reserves-nov18-2p980t-tga-917b",
    "time": "2026-11-20T02:46:00Z",
@@ -5052,56 +5102,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS)",
    "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
    "checked": "2026-11-14T12:38:20Z"
-  },
-  {
-   "id": "2026-11-14-jefferson-productivity-2-2-vs-1-5",
-   "time": "2026-11-14T11:40:40Z",
-   "tag": "FED",
-   "headline": "Jefferson: productivity growth averaged 2.2% in 2020-25, up from 1.5% last cycle",
-   "take": "Fed Vice Chair Philip Jefferson said labor productivity growth averaged 2.2 percent between 2020 and 2025, up from 1.5 percent over the previous business cycle. He noted the pickup began before popular AI chatbots debuted in 2022 and said it is too early to say what role AI played. His judgment is that AI's contribution to aggregate productivity so far appears limited but has the potential to grow quite substantially. AlphaGen read: the Fed's No. 2 official is treating AI as a possible supply-side story rather than a settled one.",
-   "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "checked": "2026-11-14T11:38:40Z"
-  },
-  {
-   "id": "2026-11-14-cftc-sues-louisiana-event-contracts",
-   "time": "2026-11-14T11:50:40Z",
-   "tag": "COMMODITIES",
-   "headline": "CFTC sues Louisiana, its 12th state suit, over event-contract ban",
-   "take": "The CFTC said it sued Louisiana to block the state from prohibiting event contracts offered by CFTC-regulated exchanges, brokers and clearinghouses. The agency said Louisiana obtained a state court order Thursday shutting down more than 30 companies connected to trading of CFTC-regulated derivatives. Louisiana is the 12th state the CFTC has sued, and it has also filed amicus briefs in four federal appeals courts and one state supreme court. AlphaGen read: the jurisdiction fight over prediction markets keeps widening state by state.",
-   "source_name": "CFTC, Release 9326-26",
-   "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
-   "checked": "2026-11-14T11:38:40Z"
-  },
-  {
-   "id": "2026-11-14-jefferson-ai-adoption-25-pct-firms",
-   "time": "2026-11-14T12:00:40Z",
-   "tag": "MACRO",
-   "headline": "Jefferson: ~25% of U.S. firms use AI, near 40% in professional services and information",
-   "take": "In his Nov. 13 speech, Fed Vice Chair Jefferson said surveys find 40 to 50 percent of working adults use generative AI in their jobs, though only a modest fraction use it every day. He said a Census Bureau survey shows roughly 25 percent of all U.S. firms using it in at least one business function, close to 40 percent in knowledge-intensive sectors such as professional services and information, and around 10 percent in mining and in leisure and hospitality. AlphaGen read: adoption is broad among workers but uneven across industries.",
-   "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "checked": "2026-11-14T11:38:40Z"
-  },
-  {
-   "id": "2026-11-14-jefferson-solow-it-capital-three-quarter-point",
-   "time": "2026-11-14T12:10:40Z",
-   "tag": "FED",
-   "headline": "Jefferson: IT capital added ~3/4 point to annual productivity growth in late 1990s",
-   "take": "Fed Vice Chair Jefferson said investment in information technology capital raised the annual growth rate of labor productivity by about 3/4 percentage point in the late 1990s. He noted that 32 percent of workers used computers at work in 1989, when national computer spending was barely detectable, a few years after Robert Solow's 1987 remark about the productivity statistics. AlphaGen read: Jefferson uses the computer era to argue that technology's payoff can take years to show up in the data.",
-   "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "checked": "2026-11-14T11:38:40Z"
-  },
-  {
-   "id": "2026-11-14-eia-steo-coal-consumption-419",
-   "time": "2026-11-14T03:44:14Z",
-   "tag": "ENERGY",
-   "headline": "EIA outlook: coal use 419M short tons in 2026, down 7%; 398M in 2027",
-   "take": "EIA's November Short-Term Energy Outlook forecasts U.S. coal consumption of 419 million short tons in 2026, a 7% decrease from 2025, and a further 5% decline in 2027 to 398 million. It expects coal production of 518 million short tons in 2026 and 495 million in 2027, and coal's share of U.S. generation falling from 17% in 2025 to 15% by 2027. AlphaGen read: the forecast has coal use falling in both years as its generation share shrinks.",
-   "source_name": "EIA, Short-Term Energy Outlook",
-   "source_url": "https://www.eia.gov/outlooks/steo/report/elec_coal_renew.php",
-   "checked": "2026-11-14T03:39:14Z"
   }
  ]
 }
