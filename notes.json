@@ -12,7 +12,7 @@
         "Stocks started the 2026 season at 1,878 Bcf, 63 Bcf (3%) above average; net injections were 2 Bcf below average.",
         "The surplus peaked at 198 Bcf (7%) in the week ending Aug. 7 before narrowing for 10 straight weeks.",
         "EIA's November outlook projects 1,900 Bcf of heating-season withdrawals and end-of-March inventories 4% above the five-year average.",
-        "FRED's Henry Hub spot was $3.10 on Nov. 17; EIA's Nov. 10 release averaged $2.87 for Nov.–March."
+        "FRED's Henry Hub spot was $3.10 on Nov. 17, up from $3.00 on Nov. 10."
       ],
       "body": [
         "Natural gas storage is the buffer that carries the U.S. through winter, and the Energy Information Administration's latest analysis describes where that buffer stands as the heating season begins.",
@@ -28,8 +28,8 @@
         {
           "h": "What EIA expects for the winter"
         },
-        "In its November Short-Term Energy Outlook, EIA forecasts withdrawals of 1,900 Bcf over the Nov. 1–March 31 heating season and inventories 4% above the five-year (2022–2026) average at the end of March 2027, citing a relatively mild winter and higher production. Separately, EIA's Nov. 10 release put the Henry Hub spot price at an average of $2.87 per million Btu for November through March, and FRED's daily Henry Hub series read $3.10 on Nov. 17.",
-        "AlphaGen read: the forecast depends on the weather. Storage is a cushion, not a guarantee, and a colder winter would draw it down faster than EIA's 1,900 Bcf baseline. For households, natural gas heating costs are tied to both weather and the price path EIA publishes each month, so the Short-Term Energy Outlook is the place to watch for revisions. This is general education, not a forecast of prices."
+        "In its November Short-Term Energy Outlook, EIA forecasts withdrawals of 1,900 Bcf over the Nov. 1–March 31 heating season and inventories 4% above the five-year (2022–2026) average at the end of March 2027, citing a relatively mild winter and higher production. Separately, FRED's daily Henry Hub spot series read $3.10 on Nov. 17, versus $3.00 on Nov. 10.",
+        "AlphaGen read: the forecast depends on the weather. Storage is a cushion, not a guarantee, and a colder winter would draw it down faster than EIA's 1,900 Bcf baseline. For households, natural gas heating costs are tied to both weather and EIA's monthly forecasts, so the Short-Term Energy Outlook is the place to watch for revisions. This is general education, not a forecast of prices."
       ],
       "sources": [
         {
