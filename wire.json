@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-19T23:45:00Z",
+  "updated": "2026-11-20T00:38:44Z",
   "items": [
+    {
+      "id": "2026-11-20-fred-treasury-yields-nov18-2y-480-10y-507-30y-541",
+      "time": "2026-11-20T00:43:00Z",
+      "tag": "RATES",
+      "headline": "FRED: 10-year yield 5.07% on Nov. 18, down 3 bp; 2-year unchanged at 4.80%",
+      "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.07% on Nov. 18, down from 5.10% on Nov. 17 and 5.15% on Nov. 13. The 2-year was unchanged at 4.80% and the 30-year fell to 5.41% from 5.46%. AlphaGen read: the day's move was concentrated in longer maturities while the 2-year held flat.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), DGS10",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-20T00:38:44Z"
+    },
+    {
+      "id": "2026-11-20-fred-10y-2y-spread-nov19-028",
+      "time": "2026-11-20T00:53:00Z",
+      "tag": "RATES",
+      "headline": "FRED: 10-year minus 2-year Treasury spread 0.28 point on Nov. 19, from 0.27",
+      "take": "FRED's 10-year minus 2-year Treasury constant-maturity spread was 0.28 percentage point on Nov. 19, up from 0.27 on Nov. 18 and below 0.30 on Nov. 17. The spread has stayed between 0.24 and 0.30 point in the dated observations from Nov. 12 to Nov. 19. AlphaGen read: the curve has been steady in a narrow range over the past week.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), T10Y2Y",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-20T00:38:44Z"
+    },
+    {
+      "id": "2026-11-20-fred-rrp-nov19-405m",
+      "time": "2026-11-20T01:03:00Z",
+      "tag": "FED",
+      "headline": "FRED: Fed reverse repo usage $0.405B on Nov. 19, up from $0.331B a day earlier",
+      "take": "FRED shows overnight reverse repurchase agreement usage at the Federal Reserve at $0.405 billion on Nov. 19, up from $0.331 billion on Nov. 18 and $0.351 billion on Nov. 17. Usage was $0.250 billion on Nov. 12. AlphaGen read: usage stayed below $0.5 billion on every dated observation shown from Nov. 12 to Nov. 19.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), RRPONTSYD",
+      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+      "checked": "2026-11-20T00:38:44Z"
+    },
+    {
+      "id": "2026-11-20-fred-2y-sofr-gap-nov18-090",
+      "time": "2026-11-20T01:13:00Z",
+      "tag": "RATES",
+      "headline": "FRED: 2-year yield 0.90 point above SOFR on Nov. 18; SOFR 3.90%",
+      "take": "FRED shows SOFR at 3.90% on Nov. 18, down from 3.92% on Nov. 17, while the 2-year Treasury yield was 4.80%, a gap of 0.90 percentage point versus 0.88 a day earlier. AlphaGen read: a 2-year yield above the overnight rate points to markets pricing short-term rates higher than today's.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), SOFR and DGS2",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "checked": "2026-11-20T00:38:44Z"
+    },
+    {
+      "id": "2026-11-20-fred-30y-10y-gap-nov18-034",
+      "time": "2026-11-20T01:23:00Z",
+      "tag": "RATES",
+      "headline": "FRED: 30-year yield 0.34 pt above 10-year on Nov. 18, versus 0.36 a day earlier",
+      "take": "FRED shows the 30-year Treasury yield at 5.41% and the 10-year at 5.07% on Nov. 18, a gap of 0.34 percentage point, down from 0.36 on Nov. 17 (5.46% and 5.10%). The 30-year fell 5 basis points on the day, against 3 for the 10-year. AlphaGen read: the long end fell a bit more than the 10-year.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED), DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-20T00:38:44Z"
+    },
     {
       "id": "2026-11-19-intu-mailchimp-sale-bending-spoons-3p68b",
       "time": "2026-11-19T23:40:00Z",
@@ -5052,58 +5102,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/DGS2",
       "checked": "2026-11-14T01:38:22Z"
-    },
-    {
-      "id": "2026-11-13-fred-30y-nov12-543",
-      "time": "2026-11-14T01:58:16Z",
-      "tag": "RATES",
-      "headline": "30-year Treasury yield 5.43% on Nov. 12, up 8 bp; 0.33 point above the 10-year",
-      "take": "The 30-year constant-maturity yield was 5.43% on Nov. 12 per FRED, up 8 basis points from 5.35% on Nov. 10 and 15 bp above its 5.28% reading on Nov. 4. It stood 0.33 point above the 10-year's 5.10% (AlphaGen calculation). AlphaGen read: the 30-year-minus-10-year gap narrowed to 0.33 point from 0.37 on Nov. 10 as the 10-year rose faster.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "checked": "2026-11-14T01:38:22Z"
-    },
-    {
-      "id": "2026-11-13-fred-10y-real-yield-nov12-286",
-      "time": "2026-11-14T02:08:16Z",
-      "tag": "RATES",
-      "headline": "10-year real yield 2.86% on Nov. 12, up 8 bp; breakeven unchanged near 2.24%",
-      "take": "FRED's 10-year inflation-indexed yield was 2.86% on Nov. 12, up 8 basis points from 2.78% on Nov. 10 and the highest of the Nov. 4-12 observations (2.60%-2.78% before). With the 10-year breakeven at 2.24%, real yield plus breakeven sums to 5.10%, matching the nominal 10-year (AlphaGen calculation). AlphaGen read: the rise in the nominal 10-year came from the real component, not inflation compensation.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-14T01:38:22Z"
-    },
-    {
-      "id": "2026-11-13-fred-10s2s-nov13-027",
-      "time": "2026-11-14T02:18:16Z",
-      "tag": "RATES",
-      "headline": "10-year minus 2-year Treasury spread 0.27 point on Nov. 13, from 0.24 on Nov. 12",
-      "take": "FRED's 10-year minus 2-year Treasury spread was 0.27 point on Nov. 13, up 3 basis points from 0.24 on Nov. 12 and 0.25 on Nov. 10. It was 0.38 on Nov. 5. AlphaGen read: the curve widened slightly on Friday after narrowing in the prior week, which suggests longer yields rose faster than 2-year yields on the day.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-      "checked": "2026-11-14T01:38:22Z"
-    },
-    {
-      "id": "2026-11-13-qcom-5-tranche-notes",
-      "time": "2026-11-14T00:47:12Z",
-      "tag": "DEBT",
-      "headline": "Qualcomm sells $4.0B of senior notes in five tranches, due 2028-2036",
-      "take": "Qualcomm's 8-K says it executed an officers' certificate on Nov. 12 for $750M of 5.000% notes due 2028, $750M of 5.150% due 2029, $1.0B of 5.350% due 2031, $750M of 5.600% due 2033 and $750M of 5.800% due 2036, which sum to $4.0B (AlphaGen calculation). The notes are senior unsecured and pay interest semiannually starting May 20, 2027. AlphaGen read: coupons step up 80 basis points from the 2028 to the 2036 tranche.",
-      "source_name": "SEC EDGAR, QCOM Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm",
-      "ticker": "NASDAQ:QCOM",
-      "checked": "2026-11-14T00:39:12Z"
-    },
-    {
-      "id": "2026-11-13-bkng-eur-notes-3550m",
-      "time": "2026-11-14T00:53:12Z",
-      "tag": "DEBT",
-      "headline": "Booking Holdings sells €3.55B of senior notes in four tranches, 2029-2038",
-      "take": "Booking Holdings' 8-K reports the sale of €1.25B of 3.950% notes due 2029, €800M of 4.375% due 2032, €750M of 4.750% due 2035 and €750M of 5.000% due 2038, totaling €3.55B (AlphaGen calculation). The notes are general senior unsecured obligations, with interest payable each Nov. 13 beginning in 2027. AlphaGen read: the coupon rises 105 basis points from the shortest to the longest tranche.",
-      "source_name": "SEC EDGAR, BKNG Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm",
-      "ticker": "NASDAQ:BKNG",
-      "checked": "2026-11-14T00:39:12Z"
     }
   ]
 }
