@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T15:30:09Z",
+ "updated": "2026-11-20T22:19:58Z",
  "items": [
+  {
+   "id": "live-0001193125-26-470380-1.01",
+   "time": "2026-11-20T21:37:28Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Energy Transfer LP discloses a material agreement",
+   "take": "Energy Transfer LP reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:37 PM ET, Nov 20.",
+   "source_name": "SEC EDGAR, ET Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526470380/0001193125-26-470380-index.htm",
+   "ticker": "NYSE:ET"
+  },
+  {
+   "id": "live-0001489393-26-000072-5.02",
+   "time": "2026-11-20T21:18:41Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Lyondellbasell Industries reports an executive or board change",
+   "take": "Lyondellbasell Industries reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:18 PM ET, Nov 20.",
+   "source_name": "SEC EDGAR, LYB Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939326000072/0001489393-26-000072-index.htm",
+   "ticker": "NYSE:LYB"
+  },
   {
    "id": "live-0000006201-26-000081-5.02",
    "time": "2026-11-20T14:15:16Z",
@@ -3278,28 +3300,6 @@
    "source_name": "SEC EDGAR, COR Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465926117576/0001104659-26-117576-index.htm",
    "ticker": "NYSE:COR"
-  },
-  {
-   "id": "live-0000753308-26-000077-2.02",
-   "time": "2026-10-21T11:40:10Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "NextEra Energy releases financial results",
-   "take": "NextEra Energy filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:40 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, NEE Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/0000753308-26-000077-index.htm",
-   "ticker": "NYSE:NEE"
-  },
-  {
-   "id": "live-0001628280-26-066601-2.02",
-   "time": "2026-10-21T11:36:13Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Abbott Laboratories releases financial results",
-   "take": "Abbott Laboratories filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:36 AM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, ABT Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/0001628280-26-066601-index.htm",
-   "ticker": "NYSE:ABT"
   }
  ]
 }
