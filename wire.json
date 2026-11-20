@@ -1,6 +1,58 @@
 {
-  "updated": "2026-11-20T14:39:15Z",
+  "updated": "2026-11-20T15:39:31Z",
   "items": [
+    {
+      "id": "2026-11-20-aal-8k-item-502-officer-director-change",
+      "time": "2026-11-20T16:25:31Z",
+      "tag": "EQUITIES",
+      "headline": "American Airlines Group files 8-K Item 5.02 reporting an officer or director change",
+      "take": "American Airlines Group filed a Form 8-K under Item 5.02, which covers departures or appointments of directors or certain officers and compensatory arrangements, at 9:15 AM ET on Nov. 20. AlphaGen's filing alert does not state who is involved or what the change is. AlphaGen read: the filing text itself is the place to confirm names and effective dates before drawing conclusions.",
+      "source_name": "SEC EDGAR, AAL Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081-index.htm",
+      "ticker": "NASDAQ:AAL",
+      "checked": "2026-11-20T15:39:31Z"
+    },
+    {
+      "id": "2026-11-20-pypl-8k-item-502-officer-director-change",
+      "time": "2026-11-20T16:14:31Z",
+      "tag": "EQUITIES",
+      "headline": "PayPal files 8-K Item 5.02 reporting an officer or director change",
+      "take": "PayPal Holdings filed a Form 8-K under Item 5.02, which covers departures or appointments of directors or certain officers and compensatory arrangements, at 7:56 AM ET on Nov. 20. AlphaGen's filing alert does not state who is involved or what the change is. AlphaGen read: the filing text itself is the place to confirm names and effective dates before drawing conclusions.",
+      "source_name": "SEC EDGAR, PYPL Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm",
+      "ticker": "NASDAQ:PYPL",
+      "checked": "2026-11-20T15:39:31Z"
+    },
+    {
+      "id": "2026-11-20-ecb-lagarde-recovery-fund-800b-safe-150b",
+      "time": "2026-11-20T16:03:31Z",
+      "tag": "GLOBAL",
+      "headline": "Lagarde cites €800B EU recovery fund and up to €150B in SAFE defence loans",
+      "take": "Lagarde said the EU created a recovery fund financed by common debt to the tune of €800 billion, and that Europe agreed on Security Action for Europe (SAFE), which offers up to €150 billion in loans for joint defence procurement. She argued Europe acts decisively when the cost of inaction is plainly greater than the cost of acting, but struggles with slow-moving problems. AlphaGen read: the speech is a case for acting before costs become visible, rather than a policy announcement.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "checked": "2026-11-20T15:39:31Z"
+    },
+    {
+      "id": "2026-11-20-ecb-lagarde-council-capital-markets-supervision-carve-outs",
+      "time": "2026-11-20T15:52:31Z",
+      "tag": "GLOBAL",
+      "headline": "Lagarde: Council's capital-markets supervision stance has 'too many carve-outs'",
+      "take": "Lagarde said the Council has just agreed its position on strengthening the supervision of capital markets, which she called welcome, but that the position weakens the European supervisor's ability to take effective decisions and includes too many carve-outs. She said Europe has agreed for more than a decade that it needs a capital markets union. AlphaGen read: the remarks point to the legislative process, not ECB rates, as the open constraint on deeper EU capital markets.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "checked": "2026-11-20T15:39:31Z"
+    },
+    {
+      "id": "2026-11-20-ecb-lagarde-ai-compute-5-to-15pct-1p3t",
+      "time": "2026-11-20T15:41:31Z",
+      "tag": "GLOBAL",
+      "headline": "Lagarde: lifting Europe's AI compute share from ~5% to 15% by 2030 needs ~€1.3T",
+      "take": "In her Nov. 20 Frankfurt keynote, ECB President Christine Lagarde cited one recent estimate that raising Europe's share of the world's AI computing capacity from around 5% to 15% by 2030 would require investment of around €1.3 trillion. She said that as long as Europe can buy computing power from foreign providers and frontier AI models remain available, the case for paying that price is hard to make. AlphaGen read: she used the example to illustrate the cost of acting early on dependencies, not to announce an ECB policy.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "checked": "2026-11-20T15:39:31Z"
+    },
     {
       "id": "2026-11-20-fred-brent-nov17-9294-vs-nov12-9542",
       "time": "2026-11-20T15:21:15Z",
@@ -5056,56 +5108,6 @@
       "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
       "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
       "checked": "2026-11-14T16:39:00Z"
-    },
-    {
-      "id": "2026-11-14-trade-sept-census-vs-bop-imports",
-      "time": "2026-11-14T16:51:00Z",
-      "tag": "MACRO",
-      "headline": "Sept goods imports: +$8.0B on Census basis vs +$4.4B on balance-of-payments basis",
-      "take": "BEA reported September imports of goods rose $4.4 billion to $346.9 billion, while imports on a Census basis rose $8.0 billion. Net balance of payments adjustments decreased $3.6 billion, and nonmonetary gold imports fell $2.7 billion. AlphaGen read: the $3.6 billion gap between the two measures is the adjustment line, so the headline import rise understates the raw Census-basis increase.",
-      "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-14T16:39:00Z"
-    },
-    {
-      "id": "2026-11-14-trade-sept-goods-surplus-partners",
-      "time": "2026-11-14T17:01:00Z",
-      "tag": "MACRO",
-      "headline": "Sept goods surpluses: Netherlands $7.7B, South and Central America $6.2B, UK $3.0B",
-      "take": "Census-basis figures in BEA's September trade release show nine goods surpluses, led by the Netherlands ($7.7 billion), South and Central America ($6.2 billion), the United Kingdom ($3.0 billion), Hong Kong ($2.5 billion) and Australia ($2.1 billion). Brazil ($1.1 billion), Singapore ($0.7 billion), Saudi Arabia ($0.5 billion) and Belgium ($0.2 billion) complete the list. AlphaGen read: the nine listed surpluses total $24.0 billion, small next to the $28.7 billion deficit with Mexico alone.",
-      "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-14T16:39:00Z"
-    },
-    {
-      "id": "2026-11-14-pce-sept-spending-vs-after-tax-income",
-      "time": "2026-11-14T17:11:00Z",
-      "tag": "MACRO",
-      "headline": "Sept spending rose $113.1B vs after-tax income $52.7B; real PCE up $2.6B",
-      "take": "BEA reported September disposable personal income rose $52.7 billion (0.2%) while personal consumption expenditures rose $113.1 billion (0.5%); real PCE increased $2.6 billion, or less than 0.1%. Personal income rose $54.5 billion, led by compensation and government social benefits. AlphaGen read: spending grew $60.4 billion more than after-tax income, mostly price-driven, since the PCE price index rose 0.5% in the month.",
-      "source_name": "BEA, Personal Income and Outlays, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-      "checked": "2026-11-14T16:39:00Z"
-    },
-    {
-      "id": "2026-11-14-fred-10y-real-vs-breakeven-nov4-12",
-      "time": "2026-11-14T15:52:00Z",
-      "tag": "RATES",
-      "headline": "10-year yield up 20 bp since Nov. 4 to 5.10%; real yield rose 22 bp",
-      "take": "FRED shows the 10-year Treasury yield at 5.10% on Nov. 12, up from 4.90% on Nov. 4, while the 10-year inflation-indexed (real) yield rose from 2.64% to 2.86%. The gap between the two, the implied breakeven, was 2.26 points on Nov. 4 and 2.24 on Nov. 12. AlphaGen read: the rise in the 10-year yield over this stretch came from real yields, not from higher inflation compensation.",
-      "source_name": "Federal Reserve Bank of St. Louis, FRED (DGS10, DFII10)",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-14T15:47:00Z"
-    },
-    {
-      "id": "2026-11-14-trade-sept-ytd-exports-imports",
-      "time": "2026-11-14T16:00:00Z",
-      "tag": "MACRO",
-      "headline": "Year to date, exports up $297.3B (11.6%) and imports up $204.9B (6.2%)",
-      "take": "BEA and Census say year-to-date exports through September rose $297.3 billion, or 11.6 percent, from the same period in 2025, while imports rose $204.9 billion, or 6.2 percent. The difference, $92.4 billion, matches the reported 12.2 percent drop in the year-to-date goods and services deficit. AlphaGen read: exports have grown faster than imports this year, which is what has narrowed the cumulative deficit.",
-      "source_name": "U.S. Census Bureau and BEA, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-14T15:47:00Z"
     }
   ]
 }
