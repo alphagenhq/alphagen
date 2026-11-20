@@ -1,6 +1,70 @@
 {
-  "updated": "2026-11-20T22:39:54Z",
+  "updated": "2026-11-20T23:39:00Z",
   "items": [
+    {
+      "id": "2026-11-20-pypl-claire-bramley-cfo-feb-1",
+      "tag": "EQUITIES",
+      "headline": "PayPal names Xero's Claire Bramley CFO, joining Feb. 1 to succeed Jamie Miller",
+      "take": "In an 8-K exhibit dated Nov. 20, PayPal announced Claire Bramley as EVP & Chief Financial Officer; she succeeds Jamie Miller, Chief Financial and Operating Officer, and joins on February 1, working with Miller throughout February. Bramley has been CFO of Xero since April 2025 and was previously CFO at Teradata. PayPal said it will update progress on its three-year strategic plans on its fourth-quarter 2026 earnings call. AlphaGen read: the one-month overlap in February is the transition period the company laid out.",
+      "source_name": "PayPal Holdings (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/d196713dex991.htm",
+      "ticker": "NASDAQ:PYPL",
+      "time": "2026-11-20T23:41:00Z",
+      "checked": "2026-11-20T23:39:00Z"
+    },
+    {
+      "id": "2026-11-20-pypl-mani-consumer-venmo-kereere-payments",
+      "tag": "EQUITIES",
+      "headline": "PayPal: Amex's Kartik Mani to lead consumer financial services and Venmo; Kereere to run payments and crypto",
+      "take": "PayPal said Kartik Mani, currently President of Global Network and Partner Services at American Express, will join as President and Head of Consumer Financial Services and Venmo. Suzan Kereere, who currently leads Global Markets, will take over Payment Services & Crypto from Jeff Pomeroy, who has been interim lead and will continue to manage Payment Services & Platforms, reporting to her. Frank Keller continues to lead Checkout Solutions & PayPal. AlphaGen read: the changes assign named leaders to each of PayPal's core business lines.",
+      "source_name": "PayPal Holdings (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/d196713dex991.htm",
+      "ticker": "NASDAQ:PYPL",
+      "time": "2026-11-20T23:49:00Z",
+      "checked": "2026-11-20T23:39:00Z"
+    },
+    {
+      "id": "2026-11-20-pypl-cro-webster-departs-rio-ai-lee-board",
+      "tag": "EQUITIES",
+      "headline": "PayPal: Chief Risk Officer Webster to depart; Juan Rio joins Nov. 30 to lead AI transformation",
+      "take": "PayPal said Chief Risk Officer Aaron Webster will depart, with Ratinder Bedi, SVP of Credit and Fraud Risk, serving as interim head of Risk while a search for a permanent successor runs. Juan Rio, from Brightstar.AI, joins on November 30 as EVP of AI Business Transformation and Operations, leading AI, cost simplification and enterprise operating effectiveness initiatives. The company also appointed Brian J. Lee, a former Goldman Sachs Chief Risk Officer, to its board. AlphaGen read: PayPal is filling its risk function on an interim basis while adding an operations-focused AI role.",
+      "source_name": "PayPal Holdings (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/d196713dex991.htm",
+      "ticker": "NASDAQ:PYPL",
+      "time": "2026-11-20T23:57:00Z",
+      "checked": "2026-11-20T23:39:00Z"
+    },
+    {
+      "id": "2026-11-20-bea-multinationals-capex-1p2t-parents-968p7b",
+      "tag": "MACRO",
+      "headline": "BEA: U.S. multinational capex rose 7.1% to $1.2T in 2024; parents $968.7B",
+      "take": "BEA reported worldwide property, plant and equipment expenditures of U.S. multinational enterprises increased 7.1 percent to $1.2 trillion in 2024. U.S. parents accounted for $968.7 billion, or 36.5 percent of all U.S. private-business capital expenditures, and foreign affiliates for $216.2 billion. AlphaGen read: the data show most multinational capex is spent by the U.S. parents rather than abroad.",
+      "source_name": "Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+      "time": "2026-11-21T00:05:00Z",
+      "checked": "2026-11-20T23:39:00Z"
+    },
+    {
+      "id": "2026-11-20-panw-q1fy27-adj-fcf-margin-56p2-vs-fy-38p0",
+      "tag": "EARNINGS",
+      "headline": "Palo Alto: Q1 adjusted FCF margin 56.2%; fiscal 2027 guide is 38.0%",
+      "take": "In its fiscal Q1 2027 release dated Nov. 18, Palo Alto Networks reported adjusted free cash flow of $1.9 billion, a 56.2% margin, versus $1.7 billion a year earlier; operating cash flow was $1.9 billion versus $1.8 billion. For fiscal 2027 the company guided to an adjusted free cash flow margin of 38.0%. AlphaGen read: the first-quarter margin ran well above the full-year target the company set in the same release.",
+      "source_name": "Palo Alto Networks (SEC Form 8-K, Ex. 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+      "ticker": "NASDAQ:PANW",
+      "time": "2026-11-21T00:13:00Z",
+      "checked": "2026-11-20T23:39:00Z"
+    },
+    {
+      "id": "2026-11-20-bea-sept-trade-3mo-avg-imports-65p4b-yoy",
+      "tag": "MACRO",
+      "headline": "Trade: three-month average imports up $65.4B from a year ago, exports up $28.9B",
+      "take": "BEA's September trade report showed the three-month average goods and services deficit at $101.2 billion, $36.5 billion wider than the three months ending September 2025. Average imports were $417.2 billion, up $65.4 billion from a year earlier, while average exports were $316.0 billion, up $28.9 billion. AlphaGen read: imports have grown faster than exports over the past year on this measure, which is why the three-month deficit is wider even as the year-to-date deficit is lower.",
+      "source_name": "Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "time": "2026-11-21T00:21:00Z",
+      "checked": "2026-11-20T23:39:00Z"
+    },
     {
       "id": "2026-11-20-cook-pce-3p8-core-3p2-67-months",
       "time": "2026-11-20T22:41:54Z",
@@ -5051,66 +5115,6 @@
       "source_name": "U.S. Bureau of Labor Statistics",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "checked": "2026-11-15T02:58:00Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-gasoline-path",
-      "time": "2026-11-15T03:01:00Z",
-      "tag": "ENERGY",
-      "headline": "CPI gasoline +1.0% in October after +9.1%; 12-month change 37.4% unadjusted",
-      "take": "BLS's October CPI table shows the gasoline index (all types) rose 1.0% in October after 9.1% in September; April through October changes were 5.4%, 7.0%, -9.7%, -2.9%, 3.9%, 9.1% and 1.0%. BLS notes that before seasonal adjustment gasoline prices decreased 0.7% in October, and the unadjusted 12-month change is 37.4%. AlphaGen read: the seasonally adjusted gain slowed sharply from September, while the year-over-year change remains large.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T02:58:00Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-shelter-path",
-      "time": "2026-11-15T03:12:00Z",
-      "tag": "MACRO",
-      "headline": "CPI shelter +0.3% in October after +0.4%; April's +0.6% was the largest of seven months",
-      "take": "BLS's October CPI table shows shelter rose 0.3% in October after 0.4% in September, against changes of 0.6%, 0.3%, 0.1%, 0.1%, 0.3% and 0.4% from April through September. BLS says shelter accounted for over thirty percent of the monthly all items increase, with owners' equivalent rent up 0.3% and rent up 0.2%. AlphaGen read: shelter has stayed between 0.1% and 0.4% each month since May.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T02:58:00Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-used-cars-path",
-      "time": "2026-11-15T03:23:00Z",
-      "tag": "MACRO",
-      "headline": "CPI used cars and trucks -1.2% in October, the largest decline of seven months",
-      "take": "BLS's October CPI table shows the used cars and trucks index fell 1.2% in October after rising 0.7% in September; April through October changes were 0.0%, 0.1%, -0.2%, 0.4%, 0.4%, 0.7% and -1.2%. The index is down 3.3% over the 12 months ended October on an unadjusted basis. AlphaGen read: October's drop followed three straight monthly increases.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T02:58:00Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-electricity-path",
-      "time": "2026-11-15T03:34:00Z",
-      "tag": "ENERGY",
-      "headline": "CPI electricity +0.9% in October after +0.2%; June was the only -1.0% reading",
-      "take": "BLS's October CPI table shows the electricity index rose 0.9% in October after 0.2% in September; April through October changes were 2.1%, 0.6%, -1.0%, 0.1%, -0.2%, 0.2% and 0.9%. Utility (piped) gas service fell 0.8% in October, and the energy services index rose 0.6%. AlphaGen read: October's electricity gain was the second largest of the seven months, behind April's 2.1%.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T02:58:00Z"
-    },
-    {
-      "id": "2026-11-15-fred-germany-10y-sep-347",
-      "time": "2026-11-15T01:43:26Z",
-      "tag": "GLOBAL",
-      "headline": "German long-term yield 3.47% in September, up 28 bp from August",
-      "take": "FRED's OECD-sourced long-term government bond yield for Germany was 3.47% in September, up from 3.19% in August and 2.69% in September 2025. That is a 28 basis point rise on the month and 78 basis points on the year. AlphaGen read: the euro area's benchmark borrowing cost climbed alongside U.S. yields.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED), OECD data",
-      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01DEM156N",
-      "checked": "2026-11-15T01:38:26Z"
-    },
-    {
-      "id": "2026-11-15-fred-uk-10y-sep-524",
-      "time": "2026-11-15T01:53:26Z",
-      "tag": "GLOBAL",
-      "headline": "UK long-term yield 5.24% in September, 1.77 points above Germany's",
-      "take": "FRED's OECD-sourced long-term government bond yield for the United Kingdom was 5.24% in September, up from 4.99% in August and 4.69% in September 2025. That is 25 basis points higher on the month and 55 basis points on the year, and 1.77 percentage points above Germany's 3.47%. AlphaGen read: UK government borrowing costs remain well above the euro area's.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED), OECD data",
-      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
-      "checked": "2026-11-15T01:38:26Z"
     }
   ]
 }
