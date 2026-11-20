@@ -1,6 +1,91 @@
 {
-  "updated": "2026-11-20T17:38:56Z",
+  "updated": "2026-11-20T22:39:54Z",
   "items": [
+    {
+      "id": "2026-11-20-the-close",
+      "time": "2026-11-20T22:39:54Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Cook flags 67 months of above-target inflation as producer prices stay hot",
+      "dek": "A Fed governor's inflation warning, October producer prices up 6.5% over twelve months and a widening credit-spread backdrop framed a Friday heavy on official commentary.",
+      "key_points": [
+        "Governor Cook said PCE inflation was estimated at 3.8% in October (core 3.2%) and has been above the 2% target for 67 months.",
+        "BLS reported final demand prices up 0.3% in October and 6.5% over 12 months, the largest 12-month rise since 7.4% in November 2022.",
+        "Waller said FOMC participants present outlooks on Dec. 8 and policy views on Dec. 9.",
+        "FRED shows the 10-year Treasury yield at 5.07% and the 2-year at 4.80% on Nov. 18; the high-yield spread was 3.52 points on Nov. 19, up from 3.20 on Nov. 12.",
+        "Take-Two said Grand Theft Auto VI day-one retail sales were $3.79 billion on company estimates."
+      ],
+      "talking_points": [
+        "Is inflation still a problem? Yes, per the Fed. Governor Cook said the 12-month PCE price index was estimated at 3.8% in October, with core at 3.2%, and that inflation has been above the 2% target for 67 months. For everyday investors, that is a reminder that cash and fixed-rate savings are losing purchasing power, so it is worth checking that long-term plans assume inflation above 2%.",
+        "Are rates likely to come down soon? Neither speech signaled a decision. Cook said waiting to act when a policy adjustment is required has a cost, and Waller said the FOMC's outlook and policy discussions are on Dec. 8 and Dec. 9. For borrowers and savers, the practical step is to avoid planning around a rate cut that has not been announced.",
+        "Are mortgage rates still high? Yes, they ticked up. FRED's Freddie Mac series shows the 30-year fixed mortgage rate at 7.28% on Nov. 19, up from 7.11% on Nov. 12, while the 10-year Treasury yield was 5.07% on Nov. 18. For home buyers, mortgage rates tend to follow long-term Treasury yields, so a budget that works at today's rate is safer than one that depends on a drop."
+      ],
+      "body": [
+        "Friday's news flow was dominated by the Federal Reserve, and the message from Governor Cook's outlook speech was about prices. Governor Lisa Cook, speaking at the Central Bank of Chile's annual conference in Santiago, said overall U.S. growth is strong and accelerating, the labor market remains solid, and inflation is well above the 2% target and has been for 67 months.",
+        "On the numbers, Cook said the 12-month change in the PCE price index was estimated at 3.8% in October, with core PCE at 3.2%. She added that waiting to act when a policy adjustment is required has a cost, a sentence that bears on the Federal Open Market Committee's next meeting. Governor Christopher Waller, speaking earlier to the College Fed Challenge finalists, kept to process: on Dec. 8 FOMC participants each present their economic outlook and on Dec. 9 their view of the proper policy stance. Neither speech announced a decision.",
+        {
+          "h": "Producer prices and the rates backdrop"
+        },
+        "The inflation concern has support in the data. The Bureau of Labor Statistics reported that final demand prices rose 0.3% in October after a 1.4% rise in September, and that the index is up 6.5% over the 12 months ended in October, the largest 12-month rise since 7.4% in November 2022. Final demand goods rose 0.5% in October and final demand services 0.2%.",
+        "Treasury yields remain high on FRED's latest readings: the 10-year at 5.07% and the 2-year at 4.80% on Nov. 18, with the 10-year minus 2-year spread at 0.28 percentage point on Nov. 19. The 30-year fixed mortgage rate in the Freddie Mac series was 7.28% on Nov. 19, versus 7.11% a week earlier.",
+        {
+          "h": "Credit, funding and the Fed's own work"
+        },
+        "Credit spreads widened across the week. The ICE BofA high-yield option-adjusted spread was 3.52 percentage points on Nov. 19, up from 3.20 on Nov. 12, while SOFR was 3.91% on Nov. 19, inside the Fed's 3.75% to 4.00% target range. Separately, the Fed Board released a survey of senior financial officers on how banks manage reserve balances, conducted with the New York Fed from Sept. 18 to Sept. 28 and covering banks holding around three-fourths of reserve balances at the time.",
+        {
+          "h": "Corporate headlines"
+        },
+        "Take-Two Interactive said in an 8-K exhibit that Grand Theft Auto VI day-one retail sales reached $3.79 billion on company estimates, with 32.5 million units sold pre-release; these are company-reported figures. Dominion Energy disclosed that the Hart-Scott-Rodino waiting period for its combination with NextEra Energy expired on Nov. 18, with closing still subject to other conditions, including certain other regulatory approvals.",
+        "AlphaGen read: the official record on Friday leaned one way. Producer prices are rising at their fastest 12-month pace since late 2022, a Fed governor is stressing the cost of waiting, and the policy debate is scheduled for Dec. 8 and 9. Investors can use the next two weeks to see how the incoming data fit that framing."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve Board, Governor Cook speech",
+          "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm"
+        },
+        {
+          "name": "Federal Reserve Board, Governor Waller remarks",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm"
+        },
+        {
+          "name": "BLS, Producer Price Index",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+        },
+        {
+          "name": "FRED, 10-year Treasury yield",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        },
+        {
+          "name": "FRED, 2-year Treasury yield",
+          "url": "https://fred.stlouisfed.org/series/DGS2"
+        },
+        {
+          "name": "FRED, 30-year mortgage rate",
+          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+        },
+        {
+          "name": "FRED, high-yield spread",
+          "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+        },
+        {
+          "name": "Federal Reserve Board, senior financial officer survey",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+        },
+        {
+          "name": "SEC EDGAR, Take-Two Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026075217/0001628280-26-075217.txt"
+        },
+        {
+          "name": "SEC EDGAR, Dominion Energy Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526469339/0001193125-26-469339.txt"
+        }
+      ],
+      "tickers": [
+        "NASDAQ:TTWO",
+        "NYSE:D"
+      ],
+      "checked": "2026-11-20T22:39:54Z"
+    },
     {
       "id": "2026-11-20-gas-storage-heating-season",
       "time": "2026-11-20T17:38:56Z",
