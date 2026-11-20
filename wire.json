@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-20T17:38:41Z",
+  "updated": "2026-11-20T18:38:31Z",
   "items": [
+    {
+      "id": "2026-11-20-ppi-oct-goods-12mo-10p2-largest-since-oct-2022",
+      "time": "2026-11-20T18:46:00Z",
+      "tag": "MACRO",
+      "headline": "PPI final demand goods up 10.2% over 12 months, largest since October 2022",
+      "take": "BLS says the index for final demand goods rose 0.5% in October and 10.2% over the 12 months ended in October, the largest 12-month rise since 10.5% in October 2022. Final demand goods had risen 2.5% in September. AlphaGen read: goods prices, not services, are carrying the producer-price run-up.",
+      "source_name": "BLS, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-20T18:38:31Z"
+    },
+    {
+      "id": "2026-11-20-ppi-oct-truck-freight-3p9-transport-2p0",
+      "time": "2026-11-20T18:57:00Z",
+      "tag": "MACRO",
+      "headline": "PPI: truck freight prices up 3.9% in October, lifting transportation services 2.0%",
+      "take": "BLS reports final demand transportation and warehousing services rose 2.0% in October, and truck transportation of freight rose 3.9%, accounting for over 80% of the October increase in final demand services. Final demand services overall rose 0.2%, the fifth consecutive advance. AlphaGen read: one freight category did most of the work in the services index.",
+      "source_name": "BLS, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-20T18:38:31Z"
+    },
+    {
+      "id": "2026-11-20-ppi-oct-diesel-minus-7p9-organic-chemicals-3p9",
+      "time": "2026-11-20T19:08:00Z",
+      "tag": "ENERGY",
+      "headline": "PPI: diesel fuel prices fell 7.9% in October while basic organic chemicals rose 3.9%",
+      "take": "Within final demand goods, BLS lists basic organic chemicals up 3.9% in October and diesel fuel down 7.9%; jet fuel and gas fuels moved higher. The final demand energy index edged down 0.1% on the month. AlphaGen read: energy was a small drag on the October goods index even with fuel moves in both directions.",
+      "source_name": "BLS, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-20T18:38:31Z"
+    },
+    {
+      "id": "2026-11-20-ppi-oct-foods-1p3-goods-less-foods-energy-0p5",
+      "time": "2026-11-20T19:19:00Z",
+      "tag": "MACRO",
+      "headline": "PPI: final demand foods rose 1.3% in October; goods less foods and energy up 0.5%",
+      "take": "BLS's October table shows final demand foods up 1.3%, final demand goods less foods and energy up 0.5%, and energy down 0.1%. Total final demand rose 0.3% on the month and 6.5% over 12 months. AlphaGen read: food and core goods, not energy, drove the monthly goods gain.",
+      "source_name": "BLS, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-20T18:38:31Z"
+    },
+    {
+      "id": "2026-11-20-eia-supply-demand-gap-0p4-quads-0p3pct-2025",
+      "time": "2026-11-20T19:30:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA: U.S. energy supply-demand gap was 0.4 quads in 2025, about 0.3% of the total",
+      "take": "EIA says its surveys put 2025 U.S. energy supply and demand each at about 128 quadrillion Btu, and the stock change and other series, which reconciles the two, was 0.4 quads, about 0.3% of the total. EIA attributes the gap to timing differences, estimation errors, survey coverage limits and unreported activity. AlphaGen read: the balance is tight enough that headline supply and demand figures can be compared directly.",
+      "source_name": "EIA, Today in Energy (Nov. 17, 2026)",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
+      "checked": "2026-11-20T18:38:31Z"
+    },
     {
       "id": "2026-11-20-fred-eurusd-nov13-1p1034-vs-nov5",
       "time": "2026-11-20T17:43:41Z",
@@ -5058,56 +5108,6 @@
       "source_name": "Federal Reserve Board",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "checked": "2026-11-14T19:39:48Z"
-    },
-    {
-      "id": "2026-11-14-jefferson-ai-adopters-few-functions",
-      "time": "2026-11-14T19:54:48Z",
-      "tag": "FED",
-      "headline": "Jefferson: most firms using AI apply it in at most a few business functions",
-      "take": "Citing one recent study, Jefferson said most adopting firms use AI in at most a few business functions, most commonly sales and marketing, strategy and business development, and information technology. He gave limited scope, with firms still experimenting and learning, as one likely reason task-level efficiency gains are not yet clear at the firm level. AlphaGen read: how broadly firms use AI, not only how many do, is part of the Fed's productivity question.",
-      "source_name": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-      "checked": "2026-11-14T19:39:48Z"
-    },
-    {
-      "id": "2026-11-14-jefferson-productivity-surge-predates-chatbots",
-      "time": "2026-11-14T20:04:48Z",
-      "tag": "MACRO",
-      "headline": "Jefferson: productivity pickup predates 2022 chatbots, tied partly to new firm formation",
-      "take": "Jefferson said labor productivity growth averaged 2.2% from 2020 to 2025, up from 1.5% over the prior business cycle, but that the surge began before popular AI chatbots debuted in 2022. He said it likely reflects a variety of factors, including a pickup in new business formation, and that teasing out AI's contribution is not straightforward. AlphaGen read: the speech says it is too early to say what role AI played.",
-      "source_name": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-      "checked": "2026-11-14T19:39:48Z"
-    },
-    {
-      "id": "2026-11-14-jefferson-transistor-to-ai-lag",
-      "time": "2026-11-14T20:14:48Z",
-      "tag": "FED",
-      "headline": "Jefferson: AI research began soon after the 1947 transistor; adoption still early",
-      "take": "Jefferson listed the transistor (1947) and the Fortran compiler (1954) as basic research behind modern computing, and said generative AI models trace to basic research that began soon after the transistor. He said AI is 'not truly everywhere' in firms' and workers' workflows and that the economy is at an earlier stage of a long innovation-and-deployment cycle. AlphaGen read: the speech argues the payoff from new technology arrives with long lags.",
-      "source_name": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-      "checked": "2026-11-14T19:39:48Z"
-    },
-    {
-      "id": "2026-11-14-bls-import-export-price-sept",
-      "time": "2026-11-14T20:24:48Z",
-      "tag": "MACRO",
-      "headline": "BLS lists import price index +1.1% and export price index +2.2% for September",
-      "take": "BLS's Latest Numbers panel, as captured Nov. 13, lists the U.S. Import Price Index at +1.1% in September 2026 and the U.S. Export Price Index at +2.2%. The export figure is twice the import figure, a gap of 1.1 percentage points. AlphaGen read: the panel gives headline readings only, so product-level detail is not part of this item.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/bls/",
-      "checked": "2026-11-14T19:39:48Z"
-    },
-    {
-      "id": "2026-11-14-bea-sept-real-dpi-minus-0p3",
-      "time": "2026-11-14T18:41:08Z",
-      "tag": "MACRO",
-      "headline": "Real disposable income fell 0.3% in September after no change in August",
-      "take": "BEA reports current-dollar disposable personal income rose 0.2% in September, but real disposable personal income fell 0.3% after 0.0% in August. Real PCE was 0.0% after +0.5% in August, while the PCE price index rose 0.5%. With prices rising faster than income, September household purchasing power slipped.",
-      "source_name": "BEA",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-      "checked": "2026-11-14T18:39:08Z"
     }
   ]
 }
