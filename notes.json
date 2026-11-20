@@ -1,6 +1,84 @@
 {
-  "updated": "2026-11-19T21:39:54Z",
+  "updated": "2026-11-20T12:40:24Z",
   "items": [
+    {
+      "id": "2026-11-20-morning-brief",
+      "time": "2026-11-20T12:40:24Z",
+      "tag": "MACRO",
+      "series": "morning-brief",
+      "title": "Morning Brief: Waller at 8:25, Cook in Santiago and a rates backdrop",
+      "dek": "Fed Governor Waller opens a student event at 8:25 a.m. ET; the latest FRED readings show the 10-year at 5.07% and the 30-year mortgage rate at 7.28%.",
+      "key_points": [
+        "Scheduled today (ET): Fed Governor Waller welcoming remarks at the College Fed Challenge Finals, 8:25 a.m.; Governor Cook speaks in Santiago, Chile on the U.S. economy in global context (no time listed).",
+        "FRED, Nov. 18: 3-month Treasury yield 4.34%, 2-year 4.80%, 10-year 5.07%, 30-year 5.41%; the 10-year was 5.15% on Nov. 13.",
+        "Freddie Mac via FRED: 30-year fixed mortgage rate 7.28% for the week of Nov. 19, up from 7.11% on Nov. 12.",
+        "Overnight FRED: 10-year breakeven inflation 2.16% on Nov. 19 and the 10-year minus 2-year spread 0.28 point; October core CPI index up 0.30% on the month.",
+        "Next week: Industrial Production annual revision Nov. 24 (12:00 p.m. ET); GDP second estimate, October PCE and durable goods at 8:30 a.m., new home sales at 10:00 a.m. and the Beige Book at 2:00 p.m. on Nov. 25."
+      ],
+      "talking_points": [
+        "Are mortgage rates coming down? Not this week. Freddie Mac's 30-year fixed rate, reported by FRED, was 7.28% on Nov. 19, up from 7.11% a week earlier and 7.18% on Nov. 5. The 10-year Treasury yield, which mortgage rates tend to follow, was 5.07% on Nov. 18, down from 5.15% on Nov. 13. If you are shopping for a loan, compare lenders and ask about locking a rate rather than waiting for a particular number.",
+        "Is inflation still a problem? Core prices are still rising faster than the Fed's goal. FRED's CPI excluding food and energy rose 0.30% in October, and the index is up 0.92% since July, a 3.7% annual pace by our calculation. The Fed targets 2% inflation. If your budget depends on prices staying flat, plan for gradual increases in everyday costs.",
+        "Is the job market cracking? Not in the latest official data. The unemployment rate was 4.1% in October, and initial jobless claims were 203,000 in the week ended Nov. 14, per FRED. Low claims suggest layoffs remain limited. Keeping an emergency fund of several months of expenses is still a sensible hedge against a change."
+      ],
+      "body": [
+        "Friday's official calendar is light. Fed Governor Waller gives welcoming remarks at the College Fed Challenge Finals at 8:25 a.m. ET, and Governor Cook speaks in Santiago, Chile on the U.S. economy in a global context; the Fed's calendar lists no time for her speech.",
+        {
+          "h": "Rates backdrop"
+        },
+        "The latest FRED readings, for Nov. 18, show the 3-month Treasury yield at 4.34%, the 2-year at 4.80%, the 10-year at 5.07% and the 30-year at 5.41%. The 10-year fell from 5.15% on Nov. 13, while the bill yield barely moved, so the 10-year's lead over the 3-month narrowed from 0.83 to 0.73 percentage point (AlphaGen calculations). On Nov. 19 the 10-year minus 2-year spread was 0.28 point and the 10-year breakeven inflation rate was 2.16%.",
+        {
+          "h": "Mortgages and inflation"
+        },
+        "Freddie Mac's 30-year fixed mortgage rate, as published by FRED, was 7.28% for the week of Nov. 19, up from 7.11% the week before. On prices, FRED's core CPI index (all items less food and energy) rose 0.30% in October after 0.33% in September; since July it has risen 0.92%, or about 3.7% annualized (AlphaGen calculation).",
+        {
+          "h": "Looking ahead"
+        },
+        "The next batch of major data arrives Nov. 24 and 25: the Federal Reserve's Industrial Production annual revision on Nov. 24, then GDP's second estimate with corporate profits, October personal income and outlays including PCE, and durable goods at 8:30 a.m. ET on Nov. 25. New home sales follow at 10:00 a.m. and the Beige Book at 2:00 p.m."
+      ],
+      "sources": [
+        {
+          "name": "Federal Reserve Board, November 2026 calendar",
+          "url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+        },
+        {
+          "name": "FRED, 3-month Treasury yield",
+          "url": "https://fred.stlouisfed.org/series/DGS3MO"
+        },
+        {
+          "name": "FRED, 2-year Treasury yield",
+          "url": "https://fred.stlouisfed.org/series/DGS2"
+        },
+        {
+          "name": "FRED, 10-year Treasury yield",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        },
+        {
+          "name": "FRED, 30-year Treasury yield",
+          "url": "https://fred.stlouisfed.org/series/DGS30"
+        },
+        {
+          "name": "FRED, 30-year fixed mortgage rate (Freddie Mac)",
+          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+        },
+        {
+          "name": "FRED, core CPI",
+          "url": "https://fred.stlouisfed.org/series/CPILFESL"
+        },
+        {
+          "name": "FRED, initial jobless claims",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        },
+        {
+          "name": "FRED, unemployment rate",
+          "url": "https://fred.stlouisfed.org/series/UNRATE"
+        },
+        {
+          "name": "FRED, 10-year breakeven inflation",
+          "url": "https://fred.stlouisfed.org/series/T10YIE"
+        }
+      ],
+      "checked": "2026-11-20T12:40:24Z"
+    },
     {
       "id": "2026-11-19-the-close",
       "time": "2026-11-19T21:39:54Z",

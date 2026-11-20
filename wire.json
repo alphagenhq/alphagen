@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-20T11:39:48Z",
+  "updated": "2026-11-20T12:40:24Z",
   "items": [
+    {
+      "id": "2026-11-20-fred-10y-3m-spread-nov18-073",
+      "time": "2026-11-20T12:40:24Z",
+      "tag": "RATES",
+      "headline": "FRED: 10-year yield 0.73 point above 3-month bill on Nov. 18, from 0.78 on Nov. 16",
+      "take": "FRED shows the 10-year Treasury yield at 5.07% and the 3-month yield at 4.34% on Nov. 18, a gap of 0.73 percentage point. On Nov. 16 the 10-year was 5.12% and the 3-month 4.34%, a 0.78-point gap; on Nov. 13 it was 5.15% against 4.32%, or 0.83. The gap narrowed because the 10-year fell while the bill yield held, a bond-market move that left short-term rates anchored.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-20T12:40:24Z"
+    },
+    {
+      "id": "2026-11-20-fred-2y-3m-spread-nov18-046",
+      "time": "2026-11-20T12:50:24Z",
+      "tag": "RATES",
+      "headline": "FRED: 2-year yield 0.46 point above 3-month bill on Nov. 18; 2-year 4.80%",
+      "take": "FRED reports the 2-year Treasury yield at 4.80% and the 3-month at 4.34% on Nov. 18, so the 2-year sits 0.46 percentage point higher (AlphaGen calculation). The 2-year was 4.88% on Nov. 13 against a 4.32% bill, a 0.56-point gap. A narrower gap means the market is pricing a less steep path for short-term rates than it was a few days ago.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-20T12:40:24Z"
+    },
+    {
+      "id": "2026-11-20-fred-core-cpi-oct-339p900-3m-3p7",
+      "time": "2026-11-20T13:00:24Z",
+      "tag": "MACRO",
+      "headline": "Core CPI index 339.900 in October, up 0.30%; 3-month pace 3.7% annualized",
+      "take": "FRED's seasonally adjusted CPI excluding food and energy (1982-84=100) was 339.900 in October, up 0.30% from 338.896 in September; September's gain was 0.33%. Since July's 336.789 the index has risen 0.92%, or 3.7% at an annual rate (AlphaGen calculation). Core prices are still rising at a pace above the Fed's 2% goal.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/CPILFESL",
+      "checked": "2026-11-20T12:40:24Z"
+    },
+    {
+      "id": "2026-11-20-fred-industrial-production-oct-103p395",
+      "time": "2026-11-20T13:10:24Z",
+      "tag": "MACRO",
+      "headline": "Industrial production index 103.395 in October, down 0.43% on the month, up 2.1% on the year",
+      "take": "FRED's total industrial production index (2017=100) was 103.3954 in October, down 0.43% from 103.8458 in September, after a 0.73% rise in September. Against October 2025's 101.2195 it is up 2.1% (AlphaGen calculations). Factory, mining and utility output slipped in October but remains above its year-earlier level.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/INDPRO",
+      "checked": "2026-11-20T12:40:24Z"
+    },
+    {
+      "id": "2026-11-20-fred-germany-10y-oct-3p42-uk-gap-1p92",
+      "time": "2026-11-20T13:20:24Z",
+      "tag": "GLOBAL",
+      "headline": "Germany's 10-year yield 3.42% in October, down from 3.47%; UK 1.92 points higher",
+      "take": "FRED's OECD-sourced long-term government bond series shows Germany at 3.42% in October, down from 3.47% in September and up from 2.62% a year earlier. The UK reading was 5.34%, which puts it 1.92 percentage points above Germany, versus 1.77 in September (AlphaGen calculations). British borrowing costs have risen faster than German ones over the past month.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01DEM156N",
+      "checked": "2026-11-20T12:40:24Z"
+    },
     {
       "id": "2026-11-20-bbwi-q3-results",
       "time": "2026-11-20T11:41:48Z",
@@ -5054,56 +5104,6 @@
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
       "time": "2026-11-14T13:44:20Z",
       "checked": "2026-11-14T13:39:20Z"
-    },
-    {
-      "id": "2026-11-14-barr-middle-17-pct-public-stocks",
-      "tag": "FED",
-      "headline": "Barr: households in the 50th-90th wealth percentiles hold 17% of public stocks by value",
-      "take": "Governor Barr said about three-fourths of households above the median but below the 90th percentile hold stocks, mostly through retirement accounts, yet that group holds only 17 percent of all public stocks by value. He said housing equity has grown more slowly than business equity. AlphaGen read: broader 401(k) ownership has not made stock ownership by value less concentrated, in the Fed's telling.",
-      "source_name": "Federal Reserve Board, Governor Barr speech (Nov. 12)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-      "time": "2026-11-14T13:54:20Z",
-      "checked": "2026-11-14T13:39:20Z"
-    },
-    {
-      "id": "2026-11-14-barr-bottom-half-52000-average",
-      "tag": "FED",
-      "headline": "Barr: bottom half of households hold just over 2% of wealth, an average of $52,000",
-      "take": "Governor Barr said households in the bottom half of the wealth distribution hold just over 2 percent of all wealth, an average of $52,000. He said about 40 percent of them have home equity and nearly 40 percent own business equity, either through a retirement account or their own business, at low values compared with the upper half. AlphaGen read: the speech ties thin balance sheets to a harder time getting by day to day.",
-      "source_name": "Federal Reserve Board, Governor Barr speech (Nov. 12)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-      "time": "2026-11-14T14:04:20Z",
-      "checked": "2026-11-14T13:39:20Z"
-    },
-    {
-      "id": "2026-11-14-barr-forbes-400-share-3-to-4-pct",
-      "tag": "FED",
-      "headline": "Barr: rough estimate puts Forbes 400 wealth share at 4%, up from 3% in 2022",
-      "take": "Governor Barr said that, using Forbes magazine's tally of the 400 wealthiest individuals together with Survey of Consumer Finances data, a rough estimate is that their share of total wealth rose from 3 percent in 2022 to 4 percent in the most recent survey. He added that Forbes counts nearly 1,000 U.S. billionaires. AlphaGen read: Barr labels this a rough estimate, and it sits on top of the survey's finding that concentration rose at the very top.",
-      "source_name": "Federal Reserve Board, Governor Barr speech (Nov. 12)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-      "time": "2026-11-14T14:14:20Z",
-      "checked": "2026-11-14T13:39:20Z"
-    },
-    {
-      "id": "2026-11-14-barr-labor-share-60-65-then-2001",
-      "tag": "MACRO",
-      "headline": "Barr: labor share held 60-65% after WWII, began falling in 2001, hit 52.8% in Q2",
-      "take": "Governor Barr said the share of national income going to labor was fairly steady between 60 percent and 65 percent after World War II, began falling in fits and starts in 2001, and reached a record low of 52.8 percent in the second quarter of 2026. He said some of the decline reflects measurement issues, but a clear downward trend remains after adjusting for them. AlphaGen read: the Fed is presenting the labor share as a long-run trend that accelerated after the pandemic.",
-      "source_name": "Federal Reserve Board, Governor Barr speech (Nov. 12)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-      "time": "2026-11-14T14:24:20Z",
-      "checked": "2026-11-14T13:39:20Z"
-    },
-    {
-      "id": "2026-11-14-jefferson-worker-ai-use-40-50",
-      "time": "2026-11-14T12:40:20Z",
-      "tag": "MACRO",
-      "headline": "Jefferson: 40-50% of working adults use AI at work, but few use it daily",
-      "take": "Fed Vice Chair Philip Jefferson said worker surveys find that 40 to 50 percent of working adults use generative AI in their jobs, while only a modest fraction of those users use it every day. He cited the Census Bureau's firm survey showing adoption near 10 percent in mining and in leisure and hospitality, versus roughly 25 percent of all U.S. firms. AlphaGen read: the Fed is describing broad but shallow use, which fits his view that AI's aggregate productivity contribution so far is limited.",
-      "source_name": "Federal Reserve Board, Vice Chair Jefferson speech (Nov. 13)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-      "checked": "2026-11-14T12:38:20Z"
     }
   ]
 }
