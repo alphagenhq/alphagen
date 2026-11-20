@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-20T19:43:00Z",
+ "updated": "2026-11-20T20:38:00Z",
  "items": [
+  {
+   "id": "2026-11-20-fred-sofr-nov19-391-inside-fed-range",
+   "time": "2026-11-20T20:38:00Z",
+   "tag": "FED",
+   "headline": "SOFR 3.91% on Nov. 19, inside the Fed's 3.75%-4.00% target range",
+   "take": "FRED shows SOFR at 3.91% on Nov. 19, up from 3.90% on Nov. 18; the Fed's target range is 3.75% to 4.00%. That leaves SOFR 0.09 point below the top of the range. The effective fed funds rate was 3.88% on Nov. 18. AlphaGen read: overnight funding is inside the range, below its ceiling.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED), SOFR",
+   "source_url": "https://fred.stlouisfed.org/series/SOFR",
+   "checked": "2026-11-20T20:38:00Z"
+  },
+  {
+   "id": "2026-11-20-fred-5y-breakeven-nov19-222-vs-nov13-230",
+   "time": "2026-11-20T20:54:00Z",
+   "tag": "RATES",
+   "headline": "5-year breakeven inflation rate 2.22% on Nov. 19, down from 2.30% on Nov. 13",
+   "take": "FRED shows the 5-year breakeven inflation rate at 2.22% on Nov. 19, versus 2.30% on Nov. 13, a drop of 0.08 point. The 10-year breakeven was 2.16% on Nov. 19, so the 5-year sits 0.06 point above it. AlphaGen read: the 5-year breakeven has eased and sits above the 10-year.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED), T5YIE",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "checked": "2026-11-20T20:38:00Z"
+  },
+  {
+   "id": "2026-11-20-fred-3m-bill-nov18-434-above-fed-range-top",
+   "time": "2026-11-20T21:11:00Z",
+   "tag": "RATES",
+   "headline": "3-month Treasury yield 4.34% on Nov. 18, 0.34 point above the top of the Fed's range",
+   "take": "FRED shows the 3-month Treasury constant-maturity yield at 4.34% on Nov. 18, up from 4.32% on Nov. 12. The Fed's target range tops out at 4.00%, so the bill yield is 0.34 point above it. AlphaGen read: short-dated bills yield more than the range's upper bound.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED), DGS3MO",
+   "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
+   "checked": "2026-11-20T20:38:00Z"
+  },
+  {
+   "id": "2026-11-20-fred-yuan-nov13-6p671-vs-year-ago",
+   "time": "2026-11-20T21:28:00Z",
+   "tag": "FX",
+   "headline": "Yuan at 6.6710 per dollar on Nov. 13, from 7.0950 a year earlier",
+   "take": "FRED shows the yuan at 6.6710 per U.S. dollar on Nov. 13, compared with 7.0950 on Nov. 13, 2025, a 6.0% lower yuan-per-dollar rate. It was 6.6680 on Nov. 5, a change of 0.0030 since then. AlphaGen read: a lower number means the yuan is stronger than a year ago, and it has changed little since Nov. 5.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED), DEXCHUS",
+   "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
+   "checked": "2026-11-20T20:38:00Z"
+  },
   {
    "id": "2026-11-20-eia-gas-storage-3810bcf-end-injection",
    "time": "2026-11-20T19:45:00Z",
@@ -5067,46 +5107,6 @@
    "take": "FRED shows the 10-year Treasury constant-maturity yield (DGS10) at 5.10% on Nov. 12, up from 4.90% on Nov. 4. The fed funds target range upper limit (DFEDTARU) is 4.00%, so the 10-year sits 1.10 percentage points above it, versus 0.90 on Nov. 4 (AlphaGen calculation). AlphaGen read: the rise in the 10-year since Nov. 4 widened its distance from the policy range.",
    "source_name": "FRED, Federal Reserve Bank of St. Louis",
    "source_url": "https://fred.stlouisfed.org/series/DGS10",
-   "checked": "2026-11-14T21:39:24Z"
-  },
-  {
-   "id": "2026-11-14-fred-mortgage-vs-30y-nov12-168",
-   "time": "2026-11-14T22:11:24Z",
-   "tag": "HOUSING",
-   "headline": "30-year mortgage rate 1.68 points above 30-year Treasury on Nov. 12, from 1.93",
-   "take": "FRED shows the Freddie Mac 30-year fixed mortgage rate at 7.11% for Nov. 12, down from 7.18% on Nov. 5, while the 30-year Treasury constant-maturity yield (DGS30) rose to 5.43% from 5.25%. The gap is 1.68 percentage points, versus 1.93 a week earlier (AlphaGen calculation). AlphaGen read: the weekly mortgage survey and the daily Treasury yield are different measures, but the gap narrowed as long-bond yields rose and the mortgage rate edged lower.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-   "checked": "2026-11-14T21:39:24Z"
-  },
-  {
-   "id": "2026-11-14-jefferson-winners-draw-labor-capital",
-   "time": "2026-11-14T22:01:24Z",
-   "tag": "MACRO",
-   "headline": "Jefferson: successful AI-using firms could expand and draw labor and capital from rivals",
-   "take": "Jefferson said firms and workers will likely broaden and intensify their use of AI and reorganize production and workflows, and that successful firms could gain a competitive advantage, enabling them to expand and draw labor and capital away from competing firms. He said even if only a small minority of applications have delivered substantial gains so far, broader improvements may materialize over time. AlphaGen read: the speech points to reallocation across firms as one channel for future productivity gains.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "checked": "2026-11-14T21:39:24Z"
-  },
-  {
-   "id": "2026-11-14-jefferson-customer-support-firm-level-evidence",
-   "time": "2026-11-14T21:51:24Z",
-   "tag": "FED",
-   "headline": "Jefferson: AI aided some customer-support staff; firm-level evidence mixed",
-   "take": "Jefferson cited one academic study finding generative AI tools significantly improved some customer support employees' ability to resolve issues. He said some recent studies find positive associations between productivity growth and AI adoption or exposure at the firm level, while surveys that try to measure causality more directly have found only modest effects so far. AlphaGen read: the speech separates task-level gains from the aggregate picture.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "checked": "2026-11-14T21:39:24Z"
-  },
-  {
-   "id": "2026-11-14-jefferson-usps-ai-envelopes-1990s",
-   "time": "2026-11-14T21:41:24Z",
-   "tag": "FED",
-   "headline": "Jefferson: Postal Service used AI on envelopes in 1990s; wider uptake came ~10 years later",
-   "take": "Fed Vice Chair Philip Jefferson said in his Nov. 13 UC San Diego speech that the U.S. Postal Service began using AI to read hand-addressed envelopes in the 1990s, and that usage took off, especially in the information and finance sectors, about 10 years later with machine-learning models. He said today's chatbots and coding assistants came after large models were trained on massive data sets. AlphaGen read: the speech frames AI adoption as a long-lag process rather than a sudden break.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
    "checked": "2026-11-14T21:39:24Z"
   }
  ]
