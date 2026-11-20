@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-20T16:39:18Z",
+  "updated": "2026-11-20T17:38:41Z",
   "items": [
+    {
+      "id": "2026-11-20-fred-eurusd-nov13-1p1034-vs-nov5",
+      "time": "2026-11-20T17:43:41Z",
+      "tag": "FX",
+      "headline": "Dollar-euro rate $1.1034 on Nov. 13, down from $1.1235 on Nov. 5",
+      "take": "FRED's daily series shows $1.1034 per euro on Nov. 13, versus $1.1235 on Nov. 5, a change of -0.0201 over the eight days. The Nov. 12 reading was $1.1056. AlphaGen read: the euro was lower at the end of the span than at its start.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXUSEU)",
+      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
+      "checked": "2026-11-20T17:38:41Z"
+    },
+    {
+      "id": "2026-11-20-fred-usdjpy-nov13-159p93-vs-nov5",
+      "time": "2026-11-20T17:57:41Z",
+      "tag": "FX",
+      "headline": "Yen at 159.93 per dollar on Nov. 13, from 157.76 on Nov. 5",
+      "take": "FRED shows 159.93 Japanese yen per U.S. dollar on Nov. 13, up from 157.76 on Nov. 5, a difference of 2.17 yen. The series was 159.60 on Nov. 12 and 158.76 on Nov. 10. AlphaGen read: the yen was weaker at the end of the span than at its start.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS)",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "checked": "2026-11-20T17:38:41Z"
+    },
+    {
+      "id": "2026-11-20-fred-wti-nov17-8953-vs-nov12-9230",
+      "time": "2026-11-20T18:11:41Z",
+      "tag": "COMMODITIES",
+      "headline": "WTI crude spot $89.53 on Nov. 17, down $2.77 from Nov. 12's $92.30",
+      "take": "FRED's daily WTI spot series reads $89.53 a barrel on Nov. 17, against $92.30 on Nov. 12, a drop of $2.77. It was $89.62 on Nov. 10 and Nov. 11. AlphaGen read: WTI's Nov. 17 reading is within $0.09 of its Nov. 10 level, so the week's decline from Nov. 12 left it roughly flat on the span.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+      "checked": "2026-11-20T17:38:41Z"
+    },
+    {
+      "id": "2026-11-20-fred-2y-10y-nov10-vs-nov18-rise",
+      "time": "2026-11-20T18:25:41Z",
+      "tag": "RATES",
+      "headline": "2-year yield 4.80% and 10-year 5.07% on Nov. 18, up 0.07 and 0.09 from Nov. 10",
+      "take": "FRED shows the 2-year Treasury yield at 4.80% on Nov. 18 versus 4.73% on Nov. 10, up 0.07 percentage point. The 10-year was 5.07% versus 4.98%, up 0.09. Both peaked on Nov. 13 at 4.88% and 5.15%. AlphaGen read: the long end rose slightly more than the short end over the span, though both eased from their Nov. 13 highs.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-20T17:38:41Z"
+    },
     {
       "id": "2026-11-20-fred-walcl-nov18-6p741t-down-17b",
       "time": "2026-11-20T16:42:00Z",
@@ -5068,46 +5108,6 @@
       "source_name": "BEA",
       "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
       "checked": "2026-11-14T18:39:08Z"
-    },
-    {
-      "id": "2026-11-14-bls-oct-aug-sep-payroll-revisions",
-      "time": "2026-11-14T18:53:08Z",
-      "tag": "MACRO",
-      "headline": "Payroll revisions: August raised to +186,000, September to +60,000",
-      "take": "BLS revised the August payroll gain up by 53,000, from +133,000 to +186,000, and September up by 31,000, from +29,000 to +60,000. Together the two months are 84,000 higher than previously reported. The upward revisions place the October gain of 165,000 in a firmer run than the first estimates showed.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "checked": "2026-11-14T18:39:08Z"
-    },
-    {
-      "id": "2026-11-14-fred-10y-sofr-nov12-120",
-      "time": "2026-11-14T19:05:08Z",
-      "tag": "RATES",
-      "headline": "10-year Treasury yield 1.20 points above SOFR on Nov. 12, from 1.00 on Nov. 9",
-      "take": "FRED shows the 10-year yield at 5.10% and SOFR at 3.90% on Nov. 12, a 1.20-point gap. On Nov. 9 they were 4.88% and 3.88%, a 1.00-point gap. The 10-year yield rose 22 bp over the period while SOFR rose 2 bp, so the gap widened on longer-term yields.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-14T18:39:08Z"
-    },
-    {
-      "id": "2026-11-14-fred-2y-sofr-nov12-096",
-      "time": "2026-11-14T19:17:08Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 0.96 point above SOFR on Nov. 12, from 0.84 on Nov. 10",
-      "take": "FRED shows the 2-year yield at 4.86% and SOFR at 3.90% on Nov. 12, a 0.96-point gap, versus 4.73% and 3.89% on Nov. 10, a 0.84-point gap. The 2-year yield rose 13 bp between the two observations while SOFR rose 1 bp. The gap is the widest of the Nov. 9-12 readings.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-14T18:39:08Z"
-    },
-    {
-      "id": "2026-11-14-ppi-oct-services-transport-2-0",
-      "time": "2026-11-14T18:26:00Z",
-      "tag": "MACRO",
-      "headline": "October PPI services: transportation and warehousing +2.0%, trade margins -0.2%",
-      "take": "The final demand services index rose 0.2% in October, its fifth consecutive advance, and three-fourths of that rise traced to a 2.0% increase in transportation and warehousing services. Final demand services less trade, transportation and warehousing rose 0.2%, while trade services margins decreased 0.2%. BLS puts the 12-month change in total final demand at 6.5%. AlphaGen read: the services gain was concentrated in transport rather than broad-based.",
-      "source_name": "BLS, Producer Price Index News Release (October 2026)",
-      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-      "checked": "2026-11-14T17:38:00Z"
     }
   ]
 }
