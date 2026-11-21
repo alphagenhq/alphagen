@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T13:38:55Z",
+  "updated": "2026-11-21T14:39:56Z",
   "items": [
+    {
+      "id": "2026-11-21-fred-30y-2y-gap-nov19-064-vs-nov12-057",
+      "time": "2026-11-21T14:45:00Z",
+      "tag": "RATES",
+      "headline": "30-year minus 2-year Treasury gap 0.64 point on Nov. 19, up from 0.57 on Nov. 12",
+      "take": "FRED shows the 30-year Treasury yield at 5.40% and the 2-year at 4.76% on Nov. 19, a gap of 0.64 percentage point. On Nov. 12 the yields were 5.43% and 4.86%, a gap of 0.57. AlphaGen read: the 2-year fell 0.10 point over the week against 0.03 for the 30-year, so the long end held up better than the short end.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-21T14:39:56Z"
+    },
+    {
+      "id": "2026-11-21-fred-mortgage-nov19-728-10y-504-gap-224",
+      "time": "2026-11-21T14:58:00Z",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate 7.28% on Nov. 19 sits 2.24 points above the 10-year yield",
+      "take": "FRED reports the 30-year fixed mortgage rate at 7.28% for Nov. 19, up from 7.11% on Nov. 12. The 10-year Treasury yield was 5.04% on Nov. 19 and 5.10% on Nov. 12, so the gap widened to 2.24 points from 2.01. AlphaGen read: the mortgage rate rose while the 10-year yield fell, which widened the gap.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-11-21T14:39:56Z"
+    },
+    {
+      "id": "2026-11-21-fred-2y-sofr-gap-nov19-085-vs-nov12-096",
+      "time": "2026-11-21T15:11:00Z",
+      "tag": "RATES",
+      "headline": "2-year Treasury yield 0.85 point above SOFR on Nov. 19, from 0.96 on Nov. 12",
+      "take": "FRED shows the 2-year Treasury yield at 4.76% and SOFR at 3.91% on Nov. 19, a gap of 0.85 percentage point. On Nov. 12 the 2-year was 4.86% and SOFR 3.90%, a gap of 0.96. AlphaGen read: the gap narrowed because the 2-year yield fell 0.10 point while SOFR moved up 0.01.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-21T14:39:56Z"
+    },
+    {
+      "id": "2026-11-21-fed-thanksgiving-weekly-releases-move-nov27",
+      "time": "2026-11-21T15:24:00Z",
+      "tag": "FED",
+      "headline": "Fed calendar: Thanksgiving week releases shift; H.4.1 set for Fri. Nov. 27, 4:30 p.m.",
+      "take": "The Federal Reserve Board's November calendar lists Thursday, Nov. 26 as a Thanksgiving holiday and says the daily and weekly statistical releases scheduled for that day will be released on Friday, Nov. 27. The calendar lists H.4.1 (Factors Affecting Reserve Balances) at 4:30 p.m. and H.8 (Assets and Liabilities of Commercial Banks) at 4:15 p.m. that Friday. AlphaGen read: the weekly balance-sheet and bank data land a day later than usual this week.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm",
+      "checked": "2026-11-21T14:39:56Z"
+    },
     {
       "id": "2026-11-21-bls-state-oct-jobless-3-lower-1-higher-46-stable",
       "time": "2026-11-21T13:44:00Z",
@@ -5079,46 +5119,6 @@
       "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
       "source_url": "https://www.federalreserve.gov/releases/h15/",
       "checked": "2026-11-15T18:39:31Z"
-    },
-    {
-      "id": "2026-11-15-h15-5y-vs-effr-nov12",
-      "time": "2026-11-15T19:04:31Z",
-      "tag": "RATES",
-      "headline": "5-year Treasury yield 1.07 points above 3.88% effective fed funds rate on Nov. 12, from 0.76",
-      "take": "The effective federal funds rate was 3.88% on each H.15 date from Nov. 6 to Nov. 12, while the 5-year yield went from 4.64% to 4.95%, widening the gap from 0.76 to 1.07 points (AlphaGen calculation). AlphaGen read: with the policy rate unchanged, the gap widened entirely because the 5-year yield rose.",
-      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-11-15T18:39:31Z"
-    },
-    {
-      "id": "2026-11-15-h15-2y-5y-nov12",
-      "time": "2026-11-15T19:15:31Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 0.09 point below 5-year on Nov. 12; the gap was 0.13 on Nov. 6",
-      "take": "H.15 lists the 2-year at 4.86% and the 5-year at 4.95% on Nov. 12, a 0.09-point gap, versus 4.51% and 4.64% on Nov. 6, a 0.13-point gap (AlphaGen calculation). The 2-year rose 35 bp over the period and the 5-year 31 bp. AlphaGen read: the front end rose slightly more than the 5-year, narrowing the 2s5s gap.",
-      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-11-15T18:39:31Z"
-    },
-    {
-      "id": "2026-11-15-cftc-euro-fx-net-short-157791",
-      "time": "2026-11-15T17:50:00Z",
-      "tag": "FX",
-      "headline": "CFTC: non-commercial euro FX net short 157,791 contracts as of Nov. 3, from 143,894 a week earlier",
-      "take": "CFTC's futures-only report for CME Euro FX (positions as of Nov. 3, updated Nov. 6) shows non-commercial longs of 229,383 and shorts of 387,174 on open interest of 876,122. Shorts rose 12,634 and longs fell 1,263 from Oct. 27, widening the net short by 13,897 contracts (AlphaGen calculation). AlphaGen read: this is the latest legacy report on the page we could open, so it is a week old and says nothing about positioning since.",
-      "source_name": "CFTC, Commitments of Traders (CME, futures only)",
-      "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
-      "checked": "2026-11-15T17:45:11Z"
-    },
-    {
-      "id": "2026-11-15-cftc-yen-net-long-102321",
-      "time": "2026-11-15T18:10:00Z",
-      "tag": "FX",
-      "headline": "CFTC: non-commercial yen futures net long 102,321 contracts as of Nov. 3, from 101,591",
-      "take": "CFTC's futures-only report for CME Japanese Yen (positions as of Nov. 3, updated Nov. 6) shows non-commercial longs of 227,198 and shorts of 124,877 on open interest of 380,641. Longs rose 1,682 and shorts rose 952 from Oct. 27, lifting the net long by 730 contracts (AlphaGen calculation). AlphaGen read: yen positioning barely moved, a contrast with the euro, where the net short widened by about 14,000.",
-      "source_name": "CFTC, Commitments of Traders (CME, futures only)",
-      "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
-      "checked": "2026-11-15T17:45:11Z"
     }
   ]
 }
