@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-20T23:39:00Z",
+  "updated": "2026-11-21T00:39:33Z",
   "items": [
+    {
+      "id": "2026-11-20-cook-genai-adoption-25-45pct-ahead-of-pcs",
+      "time": "2026-11-21T00:42:33Z",
+      "tag": "GLOBAL",
+      "headline": "Cook: generative AI used by 25% to 45% of working-age adults in rich economies",
+      "take": "In a Nov. 20 speech in Santiago, Governor Lisa Cook said recent work finds generative AI use among the working-age population ranges from roughly 25% to 45% across higher-income economies, including Chile, a pace that exceeds personal-computer adoption at a comparable stage. She cited IMF analysis suggesting advanced economies may capture a disproportionate share of AI-driven productivity growth over the next decade. AlphaGen read: the speech frames AI diffusion as the channel through which any productivity gains would reach the wider economy.",
+      "source_name": "Federal Reserve Board, Governor Cook speech",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "checked": "2026-11-21T00:39:33Z"
+    },
+    {
+      "id": "2026-11-20-cook-ai-labor-coding-translation-young-workers",
+      "time": "2026-11-21T00:53:33Z",
+      "tag": "FED",
+      "headline": "Cook: AI has cooled labor demand for coding and translation; youth job searches longer",
+      "take": "Governor Lisa Cook said U.S. labor markets appear resilient to date but that it is \"too soon to feel comforted,\" noting some evidence that labor demand has cooled for coding jobs in the software industry and in simultaneous translation. She added that younger adults are experiencing prolonged job searches, which some attribute to nascent AI pressure on entry-level positions. AlphaGen read: Cook flagged a nonzero probability that AI job losses precede new job creation.",
+      "source_name": "Federal Reserve Board, Governor Cook speech",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "checked": "2026-11-21T00:39:33Z"
+    },
+    {
+      "id": "2026-11-20-cook-critical-minerals-china-chile-copper-lithium",
+      "time": "2026-11-21T01:04:33Z",
+      "tag": "GLOBAL",
+      "headline": "Cook: China's critical-mineral export limits add uncertainty; Chile top copper producer",
+      "take": "Governor Lisa Cook said China has increased trade restrictions, limiting exports of critical minerals for which it supplies a large fraction of the world's production, and that uncertainty is rising around the world about access to them. She noted Chile is the world's largest copper producer and second-largest lithium producer, minerals increasingly central to AI-related power transmission and energy storage. AlphaGen read: Cook tied commodity-linked economies to the pace of the AI buildout.",
+      "source_name": "Federal Reserve Board, Governor Cook speech",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "checked": "2026-11-21T00:39:33Z"
+    },
+    {
+      "id": "2026-11-20-waller-college-fed-challenge-141-schools-34-states",
+      "time": "2026-11-21T01:15:33Z",
+      "tag": "FED",
+      "headline": "Waller: record 141 schools from 34 states entered the College Fed Challenge",
+      "take": "Governor Christopher Waller told the 2026 College Fed Challenge finals that a record 141 schools from 34 states took part, with seven teams in the finals, and that the contest began 23 years ago. He said that on Dec. 8 he and his 18 FOMC colleagues will each present their view of the economic outlook, and on Dec. 9 their view of the proper policy stance. AlphaGen read: the remarks describe the December meeting's two-day structure rather than signal a policy view.",
+      "source_name": "Federal Reserve Board, Governor Waller remarks",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+      "checked": "2026-11-21T00:39:33Z"
+    },
+    {
+      "id": "2026-11-20-fred-30y-yield-nov18-541-vs-nov13-547",
+      "time": "2026-11-21T01:26:33Z",
+      "tag": "RATES",
+      "headline": "30-year Treasury yield 5.41% on Nov. 18, down 0.06 point from Nov. 13's 5.47%",
+      "take": "FRED shows the 30-year Treasury constant-maturity yield at 5.41% on Nov. 18, from 5.47% on Nov. 13 and 5.46% on both Nov. 16 and Nov. 17. The Nov. 10 reading was 5.35%. AlphaGen read: the long end eased slightly after the Nov. 13 high in the observations shown but remained above its Nov. 10 level.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-21T00:39:33Z"
+    },
     {
       "id": "2026-11-20-pypl-claire-bramley-cfo-feb-1",
       "tag": "EQUITIES",
@@ -5065,56 +5115,6 @@
       "source_name": "U.S. Treasury, Fiscal Data",
       "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
       "checked": "2026-11-15T03:38:50Z"
-    },
-    {
-      "id": "2026-11-15-treasury-bills-btc-range-oct8-15",
-      "time": "2026-11-15T03:48:50Z",
-      "tag": "DEBT",
-      "headline": "Bill auctions Oct. 8-15: bid-to-cover from 2.26 (8-week) to 2.79 (17-week)",
-      "take": "Across the eight latest bill auctions in Treasury's data (Oct. 8 to Oct. 15), bid-to-cover ratios ranged from 2.26 for the Oct. 15 8-week bill, offered at $105 billion, to 2.79 for the Oct. 14 17-week bill, offered at $75 billion. The 4-week bills on Oct. 8 and Oct. 15 covered 2.40 and 2.56 times. AlphaGen read: the highest and lowest ratios came from two different bill maturities within two days of each other.",
-      "source_name": "U.S. Treasury, Fiscal Data",
-      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-      "checked": "2026-11-15T03:38:50Z"
-    },
-    {
-      "id": "2026-11-15-treasury-bill-rates-oct13-15",
-      "time": "2026-11-15T03:57:50Z",
-      "tag": "RATES",
-      "headline": "Latest bill auctions: high rates 4.055% (6-week) to 4.351% (26-week)",
-      "take": "In Treasury's latest auction results (Oct. 13 to Oct. 15), high investment rates were 4.068% for the 4-week bill, 4.055% for the 6-week, 4.132% for the 8-week, 4.185% for the 13-week, 4.313% for the 17-week and 4.351% for the 26-week. The 26-week rate was 0.283 point above the 4-week. AlphaGen read: rates rose with maturity from the 6-week bill outward in these results.",
-      "source_name": "U.S. Treasury, Fiscal Data",
-      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-      "checked": "2026-11-15T03:38:50Z"
-    },
-    {
-      "id": "2026-11-15-fred-brent-nov6-nov9-drop",
-      "time": "2026-11-15T04:09:50Z",
-      "tag": "COMMODITIES",
-      "headline": "Brent fell $6.80 between Nov. 6 and Nov. 9 FRED readings, to $91.03",
-      "take": "FRED's daily Brent series shows $97.83 a barrel on Nov. 6 and $91.03 on Nov. 9, a $6.80 decline, after $97.96 on Nov. 5 (the highest of six readings from Nov. 4 to Nov. 11). Brent was $90.16 on Nov. 10 and $92.14 on Nov. 11. AlphaGen read: the Nov. 11 reading is still $1.98 above the Nov. 10 low.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (Brent, DCOILBRENTEU)",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "checked": "2026-11-15T03:38:50Z"
-    },
-    {
-      "id": "2026-11-15-fred-30y-10y-nov12-033",
-      "time": "2026-11-15T04:22:50Z",
-      "tag": "RATES",
-      "headline": "30-year minus 10-year Treasury yield 0.33 point on Nov. 12, from 0.41 on Nov. 5",
-      "take": "FRED shows the 30-year Treasury at 5.43% and the 10-year at 5.10% on Nov. 12, a 0.33 point gap, down from 0.41 on Nov. 5 (5.25% and 4.84%). The 10-year rose 0.26 point over that span and the 30-year 0.18 point. AlphaGen read: the long end rose less than the 10-year over the week, narrowing the gap.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS10, DGS30)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "checked": "2026-11-15T03:38:50Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-energy-path",
-      "time": "2026-11-15T02:50:00Z",
-      "tag": "MACRO",
-      "headline": "CPI energy +0.7% in October after +5.2%; June and July were the declines",
-      "take": "BLS's October CPI table shows the energy index rose 0.7% in October after 5.2% in September, with April through October changes of 3.8%, 3.9%, -5.7%, -1.5%, 2.1%, 5.2% and 0.7%. The two declines were in June (-5.7%) and July (-1.5%). AlphaGen read: October's energy gain was the smallest of the five increases in the seven months.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T02:58:00Z"
     }
   ]
 }
