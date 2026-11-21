@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T03:39:04Z",
+  "updated": "2026-11-21T11:38:45Z",
   "items": [
+    {
+      "id": "2026-11-21-fred-30y-nov19-540-vs-nov12-543",
+      "time": "2026-11-21T11:43:45Z",
+      "tag": "RATES",
+      "headline": "30-year Treasury yield 5.40% on Nov. 19, down 0.03 point from Nov. 12",
+      "take": "FRED shows the 30-year constant-maturity Treasury yield at 5.40% on Nov. 19, versus 5.43% on Nov. 12 and 5.47% on Nov. 13. That is 0.07 point below the Nov. 13 reading in the latest observations. AlphaGen read: long-end yields eased through the week but stayed above 5.4%.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "checked": "2026-11-21T11:38:45Z"
+    },
+    {
+      "id": "2026-11-21-fred-10s30s-nov19-036-vs-nov12-033",
+      "time": "2026-11-21T11:52:45Z",
+      "tag": "RATES",
+      "headline": "10s30s Treasury gap 0.36 point on Nov. 19, up from 0.33 on Nov. 12",
+      "take": "Using FRED's constant-maturity yields, the 30-year yield (5.40%) minus the 10-year (5.04%) was 0.36 point on Nov. 19, versus 0.33 point on Nov. 12 (5.43% minus 5.10%). The 10-year fell 0.06 point over that span and the 30-year fell 0.03 point. AlphaGen read: the gap widened because the 10-year eased more than the 30-year.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "checked": "2026-11-21T11:38:45Z"
+    },
+    {
+      "id": "2026-11-21-fred-hy-ig-gap-nov19-258-vs-nov12-231",
+      "time": "2026-11-21T12:01:45Z",
+      "tag": "CREDIT",
+      "headline": "High-yield minus investment-grade spread 2.58 points on Nov. 19, up from 2.31",
+      "take": "FRED's ICE BofA option-adjusted spreads show high yield at 3.52 and investment grade at 0.94 on Nov. 19, a gap of 2.58 points. On Nov. 12 the readings were 3.20 and 0.89, a gap of 2.31, and on Nov. 18 the gap was 2.54. AlphaGen read: the extra yield demanded for junk over investment-grade debt has widened for several sessions in a row.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "checked": "2026-11-21T11:38:45Z"
+    },
+    {
+      "id": "2026-11-21-fred-10y-nominal-504-real-288-breakeven-216-nov19",
+      "time": "2026-11-21T12:10:45Z",
+      "tag": "RATES",
+      "headline": "10-year yield 5.04% on Nov. 19 splits into 2.88% real and 2.16% breakeven",
+      "take": "FRED shows the 10-year Treasury yield at 5.04% on Nov. 19, the 10-year inflation-indexed (real) yield at 2.88% and the 10-year breakeven inflation rate at 2.16%. The real yield and breakeven add to the nominal yield (2.88 + 2.16 = 5.04). AlphaGen read: most of the 10-year yield reflects the real return, not inflation compensation.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/DFII10",
+      "checked": "2026-11-21T11:38:45Z"
+    },
     {
       "id": "2026-11-20-fed-ucla-wins-college-fed-challenge-warsh",
       "time": "2026-11-21T03:41:04Z",
@@ -5076,46 +5116,6 @@
       "tag": "MACRO",
       "headline": "CPI food +0.5% in October after flat September; ties April's gain",
       "take": "BLS's Nov. 10 CPI release shows the food index rose 0.5% in October after being unchanged in September. The monthly path from April was 0.5%, 0.2%, 0.2%, 0.1%, 0.1%, 0.0% and 0.5%. AlphaGen read: October equals April's gain as the largest monthly increase in the seven months shown.",
-      "source_name": "Bureau of Labor Statistics (CPI)",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T14:44:07Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-medical-services-path",
-      "time": "2026-11-15T15:13:00Z",
-      "tag": "MACRO",
-      "headline": "CPI medical care services +0.3% in October, matching September",
-      "take": "BLS's Nov. 10 CPI table shows the medical care services index rose 0.3% in October, the same as in September. The monthly path from April was 0.0%, 0.5%, -0.1%, 0.6%, -0.2%, 0.3% and 0.3%, with June and August the two declines. AlphaGen read: the series has been choppy, and the two latest months are steadier than the summer swings.",
-      "source_name": "Bureau of Labor Statistics (CPI)",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T14:44:07Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-services-less-energy-path",
-      "time": "2026-11-15T15:02:00Z",
-      "tag": "MACRO",
-      "headline": "CPI services less energy services +0.3% in October after +0.4%",
-      "take": "BLS's Nov. 10 CPI table shows services less energy services rose 0.3% in October after 0.4% in September. From April the monthly changes were 0.5%, 0.3%, 0.0%, 0.2%, 0.3%, 0.4% and 0.3%, with June the only flat reading. AlphaGen read: services inflation has run at 0.3% or higher in each of the last three months.",
-      "source_name": "Bureau of Labor Statistics (CPI)",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T14:44:07Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-core-monthly-path",
-      "time": "2026-11-15T14:51:00Z",
-      "tag": "MACRO",
-      "headline": "CPI excluding food and energy +0.3% for a third month; June was flat",
-      "take": "BLS's Nov. 10 CPI release shows the all-items-less-food-and-energy index rose 0.3% in October, as it did in September and August. The monthly path from April was 0.4%, 0.2%, 0.0%, 0.2%, 0.3%, 0.3% and 0.3%. AlphaGen read: the core index has held at 0.3% for three consecutive months after readings of 0.2%, 0.0% and 0.2% in May-July.",
-      "source_name": "Bureau of Labor Statistics (CPI)",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T14:44:07Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-transport-services-path",
-      "time": "2026-11-15T14:40:00Z",
-      "tag": "MACRO",
-      "headline": "CPI transportation services +0.8% in October, the largest of seven months",
-      "take": "BLS's Nov. 10 CPI release shows the transportation services index rose 0.8% in October after 0.6% in September. The monthly path from April was 0.3%, -0.6%, -0.3%, 0.3%, 0.5%, 0.6% and 0.8%, with May and June the two declines. AlphaGen read: the index has risen in each of the last four months, and October's reading is the highest in the April-October table.",
       "source_name": "Bureau of Labor Statistics (CPI)",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "checked": "2026-11-15T14:44:07Z"
