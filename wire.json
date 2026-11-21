@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T14:39:56Z",
+  "updated": "2026-11-21T15:39:49Z",
   "items": [
+    {
+      "id": "2026-11-21-bea-outdoor-rec-employment-43-states-ri-ks-dc-5p0",
+      "time": "2026-11-21T15:42:49Z",
+      "tag": "MACRO",
+      "headline": "BEA: outdoor recreation jobs rose in 43 states and DC in 2025; RI, KS, DC up 5.0%",
+      "take": "BEA said outdoor recreation employment increased in 43 states and the District of Columbia in 2025, with changes ranging from 5.0% in Rhode Island, Kansas and the District of Columbia to -1.1% in New Jersey and Alabama. Nationally, outdoor recreation employment rose 1.7% and compensation 4.6%. AlphaGen read: job growth in the sector was spread across most states, with only a few at the bottom of the range posting declines.",
+      "source_name": "BEA, Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+      "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+      "checked": "2026-11-21T15:39:49Z"
+    },
+    {
+      "id": "2026-11-21-bea-outdoor-rec-hawaii-6p1-dc-1p0-snow-7p8b",
+      "time": "2026-11-21T15:57:49Z",
+      "tag": "MACRO",
+      "headline": "BEA: outdoor recreation is 6.1% of Hawaii's GDP vs 1.0% in DC; snow activities $7.8B",
+      "take": "BEA reported outdoor recreation value added at 2.3% ($704.2 billion) of U.S. current-dollar GDP in 2025, ranging by state from 6.1% in Hawaii to 1.0% in the District of Columbia. Snow activities totaled $7.8 billion nationally, with Colorado ($1.8 billion), California ($735.7 million) and Utah ($640.1 million) the largest state contributions. AlphaGen read: the state share range shows how unevenly the sector's weight is spread across local economies.",
+      "source_name": "BEA, Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+      "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+      "checked": "2026-11-21T15:39:49Z"
+    },
+    {
+      "id": "2026-11-21-ecb-lagarde-eighth-last-frankfurt-congress-greece-six-quarter-recession",
+      "time": "2026-11-21T16:12:49Z",
+      "tag": "GLOBAL",
+      "headline": "Lagarde: acting late on Greece cost a six-quarter recession; last Frankfurt keynote",
+      "take": "In her Nov. 20 keynote at the 36th Frankfurt European Banking Congress, ECB President Christine Lagarde said it was the eighth time she had spoken there as President and \"it will sadly be the last.\" She said the scale of Greece's difficulties was clear long before Europe acted decisively, and that Europe paid a much higher price than if it had acted earlier, including a six-quarter recession. AlphaGen read: the speech frames slow-moving risks as the ones European institutions find hardest to act on early.",
+      "source_name": "European Central Bank, Christine Lagarde: Acting in time",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "checked": "2026-11-21T15:39:49Z"
+    },
+    {
+      "id": "2026-11-21-ecb-lagarde-online-third-spending-icc-judges-cards",
+      "time": "2026-11-21T16:27:49Z",
+      "tag": "GLOBAL",
+      "headline": "Lagarde: over a third of euro area daily spending is online; ICC judges lost cards",
+      "take": "Lagarde said cash plays a smaller role as spending moves online, where more than a third of day-to-day spending now takes place, and that judges of the International Criminal Court living in Europe, some of them European citizens, lost the use of their bank cards overnight. She cited the changed geopolitical climate and the shift online as reasons the ECB concluded Europe needed a digital equivalent of cash, the digital euro. AlphaGen read: the ECB is tying the digital euro case to payments dependence, not only to cash decline.",
+      "source_name": "European Central Bank, Christine Lagarde: Acting in time",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "checked": "2026-11-21T15:39:49Z"
+    },
     {
       "id": "2026-11-21-fred-30y-2y-gap-nov19-064-vs-nov12-057",
       "time": "2026-11-21T14:45:00Z",
@@ -5079,46 +5119,6 @@
       "source_name": "EIA, Short-Term Energy Outlook: Winter Fuels Outlook 2026-27",
       "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
       "checked": "2026-11-15T19:39:00Z"
-    },
-    {
-      "id": "2026-11-15-eia-winter-propane-1246-down-3",
-      "time": "2026-11-15T20:12:00Z",
-      "tag": "COMMODITIES",
-      "headline": "EIA winter outlook: propane households $1,246, down 3% on a $2.52 price",
-      "take": "EIA's Winter Fuels Outlook (released Oct. 6) projects average propane household spending of $1,246 for November-March, down 3% from last winter. It sees propane at $2.52 a gallon, down 2%, and consumption of 494 gallons, down 1%. AlphaGen calculation: heating oil's $2,115 is 1.70 times the propane bill.",
-      "source_name": "EIA, Short-Term Energy Outlook: Winter Fuels Outlook 2026-27",
-      "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
-      "checked": "2026-11-15T19:39:00Z"
-    },
-    {
-      "id": "2026-11-15-eia-winter-hdd-west-colder",
-      "time": "2026-11-15T20:27:00Z",
-      "tag": "ENERGY",
-      "headline": "EIA winter outlook assumes West heating degree days +25%, Northeast -12%",
-      "take": "EIA's Winter Fuels Outlook assumes November-March heating degree days of 2,781 in the West, up 25% from last winter, and 4,331 in the Northeast, down 12%; the U.S. total is 3,155, unchanged. The Midwest is 4,802 (-2%) and the South 2,021 (+1%). AlphaGen read: EIA's natural gas bill forecast rises 7% in the West ($590) while falling 14% in the Northeast ($879).",
-      "source_name": "EIA, Short-Term Energy Outlook: Winter Fuels Outlook 2026-27",
-      "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
-      "checked": "2026-11-15T19:39:00Z"
-    },
-    {
-      "id": "2026-11-15-h15-5y-nov12-495",
-      "time": "2026-11-15T18:42:31Z",
-      "tag": "RATES",
-      "headline": "5-year Treasury yield 4.95% on Nov. 12, up 31 bp from 4.64% on Nov. 6",
-      "take": "The Fed's H.15 release (dated Nov. 13) lists the 5-year constant-maturity yield at 4.95% on Nov. 12, from 4.81% on Nov. 10 and 4.64% on Nov. 6; Nov. 11 was marked markets closed. The rise is 31 bp over the six days (AlphaGen calculation). AlphaGen read: the move in the 5-year tracked the 2-year (4.51% to 4.86%) more closely than the 30-year (5.26% to 5.43%).",
-      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-11-15T18:39:31Z"
-    },
-    {
-      "id": "2026-11-15-h15-5s10s-5s30s-nov12",
-      "time": "2026-11-15T18:53:31Z",
-      "tag": "RATES",
-      "headline": "5s10s gap 0.15 point and 5s30s 0.48 on Nov. 12, from 0.22 and 0.62 on Nov. 6",
-      "take": "H.15 shows the 10-year at 5.10% and the 30-year at 5.43% against a 5-year at 4.95% on Nov. 12, so the 10-year sat 0.15 point above the 5-year and the 30-year 0.48 above it (AlphaGen calculation). On Nov. 6 those gaps were 0.22 and 0.62 (4.64%, 4.86%, 5.26%). AlphaGen read: the 5-year rose faster than longer maturities over the period, flattening this part of the curve.",
-      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
-      "source_url": "https://www.federalreserve.gov/releases/h15/",
-      "checked": "2026-11-15T18:39:31Z"
     }
   ]
 }
