@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T15:39:49Z",
+  "updated": "2026-11-21T16:39:56Z",
   "items": [
+    {
+      "id": "2026-11-21-bea-outdoor-rec-industry-arts-179p5b-retail-166p5b",
+      "time": "2026-11-21T17:34:00Z",
+      "tag": "MACRO",
+      "headline": "BEA: outdoor recreation by industry led by arts/lodging/food at $179.5B, retail $166.5B",
+      "take": "BEA said the arts, entertainment, recreation, accommodation and food services group was the largest industry contributor to 2025 outdoor recreation value added at $179.5 billion (25.5%), ahead of retail trade at $166.5 billion (23.6%) and transportation and warehousing at $86.4 billion (12.3%). The largest state contributions in the first group were California ($23.5 billion), Florida ($23.4 billion) and New York ($11.6 billion). AlphaGen read: those three groups sum to $432.4 billion, about 61.4% of the sector's $704.2 billion.",
+      "source_name": "BEA, Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+      "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+      "checked": "2026-11-21T16:39:56Z"
+    },
+    {
+      "id": "2026-11-21-bea-outdoor-rec-rving-26p8b-indiana-4p7b",
+      "time": "2026-11-21T17:22:00Z",
+      "tag": "MACRO",
+      "headline": "BEA: RVing was $26.8B of outdoor recreation value added in 2025; Indiana led at $4.7B",
+      "take": "BEA reported RVing was the second-largest conventional outdoor recreation activity nationally at $26.8 billion in 2025 current-dollar value added and the largest in 10 states, with Indiana ($4.7 billion), Texas ($2.6 billion) and California ($2.1 billion) the largest state contributions. Hunting/shooting/trapping was third at $15.1 billion, led by Texas ($1.8 billion). AlphaGen read: RVing's state footprint is concentrated differently from boating and fishing, with Indiana at the top.",
+      "source_name": "BEA, Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+      "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+      "checked": "2026-11-21T16:39:56Z"
+    },
+    {
+      "id": "2026-11-21-bea-outdoor-rec-supporting-51p5pct-conventional-29p2pct",
+      "time": "2026-11-21T17:10:00Z",
+      "tag": "MACRO",
+      "headline": "BEA: supporting activities were 51.5% of outdoor recreation value added in 2025",
+      "take": "BEA said supporting outdoor recreation, such as construction, travel and tourism, local trips and government expenditures, accounted for 51.5% of 2025 outdoor recreation value added, versus 51.7% in 2024. Conventional activities were 29.2% (29.1% in 2024) and other activities 19.3% (19.1%). AlphaGen read: the mix barely moved, with supporting spending still about half the sector.",
+      "source_name": "BEA, Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+      "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+      "checked": "2026-11-21T16:39:56Z"
+    },
+    {
+      "id": "2026-11-21-fred-mortgage-30y-treasury-gap-nov19-188-vs-168",
+      "time": "2026-11-21T16:58:00Z",
+      "tag": "HOUSING",
+      "headline": "30-year mortgage rate sat 1.88 points above 30-year Treasury yield on Nov. 19, from 1.68",
+      "take": "Freddie Mac's 30-year fixed mortgage rate was 7.28% in the week of Nov. 19, versus a 30-year Treasury constant-maturity yield of 5.40% that day, a gap of 1.88 percentage points. On Nov. 12 the rate was 7.11% against a 5.43% yield, a gap of 1.68 points, so the gap widened 0.20 point. AlphaGen read: the mortgage rate rose over the week while the long Treasury yield slipped, so the spread, not the Treasury market, drove the increase.",
+      "source_name": "FRED, Freddie Mac 30-Year Fixed Rate Mortgage Average (MORTGAGE30US) and 30-Year Treasury (DGS30)",
+      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "checked": "2026-11-21T16:39:56Z"
+    },
     {
       "id": "2026-11-21-bea-outdoor-rec-employment-43-states-ri-ks-dc-5p0",
       "time": "2026-11-21T15:42:49Z",
@@ -5079,46 +5119,6 @@
       "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
       "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
       "checked": "2026-11-15T20:39:17Z"
-    },
-    {
-      "id": "2026-11-15-trade-sept-exports-capital-goods-gold",
-      "time": "2026-11-15T21:20:00Z",
-      "tag": "MACRO",
-      "headline": "September goods exports: capital goods +$3.8B, soybeans +$1.3B, gold -$3.4B",
-      "take": "BEA reports goods exports rose $5.1 billion to $211.0 billion in September. Capital goods increased $3.8 billion (computers +$1.3 billion, civilian aircraft +$0.7 billion), foods, feeds and beverages rose $1.9 billion (soybeans +$1.3 billion), and crude oil exports rose $1.2 billion. Nonmonetary gold decreased $3.4 billion, while industrial supplies and materials fell $1.0 billion. AlphaGen read: the gold decline was the largest single offset among the categories listed.",
-      "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-15T20:39:17Z"
-    },
-    {
-      "id": "2026-11-15-fred-wti-henry-hub-ratio-nov11",
-      "time": "2026-11-15T21:32:00Z",
-      "tag": "COMMODITIES",
-      "headline": "WTI is 29.9 times Henry Hub gas on Nov. 11, from 36.3 on Nov. 6",
-      "take": "FRED shows WTI spot at $89.62 a barrel and Henry Hub natural gas at $3.00 per million Btu on Nov. 11; on Nov. 6 they were $94.37 and $2.60. Dividing the two gives ratios of 29.9 and 36.3. AlphaGen read: oil fell $4.75 while gas rose $0.40 over the span, so the gap between the two fuels narrowed (price units differ, so the ratio is a relative gauge only).",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO and DHHNGSP)",
-      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-      "checked": "2026-11-15T20:39:17Z"
-    },
-    {
-      "id": "2026-11-15-eia-winter-heating-oil-2115",
-      "time": "2026-11-15T19:42:00Z",
-      "tag": "ENERGY",
-      "headline": "EIA winter outlook: heating oil households to spend $2,115, up 21%",
-      "take": "EIA's Winter Fuels Outlook (released Oct. 6) puts the average heating oil household's November-March spending at $2,115, up 21% from last winter. It forecasts a price of $5.26 a gallon, up 34%, with consumption of 402 gallons, down 9%. AlphaGen read: the bill rises because price outpaces the drop in use; heating oil is about 3% of households, per EIA.",
-      "source_name": "EIA, Short-Term Energy Outlook: Winter Fuels Outlook 2026-27",
-      "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
-      "checked": "2026-11-15T19:39:00Z"
-    },
-    {
-      "id": "2026-11-15-eia-winter-natgas-640-electric-1196",
-      "time": "2026-11-15T19:57:00Z",
-      "tag": "ENERGY",
-      "headline": "EIA winter outlook: gas-heated homes $640, down 9%; electric $1,196, up 4%",
-      "take": "EIA's Winter Fuels Outlook (released Oct. 6) forecasts November-March spending of $640 for the average natural gas household, down 9% on last winter, and $1,196 for electric heat, up 4%. Gas prices are forecast at $13.44 per thousand cubic feet (-9%); electricity at 18.23 cents per kWh (+3%) with consumption up 1%. AlphaGen calculation: the electric bill is $556 higher, or 1.87 times the gas bill.",
-      "source_name": "EIA, Short-Term Energy Outlook: Winter Fuels Outlook 2026-27",
-      "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
-      "checked": "2026-11-15T19:39:00Z"
     }
   ]
 }
