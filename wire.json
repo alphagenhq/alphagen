@@ -1,6 +1,67 @@
 {
-  "updated": "2026-11-21T00:39:33Z",
+  "updated": "2026-11-21T01:38:34Z",
   "items": [
+    {
+      "id": "2026-11-20-boe-mpg-minutes-nov18-energy-ai-hedge-fund-leverage",
+      "time": "2026-11-21T01:41:34Z",
+      "tag": "GLOBAL",
+      "headline": "BoE market group minutes cite energy, AI debt financing, hedge-fund leverage",
+      "take": "The Bank of England published minutes of its Nov. 18 Market Participants Group meeting on Nov. 19. Participants noted the resilience of UK growth despite the energy shock, which was broadly seen to have strengthened the case for higher rates, with the November increase widely expected, and discussed vulnerabilities including elevated hedge-fund leverage, sovereign debt pressures and cyber risks. AlphaGen read: the minutes tie energy prices, AI-related investment and leverage together as themes under discussion.",
+      "source_name": "Bank of England, Market Participants Group minutes",
+      "source_url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+      "checked": "2026-11-21T01:38:34Z"
+    },
+    {
+      "id": "2026-11-20-boe-fca-pra-cyber-guidance-oct-incidents-52pct",
+      "time": "2026-11-21T01:51:34Z",
+      "tag": "GLOBAL",
+      "headline": "UK regulators propose cyber resilience guidance as October incident reports rise",
+      "take": "The Bank of England, FCA and PRA proposed new guidance on Nov. 19 to help financial firms prepare for and recover from cyber incidents. The release says October 2026 saw the second-highest monthly number of cyber incidents reported to the FCA in five years, 52% above the previous 18-month peak recorded in May 2025. AlphaGen read: the proposal brings together existing requirements and supervisory lessons rather than imposing rigid rules, per the regulators.",
+      "source_name": "Bank of England, FCA and PRA news release",
+      "source_url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+      "checked": "2026-11-21T01:38:34Z"
+    },
+    {
+      "id": "2026-11-20-fred-henry-hub-nov17-310-vs-nov12-300",
+      "time": "2026-11-21T02:01:34Z",
+      "tag": "ENERGY",
+      "headline": "Henry Hub natural gas spot $3.10 on Nov. 17, up $0.10 from Nov. 12",
+      "take": "FRED shows the Henry Hub natural gas spot price at $3.10 on Nov. 17, up $0.10 from $3.00 on Nov. 12 and below the $3.26 recorded on Nov. 13. The series was $3.00 on each of Nov. 10, 11 and 12. AlphaGen read: gas has stayed between $3.00 and $3.26 across the observations published this month.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (DHHNGSP)",
+      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
+      "checked": "2026-11-21T01:38:34Z"
+    },
+    {
+      "id": "2026-11-20-fred-ig-spread-nov19-094-vs-nov12-089",
+      "time": "2026-11-21T02:10:34Z",
+      "tag": "CREDIT",
+      "headline": "Investment-grade spread 0.94 point on Nov. 19, up from 0.89 on Nov. 12",
+      "take": "The FRED investment-grade corporate spread series (BAMLC0A0CM) was 0.94 on Nov. 19, up 0.05 point from 0.89 on Nov. 12. It has risen each day since 0.90 on Nov. 16. AlphaGen read: investment-grade spreads moved in the same direction as the high-yield series, 3.52 on Nov. 19, though the change is small in absolute terms.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLC0A0CM)",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+      "checked": "2026-11-21T01:38:34Z"
+    },
+    {
+      "id": "2026-11-20-fred-10y-breakeven-nov19-216-vs-nov12-224",
+      "time": "2026-11-21T02:19:34Z",
+      "tag": "RATES",
+      "headline": "10-year breakeven inflation rate 2.16% on Nov. 19, down from 2.24% on Nov. 12",
+      "take": "FRED's 10-year breakeven inflation rate was 2.16% on Nov. 19, down 0.08 point from 2.24% on Nov. 12, and below 2.19% on Nov. 18. The 10-year real yield was 2.88% on Nov. 18. AlphaGen read: this market-implied inflation measure has eased over the past week.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis (T10YIE)",
+      "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+      "checked": "2026-11-21T01:38:34Z"
+    },
+    {
+      "id": "2026-11-20-nws-8k-buyback-program-1b-asx-disclosures",
+      "time": "2026-11-21T02:27:34Z",
+      "tag": "EQUITIES",
+      "headline": "News Corp 8-K files ASX buyback disclosures under $1B repurchase program",
+      "take": "News Corporation filed an 8-K (Item 8.01) for Nov. 19 attaching information provided to the Australian Securities Exchange on repurchase transactions, if any. The filing says the company is authorized to acquire up to $1 billion in aggregate of its Class A and Class B common stock. AlphaGen read: the filing is a disclosure tied to ASX rules and does not itself state purchase amounts.",
+      "source_name": "SEC EDGAR, News Corp Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000266/0001564708-26-000266.txt",
+      "ticker": "NASDAQ:NWSA",
+      "checked": "2026-11-21T01:38:34Z"
+    },
     {
       "id": "2026-11-20-cook-genai-adoption-25-45pct-ahead-of-pcs",
       "time": "2026-11-21T00:42:33Z",
@@ -5055,66 +5116,6 @@
       "source_name": "European Central Bank",
       "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
       "checked": "2026-11-15T12:39:37Z"
-    },
-    {
-      "id": "2026-11-15-fred-2y-10y-30y-highest-since",
-      "time": "2026-11-15T12:35:00Z",
-      "tag": "RATES",
-      "headline": "Treasury yields on Nov. 12: 2-year highest since Sept. 30, 10-year since Oct. 21",
-      "take": "FRED's constant-maturity yields on Nov. 12 were 4.86% for the 2-year, 5.10% for the 10-year and 5.43% for the 30-year. The 2-year was last higher on Sept. 30 (4.88%), the 10-year on Oct. 21 (5.13%) and the 30-year on Oct. 19 (5.48%) (AlphaGen calculation from daily observations). AlphaGen read: the 2-year is up 40 bp from 4.46% on Nov. 5, and the 10-year is back at its Oct. 15 level of 5.10%.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-15T11:45:25Z"
-    },
-    {
-      "id": "2026-11-15-fred-10y-real-yield-highest-since-oct13",
-      "time": "2026-11-15T12:23:00Z",
-      "tag": "RATES",
-      "headline": "10-year real yield 2.86% on Nov. 12, highest since Oct. 13",
-      "take": "FRED's 10-year inflation-indexed yield was 2.86% on Nov. 12, its highest reading since Oct. 13, when it was 2.88%. The 10-year breakeven was 2.24% on Nov. 12, versus 2.33% on Oct. 13 (nominal 5.21% minus real 2.88%, AlphaGen calculation). AlphaGen read: the nominal 10-year is 11 bp lower than on Oct. 13, and the real yield is 2 bp lower, so the gap since then is mostly in the breakeven.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-15T11:45:25Z"
-    },
-    {
-      "id": "2026-11-15-fred-2y-3m-spread-nov12-054",
-      "time": "2026-11-15T12:11:00Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 0.54 point above 3-month bill on Nov. 12, from 0.29 on Nov. 5",
-      "take": "FRED shows the 2-year yield at 4.86% and the 3-month bill at 4.32% on Nov. 12, a 0.54-point gap, versus 4.46% and 4.17% (0.29 point) on Nov. 5 (AlphaGen calculation). The gap was 0.32 on Nov. 9 and 0.43 on Nov. 10. AlphaGen read: the 2-year has risen 40 bp since Nov. 5 while the 3-month bill rose 15 bp.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-15T11:45:25Z"
-    },
-    {
-      "id": "2026-11-15-bls-eci-q3-0p8",
-      "time": "2026-11-15T12:00:00Z",
-      "tag": "MACRO",
-      "headline": "BLS lists Employment Cost Index +0.8% in Q3 2026 alongside productivity +3.6%",
-      "take": "BLS's Latest Numbers table lists the Employment Cost Index at +0.8% in the third quarter of 2026 and productivity at +3.6% in the third quarter, with October average hourly earnings up $0.14 (preliminary). The BLS news-release list shows the Q3 productivity release on Nov. 5 reporting unit labor costs down 0.7% at an annualized rate.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/bls/",
-      "checked": "2026-11-15T11:45:25Z"
-    },
-    {
-      "id": "2026-11-15-fred-hy-oas-lowest-since-oct28",
-      "time": "2026-11-15T11:50:00Z",
-      "tag": "CREDIT",
-      "headline": "High-yield spread 3.20 points on Nov. 12, lowest since Oct. 28",
-      "take": "FRED's high-yield option-adjusted spread (BAMLH0A0HYM2) was 3.20 points on Nov. 12, down from 3.48 on Nov. 5 and the lowest reading since Oct. 28, when it was 3.14. The spread was 3.44 on Oct. 30. AlphaGen read: the spread has retraced 0.28 point since Nov. 5 (AlphaGen calculation) and sits within the 3.11-3.48 range seen since Oct. 12.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-      "checked": "2026-11-15T11:45:25Z"
-    },
-    {
-      "id": "2026-11-15-treasury-26wk-bill-oct13-indirect",
-      "time": "2026-11-15T03:40:50Z",
-      "tag": "DEBT",
-      "headline": "26-week bill auction (Oct. 13): 4.351% high rate, 2.76 bid-to-cover",
-      "take": "Treasury's auction data show the Oct. 13 26-week bill sale had an $82.0 billion offering, a 4.351% high investment rate and a 2.76 bid-to-cover ratio. Total accepted was $86.7 billion, of which indirect bidders took $52.7 billion (60.8%), primary dealers $18.5 billion and direct bidders $8.3 billion. AlphaGen read: indirect bidders accounted for the largest part of the total accepted, and this is the only 26-week result among the dataset's latest rows.",
-      "source_name": "U.S. Treasury, Fiscal Data",
-      "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-      "checked": "2026-11-15T03:38:50Z"
     }
   ]
 }
