@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T02:39:14Z",
+  "updated": "2026-11-21T03:39:04Z",
   "items": [
+    {
+      "id": "2026-11-20-fed-ucla-wins-college-fed-challenge-warsh",
+      "time": "2026-11-21T03:41:04Z",
+      "tag": "FED",
+      "headline": "Fed: UCLA wins 23rd College Fed Challenge; Chicago second, Maryland third",
+      "take": "The Federal Reserve said the University of California, Los Angeles won the 23rd annual national College Fed Challenge on Nov. 20, with the University of Chicago in second place and the University of Maryland, College Park in third. The competition drew 141 schools from 34 states, the most in its history, and Chairman Kevin Warsh said the students \"took on the same big questions we policymakers face.\" AlphaGen read: the contest is educational and carries no policy signal.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "checked": "2026-11-21T03:39:04Z"
+    },
+    {
+      "id": "2026-11-20-fred-10y-breakeven-nov20-215-vs-nov13-224",
+      "time": "2026-11-21T03:53:04Z",
+      "tag": "RATES",
+      "headline": "10-year breakeven inflation rate 2.15% on Nov. 20, down 0.09 point from Nov. 13",
+      "take": "FRED shows the 10-year breakeven inflation rate at 2.15% on Nov. 20, versus 2.24% on Nov. 13 and 2.16% on Nov. 19. The 10-year Treasury yield was 5.04% on Nov. 19 and the 10-year TIPS real yield was 2.88%, a 2.16-point gap that matches that day's 2.16% breakeven. AlphaGen read: the market-implied inflation compensation for the next decade has eased over the past week.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+      "checked": "2026-11-21T03:39:04Z"
+    },
+    {
+      "id": "2026-11-20-fred-10y2y-nov20-029-vs-nov13-027",
+      "time": "2026-11-21T04:05:04Z",
+      "tag": "RATES",
+      "headline": "10-year minus 2-year Treasury spread 0.29 point on Nov. 20, up from 0.27 on Nov. 13",
+      "take": "FRED shows the 10-year minus 2-year Treasury constant-maturity spread at 0.29 percentage point on Nov. 20, compared with 0.27 on Nov. 13, 0.27 on Nov. 18 and 0.28 on Nov. 19. The 2-year yield was 4.76% and the 10-year 5.04% on Nov. 19. AlphaGen read: the spread has stayed positive and ranged from 0.27 to 0.30 point over the past week.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-21T03:39:04Z"
+    },
+    {
+      "id": "2026-11-20-fred-rrp-nov20-401m-vs-nov13-325m",
+      "time": "2026-11-21T04:17:04Z",
+      "tag": "FED",
+      "headline": "Fed overnight reverse repo usage $0.401B on Nov. 20, up from $0.325B on Nov. 13",
+      "take": "FRED shows overnight reverse repurchase agreement take-up at the Federal Reserve of $0.401 billion on Nov. 20, versus $0.325 billion on Nov. 13 and $0.405 billion on Nov. 19, a rise of $0.076 billion over the week. SOFR was 3.91% on Nov. 19. AlphaGen read: usage remains a rounding error next to the Fed's $6.74 trillion balance sheet as of Nov. 18.",
+      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+      "checked": "2026-11-21T03:39:04Z"
+    },
     {
       "id": "2026-11-20-et-2p7b-notes-2032-2037-2057",
       "time": "2026-11-21T02:41:14Z",
@@ -5079,46 +5119,6 @@
       "source_name": "Bureau of Labor Statistics (CPI)",
       "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
       "checked": "2026-11-15T14:44:07Z"
-    },
-    {
-      "id": "2026-11-15-eia-venezuela-us-top-destination",
-      "time": "2026-11-15T13:41:00Z",
-      "tag": "ENERGY",
-      "headline": "EIA: Venezuela sent no crude to China in 2026; U.S. is its top destination",
-      "take": "EIA's Nov. 6 Today in Energy note, citing Vortexa data, says most of Venezuela's 2025 crude exports went to China, but Venezuela has exported none to China in 2026 and the United States is now the largest single destination by volume. U.S. imports from Venezuela averaged 701,000 b/d in July, 3.5 times the 200,000 b/d at the start of the year by our calculation. AlphaGen read: the swing in Venezuelan crude flows is now visible in both U.S. import data and EIA's account of export destinations.",
-      "source_name": "U.S. Energy Information Administration",
-      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
-      "checked": "2026-11-15T13:39:49Z"
-    },
-    {
-      "id": "2026-11-15-jobs-oct-prof-business-services-subsectors",
-      "time": "2026-11-15T13:53:00Z",
-      "tag": "MACRO",
-      "headline": "BLS: October's +70,000 in professional and business services spread across three groups",
-      "take": "BLS's October Employment Situation says professional and business services added 70,000 jobs, well above its 12-month average gain of 15,000. Professional, scientific, and technical services rose 33,000, administrative and support and waste management and remediation services rose 28,000, and management of companies and enterprises rose 9,000, which sum to the 70,000. AlphaGen read: the gain was not concentrated in one group, which makes October's reading broader than a single-industry swing.",
-      "source_name": "U.S. Bureau of Labor Statistics",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "checked": "2026-11-15T13:39:49Z"
-    },
-    {
-      "id": "2026-11-15-fred-gasoline-lowest-since-july",
-      "time": "2026-11-15T14:05:00Z",
-      "tag": "ENERGY",
-      "headline": "Regular gasoline $3.995 on Nov. 9, lowest weekly reading since July 13",
-      "take": "FRED's weekly U.S. regular gasoline series was $3.995 per gallon on Nov. 9, the lowest since the $3.855 reading of July 13. It was $4.269 on Oct. 26, $4.478 on Sept. 21 and $2.779 on Jan. 12. AlphaGen read: pump prices have retraced the autumn climb but remain far above where the year began.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (EIA data)",
-      "source_url": "https://fred.stlouisfed.org/series/GASREGW",
-      "checked": "2026-11-15T13:39:49Z"
-    },
-    {
-      "id": "2026-11-15-fred-sterling-nov6-13371",
-      "time": "2026-11-15T14:17:00Z",
-      "tag": "FX",
-      "headline": "Pound at $1.3371 on Nov. 6, down 0.83% on the day from $1.3483",
-      "take": "FRED shows the British pound at $1.3371 on Nov. 6, down $0.0112 from $1.3483 on Nov. 5. It was $1.3305 on Oct. 28 and $1.3107 on Nov. 6, 2025, so the Nov. 6, 2026 reading is 2.0% higher over twelve months by our calculation. AlphaGen read: the one-day drop reversed part of the prior week's gain, while the year-on-year change stayed positive.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
-      "checked": "2026-11-15T13:39:49Z"
     }
   ]
 }
