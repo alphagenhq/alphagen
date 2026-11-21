@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T16:39:56Z",
+  "updated": "2026-11-21T17:44:19Z",
   "items": [
+    {
+      "id": "2026-11-21-fred-bb-bbb-ccc-spreads-nov19",
+      "time": "2026-11-21T17:49:00Z",
+      "tag": "CREDIT",
+      "headline": "BB spread 2.10 points on Nov. 19, up 0.24 in a week; BBB 1.17, CCC-and-lower 13.61",
+      "take": "FRED's ICE BofA option-adjusted spreads on Nov. 19 were 2.10 points for BB, 1.17 for BBB and 13.61 for CCC and lower, versus 1.86, 1.11 and 13.16 on Nov. 13. That is increases of 0.24, 0.06 and 0.45 point. AlphaGen read: the widening was larger in lower-rated tiers than in BBB over those four observations.",
+      "source_name": "FRED, ICE BofA BB US High Yield Index Option-Adjusted Spread (BAMLH0A1HYBB)",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A1HYBB",
+      "checked": "2026-11-21T17:44:19Z"
+    },
+    {
+      "id": "2026-11-21-fred-uk-10y-oct-534-vs-457-year-ago",
+      "time": "2026-11-21T18:02:00Z",
+      "tag": "GLOBAL",
+      "headline": "UK long-term government bond yield 5.34% in October, up 0.77 point from a year earlier",
+      "take": "FRED's monthly long-term government bond yield series for the United Kingdom read 5.3393% in October 2026, up from 5.2421% in September, 4.9886% in August and 4.5721% in October 2025. That is 0.0972 point above September and 0.7672 point above a year earlier. AlphaGen read: the series has risen in each of the last three monthly readings.",
+      "source_name": "FRED, Long-Term Government Bond Yields: 10-Year, United Kingdom (IRLTLT01GBM156N)",
+      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
+      "checked": "2026-11-21T17:44:19Z"
+    },
+    {
+      "id": "2026-11-21-fred-sofr-effr-nov19-391-388",
+      "time": "2026-11-21T18:16:00Z",
+      "tag": "RATES",
+      "headline": "SOFR 3.91% on Nov. 19, 0.03 point above the 3.88% effective fed funds rate",
+      "take": "FRED shows the Secured Overnight Financing Rate at 3.91% on Nov. 19, up from 3.90% on Nov. 18, while the effective federal funds rate was 3.88% on both days. SOFR was 3.90% on Nov. 12 and 3.93% at its Nov. 16 reading. AlphaGen read: the two overnight benchmarks remained within 0.05 point of each other across the observations shown.",
+      "source_name": "FRED, Secured Overnight Financing Rate (SOFR)",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "checked": "2026-11-21T17:44:19Z"
+    },
+    {
+      "id": "2026-11-21-fred-2y-effr-gap-nov19-088",
+      "time": "2026-11-21T18:30:00Z",
+      "tag": "RATES",
+      "headline": "2-year Treasury yield 4.76% on Nov. 19, 0.88 point above the 3.88% fed funds rate",
+      "take": "FRED shows the 2-year Treasury constant-maturity yield at 4.76% on Nov. 19, versus an effective federal funds rate of 3.88%, a gap of 0.88 point. The 2-year yield was 4.86% on Nov. 12, when the effective rate was also 3.88%, a gap of 0.98 point. AlphaGen read: the narrowing came entirely from the 2-year yield, since the policy-rate reading did not change.",
+      "source_name": "FRED, Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity (DGS2)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-21T17:44:19Z"
+    },
     {
       "id": "2026-11-21-bea-outdoor-rec-industry-arts-179p5b-retail-166p5b",
       "time": "2026-11-21T17:34:00Z",
@@ -5079,46 +5119,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, BAMLH0A0HYM2)",
       "source_url": "https://fred.stlouisfed.org/series/DFII10",
       "checked": "2026-11-15T21:38:57Z"
-    },
-    {
-      "id": "2026-11-15-bea-q3-current-dollar-gdp-5p6-vs-real-3p4",
-      "time": "2026-11-15T22:25:00Z",
-      "tag": "MACRO",
-      "headline": "Current-dollar GDP rose 5.6% annualized in Q3 vs 3.4% real, a 2.2-point gap",
-      "take": "BEA's advance estimate shows real GDP up at a 3.4% annual rate in the third quarter of 2026 and current-dollar GDP up 5.6%, a difference of 2.2 percentage points. The gross domestic purchases price index rose 3.0%, and real final sales to private domestic purchasers rose 4.9% versus 4.6% in the second quarter. AlphaGen read: the nominal-real gap reflects price growth; BEA's second estimate is due Nov. 25.",
-      "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
-      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-      "checked": "2026-11-15T21:38:57Z"
-    },
-    {
-      "id": "2026-11-15-trade-sept-real-goods-deficit-119-5",
-      "time": "2026-11-15T20:44:00Z",
-      "tag": "MACRO",
-      "headline": "Real goods deficit up 3.0% in September to $119.5B vs 2.2% nominal rise",
-      "take": "BEA and Census report the real goods deficit (2017 dollars, Census basis) increased $3.5 billion, or 3.0 percent, to $119.5 billion in September, compared with a 2.2 percent increase in the nominal deficit. Real goods exports rose 0.1 percent to $152.2 billion versus 2.5 percent nominal; real imports rose 1.4 percent to $271.6 billion versus 2.4 percent nominal. AlphaGen read: after adjusting for prices, exports were nearly flat and imports carried the widening.",
-      "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-15T20:39:17Z"
-    },
-    {
-      "id": "2026-11-15-trade-sept-capital-goods-imports-11-6",
-      "time": "2026-11-15T20:56:00Z",
-      "tag": "MACRO",
-      "headline": "September imports: capital goods +$11.6B, computers +$7.6B, semiconductors -$1.2B",
-      "take": "BEA's September trade release shows imports of capital goods rose $11.6 billion, with computers up $7.6 billion and computer accessories up $5.7 billion, while semiconductors decreased $1.2 billion. Industrial supplies and materials imports fell $3.7 billion, including a $2.7 billion drop in nonmonetary gold. AlphaGen read: the capital goods increase was the largest category move on the import side, and the reported $11.6 billion minus the $7.6 billion for computers leaves $4.0 billion from other capital goods.",
-      "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-15T20:39:17Z"
-    },
-    {
-      "id": "2026-11-15-trade-sept-taiwan-eu-deficits-widen",
-      "time": "2026-11-15T21:08:00Z",
-      "tag": "GLOBAL",
-      "headline": "Goods deficit with Taiwan widens $3.6B to $21.9B; EU gap up $3.2B to $14.2B",
-      "take": "On a Census basis, the September goods deficit with Taiwan increased $3.6 billion to $21.9 billion, with exports up $0.6 billion to $5.3 billion and imports up $4.2 billion to $27.3 billion. The deficit with the European Union increased $3.2 billion to $14.2 billion, with exports down $0.6 billion to $39.0 billion. AlphaGen read: Taiwan ranks third among the listed deficits behind Mexico ($28.7 billion) and Vietnam ($25.3 billion).",
-      "source_name": "BEA and Census Bureau, U.S. International Trade in Goods and Services, September 2026",
-      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-      "checked": "2026-11-15T20:39:17Z"
     }
   ]
 }
