@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-21T19:44:29Z",
+ "updated": "2026-11-21T21:44:38Z",
  "items": [
+  {
+   "id": "2026-11-21-fred-mortgage-728-vs-626-year-ago",
+   "time": "2026-11-21T22:28:38Z",
+   "tag": "HOUSING",
+   "headline": "30-year mortgage rate 7.28% vs 6.26% a year ago; one-year range 5.98% to 7.40%",
+   "take": "Freddie Mac's 30-year fixed mortgage rate averaged 7.28% in the week of Nov. 19, up from 6.26% in the week of Nov. 20, 2025. Over the past year the weekly rate ranged from 5.98% (Feb. 26, 2026) to 7.40% (Oct. 8, 2026). AlphaGen read: the rate is 1.02 points above its year-ago level, though still 0.12 point below the October peak.",
+   "source_name": "Freddie Mac via FRED (Federal Reserve Bank of St. Louis)",
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "checked": "2026-11-21T21:44:38Z"
+  },
+  {
+   "id": "2026-11-21-fred-treasury-yields-nov19-vs-year-ago-2y-118-10y-91-30y-65",
+   "time": "2026-11-21T22:17:38Z",
+   "tag": "RATES",
+   "headline": "Treasury yields on Nov. 19 sit 0.65 to 1.18 points above a year earlier",
+   "take": "On Nov. 19, the 2-year yield was 4.76% (3.58% a year earlier, +1.18 points), the 10-year 5.04% (4.13%, +0.91) and the 30-year 5.40% (4.75%, +0.65). Each remains below its one-year high: 4.92% on Sept. 28, 5.31% on Oct. 5 and 5.67% on Oct. 7, respectively. AlphaGen read: the largest year-on-year rise is at the short end, which has flattened the curve compared with a year ago.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-21T21:44:38Z"
+  },
+  {
+   "id": "2026-11-21-fred-3m-bill-434-matches-one-year-high-vs-395",
+   "time": "2026-11-21T22:06:38Z",
+   "tag": "RATES",
+   "headline": "3-month Treasury yield 4.34% on Nov. 19, matching its one-year high, vs 3.95 a year ago",
+   "take": "The 3-month constant-maturity Treasury yield was 4.34% on Nov. 19, equal to the Nov. 16 reading and the highest in the past 12 months of FRED data, compared with 3.95% on Nov. 19, 2025 and a low of 3.62% on Dec. 18, 2025. The effective fed funds rate was 3.88% on Nov. 19. AlphaGen read: the bill yield sitting 0.46 point above fed funds means short-dated Treasuries yield more than the policy rate.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
+   "checked": "2026-11-21T21:44:38Z"
+  },
+  {
+   "id": "2026-11-21-broad-dollar-index-122p65-highest-since-may-2025",
+   "time": "2026-11-21T21:55:38Z",
+   "tag": "FX",
+   "headline": "Fed broad dollar index 122.6503 on Nov. 13, highest since May 16, 2025",
+   "take": "The Federal Reserve's nominal broad dollar index (trade-weighted, FRED series DTWEXBGS) stood at 122.6503 on Nov. 13, against 120.7725 a year earlier and a one-year low of 117.4396 on Jan. 29, 2026. The last higher reading was 123.0737 on May 16, 2025. AlphaGen read: the index is 5.2 points above its January low, a firmer dollar against trading partners.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+   "checked": "2026-11-21T21:44:38Z"
+  },
+  {
+   "id": "2026-11-21-hy-spread-352-highest-since-may-2025",
+   "time": "2026-11-21T21:44:38Z",
+   "tag": "CREDIT",
+   "headline": "High-yield spread 3.52 points on Nov. 19, highest since May 9, 2025",
+   "take": "FRED's ICE BofA US High Yield Index option-adjusted spread was 3.52 percentage points on Nov. 19, versus 3.17 a year earlier on Nov. 19, 2025, and a low of 2.60 on Aug. 28, 2026. The last higher reading was 3.53 on May 9, 2025. AlphaGen read: the gap to Treasuries has widened about 0.9 point since late August, a sign lenders are asking more to hold lower-rated corporate debt.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-21T21:44:38Z"
+  },
   {
    "id": "2026-11-21-gdp-q3-advance-gross-domestic-purchases-prices-3p0-vs-5p6",
    "time": "2026-11-21T20:30:29Z",
@@ -5070,56 +5120,6 @@
    "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
    "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
    "checked": "2026-11-15T23:40:34Z"
-  },
-  {
-   "id": "2026-11-15-fsr-business-debt-risky-firms",
-   "time": "2026-11-15T23:59:34Z",
-   "tag": "CREDIT",
-   "headline": "Fed stability report: business debt in upper quartile of range",
-   "take": "The Fed's November 2026 Financial Stability Report says total business debt to GDP declined slightly but remained in the upper quartile of its historical range, and that the credit quality of investment-grade corporations was strong while some riskier firms faced challenges in servicing their debt. It adds that robust debt issuance by large technology companies may drive aggregate business debt higher over time. AlphaGen read: the report separates healthy large-company credit from a weaker tail.",
-   "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
-   "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-   "checked": "2026-11-15T23:40:34Z"
-  },
-  {
-   "id": "2026-11-15-fsr-funding-risks-moderate",
-   "time": "2026-11-16T00:08:34Z",
-   "tag": "FED",
-   "headline": "Fed stability report: funding risks moderate, uninsured deposits below 2022 peaks",
-   "take": "The Fed's November 2026 Financial Stability Report says funding risks have remained moderate: most domestic banks maintained high levels of liquid assets and their reliance on uninsured deposits was well below 2022 peaks. It says redemption requests at certain business development companies trended lower, though funds maintained redemption limits and net flows remained negative. AlphaGen read: bank funding looks steadier than in 2022 in the Fed's account, with non-bank vehicles the area it flags for continued redemption limits.",
-   "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
-   "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-   "checked": "2026-11-15T23:40:34Z"
-  },
-  {
-   "id": "2026-11-15-fsr-market-contacts-top-risks",
-   "time": "2026-11-16T00:17:34Z",
-   "tag": "FED",
-   "headline": "Fed stability report: contacts cite AI, risk asset correction, long-term rates",
-   "take": "The Fed's November 2026 Financial Stability Report says contacts surveyed in September and October most frequently cited risks from artificial intelligence, risk asset correction, higher long-term rates, cyberattacks, and fiscal debt sustainability. The report also lists private credit among the risks. AlphaGen read: higher long-term rates sits among the top-cited risks alongside AI and a risk asset correction.",
-   "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
-   "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-   "checked": "2026-11-15T23:40:34Z"
-  },
-  {
-   "id": "2026-11-15-fsr-asset-sizes-public-equities-93-6t",
-   "time": "2026-11-16T00:26:34Z",
-   "tag": "EQUITIES",
-   "headline": "Fed stability report: public equities $93.6T in Q2 2026, up 25.3% in a year",
-   "take": "The Fed's November 2026 Financial Stability Report, Table 1.1, lists public equities at $93,608 billion in 2026:Q2, growth of 25.3% over 2025:Q2 to 2026:Q2, versus Treasury securities at $30,878 billion (8.3%), residential real estate at $61,750 billion (2.3%) and commercial real estate at $22,848 billion (9.7%). It lists private credit at $1,504 billion (13.8%). AlphaGen read: public equities grew faster than every other asset class in the table, which is the base for the report's valuation concerns.",
-   "source_name": "Federal Reserve Board, Financial Stability Report (November 2026)",
-   "source_url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
-   "checked": "2026-11-15T23:40:34Z"
-  },
-  {
-   "id": "2026-11-15-fred-brent-vs-year-ago",
-   "time": "2026-11-15T22:41:38Z",
-   "tag": "COMMODITIES",
-   "headline": "Brent crude $92.14 on Nov. 11, up $28.28 from $63.86 a year earlier",
-   "take": "FRED shows the Brent spot price at $92.14 per barrel on Nov. 11, 2026, versus $63.86 on Nov. 11, 2025, a $28.28 difference. AlphaGen read: the year-over-year gap is large enough to keep energy a central input in the inflation data now being read.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILBRENTEU)",
-   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-   "checked": "2026-11-15T22:39:38Z"
   }
  ]
 }
