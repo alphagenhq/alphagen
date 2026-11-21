@@ -1,6 +1,25 @@
 {
-  "updated": "2026-11-19T23:45:00Z",
+  "updated": "2026-11-21T02:39:14Z",
   "items": [
+    {
+      "id": "2026-11-20-et-2p7b-senior-notes",
+      "time": "2026-11-21T02:41:14Z",
+      "type": "Debt",
+      "headline": "Energy Transfer completes $2.7B three-tranche senior notes offering",
+      "parties": "Issuer: Energy Transfer LP",
+      "value": 2.7,
+      "value_text": "$2.7B ($900M each of 2032, 2037 and 2057 notes)",
+      "status": "Completed",
+      "announced": "2026-11-20",
+      "sector": "Energy / midstream",
+      "take": "Energy Transfer completed an underwritten public offering of $900M of 5.450% senior notes due 2032, $900M of 5.900% notes due 2037 and $900M of 6.550% notes due 2057. The notes were issued under a Thirteenth Supplemental Indenture dated Nov. 20, 2026.",
+      "source_name": "Energy Transfer LP, Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526470380/0001193125-26-470380.txt",
+      "tickers": [
+        "NYSE:ET"
+      ],
+      "checked": "2026-11-21T02:39:14Z"
+    },
     {
       "id": "2026-11-19-intuit-mailchimp-bending-spoons",
       "time": "2026-11-19T23:40:00Z",

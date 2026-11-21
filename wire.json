@@ -1,6 +1,49 @@
 {
-  "updated": "2026-11-21T01:38:34Z",
+  "updated": "2026-11-21T02:39:14Z",
   "items": [
+    {
+      "id": "2026-11-20-et-2p7b-notes-2032-2037-2057",
+      "time": "2026-11-21T02:41:14Z",
+      "tag": "DEBT",
+      "headline": "Energy Transfer completes $2.7B senior notes offering across three maturities",
+      "take": "Energy Transfer LP said it completed its underwritten public offering on Nov. 20 of $900M each of 5.450% notes due 2032, 5.900% notes due 2037 and 6.550% notes due 2057, or $2.7B in total. The notes were issued under a Thirteenth Supplemental Indenture dated Nov. 20, 2026. AlphaGen read: the 2057 tranche carries a coupon 1.10 points above the 2032 tranche, a reminder of the premium long-dated issuers pay.",
+      "source_name": "Energy Transfer LP, Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526470380/0001193125-26-470380.txt",
+      "ticker": "NYSE:ET",
+      "checked": "2026-11-21T02:39:14Z"
+    },
+    {
+      "id": "2026-11-20-chart-q2-sales-985p6m-baker-hughes-8k",
+      "time": "2026-11-21T02:51:14Z",
+      "tag": "EQUITIES",
+      "headline": "Baker Hughes files Chart Industries Q2 financials: sales $985.6M vs $1,082.3M",
+      "take": "Baker Hughes filed an 8-K with unaudited Chart Industries statements showing Q2 2026 sales of $985.6M versus $1,082.3M a year earlier, an 8.9% decline, and operating income of $92.4M versus $169.5M. The filing says Baker Hughes completed the Chart acquisition on July 16, 2026, and that the pro forma information is illustrative only. AlphaGen read: the figures are pre-closing Chart results under Chart's own accounting policies.",
+      "source_name": "Baker Hughes Co, Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/0001701605-26-000038.txt",
+      "ticker": "NASDAQ:BKR",
+      "checked": "2026-11-21T02:39:14Z"
+    },
+    {
+      "id": "2026-11-20-lyb-retention-awards-foley-2m-izquierdo-750k",
+      "time": "2026-11-21T03:01:14Z",
+      "tag": "EQUITIES",
+      "headline": "LyondellBasell board approves retention awards for two executives",
+      "take": "LyondellBasell said its board approved one-time retention awards on Nov. 18: a $2,000,000 cash award for Kimberly Foley, payable if she remains employed through Dec. 31, 2027, and restricted stock units with a $750,000 target value for CFO Agustin Izquierdo, cliff-vesting on the third anniversary of grant. The company described the awards as meant to promote leadership continuity during its ongoing portfolio transformation.",
+      "source_name": "LyondellBasell Industries N.V., Form 8-K (SEC EDGAR)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939326000072/0001489393-26-000072.txt",
+      "ticker": "NYSE:LYB",
+      "checked": "2026-11-21T02:39:14Z"
+    },
+    {
+      "id": "2026-11-20-fred-2y-nov19-476-10y-504-vs-nov12",
+      "time": "2026-11-21T03:11:14Z",
+      "tag": "RATES",
+      "headline": "2-year Treasury yield 4.76% on Nov. 19, down 0.10 point from Nov. 12",
+      "take": "FRED shows the 2-year constant-maturity Treasury yield at 4.76% on Nov. 19, versus 4.86% on Nov. 12, while the 10-year was 5.04% versus 5.10%. The 2-year fell 0.10 point and the 10-year 0.06 point over the week. AlphaGen read: the front end moved more than the long end, leaving the 10-year/2-year gap 0.28 point on Nov. 19, wider than 0.24 point on Nov. 12.",
+      "source_name": "Federal Reserve Bank of St. Louis, FRED (DGS2, DGS10)",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "checked": "2026-11-21T02:39:14Z"
+    },
     {
       "id": "2026-11-20-boe-mpg-minutes-nov18-energy-ai-hedge-fund-leverage",
       "time": "2026-11-21T01:41:34Z",
@@ -5076,46 +5119,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
       "checked": "2026-11-15T13:39:49Z"
-    },
-    {
-      "id": "2026-11-15-ecb-schnabel-us-debt-imf-145",
-      "time": "2026-11-15T12:39:00Z",
-      "tag": "DEBT",
-      "headline": "Schnabel cites IMF: U.S. government debt to reach 145% of GDP in 2031",
-      "take": "In a Nov. 5 speech at the ECB Conference on Money Markets, Executive Board member Isabel Schnabel said the IMF projects U.S. government debt to rise to 145% of GDP in 2031, up from 124% last year. For China she cited a projected rise to 122% over the same period, up from 99%. AlphaGen read: the ECB is framing sovereign debt trajectories as a structural issue for monetary policy, not only a fiscal one.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "checked": "2026-11-15T12:39:37Z"
-    },
-    {
-      "id": "2026-11-15-ecb-schnabel-euro-debt-20pts",
-      "time": "2026-11-15T12:51:00Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: euro area public debt up nearly 20 points of GDP since early 2000s",
-      "take": "Isabel Schnabel said in her Nov. 5 speech that euro area public debt as a share of GDP has increased by nearly 20 percentage points since the early 2000s, with large differences across member countries, and that the rise in part reflects the successive crises. The speech lists structural changes as a threat to monetary dominance. AlphaGen read: this is the debt backdrop the ECB cites when discussing its balance sheet and policy independence.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "checked": "2026-11-15T12:39:37Z"
-    },
-    {
-      "id": "2026-11-15-ecb-schnabel-services-inflation-3pct",
-      "time": "2026-11-15T13:03:00Z",
-      "tag": "GLOBAL",
-      "headline": "Schnabel: euro area services inflation was above 3% before the Middle East conflict",
-      "take": "Schnabel said services inflation was still running above 3% before the start of the conflict in the Middle East, reflecting the drawn-out adjustment to the earlier inflation surge, including staggered wage negotiations. The remarks came in her Nov. 5 Frankfurt speech. AlphaGen read: the ECB is pointing to wage-setting lags, not only energy, as a source of sticky inflation.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "checked": "2026-11-15T12:39:37Z"
-    },
-    {
-      "id": "2026-11-15-ecb-schnabel-consumer-expectations",
-      "time": "2026-11-15T13:15:00Z",
-      "tag": "MACRO",
-      "headline": "Schnabel: consumer inflation expectations have drifted away from ECB's 2% target",
-      "take": "Schnabel said that in response to the latest energy shock, consumer inflation expectations over the medium to longer term have increased and gradually moved away from the ECB's 2% target, adding that the ECB is closely monitoring these developments. She spoke on Nov. 5 at the ECB Conference on Money Markets. AlphaGen read: de-anchoring of household expectations is the channel central banks watch most closely when energy prices jump.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "checked": "2026-11-15T12:39:37Z"
     }
   ]
 }
