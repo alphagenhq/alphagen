@@ -1,6 +1,47 @@
 {
-  "updated": "2026-11-21T17:44:19Z",
+  "updated": "2026-11-21T18:39:19Z",
   "items": [
+    {
+      "id": "2026-11-21-aal-coo-seymour-out-dec31-gulbranson-jan1",
+      "time": "2026-11-21T18:40:19Z",
+      "tag": "EQUITIES",
+      "headline": "American Airlines: COO Seymour to step down Dec. 31; Gulbranson named COO Jan. 1",
+      "take": "In a Form 8-K (Item 5.02) dated Nov. 20, American Airlines Group said David G. Seymour will cease serving as Chief Operating Officer on Dec. 31, 2026, and JonCarlo Gulbranson, 49, currently Senior Vice President, Operations, will become Executive Vice President, Chief Operations Officer effective Jan. 1, 2027. Seymour is expected to serve as a strategic advisor for up to three months at $25,000 per month. AlphaGen read: this updates our earlier alert-only note on the filing, which did not name the officers.",
+      "source_name": "SEC EDGAR, American Airlines Group Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081.txt",
+      "ticker": "NASDAQ:AAL",
+      "checked": "2026-11-21T18:39:19Z"
+    },
+    {
+      "id": "2026-11-21-ppi-oct-final-demand-0p3-12mo-6p5-largest-since-nov-2022",
+      "time": "2026-11-21T18:53:19Z",
+      "tag": "MACRO",
+      "headline": "BLS PPI: final demand up 0.3% in October; 6.5% over 12 months, most since Nov. 2022",
+      "take": "BLS's October Producer Price Index (released Nov. 13) showed final demand rising 0.3% seasonally adjusted after a 1.4% rise in September. On an unadjusted basis the index rose 6.5% over the 12 months ended in October, the largest 12-month rise since 7.4% in November 2022. AlphaGen read: the monthly pace cooled sharply from September, while the year-over-year level stayed high.",
+      "source_name": "U.S. Bureau of Labor Statistics, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-21T18:39:19Z"
+    },
+    {
+      "id": "2026-11-21-ppi-oct-unprocessed-intermediate-goods-minus-3p1-crude-minus-10p3",
+      "time": "2026-11-21T19:06:19Z",
+      "tag": "COMMODITIES",
+      "headline": "BLS PPI: unprocessed intermediate goods fell 3.1% in October; crude petroleum down 10.3%",
+      "take": "BLS said prices for unprocessed goods for intermediate demand fell 3.1% in October, the largest decline since a 6.6% drop in June, led by a 7.7% drop in unprocessed energy materials, including a 10.3% decrease in crude petroleum. Over the 12 months ended in October the index was still up 16.9%. AlphaGen read: the monthly drop sits alongside a very large year-over-year gain in raw-materials costs.",
+      "source_name": "U.S. Bureau of Labor Statistics, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-21T18:39:19Z"
+    },
+    {
+      "id": "2026-11-21-ppi-oct-processed-intermediate-goods-14p6-12mo-largest-since-jul-2022",
+      "time": "2026-11-21T19:19:19Z",
+      "tag": "MACRO",
+      "headline": "BLS PPI: processed intermediate goods up 14.6% in 12 months, most since July 2022",
+      "take": "BLS said prices for processed goods for intermediate demand advanced 0.4% in October, the third consecutive rise, and increased 14.6% over the 12 months ended in October, the largest 12-month rise since 17.2% in July 2022. More than 40% of the October advance traced to basic organic chemicals, up 3.9%. AlphaGen read: input costs further up the supply chain remain well above year-ago levels.",
+      "source_name": "U.S. Bureau of Labor Statistics, Producer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "checked": "2026-11-21T18:39:19Z"
+    },
     {
       "id": "2026-11-21-fred-bb-bbb-ccc-spreads-nov19",
       "time": "2026-11-21T17:49:00Z",
@@ -5079,46 +5120,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis (T10YIE)",
       "source_url": "https://fred.stlouisfed.org/series/T10YIE",
       "checked": "2026-11-15T22:39:38Z"
-    },
-    {
-      "id": "2026-11-15-fred-10y-2y-30y-vs-year-ago",
-      "time": "2026-11-15T21:41:00Z",
-      "tag": "RATES",
-      "headline": "10-year yield 5.10% on Nov. 12, up 1.02 points from 4.08% a year earlier",
-      "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.10% on Nov. 12, 2026, versus 4.08% on Nov. 12, 2025. The 2-year yield was 4.86% versus 3.56% (up 1.30 points) and the 30-year 5.43% versus 4.67% (up 0.76). AlphaGen read: the 2-year rose more than the 10-year, so the 10-year minus 2-year gap narrowed from 0.52 to 0.24 point.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS10, DGS2, DGS30)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-15T21:38:57Z"
-    },
-    {
-      "id": "2026-11-15-fred-mortgage-711-vs-624-year-ago",
-      "time": "2026-11-15T21:52:00Z",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate 7.11% on Nov. 12, up 0.87 point from 6.24% a year earlier",
-      "take": "Freddie Mac's 30-year fixed mortgage rate, as reported by FRED, was 7.11% for the week of Nov. 12, 2026, compared with 6.24% for Nov. 13, 2025. That is a gap of 0.87 percentage point, even after four weekly declines from 7.40% on Oct. 15. AlphaGen read: the recent drop has recovered only a small part of the year-over-year rise.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (MORTGAGE30US, Freddie Mac)",
-      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-      "checked": "2026-11-15T21:38:57Z"
-    },
-    {
-      "id": "2026-11-15-fred-wti-henry-hub-vs-year-ago",
-      "time": "2026-11-15T22:03:00Z",
-      "tag": "COMMODITIES",
-      "headline": "WTI spot $89.62 on Nov. 11 vs $60.94 a year earlier; Henry Hub $3.00 vs $3.80",
-      "take": "FRED, using EIA data, shows WTI crude spot at $89.62 per barrel on Nov. 11, 2026, versus $60.94 on Nov. 10, 2025, a difference of $28.68. Henry Hub natural gas spot was $3.00 per million Btu versus $3.80 on Nov. 10, 2025, a difference of $0.80 lower. AlphaGen read: oil and gas have moved in opposite directions over the year.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO, DHHNGSP; EIA)",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
-      "checked": "2026-11-15T21:38:57Z"
-    },
-    {
-      "id": "2026-11-15-fred-real-10y-hy-spread-vs-year-ago",
-      "time": "2026-11-15T22:14:00Z",
-      "tag": "CREDIT",
-      "headline": "10-year real yield 2.86% on Nov. 12, up 1.05 from 1.81% a year ago; HY spread 3.20",
-      "take": "FRED shows the 10-year TIPS real yield at 2.86% on Nov. 12, 2026, versus 1.81% on Nov. 12, 2025 (up 1.05 points). The ICE BofA US High Yield option-adjusted spread was 3.20 percentage points versus 3.02 a year earlier, up 0.18. AlphaGen read: the real yield rose by far more than the high-yield spread over the year.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, BAMLH0A0HYM2)",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-15T21:38:57Z"
     }
   ]
 }
