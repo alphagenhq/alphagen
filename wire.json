@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T12:39:28Z",
+  "updated": "2026-11-21T13:38:55Z",
   "items": [
+    {
+      "id": "2026-11-21-bls-state-oct-jobless-3-lower-1-higher-46-stable",
+      "time": "2026-11-21T13:44:00Z",
+      "tag": "MACRO",
+      "headline": "BLS: October jobless rates lower in 3 states and DC, higher in 1, stable in 46",
+      "take": "BLS reported on Nov. 20 that in October unemployment rates were lower in 3 states and the District of Columbia, higher in 1 state and stable in 46 states. Nonfarm payroll employment increased in 4 states and was essentially unchanged in 46 states and the District. AlphaGen read: the state map was mostly flat in October, with changes confined to a handful of states.",
+      "source_name": "Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/bls/",
+      "checked": "2026-11-21T13:38:55Z"
+    },
+    {
+      "id": "2026-11-21-bls-tfp-2025-7-of-19-industries",
+      "time": "2026-11-21T13:58:00Z",
+      "tag": "MACRO",
+      "headline": "BLS: total factor productivity rose in 7 of 19 major industries in 2025",
+      "take": "BLS published its industry productivity release on Nov. 20, reporting that total factor productivity increased in 7 out of 19 major industries in 2025. AlphaGen read: that leaves 12 of the 19 industries without an increase, so the 2025 gains were not broad across the industries BLS covers.",
+      "source_name": "Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/bls/",
+      "checked": "2026-11-21T13:38:55Z"
+    },
+    {
+      "id": "2026-11-21-bls-injuries-2025-2p4m-cases-down-3p0pct",
+      "time": "2026-11-21T14:12:00Z",
+      "tag": "MACRO",
+      "headline": "BLS: employers reported 2.4 million workplace injury and illness cases in 2025",
+      "take": "BLS reported on Nov. 18 that employers reported 2.4 million injury and illness cases in 2025, down 3.0% from 2024. AlphaGen read: the count is an annual workplace-safety measure rather than a market series, and it is a decline from the 2024 level.",
+      "source_name": "Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/bls/",
+      "checked": "2026-11-21T13:38:55Z"
+    },
+    {
+      "id": "2026-11-21-bls-latest-numbers-eci-0p8-productivity-3p6-unemployment-4p1",
+      "time": "2026-11-21T14:26:00Z",
+      "tag": "MACRO",
+      "headline": "BLS latest numbers: Q3 ECI +0.8%, Q3 productivity +3.6%, October jobless rate 4.1%",
+      "take": "BLS's Latest Numbers panel, as of Nov. 20, lists the Employment Cost Index at +0.8% in Q3 2026, productivity at +3.6% in Q3 2026, the unemployment rate at 4.1% in October, and payroll employment at +165,000 (preliminary) in October. It also shows the October CPI at +0.4% and the October PPI for final demand at +0.3% (preliminary). AlphaGen read: the next jobs report is scheduled for Dec. 4 at 8:30 a.m. ET, per BLS.",
+      "source_name": "Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/bls/",
+      "checked": "2026-11-21T13:38:55Z"
+    },
     {
       "id": "2026-11-21-trade-sept-largest-goods-deficits-mexico-vietnam-taiwan-china",
       "time": "2026-11-21T12:41:28Z",
@@ -5079,46 +5119,6 @@
       "source_name": "CFTC, Commitments of Traders (CME, futures only)",
       "source_url": "https://www.cftc.gov/dea/futures/deacmesf.htm",
       "checked": "2026-11-15T17:45:11Z"
-    },
-    {
-      "id": "2026-11-15-fred-mortgage-vs-10y-201",
-      "time": "2026-11-15T16:48:00Z",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate 2.01 points above 10-year yield on Nov. 12, from 2.34 on Nov. 5",
-      "take": "FRED shows the 30-year fixed mortgage rate (MORTGAGE30US) at 7.11% for the week of Nov. 12, down from 7.18% on Nov. 5, while the 10-year Treasury yield (DGS10) rose to 5.10% on Nov. 12 from 4.84% on Nov. 5. The gap narrowed to 2.01 percentage points from 2.34 (AlphaGen calculation). AlphaGen read: the mortgage rate edged down while the 10-year rose 26 basis points, so the spread between them narrowed.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (30-Year Fixed Rate Mortgage Average)",
-      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-      "checked": "2026-11-15T16:45:23Z"
-    },
-    {
-      "id": "2026-11-15-fred-2y-vs-fed-range-top-086",
-      "time": "2026-11-15T17:00:00Z",
-      "tag": "RATES",
-      "headline": "2-year Treasury yield 0.86 point above top of fed funds range on Nov. 12, from 0.58 on Nov. 4",
-      "take": "FRED shows the 2-year Treasury constant-maturity yield (DGS2) at 4.86% on Nov. 12, up from 4.58% on Nov. 4. The fed funds target range upper limit (DFEDTARU) is 4.00%, so the 2-year sits 0.86 percentage point above it, versus 0.58 on Nov. 4 (AlphaGen calculation). AlphaGen read: the 2-year rose 28 basis points over the period, moving further above the policy range.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-15T16:45:23Z"
-    },
-    {
-      "id": "2026-11-15-fred-permits-starts-gap-sep",
-      "time": "2026-11-15T17:12:00Z",
-      "tag": "HOUSING",
-      "headline": "Permits ran 177,000 above housing starts in September; gap was 64,000 in July",
-      "take": "FRED shows building permits (PERMIT) at 1,398 thousand and housing starts (HOUST) at 1,221 thousand at a seasonally adjusted annual rate in September, a 177 thousand gap (AlphaGen calculation). The gap was 115 thousand in August (1,403 vs 1,288) and 64 thousand in July (1,433 vs 1,369). AlphaGen read: starts fell in each of the three months while permits moved less, so the gap widened.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (Privately-Owned Housing Starts; New Private Housing Units Authorized)",
-      "source_url": "https://fred.stlouisfed.org/series/HOUST",
-      "checked": "2026-11-15T16:45:23Z"
-    },
-    {
-      "id": "2026-11-15-fred-walcl-nov11-highest-eight",
-      "time": "2026-11-15T17:24:00Z",
-      "tag": "FED",
-      "headline": "Fed total assets $6.759T on Nov. 11, highest of eight weekly readings since Sept. 23",
-      "take": "FRED's WALCL series shows Federal Reserve total assets of $6,758,867M on Nov. 11, up $11.3B from $6,747,560M on Oct. 7 (AlphaGen calculation). That is the highest of the eight Wednesday readings from Sept. 23, when the series was $6,747,704M, and Sept. 30 was $6,743,031M, the lowest. AlphaGen read: total assets stayed within a $15.8B range across the eight readings.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (Federal Reserve Total Assets)",
-      "source_url": "https://fred.stlouisfed.org/series/WALCL",
-      "checked": "2026-11-15T16:45:23Z"
     }
   ]
 }
