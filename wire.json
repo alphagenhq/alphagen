@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-21T11:38:45Z",
+  "updated": "2026-11-21T12:39:28Z",
   "items": [
+    {
+      "id": "2026-11-21-trade-sept-largest-goods-deficits-mexico-vietnam-taiwan-china",
+      "time": "2026-11-21T12:41:28Z",
+      "tag": "MACRO",
+      "headline": "Sept. goods deficits: Mexico $28.7B, Vietnam $25.3B, Taiwan $21.9B, China $17.9B",
+      "take": "BEA and Census list September goods deficits, in billions of dollars, of $28.7 with Mexico, $25.3 with Vietnam, $21.9 with Taiwan and $17.9 with China (Census basis, seasonally adjusted). Together those four come to $93.8B. AlphaGen read: the four largest bilateral gaps in the release sit with Mexico and three Asian economies, with China fourth.",
+      "source_name": "Bureau of Economic Analysis (BEA) / Census Bureau",
+      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "checked": "2026-11-21T12:39:28Z"
+    },
+    {
+      "id": "2026-11-21-trade-sept-taiwan-eu-canada-deficit-moves",
+      "time": "2026-11-21T12:52:28Z",
+      "tag": "GLOBAL",
+      "headline": "Sept. trade: Taiwan deficit up $3.6B to $21.9B; Canada's down $2.7B to $4.4B",
+      "take": "The September deficit with Taiwan rose $3.6B to $21.9B as imports climbed $4.2B to $27.3B and exports rose $0.6B to $5.3B. The deficit with the European Union rose $3.2B to $14.2B (exports $39.0B, imports $53.2B), while the Canada deficit fell $2.7B to $4.4B as imports dropped $3.0B to $34.1B. AlphaGen read: Taiwan and the EU widened on import growth, while Canada narrowed because imports fell by more than exports.",
+      "source_name": "Bureau of Economic Analysis (BEA) / Census Bureau",
+      "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "checked": "2026-11-21T12:39:28Z"
+    },
+    {
+      "id": "2026-11-21-gdp-q3-advance-spr-sales-federal-nondefense-consumption",
+      "time": "2026-11-21T13:03:28Z",
+      "tag": "ENERGY",
+      "headline": "BEA: Q3 federal spending rise reflects smaller Strategic Petroleum Reserve sales",
+      "take": "BEA's advance Q3 GDP estimate says the increase in government spending was more than accounted for by federal spending, led by nondefense consumption. BEA attributes that pattern to crude oil sales from the Strategic Petroleum Reserve, which were smaller than in Q2; sales are deducted from government consumption expenditures. BEA adds that oil sold by the government shows up as an increase in other GDP components, so there is no direct effect on GDP. AlphaGen read: part of the federal spending swing is an accounting effect of the reserve-sale pace.",
+      "source_name": "Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-21T12:39:28Z"
+    },
+    {
+      "id": "2026-11-21-gdp-q3-advance-consumer-spending-health-care-food-services",
+      "time": "2026-11-21T13:14:28Z",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 consumer spending led by health care and food services; goods by drugs",
+      "take": "BEA's advance estimate shows Q3 consumer spending rose in both services and goods, with real GDP up at a 3.4% annual rate. Within services the increase was led by health care (mainly hospitals and outpatient services) and food services and accommodations (mainly purchased meals and beverages). Within goods it was led by other nondurable goods, mainly prescription drugs. AlphaGen read: the spending gains BEA highlights are concentrated in medical care, dining out and drugs.",
+      "source_name": "Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-21T12:39:28Z"
+    },
+    {
+      "id": "2026-11-21-gdp-q3-advance-exports-petroleum-imports-capital-goods",
+      "time": "2026-11-21T13:25:28Z",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 export decline led by petroleum; imports led by capital goods",
+      "take": "BEA's advance Q3 GDP estimate lists a decrease in exports among the offsets to growth, and says it primarily reflected a decrease in goods led by petroleum and related products. Imports, a subtraction in GDP, increased, with capital goods except automotive the largest contributor. Real GDP rose at a 3.4% annual rate in Q3, versus 2.2% in Q2. AlphaGen read: the trade drag in the quarter came from lower energy exports and higher equipment imports.",
+      "source_name": "Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "checked": "2026-11-21T12:39:28Z"
+    },
     {
       "id": "2026-11-21-fred-30y-nov19-540-vs-nov12-543",
       "time": "2026-11-21T11:43:45Z",
@@ -5069,56 +5119,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis (Federal Reserve Total Assets)",
       "source_url": "https://fred.stlouisfed.org/series/WALCL",
       "checked": "2026-11-15T16:45:23Z"
-    },
-    {
-      "id": "2026-11-15-fred-henry-hub-nov11-300",
-      "time": "2026-11-15T15:40:00Z",
-      "tag": "COMMODITIES",
-      "headline": "Henry Hub gas $3.00 on Nov. 10 and 11, up from $2.60 on Nov. 6",
-      "take": "FRED shows Henry Hub natural gas spot at $2.60 per million Btu on Nov. 6, $2.89 on Nov. 9 and $3.00 on both Nov. 10 and Nov. 11, a $0.40 rise from Nov. 6. The Oct. 30 reading was $2.42. AlphaGen read: the move came within a single week of daily observations, so one data window is not a trend.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (Henry Hub Natural Gas Spot Price)",
-      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-      "checked": "2026-11-15T15:38:24Z"
-    },
-    {
-      "id": "2026-11-15-fred-wti-nov11-8962",
-      "time": "2026-11-15T15:52:00Z",
-      "tag": "ENERGY",
-      "headline": "WTI spot $89.62 on Nov. 10 and 11, down $4.75 from Nov. 6",
-      "take": "FRED lists WTI crude spot at $94.37 on Nov. 6, $90.40 on Nov. 9 and $89.62 on both Nov. 10 and Nov. 11, a $4.75 decline from Nov. 6. The Nov. 4 reading was $91.73 and Nov. 5 was $94.05. AlphaGen read: Nov. 10-11 are the lowest of the Nov. 4-11 readings shown.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (WTI Spot Price)",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
-      "checked": "2026-11-15T15:38:24Z"
-    },
-    {
-      "id": "2026-11-15-fred-mortgage-four-weekly-declines-711",
-      "time": "2026-11-15T16:04:00Z",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate 7.11% on Nov. 12, four straight weekly declines from 7.40%",
-      "take": "FRED's weekly 30-year fixed mortgage rate series shows 7.40% on Oct. 8 and Oct. 15, then 7.32% on Oct. 22, 7.24% on Oct. 29, 7.18% on Nov. 5 and 7.11% on Nov. 12. That is 0.29 point below the Oct. 15 reading. AlphaGen read: each of the last four weekly readings was lower than the one before.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (Freddie Mac 30-Year Mortgage Rate)",
-      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-      "checked": "2026-11-15T15:38:24Z"
-    },
-    {
-      "id": "2026-11-15-fred-hy-ig-gap-nov12-231",
-      "time": "2026-11-15T16:16:00Z",
-      "tag": "CREDIT",
-      "headline": "High-yield minus investment-grade spread 2.31 points on Nov. 12, from 2.55 on Nov. 5",
-      "take": "FRED shows the high-yield option-adjusted spread at 3.20 points and the investment-grade spread at 0.89 point on Nov. 12, a gap of 2.31 points. On Nov. 5 the readings were 3.48 and 0.93, a gap of 2.55. AlphaGen read: the gap is AlphaGen's arithmetic on the two published series and narrowed 0.24 point over the week.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA OAS indexes)",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-      "checked": "2026-11-15T15:38:24Z"
-    },
-    {
-      "id": "2026-11-15-cpi-oct-food-total-path",
-      "time": "2026-11-15T15:24:00Z",
-      "tag": "MACRO",
-      "headline": "CPI food +0.5% in October after flat September; ties April's gain",
-      "take": "BLS's Nov. 10 CPI release shows the food index rose 0.5% in October after being unchanged in September. The monthly path from April was 0.5%, 0.2%, 0.2%, 0.1%, 0.1%, 0.0% and 0.5%. AlphaGen read: October equals April's gain as the largest monthly increase in the seven months shown.",
-      "source_name": "Bureau of Labor Statistics (CPI)",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-15T14:44:07Z"
     }
   ]
 }
