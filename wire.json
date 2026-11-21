@@ -46,7 +46,7 @@
       "time": "2026-11-21T23:29:52Z",
       "tag": "CREDIT",
       "headline": "Week to Nov. 19: 2-year yield down 0.10 point, high-yield spread up 0.32",
-      "take": "FRED data show the 2-year Treasury yield at 4.76% on Nov. 19 versus 4.86% on Nov. 12 (down 0.10 point), and the 10-year at 5.04% versus 5.10% (down 0.06 point). Over the same week the ICE BofA high-yield spread widened to 3.52 points from 3.20 (up 0.32). AlphaGen read: yields and credit spreads moved in opposite directions over the week.",
+      "take": "FRED data show the 2-year Treasury yield at 4.76% on Nov. 19 versus 4.86% on Nov. 12 (down 0.10 point), and the 10-year at 5.04% versus 5.10% (down 0.06 point). Over the same week the high-yield spread widened to 3.52 points from 3.20 (up 0.32). AlphaGen read: yields and credit spreads moved in opposite directions over the week.",
       "source_name": "Federal Reserve Bank of St. Louis (FRED)",
       "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
       "checked": "2026-11-21T22:39:52Z"
