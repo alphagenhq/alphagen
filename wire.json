@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22T18:43:00Z",
+ "updated": "2026-11-22T19:44:23Z",
  "items": [
+  {
+   "id": "2026-11-22-trade-sept-services-exports-110p5-imports-79p7",
+   "tag": "MACRO",
+   "headline": "BEA: September services exports $110.5B, imports $79.7B; surplus $30.9B",
+   "take": "BEA and Census said exports of services rose $0.7 billion to $110.5 billion in September while imports of services rose $0.8 billion to $79.7 billion, leaving the services surplus at $30.9 billion, down less than $0.1 billion. Travel added $0.3 billion to exports and $0.5 billion to imports. AlphaGen read: services were a small, steady offset to the $135.9 billion goods deficit in the September report.",
+   "source_name": "BEA, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "time": "2026-11-22T19:49:23Z",
+   "checked": "2026-11-22T19:44:23Z"
+  },
+  {
+   "id": "2026-11-22-trade-sept-goods-exports-211b-capital-goods-soybeans-gold",
+   "tag": "GLOBAL",
+   "headline": "BEA: September goods exports rose $5.1B to $211.0B; capital goods +$3.8B",
+   "take": "BEA and Census said exports of goods increased $5.1 billion to $211.0 billion in September. Capital goods rose $3.8 billion (computers +$1.3 billion, civilian aircraft +$0.7 billion) and foods, feeds and beverages rose $1.9 billion, with soybeans up $1.3 billion. Industrial supplies and materials fell $1.0 billion as nonmonetary gold dropped $3.4 billion and crude oil rose $1.2 billion. AlphaGen read: capital goods and food shipments, not industrial supplies, accounted for the monthly gain.",
+   "source_name": "BEA, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "time": "2026-11-22T20:00:23Z",
+   "checked": "2026-11-22T19:44:23Z"
+  },
+  {
+   "id": "2026-11-22-trade-sept-goods-imports-346p9-pharma-2p9b-industrial-supplies-3p7b",
+   "tag": "GLOBAL",
+   "headline": "BEA: September goods imports $346.9B; pharmaceuticals +$2.9B",
+   "take": "BEA and Census said imports of goods increased $4.4 billion to $346.9 billion in September. Consumer goods rose $2.4 billion, with pharmaceutical preparations up $2.9 billion, while industrial supplies and materials fell $3.7 billion, including nonmonetary gold (-$2.7 billion) and crude oil (-$1.3 billion). AlphaGen read: a pharmaceuticals rise and an industrial-supplies decline pulled in opposite directions within the monthly import total.",
+   "source_name": "BEA, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "time": "2026-11-22T20:11:23Z",
+   "checked": "2026-11-22T19:44:23Z"
+  },
+  {
+   "id": "2026-11-22-trade-sept-surpluses-netherlands-7p7b-s-central-america-6p2b-uk-3p0b",
+   "tag": "GLOBAL",
+   "headline": "BEA: Sept. goods surpluses with Netherlands $7.7B, S. & Central America $6.2B",
+   "take": "BEA and Census listed September goods surpluses (Census basis, seasonally adjusted) with the Netherlands ($7.7 billion), South and Central America ($6.2 billion), the United Kingdom ($3.0 billion), Hong Kong ($2.5 billion), Australia ($2.1 billion) and Brazil ($1.1 billion). The release lists the largest deficits with Mexico ($28.7 billion), Vietnam ($25.3 billion) and Taiwan ($21.9 billion). AlphaGen read: the surplus list is made up of European, Latin American and other partners, while the largest deficits are with Mexico and Asian partners.",
+   "source_name": "BEA, U.S. International Trade in Goods and Services, September 2026",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "time": "2026-11-22T20:22:23Z",
+   "checked": "2026-11-22T19:44:23Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-gasoline-nsa-minus-0p7-sa-plus-1p0-electricity-0p9",
+   "tag": "ENERGY",
+   "headline": "BLS: October CPI gasoline +1.0% seasonally adjusted, -0.7% before adjustment",
+   "take": "BLS said the gasoline index rose 1.0 percent in October after advancing 9.1 percent in September; before seasonal adjustment, gasoline prices decreased 0.7 percent. The electricity index rose 0.9 percent while the natural gas index fell 0.8 percent, and the overall energy index increased 0.7 percent after a 5.2-percent rise in September. AlphaGen read: seasonal adjustment turned a raw monthly gasoline decline into a reported increase.",
+   "source_name": "BLS, Consumer Price Index, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "time": "2026-11-22T20:33:23Z",
+   "checked": "2026-11-22T19:44:23Z"
+  },
   {
    "id": "2026-11-22-bls-manufacturing-oct-19k-101k-since-dec-low",
    "tag": "MACRO",
@@ -5075,56 +5125,6 @@
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
    "checked": "2026-11-16T20:38:00Z"
-  },
-  {
-   "id": "2026-11-16-ecb-elderson-threshold-10bn-150-banks",
-   "time": "2026-11-16T21:14:00Z",
-   "tag": "GLOBAL",
-   "headline": "Elderson: ECB backs raising small-bank threshold to €10bn, adding about 150 banks",
-   "take": "ECB Executive Board member Frank Elderson wrote on Nov. 16 that the small and non-complex bank framework requires a balance sheet below €5 billion today, and that amending the regulation to let national authorities raise it to €10 billion would, with a redefinition of non-complex, bring about 150 more banks under it. He said joint reforms with the EBA should ultimately reduce reporting by such banks to around 5% of the data points reported by large banks. AlphaGen read: this is a proposal, and he stressed that proportionality cannot mean lower standards.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "checked": "2026-11-16T20:38:00Z"
-  },
-  {
-   "id": "2026-11-16-fred-10s2s-nov13-027",
-   "time": "2026-11-16T21:22:00Z",
-   "tag": "RATES",
-   "headline": "10-year minus 2-year Treasury spread 0.27 point on Nov. 13, from 0.38 on Nov. 5",
-   "take": "FRED shows the 10-year minus 2-year Treasury constant-maturity spread at 0.27 percentage point on Nov. 13, up 0.03 from 0.24 on Nov. 12 and down 0.11 from 0.38 on Nov. 5. AlphaGen read: the curve is still positively sloped but flatter than at the start of the month.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-   "checked": "2026-11-16T20:38:00Z"
-  },
-  {
-   "id": "2026-11-16-warsh-si-general-purpose-tech",
-   "time": "2026-11-16T19:42:19Z",
-   "tag": "FED",
-   "headline": "Warsh calls \"super intelligence\" a general-purpose technology that demands Fed attention",
-   "take": "Opening the Productivity and Jobs Task Force Conference in San Francisco, Chairman Warsh called the arrival of \"super intelligence\" an \"entirely new force in economic life and society.\" He said the Fed's role is \"neither advocacy nor opposition,\" but that wide adoption will have significant impact on the economy, with implications for monetary policy \"down the road.\" AlphaGen read: the Chairman is framing AI as a policy input to plan for, not a call on rates.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-16T19:39:19Z"
-  },
-  {
-   "id": "2026-11-16-warsh-productivity-not-yet-breakout",
-   "time": "2026-11-16T19:52:19Z",
-   "tag": "FED",
-   "headline": "Warsh: productivity growth \"reasonably strong\" lately but no definitive breakout yet",
-   "take": "Chairman Warsh said productivity growth has fluctuated and, in recent quarters, \"it's been reasonably strong,\" but \"it hasn't yet broken out definitively and structurally to the upside.\" He cited Bloom, Jones and coauthors: research efforts have increased more than 20 times since the 1930s, yet research productivity has fallen by an even larger amount. AlphaGen read: the Chairman did not claim an AI productivity boom is yet visible in the data.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-16T19:39:19Z"
-  },
-  {
-   "id": "2026-11-16-warsh-three-si-scenarios",
-   "time": "2026-11-16T20:02:19Z",
-   "tag": "FED",
-   "headline": "Warsh outlines three illustrative AI scenarios Fed staff are modeling, \"not forecasts\"",
-   "take": "Chairman Warsh said Board staff have begun evaluating contingencies with stylized, model-based frameworks: broadly shared gains with real GDP growth persistently above its long-run average; labor market disruption that could push the jobless rate above levels consistent with full employment; or a disappointment in which equity valuations fall, bringing a slowdown and a more notable rise in unemployment. He called them \"illustrative scenarios, not forecasts.\" AlphaGen read: the spread of outcomes shows why the Fed describes this as planning rather than predicting.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-16T19:39:19Z"
   }
  ]
 }
