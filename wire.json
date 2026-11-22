@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-22T12:38:35Z",
+  "updated": "2026-11-22T13:39:39Z",
   "items": [
+    {
+      "id": "2026-11-22-bea-mne-2024-parents-share-private-employment-21p7",
+      "time": "2026-11-22T13:50:00Z",
+      "tag": "MACRO",
+      "headline": "BEA: U.S. parents of multinationals were 21.7% of private employment in 2024",
+      "take": "BEA says U.S. parents accounted for 21.7 percent of total private industry employment in 2024, down from 21.9 percent in 2023, while their share of U.S. private-industry value added rose to 21.8 percent from 21.2 percent. U.S. parents' employment increased 0.1 percent to 29.9 million workers. AlphaGen read: the multinational parents' share of U.S. output grew even as their share of U.S. jobs slipped.",
+      "source_name": "U.S. Bureau of Economic Analysis, Activities of U.S. Multinational Enterprises, 2024",
+      "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+      "checked": "2026-11-22T13:39:39Z"
+    },
+    {
+      "id": "2026-11-22-bea-mne-2024-foreign-affiliates-14p3m-jobs-1p8t-value-added",
+      "time": "2026-11-22T14:02:00Z",
+      "tag": "GLOBAL",
+      "headline": "BEA: foreign affiliates of U.S. multinationals employed 14.3M in 2024, up 2.7%",
+      "take": "BEA reports employment abroad by foreign affiliates of U.S. multinationals rose 2.7 percent to 14.3 million workers in 2024 and was largest in India, Mexico, and the United Kingdom. Foreign affiliate value added increased 6.5 percent to $1.8 trillion, largest in the United Kingdom, Ireland, and Canada. AlphaGen read: the countries leading affiliate employment differ from those leading affiliate value added.",
+      "source_name": "U.S. Bureau of Economic Analysis, Activities of U.S. Multinational Enterprises, 2024",
+      "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+      "checked": "2026-11-22T13:39:39Z"
+    },
+    {
+      "id": "2026-11-22-bls-jobs-oct-unemployment-range-4p1-4p3-since-march",
+      "time": "2026-11-22T14:14:00Z",
+      "tag": "MACRO",
+      "headline": "BLS: unemployment rate has held between 4.1% and 4.3% since March",
+      "take": "BLS says the October unemployment rate was 4.1 percent and the number of unemployed people was 7.1 million, both little changed, and that the rate has stayed in a narrow range of 4.1 percent to 4.3 percent since March. Payrolls rose by 165,000 in October versus an average monthly gain of 48,000 over the prior 12 months. AlphaGen read: a steady jobless rate alongside faster October hiring is what the Fed has in front of it before its December meeting.",
+      "source_name": "U.S. Bureau of Labor Statistics, Employment Situation Summary, October 2026",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-22T13:39:39Z"
+    },
+    {
+      "id": "2026-11-22-eia-gas-injections-108bcf-june-15bcf-august",
+      "time": "2026-11-22T14:26:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA: weekly gas injections ranged from 108 Bcf in June to 15 Bcf in August",
+      "take": "EIA says weekly natural gas injections in the 2026 refill season ranged from 108 Bcf in early June to 15 Bcf in late August, and mild temperatures in the final weeks of the season led to above-normal injections. Net injections were 2 Bcf below the five-year average, but stocks ended the season at 3,810 Bcf, almost 2 percent above it. AlphaGen read: a large early-season cushion meant smaller injections were enough to finish above normal.",
+      "source_name": "U.S. Energy Information Administration, Today in Energy",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
+      "checked": "2026-11-22T13:39:39Z"
+    },
     {
       "id": "2026-11-22-cpi-oct-used-cars-minus-1p2-12mo-minus-3p3",
       "time": "2026-11-22T12:40:00Z",
@@ -5079,46 +5119,6 @@
       "take": "Fed Governor Barr said in Milan on Nov. 16 that on-balance-sheet debt of the seven largest AI firms has been growing significantly in 2026 and is expected to exceed $800 billion before year's end. He cited the Fed's latest Financial Stability Report, which estimates the potential maximum nominal value of off-balance-sheet liabilities now exceeds $3 trillion. AlphaGen read: the \"potential maximum\" wording means the $3 trillion is an upper bound on obligations, not a loss estimate.",
       "source_name": "Federal Reserve Board, Governor Barr speech",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-      "checked": "2026-11-16T13:40:59Z"
-    },
-    {
-      "id": "2026-11-16-barr-less-concerned-direct-losses",
-      "time": "2026-11-16T13:54:59Z",
-      "tag": "FED",
-      "headline": "Barr \"less concerned about direct losses\" from AI boom, flags fire-sale risk",
-      "take": "Governor Barr said that, given the still-limited amount of debt backing the current boom, he is less concerned about direct losses. He added that with leverage at hedge funds and broader risk appetite apparently quite high, a sharp reversal could lead to rapid deleveraging and, potentially, self-reinforcing fire sales. AlphaGen read: his worry is the transmission channel through leveraged holders, not the size of AI debt itself.",
-      "source_name": "Federal Reserve Board, Governor Barr speech",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-      "checked": "2026-11-16T13:40:59Z"
-    },
-    {
-      "id": "2026-11-16-barr-circular-financing-100b",
-      "time": "2026-11-16T14:06:59Z",
-      "tag": "EQUITIES",
-      "headline": "Barr: hyperscalers, GPU makers hold over $100B in equity stakes in LLM labs",
-      "take": "Governor Barr said hyperscaler firms and large GPU producers also have over $100 billion in cumulative equity investments in large language model labs and cloud-computing start-ups. He described this as circular financing, and the speech page says it is a relatively small share of the firms' balance sheets. AlphaGen read: the Fed is flagging the cross-holdings even while describing them as a small share of balance sheets.",
-      "source_name": "Federal Reserve Board, Governor Barr speech",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-      "checked": "2026-11-16T13:40:59Z"
-    },
-    {
-      "id": "2026-11-16-fed-week-minutes-waller-payments",
-      "time": "2026-11-16T14:18:59Z",
-      "tag": "FED",
-      "headline": "Fed calendar: Waller on payments Tuesday, FOMC minutes Wednesday at 2:00 p.m. ET",
-      "take": "The Fed's November calendar lists Governor Christopher Waller speaking on \"Payments\" at The Clearing House annual conference on Nov. 17 at 9:10 a.m., with the Industrial Production release at 9:15 a.m. Minutes of the Oct. 27-28 FOMC meeting are listed for Nov. 18 at 2:00 p.m., and the Beige Book for Nov. 25 at 2:00 p.m. AlphaGen read: the minutes are the week's main Fed event for rate-path detail.",
-      "source_name": "Federal Reserve Board, November 2026 calendar",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm",
-      "checked": "2026-11-16T13:40:59Z"
-    },
-    {
-      "id": "2026-11-16-fred-claims-4wk-avg-195250",
-      "time": "2026-11-16T14:30:59Z",
-      "tag": "MACRO",
-      "headline": "Initial jobless claims 4-week average 195,250 through Nov. 7",
-      "take": "FRED shows initial claims of 195,000, 195,000, 191,000 and 200,000 for the weeks ended Oct. 17, Oct. 24, Oct. 31 and Nov. 7, a four-week average of 195,250 (AlphaGen calculation). The Nov. 7 reading ties Oct. 10 as the highest of the six weekly observations since the week ended Oct. 3 (200,000 each). AlphaGen read: the labor market is still showing few layoffs, with claims in a 191,000-200,000 range over six weeks.",
-      "source_name": "U.S. Department of Labor via FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/ICSA",
       "checked": "2026-11-16T13:40:59Z"
     }
   ]
