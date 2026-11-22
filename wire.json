@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-22T02:38:43Z",
+ "updated": "2026-11-22T03:38:36Z",
  "items": [
+  {
+   "id": "2026-11-22-real-earnings-nov-release-dec10",
+   "time": "2026-11-22T03:38:36Z",
+   "tag": "MACRO",
+   "headline": "BLS: November Real Earnings release scheduled for Dec. 10 at 8:30 a.m. ET",
+   "take": "BLS lists the Real Earnings news release for November 2026 for Thursday, December 10, 2026, at 8:30 a.m. (ET). The October release, issued Nov. 10, showed real average hourly earnings for all employees unchanged. AlphaGen read: the next print will show whether pay growth and CPI keep moving together.",
+   "source_name": "BLS, Real Earnings news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
+   "checked": "2026-11-22T03:38:36Z"
+  },
+  {
+   "id": "2026-11-22-real-earnings-no-yoy-shutdown",
+   "time": "2026-11-22T03:50:36Z",
+   "tag": "MACRO",
+   "headline": "BLS: no over-the-year real earnings comparison for October due to 2025 data gap",
+   "take": "BLS says it could not collect the relevant Consumer Price Index data for the October 2025 reference period because of a lapse in appropriations in late 2025, so over-the-year comparisons from October 2025 to October 2026 are not available. The release usually includes that analysis. AlphaGen read: monthly changes are the usable real-pay read this month.",
+   "source_name": "BLS, Real Earnings news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
+   "checked": "2026-11-22T03:38:36Z"
+  },
+  {
+   "id": "2026-11-22-real-earnings-cpiw-production-0p3",
+   "time": "2026-11-22T04:02:36Z",
+   "tag": "MACRO",
+   "headline": "BLS: production workers' pay up 0.4% vs CPI-W up 0.3% in October",
+   "take": "BLS reports average hourly earnings for production and nonsupervisory employees rose 0.4 percent in October, against a 0.3 percent increase in CPI-W, leaving real hourly earnings up 0.1 percent. For all employees, pay and CPI-U both rose 0.4 percent. AlphaGen read: the one-tenth gap for production workers is the difference between the two price gauges.",
+   "source_name": "BLS, Real Earnings news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
+   "checked": "2026-11-22T03:38:36Z"
+  },
+  {
+   "id": "2026-11-22-gdp-q3-quarterly-rate-0p8-current-dollar-5p6",
+   "time": "2026-11-22T04:14:36Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 real GDP 3.4% annualized, 0.8% at a quarterly rate; current-dollar GDP 5.6%",
+   "take": "BEA's advance estimate has real GDP up 3.4 percent at an annual rate in the third quarter (0.8 percent at a quarterly rate), after 2.2 percent in the second quarter. Current-dollar GDP rose 5.6 percent at an annual rate. AlphaGen read: the gap between nominal and real growth reflects price changes; the second estimate is due Nov. 25.",
+   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "checked": "2026-11-22T03:38:36Z"
+  },
   {
    "id": "2026-11-22-trade-ytd",
    "time": "2026-11-22T02:42:43Z",
@@ -5080,46 +5120,6 @@
    "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
    "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
    "checked": "2026-11-16T03:38:54Z"
-  },
-  {
-   "id": "2026-11-16-bea-q3-gross-domestic-purchases-prices-3p0",
-   "time": "2026-11-16T04:00:00Z",
-   "tag": "MACRO",
-   "headline": "Q3 gross domestic purchases price index +3.0% annualized, from 5.6% in Q2",
-   "take": "BEA reports the price index for gross domestic purchases increased 3.0% at an annual rate in Q3, compared with 5.6% in Q2, a slowdown of 2.6 points (computed). Over the same quarters the PCE price index rose 2.1% versus 5.0%. AlphaGen read: the broadest BEA price gauge for domestic buyers cooled sharply from the second quarter.",
-   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-16T03:38:54Z"
-  },
-  {
-   "id": "2026-11-16-ppi-oct-core-less-foods-energy-trade-4p9",
-   "time": "2026-11-16T04:12:00Z",
-   "tag": "MACRO",
-   "headline": "PPI excluding foods, energy and trade rose 0.5% in October, 4.9% over 12 months",
-   "take": "BLS reports the index for final demand less foods, energy, and trade services rose 0.5% in October, the same as in September, and advanced 4.9% for the 12 months ended in October. The table shows the 12-month rate at 5.0% for September and 3.5% in October 2025. AlphaGen read: the narrower producer-price gauge was a touch lower on the year than in September but well above its year-earlier pace.",
-   "source_name": "BLS, Producer Price Index News Release, October 2026",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-16T03:38:54Z"
-  },
-  {
-   "id": "2026-11-16-ppi-oct-other-services-0p2",
-   "time": "2026-11-16T04:24:00Z",
-   "tag": "MACRO",
-   "headline": "PPI services excluding trade, transportation and warehousing +0.2% in October",
-   "take": "BLS reports final demand services rose 0.2% in October, the fifth consecutive advance, with the index for services less trade, transportation, and warehousing up 0.2% after 0.2% in September and 0.0% in August (table A). Transportation and warehousing services rose 2.0% and trade margins fell 0.2%. AlphaGen read: the October services gain was driven by transportation rather than the broader services group.",
-   "source_name": "BLS, Producer Price Index News Release, October 2026",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-16T03:38:54Z"
-  },
-  {
-   "id": "2026-11-16-fred-yields-nov6-nov12-move",
-   "time": "2026-11-16T02:40:00Z",
-   "tag": "RATES",
-   "headline": "2-year Treasury yield up 35 bp in a week to 4.86%; 10-year 5.10%, 30-year 5.43%",
-   "take": "FRED shows the 2-year constant-maturity yield at 4.86% on Nov. 12 versus 4.51% on Nov. 6, the 10-year at 5.10% versus 4.86%, and the 30-year at 5.43% versus 5.26%. That is rises of 35, 24 and 17 basis points (computed), so the 2-year moved most. AlphaGen read: the shorter end led the move, narrowing the gap between the 2-year and 30-year.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10, DGS30)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS2",
-   "checked": "2026-11-16T02:39:49Z"
   }
  ]
 }
