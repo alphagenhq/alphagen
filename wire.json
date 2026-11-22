@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22T16:39:56Z",
+ "updated": "2026-11-22T17:39:06Z",
  "items": [
+  {
+   "id": "2026-11-22-eia-refinery-utilization-above-95pct-may-sep-highest-since-1998",
+   "tag": "ENERGY",
+   "headline": "EIA: U.S. refinery utilization averaged over 95% May–September, highest since 1998",
+   "take": "EIA said in an Oct. 22 analysis that the U.S. refinery fleet has run at higher-than-normal rates this year, with utilization averaging more than 95% of capacity between May and September, the highest for those months since 1998. EIA attributed the high run rates to tight global product supplies that have boosted margins, particularly for diesel. AlphaGen read: this fits the refinery-yield shift toward distillate and jet fuel that EIA described in a separate Nov. 5 analysis.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "time": "2026-11-22T17:44:00Z",
+   "checked": "2026-11-22T17:39:06Z"
+  },
+  {
+   "id": "2026-11-22-eia-small-scale-solar-18812-to-92979-gwh-decade",
+   "tag": "ENERGY",
+   "headline": "EIA: U.S. small-scale solar generation rose from 18,812 GWh to 92,979 GWh in a decade",
+   "take": "EIA estimates U.S. generation from small-scale or rooftop solar systems (under 1 megawatt) increased from 18,812 gigawatthours to 92,979 GWh over the last decade, according to its Oct. 16 analysis. By AlphaGen's calculation that is about 4.9 times the starting level, consistent with EIA's description of it as having quadrupled. California, Arizona, Texas and Florida are the top four states, with New York fifth.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "time": "2026-11-22T17:51:00Z",
+   "checked": "2026-11-22T17:39:06Z"
+  },
+  {
+   "id": "2026-11-22-eia-hybrid-bev-phev-23pct-3q26-avg-price-over-50k",
+   "tag": "MACRO",
+   "headline": "EIA: hybrids and EVs were 23% of new U.S. light-duty sales in 3Q26, from 24% a year earlier",
+   "take": "EIA, citing Omdia data, said 23% of new light-duty vehicles sold in the U.S. in the third quarter of 2026 were hybrid, battery electric or plug-in hybrid, down slightly from 24% in 3Q25. Hybrid electric vehicles reached 16% of sales, while battery electric sales have stayed lower since the tax credit expired. EIA noted hybrid growth slowed as the average new-vehicle transaction price passed $50,000, the first time this year, according to Kelley Blue Book.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "time": "2026-11-22T17:58:00Z",
+   "checked": "2026-11-22T17:39:06Z"
+  },
+  {
+   "id": "2026-11-22-eia-pjm-ercot-swpp-peak-load-records-summer-2026",
+   "tag": "ENERGY",
+   "headline": "EIA: PJM, ERCOT and SWPP all set peak hourly load records this summer",
+   "take": "EIA reported on Oct. 15 that three regional transmission organizations (PJM, ERCOT and the Southwest Power Pool) set records for peak hourly load this past summer, based on Form EIA-930 data in its Hourly Electric Grid Monitor. The figures are the highest hourly load for a given day. AlphaGen read: record grid demand is the backdrop for EIA's separate projection of record U.S. electricity generation in 2026 and 2027.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "time": "2026-11-22T18:05:00Z",
+   "checked": "2026-11-22T17:39:06Z"
+  },
+  {
+   "id": "2026-11-22-eia-iso-ne-wind-generation-68pct-higher-first-nine-months-2026",
+   "tag": "ENERGY",
+   "headline": "EIA: ISO New England wind generation up about 68% in first nine months of 2026",
+   "take": "EIA said monthly wind generation in ISO New England averaged about 68% higher in the first nine months of 2026 than in the same period of 2025, based on Form EIA-930 data in its Oct. 14 analysis. AlphaGen read: the gain is a year-over-year comparison for a single grid region and should not be read as a national trend.",
+   "source_name": "EIA, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "time": "2026-11-22T18:12:00Z",
+   "checked": "2026-11-22T17:39:06Z"
+  },
   {
    "id": "2026-11-22-pypl-board-lee-q4-call-update",
    "tag": "EQUITIES",
@@ -5075,56 +5125,6 @@
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
    "checked": "2026-11-16T18:38:03Z"
-  },
-  {
-   "id": "2026-11-16-fred-yuan-vs-year-ago-nov6",
-   "time": "2026-11-16T17:50:15Z",
-   "tag": "FX",
-   "headline": "Yuan at 6.6760 per dollar on Nov. 6, from 7.1195 a year earlier",
-   "take": "The Fed's H.10 series on FRED shows 6.6760 Chinese yuan per U.S. dollar on Nov. 6, 2026, versus 7.1195 on Nov. 6, 2025. That is 6.2% fewer yuan per dollar (AlphaGen calculation). AlphaGen read: fewer yuan per dollar means the yuan is worth more in dollar terms than a year ago.",
-   "source_name": "Federal Reserve Board H.10 via FRED (DEXCHUS)",
-   "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
-   "checked": "2026-11-16T17:45:15Z"
-  },
-  {
-   "id": "2026-11-16-fred-sterling-vs-year-ago-nov6",
-   "time": "2026-11-16T18:02:15Z",
-   "tag": "FX",
-   "headline": "Sterling at $1.3371 on Nov. 6, from $1.3107 a year earlier",
-   "take": "The Fed's H.10 series on FRED shows $1.3371 per British pound on Nov. 6, 2026, versus $1.3107 on Nov. 6, 2025, a rise of 2.0% (AlphaGen calculation). AlphaGen read: the pound buys slightly more dollars than a year ago.",
-   "source_name": "Federal Reserve Board H.10 via FRED (DEXUSUK)",
-   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
-   "checked": "2026-11-16T17:45:15Z"
-  },
-  {
-   "id": "2026-11-16-cpi-oct-core-seven-month-cumulative",
-   "time": "2026-11-16T18:14:15Z",
-   "tag": "MACRO",
-   "headline": "CPI core compounds to about 1.7% over April-October; services 2.0%, goods 0.6%",
-   "take": "Using BLS's published monthly seasonally adjusted changes for April through October 2026, CPI less food and energy compounds to about 1.7%, services less energy services to about 2.0%, and commodities less food and energy commodities to about 0.6% (AlphaGen calculation from rounded figures). AlphaGen read: services have carried most of the core increase over the period.",
-   "source_name": "BLS, Consumer Price Index news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-16T17:45:15Z"
-  },
-  {
-   "id": "2026-11-16-fred-fed-assets-vs-year-ago-nov11",
-   "time": "2026-11-16T18:26:15Z",
-   "tag": "FED",
-   "headline": "Fed total assets $6.759T on Nov. 11, up $178B from a year earlier",
-   "take": "FRED's WALCL series shows Federal Reserve total assets of $6,758,867M on Nov. 11, 2026, versus $6,580,462M on Nov. 12, 2025, an increase of $178.4B or 2.7% (AlphaGen calculation). AlphaGen read: the balance sheet is larger than a year ago, though it has moved little in recent weeks.",
-   "source_name": "Federal Reserve Board H.4.1 via FRED (WALCL)",
-   "source_url": "https://fred.stlouisfed.org/series/WALCL",
-   "checked": "2026-11-16T17:45:15Z"
-  },
-  {
-   "id": "2026-11-16-fred-ig-spread-089-vs-jan-low",
-   "time": "2026-11-16T16:42:37Z",
-   "tag": "CREDIT",
-   "headline": "Investment-grade spread 0.89 point on Nov. 13, 0.16 above its Jan. 22 low of 0.73",
-   "take": "The ICE BofA US Corporate Index option-adjusted spread was 0.89 percentage point on Nov. 13, per FRED. That compares with 0.73 on Jan. 22, the 2026 low in the series, 0.94 on Mar. 16, the 2026 high, and 0.84 on Nov. 13, 2025. The investment-grade spread sits 0.16 point above its 2026 low and 0.05 point above a year earlier.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA US Corporate Index OAS)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
-   "checked": "2026-11-16T16:39:37Z"
   }
  ]
 }
