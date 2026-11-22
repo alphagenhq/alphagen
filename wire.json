@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-22T21:38:47Z",
+ "updated": "2026-11-22T22:43:00Z",
  "items": [
+  {
+   "id": "2026-11-22-cpi-core-0p3-three-straight-months-aug-oct",
+   "time": "2026-11-22T22:48:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: core CPI rose 0.3% in each of August, September and October",
+   "take": "BLS reports the index for all items less food and energy rose 0.3% in October, as it did in September and August (seasonally adjusted). Compounded, three 0.3% gains come to about 0.9%, by AlphaGen's calculation. AlphaGen read: the monthly core pace has been steady across the three most recent reports, even as headline CPI swung between 0.6% in September and 0.4% in October.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T22:46:00Z"
+  },
+  {
+   "id": "2026-11-22-cpi-lodging-away-0p6-after-2p0-sep",
+   "time": "2026-11-22T23:00:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: lodging away from home CPI rose 0.6% in October after 2.0% in September",
+   "take": "BLS reports the lodging away from home index rose 0.6% in October after rising 2.0% the previous month, while the index for rent increased 0.2% and owners' equivalent rent 0.3%. The two lodging gains compound to about 2.6%, by AlphaGen's calculation. AlphaGen read: lodging prices added to shelter in the last two reports, while rent measures moved at a slower monthly pace.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T22:46:00Z"
+  },
+  {
+   "id": "2026-11-22-bls-prof-business-services-70k-oct-vs-15k-avg",
+   "time": "2026-11-22T23:12:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: professional and business services added 70,000 jobs in October vs 15,000 average",
+   "take": "BLS reports professional and business services employment rose 70,000 in October, well above its average monthly gain of 15,000 over the prior 12 months. Professional, scientific, and technical services added 33,000, administrative and support and waste management 28,000, and management of companies 9,000, which sum to the 70,000. AlphaGen read: the sector supplied 42% of October's 165,000 total payroll gain, by our calculation.",
+   "source_name": "U.S. Bureau of Labor Statistics, Employment Situation Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-22T22:46:00Z"
+  },
+  {
+   "id": "2026-11-22-bls-payrolls-165k-oct-vs-48k-12mo-avg",
+   "time": "2026-11-22T23:24:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: October payrolls rose 165,000, versus a 48,000 average monthly gain over prior 12 months",
+   "take": "BLS reports total nonfarm payroll employment rose by 165,000 in October, higher than the average monthly gain of 48,000 over the prior 12 months, with the unemployment rate little changed at 4.1%. The October gain is 117,000 above that average, or about 3.4 times it, by AlphaGen's calculation. AlphaGen read: October was above from the 12-month pace, though BLS notes August and September were revised up by a combined 84,000.",
+   "source_name": "U.S. Bureau of Labor Statistics, Employment Situation Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-22T22:46:00Z"
+  },
   {
    "id": "2026-11-22-cpi-oct-new-vehicles-0p2-12mo-0p7-used-minus-3p3",
    "time": "2026-11-22T21:46:00Z",
@@ -5085,46 +5125,6 @@
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
    "checked": "2026-11-16T22:38:36Z"
-  },
-  {
-   "id": "2026-11-16-vujcic-hedgefunds-japan",
-   "time": "2026-11-16T23:05:36Z",
-   "tag": "CREDIT",
-   "headline": "Vujčić flags leveraged hedge funds in sovereign bond markets, Japanese investor risk",
-   "take": "Vujčić said hedge funds have become a significant but procyclical source of liquidity in sovereign bond markets, and that large Japanese investors may further reduce euro-area government bond holdings if Japanese yields rise. He said the growing footprint of leveraged hedge funds creates additional vulnerabilities. AlphaGen read: the ECB sees the buyer base for sovereign debt as increasingly price-sensitive.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T22:38:36Z"
-  },
-  {
-   "id": "2026-11-16-warsh-ideas-20x",
-   "time": "2026-11-16T23:14:36Z",
-   "tag": "FED",
-   "headline": "Warsh: research effort up 20x+ since the 1930s, yet research productivity fell more",
-   "take": "Opening the Fed's Productivity and Jobs Task Force Conference on Nov. 16, Chairman Warsh cited estimates that research efforts have increased more than 20 times since the 1930s, while, quoting Bloom, Jones and coauthors, research productivity has fallen by an even larger amount. He said productivity growth has been reasonably strong in recent quarters but has not broken out definitively to the upside. AlphaGen read: the Chair is framing the AI debate around idea generation, not just capital spending.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-16T22:38:36Z"
-  },
-  {
-   "id": "2026-11-16-tsy-4wk-bill-rate",
-   "time": "2026-11-16T23:23:36Z",
-   "tag": "DEBT",
-   "headline": "4-week bill high rate 4.068% on Oct. 15, up 2.0 bp from 4.048% a week earlier",
-   "take": "Treasury results show the $110 billion 4-week bill auctioned Oct. 15 had a 4.068% high investment rate and a 2.56 bid-to-cover ratio, versus 4.048% and 2.40 for the $110 billion offering on Oct. 8. The 8-week bill on Oct. 15 cleared at 4.132% with a 2.26 bid-to-cover. AlphaGen read: demand at the front end firmed slightly for the 4-week even as the rate edged up.",
-   "source_name": "U.S. Treasury, Fiscal Data auctions",
-   "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-   "checked": "2026-11-16T22:38:36Z"
-  },
-  {
-   "id": "2026-11-16-ecb-elderson-reporting-5pct-stress-tests",
-   "time": "2026-11-16T22:25:50Z",
-   "tag": "GLOBAL",
-   "headline": "Elderson: ECB aims to cut small banks' reporting to about 5% of large banks' data points",
-   "take": "In a Nov. 16 opinion piece, the ECB's Frank Elderson said the ECB and the European Banking Authority are pursuing reforms that should ultimately reduce reporting by small and non-complex banks to around 5% of the data points reported by large banks. He said supervisors could also run stress-test projections centrally, lightening the workload for almost 1,000 institutions, while stressing that proportionality cannot mean lower standards. AlphaGen read: the ECB is pairing simpler reporting with an explicit safety-and-soundness caveat.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "checked": "2026-11-16T21:38:50Z"
   }
  ]
 }
