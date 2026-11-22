@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-22T20:58:00Z",
+ "updated": "2026-11-22T21:38:47Z",
  "items": [
+  {
+   "id": "2026-11-22-cpi-oct-new-vehicles-0p2-12mo-0p7-used-minus-3p3",
+   "time": "2026-11-22T21:46:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: new vehicles CPI rose 0.2% in October and 0.7% over 12 months",
+   "take": "BLS reports the new vehicles index rose 0.2% in October after 0.2% in September, and 0.7% over the 12 months ended October (used cars and trucks fell 3.3% over the same span). The seasonally adjusted monthly changes from April to October (-0.2, -0.3, 0.0, 0.1, 0.3, 0.2, 0.2) compound to about 0.3% by AlphaGen's calculation. AlphaGen read: new-vehicle prices have edged higher while used-car prices have fallen.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T21:38:47Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-all-items-apr-oct-compounded-2p2-aug-oct-1p4",
+   "time": "2026-11-22T21:55:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: seven monthly CPI changes from April to October compound to about 2.2%",
+   "take": "BLS reports the all-items CPI-U rose 0.4% in October after 0.6% in September; the seasonally adjusted monthly changes from April to October were 0.6, 0.5, -0.4, 0.1, 0.4, 0.6 and 0.4. Compounded, that is about 2.2% over seven months, and about 1.4% over August through October, by AlphaGen's calculation from rounded published figures. BLS did not collect October 2025 data, so it cannot publish a 12-month change for most October 2026 indexes. AlphaGen read: the late-summer pace has been faster than the spring-to-July average.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T21:38:47Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-food-at-home-0p4-apr-oct-1p2",
+   "time": "2026-11-22T22:04:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: food at home CPI rose 0.4% in October after -0.1% in September",
+   "take": "BLS reports the food at home index rose 0.4% in October after -0.1% in September; the monthly path from April to October was 0.7, 0.1, 0.2, -0.1, 0.0, -0.1 and 0.4. Those seven changes compound to about 1.2%, by AlphaGen's calculation from rounded figures. BLS said four of six major grocery group indexes rose in October and one fell. AlphaGen read: October's grocery gain was the largest since April's 0.7%.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T21:38:47Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-energy-services-0p6-apr-oct-1p9",
+   "time": "2026-11-22T22:13:00Z",
+   "tag": "ENERGY",
+   "headline": "BLS: energy services CPI rose 0.6% in October; electricity +0.9%, natural gas -0.8%",
+   "take": "BLS reports the energy services index rose 0.6% in October after 0.1% in September, with electricity up 0.9% and utility (piped) gas service down 0.8%. The monthly changes from April to October (1.6, 0.4, -0.7, 0.3, -0.4, 0.1, 0.6) compound to about 1.9%, by AlphaGen's calculation from rounded figures. AlphaGen read: household energy-service costs have risen over the period even as natural gas service prices softened in October.",
+   "source_name": "U.S. Bureau of Labor Statistics, Consumer Price Index Summary, October 2026",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T21:38:47Z"
+  },
   {
    "id": "2026-11-22-fred-gasoline-eight-weekly-declines-sep21-4p478-nov16-3p805",
    "time": "2026-11-22T20:45:00Z",
@@ -5084,46 +5124,6 @@
    "take": "In a Nov. 16 opinion piece, the ECB's Frank Elderson said the ECB and the European Banking Authority are pursuing reforms that should ultimately reduce reporting by small and non-complex banks to around 5% of the data points reported by large banks. He said supervisors could also run stress-test projections centrally, lightening the workload for almost 1,000 institutions, while stressing that proportionality cannot mean lower standards. AlphaGen read: the ECB is pairing simpler reporting with an explicit safety-and-soundness caveat.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "checked": "2026-11-16T21:38:50Z"
-  },
-  {
-   "id": "2026-11-16-barr-gpu-depreciation-lease-rates",
-   "time": "2026-11-16T22:16:50Z",
-   "tag": "FED",
-   "headline": "Barr flags fast chip depreciation risk; older-vintage lease rates 'holding up'",
-   "take": "Governor Barr said the bulk of a data center's cost comes from GPUs and other specialized chips, and one concern is that they may depreciate quickly as newer technologies overtake them, leaving capacity of little future use. He said lease rates of older chip vintages currently appear to be holding up, suggesting uses even for older computing technology. AlphaGen read: collateral values of GPU-backed financings depend on how long older chips stay in demand.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-   "checked": "2026-11-16T21:38:50Z"
-  },
-  {
-   "id": "2026-11-16-barr-prime-brokerage-equity-leverage",
-   "time": "2026-11-16T22:07:50Z",
-   "tag": "FED",
-   "headline": "Barr: equity-strategy leverage has risen, with prime brokers at large dealers a channel",
-   "take": "Governor Barr said leverage at hedge funds and risk appetite appear quite high, so a sharp reversal could lead to rapid deleveraging and self-reinforcing fire sales, and that leverage used in equity strategies has also increased in recent years, provided in part via large dealers' prime brokerage. He said high capital at the largest banks is a bulwark against spillovers but counterparty exposures could rise in a period of equity-market volatility. AlphaGen read: the Fed's concern centers on the leveraged-fund channel rather than direct AI-related losses.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-   "checked": "2026-11-16T21:38:50Z"
-  },
-  {
-   "id": "2026-11-16-barr-equity-premium-low-not-dotcom",
-   "time": "2026-11-16T21:58:50Z",
-   "tag": "FED",
-   "headline": "Barr: equity premium low versus history, though not as low as the dot-com peak",
-   "take": "Governor Barr said the equity premium, a rough measure of the extra return investors require for holding stocks over risk-free bonds, is at low levels relative to historical norms, though not nearly as low as in the dot-com boom. He noted the Fed does not target financial-market levels and called the premium one indicator among several of valuations. AlphaGen read: the Fed is framing valuations as a financial-stability input, not a market call.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-   "checked": "2026-11-16T21:38:50Z"
-  },
-  {
-   "id": "2026-11-16-barr-telecom-comparison-hyperscaler-capex",
-   "time": "2026-11-16T21:49:50Z",
-   "tag": "FED",
-   "headline": "Barr: hyperscaler capex and debt yet to surpass the 1990s telecom cycle, but may soon",
-   "take": "Governor Barr said the Fed's Financial Stability Report compares hyperscalers' cumulative capital spending and debt issuance since 2020 with those of all telecommunications firms during the broadband cycle that began in 1995. He said hyperscalers have yet to surpass their comparators, but the recent acceleration in capital expenditures suggests they may do so soon. AlphaGen read: the Fed is using the telecom buildout as its reference case for a debt-funded technology cycle.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
    "checked": "2026-11-16T21:38:50Z"
   }
  ]
