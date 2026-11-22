@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-21T22:39:52Z",
+  "updated": "2026-11-22T00:40:11Z",
   "items": [
+    {
+      "id": "2026-11-22-jobs-oct-revisions-aug-186k-sep-60k",
+      "time": "2026-11-22T00:44:11Z",
+      "tag": "MACRO",
+      "headline": "BLS: Aug. payrolls revised up to +186,000, Sept. to +60,000; 84,000 combined",
+      "take": "BLS's October Employment Situation (released Nov. 6) revised August nonfarm payroll growth up by 53,000, from +133,000 to +186,000, and September up by 31,000, from +29,000 to +60,000. With the revisions, employment in August and September combined is 84,000 higher than previously reported. AlphaGen read: the two earlier months now look stronger than first published, alongside October's +165,000.",
+      "source_name": "BLS, Employment Situation Summary (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-22T00:40:11Z"
+    },
+    {
+      "id": "2026-11-22-cpi-oct-electricity-0p9-after-0p2",
+      "time": "2026-11-22T00:56:11Z",
+      "tag": "ENERGY",
+      "headline": "CPI electricity index up 0.9% in October, after +0.2% in September",
+      "take": "BLS's October CPI (released Nov. 10) shows the electricity index rose 0.9% in October on a seasonally adjusted basis, after +0.2% in September and -0.2% in August; the table lists +2.1% for April. Compounding the seven monthly changes from April through October gives about 2.7%, by AlphaGen's calculation from rounded figures. AlphaGen read: electricity rose on net from April through October even as the piped natural gas index fell 0.8% in October.",
+      "source_name": "BLS, Consumer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-22T00:40:11Z"
+    },
+    {
+      "id": "2026-11-22-cpi-oct-energy-index-0p7-after-5p2",
+      "time": "2026-11-22T01:08:11Z",
+      "tag": "COMMODITIES",
+      "headline": "CPI energy index up 0.7% in October after +5.2% in September",
+      "take": "BLS reports the October CPI energy index rose 0.7% on a seasonally adjusted basis after rising 5.2% in September; the table shows +2.1% for August, -1.5% for July and -5.7% for June. Compounding August through October gives about 8.2%, by AlphaGen's calculation from rounded monthly figures. AlphaGen read: the energy index has climbed for three straight months after falling in June and July.",
+      "source_name": "BLS, Consumer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-22T00:40:11Z"
+    },
+    {
+      "id": "2026-11-22-cpi-oct-medical-care-services-0p3-hospital-0p8",
+      "time": "2026-11-22T01:20:11Z",
+      "tag": "MACRO",
+      "headline": "CPI medical care services up 0.3% in October for a second month",
+      "take": "BLS's October CPI table shows medical care services rose 0.3% in October and 0.3% in September, after -0.2% in August and +0.6% in July. The release says the overall medical care index rose 0.3% in October after +0.1% in September, with hospital services up 0.8% and physicians' services up 0.4%. AlphaGen read: compounding July through October gives about 1.0% for medical care services, by our calculation from rounded figures.",
+      "source_name": "BLS, Consumer Price Index (October 2026)",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "checked": "2026-11-22T00:40:11Z"
+    },
     {
       "id": "2026-11-21-treasury-refunding-nov-2y-69b-5y-70b-7y-44b",
       "time": "2026-11-21T22:51:52Z",
@@ -5080,46 +5120,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis (ECBDFR)",
       "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
       "checked": "2026-11-16T01:39:43Z"
-    },
-    {
-      "id": "2026-11-16-fred-3m-bill-vs-year-ago-nov12",
-      "time": "2026-11-16T02:25:00Z",
-      "tag": "RATES",
-      "headline": "3-month Treasury yield 4.32% on Nov. 12, up from 3.95% a year earlier",
-      "take": "FRED shows the 3-month constant-maturity Treasury yield at 4.32% on Nov. 12, 2026, versus 3.95% on Nov. 12, 2025, a rise of 37 bp (computed). The Fed's target range was 3.75%-4.00% on both dates. AlphaGen read: the bill yield now sits above the top of the range, while it sat below the top a year ago.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS3MO)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
-      "checked": "2026-11-16T01:39:43Z"
-    },
-    {
-      "id": "2026-11-16-fred-payrolls-oct-vs-year-ago-level",
-      "time": "2026-11-16T02:33:00Z",
-      "tag": "MACRO",
-      "headline": "Payroll employment 159.293M in October, up 885,000 from a year earlier",
-      "take": "FRED shows total nonfarm payroll employment at 159,293 thousand in October 2026 versus 158,408 thousand in October 2025, an increase of 885,000 or 0.6% (computed). BLS reported that October payrolls rose 165,000 on the month. AlphaGen read: the year-over-year gain averages roughly 74,000 a month, below the October monthly gain.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (PAYEMS)",
-      "source_url": "https://fred.stlouisfed.org/series/PAYEMS",
-      "checked": "2026-11-16T01:39:43Z"
-    },
-    {
-      "id": "2026-11-16-treasury-20y-bond-tips-reopening-week",
-      "time": "2026-11-16T00:47:00Z",
-      "tag": "DEBT",
-      "headline": "Treasury schedule: 20-year bond auction Nov. 18, 10-year TIPS reopening Nov. 19",
-      "take": "Treasury's tentative auction schedule lists a 20-year bond auction on Wednesday, Nov. 18, settling Monday, Nov. 30, and a 10-year TIPS reopening on Thursday, Nov. 19, also settling Nov. 30. Both were announced Nov. 12. The schedule is labeled tentative. AlphaGen read: two long-dated sales fall in the same two days, with the week's results due before the Nov. 30 settlement.",
-      "source_name": "U.S. Treasury, Tentative Auction Schedule (Q3 2026)",
-      "source_url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf",
-      "checked": "2026-11-16T00:45:00Z"
-    },
-    {
-      "id": "2026-11-16-treasury-nov16-settlements-3y-10y-30y",
-      "time": "2026-11-16T00:58:00Z",
-      "tag": "DEBT",
-      "headline": "Treasury: 3-, 10- and 30-year auctions from last week settle Monday, Nov. 16",
-      "take": "Treasury's tentative schedule shows the 3-year note (auctioned Nov. 9), the 10-year note (auctioned Nov. 10) and the 30-year bond (auctioned Nov. 12) all settling on Monday, Nov. 16. AlphaGen read: the three sales from the refunding week reach settlement together on one day.",
-      "source_name": "U.S. Treasury, Tentative Auction Schedule (Q3 2026)",
-      "source_url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf",
-      "checked": "2026-11-16T00:45:00Z"
     }
   ]
 }
