@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-22T17:39:06Z",
+ "updated": "2026-11-22T18:43:00Z",
  "items": [
+  {
+   "id": "2026-11-22-bls-manufacturing-oct-19k-101k-since-dec-low",
+   "tag": "MACRO",
+   "headline": "BLS: manufacturing added 19,000 jobs in October, 101,000 since a December 2025 low",
+   "take": "BLS said manufacturing employment continued to trend up in October (+19,000) and has increased by 101,000 since a recent low in December 2025. October gains came in computer and electronic product manufacturing (+7,000), machinery manufacturing (+4,000) and primary metal manufacturing (+4,000). AlphaGen read: manufacturing's 19,000 is a portion of the 165,000 total nonfarm payroll gain BLS reported for October.",
+   "source_name": "BLS, Employment Situation",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "time": "2026-11-22T18:45:00Z",
+   "checked": "2026-11-22T18:43:00Z"
+  },
+  {
+   "id": "2026-11-22-bls-transport-warehousing-oct-25k-couriers",
+   "tag": "MACRO",
+   "headline": "BLS: transportation and warehousing added 25,000 jobs in October; couriers +17,000",
+   "take": "BLS reported transportation and warehousing added 25,000 jobs in October, reflecting growth in couriers and messengers (+17,000) and air transportation (+4,000). The sector has added 104,000 jobs since a recent employment low in February, with couriers and messengers (+71,000) contributing most of the gain. AlphaGen read: the recovery in the sector is concentrated in delivery services rather than spread evenly across modes.",
+   "source_name": "BLS, Employment Situation",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "time": "2026-11-22T18:54:00Z",
+   "checked": "2026-11-22T18:43:00Z"
+  },
+  {
+   "id": "2026-11-22-bls-avg-hourly-earnings-38-oct-3p1pct",
+   "tag": "MACRO",
+   "headline": "BLS: average hourly earnings rose 14 cents to $38.00 in October; up 3.1% in 12 months",
+   "take": "BLS said average hourly earnings for all private nonfarm employees increased by 14 cents, or 0.4 percent, to $38.00 in October, and have risen 3.1 percent over the past 12 months. For production and nonsupervisory employees, earnings rose 12 cents, or 0.4 percent, to $32.75. AlphaGen read: the 3.1% annual pace in pay sits below the 3.8% 12-month PCE inflation rate Fed Governor Cook cited for October.",
+   "source_name": "BLS, Employment Situation",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "time": "2026-11-22T19:03:00Z",
+   "checked": "2026-11-22T18:43:00Z"
+  },
+  {
+   "id": "2026-11-22-bls-discouraged-workers-448k-oct",
+   "tag": "MACRO",
+   "headline": "BLS: 6.0M people outside the labor force wanted a job in October; 448,000 discouraged",
+   "take": "BLS said the number of people not in the labor force who currently want a job changed little at 6.0 million in October. The marginally attached numbered 1.6 million, and discouraged workers, a subset who believed no jobs were available for them, were little changed at 448,000. AlphaGen read: these slack measures sit alongside a 4.1% unemployment rate that BLS said has held in a 4.1%-to-4.3% range since March.",
+   "source_name": "BLS, Employment Situation",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "time": "2026-11-22T19:12:00Z",
+   "checked": "2026-11-22T18:43:00Z"
+  },
+  {
+   "id": "2026-11-22-cook-imf-ai-gains-advanced-economies-share",
+   "tag": "FED",
+   "headline": "Cook: IMF analysis suggests advanced economies may capture a larger share of AI gains",
+   "take": "Fed Governor Cook said in a Nov. 20 speech that recent IMF analysis suggests advanced economies may be positioned to capture a disproportionate share of global AI-driven productivity growth over the next decade, relative to developing economies. She asked where countries like Chile will land in that distribution and what will determine the outcome. AlphaGen read: Cook framed this as an open question, not a forecast, in remarks she delivered to a Central Bank of Chile conference.",
+   "source_name": "Federal Reserve Board, Governor Cook speech",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+   "time": "2026-11-22T19:21:00Z",
+   "checked": "2026-11-22T18:43:00Z"
+  },
+  {
+   "id": "2026-11-22-fred-fed-total-assets-5wk-6p741t",
+   "tag": "FED",
+   "headline": "Fed total assets $6.741T on Nov. 18, $14.2B below Oct. 14 after a Nov. 11 high",
+   "take": "FRED's WALCL series shows Federal Reserve total assets of $6,741,452 million on Nov. 18, versus $6,755,639 million on Oct. 14, a decline of $14.2 billion. Over that window the highest weekly reading was $6,758,867 million on Nov. 11. AlphaGen read: the balance sheet has drifted in a narrow band of roughly $17B across six weekly observations.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "time": "2026-11-22T19:30:00Z",
+   "checked": "2026-11-22T18:43:00Z"
+  },
   {
    "id": "2026-11-22-eia-refinery-utilization-above-95pct-may-sep-highest-since-1998",
    "tag": "ENERGY",
@@ -5065,66 +5125,6 @@
    "source_name": "Federal Reserve Board",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
    "checked": "2026-11-16T19:39:19Z"
-  },
-  {
-   "id": "2026-11-16-warsh-five-task-forces-one-fed",
-   "time": "2026-11-16T20:12:19Z",
-   "tag": "FED",
-   "headline": "Warsh: Productivity and Jobs panel is one of five task forces he has convened",
-   "take": "Chairman Warsh said the Productivity and Jobs Task Force is \"one of five\" he has convened as Chairman, meant to take discussion \"further and deeper than fleeting data points or daily market moves.\" He called the groups an intellectual investment to better equip the Fed \"for the next policy conjuncture and beyond,\" under the theme \"One Fed. Fit for Purpose. Focused on the Future.\" AlphaGen read: the task forces signal a longer-horizon framing alongside meeting-by-meeting data.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-16T19:39:19Z"
-  },
-  {
-   "id": "2026-11-16-warsh-risks-bad-actors-infrastructure",
-   "time": "2026-11-16T20:22:19Z",
-   "tag": "FED",
-   "headline": "Warsh flags AI risks to critical infrastructure, including from \"bad actors\"",
-   "take": "Chairman Warsh said \"great opportunities rarely come risk free,\" noting that super intelligence \"empowers all, including bad actors,\" and that the Fed is thinking especially of \"critical infrastructures and their potential vulnerabilities.\" He posed open questions on magnitude, scope and timing, including whether total factor productivity will rise and when any surge would start and taper. AlphaGen read: the speech raises questions rather than answers, consistent with his statement that the Fed is \"certainly not here to make predictions.\"",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-16T19:39:19Z"
-  },
-  {
-   "id": "2026-11-16-macklem-step-down-june-2027",
-   "time": "2026-11-16T18:38:03Z",
-   "tag": "GLOBAL",
-   "headline": "Bank of Canada Governor Macklem will not seek a second term; term ends June 2, 2027",
-   "take": "The Bank of Canada said Governor Tiff Macklem told its Board he will not seek a second term when his seven-year term expires on June 2, 2027. The Board's independent directors have formed a Search Committee, with the process expected to be completed by spring 2027 and the next Governor's seven-year term set to begin June 3, 2027, subject to approval by the Minister of Finance and Cabinet. AlphaGen read: the announcement sets a long runway for a handover at Canada's central bank.",
-   "source_name": "Bank of Canada",
-   "source_url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
-   "checked": "2026-11-16T18:38:03Z"
-  },
-  {
-   "id": "2026-11-16-ecb-vujcic-euro-inflation-4pct-oct",
-   "time": "2026-11-16T18:52:03Z",
-   "tag": "GLOBAL",
-   "headline": "ECB's Vujčić: euro-area headline inflation rose to 4% in October from 3.8%",
-   "take": "In a Nov. 16 keynote at Euro Finance Week, ECB Vice-President Boris Vujčić said headline inflation in the euro area increased to 4% in October from 3.8% in September, mainly due to higher energy prices, while underlying inflation has remained broadly stable and wages are not showing a material response at this stage. He added that weaker confidence and rising borrowing costs should partially contain inflation by weighing on growth. AlphaGen read: the ECB is describing an energy-driven rise rather than a broad one.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T18:38:03Z"
-  },
-  {
-   "id": "2026-11-16-ecb-vujcic-ai-capex-5p5t-ipo",
-   "time": "2026-11-16T19:06:03Z",
-   "tag": "GLOBAL",
-   "headline": "ECB's Vujčić: US tech capex seen at $5.5 trillion by 2030, AI debt issuance at record",
-   "take": "Vujčić said large cloud and AI infrastructure providers are increasingly turning to debt markets, with issuance volumes reaching record highs this year, and that cumulative capital expenditure by major US technology firms is projected to reach USD 5.5 trillion by 2030. He also said IPO volumes are on track to exceed the dot-com bubble high relative to US GDP. AlphaGen read: the ECB is flagging AI funding as a financial-stability topic, alongside sovereign debt, ahead of its Financial Stability Review two days later.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T18:38:03Z"
-  },
-  {
-   "id": "2026-11-16-ecb-elderson-small-banks-75pct",
-   "time": "2026-11-16T19:20:03Z",
-   "tag": "GLOBAL",
-   "headline": "ECB's Elderson: about 75% of nationally supervised euro banks are small and non-complex",
-   "take": "In a Nov. 16 contribution for Börsen-Zeitung, ECB Executive Board member Frank Elderson wrote that around 75% of banks supervised by national authorities in the euro area, more than 1,400 institutions, qualify as small and non-complex, with the share at 81% in Germany. Such banks need only report up to 30% of the data reported by larger counterparts. AlphaGen read: the ECB and national supervisors have set out proposals to make oversight of smaller banks more risk-focused without lowering safety standards.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "checked": "2026-11-16T18:38:03Z"
   }
  ]
 }
