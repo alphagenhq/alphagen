@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22T22:43:00Z",
+ "updated": "2026-11-22T23:39:00Z",
  "items": [
+  {
+   "id": "2026-11-22-boc-summary-hike-2p5-oil-35-above-july",
+   "time": "2026-11-22T23:39:00Z",
+   "tag": "GLOBAL",
+   "headline": "Bank of Canada raised its policy rate to 2.5% on Oct. 28, deliberations summary shows",
+   "take": "The Bank of Canada's summary of Governing Council deliberations, published Nov. 10, says members weighed holding at 2.25% or raising to 2.5% and chose to raise, to reduce the risk that persistently high energy prices lead to broader price increases. It says the benchmark oil price was about US$35 per barrel higher than assumed in the July Report. AlphaGen read: the rationale is framed around energy pass-through rather than core inflation, which the Bank says remained near 2%.",
+   "source_name": "Bank of Canada, Summary of Governing Council deliberations (Oct. 28, 2026 decision), published Nov. 10, 2026",
+   "source_url": "https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/",
+   "checked": "2026-11-22T23:39:00Z"
+  },
+  {
+   "id": "2026-11-22-boc-outlook-cpi-3p5-end-2026-2pct-mid-2028",
+   "time": "2026-11-22T23:49:00Z",
+   "tag": "GLOBAL",
+   "headline": "Bank of Canada sees CPI at 3½% by end-2026, back to 2% target by mid-2028",
+   "take": "The Bank of Canada's Nov. 10 summary says CPI inflation was expected to rise to 3½% at the end of 2026 and stay above 3% through much of 2027 before declining to the 2% target by the middle of 2028; total inflation had been around 3% since April and CPI excluding gasoline was 2.2%. It also says members agreed there could be a need to raise the policy rate further but would decide one meeting at a time. AlphaGen read: the path implies the Bank expects the energy shock to take roughly two years to fully fade from headline inflation.",
+   "source_name": "Bank of Canada, Summary of Governing Council deliberations (Oct. 28, 2026 decision), published Nov. 10, 2026",
+   "source_url": "https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/",
+   "checked": "2026-11-22T23:39:00Z"
+  },
+  {
+   "id": "2026-11-22-boj-takata-nov16-ppi-7p1-proposed-1p5",
+   "time": "2026-11-22T23:59:00Z",
+   "tag": "GLOBAL",
+   "headline": "BoJ's Takata: PPI up 7.1% y/y in October; he proposed a 1.5% rate at the October meeting",
+   "take": "In a Nov. 16 speech, Bank of Japan Policy Board member Hajime Takata said the producer price index rose 7.1% year on year as of October 2026, that the Bank raised its policy rate to around 1.0% in June 2026 and to 1.25% in September, and that at the October meeting he proposed raising it to 1.5%, which he called solely his personal view. AlphaGen read: the speech is one board member's view, but it shows the debate at the BoJ has moved to the pace of further hikes.",
+   "source_name": "Bank of Japan, speech by Policy Board Member Hajime Takata, Nov. 16, 2026",
+   "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/data/ko261116a1.pdf",
+   "checked": "2026-11-22T23:39:00Z"
+  },
+  {
+   "id": "2026-11-22-fannie-mae-nov12-mortgage-rate-7p2-q4-2026-2027",
+   "time": "2026-11-23T00:09:00Z",
+   "tag": "HOUSING",
+   "headline": "Fannie Mae's Nov. 12 forecast: 30-year mortgage rate averages 7.2% in Q4 2026, 2027",
+   "take": "Fannie Mae's November 12, 2026 housing forecast shows the 30-year fixed rate averaging 7.2% in the fourth quarter of 2026 and in each quarter of 2027, for annual averages of 6.6% in 2026 and 7.2% in 2027; the rate forecasts are based on rates from Oct. 30. Its home price forecast (Q4/Q4) is 2.7% for 2026 and 0.6% for 2027. AlphaGen read: the forecast assumes no relief in borrowing costs through next year.",
+   "source_name": "Fannie Mae Economic and Strategic Research, Housing Forecast, Nov. 12, 2026",
+   "source_url": "https://www.fanniemae.com/media/58571/display",
+   "checked": "2026-11-22T23:39:00Z"
+  },
+  {
+   "id": "2026-11-22-fannie-mae-nov12-home-sales-4655k-starts-1331k",
+   "time": "2026-11-23T00:19:00Z",
+   "tag": "HOUSING",
+   "headline": "Fannie Mae forecasts 2026 total home sales of 4.655M, down 1.8%; starts 1.331M",
+   "take": "Fannie Mae's Nov. 12 forecast shows total home sales of 4,655 thousand in 2026 (down 1.8% from 4,741 thousand in 2025) and 4,645 thousand in 2027, and total housing starts of 1,331 thousand in 2026 and 1,277 thousand in 2027 (down 4.1%). Multifamily starts are forecast at 434 thousand in 2026 and 391 thousand in 2027. AlphaGen read: the forecast has activity roughly flat next year, with multifamily doing the pulling back.",
+   "source_name": "Fannie Mae Economic and Strategic Research, Housing Forecast, Nov. 12, 2026",
+   "source_url": "https://www.fanniemae.com/media/58571/display",
+   "checked": "2026-11-22T23:39:00Z"
+  },
   {
    "id": "2026-11-22-cpi-core-0p3-three-straight-months-aug-oct",
    "time": "2026-11-22T22:48:00Z",
@@ -5075,56 +5125,6 @@
    "source_name": "U.S. Bureau of Economic Analysis",
    "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
    "checked": "2026-11-16T23:44:27Z"
-  },
-  {
-   "id": "2026-11-16-bls-oct-payrolls-three-month-avg-137k",
-   "time": "2026-11-16T23:58:27Z",
-   "tag": "MACRO",
-   "headline": "Payrolls: Aug-Oct gains average 137,000 after revisions, using 186,000, 60,000 and 165,000",
-   "take": "After BLS revised August to +186,000 and September to +60,000, and reported October at +165,000, the three months total 411,000, an average of 137,000 a month (AlphaGen calculation). BLS said August and September combined are 84,000 higher than previously reported. AlphaGen read: the three-month average is well above the 48,000 average monthly gain BLS cites for the prior 12 months.",
-   "source_name": "U.S. Bureau of Labor Statistics",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-16T23:44:27Z"
-  },
-  {
-   "id": "2026-11-16-bls-oct-avg-hourly-earnings-3800",
-   "time": "2026-11-16T23:46:27Z",
-   "tag": "MACRO",
-   "headline": "Average hourly earnings rose 14 cents to $38.00 in October, up 3.1% in 12 months",
-   "take": "BLS reported average hourly earnings for all private nonfarm employees rose 14 cents, or 0.4%, to $38.00 in October, and are up 3.1% over the past 12 months. For production and nonsupervisory employees, hourly earnings rose 12 cents, or 0.4%, to $32.75. AlphaGen read: pay growth of 3.1% over 12 months sits below the 3.6% 12-month September PCE inflation rate BEA reported, though the two series cover different months.",
-   "source_name": "U.S. Bureau of Labor Statistics",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-16T23:44:27Z"
-  },
-  {
-   "id": "2026-11-16-vujcic-ipo-dotcom",
-   "time": "2026-11-16T22:38:36Z",
-   "tag": "EQUITIES",
-   "headline": "ECB's Vujčić: IPO volumes on track to exceed dot-com high relative to U.S. GDP",
-   "take": "In his Nov. 16 Euro Finance Week speech, ECB Vice-President Boris Vujčić said equity issuance is surging, with IPO volumes now on track to exceed the dot-com bubble high relative to U.S. GDP. He added that such surges have historically often coincided with market peaks, pointing to the risk of excessive investor optimism. AlphaGen read: the ECB is treating issuance volume itself, not just valuations, as a stability signal.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T22:38:36Z"
-  },
-  {
-   "id": "2026-11-16-vujcic-fsr-date",
-   "time": "2026-11-16T22:47:36Z",
-   "tag": "GLOBAL",
-   "headline": "Vujčić: ECB publishes its Financial Stability Review two days after Nov. 16 speech",
-   "take": "Vujčić said the ECB publishes its latest Financial Stability Review two days after his Nov. 16 remarks, and that an early-release special feature on AI-related cyber capabilities and concentration of ICT third-party providers was published that day. He named AI and sovereign debt markets as the two risks that stand out most versus a year ago. AlphaGen read: the full review lands this week and should expand on both themes.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T22:38:36Z"
-  },
-  {
-   "id": "2026-11-16-vujcic-underlying-wages",
-   "time": "2026-11-16T22:56:36Z",
-   "tag": "GLOBAL",
-   "headline": "Vujčić: euro-area underlying inflation stable, wages not responding materially yet",
-   "take": "Vujčić said euro-area headline inflation rose to 4% in October from 3.8% in September, mainly on energy, while underlying inflation has remained broadly stable and wages are not showing a material response at this stage. He said weaker confidence and rising borrowing costs should partially contain the energy-driven rise by weighing on growth. AlphaGen read: the ECB is separating an energy shock from broader price-setting.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T22:38:36Z"
   }
  ]
 }
