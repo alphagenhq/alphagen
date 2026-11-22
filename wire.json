@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-22T15:39:00Z",
+ "updated": "2026-11-22T16:39:56Z",
  "items": [
+  {
+   "id": "2026-11-22-pypl-board-lee-q4-call-update",
+   "tag": "EQUITIES",
+   "headline": "PayPal adds Brian J. Lee to board; strategy update set for Q4 earnings call",
+   "take": "PayPal's Nov. 20 release says it appointed Brian J. Lee to its board of directors earlier that day; Lee spent six years as Chief Risk Officer at Goldman Sachs and has more than three decades of financial services experience. The company also said it will update investors on its three-year strategic plans on its fourth-quarter 2026 earnings call. AlphaGen read: the board addition arrives as the Chief Risk Officer, Aaron Webster, is departing, per the same release.",
+   "source_name": "PayPal Holdings Form 8-K, Exhibit 99.1",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/d196713dex991.htm",
+   "time": "2026-11-22T16:40:56Z",
+   "ticker": "NASDAQ:PYPL",
+   "checked": "2026-11-22T16:39:56Z"
+  },
+  {
+   "id": "2026-11-22-ttwo-gta6-32p5m-units-presold",
+   "tag": "EQUITIES",
+   "headline": "Take-Two: Grand Theft Auto VI sold 32.5M units pre-release, company says",
+   "take": "Rockstar Games' Nov. 20 release, furnished by Take-Two in an 8-K, says Grand Theft Auto VI sold 32.5 million units pre-release, which it calls a record across all platforms, and cites a Metacritic score of 99. The $3.79 billion day-one retail sales figure is a company estimate through the end of day Nov. 19, worldwide. AlphaGen read: these are company-reported launch metrics, not audited results; revenue recognition will show up in Take-Two's own quarterly filings.",
+   "source_name": "Take-Two Interactive Form 8-K, Exhibit 99.1",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026075217/0001628280-26-075217.txt",
+   "time": "2026-11-22T16:49:56Z",
+   "ticker": "NASDAQ:TTWO",
+   "checked": "2026-11-22T16:39:56Z"
+  },
+  {
+   "id": "2026-11-22-fred-existing-home-sales-oct-3p75m",
+   "tag": "HOUSING",
+   "headline": "Existing home sales 3.75M in October, down 5.5% from September and 8.8% from a year ago",
+   "take": "FRED's existing home sales series shows 3,750,000 for October 2026, versus 3,970,000 in September, a drop of 220,000 or 5.5%, and 4,110,000 in October 2025, a decline of 8.8%. October is the lowest of the 13 monthly readings from October 2025, a span that ran from 3.75 million to 4.27 million. AlphaGen read: the 30-year mortgage rate was 7.28% on Nov. 19, and the latest sales reading came in at the bottom of its recent range.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Existing Home Sales)",
+   "source_url": "https://fred.stlouisfed.org/series/EXHOSLUSM495S",
+   "time": "2026-11-22T16:59:56Z",
+   "checked": "2026-11-22T16:39:56Z"
+  },
+  {
+   "id": "2026-11-22-fred-5y-breakeven-nov20-2p18",
+   "tag": "RATES",
+   "headline": "5-year breakeven inflation rate 2.18% on Nov. 20, down 0.12 point in a week",
+   "take": "FRED shows the 5-year breakeven inflation rate at 2.18% on Nov. 20, down 0.04 point from 2.22% on Nov. 19 and 0.12 point below 2.30% on Nov. 13. The 10-year breakeven was 2.15% on Nov. 20. AlphaGen read: the 5-year measure remains 0.03 point above the 10-year, so the market-implied inflation path over the nearer term still sits slightly higher.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "time": "2026-11-22T17:09:56Z",
+   "checked": "2026-11-22T16:39:56Z"
+  },
+  {
+   "id": "2026-11-22-eia-venezuela-crude-imports-july-701k",
+   "tag": "COMMODITIES",
+   "headline": "EIA: U.S. crude imports from Venezuela hit 701,000 b/d in July, most since May 2017",
+   "take": "EIA's Petroleum Supply Monthly shows U.S. crude oil imports from Venezuela averaged 701,000 barrels per day in July 2026, the most since May 2017, before easing to 655,000 b/d in August. That is a fall of 46,000 b/d month over month. AlphaGen read: this is a volume series, so it describes where U.S. refiners sourced barrels, not where prices are headed.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "time": "2026-11-22T17:19:56Z",
+   "checked": "2026-11-22T16:39:56Z"
+  },
   {
    "id": "2026-11-22-chart-jun30-balance-sheet-assets-9p87b-goodwill-3p06b",
    "tag": "EQUITIES",
@@ -5073,56 +5125,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA US Corporate Index OAS)",
    "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
    "checked": "2026-11-16T16:39:37Z"
-  },
-  {
-   "id": "2026-11-16-fred-hy-spread-320-range",
-   "time": "2026-11-16T16:54:37Z",
-   "tag": "CREDIT",
-   "headline": "High-yield spread 3.20 points on Nov. 12, 0.28 below its Nov. 5 peak for 2026",
-   "take": "The ICE BofA US High Yield Index option-adjusted spread was 3.20 percentage points on Nov. 12, per FRED. The 2026 range in the series runs from 2.60 on Aug. 28 to 3.48 on Nov. 5, and the spread was 3.02 on Nov. 12, 2025. The Nov. 12 reading is 0.28 point below the Nov. 5 high, 0.60 above the August low and 0.18 above a year earlier.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE BofA US High Yield Index OAS)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-   "checked": "2026-11-16T16:39:37Z"
-  },
-  {
-   "id": "2026-11-16-fred-5y5y-forward-breakeven-218",
-   "time": "2026-11-16T17:06:37Z",
-   "tag": "RATES",
-   "headline": "Implied 5y5y forward breakeven inflation 2.18% on Nov. 13 vs 2.22% on Nov. 5",
-   "take": "AlphaGen computed the implied 5-year, 5-year-forward breakeven from FRED's 5-year (2.30%) and 10-year (2.24%) breakeven rates on Nov. 13, using (10 x 10-year - 5 x 5-year) / 5, which gives 2.18%. The same calculation gives 2.22% on Nov. 5 (2.26% and 2.24%) and 2.19% on Nov. 13, 2025 (2.37% and 2.28%). The implied forward rate was 0.04 point lower than on Nov. 5 and 0.01 point lower than a year earlier.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE, T10YIE)",
-   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-   "checked": "2026-11-16T16:39:37Z"
-  },
-  {
-   "id": "2026-11-16-census-new-home-months-supply-84",
-   "time": "2026-11-16T17:18:37Z",
-   "tag": "HOUSING",
-   "headline": "New-home months' supply 8.4 in September, lowest since December 2025",
-   "take": "The monthly supply of new houses for sale was 8.4 months in September, per Census Bureau data on FRED, down from 8.5 in August and up from 8.2 in September 2025. The 2026 high was 9.9 months in January, and the last reading at or below 8.4 was 7.9 in December 2025.",
-   "source_name": "U.S. Census Bureau via FRED (Monthly Supply of New Houses)",
-   "source_url": "https://fred.stlouisfed.org/series/MSACSR",
-   "checked": "2026-11-16T16:39:37Z"
-  },
-  {
-   "id": "2026-11-16-q3-gdp-vs-final-sales-gap",
-   "time": "2026-11-16T15:50:00Z",
-   "tag": "MACRO",
-   "headline": "Q3 real GDP 3.4% vs 4.9% for private final sales; gap 1.5 points, from 2.4 in Q2",
-   "take": "BEA's advance estimate shows real GDP up 3.4% at an annual rate in Q3 and real final sales to private domestic purchasers up 4.9%, versus 2.2% and 4.6% in Q2. The gap between the two measures is 1.5 points, down from 2.4 in Q2 (AlphaGen calculation). BEA says the Q3 acceleration in GDP reflected investment and government spending, partly offset by a downturn in exports, with imports increasing.",
-   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-16T15:44:46Z"
-  },
-  {
-   "id": "2026-11-16-sept-pharma-trade",
-   "time": "2026-11-16T16:00:00Z",
-   "tag": "MACRO",
-   "headline": "September pharma trade: imports of preparations +$2.9B, exports +$0.7B",
-   "take": "The BEA-Census September trade release lists pharmaceutical preparations imports up $2.9 billion within a $2.4 billion rise in consumer goods imports, while pharmaceutical exports rose $0.7 billion within a $0.8 billion rise in consumer goods exports. The $2.2 billion difference between the two pharma moves is an AlphaGen calculation. The release does not break out the pharmaceutical level in its text.",
-   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-16T15:44:46Z"
   }
  ]
 }
