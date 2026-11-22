@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22T19:44:23Z",
+ "updated": "2026-11-22T20:58:00Z",
  "items": [
+  {
+   "id": "2026-11-22-fred-gasoline-eight-weekly-declines-sep21-4p478-nov16-3p805",
+   "time": "2026-11-22T20:45:00Z",
+   "tag": "ENERGY",
+   "headline": "Retail gasoline fell eight straight weeks to $3.805/gal from Sept. 21 peak of $4.478",
+   "take": "FRED's weekly U.S. regular all-formulations retail gasoline price was $4.478 per gallon for the week of Sept. 21, 2026 and has fallen in each weekly observation since, to $3.805 for the week of Nov. 16. That is a decline of $0.673, or 15.0%, by AlphaGen's calculation. AlphaGen read: the weekly pump-price series has retraced a large part of the September run-up.",
+   "source_name": "FRED (EIA series GASREGW)",
+   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
+   "checked": "2026-11-22T20:58:00Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-gasoline-12mo-37p4-vs-pump-price-24p3",
+   "time": "2026-11-22T20:56:00Z",
+   "tag": "ENERGY",
+   "headline": "BLS: gasoline CPI up 37.4% over 12 months ended October, even after Oct. +1.0% monthly",
+   "take": "BLS's October CPI table lists the gasoline (all types) index at +37.4% unadjusted over the 12 months ended October 2026, alongside seasonally adjusted monthly changes of +9.1% in September and +1.0% in October. AlphaGen read: the 12-month CPI gasoline change is far larger than the 24.3% year-on-year gap in FRED's weekly regular gasoline price for Nov. 16, because the two measures cover different dates and are built differently.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T20:58:00Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-apparel-0p1-after-0p3-compounded-apr-oct-0p8",
+   "time": "2026-11-22T21:07:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: apparel CPI rose 0.1% in October after 0.3% in September",
+   "take": "BLS's October CPI table shows the apparel index up 0.1% in October, after +0.3% in September and unchanged in August, with a 0.6% rise in April and a 0.6% decline in June. Compounding the seven monthly changes from April through October gives about 0.8%, by AlphaGen's calculation from rounded figures. AlphaGen read: apparel has been a small contributor to core goods prices this year.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T20:58:00Z"
+  },
+  {
+   "id": "2026-11-22-cpi-oct-core-services-vs-core-goods-apr-oct-2p0-vs-0p6",
+   "time": "2026-11-22T21:18:00Z",
+   "tag": "MACRO",
+   "headline": "BLS: services less energy services outpaced core goods CPI from April to October",
+   "take": "BLS's October CPI table shows services less energy services up 0.3% in October after 0.4% in September, and commodities less food and energy commodities up 0.2% after 0.3%. Compounding the seven monthly changes from April through October gives about 2.0% for services less energy services and 0.6% for core goods, by AlphaGen's calculation from rounded figures. AlphaGen read: the core services index has run roughly three times as fast as core goods over the period.",
+   "source_name": "BLS, Consumer Price Index news release (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-22T20:58:00Z"
+  },
+  {
+   "id": "2026-11-22-fred-retail-sales-oct-748p2b-3mo-2p5pct",
+   "time": "2026-11-22T21:29:00Z",
+   "tag": "MACRO",
+   "headline": "Retail and food services sales $748.2B in October, up 0.2% from September, FRED shows",
+   "take": "FRED's seasonally adjusted retail and food services sales series (Census) shows $748,220 million for October 2026 versus $746,637 million for September, a gain of 0.21%, and 2.5% above July's $729,915 million, by AlphaGen's calculation. Sales have risen in each month since July's dip. AlphaGen read: the monthly pace slowed to 0.2% from larger gains in August and September.",
+   "source_name": "FRED, Census Advance Retail Sales (RSAFS)",
+   "source_url": "https://fred.stlouisfed.org/series/RSAFS",
+   "checked": "2026-11-22T20:58:00Z"
+  },
   {
    "id": "2026-11-22-trade-sept-services-exports-110p5-imports-79p7",
    "tag": "MACRO",
@@ -5075,56 +5125,6 @@
    "source_name": "Federal Reserve Board",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
    "checked": "2026-11-16T21:38:50Z"
-  },
-  {
-   "id": "2026-11-16-barr-offbalance-3t-obligations",
-   "time": "2026-11-16T21:40:50Z",
-   "tag": "FED",
-   "headline": "Barr: Fed's FSR puts hyperscaler off-balance-sheet obligations above $3 trillion",
-   "take": "In his Nov. 16 Milan speech, Fed Governor Barr said the Financial Stability Report estimates the potential maximum nominal value of hyperscalers' long-term contracts, lease commitments and residual value guarantees now exceeds $3 trillion. He said these have grown even more rapidly than on-balance-sheet debt and that the opacity of such structures can exacerbate selloffs, so they warrant close monitoring. AlphaGen read: the Fed is flagging contingent AI-related commitments, not just reported debt, as the place risk could hide.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-   "checked": "2026-11-16T21:38:50Z"
-  },
-  {
-   "id": "2026-11-16-ecb-vujcic-sovereign-yields-hedge-funds",
-   "time": "2026-11-16T20:42:00Z",
-   "tag": "GLOBAL",
-   "headline": "Vujčić: sovereign debt fragilities rising on both sides of the Atlantic",
-   "take": "In his Nov. 16 Euro Finance Week keynote, ECB Vice-President Boris Vujčić said sovereign debt fragilities have further increased on both sides of the Atlantic and are among the factors driving up long-term yields. He said hedge funds have become a significant but procyclical source of liquidity, and that large Japanese investors may further reduce euro area government bond holdings if Japanese yields rise. AlphaGen read: the ECB is linking bond-market supply and investor-base shifts to financial stability.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T20:38:00Z"
-  },
-  {
-   "id": "2026-11-16-ecb-vujcic-ai-debt-crowd-out",
-   "time": "2026-11-16T20:50:00Z",
-   "tag": "CREDIT",
-   "headline": "Vujčić asks if AI debt issuance could crowd out other borrowers",
-   "take": "Vujčić said the substantial financing needs of the AI investment boom raise questions about competition for capital between public and private borrowers, including whether AI-related debt issuance could put upward pressure on financing costs or crowd out other investment. He also said firms are increasingly relying on opaque off-balance-sheet financing structures and circular financial arrangements. AlphaGen read: the ECB is treating AI funding as a credit-market issue, not only an equity one.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T20:38:00Z"
-  },
-  {
-   "id": "2026-11-16-ecb-vujcic-nonbank-private-credit",
-   "time": "2026-11-16T20:58:00Z",
-   "tag": "CREDIT",
-   "headline": "Vujčić: private credit's rapid growth warrants close monitoring",
-   "take": "Vujčić said private credit can diversify financing sources for firms and that risks currently appear contained, but its rapid growth warrants close monitoring given limited transparency, growing interconnectedness with banks and insurers, and potential liquidity mismatches. He said tools to address systemic risks in the non-bank sector remain limited compared with banking. AlphaGen read: the ECB is pressing for a system-wide framework for non-bank finance.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T20:38:00Z"
-  },
-  {
-   "id": "2026-11-16-ecb-vujcic-bank-buffers-not-binding",
-   "time": "2026-11-16T21:06:00Z",
-   "tag": "GLOBAL",
-   "headline": "Vujčić: euro-area bank capital buffers not a binding lending constraint",
-   "take": "Vujčić said euro-area banks have maintained strong capital and liquidity positions, supported by solid profitability and retained earnings, and that current regulatory capital buffers do not appear to be a binding constraint on lending. He said they should be preserved as insurance against future shocks. He added that the Financial Stability Review is due two days after the speech. AlphaGen read: the ECB is signaling no appetite to loosen buffers.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "checked": "2026-11-16T20:38:00Z"
   }
  ]
 }
