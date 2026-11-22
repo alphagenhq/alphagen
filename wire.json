@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T14:39:16Z",
+ "updated": "2026-11-22T15:39:00Z",
  "items": [
+  {
+   "id": "2026-11-22-chart-jun30-balance-sheet-assets-9p87b-goodwill-3p06b",
+   "tag": "EQUITIES",
+   "headline": "Chart Industries June 30 total assets $9,868.4M; goodwill $3,061.0M, intangibles $2,411.4M",
+   "take": "The Chart statements in Baker Hughes' latest 8-K show total assets of $9,868.4 million at June 30, 2026 versus $9,806.4 million at December 31, 2025, an increase of $62.0 million. Goodwill was $3,061.0 million (from $3,067.6 million) and identifiable intangible assets, net, were $2,411.4 million (from $2,511.7 million), so goodwill and intangibles together made up $5,472.4 million of the total. AlphaGen read: these are pre-closing Chart balances under Chart's own accounting policies, not Baker Hughes' combined figures.",
+   "source_name": "Baker Hughes Form 8-K (Chart Industries unaudited financial statements)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/0001701605-26-000038.txt",
+   "time": "2026-11-22T15:44:00Z",
+   "ticker": "NYSE:BKR",
+   "checked": "2026-11-22T15:39:00Z"
+  },
+  {
+   "id": "2026-11-22-chart-jun30-long-term-debt-3p86b-cash-309m",
+   "tag": "CREDIT",
+   "headline": "Chart Industries long-term debt rose to $3,859.1M at June 30 as cash fell to $309.1M",
+   "take": "Chart's unaudited balance sheet in Baker Hughes' 8-K shows long-term debt of $3,859.1 million at June 30, 2026 versus $3,565.0 million at December 31, 2025, up $294.1 million, while cash and cash equivalents were $309.1 million versus $366.0 million. Total liabilities were $6,541.6 million versus $6,430.7 million, and total equity including noncontrolling interests was $3,326.8 million versus $3,375.7 million. AlphaGen read: the half-year balance sheet moved toward more debt and less cash before Baker Hughes completed the acquisition on July 16, 2026.",
+   "source_name": "Baker Hughes Form 8-K (Chart Industries unaudited financial statements)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/0001701605-26-000038.txt",
+   "time": "2026-11-22T16:04:00Z",
+   "ticker": "NYSE:BKR",
+   "checked": "2026-11-22T15:39:00Z"
+  },
+  {
+   "id": "2026-11-22-chart-jun30-working-capital-receivables-853m-inventories-621m",
+   "tag": "EQUITIES",
+   "headline": "Chart Industries June 30: receivables $853.6M, inventories $621.0M, unbilled revenue $1,078.0M",
+   "take": "In the Chart statements Baker Hughes filed on Form 8-K, accounts receivable, net, were $853.6 million at June 30, 2026 versus $782.1 million at year-end 2025, inventories, net, were $621.0 million versus $572.3 million, and unbilled contract revenue was $1,078.0 million versus $986.4 million. Accounts payable fell to $1,109.4 million from $1,236.5 million. AlphaGen read: operating assets grew while payables shrank, which is consistent with more cash being tied up in working capital over the half-year.",
+   "source_name": "Baker Hughes Form 8-K (Chart Industries unaudited financial statements)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/0001701605-26-000038.txt",
+   "time": "2026-11-22T16:24:00Z",
+   "ticker": "NYSE:BKR",
+   "checked": "2026-11-22T15:39:00Z"
+  },
   {
    "id": "2026-11-22-fed-h8-assets-26p126t-week-nov11",
    "time": "2026-11-22T14:52:00Z",
@@ -5087,36 +5120,6 @@
    "tag": "MACRO",
    "headline": "September pharma trade: imports of preparations +$2.9B, exports +$0.7B",
    "take": "The BEA-Census September trade release lists pharmaceutical preparations imports up $2.9 billion within a $2.4 billion rise in consumer goods imports, while pharmaceutical exports rose $0.7 billion within a $0.8 billion rise in consumer goods exports. The $2.2 billion difference between the two pharma moves is an AlphaGen calculation. The release does not break out the pharmaceutical level in its text.",
-   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-16T15:44:46Z"
-  },
-  {
-   "id": "2026-11-16-sept-crude-trade",
-   "time": "2026-11-16T16:10:00Z",
-   "tag": "COMMODITIES",
-   "headline": "September crude oil: exports +$1.2B, imports -$1.3B in the trade report",
-   "take": "Per the September trade release, crude oil exports increased $1.2 billion within a $1.0 billion decrease in industrial supplies and materials exports, and crude oil imports decreased $1.3 billion within a $3.7 billion decline in industrial supplies and materials imports. Together the two crude moves narrowed the goods deficit by $2.5 billion (AlphaGen calculation, before other items). BEA also says Q3 GDP exports fell on a decrease led by petroleum products.",
-   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-16T15:44:46Z"
-  },
-  {
-   "id": "2026-11-16-sept-real-goods-trade-split",
-   "time": "2026-11-16T16:20:00Z",
-   "tag": "MACRO",
-   "headline": "Real goods exports +0.1% vs nominal +2.5% in September; real imports +1.4% vs +2.4%",
-   "take": "Census-basis real goods exports rose $0.2 billion, or 0.1%, to $152.2 billion in September, against a 2.5% rise in nominal exports; real goods imports rose $3.6 billion, or 1.4%, to $271.6 billion, against a 2.4% nominal rise. That is why the real goods deficit grew 3.0% while the nominal deficit rose 2.2%. The gaps between real and nominal growth, 2.4 points for exports and 1.0 for imports, are AlphaGen calculations.",
-   "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-16T15:44:46Z"
-  },
-  {
-   "id": "2026-11-16-sept-deficit-components",
-   "time": "2026-11-16T16:30:00Z",
-   "tag": "MACRO",
-   "headline": "September goods deficit $135.9B less $30.9B services surplus gives $105.0B total",
-   "take": "BEA and Census report a September goods deficit of $135.9 billion, down $0.7 billion, and a services surplus of $30.9 billion, down less than $0.1 billion, for a total goods and services deficit of $105.0 billion. Exports were $321.5 billion and imports $426.6 billion. The goods deficit is 4.4 times the services surplus (AlphaGen calculation).",
    "source_name": "BEA and Census, U.S. International Trade in Goods and Services, September 2026",
    "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
    "checked": "2026-11-16T15:44:46Z"
