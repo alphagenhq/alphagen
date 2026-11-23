@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T15:38:40Z",
+ "updated": "2026-11-23T16:39:12Z",
  "items": [
+  {
+   "id": "2026-11-23-fred-hy-oas-nov20-376-up-24bp-in-day",
+   "time": "2026-11-23T16:40:12Z",
+   "tag": "CREDIT",
+   "headline": "High-yield spread jumps 24 bp in a day to 3.76% on Nov. 20, highest since May 2025",
+   "take": "The ICE BofA US High Yield Index option-adjusted spread was 3.76% on Nov. 20, up from 3.52% on Nov. 19 and 3.23% on Nov. 13, a 53 bp widening in five sessions (FRED). The last reading at or above 3.76% was 3.78% on May 1, 2025. The 24 bp one-day move was the largest in the Nov. 13-20 run, which had been widening 4 to 11 bp a day.",
+   "source_name": "ICE BofA US High Yield Index OAS, FRED",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-23T16:39:12Z"
+  },
+  {
+   "id": "2026-11-23-fred-ccc-oas-nov20-1402-bb-229",
+   "time": "2026-11-23T16:56:12Z",
+   "tag": "CREDIT",
+   "headline": "CCC spread reaches 14.02% on Nov. 20, highest in FRED's three-year window; BB at 2.29%",
+   "take": "The ICE BofA CCC & Lower US High Yield spread rose to 14.02% on Nov. 20 from 13.61% on Nov. 19 and 13.16% on Nov. 13, the highest in the series' history on FRED, which starts Nov. 24, 2023. The BB spread went to 2.29% from 2.10% a day earlier and 1.86% on Nov. 13. The BB widening of 43 bp since Nov. 13 is about half the CCC's 86 bp, so stress is broadening but remains concentrated in the weakest credits.",
+   "source_name": "ICE BofA CCC & Lower US High Yield Index OAS, FRED",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A3HYC",
+   "checked": "2026-11-23T16:39:12Z"
+  },
+  {
+   "id": "2026-11-23-fred-ig-oas-nov20-098-bbb-122",
+   "time": "2026-11-23T17:12:12Z",
+   "tag": "CREDIT",
+   "headline": "Investment-grade spread 0.98% on Nov. 20, up 9 bp in a week; BBB at 1.22%",
+   "take": "The ICE BofA US Corporate Index option-adjusted spread was 0.98% on Nov. 20, up from 0.94% on Nov. 19 and 0.89% on Nov. 13 (FRED). The BBB spread was 1.22%, up from 1.17% and 1.11%. The last time the IG spread was at or above 0.98% was 1.02% on May 9, 2025, so the move is still modest next to the high-yield widening.",
+   "source_name": "ICE BofA US Corporate Index OAS, FRED",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+   "checked": "2026-11-23T16:39:12Z"
+  },
+  {
+   "id": "2026-11-23-fred-hy-ig-gap-nov20-278-vs-nov13-234",
+   "time": "2026-11-23T17:28:12Z",
+   "tag": "CREDIT",
+   "headline": "High-yield premium over investment grade widens to 2.78 points from 2.34",
+   "take": "Subtracting the investment-grade spread (0.98%) from the high-yield spread (3.76%) on Nov. 20 gives a 2.78 percentage-point gap, against 2.34 points on Nov. 13 (3.23% less 0.89%), based on FRED's ICE BofA series. The gap, which shows how much extra compensation investors demand for lower-rated credit, grew by 44 bp in five sessions, with the high-yield leg accounting for 53 bp of widening and the IG leg 9 bp.",
+   "source_name": "ICE BofA US High Yield and US Corporate Index OAS, FRED",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-23T16:39:12Z"
+  },
   {
    "id": "2026-11-23-boe-dygist-scenario-three-weeks-may-2026-cat-cyber-market-stress",
    "time": "2026-11-23T16:24:40Z",
@@ -5082,50 +5122,6 @@
    "source_name": "Federal Reserve Board, Governor Waller speech",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
    "checked": "2026-11-17T15:38:45Z"
-  },
-  {
-   "id": "2026-11-17-fang-double-eagle-assets-4x",
-   "time": "2026-11-17T14:40:31Z",
-   "tag": "DEALS",
-   "headline": "Diamondback: Double Eagle assets cover 176,000 net acres, valued at about 4.0x 2027 EBITDA",
-   "take": "Diamondback's Nov. 16 release says the Double Eagle assets include approximately 176,000 net acres in the core of the Midland Basin, estimated 2027 oil production of approximately 35 MBo/d (92 MBoe/d, 38% oil) and a transaction valued at approximately 4.0x estimated 2027 EBITDA. About 68% of the asset is undeveloped, with over 1,200 gross (495 net) horizontal locations in primary development targets. AlphaGen read: the company's own multiple and the inventory count are the two numbers that frame what it is paying for.",
-   "source_name": "Diamondback Energy (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
-   "ticker": "NASDAQ:FANG",
-   "checked": "2026-11-17T14:38:31Z"
-  },
-  {
-   "id": "2026-11-17-fang-spanish-trail-barnett",
-   "time": "2026-11-17T14:48:31Z",
-   "tag": "ENERGY",
-   "headline": "Diamondback: four-well Barnett project in Midland County peaked near 7.5 MBo/d",
-   "take": "Diamondback said its first full-section Barnett development, at Spanish Trail in Midland County, consists of four 10,000-foot lateral wells that at a recent peak produced approximately 7.5 MBo/d and 37 MMcf/d. The company says this exceeded internal expectations for full-field development and is in line with delineation wells in the area, and it plans full-field Barnett development in 2027. AlphaGen read: these are early, company-reported results from a single project, so they speak to the play's potential rather than to a settled production base.",
-   "source_name": "Diamondback Energy (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
-   "ticker": "NASDAQ:FANG",
-   "checked": "2026-11-17T14:38:31Z"
-  },
-  {
-   "id": "2026-11-17-fang-double-eagle-funding-leverage",
-   "time": "2026-11-17T14:56:31Z",
-   "tag": "CREDIT",
-   "headline": "Diamondback to fund $2.15B cash piece from cash, credit facility and/or term loans",
-   "take": "Diamondback expects the $2.15 billion cash portion of the Double Eagle acquisition to be funded through a combination of cash on hand, borrowings under its credit facility and/or proceeds from term loans. The release calls the transaction expected to be leverage neutral and says Diamondback does not need to add a rig or materially alter its development plan. Closing is expected Dec. 21, 2026. AlphaGen read: the funding mix leaves open how much of the cash is borrowed, which is the number to look for in later filings.",
-   "source_name": "Diamondback Energy (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
-   "ticker": "NASDAQ:FANG",
-   "checked": "2026-11-17T14:38:31Z"
-  },
-  {
-   "id": "2026-11-17-aon-sicard-usi-middle-market",
-   "time": "2026-11-17T15:05:31Z",
-   "tag": "EQUITIES",
-   "headline": "Aon names Mike Sicard President and global CEO of middle market after USI close",
-   "take": "Aon said that effective immediately USI will go to market as \"USI, an Aon company\" under Mike Sicard, who now serves as President of Aon and global CEO of the middle market across Aon, NFP and USI. The release describes USI as the tenth largest U.S. insurance broker, with approximately $3 billion in annual revenue and more than 10,500 team members across nearly 200 U.S. offices. AlphaGen read: Aon is organizing its middle-market business under a single leader that spans NFP and USI.",
-   "source_name": "Aon plc (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
-   "ticker": "NYSE:AON",
-   "checked": "2026-11-17T14:38:31Z"
   }
  ]
 }
