@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T16:39:12Z",
+ "updated": "2026-11-23T17:44:47Z",
  "items": [
+  {
+   "id": "2026-11-23-treasury-notes-auction-dates-settle-nov30",
+   "time": "2026-11-23T17:46:47Z",
+   "tag": "DEBT",
+   "headline": "Treasury lists 2-year Nov. 23, 5-year Nov. 24, 7-year Nov. 25 note auctions, all settling Nov. 30",
+   "take": "Treasury's tentative auction schedule lists the 2-year note auction for Monday, Nov. 23, the 5-year for Tuesday, Nov. 24 and the 7-year for Wednesday, Nov. 25, all announced Nov. 19 and settling Monday, Nov. 30. The notes mature Nov. 30, 2028, Nov. 30, 2031 and Nov. 30, 2033. AlphaGen read: all three auctions fall within the Thanksgiving week and settle together on the first business day after it.",
+   "source_name": "U.S. Treasury, Tentative Auction Schedule",
+   "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "checked": "2026-11-23T17:44:47Z"
+  },
+  {
+   "id": "2026-11-23-treasury-nov24-52wk-6wk-frn-reopening",
+   "time": "2026-11-23T17:58:47Z",
+   "tag": "DEBT",
+   "headline": "Treasury Nov. 24 auctions: 52-week and 6-week bills plus a 2-year FRN reopening",
+   "take": "The tentative schedule lists three Treasury auctions for Tuesday, Nov. 24 alongside the 5-year note: a 52-week bill maturing Nov. 26, 2027, a 6-week bill maturing Jan. 7, 2027, and a reopening of the 2-year floating rate note maturing Oct. 31, 2028. All three were announced Nov. 19 and settle Friday, Nov. 27. AlphaGen read: the schedule has no offering-amount column, so sizes must come from each auction's announcement.",
+   "source_name": "U.S. Treasury, Tentative Auction Schedule",
+   "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "checked": "2026-11-23T17:44:47Z"
+  },
+  {
+   "id": "2026-11-23-treasury-bills-nov25-nov30-schedule",
+   "time": "2026-11-23T18:10:47Z",
+   "tag": "DEBT",
+   "headline": "Treasury bill calendar: 4-, 8-, 17-week auctions Nov. 25; 13- and 26-week on Nov. 30",
+   "take": "Treasury's tentative schedule lists 4-week, 8-week and 17-week bill auctions for Wednesday, Nov. 25, announced Nov. 24 and settling Tuesday, Dec. 1, with maturities of Dec. 29, 2026, Jan. 26, 2027 and Mar. 30, 2027. It lists 13-week and 26-week bill auctions for Monday, Nov. 30, announced Nov. 25 and settling Thursday, Dec. 3. AlphaGen read: the schedule is marked tentative, so the dates can change.",
+   "source_name": "U.S. Treasury, Tentative Auction Schedule",
+   "source_url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "checked": "2026-11-23T17:44:47Z"
+  },
+  {
+   "id": "2026-11-23-fed-calendar-no-speeches-nov23-30",
+   "time": "2026-11-23T18:22:47Z",
+   "tag": "FED",
+   "headline": "Fed calendar lists no Board speeches Nov. 23-30; Beige Book and data releases only",
+   "take": "The Federal Reserve Board's November calendar shows speeches running through Nov. 20 and lists no speeches or testimony for Nov. 23 through Nov. 30. Entries in that span are statistical releases, such as H.6 Money Stock on Tuesday, Nov. 24 at 1:00 p.m., plus the Beige Book on Nov. 25 at 2:00 p.m. AlphaGen read: the calendar can be updated, so check it for added events.",
+   "source_name": "Federal Reserve Board, Calendar: November 2026",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "checked": "2026-11-23T17:44:47Z"
+  },
   {
    "id": "2026-11-23-fred-hy-oas-nov20-376-up-24bp-in-day",
    "time": "2026-11-23T16:40:12Z",
@@ -5081,46 +5121,6 @@
    "take": "Census's advance report released Nov. 17 puts October retail and food services sales at $748.2 billion, up 0.2 percent (±0.4 percent) from the previous month and up 6.8 percent (±0.5 percent) from October 2025. The August-to-September change was unrevised at up 0.8 percent. AlphaGen read: the monthly gain is smaller than September's, and its margin of error is large relative to the change.",
    "source_name": "Census Bureau, Advance Monthly Retail Trade",
    "source_url": "https://www.census.gov/retail/sales.html",
-   "checked": "2026-11-17T15:38:45Z"
-  },
-  {
-   "id": "2026-11-17-census-aug-oct-retail-6p4",
-   "time": "2026-11-17T15:50:45Z",
-   "tag": "MACRO",
-   "headline": "Retail sales for August-October up 6.4% from a year earlier, Census says",
-   "take": "Census reports that total retail and food services sales for the August through October 2026 period were up 6.4 percent (±0.5 percent) from the same period a year earlier. The October advance estimate alone was up 6.8 percent (±0.5 percent) from October 2025. AlphaGen read: the three-month comparison is slightly below the October year-on-year figure.",
-   "source_name": "Census Bureau, Advance Monthly Retail Trade",
-   "source_url": "https://www.census.gov/retail/sales.html",
-   "checked": "2026-11-17T15:38:45Z"
-  },
-  {
-   "id": "2026-11-17-waller-payments-tokenized-markets-trust",
-   "time": "2026-11-17T16:02:45Z",
-   "tag": "FED",
-   "headline": "Waller: in payments, trust is measured 'in years and even decades'",
-   "take": "In a Nov. 17 speech to The Clearing House Annual Conference in New York on payments and tokenized markets, Governor Waller said \"In payments, trust is measured not in months and quarters, but in years and even decades.\" He added that \"Tokenization is still in the early innings of robust competition among new entrants, established firms, and combinations of each.\" AlphaGen read: the framing stresses reliability over speed of innovation.",
-   "source_name": "Federal Reserve Board, Governor Waller speech",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
-   "checked": "2026-11-17T15:38:45Z"
-  },
-  {
-   "id": "2026-11-17-waller-several-solutions-fed-infrastructure",
-   "time": "2026-11-17T16:14:45Z",
-   "tag": "FED",
-   "headline": "Waller sees several tokenization solutions; Fed to provide core settlement infrastructure",
-   "take": "Governor Waller said in his Nov. 17 speech: \"I find it more likely that several different solutions will emerge to support different customers and use cases.\" He also said \"The Federal Reserve can support these solutions by providing core payment and settlement infrastructure upon which the private sector can innovate.\" AlphaGen read: the speech positions the Fed as infrastructure provider rather than product designer.",
-   "source_name": "Federal Reserve Board, Governor Waller speech",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
-   "checked": "2026-11-17T15:38:45Z"
-  },
-  {
-   "id": "2026-11-17-waller-binance-programmable-blockchains",
-   "time": "2026-11-17T16:26:45Z",
-   "tag": "CRYPTO",
-   "headline": "Waller cites Binance events as showing issues programmable blockchains can raise",
-   "take": "Governor Waller said in his Nov. 17 payments speech that \"The recent events around Binance have highlighted some of the issues that can arise from programmable blockchains,\" and that \"systemically important financial transactions may call for the most conservative designs.\" He also said new tokenized services \"will need more than just technical prowess.\" AlphaGen read: the remarks tie crypto-market incidents to design standards for systemically important payments.",
-   "source_name": "Federal Reserve Board, Governor Waller speech",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
    "checked": "2026-11-17T15:38:45Z"
   }
  ]

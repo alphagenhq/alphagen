@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-23T12:40:23Z",
+ "updated": "2026-11-23T17:45:04Z",
  "items": [
+  {
+   "id": "2026-11-23-thanksgiving-week-calendar",
+   "time": "2026-11-23T17:45:04Z",
+   "tag": "MACRO",
+   "title": "Thanksgiving week: GDP, PCE, the Beige Book and three note auctions in three days",
+   "dek": "Official calendars show Q3 GDP's second estimate, October PCE and the Beige Book on Nov. 25, with 2-, 5- and 7-year note auctions across Nov. 23-25.",
+   "key_points": [
+    "BEA lists the Q3 GDP second estimate and October personal income and outlays for Nov. 25 at 8:30 a.m. ET; the advance estimate was 3.4% annualized.",
+    "The Fed's G.17 industrial production annual revision is listed for Nov. 24 at 12:00 p.m. ET.",
+    "Treasury's tentative schedule lists 2-, 5- and 7-year note auctions on Nov. 23, 24 and 25, all settling Nov. 30.",
+    "The Fed calendar lists the Beige Book for Nov. 25 at 2:00 p.m. and no Board speeches for Nov. 23-30.",
+    "Fed H.4.1 and H.8 move to Friday, Nov. 27 because of Thanksgiving."
+   ],
+   "body": [
+    "The Thanksgiving week compresses a month of scheduled releases into three days. This note lays out what the official calendars list, without forecasting what the numbers will show.",
+    {
+     "h": "Wednesday is the busiest day"
+    },
+    "BEA's release schedule lists the second estimate of third-quarter GDP, with corporate profits, and the October personal income and outlays report for Wednesday, Nov. 25 at 8:30 a.m. ET. BEA's advance estimate put third-quarter real GDP up at an annual rate of 3.4%, after 2.2% in the second quarter, with current-dollar GDP up 5.6%. Real final sales to private domestic purchasers rose 4.9%, versus 4.6% in the second quarter. The second estimate will supersede the advance figure, and the personal income and outlays report brings the October PCE price data that the Fed watches closely. The Federal Reserve Board's calendar lists the Beige Book at 2:00 p.m. the same day.",
+    {
+     "h": "Industrial production gets revised Tuesday"
+    },
+    "The Federal Reserve's release schedule lists the Industrial Production (G.17) annual revision for Tuesday, Nov. 24 at 12:00 p.m. ET. The last published October reading was an index of 103.395, per FRED. Annual revisions can restate earlier monthly figures, so recent comparisons are worth rechecking afterward.",
+    {
+     "h": "Three note auctions in three days"
+    },
+    "Treasury's tentative auction schedule lists the 2-year note on Monday, Nov. 23, the 5-year on Tuesday, Nov. 24 and the 7-year on Wednesday, Nov. 25. All settle Monday, Nov. 30. Treasury's Nov. 4 refunding statement lists anticipated November sizes of $69 billion, $70 billion and $44 billion, the same as August, and said it anticipates maintaining nominal coupon and FRN auction sizes for the next several quarters. The schedule also lists a 2-year floating rate note reopening and 52-week and 6-week bills on Nov. 24.",
+    {
+     "h": "Holiday-shifted Fed data and a Friday report"
+    },
+    "The Fed's calendar lists Thursday, Nov. 26 as Thanksgiving and says the daily and weekly releases scheduled for that day will come out on Friday, Nov. 27, when it lists H.4.1 at 4:30 p.m. and H.8 at 4:15 p.m. The Census Bureau's calendar lists the Advance Economic Indicators Report for 8:30 a.m. ET that Friday. The Fed calendar also lists no Board speeches for Nov. 23 through Nov. 30, so the week's information flow comes from data, auctions and the Beige Book rather than policymaker remarks.",
+    {
+     "h": "What it means for an everyday investor"
+    },
+    "Short weeks tend to concentrate news into fewer sessions, so a single day can carry growth, inflation and regional anecdotes together. The calendars above are scheduled times, not outcomes, and revisions such as the industrial-production restatement are routine. Reading the official release itself, rather than a headline summary, is the most reliable way to see what changed."
+   ],
+   "sources": [
+    {
+     "name": "BEA, release schedule",
+     "url": "https://www.bea.gov/news/schedule"
+    },
+    {
+     "name": "BEA, GDP advance estimate, 3rd quarter 2026",
+     "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+    },
+    {
+     "name": "Federal Reserve Board, Calendar: November 2026",
+     "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+     "name": "Federal Reserve, G.17 release schedule",
+     "url": "https://www.federalreserve.gov/RELEASES/g17/"
+    },
+    {
+     "name": "U.S. Treasury, Tentative Auction Schedule",
+     "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
+    },
+    {
+     "name": "U.S. Treasury, Quarterly Refunding Statement",
+     "url": "https://home.treasury.gov/news/press-releases/sb0678"
+    },
+    {
+     "name": "Census Bureau, economic indicators calendar",
+     "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    }
+   ],
+   "checked": "2026-11-23T17:45:04Z"
+  },
   {
    "id": "2026-11-23-morning-brief",
    "time": "2026-11-23T12:40:23Z",
