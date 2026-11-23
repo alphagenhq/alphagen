@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T22:44:48Z",
+ "updated": "2026-11-23T23:38:39Z",
  "items": [
+  {
+   "id": "2026-11-23-fred-initial-claims-nov14-203k-vs-191k-oct31",
+   "time": "2026-11-23T23:46:39Z",
+   "tag": "MACRO",
+   "headline": "Initial jobless claims 203,000 for week ended Nov. 14, up from 191,000 on Oct. 31",
+   "take": "FRED, using Department of Labor data, shows initial claims at 203,000 for the week ended Nov. 14, after 202,000 on Nov. 7 and 191,000 on Oct. 31. That is 12,000 above the Oct. 31 reading, and the series has stayed between 191,000 and 203,000 over the last six weekly observations. AlphaGen read: claims remain in a narrow range, with the last two weeks above the prior four.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICSA)",
+   "source_url": "https://fred.stlouisfed.org/series/ICSA",
+   "checked": "2026-11-23T23:38:39Z"
+  },
+  {
+   "id": "2026-11-23-fred-claims-4wk-avg-197p75k-vs-195p25k",
+   "time": "2026-11-23T23:58:39Z",
+   "tag": "MACRO",
+   "headline": "Four-week average of initial claims 197,750, up from 195,250 a month earlier",
+   "take": "Averaging the four FRED ICSA observations ending Nov. 14 (195,000; 191,000; 202,000; 203,000) gives 197,750, versus 195,250 for the four weeks ending Oct. 31 (200,000; 195,000; 195,000; 191,000). The difference is 2,500. AlphaGen read: the drift higher is small, and the average sits within the six-week range of 191,000 to 203,000.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICSA)",
+   "source_url": "https://fred.stlouisfed.org/series/ICSA",
+   "checked": "2026-11-23T23:38:39Z"
+  },
+  {
+   "id": "2026-11-23-eia-middle-east-chokepoint-oil-flows-3q26-up-19pct",
+   "time": "2026-11-24T00:10:39Z",
+   "tag": "ENERGY",
+   "headline": "EIA: oil shipments through Middle East chokepoints rose 19% in 3Q26",
+   "take": "EIA reports collective oil shipments through key chokepoints around the Middle East increased by 19% in the third quarter of 2026, citing its Global Energy Security Data. The measure sums crude oil and petroleum products through the Strait of Hormuz, Bab el-Mandeb and the Suez Canal/SUMED pipeline, including oil from Middle Eastern and other countries. AlphaGen read: the 19% quarterly gain is a volume measure only and says nothing about prices.",
+   "source_name": "EIA, Today in Energy (Nov. 19, 2026)",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "checked": "2026-11-23T23:38:39Z"
+  },
+  {
+   "id": "2026-11-23-eia-alaska-crude-505k-bd-2027-most-since-2014",
+   "time": "2026-11-24T00:22:39Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA sees Alaska crude output at 505,000 b/d in 2027, most since 2014",
+   "take": "EIA's November Short-Term Energy Outlook projects Alaska crude oil production rising 23,000 b/d (6%) in 2026 and 60,000 b/d (13%) in 2027, to 505,000 b/d, which would be the most since 2014. EIA attributes the growth to two projects on Alaska's North Slope, after decades of decline. AlphaGen read: the forecast marks a reversal of a long decline in Alaskan output.",
+   "source_name": "EIA, Today in Energy (Nov. 12, 2026)",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "checked": "2026-11-23T23:38:39Z"
+  },
   {
    "id": "2026-11-23-bea-mne-2024-parents-value-added-5p7t-share-21p8",
    "time": "2026-11-23T22:47:48Z",
@@ -5069,50 +5109,6 @@
    "source_name": "The Walt Disney Company, Form 8-K Exhibit 99.1 (SEC EDGAR)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm",
    "ticker": "NYSE:DIS",
-   "checked": "2026-11-17T19:38:10Z"
-  },
-  {
-   "id": "2026-11-17-dis-q4-segment-oi-4p97b",
-   "time": "2026-11-17T19:48:10Z",
-   "tag": "EARNINGS",
-   "headline": "Disney Q4 segment operating income $4.97B, up 43%; Sports +53%, Entertainment +92%",
-   "take": "Total segment operating income rose to $4,970 million from $3,480 million. By segment: Entertainment $1,327 million versus $691 million, Sports $1,393 million versus $911 million, and Experiences $2,250 million versus $1,878 million. Disney estimates the extra week added $230 million, $80 million and $180 million to the three segments respectively, so underlying gains were smaller than the headline percentages.",
-   "source_name": "The Walt Disney Company, Form 8-K Exhibit 99.1 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm",
-   "ticker": "NYSE:DIS",
-   "checked": "2026-11-17T19:38:10Z"
-  },
-  {
-   "id": "2026-11-17-dis-fy26-revenue-102b-eps-563",
-   "time": "2026-11-17T19:58:10Z",
-   "tag": "EARNINGS",
-   "headline": "Disney FY2026 revenue $102.3B, up 8%; GAAP EPS $5.63 vs $6.85, adjusted $7.02",
-   "take": "For fiscal 2026 Disney reported revenues of $102,344 million versus $94,425 million, and total segment operating income of $19,728 million versus $17,551 million. Diluted EPS fell 18% to $5.63 from $6.85, while EPS excluding certain items rose 18% to $7.02 from $5.93. AlphaGen read: GAAP and adjusted EPS moved in opposite directions for the year, so the gap between the two measures is the figure to watch.",
-   "source_name": "The Walt Disney Company, Form 8-K Exhibit 99.1 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm",
-   "ticker": "NYSE:DIS",
-   "checked": "2026-11-17T19:38:10Z"
-  },
-  {
-   "id": "2026-11-17-dis-53rd-week-fy27-guidance",
-   "time": "2026-11-17T20:08:10Z",
-   "tag": "EARNINGS",
-   "headline": "Disney: 53rd week added ~$0.17 to FY26 adjusted EPS; expects double-digit FY27 growth",
-   "take": "Disney estimates the 53rd week contributed approximately $0.17 to fiscal 2026 adjusted EPS, and says it continues to expect double-digit growth in adjusted EPS in fiscal 2027, excluding the 53rd week impact. It will lap the extra week in the fourth quarter of fiscal 2027. AlphaGen read: the extra week matters for comparisons, since the company itself cites about 16% adjusted EPS growth for fiscal 2026 excluding it versus 18% reported.",
-   "source_name": "The Walt Disney Company, Form 8-K Exhibit 99.1 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm",
-   "ticker": "NYSE:DIS",
-   "checked": "2026-11-17T19:38:10Z"
-  },
-  {
-   "id": "2026-11-17-ford-lawler-retire-jan-2027",
-   "time": "2026-11-17T20:18:10Z",
-   "tag": "EQUITIES",
-   "headline": "Ford vice chair John Lawler to retire effective Jan. 1, 2027; role will not be replaced",
-   "take": "Ford announced that vice chair John Lawler, who became chief financial officer in 2020 and vice chair in 2024, will retire effective January 1, 2027. His responsibilities move to Awenate Cobbina, Jim Baumbick and Dave Carroll, and Ford said it will not replace the vice chair role. AlphaGen read: the company framed the change as planned, with the duties split among three existing executives.",
-   "source_name": "Ford Motor Company, Form 8-K Exhibit 99 (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000193/ex99.htm",
-   "ticker": "NYSE:F",
    "checked": "2026-11-17T19:38:10Z"
   }
  ]
