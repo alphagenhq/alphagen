@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T17:44:47Z",
+ "updated": "2026-11-23T19:38:32Z",
  "items": [
+  {
+   "id": "2026-11-23-eia-stock-change-and-other-0p4-quads-0p3pct-2025",
+   "time": "2026-11-23T19:41:32Z",
+   "tag": "ENERGY",
+   "headline": "EIA: U.S. energy 'stock change and other' was 0.4 quads in 2025, about 0.3% of supply",
+   "take": "EIA's Nov. 17 note says its surveys put U.S. total primary energy supply and demand at about 128 quadrillion Btu each in 2025, with the stock change and other category at 0.4 quads, or about 0.3% of the total. EIA collects the data from over 60 surveys. AlphaGen read: the gap between reported supply and demand is small relative to the totals.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
+   "checked": "2026-11-23T19:38:32Z"
+  },
+  {
+   "id": "2026-11-23-eia-balancing-items-petroleum-gas-coal-by-fuel",
+   "time": "2026-11-23T19:53:32Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA reconciles supply and demand with separate petroleum, natural gas and coal adjustment series",
+   "take": "EIA says petroleum and biofuels use an adjustments series because survey responses may not precisely reflect actual activity, natural gas uses a balancing item series, and coal uses a losses and unaccounted for series. Biofuels also have a small balancing item for biodiesel supply and demand. AlphaGen read: each fuel is reconciled with its own series rather than one catch-all line.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
+   "checked": "2026-11-23T19:38:32Z"
+  },
+  {
+   "id": "2026-11-23-fred-10y-2y-spread-nov20-029-vs-nov13-027",
+   "time": "2026-11-23T20:05:32Z",
+   "tag": "RATES",
+   "headline": "10-year minus 2-year Treasury spread 0.29 points on Nov. 20, from 0.27 on Nov. 13",
+   "take": "FRED's T10Y2Y series shows the 10-year minus 2-year Treasury constant-maturity spread at 0.29 percentage points on Nov. 20, versus 0.27 on Nov. 13. Daily readings that week ran from 0.27 (Nov. 18) to 0.30 (Nov. 17). AlphaGen read: the curve slope held within a three-hundredths-of-a-point band through the week.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T10Y2Y)",
+   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+   "checked": "2026-11-23T19:38:32Z"
+  },
+  {
+   "id": "2026-11-23-eia-other-category-causes-timing-coverage-losses",
+   "time": "2026-11-23T20:17:32Z",
+   "tag": "ENERGY",
+   "headline": "EIA lists causes of 'other' supply-demand differences, from timing to storage losses",
+   "take": "EIA says the 'other' portion of stock change and other reflects differences in respondent reporting practices, timing between energy activity and reporting periods, measurement and estimation errors, limits in data collection systems and survey coverage, energy lost in transfers or storage, and unreported activities. EIA states these series are not a flaw in the underlying statistics and instead keep published data consistent and transparent. AlphaGen read: EIA also uses them to show the uncertainty around its survey data.",
+   "source_name": "U.S. Energy Information Administration, Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
+   "checked": "2026-11-23T19:38:32Z"
+  },
   {
    "id": "2026-11-23-treasury-notes-auction-dates-settle-nov30",
    "time": "2026-11-23T17:46:47Z",
@@ -5079,49 +5119,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
    "ticker": "NYSE:HD",
    "checked": "2026-11-17T16:39:08Z"
-  },
-  {
-   "id": "2026-11-17-hd-q3-op-margin-126",
-   "time": "2026-11-17T16:55:08Z",
-   "tag": "EARNINGS",
-   "headline": "Home Depot Q3 operating margin 12.6% vs 12.9%; operating income $5.48B",
-   "take": "The Q3 release shows operating income of $5,479 million versus $5,353 million, up 2.4 percent, while operating margin was 12.6 percent versus 12.9 percent. Adjusted operating margin was 13.0 percent versus 13.3 percent. AlphaGen read: operating income rose, but more slowly than the 4.9 percent rise in sales, so the margin narrowed by 0.3 point.",
-   "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
-   "ticker": "NYSE:HD",
-   "checked": "2026-11-17T16:39:08Z"
-  },
-  {
-   "id": "2026-11-17-hd-q3-comps-ticket-transactions",
-   "time": "2026-11-17T17:03:08Z",
-   "tag": "EQUITIES",
-   "headline": "Home Depot Q3: comparable transactions -0.5%, average ticket +3.0%",
-   "take": "Home Depot's Q3 release lists comparable customer transactions of negative 0.5 percent versus negative 1.6 percent a year earlier, and comparable average ticket of 3.0 percent versus 1.8 percent. Total comparable sales were up 2.2 percent. AlphaGen read: the quarter's comparable gain came from a higher average ticket, as the release reports transactions still slightly lower.",
-   "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
-   "ticker": "NYSE:HD",
-   "checked": "2026-11-17T16:39:08Z"
-  },
-  {
-   "id": "2026-11-17-hd-fy26-guidance-updated",
-   "time": "2026-11-17T17:11:08Z",
-   "tag": "EARNINGS",
-   "headline": "Home Depot updates FY2026 guidance: sales growth ~4.5%, comps ~1.4%, EPS ~+1.5%",
-   "take": "Home Depot's release, titled 'Updates Fiscal 2026 Guidance,' now expects total sales growth of approximately 4.5 percent, comparable sales growth of approximately 1.4 percent, an operating margin of approximately 12.4 percent and diluted EPS growth of approximately 1.5 percent from $14.23 in fiscal 2025. Adjusted diluted EPS is expected to grow approximately 2.0 percent from $14.69. AlphaGen read: these are the company's own targets for the full year, stated in the release.",
-   "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
-   "ticker": "NYSE:HD",
-   "checked": "2026-11-17T16:39:08Z"
-  },
-  {
-   "id": "2026-11-17-census-oct-retail-748p2b",
-   "time": "2026-11-17T15:38:45Z",
-   "tag": "MACRO",
-   "headline": "October retail and food services sales $748.2B, up 0.2% from September, up 6.8% on year",
-   "take": "Census's advance report released Nov. 17 puts October retail and food services sales at $748.2 billion, up 0.2 percent (±0.4 percent) from the previous month and up 6.8 percent (±0.5 percent) from October 2025. The August-to-September change was unrevised at up 0.8 percent. AlphaGen read: the monthly gain is smaller than September's, and its margin of error is large relative to the change.",
-   "source_name": "Census Bureau, Advance Monthly Retail Trade",
-   "source_url": "https://www.census.gov/retail/sales.html",
-   "checked": "2026-11-17T15:38:45Z"
   }
  ]
 }
