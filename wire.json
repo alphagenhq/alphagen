@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T03:39:39Z",
+ "updated": "2026-11-23T11:45:36Z",
  "items": [
+  {
+   "id": "2026-11-23-fred-gbpusd-nov13-1p3212-vs-1p3483-nov5",
+   "time": "2026-11-23T11:47:00Z",
+   "tag": "FX",
+   "headline": "GBP/USD at 1.3212 on Nov. 13 is 2.71 cents below its Nov. 5 reading of 1.3483",
+   "take": "FRED's daily Federal Reserve H.10 series shows the dollar buying 1.3212 per pound (USD per GBP) on Nov. 13, versus 1.3483 on Nov. 5 and 1.3459 on Nov. 4. That is the lowest reading in the Nov. 2 to Nov. 13 window of observations. AlphaGen read: the pound's slide over the second week of November ran alongside a 2-year Treasury yield that rose to 4.88% on Nov. 13 from 4.51% on Nov. 6.",
+   "source_name": "Federal Reserve Board H.10 via FRED (DEXUSUK)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
+   "checked": "2026-11-23T11:45:36Z"
+  },
+  {
+   "id": "2026-11-23-fred-yuan-nov13-6p6710-range-6p6680-6p6760",
+   "time": "2026-11-23T11:59:00Z",
+   "tag": "FX",
+   "headline": "Yuan steady: 6.6710 per dollar on Nov. 13 within a 6.6680 to 6.6760 band since Nov. 3",
+   "take": "FRED's H.10 series shows 6.6710 Chinese yuan per U.S. dollar on Nov. 13, after 6.6704 on Nov. 12 and 6.6760 on Nov. 6. Every observation from Nov. 3 to Nov. 13 sits between 6.6680 and 6.6760, a spread of 0.0080. AlphaGen read: the 0.0080 spread over eight observations is narrow, with no breakout in the series.",
+   "source_name": "Federal Reserve Board H.10 via FRED (DEXCHUS)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
+   "checked": "2026-11-23T11:45:36Z"
+  },
+  {
+   "id": "2026-11-23-fred-2y-treasury-nov19-4p76-76bp-above-fed-target-top",
+   "time": "2026-11-23T12:11:00Z",
+   "tag": "RATES",
+   "headline": "2-year Treasury at 4.76% on Nov. 19 is 76 bp above the top of the 3.75%-4.00% fed funds range",
+   "take": "FRED shows the 2-year constant-maturity yield at 4.76% on Nov. 19, versus the 4.00% upper bound of the fed funds target range and a 3.88% effective rate. The 2-year was 4.51% on Nov. 6 and peaked at 4.88% on Nov. 13 in that window. AlphaGen read: the front end of the curve is pricing a policy path well above today's range, consistent with the FOMC minutes' emphasis on elevated inflation.",
+   "source_name": "U.S. Treasury yields and Federal Reserve target range via FRED (DGS2, DFEDTARU, DFF)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS2",
+   "checked": "2026-11-23T11:45:36Z"
+  },
+  {
+   "id": "2026-11-23-fred-10y-3m-spread-nov19-70bp-vs-83bp-nov13",
+   "time": "2026-11-23T12:23:00Z",
+   "tag": "RATES",
+   "headline": "10-year minus 3-month Treasury gap is 70 bp on Nov. 19, down from 83 bp on Nov. 13",
+   "take": "FRED data show the 10-year yield at 5.04% and the 3-month bill at 4.34% on Nov. 19, a 70 bp gap, versus 5.15% and 4.32% (83 bp) on Nov. 13 and 4.86% and 4.19% (67 bp) on Nov. 6. The narrowing came from the 10-year easing 11 bp while the 3-month rose 2 bp. AlphaGen read: the long end gave back part of its early-November rise while bills stayed anchored near 4.3%.",
+   "source_name": "U.S. Treasury yields via FRED (DGS10, DGS3MO)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-23T11:45:36Z"
+  },
   {
    "id": "2026-11-23-feds-note-productivity-news-10y-yield-lepetit-miller",
    "time": "2026-11-23T03:39:00Z",
@@ -5080,49 +5120,6 @@
    "source_name": "Board of Governors of the Federal Reserve System via FRED (DEXUSEU)",
    "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
    "checked": "2026-11-17T03:38:00Z"
-  },
-  {
-   "id": "2026-11-11-fed-walcl-6p759t",
-   "time": "2026-11-17T04:25:00Z",
-   "tag": "FED",
-   "headline": "Fed balance sheet $6.759T on Nov. 11, up $10.7B from the prior week",
-   "take": "FRED shows Federal Reserve total assets (WALCL) at $6,758,867 million on Nov. 11, up $10,722 million from $6,748,145 million on Nov. 4. Weekly levels were $6,747,560 million on Oct. 7 and $6,755,639 million on Oct. 14, so the balance sheet has stayed in a narrow band since early October. AlphaGen read: the six weekly readings since Oct. 7 span $13.2 billion, and this week's $10.7 billion gain is the largest of the five weekly changes.",
-   "source_name": "Board of Governors of the Federal Reserve System via FRED (WALCL)",
-   "source_url": "https://fred.stlouisfed.org/series/WALCL",
-   "checked": "2026-11-17T03:38:00Z"
-  },
-  {
-   "id": "2026-11-16-fang-double-eagle",
-   "time": "2026-11-17T02:40:19Z",
-   "tag": "DEALS",
-   "headline": "Diamondback agrees to buy Double Eagle subsidiaries for 15.56M shares plus $2.15B cash",
-   "take": "Diamondback announced a definitive agreement on Nov. 16 to acquire certain subsidiaries of Double Eagle IV Midco and Double Eagle V Midco for about 15.56 million shares of common stock and $2.15 billion of cash, subject to customary adjustments. The company says the assets cover about 176,000 net acres in the Midland Basin and expects closing on Dec. 21, 2026. AlphaGen read: Diamondback describes it as buying out the 40% of the partnership it did not already own, so this consolidates an existing stake rather than opening a new position.",
-   "source_name": "Diamondback Energy, Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1539838/000110465926128377/tm2629913d1_ex99-1.htm",
-   "ticker": "NASDAQ:FANG",
-   "checked": "2026-11-17T02:46:19Z"
-  },
-  {
-   "id": "2026-11-16-aon-completes-usi",
-   "time": "2026-11-17T02:49:19Z",
-   "tag": "DEALS",
-   "headline": "Aon completes its acquisition of USI for a total purchase price of $17.0B",
-   "take": "Aon plc said on Nov. 16 it completed the acquisition of USI for a total purchase price of $17.0 billion. Aon describes USI as the tenth largest U.S. insurance broker, with about $3 billion in annual revenue and more than 10,500 team members, and cites $395 million of expected net adjusted EBITDA synergies. AlphaGen read: Aon will update its 2027 outlook, including USI, when it reports fourth-quarter earnings in early 2027.",
-   "source_name": "Aon plc (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
-   "ticker": "NYSE:AON",
-   "checked": "2026-11-17T02:46:19Z"
-  },
-  {
-   "id": "2026-11-16-mrna-ares-amendment",
-   "time": "2026-11-17T02:58:19Z",
-   "tag": "CREDIT",
-   "headline": "Moderna cuts term-loan margins 0.75 point and extends maturity to Nov. 24, 2031",
-   "take": "In an 8-K filed Nov. 16, Moderna disclosed Amendment No. 1 to its November 2025 credit agreement with Ares Capital as administrative agent, effective Nov. 9. Margins fall from 5.50% to 4.75% on SOFR-based loans and from 4.50% to 3.75% on base-rate loans, and maturity moves from Nov. 24, 2030 to Nov. 24, 2031. AlphaGen read: the delayed-draw availability periods are also extended to Nov. 24, 2029, which keeps those commitments open longer.",
-   "source_name": "Moderna, Inc. (Form 8-K, Item 1.01)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208.txt",
-   "ticker": "NASDAQ:MRNA",
-   "checked": "2026-11-17T02:46:19Z"
   }
  ]
 }
