@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-23T12:40:23Z",
+ "updated": "2026-11-23T13:40:15Z",
  "items": [
+  {
+   "id": "2026-11-23-boe-dygist-25-insurers-80pct-market-not-pass-fail",
+   "time": "2026-11-23T13:43:15Z",
+   "tag": "CREDIT",
+   "headline": "BoE insurer stress test covered 25 firms, over 80% of UK general insurance market",
+   "take": "The PRA's 2026 Dynamic General Insurance Stress Test used a scenario of severe insurance events over three weeks in May 2026, including natural catastrophes and cyber events, coupled with a financial market stress. The Bank of England says the exercise involved 25 major insurers representing more than 80% of the UK general insurance market, and that it was not a pass-or-fail exercise. AlphaGen read: the regulator frames the results as a test of crisis-response arrangements, not a verdict on capital adequacy.",
+   "source_name": "Bank of England (PRA)",
+   "source_url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+   "checked": "2026-11-23T13:40:15Z"
+  },
+  {
+   "id": "2026-11-23-fred-brent-wti-gap-nov17-3p41-vs-3p12-nov12",
+   "time": "2026-11-23T13:51:15Z",
+   "tag": "COMMODITIES",
+   "headline": "Brent premium to WTI $3.41 on Nov. 17, from $3.12 on Nov. 12",
+   "take": "FRED shows Brent at $92.94 and WTI at $89.53 on Nov. 17, a $3.41 gap by AlphaGen's calculation. On Nov. 12, Brent was $95.42 and WTI $92.30, a $3.12 gap. AlphaGen read: both benchmarks fell between the two dates and Brent fell by less than WTI, so the spread widened by $0.29.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (EIA data)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "checked": "2026-11-23T13:40:15Z"
+  },
+  {
+   "id": "2026-11-23-ecb-dlt-collateral-june-2027-implementation",
+   "time": "2026-11-23T13:59:15Z",
+   "tag": "GLOBAL",
+   "headline": "ECB plans June 2027 start for DLT-asset collateral; platform rules due spring 2027",
+   "take": "The ECB says the Eurosystem expects to communicate dedicated requirements for DLT platforms in spring 2027, with implementation planned to take effect in June 2027. Eligible assets must be made available through a link to a central securities depository operating an eligible securities settlement system that offers settlement in TARGET2-Securities. The decision follows the Jan. 27, 2026 announcement on accepting assets issued in CSDs using DLT-based services. AlphaGen read: the timeline puts any collateral use of these assets well after today's approval.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "checked": "2026-11-23T13:40:15Z"
+  },
+  {
+   "id": "2026-11-23-bea-sept-trade-goods-deficit-135p9b-services-surplus-30p9b",
+   "time": "2026-11-23T14:07:15Z",
+   "tag": "MACRO",
+   "headline": "Sept. trade: goods deficit $135.9B offset by $30.9B services surplus for $105.0B gap",
+   "take": "BEA and Census reported a September goods and services deficit of $105.0 billion, down $0.7 billion from a revised $105.7 billion in August. The goods deficit decreased $0.7 billion to $135.9 billion and the services surplus decreased by less than $0.1 billion to $30.9 billion; exports were $321.5 billion and imports $426.6 billion. AlphaGen read: $135.9 billion less $30.9 billion reconciles to the $105.0 billion headline, so services offset about 23% of the goods gap. The next release is Dec. 8.",
+   "source_name": "U.S. Census Bureau and BEA",
+   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "checked": "2026-11-23T13:40:15Z"
+  },
+  {
+   "id": "2026-11-23-bea-nov25-gdp-second-estimate-and-pce-same-morning",
+   "time": "2026-11-23T14:15:15Z",
+   "tag": "MACRO",
+   "headline": "BEA Nov. 25, 8:30 a.m. ET: Q3 GDP second estimate and October PCE on the same morning",
+   "take": "BEA's schedule lists the Q3 GDP second estimate with corporate profits and the October personal income and outlays report, including PCE, for Wednesday, Nov. 25 at 8:30 a.m. ET. The advance estimate showed real GDP up 3.4% at an annualized rate. AlphaGen read: growth and inflation data from the same agency land together on the day before Thanksgiving.",
+   "source_name": "U.S. Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/schedule/full",
+   "checked": "2026-11-23T13:40:15Z"
+  },
   {
    "id": "2026-11-23-crwd-to-acquire-zscaler-43p9b-all-stock",
    "time": "2026-11-23T12:43:23Z",
@@ -5068,60 +5118,6 @@
    "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
    "time": "2026-11-17T13:29:03Z",
    "checked": "2026-11-17T12:43:03Z"
-  },
-  {
-   "tag": "EQUITIES",
-   "id": "2026-11-17-invh-buybacks-1b",
-   "headline": "Invitation Homes has repurchased $1.0B of stock since Dec. 2025 at $26.78 average",
-   "take": "In an investor presentation furnished Nov. 16, Invitation Homes said it has repurchased $1.0 billion of stock since December 2025 at a $26.78 average per share, about 6% of shares outstanding, with figures as of Nov. 1, 2026. Its repurchase authorization totals $1.5 billion, with $500 million remaining. AlphaGen read: the company is funding buybacks with home sales, so its disposition pace sets how much repurchase capacity it has.",
-   "source_name": "Invitation Homes Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/0001687229-26-000059.txt",
-   "ticker": "NYSE:INVH",
-   "time": "2026-11-17T11:41:01Z",
-   "checked": "2026-11-17T11:39:01Z"
-  },
-  {
-   "tag": "EQUITIES",
-   "id": "2026-11-17-invh-dispositions-950m",
-   "headline": "Invitation Homes lifts 2026 disposition guidance midpoint to $950M, up $100M",
-   "take": "Invitation Homes' Nov. 16 presentation shows a fiscal 2026 disposition guidance midpoint of $950 million, up $100 million at third-quarter reporting, and year-to-date dispositions of $918 million, up $85 million since the third-quarter year-to-date figure. The average disposition price is about $460,000 per home, and about 65% of sales proceeds came from Southern California, Northern California and South Florida. AlphaGen read: year-to-date sales already equal roughly 97% of the guidance midpoint.",
-   "source_name": "Invitation Homes Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/0001687229-26-000059.txt",
-   "ticker": "NYSE:INVH",
-   "time": "2026-11-17T11:50:01Z",
-   "checked": "2026-11-17T11:39:01Z"
-  },
-  {
-   "tag": "HOUSING",
-   "id": "2026-11-17-invh-oct-leasing-blended-2p2",
-   "headline": "Invitation Homes: October blended rent growth +2.2%, new leases -2.2%",
-   "take": "Invitation Homes' same-store October 2026 leasing statistics show blended rental rate growth of +2.2%, versus +2.1% in October 2025 and +3.0% for the third quarter. Renewal rate growth was +4.2% and new-lease rate growth was -2.2%, compared with -3.2% a year earlier. Same-store average occupancy was 96.1% in both Octobers. AlphaGen read: renewals are carrying the blended figure while new-lease rents remain below prior-tenant levels.",
-   "source_name": "Invitation Homes Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/0001687229-26-000059.txt",
-   "ticker": "NYSE:INVH",
-   "time": "2026-11-17T11:59:01Z",
-   "checked": "2026-11-17T11:39:01Z"
-  },
-  {
-   "tag": "CREDIT",
-   "id": "2026-11-17-invh-balance-sheet-5p5x",
-   "headline": "Invitation Homes: net debt 5.5x EBITDAre, no debt maturing before June 2027",
-   "take": "Invitation Homes reported net debt to trailing-twelve-month adjusted EBITDAre of 5.5x at Sept. 30, 2026, within its 5.5x-6.0x long-term target, with over $1.3 billion of liquidity and no debt maturing before June 2027. Secured debt was 3.9% of gross real estate assets and unencumbered assets 91.5%, with ratings of Baa2 / BBB / BBB+ from Moody's, S&P and Fitch. AlphaGen read: with no maturities for roughly seven months, refinancing is not a near-term constraint on its buyback plan.",
-   "source_name": "Invitation Homes Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000059/0001687229-26-000059.txt",
-   "ticker": "NYSE:INVH",
-   "time": "2026-11-17T12:08:01Z",
-   "checked": "2026-11-17T11:39:01Z"
-  },
-  {
-   "tag": "RATES",
-   "id": "2026-11-17-fred-10y-515-nov13",
-   "headline": "10-year Treasury yield 5.15% on Nov. 13, up 31 bp from 4.84% on Nov. 5",
-   "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.15% on Nov. 13, up 31 basis points from 4.84% on Nov. 5 and 5 bp above the 5.10% of Nov. 12. The 30-year was 5.47% and the 2-year 4.88%. AlphaGen read: the 2-year rose 42 bp over the same stretch, more than the 10-year's 31 bp, so the move has been led by the front of the curve.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/DGS10",
-   "time": "2026-11-17T12:17:01Z",
-   "checked": "2026-11-17T11:39:01Z"
   }
  ]
 }
