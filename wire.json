@@ -1,6 +1,59 @@
 {
- "updated": "2026-11-23T14:39:39Z",
+ "updated": "2026-11-23T15:38:40Z",
  "items": [
+  {
+   "id": "2026-11-23-boe-dygist-scenario-three-weeks-may-2026-cat-cyber-market-stress",
+   "time": "2026-11-23T16:24:40Z",
+   "tag": "CREDIT",
+   "headline": "PRA insurer stress scenario: three weeks of catastrophes, cyber events and market stress",
+   "take": "The PRA's 2026 DyGIST scenario was a sequence of severe yet plausible events over a three-week period in May 2026, including significant natural catastrophes and cyber events, coupled with a financial market stress. It was designed to push most of the 25 participating insurers beyond their internal risk appetite limits, and the responses included capital injections, credit facilities, dividend retention and significant reliance on reinsurance. AlphaGen read: the PRA stresses that the useful finding is whether those actions would be available and timely in a market-wide stress, not just the financial impact.",
+   "source_name": "Bank of England (PRA)",
+   "source_url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+   "checked": "2026-11-23T15:38:40Z"
+  },
+  {
+   "id": "2026-11-23-ecb-dlt-collateral-requirements-settlement-finality-spring-2027",
+   "time": "2026-11-23T16:13:40Z",
+   "tag": "GLOBAL",
+   "headline": "ECB DLT collateral: platforms must meet extra settlement-finality, outsourcing rules",
+   "take": "The ECB said eligible DLT assets must meet all standard collateral criteria and be available through an eligible link to a central securities depository whose settlement system offers settlement in TARGET2-Securities. DLT platforms licensed under the EU DLT Pilot Regime also need to meet dedicated Eurosystem requirements, for example on settlement finality designation and outsourcing of critical functions, to be communicated in spring 2027. AlphaGen read: this builds on the Jan. 27, 2026 decision on assets issued in CSDs using DLT-based services, and keeps the existing collateral safeguards in place.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "checked": "2026-11-23T15:38:40Z"
+  },
+  {
+   "id": "2026-11-23-crwd-zscaler-advisors-qatalyst-bdt-msd-call-moved-to-nov-23",
+   "time": "2026-11-23T16:02:40Z",
+   "tag": "DEALS",
+   "headline": "CrowdStrike-Zscaler: Qatalyst, BDT & MSD lead advisers; call moved up from Dec. 1",
+   "take": "The release names Qatalyst Partners as sole lead financial advisor to CrowdStrike, with J.P. Morgan and BofA Securities also advising, and BDT & MSD Partners as sole lead financial advisor to Zscaler, with Citigroup and Goldman Sachs also named. The companies replaced a joint call previously scheduled for Dec. 1 with one held Nov. 23, and Zscaler separately reported fiscal first-quarter 2027 results the same day. AlphaGen read: the earlier call date lines the deal announcement up with both companies' results.",
+   "source_name": "CrowdStrike Form 8-K Ex. 99.1 (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+   "ticker": "NASDAQ:CRWD",
+   "checked": "2026-11-23T15:38:40Z"
+  },
+  {
+   "id": "2026-11-23-zscaler-50pct-fortune-500-200-locations-750b-transactions",
+   "time": "2026-11-23T15:51:40Z",
+   "tag": "DEALS",
+   "headline": "Release: Zscaler protects 50% of the Fortune 500, handles 750B+ daily transactions",
+   "take": "CrowdStrike's deal release says Zscaler protects 50 percent of the Fortune 500 and operates the world's largest distributed inline security cloud across more than 200 service locations. It adds that Zscaler's Zero Trust Exchange processes more than 750 billion transactions per day, and that after closing device and network telemetry would converge into a single data set. AlphaGen read: these are CrowdStrike's characterizations of the target, and the data-combination plan is contingent on closing.",
+   "source_name": "CrowdStrike Form 8-K Ex. 99.1 (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+   "ticker": "NASDAQ:ZS",
+   "checked": "2026-11-23T15:38:40Z"
+  },
+  {
+   "id": "2026-11-23-crwd-zscaler-tam-185b-cy2029-fortune-500",
+   "time": "2026-11-23T15:40:40Z",
+   "tag": "DEALS",
+   "headline": "CrowdStrike sees Zscaler adding over $185B to its addressable market by 2029",
+   "take": "CrowdStrike estimates the Zscaler acquisition will expand its total addressable market by more than $185 billion in calendar year 2029, and says Zscaler would take it into network security, which it calls cybersecurity's largest single addressable market segment. Zscaler would be sold through CrowdStrike's system integrators, resellers, distributors and cloud marketplaces. AlphaGen read: the TAM figure is CrowdStrike's own estimate in the deal release, not an independent measure.",
+   "source_name": "CrowdStrike Form 8-K Ex. 99.1 (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+   "ticker": "NASDAQ:CRWD",
+   "checked": "2026-11-23T15:38:40Z"
+  },
   {
    "id": "2026-11-23-crwd-zscaler-synergies-1b-revenue-500m-cost",
    "time": "2026-11-23T14:39:39Z",
@@ -5073,57 +5126,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526463733/d181018dex991.htm",
    "ticker": "NYSE:AON",
    "checked": "2026-11-17T14:38:31Z"
-  },
-  {
-   "id": "2026-11-17-kdp-debt-instruments-underwriters",
-   "time": "2026-11-17T15:14:31Z",
-   "tag": "CREDIT",
-   "headline": "KDP's $2.0B stock offering proceeds may retire term loan, commercial paper and notes",
-   "take": "Keurig Dr Pepper said it intends to use net proceeds to repay or repurchase approximately $2.0 billion aggregate principal amount of outstanding debt, which may include borrowings under its delayed draw term loan, commercial paper notes and senior unsecured notes. Goldman Sachs & Co. LLC and Morgan Stanley are joint book-running managers, and the offering is subject to market and other customary conditions. AlphaGen read: the release lists the debt types but not which will be retired, so the prospectus supplement is the filing that would show the split.",
-   "source_name": "Keurig Dr Pepper (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1418135/000119312526463583/d473035dex991.htm",
-   "ticker": "NASDAQ:KDP",
-   "checked": "2026-11-17T14:38:31Z"
-  },
-  {
-   "tag": "HOUSING",
-   "id": "2026-11-17-census-week-ahead-starts-sales-durables",
-   "headline": "Census calendar: housing starts Nov. 18, durable goods and new home sales Nov. 25",
-   "take": "The Census Bureau's 2026 calendar lists New Residential Construction for October on Nov. 18 at 8:30 a.m., the Advance Services Report for the third quarter on Nov. 19 at 10:00 a.m., and Durable Goods for October on Nov. 25 at 8:30 a.m. with New Residential Sales at 10:00 a.m. the same day. The Advance Economic Indicators Report for October follows on Nov. 27 at 8:30 a.m. AlphaGen read: housing data lead the schedule this week, and the Thanksgiving-week releases fall on Nov. 25 and Nov. 27.",
-   "source_name": "U.S. Census Bureau, 2026 Economic Indicator Calendar",
-   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
-   "time": "2026-11-17T14:20:35Z",
-   "checked": "2026-11-17T13:39:35Z"
-  },
-  {
-   "tag": "DEBT",
-   "id": "2026-11-17-tsy-bill-indirect-shares-13-17-26wk",
-   "headline": "Indirect bidders took 60.8% of the 26-week bill, 54.2% of the 13-week, 49.8% of the 17-week",
-   "take": "Treasury auction data show indirect bidders were accepted for $52.68 billion of $86.66 billion in the Oct. 13 26-week bill (60.8%), $54.38 billion of $100.40 billion in the Oct. 13 13-week bill (54.2%) and $39.86 billion of $80.05 billion in the Oct. 14 17-week bill (49.8%). Primary dealers took 21.3%, 30.2% and 34.7% of those auctions respectively (AlphaGen calculation from total accepted). AlphaGen read: the longer 26-week bill drew the largest indirect share and the smallest dealer share of the three.",
-   "source_name": "U.S. Treasury, Fiscal Data auctions",
-   "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-   "time": "2026-11-17T14:11:35Z",
-   "checked": "2026-11-17T13:39:35Z"
-  },
-  {
-   "tag": "MACRO",
-   "id": "2026-11-17-census-sept-retail-baseline",
-   "headline": "Retail sales release for October due 8:30 a.m. today; September was $745.0B, up 0.8%",
-   "take": "Census says the October 2026 advance retail report is scheduled for Nov. 17 at 8:30 a.m. In its prior report, for September, advance retail and food services sales were $745.0 billion, up 0.8% from August and up 6.3% from September 2025. Excluding gasoline stations, sales rose 0.2% on the month, and August's gain was revised to 1.3% from 1.1%. AlphaGen read: the September figures are the baseline against which the October report will be read.",
-   "source_name": "U.S. Census Bureau, Advance Monthly Sales for Retail and Food Services (September 2026 report)",
-   "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
-   "time": "2026-11-17T14:02:35Z",
-   "checked": "2026-11-17T13:39:35Z"
-  },
-  {
-   "tag": "FED",
-   "id": "2026-11-17-fed-speaker-slate-nov17-20",
-   "headline": "Fed calendar: Waller Nov. 17, Barr Nov. 18 and 19, Jefferson Nov. 19, Cook Nov. 20",
-   "take": "The Fed Board calendar lists Governor Waller on payments at The Clearing House conference on Nov. 17 at 9:10 a.m., Governor Barr on community development investments on Nov. 18 at 1:35 p.m., and Vice Chair Jefferson on economic shocks on Nov. 19 at 9:25 a.m. Barr also appears in a discussion on artificial intelligence at the FinRegLab symposium on Nov. 19 at 2:15 p.m., and Governor Cook speaks on the U.S. economy in global context at the Central Bank of Chile conference on Nov. 20 at 12:15 p.m. AlphaGen read: the listed topics span payments, community development, economic shocks and AI.",
-   "source_name": "Federal Reserve Board, Calendar: November 2026",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm",
-   "time": "2026-11-17T13:53:35Z",
-   "checked": "2026-11-17T13:39:35Z"
   }
  ]
 }
