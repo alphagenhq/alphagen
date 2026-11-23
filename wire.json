@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T21:40:05Z",
+ "updated": "2026-11-23T22:44:48Z",
  "items": [
+  {
+   "id": "2026-11-23-bea-mne-2024-parents-value-added-5p7t-share-21p8",
+   "time": "2026-11-23T22:47:48Z",
+   "tag": "MACRO",
+   "headline": "U.S. parents' value added rose 8.5% to $5.7T in 2024, 21.8% of private output",
+   "take": "BEA reports value added by U.S. parents, its measure of their direct contribution to GDP, increased 8.5% to $5.7 trillion in 2024, equal to 21.8% of total U.S. private-industry value added versus 21.2% in 2023. Worldwide value added of U.S. multinationals rose 8.0% to $7.4 trillion, with foreign affiliates up 6.5% to $1.8 trillion. AlphaGen read: parents grew faster than their overseas affiliates, lifting their share of domestic private output.",
+   "source_name": "BEA, Activities of U.S. Multinational Enterprises, 2024",
+   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+   "checked": "2026-11-23T22:44:48Z"
+  },
+  {
+   "id": "2026-11-23-bea-mne-2023-revisions-parents-employment-minus-49k-rd-plus-4p9b",
+   "time": "2026-11-23T23:01:48Z",
+   "tag": "MACRO",
+   "headline": "BEA revised 2023 U.S. parent R&D up $4.9B to $481.5B; next MNE release Aug. 20, 2027",
+   "take": "In the same release, BEA revised 2023 data for U.S. parents: employment to 29,841.8 thousand from 29,890.6 thousand preliminary, and R&D expenditures to $481.5 billion from $476.6 billion. Against that revised base, the 2024 parent R&D figure of $536.5 billion is about 11.4% higher (AlphaGen calculation). BEA lists the next release, covering 2025 activities, for Aug. 20, 2027.",
+   "source_name": "BEA, Activities of U.S. Multinational Enterprises, 2024",
+   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+   "checked": "2026-11-23T22:44:48Z"
+  },
+  {
+   "id": "2026-11-23-fed-warsh-opening-remarks-productivity-jobs-task-force-nov16",
+   "time": "2026-11-23T23:15:48Z",
+   "tag": "FED",
+   "headline": "Fed Chairman Warsh opened Productivity and Jobs Task Force Conference on Nov. 16",
+   "take": "The Federal Reserve Board's 2026 speeches page lists Chairman Kevin Warsh's \"Opening Remarks\" at the Productivity and Jobs Task Force Conference in San Francisco, dated Nov. 16. It sits alongside Vice Chair Jefferson's Nov. 13 UC San Diego talk on productivity puzzles and the macroeconomy. AlphaGen read: productivity was the subject of two Board speeches that week; this item reflects the listing only, not the speech text.",
+   "source_name": "Federal Reserve Board, 2026 Speeches",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-speeches.htm",
+   "checked": "2026-11-23T22:44:48Z"
+  },
+  {
+   "id": "2026-11-23-fed-barr-ai-financial-stability-milan-underserved-communities-ny",
+   "time": "2026-11-23T23:29:48Z",
+   "tag": "FED",
+   "headline": "Fed Governor Barr gave two speeches: AI and financial stability, underserved communities",
+   "take": "The Federal Reserve Board's speeches page lists Governor Michael Barr's \"Some Potential Financial Stability Implications of Artificial Intelligence\" in Milan on Nov. 16 and \"Investing in America's Underserved Communities\" at the Federal Reserve Bank of New York on Nov. 18. AlphaGen read: the Board listed eight speeches from Nov. 13 to Nov. 20 across five speakers; this item reflects the listing only, not the speech text.",
+   "source_name": "Federal Reserve Board, 2026 Speeches",
+   "source_url": "https://www.federalreserve.gov/newsevents/2026-speeches.htm",
+   "checked": "2026-11-23T22:44:48Z"
+  },
   {
    "id": "2026-11-23-ppi-oct-core-final-demand-4p9-12mo-vs-5p0-sep",
    "time": "2026-11-23T21:40:05Z",
@@ -5074,46 +5114,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000193/ex99.htm",
    "ticker": "NYSE:F",
    "checked": "2026-11-17T19:38:10Z"
-  },
-  {
-   "id": "2026-11-17-cftc-24-7-trading-roundtable-dec15",
-   "time": "2026-11-17T20:28:10Z",
-   "tag": "COMMODITIES",
-   "headline": "CFTC sets Dec. 15 roundtable on 24/7 derivatives trading; agenda released",
-   "take": "The CFTC released the agenda for an industry roundtable on whether derivatives markets could move to 24/7 trading, to be held Dec. 15 from 1 to 4 p.m. EST at CFTC headquarters and livestreamed. Topics include overnight and weekend trading, tokenization, margin, infrastructure and staffing needs, and operational readiness. AlphaGen read: this is a listening session, not a rule proposal.",
-   "source_name": "CFTC Press Release 9327-26",
-   "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
-   "checked": "2026-11-17T19:38:10Z"
-  },
-  {
-   "id": "2026-11-17-fred-broad-dollar-nov13",
-   "time": "2026-11-17T19:29:00Z",
-   "tag": "FX",
-   "headline": "Fed's broad dollar index 122.6503 on Nov. 13, up 0.7700 from Nov. 6",
-   "take": "FRED shows the Federal Reserve's nominal broad U.S. dollar index at 122.6503 on Nov. 13, 2026, versus 121.8803 on Nov. 6 and 121.6656 on Oct. 30. AlphaGen read: the index has risen across both weekly comparisons, consistent with the euro and yen moves in the same window.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DTWEXBGS)",
-   "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
-   "checked": "2026-11-17T18:38:49Z"
-  },
-  {
-   "id": "2026-11-17-fred-japan-long-yield-oct",
-   "time": "2026-11-17T19:18:00Z",
-   "tag": "GLOBAL",
-   "headline": "Japan long-term yield 2.755% in October, down 29.5 bp from September",
-   "take": "FRED's OECD-sourced series shows Japan's long-term government bond yield at 2.755% in October 2026, versus 3.050% in September and 1.655% in October 2025. AlphaGen read: despite the monthly drop, the yield is still 110.0 bp above a year earlier.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01JPM156N)",
-   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01JPM156N",
-   "checked": "2026-11-17T18:38:49Z"
-  },
-  {
-   "id": "2026-11-17-fred-germany-long-yield-oct",
-   "time": "2026-11-17T19:06:00Z",
-   "tag": "GLOBAL",
-   "headline": "German long-term yield 3.42% in October, down 5.8 bp, still 79.8 bp above a year ago",
-   "take": "FRED's OECD-sourced series shows Germany's long-term government bond yield at 3.4159% in October 2026, versus 3.4741% in September and 2.6178% in October 2025. AlphaGen read: the monthly dip follows September's rise to 3.47%, leaving the yield about 80 bp higher on the year.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01DEM156N)",
-   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01DEM156N",
-   "checked": "2026-11-17T18:38:49Z"
   }
  ]
 }
