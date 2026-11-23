@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-23T19:38:32Z",
+ "updated": "2026-11-23T20:45:47Z",
  "items": [
+  {
+   "id": "2026-11-23-nar-pending-home-sales-oct-minus-4p7-mom-minus-16p7-yoy",
+   "time": "2026-11-23T20:50:47Z",
+   "tag": "HOUSING",
+   "headline": "NAR: pending home sales fell 4.7% in October and 16.7% from a year earlier",
+   "take": "NAR's Nov. 18 release says pending home sales declined 4.7% month over month and 16.7% year over year in October, with declines in all four regions on both measures. AlphaGen read: contract signings, which lead closings, remain well below last year's pace.",
+   "source_name": "National Association of Realtors, Pending Home Sales (October 2026)",
+   "source_url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-4-7-percent-october-2026",
+   "checked": "2026-11-23T20:45:47Z"
+  },
+  {
+   "id": "2026-11-23-nar-pending-sales-oct-west-minus-6p9-south-minus-6p3-ne-minus-0p8",
+   "time": "2026-11-23T21:02:47Z",
+   "tag": "HOUSING",
+   "headline": "NAR pending sales: West -6.9% and South -6.3% in October, Northeast -0.8%",
+   "take": "Month over month in October, NAR reports pending home sales fell 6.9% in the West, 6.3% in the South, 2.7% in the Midwest and 0.8% in the Northeast. Year over year, the West was down 20.3%, the South 18.7%, the Midwest 14.0% and the Northeast 11.1%. AlphaGen read: the South and West posted the largest drops on both measures.",
+   "source_name": "National Association of Realtors, Pending Home Sales (October 2026)",
+   "source_url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-4-7-percent-october-2026",
+   "checked": "2026-11-23T20:45:47Z"
+  },
+  {
+   "id": "2026-11-23-nar-yun-october-could-be-low-point-fred-mortgage-728",
+   "time": "2026-11-23T21:14:47Z",
+   "tag": "HOUSING",
+   "headline": "NAR's Yun says October could mark low point for contract signings as rates topped out",
+   "take": "NAR chief economist Lawrence Yun said October could mark the low point in contract signings for this housing cycle, as mortgage rates appear to have topped out, and that the weak contract count points to sluggish fourth-quarter closings. FRED's Freddie Mac series shows the 30-year mortgage rate at 7.28% on Nov. 19, up from 7.11% on Nov. 12. AlphaGen read: the latest weekly rate rose, so the low-point case is NAR's view rather than something the rate data yet confirms.",
+   "source_name": "National Association of Realtors and Freddie Mac, via FRED (MORTGAGE30US)",
+   "source_url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-4-7-percent-october-2026",
+   "checked": "2026-11-23T20:45:47Z"
+  },
+  {
+   "id": "2026-11-23-nar-pending-sales-metros-cincinnati-minus-4p7-austin-minus-9p7",
+   "time": "2026-11-23T21:26:47Z",
+   "tag": "HOUSING",
+   "headline": "NAR metros: Cincinnati pending sales -4.7% and Austin -9.7% from a year ago",
+   "take": "In NAR's October release, which cites Realtor.com Economics data for the 50 largest metros, Cincinnati had the smallest year-over-year decline in pending sales at 4.7%, followed by Austin (9.7%), Hartford (10.0%), Indianapolis (11.3%) and Chicago (11.9%). AlphaGen read: even the best-performing large metros were down from a year earlier.",
+   "source_name": "National Association of Realtors, Pending Home Sales (October 2026)",
+   "source_url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-4-7-percent-october-2026",
+   "checked": "2026-11-23T20:45:47Z"
+  },
+  {
+   "id": "2026-11-23-fred-ecb-deposit-rate-250-since-sep-16-after-225-jun-17",
+   "time": "2026-11-23T21:35:47Z",
+   "tag": "GLOBAL",
+   "headline": "ECB deposit facility rate moved to 2.25% on Jun. 17, then 2.50% on Sep. 16",
+   "take": "FRED's ECB deposit facility rate series shows 2.00% from Jun. 11, 2025, then 2.25% on Jun. 17, 2026 and 2.50% on Sep. 16, 2026, still 2.50% on Nov. 23. AlphaGen read: the series records two increases this year after a year at 2.00%.",
+   "source_name": "European Central Bank, via FRED (ECBDFR)",
+   "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
+   "checked": "2026-11-23T20:45:47Z"
+  },
   {
    "id": "2026-11-23-eia-stock-change-and-other-0p4-quads-0p3pct-2025",
    "time": "2026-11-23T19:41:32Z",
@@ -5066,59 +5116,6 @@
    "source_url": "https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html",
    "ticker": "NASDAQ:JD",
    "checked": "2026-11-17T17:39:41Z"
-  },
-  {
-   "id": "2026-11-17-jd-q3-eps-ads-459",
-   "time": "2026-11-17T18:03:41Z",
-   "tag": "EARNINGS",
-   "headline": "JD.com Q3 diluted EPS per ADS RMB4.59, up 35.4%; non-GAAP RMB5.88",
-   "take": "JD.com reports diluted net income per ADS of RMB4.59 for the third quarter of 2026, up 35.4% from RMB3.39. Non-GAAP diluted net income per ADS rose 57.6% to RMB5.88 from RMB3.73. AlphaGen read: per-ADS growth ran ahead of the roughly 22.6% rise in net income attributable to ordinary shareholders.",
-   "source_name": "JD.com Q3 2026 results release",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:JD",
-   "checked": "2026-11-17T17:39:41Z"
-  },
-  {
-   "id": "2026-11-17-warsh-fed-role-neither-advocacy-nor-opposition",
-   "time": "2026-11-17T18:14:41Z",
-   "tag": "FED",
-   "headline": "Warsh: Fed's role on AI is 'neither advocacy nor opposition'",
-   "take": "In his Nov. 16 remarks at the Fed's Productivity and Jobs Task Force Conference, Chairman Warsh said the Fed's role is 'neither advocacy nor opposition' and that widespread adoption of the technology 'will have significant impact on the economy, with important implications for monetary policy down the road.' He said the big questions are about 'magnitude, scope, and timing.' AlphaGen read: the Fed is framing AI as something to measure and plan for rather than a stance to take.",
-   "source_name": "Federal Reserve Board (Warsh opening remarks, Nov. 16, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-17T17:39:41Z"
-  },
-  {
-   "id": "2026-11-17-warsh-idea-generation-growth-higher",
-   "time": "2026-11-17T18:25:41Z",
-   "tag": "FED",
-   "headline": "Warsh: if AI broadens idea generation, growth could stay above long-run average",
-   "take": "Warsh said 'super intelligence' might differ from past general-purpose technologies because it 'could supercharge idea generation,' adding that 'if idea generation broadens, growth could be sustained at a level substantially higher than the long-run average.' He also said 'we're certainly not here to make predictions.' AlphaGen read: the claim is explicitly conditional, in line with his description of staff scenarios as illustrative, not forecasts.",
-   "source_name": "Federal Reserve Board (Warsh opening remarks, Nov. 16, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "checked": "2026-11-17T17:39:41Z"
-  },
-  {
-   "id": "2026-11-17-hd-q3-sales-434b",
-   "time": "2026-11-17T16:39:08Z",
-   "tag": "EARNINGS",
-   "headline": "Home Depot Q3 sales $43.4B, up 4.9%; comparable sales up 2.2%",
-   "take": "Home Depot's Nov. 17 release reports third-quarter fiscal 2026 (ended Nov. 1) net sales of $43,398 million versus $41,352 million a year earlier, up 4.9 percent. Comparable sales rose 2.2 percent, both total and U.S., versus 0.2 percent in the prior-year quarter. AlphaGen read: the release shows nine-month comparable sales of 1.5 percent, so the third quarter ran above the year-to-date pace.",
-   "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
-   "ticker": "NYSE:HD",
-   "checked": "2026-11-17T16:39:08Z"
-  },
-  {
-   "id": "2026-11-17-hd-q3-eps-372-386",
-   "time": "2026-11-17T16:47:08Z",
-   "tag": "EARNINGS",
-   "headline": "Home Depot Q3 diluted EPS $3.72, up 2.8%; adjusted $3.86 vs $3.74",
-   "take": "Home Depot reported Q3 fiscal 2026 diluted EPS of $3.72 versus $3.62, up 2.8 percent, and adjusted diluted EPS of $3.86 versus $3.74, up 3.2 percent. Net earnings were $3,713 million versus $3,601 million, up 3.1 percent. AlphaGen read: profit grew less than sales, which rose 4.9 percent in the quarter.",
-   "source_name": "Home Depot Q3 FY2026 earnings release (SEC EX-99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000184/hd_exhibit991x11012026.htm",
-   "ticker": "NYSE:HD",
-   "checked": "2026-11-17T16:39:08Z"
   }
  ]
 }
