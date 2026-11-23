@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-23T00:39:00Z",
+ "updated": "2026-11-23T01:39:13Z",
  "items": [
+  {
+   "id": "2026-11-22-eia-nov-gas-storage-forecast-70bcf-higher-hh-2p87",
+   "time": "2026-11-23T01:49:13Z",
+   "tag": "ENERGY",
+   "headline": "EIA lifts end-November gas storage forecast by almost 70 Bcf after warm start",
+   "take": "EIA said on Nov. 10 that it expects almost 70 billion cubic feet more natural gas in U.S. storage at the end of November than it forecast in October, citing a warm start to the month. In its November Short-Term Energy Outlook, it forecasts the Henry Hub spot price averaging $2.87 per MMBtu from November through March, 16% lower than the October forecast for that period. Milder early-winter weather is feeding straight into the gas price outlook.",
+   "source_name": "EIA press release (Nov. 10, 2026)",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-23T01:39:13Z"
+  },
+  {
+   "id": "2026-11-22-eia-nov-steo-gasoline-2027-3p73-vs-3p56",
+   "time": "2026-11-23T01:59:13Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA raises 2027 gasoline forecast to $3.73/gal from $3.56 on tight fuel supply",
+   "take": "EIA's November STEO forecasts U.S. retail gasoline at $3.73 per gallon in 2027, up from $3.56 in its October forecast, a rise of 17 cents. EIA says refined-fuel supplies are expected to stay tight through 2027, and still forecasts both gasoline and diesel to fall in 2027. Its table puts 2026 gasoline at $3.89 against $3.10 in 2025.",
+   "source_name": "EIA press release (Nov. 10, 2026)",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-23T01:39:13Z"
+  },
+  {
+   "id": "2026-11-22-eia-nov-steo-record-power-generation-4390bn-kwh-2026",
+   "time": "2026-11-23T02:09:13Z",
+   "tag": "ENERGY",
+   "headline": "EIA: U.S. power generation on track for a record near 4,390 billion kWh in 2026",
+   "take": "EIA's November STEO expects power-sector generation of almost 4,390 billion kilowatthours in 2026, a record and 2.7% above 2025. EIA expects most generation growth over the forecast period to come from utility-scale solar, with solar's share of U.S. generation going from 8% in 2026 to 10% in 2027. Rising power demand is now a core part of the energy outlook rather than a side note.",
+   "source_name": "EIA press release (Nov. 10, 2026)",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-23T01:39:13Z"
+  },
+  {
+   "id": "2026-11-22-eia-nov-steo-crude-stocks-lowest-october-since-2014-output-14p3m",
+   "time": "2026-11-23T02:19:13Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA: U.S. crude stocks at lowest October level since 2014; 2027 output seen at 14.3M b/d",
+   "take": "EIA says U.S. commercial crude oil inventories fell to their lowest October level since 2014. It expects inventories to rise in 2027 as net imports increase and U.S. crude production reaches a record 14.3 million barrels per day, up from 13.9 million in 2026. EIA's table puts Brent at $97 per barrel for 2026 and $86 for 2027, so the outlook is for a supply cushion rebuilding only gradually.",
+   "source_name": "EIA press release (Nov. 10, 2026)",
+   "source_url": "https://www.eia.gov/pressroom/releases/press594.php",
+   "checked": "2026-11-23T01:39:13Z"
+  },
+  {
+   "id": "2026-11-22-eia-southwest-hydropower-record-low-apr-aug-19pct-below",
+   "time": "2026-11-23T02:29:13Z",
+   "tag": "ENERGY",
+   "headline": "EIA: Southwest hydropower hit record lows this summer, 19% below a year earlier",
+   "take": "EIA reported on Nov. 13 that prolonged drought in the Colorado River Basin led to record-low hydropower generation this summer in the Southwestern electricity supply region (Arizona, New Mexico, and small parts of Nevada and California). Generation from April through August 2026 was 19% lower than the same period last year and 28% lower than the 10-year average, per Form EIA-923 data. Drought is now a direct input to regional power supply, not just a water story.",
+   "source_name": "EIA, Today in Energy (Nov. 13, 2026)",
+   "source_url": "https://www.eia.gov/todayinenergy/",
+   "checked": "2026-11-23T01:39:13Z"
+  },
   {
    "id": "2026-11-22-fred-eurusd-nov13-1p1034-lowest-in-year-window",
    "time": "2026-11-23T00:44:00Z",
@@ -65,8 +115,8 @@
    "id": "2026-11-22-boc-outlook-cpi-3p5-end-2026-2pct-mid-2028",
    "time": "2026-11-22T23:49:00Z",
    "tag": "GLOBAL",
-   "headline": "Bank of Canada sees CPI at 3\u00bd% by end-2026, back to 2% target by mid-2028",
-   "take": "The Bank of Canada's Nov. 10 summary says CPI inflation was expected to rise to 3\u00bd% at the end of 2026 and stay above 3% through much of 2027 before declining to the 2% target by the middle of 2028; total inflation had been around 3% since April and CPI excluding gasoline was 2.2%. It also says members agreed there could be a need to raise the policy rate further but would decide one meeting at a time. AlphaGen read: the path implies the Bank expects the energy shock to take roughly two years to fully fade from headline inflation.",
+   "headline": "Bank of Canada sees CPI at 3½% by end-2026, back to 2% target by mid-2028",
+   "take": "The Bank of Canada's Nov. 10 summary says CPI inflation was expected to rise to 3½% at the end of 2026 and stay above 3% through much of 2027 before declining to the 2% target by the middle of 2028; total inflation had been around 3% since April and CPI excluding gasoline was 2.2%. It also says members agreed there could be a need to raise the policy rate further but would decide one meeting at a time. AlphaGen read: the path implies the Bank expects the energy shock to take roughly two years to fully fade from headline inflation.",
    "source_name": "Bank of Canada, Summary of Governing Council deliberations (Oct. 28, 2026 decision), published Nov. 10, 2026",
    "source_url": "https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/",
    "checked": "2026-11-22T23:39:00Z"
@@ -344,7 +394,7 @@
   {
    "id": "2026-11-22-eia-refinery-utilization-above-95pct-may-sep-highest-since-1998",
    "tag": "ENERGY",
-   "headline": "EIA: U.S. refinery utilization averaged over 95% May\u2013September, highest since 1998",
+   "headline": "EIA: U.S. refinery utilization averaged over 95% May–September, highest since 1998",
    "take": "EIA said in an Oct. 22 analysis that the U.S. refinery fleet has run at higher-than-normal rates this year, with utilization averaging more than 95% of capacity between May and September, the highest for those months since 1998. EIA attributed the high run rates to tight global product supplies that have boosted margins, particularly for diesel. AlphaGen read: this fits the refinery-yield shift toward distillate and jet fuel that EIA described in a separate Nov. 5 analysis.",
    "source_name": "EIA, Today in Energy",
    "source_url": "https://www.eia.gov/todayinenergy/",
@@ -651,7 +701,7 @@
    "time": "2026-11-22T12:19:00Z",
    "tag": "GLOBAL",
    "headline": "EIA: Colombia leans more on LNG imports as domestic gas output keeps falling",
-   "take": "EIA says Colombia is importing more liquefied natural gas as domestic production continues to fall. A potential drought this fall and winter could limit hydroelectric generation and boost demand for natural gas power generation, and the government has declared a national disaster in anticipation of a drought from an expected strong El Ni\u00f1o. AlphaGen read: weather-driven power demand in import-reliant markets is another source of LNG demand.",
+   "take": "EIA says Colombia is importing more liquefied natural gas as domestic production continues to fall. A potential drought this fall and winter could limit hydroelectric generation and boost demand for natural gas power generation, and the government has declared a national disaster in anticipation of a drought from an expected strong El Niño. AlphaGen read: weather-driven power demand in import-reliant markets is another source of LNG demand.",
    "source_name": "U.S. Energy Information Administration, Today in Energy (Oct. 29, 2026)",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
    "checked": "2026-11-22T11:47:00Z"
@@ -1560,7 +1610,7 @@
    "time": "2026-11-20T22:41:54Z",
    "tag": "FED",
    "headline": "Cook: PCE inflation 3.8% in October, core 3.2%, above target for 67 months",
-   "take": "In a Nov. 20 speech in Santiago, Governor Lisa Cook said the 12-month change in the PCE price index was estimated at 3.8% in October and core PCE 3.2%, and that inflation has been well above the 2% target for 67 months. She also said U.S. growth is \"strong\u2014and accelerating\" and that \"waiting to act when a policy adjustment is required has a cost.\" AlphaGen read: the governor put price stability first in her outlook.",
+   "take": "In a Nov. 20 speech in Santiago, Governor Lisa Cook said the 12-month change in the PCE price index was estimated at 3.8% in October and core PCE 3.2%, and that inflation has been well above the 2% target for 67 months. She also said U.S. growth is \"strong—and accelerating\" and that \"waiting to act when a policy adjustment is required has a cost.\" AlphaGen read: the governor put price stability first in her outlook.",
    "source_name": "Federal Reserve Board, Governor Cook speech",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
    "checked": "2026-11-20T22:39:54Z"
@@ -1723,7 +1773,7 @@
    "time": "2026-11-20T19:45:00Z",
    "tag": "ENERGY",
    "headline": "U.S. gas storage ended injection season at 3,810 Bcf, about 2% above five-year average",
-   "take": "EIA says Lower 48 working gas ended the April 1\u2013October 31 injection season at 3,810 Bcf, exceeding the five-year average by almost 2%. Net injections were 2 Bcf less than the five-year average, but stocks began the season at 1,878 Bcf, 3% (63 Bcf) above average; the surplus peaked at 198 Bcf (7%) for the week ending Aug. 7. AlphaGen read: the cushion came from a high starting point, not unusually strong summer refilling.",
+   "take": "EIA says Lower 48 working gas ended the April 1–October 31 injection season at 3,810 Bcf, exceeding the five-year average by almost 2%. Net injections were 2 Bcf less than the five-year average, but stocks began the season at 1,878 Bcf, 3% (63 Bcf) above average; the surplus peaked at 198 Bcf (7%) for the week ending Aug. 7. AlphaGen read: the cushion came from a high starting point, not unusually strong summer refilling.",
    "source_name": "EIA, Today in Energy (Nov. 18, 2026)",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
    "checked": "2026-11-20T19:43:00Z"
@@ -1733,7 +1783,7 @@
    "time": "2026-11-20T19:57:00Z",
    "tag": "COMMODITIES",
    "headline": "EIA sees 1,900 Bcf of winter gas withdrawals, March inventories 4% above average",
-   "take": "In its November Short-Term Energy Outlook, EIA forecasts natural gas withdrawals of 1,900 Bcf over the 2026\u20132027 heating season (Nov. 1\u2013March 31) and end-March 2027 inventories 4% above the five-year (2022\u20132026) average. EIA attributes this to a relatively mild winter and increases in natural gas production. AlphaGen read: the forecast depends on mild weather holding, so colder-than-expected months are the variable to watch.",
+   "take": "In its November Short-Term Energy Outlook, EIA forecasts natural gas withdrawals of 1,900 Bcf over the 2026–2027 heating season (Nov. 1–March 31) and end-March 2027 inventories 4% above the five-year (2022–2026) average. EIA attributes this to a relatively mild winter and increases in natural gas production. AlphaGen read: the forecast depends on mild weather holding, so colder-than-expected months are the variable to watch.",
    "source_name": "EIA, Today in Energy (Nov. 18, 2026)",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
    "checked": "2026-11-20T19:43:00Z"
@@ -1924,8 +1974,8 @@
    "id": "2026-11-20-ecb-lagarde-recovery-fund-800b-safe-150b",
    "time": "2026-11-20T16:03:31Z",
    "tag": "GLOBAL",
-   "headline": "Lagarde cites \u20ac800B EU recovery fund and up to \u20ac150B in SAFE defence loans",
-   "take": "Lagarde said the EU created a recovery fund financed by common debt to the tune of \u20ac800 billion, and that Europe agreed on Security Action for Europe (SAFE), which offers up to \u20ac150 billion in loans for joint defence procurement. She argued Europe acts decisively when the cost of inaction is plainly greater than the cost of acting, but struggles with slow-moving problems. AlphaGen read: the speech is a case for acting before costs become visible, rather than a policy announcement.",
+   "headline": "Lagarde cites €800B EU recovery fund and up to €150B in SAFE defence loans",
+   "take": "Lagarde said the EU created a recovery fund financed by common debt to the tune of €800 billion, and that Europe agreed on Security Action for Europe (SAFE), which offers up to €150 billion in loans for joint defence procurement. She argued Europe acts decisively when the cost of inaction is plainly greater than the cost of acting, but struggles with slow-moving problems. AlphaGen read: the speech is a case for acting before costs become visible, rather than a policy announcement.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
    "checked": "2026-11-20T15:39:31Z"
@@ -1944,8 +1994,8 @@
    "id": "2026-11-20-ecb-lagarde-ai-compute-5-to-15pct-1p3t",
    "time": "2026-11-20T15:41:31Z",
    "tag": "GLOBAL",
-   "headline": "Lagarde: lifting Europe's AI compute share from ~5% to 15% by 2030 needs ~\u20ac1.3T",
-   "take": "In her Nov. 20 Frankfurt keynote, ECB President Christine Lagarde cited one recent estimate that raising Europe's share of the world's AI computing capacity from around 5% to 15% by 2030 would require investment of around \u20ac1.3 trillion. She said that as long as Europe can buy computing power from foreign providers and frontier AI models remain available, the case for paying that price is hard to make. AlphaGen read: she used the example to illustrate the cost of acting early on dependencies, not to announce an ECB policy.",
+   "headline": "Lagarde: lifting Europe's AI compute share from ~5% to 15% by 2030 needs ~€1.3T",
+   "take": "In her Nov. 20 Frankfurt keynote, ECB President Christine Lagarde cited one recent estimate that raising Europe's share of the world's AI computing capacity from around 5% to 15% by 2030 would require investment of around €1.3 trillion. She said that as long as Europe can buy computing power from foreign providers and frontier AI models remain available, the case for paying that price is hard to make. AlphaGen read: she used the example to illustrate the cost of acting early on dependencies, not to announce an ECB policy.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
    "checked": "2026-11-20T15:39:31Z"
@@ -2014,8 +2064,8 @@
    "id": "2026-11-20-ecb-lagarde-pontes-tokenised-assets-23b-esm-1b-bond",
    "time": "2026-11-20T13:50:50Z",
    "tag": "GLOBAL",
-   "headline": "Lagarde: tokenised assets ~\u20ac23B in March; ESM settled \u20ac1B bond on Pontes",
-   "take": "Lagarde said the market for tokenised assets was worth around \u20ac23 billion worldwide in March, five times its size a year earlier. The ECB launched Pontes in September to settle tokenised transactions in central bank money, and the European Stability Mechanism settled a \u20ac1 billion digitally native bond on it earlier this month. The ECB is positioning settlement infrastructure as the common standard before platforms diverge.",
+   "headline": "Lagarde: tokenised assets ~€23B in March; ESM settled €1B bond on Pontes",
+   "take": "Lagarde said the market for tokenised assets was worth around €23 billion worldwide in March, five times its size a year earlier. The ECB launched Pontes in September to settle tokenised transactions in central bank money, and the European Stability Mechanism settled a €1 billion digitally native bond on it earlier this month. The ECB is positioning settlement infrastructure as the common standard before platforms diverge.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
    "checked": "2026-11-20T13:38:50Z"
@@ -2150,7 +2200,7 @@
    "time": "2026-11-20T03:40:00Z",
    "tag": "MACRO",
    "headline": "CPI all-items index up 1.4% in three months to October, a 5.7% annual pace",
-   "take": "FRED's seasonally adjusted CPI index was 337.476 in October, up 0.35% from 336.298 in September and 1.40% from 332.813 in July. Compounded over four quarters, the July\u2013October gain equals a 5.7% annual rate. AlphaGen read: the headline index has run well ahead of the core index, which rose 0.92% over the same three months, a 3.7% annual pace.",
+   "take": "FRED's seasonally adjusted CPI index was 337.476 in October, up 0.35% from 336.298 in September and 1.40% from 332.813 in July. Compounded over four quarters, the July–October gain equals a 5.7% annual rate. AlphaGen read: the headline index has run well ahead of the core index, which rose 0.92% over the same three months, a 3.7% annual pace.",
    "source_name": "BLS Consumer Price Index via FRED (CPIAUCSL, CPILFESL)",
    "source_url": "https://fred.stlouisfed.org/series/CPIAUCSL",
    "checked": "2026-11-20T03:38:46Z"
@@ -2160,7 +2210,7 @@
    "time": "2026-11-20T03:48:00Z",
    "tag": "FED",
    "headline": "Core PCE index 130.902 in September, up 0.32% on the month",
-   "take": "FRED's core PCE price index (excluding food and energy) was 130.902 in September, up from 130.489 in August and 129.969 in June. That is a 0.32% monthly gain and a 2.9% annualized pace over June\u2013September. AlphaGen read: core PCE, the Fed's preferred inflation gauge, has been running below the 3.7% annualized pace of core CPI over July\u2013October, though the two cover different months and baskets.",
+   "take": "FRED's core PCE price index (excluding food and energy) was 130.902 in September, up from 130.489 in August and 129.969 in June. That is a 0.32% monthly gain and a 2.9% annualized pace over June–September. AlphaGen read: core PCE, the Fed's preferred inflation gauge, has been running below the 3.7% annualized pace of core CPI over July–October, though the two cover different months and baskets.",
    "source_name": "BEA Personal Consumption Expenditures via FRED (PCEPILFE)",
    "source_url": "https://fred.stlouisfed.org/series/PCEPILFE",
    "checked": "2026-11-20T03:38:46Z"
@@ -2169,7 +2219,7 @@
    "id": "2026-11-20-bls-unemployment-rate-oct-4p1",
    "time": "2026-11-20T03:56:00Z",
    "tag": "MACRO",
-   "headline": "Unemployment rate 4.1% in October, 7.1M unemployed; range 4.1%\u20134.3% since March",
+   "headline": "Unemployment rate 4.1% in October, 7.1M unemployed; range 4.1%–4.3% since March",
    "take": "BLS said the unemployment rate changed little at 4.1% in October and the number of unemployed people, at 7.1 million, was little changed. The rate has stayed in a narrow range of 4.1% to 4.3% since March, and FRED shows 4.2% in September and 4.1% in July and August. AlphaGen read: a labor market that is not loosening keeps the Fed's focus on inflation.",
    "source_name": "BLS Employment Situation, October 2026",
    "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
@@ -2412,8 +2462,8 @@
    "id": "2026-11-19-nke-director-gil-resigns-board-11",
    "time": "2026-11-20T00:30:00Z",
    "tag": "EQUITIES",
-   "headline": "Nike director M\u00f3nica Gil resigns; board shrinks to eleven",
-   "take": "Nike said in an 8-K that director M\u00f3nica Gil notified the company on Nov. 13 of her decision to resign from the Board and its Compensation Committee, effective Nov. 19, reducing the Board to eleven directors. The filing says her decision is not because of a disagreement with the company or the Board on any matter relating to operations, policies or practices. AlphaGen read: the filing describes no replacement director.",
+   "headline": "Nike director Mónica Gil resigns; board shrinks to eleven",
+   "take": "Nike said in an 8-K that director Mónica Gil notified the company on Nov. 13 of her decision to resign from the Board and its Compensation Committee, effective Nov. 19, reducing the Board to eleven directors. The filing says her decision is not because of a disagreement with the company or the Board on any matter relating to operations, policies or practices. AlphaGen read: the filing describes no replacement director.",
    "source_name": "NIKE, Inc., Form 8-K (SEC EDGAR)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211.txt",
    "ticker": "NYSE:NKE",
@@ -2740,7 +2790,7 @@
    "time": "2026-11-19T16:50:46Z",
    "tag": "FED",
    "headline": "Jefferson: inflation was already above 2% target when energy shock hit",
-   "take": "Vice Chair Jefferson, speaking in Bras\u00edlia on Nov. 19, said: \"When the recent energy price shock occurred, inflation in the U.S. was already above our 2 percent target.\" He added that if inflation expectations risk becoming unanchored, \"a stronger reaction to inflation is warranted.\" AlphaGen read: the speech frames expectations as the main test for how the Fed treats an energy-driven price jump.",
+   "take": "Vice Chair Jefferson, speaking in Brasília on Nov. 19, said: \"When the recent energy price shock occurred, inflation in the U.S. was already above our 2 percent target.\" He added that if inflation expectations risk becoming unanchored, \"a stronger reaction to inflation is warranted.\" AlphaGen read: the speech frames expectations as the main test for how the Fed treats an energy-driven price jump.",
    "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
    "checked": "2026-11-19T16:38:46Z"
@@ -3184,8 +3234,8 @@
    "id": "2026-11-18-nxpi-eur1b-notes-2034-2037",
    "time": "2026-11-19T02:09:59Z",
    "tag": "CREDIT",
-   "headline": "NXP signs underwriting for \u20ac1.0B of notes: 4.625% due 2034, 4.875% due 2037",
-   "take": "NXP B.V., NXP Funding LLC and NXP USA, Inc., together with NXP Semiconductors N.V., signed an underwriting agreement on November 17, 2026 for \u20ac500 million of 4.625% Senior Notes due 2034 and \u20ac500 million of 4.875% Senior Notes due 2037. The notes are senior unsecured obligations guaranteed by NXP Semiconductors N.V., and the sale is expected to complete on November 24, 2026, subject to customary closing conditions. AlphaGen read: the longer-dated 2037 tranche carries a coupon 0.25 percentage point above the 2034 tranche.",
+   "headline": "NXP signs underwriting for €1.0B of notes: 4.625% due 2034, 4.875% due 2037",
+   "take": "NXP B.V., NXP Funding LLC and NXP USA, Inc., together with NXP Semiconductors N.V., signed an underwriting agreement on November 17, 2026 for €500 million of 4.625% Senior Notes due 2034 and €500 million of 4.875% Senior Notes due 2037. The notes are senior unsecured obligations guaranteed by NXP Semiconductors N.V., and the sale is expected to complete on November 24, 2026, subject to customary closing conditions. AlphaGen read: the longer-dated 2037 tranche carries a coupon 0.25 percentage point above the 2034 tranche.",
    "source_name": "NXP Semiconductors N.V., Form 8-K (Item 8.01), filed Nov. 18, 2026",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312526467184/0001193125-26-467184.txt",
    "ticker": "NASDAQ:NXPI",
@@ -3512,7 +3562,7 @@
    "time": "2026-11-18T19:41:18Z",
    "tag": "ENERGY",
    "headline": "EIA: Lower 48 gas storage ended injection season at 3,810 Bcf, almost 2% above average",
-   "take": "EIA said working natural gas in Lower 48 storage ended the April 1\u2013Oct. 31 injection season at 3,810 Bcf, almost 2% above the five-year average. Net injections were 2 Bcf below the five-year average, but stocks started the season at 1,878 Bcf, 3% (63 Bcf) above average. AlphaGen read: EIA's November outlook calls for 1,900 Bcf of heating-season withdrawals and inventories 4% above average at the end of March 2027.",
+   "take": "EIA said working natural gas in Lower 48 storage ended the April 1–Oct. 31 injection season at 3,810 Bcf, almost 2% above the five-year average. Net injections were 2 Bcf below the five-year average, but stocks started the season at 1,878 Bcf, 3% (63 Bcf) above average. AlphaGen read: EIA's November outlook calls for 1,900 Bcf of heating-season withdrawals and inventories 4% above average at the end of March 2027.",
    "source_name": "EIA, Today in Energy",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
    "checked": "2026-11-18T19:38:18Z"
@@ -3531,7 +3581,7 @@
    "id": "2026-11-18-eia-southwest-hydropower-record-low",
    "time": "2026-11-18T19:53:18Z",
    "tag": "ENERGY",
-   "headline": "EIA: Southwest hydropower fell to record lows, April\u2013August output down 19% on year",
+   "headline": "EIA: Southwest hydropower fell to record lows, April–August output down 19% on year",
    "take": "EIA said Southwest hydropower generation from April through August 2026 was 19% below the same period last year and 28% below the 10-year average, with Lake Powell at 3,518 feet at the end of September, less than 1% above the 3,490-foot minimum power pool. Its November outlook sees 2026 Southwest hydropower at 6.13 BkWh, 9% below last year. AlphaGen read: EIA says one good water year likely won't eliminate the effects of multiple years of water scarcity.",
    "source_name": "EIA, Today in Energy",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
@@ -3681,7 +3731,7 @@
    "time": "2026-11-18T17:49:00Z",
    "tag": "GLOBAL",
    "headline": "ECB: risks elevated; non-bank vulnerabilities more pronounced, safeguards less developed",
-   "take": "In the Nov. 18 Financial Stability Review release, Vice-President Boris Vuj\u010di\u0107 said risks to euro area financial stability \"remain elevated, given persistent geoeconomic uncertainty and growing exposure to AI.\" He said banks are \"well placed to withstand shocks, while vulnerabilities are more pronounced in certain non-banks where risks are growing and macroprudential safeguards are less developed.\" AlphaGen read: the ECB is drawing a line between a bank sector it calls resilient and non-bank pockets where it sees thinner safeguards.",
+   "take": "In the Nov. 18 Financial Stability Review release, Vice-President Boris Vujčić said risks to euro area financial stability \"remain elevated, given persistent geoeconomic uncertainty and growing exposure to AI.\" He said banks are \"well placed to withstand shocks, while vulnerabilities are more pronounced in certain non-banks where risks are growing and macroprudential safeguards are less developed.\" AlphaGen read: the ECB is drawing a line between a bank sector it calls resilient and non-bank pockets where it sees thinner safeguards.",
    "source_name": "ECB",
    "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
    "checked": "2026-11-18T17:44:00Z"
@@ -4675,7 +4725,7 @@
    "time": "2026-11-17T15:38:45Z",
    "tag": "MACRO",
    "headline": "October retail and food services sales $748.2B, up 0.2% from September, up 6.8% on year",
-   "take": "Census's advance report released Nov. 17 puts October retail and food services sales at $748.2 billion, up 0.2 percent (\u00b10.4 percent) from the previous month and up 6.8 percent (\u00b10.5 percent) from October 2025. The August-to-September change was unrevised at up 0.8 percent. AlphaGen read: the monthly gain is smaller than September's, and its margin of error is large relative to the change.",
+   "take": "Census's advance report released Nov. 17 puts October retail and food services sales at $748.2 billion, up 0.2 percent (±0.4 percent) from the previous month and up 6.8 percent (±0.5 percent) from October 2025. The August-to-September change was unrevised at up 0.8 percent. AlphaGen read: the monthly gain is smaller than September's, and its margin of error is large relative to the change.",
    "source_name": "Census Bureau, Advance Monthly Retail Trade",
    "source_url": "https://www.census.gov/retail/sales.html",
    "checked": "2026-11-17T15:38:45Z"
@@ -4685,7 +4735,7 @@
    "time": "2026-11-17T15:50:45Z",
    "tag": "MACRO",
    "headline": "Retail sales for August-October up 6.4% from a year earlier, Census says",
-   "take": "Census reports that total retail and food services sales for the August through October 2026 period were up 6.4 percent (\u00b10.5 percent) from the same period a year earlier. The October advance estimate alone was up 6.8 percent (\u00b10.5 percent) from October 2025. AlphaGen read: the three-month comparison is slightly below the October year-on-year figure.",
+   "take": "Census reports that total retail and food services sales for the August through October 2026 period were up 6.4 percent (±0.5 percent) from the same period a year earlier. The October advance estimate alone was up 6.8 percent (±0.5 percent) from October 2025. AlphaGen read: the three-month comparison is slightly below the October year-on-year figure.",
    "source_name": "Census Bureau, Advance Monthly Retail Trade",
    "source_url": "https://www.census.gov/retail/sales.html",
    "checked": "2026-11-17T15:38:45Z"
@@ -4943,8 +4993,8 @@
    "id": "2026-11-16-amt-euro-notes-1p2b",
    "time": "2026-11-17T03:40:00Z",
    "tag": "CREDIT",
-   "headline": "American Tower prices \u20ac1.2B of euro notes at 4.200% (2031) and 4.500% (2034)",
-   "take": "American Tower said on Nov. 16 it priced \u20ac600.0 million of senior unsecured notes due 2031 at 4.200%, issued at 99.985% of face value, and \u20ac600.0 million due 2034 at 4.500%, issued at 99.697%. Expected net proceeds are \u20ac1,191.3 million (about $1,317.0 million), which the company intends to use for general corporate purposes, including refinancing upcoming euro maturities. AlphaGen read: the 30 basis point coupon step between the two maturities is the price the company paid for three extra years of euro funding.",
+   "headline": "American Tower prices €1.2B of euro notes at 4.200% (2031) and 4.500% (2034)",
+   "take": "American Tower said on Nov. 16 it priced €600.0 million of senior unsecured notes due 2031 at 4.200%, issued at 99.985% of face value, and €600.0 million due 2034 at 4.500%, issued at 99.697%. Expected net proceeds are €1,191.3 million (about $1,317.0 million), which the company intends to use for general corporate purposes, including refinancing upcoming euro maturities. AlphaGen read: the 30 basis point coupon step between the two maturities is the price the company paid for three extra years of euro funding.",
    "source_name": "American Tower Corp (Form 8-K, Exhibit 99.1)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000167/0001053507-26-000167.txt",
    "ticker": "NYSE:AMT",
@@ -5075,56 +5125,6 @@
    "source_name": "BLS, Producer Price Index news release (October 2026)",
    "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
    "checked": "2026-11-17T01:39:52Z"
-  },
-  {
-   "id": "2026-11-16-ppi-oct-energy-goods-compounded",
-   "time": "2026-11-17T01:53:52Z",
-   "tag": "ENERGY",
-   "headline": "PPI final demand energy: four declines in 2026, but monthly changes compound to ~34%",
-   "take": "BLS's October PPI table shows final demand energy changing -1.7, +2.0, +10.5, +7.1, +8.2, -7.2, -1.5, +4.2, +10.0 and -0.1 percent from January through October. Four of the ten months were declines, and six were gains of 2.0% or more. Compounding the published, rounded monthly figures gives roughly 34.4% over the ten months. AlphaGen read: March (+10.5%) and September (+10.0%) were the two largest monthly moves, which dominates the compounded total.",
-   "source_name": "BLS, Producer Price Index news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-17T01:39:52Z"
-  },
-  {
-   "id": "2026-11-16-ppi-oct-transport-warehousing-compounded",
-   "time": "2026-11-17T02:05:52Z",
-   "tag": "MACRO",
-   "headline": "PPI transportation and warehousing services: six of ten 2026 months rose 2% or more",
-   "take": "In BLS's October PPI table, final demand transportation and warehousing services changed +1.0, +0.8, +2.2, +3.7, +2.1, -0.3, -1.1, +2.4, +3.4 and +2.0 percent from January through October. Six months were gains of 2.0% or more and two were declines (June and July). Compounding the published, rounded figures gives roughly 17.3% over the ten months. AlphaGen read: October's +2.0% is the third straight gain of that size after the June-July dip.",
-   "source_name": "BLS, Producer Price Index news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-17T01:39:52Z"
-  },
-  {
-   "id": "2026-11-16-ppi-oct-foods-1p3-largest-since-feb",
-   "time": "2026-11-17T02:17:52Z",
-   "tag": "COMMODITIES",
-   "headline": "PPI final demand foods rose 1.3% in October, the largest monthly gain since February",
-   "take": "BLS's October PPI table shows final demand foods up 1.3% in October after +1.1% in September, versus +2.3% in February; the other seven 2026 months ranged from -1.3% to +0.6%. Five of the ten months were declines, and compounding the published, rounded changes gives roughly +2.0% for January through October. AlphaGen read: foods compounded to about 2.0% against about 34.4% for energy, though the last two months have turned upward.",
-   "source_name": "BLS, Producer Price Index news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-17T01:39:52Z"
-  },
-  {
-   "id": "2026-11-17-tsy-8wk-bill-oct15-vs-oct8",
-   "time": "2026-11-17T00:41:11Z",
-   "tag": "DEBT",
-   "headline": "8-week bill high rate 4.132% on Oct. 15, up 7.2 bp from 4.060% on Oct. 8",
-   "take": "Treasury results show the $105 billion 8-week bill auctioned Oct. 15 had a 4.132% high investment rate and a 2.26 bid-to-cover ratio, versus 4.060% and 2.77 on Oct. 8. Indirect bidders were accepted for $47.89 billion of $112.08 billion total accepted on Oct. 15, against $71.40 billion of $113.92 billion a week earlier. AlphaGen read: unlike the 4-week bill, whose bid-to-cover rose over the same week, the 8-week saw coverage fall as its rate increased.",
-   "source_name": "U.S. Treasury, Fiscal Data auctions",
-   "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-   "checked": "2026-11-17T00:38:11Z"
-  },
-  {
-   "id": "2026-11-17-tsy-17wk-bill-oct14-431",
-   "time": "2026-11-17T00:52:11Z",
-   "tag": "RATES",
-   "headline": "17-week bill high rate 4.313% on Oct. 14 with a 2.79 bid-to-cover, the highest in the latest results",
-   "take": "Treasury results show the $75 billion 17-week bill auctioned Oct. 14 had a 4.313% high investment rate and a 2.79 bid-to-cover ratio, with $80.05 billion total accepted. Among the eight bill auctions in the latest results, 2.79 was the highest bid-to-cover; the 8-week on Oct. 15 had the lowest at 2.26. AlphaGen read: the 17-week had the strongest coverage of the six bill maturities in these results.",
-   "source_name": "U.S. Treasury, Fiscal Data auctions",
-   "source_url": "https://fiscaldata.treasury.gov/datasets/treasury-securities-auctions-data/",
-   "checked": "2026-11-17T00:38:11Z"
   }
  ]
 }
