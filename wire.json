@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T01:39:13Z",
+ "updated": "2026-11-23T03:39:39Z",
  "items": [
+  {
+   "id": "2026-11-23-feds-note-productivity-news-10y-yield-lepetit-miller",
+   "time": "2026-11-23T03:39:00Z",
+   "tag": "FED",
+   "headline": "Fed note: AI-driven productivity optimism does not explain the rise in 10-year yields",
+   "take": "A Nov. 20 FEDS Note by Antoine Lepetit and David Miller finds the 10-year Treasury yield falls after a positive productivity news shock, and that the real 10-year yield actually rose only 90 basis points between 2022Q3 and 2026Q2, against a model-implied forecast error of 200 basis points by early 2026. The authors conclude AI-related optimism cannot explain the recent surge in long-term yields. AlphaGen read: the note reflects the authors' views, not the Board's, and rests on a 1990–2019 sample dominated by the late-1990s tech boom.",
+   "source_name": "Federal Reserve Board, FEDS Notes",
+   "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html",
+   "checked": "2026-11-23T03:39:39Z"
+  },
+  {
+   "id": "2026-11-23-fred-core-pce-sep-yoy-3p1-vs-aug-3p0",
+   "time": "2026-11-23T03:49:00Z",
+   "tag": "MACRO",
+   "headline": "Core PCE prices up 3.1% from a year earlier in September, FRED shows",
+   "take": "FRED's core PCE price index (excluding food and energy) was 130.902 in September versus 126.940 in September 2025, a 3.1% year-over-year rise by AlphaGen's calculation. August's 130.489 against 126.646 a year earlier works out to 3.0%. AlphaGen read: the year-over-year pace edged up a tenth, which keeps the Fed's preferred inflation gauge above its 2% target.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (BEA data)",
+   "source_url": "https://fred.stlouisfed.org/series/PCEPILFE",
+   "checked": "2026-11-23T03:39:39Z"
+  },
+  {
+   "id": "2026-11-23-fred-payrolls-level-oct-159293k-up-885k-yoy",
+   "time": "2026-11-23T04:01:00Z",
+   "tag": "MACRO",
+   "headline": "Payroll jobs total 159.29M in October, 885,000 above a year earlier, FRED shows",
+   "take": "FRED's total nonfarm payrolls series stood at 159,293 thousand in October 2026, versus 158,408 thousand in October 2025, a gain of 885 thousand or 0.56% (AlphaGen calculations). Since April's 158,798 thousand the level has risen 495 thousand. AlphaGen read: job growth over the past year has been modest in level terms, consistent with an unemployment rate that has stayed in a narrow band.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (BLS data)",
+   "source_url": "https://fred.stlouisfed.org/series/PAYEMS",
+   "checked": "2026-11-23T03:39:39Z"
+  },
+  {
+   "id": "2026-11-23-fred-permits-1295k-below-starts-1309k-oct",
+   "time": "2026-11-23T04:13:00Z",
+   "tag": "HOUSING",
+   "headline": "October permits of 1.295M ran 14,000 below starts of 1.309M, FRED shows",
+   "take": "FRED's Census-sourced series show housing starts at 1,309 thousand and building permits at 1,295 thousand, both seasonally adjusted annual rates, for October 2026. Permits were 14 thousand below starts, or about 99% of them (AlphaGen calculations). AlphaGen read: permits lead construction, so a reading below starts suggests no further build-up in the pipeline.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Census data)",
+   "source_url": "https://fred.stlouisfed.org/series/PERMIT",
+   "checked": "2026-11-23T03:39:39Z"
+  },
   {
    "id": "2026-11-22-eia-nov-gas-storage-forecast-70bcf-higher-hh-2p87",
    "time": "2026-11-23T01:49:13Z",
@@ -5083,48 +5123,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208.txt",
    "ticker": "NASDAQ:MRNA",
    "checked": "2026-11-17T02:46:19Z"
-  },
-  {
-   "id": "2026-11-16-kdp-2b-offering-deleveraging",
-   "time": "2026-11-17T03:07:19Z",
-   "tag": "EQUITIES",
-   "headline": "Keurig Dr Pepper starts a $2.0B common stock offering to repay about $2.0B of debt",
-   "take": "KDP's Nov. 12 release, furnished in an 8-K filed Nov. 16, says it commenced an underwritten public offering of $2.0 billion of common stock, with a 30-day underwriter option for up to $300 million more. It intends to use net proceeds to repay or repurchase about $2.0 billion of debt ahead of its planned separation into Beverage Co. and Global Coffee Co., targeted for early 2027. AlphaGen read: the stated aim is to strengthen the investment-grade profile of both companies after the split.",
-   "source_name": "Keurig Dr Pepper Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1418135/000119312526463583/d473035dex991.htm",
-   "ticker": "NASDAQ:KDP",
-   "checked": "2026-11-17T02:46:19Z"
-  },
-  {
-   "id": "2026-11-16-lng-davis-president-cfo",
-   "time": "2026-11-17T03:16:19Z",
-   "tag": "EQUITIES",
-   "headline": "Cheniere promotes Zach Davis to President and Chief Financial Officer",
-   "take": "Cheniere announced on Nov. 16 that Zach Davis was promoted to President and CFO from Executive Vice President and CFO, effective Nov. 12, 2026. He has been CFO since August 2020 and continues to report to Chairman and CEO Jack Fusco. AlphaGen read: this is a title and scope change for an existing executive, not a change of CFO.",
-   "source_name": "Cheniere Energy, Inc. (Form 8-K, Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526463597/d158128dex991.htm",
-   "ticker": "NYSE:LNG",
-   "checked": "2026-11-17T02:46:19Z"
-  },
-  {
-   "id": "2026-11-16-t10yie-2p20-t10y2y-0p29",
-   "time": "2026-11-17T03:25:19Z",
-   "tag": "RATES",
-   "headline": "10-year breakeven 2.20% on Nov. 16 while the 10-2 spread widened to 0.29 point",
-   "take": "FRED shows the 10-year breakeven inflation rate at 2.20% on Nov. 16, down from 2.24% on Nov. 13, and the 10-year minus 2-year Treasury spread at 0.29 percentage point, up from 0.27 on Nov. 13. The spread was 0.35 on Nov. 6 and 0.32 on Nov. 9 in the same series. AlphaGen read: breakevens eased while the curve steepened slightly, so the Nov. 16 moves do not point to a fresh inflation-expectations shock.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED), T10YIE and T10Y2Y",
-   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-   "checked": "2026-11-17T02:46:19Z"
-  },
-  {
-   "id": "2026-11-16-ppi-oct-total-compounded-5p7",
-   "time": "2026-11-17T01:41:52Z",
-   "tag": "MACRO",
-   "headline": "PPI final demand: ten 2026 monthly changes compound to about 5.7%",
-   "take": "BLS's October PPI release shows final demand changes of +0.6, +0.5, +0.8, +1.1, +0.5, -0.1, +0.1, +0.4, +1.4 and +0.3 percent for January through October, with June the only decline. Compounding those published, rounded figures gives roughly 5.7% over the ten months, against a 12-month change of 6.5% for the period ended in October. AlphaGen read: March (+0.8%), April (+1.1%) and September (+1.4%) were the three largest monthly gains, so the cumulative figure is driven by a few large months rather than a steady drift.",
-   "source_name": "BLS, Producer Price Index news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-17T01:39:52Z"
   }
  ]
 }
