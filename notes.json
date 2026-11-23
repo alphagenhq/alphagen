@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-23T17:45:04Z",
+ "updated": "2026-11-23T21:40:05Z",
  "items": [
+  {
+   "id": "2026-11-23-the-close",
+   "time": "2026-11-23T21:40:05Z",
+   "tag": "MACRO",
+   "series": "the-close",
+   "title": "The Close: CrowdStrike agrees to buy Zscaler as credit spreads widen and the Fed calendar goes quiet",
+   "dek": "A $43.9 billion all-stock cybersecurity deal, wider high-yield spreads on FRED and a Thanksgiving-week lineup of Treasury auctions framed an official-data-light Monday.",
+   "key_points": [
+    "CrowdStrike and Zscaler announced a definitive agreement valuing Zscaler at approximately $43.9 billion at 1.135 CrowdStrike shares per Zscaler share.",
+    "The ICE BofA high-yield spread was 3.76% on Nov. 20, up from 3.23% on Nov. 13; the investment-grade spread was 0.98%.",
+    "DoorDash disclosed a $1.792 billion delayed draw term loan and cut its Instacart bridge commitment from $13.0 billion to $11.208 billion.",
+    "Treasury's tentative schedule lists 2-, 5- and 7-year note auctions on Nov. 23, 24 and 25, all settling Nov. 30; the Fed calendar lists no speeches through Nov. 30.",
+    "NAR said pending home sales fell 4.7% in October and 16.7% from a year earlier."
+   ],
+   "talking_points": [
+    "Is the CrowdStrike-Zscaler deal a big one? Yes, by the companies' own numbers. CrowdStrike said Zscaler holders receive 1.135 CrowdStrike shares each, valuing Zscaler at approximately $43.9 billion, with closing expected in the second half of CrowdStrike's fiscal 2028 and subject to Zscaler shareholder and regulatory approvals. For investors in either stock, a fixed exchange ratio means the deal's value moves with CrowdStrike's share price until closing.",
+    "Are credit markets getting stressed? Somewhat, at the weak end. FRED shows the ICE BofA high-yield spread at 3.76% on Nov. 20, up from 3.23% on Nov. 13, while the investment-grade spread was 0.98%. For everyday investors, the widening is concentrated in lower-rated bonds, so it is a good moment to check how much of a portfolio sits in high-yield funds.",
+    "Is the housing market improving? Not yet. NAR reported pending home sales fell 4.7% in October and 16.7% from a year earlier, and FRED's Freddie Mac series put the 30-year mortgage rate at 7.28% on Nov. 19. For would-be buyers, a plan built on today's mortgage rate is safer than one that waits for a drop."
+   ],
+   "body": [
+    "Monday's biggest official document was a corporate one. In an SEC filing, CrowdStrike and Zscaler announced a definitive agreement under which Zscaler holders receive 1.135 CrowdStrike shares for each Zscaler share, valuing Zscaler at approximately $43.9 billion. The release puts CrowdStrike holders at about 84.1% of the combined company and expects closing in the second half of CrowdStrike's fiscal 2028, subject to Zscaler shareholder and regulatory approvals. Jay Chaudhry and his affiliates, representing approximately 34% of Zscaler's outstanding shares, signed voting agreements in support. CrowdStrike also reported third-quarter fiscal 2027 results the same day, with operating cash flow of $665.2 million.",
+    "DoorDash filed its own financing news: a $1.792 billion delayed draw term loan at Term SOFR plus an initial 1.00% margin, alongside a reduction of its 364-day bridge commitment for the Instacart deal from $13.0 billion to $11.208 billion. The bridge is a commitment, not drawn debt.",
+    {
+     "h": "Credit and rates"
+    },
+    "FRED's latest readings show credit spreads widening into Friday. The ICE BofA US High Yield option-adjusted spread was 3.76% on Nov. 20, up from 3.52% on Nov. 19 and 3.23% on Nov. 13, while the investment-grade spread was 0.98%, up from 0.89% a week earlier. Subtracting one from the other gives a 2.78-point gap against 2.34 points on Nov. 13, which suggests the stress is concentrated in lower-rated credit rather than across the market.",
+    "In housing, NAR's October release shows pending home sales down 4.7% from September and 16.7% from a year earlier, with declines in all four regions. FRED's Freddie Mac series had the 30-year fixed mortgage rate at 7.28% on Nov. 19, up from 7.11% a week before.",
+    {
+     "h": "The week ahead"
+    },
+    "Thanksgiving week is light on Fed communication and heavy on Treasury supply. The Federal Reserve Board's calendar lists no speeches or testimony for Nov. 23 through Nov. 30, though the Beige Book is listed for Nov. 25 at 2:00 p.m. Treasury's tentative schedule has the 2-year note auction on Nov. 23, the 5-year on Nov. 24 and the 7-year on Nov. 25, all settling Nov. 30; the schedule is tentative and carries no offering sizes. The ECB separately said it will accept certain DLT-based assets as collateral, with dedicated platform requirements to be communicated in spring 2027.",
+    "AlphaGen read: Monday offered corporate announcements rather than macro data. The official numbers that did move, credit spreads, are worth watching into the Nov. 25 data and auction results. Investors can use the quiet Fed calendar to check how much credit risk their portfolios carry."
+   ],
+   "sources": [
+    {
+     "name": "CrowdStrike and Zscaler joint release, SEC Form 8-K Ex. 99.1",
+     "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm"
+    },
+    {
+     "name": "CrowdStrike Q3 FY2027 results, SEC Form 8-K Ex. 99.1",
+     "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+     "name": "DoorDash Form 8-K",
+     "url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126045152/0001140361-26-045152.txt"
+    },
+    {
+     "name": "FRED, ICE BofA US High Yield OAS",
+     "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+    },
+    {
+     "name": "FRED, ICE BofA US Corporate OAS",
+     "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+    },
+    {
+     "name": "National Association of Realtors, Pending Home Sales",
+     "url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-4-7-percent-october-2026"
+    },
+    {
+     "name": "FRED, 30-year mortgage rate",
+     "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+    },
+    {
+     "name": "U.S. Treasury, Tentative Auction Schedule",
+     "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
+    },
+    {
+     "name": "Federal Reserve Board, Calendar: November 2026",
+     "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+     "name": "European Central Bank",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html"
+    }
+   ],
+   "tickers": [
+    "NASDAQ:CRWD",
+    "NASDAQ:ZS",
+    "NASDAQ:DASH"
+   ],
+   "checked": "2026-11-23T21:40:05Z"
+  },
   {
    "id": "2026-11-23-thanksgiving-week-calendar",
    "time": "2026-11-23T17:45:04Z",

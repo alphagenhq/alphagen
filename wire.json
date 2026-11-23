@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-23T20:45:47Z",
+ "updated": "2026-11-23T21:40:05Z",
  "items": [
+  {
+   "id": "2026-11-23-ppi-oct-core-final-demand-4p9-12mo-vs-5p0-sep",
+   "time": "2026-11-23T21:40:05Z",
+   "tag": "MACRO",
+   "headline": "PPI excluding foods, energy and trade rose 0.5% in October; 12-month rate 4.9%",
+   "take": "BLS reports final demand less foods, energy and trade rose 0.5% in October, the same as September, and 4.9% over the 12 months ended in October, versus 5.0% in September and 3.5% in October 2025 (Table A). AlphaGen read: the narrower gauge eased a tenth of a point on the year but remains well above its level a year ago.",
+   "source_name": "BLS, Producer Price Index (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-23T21:40:05Z"
+  },
+  {
+   "id": "2026-11-23-ppi-oct-final-demand-jan-oct-compounded-5p7",
+   "time": "2026-11-23T21:56:05Z",
+   "tag": "MACRO",
+   "headline": "Compounded, PPI final demand rose about 5.7% from January through October",
+   "take": "Compounding the seasonally adjusted monthly changes in BLS Table A for January through October 2026 (0.6, 0.5, 0.8, 1.1, 0.5, -0.1, 0.1, 0.4, 1.4 and 0.3 percent) gives a 5.7% rise in final demand prices. AlphaGen read: this is our calculation from rounded monthly figures and revised data, so treat it as approximate; BLS's own 12-month rate is 6.5%.",
+   "source_name": "BLS, Producer Price Index (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-23T21:40:05Z"
+  },
+  {
+   "id": "2026-11-23-ppi-oct-final-demand-energy-minus-0p1-after-10p0-sep",
+   "time": "2026-11-23T22:12:05Z",
+   "tag": "ENERGY",
+   "headline": "PPI final demand energy edged down 0.1% in October after a 10.0% September jump",
+   "take": "BLS says prices for final demand energy edged down 0.1% in October; its Table A shows the index rose 10.0% in September. Final demand goods less foods and energy rose 0.5% in October, against 0.3% in September. AlphaGen read: energy swung from the largest gain in Table A's final demand columns in September to a small decline, while headline final demand slowed from 1.4% to 0.3%.",
+   "source_name": "BLS, Producer Price Index (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-23T21:40:05Z"
+  },
+  {
+   "id": "2026-11-23-ppi-oct-headline-vs-core-gap-1p6-pts-vs-minus-0p7-year-ago",
+   "time": "2026-11-23T22:28:05Z",
+   "tag": "MACRO",
+   "headline": "PPI headline now runs 1.6 points above the narrower measure, after trailing it a year ago",
+   "take": "BLS Table A shows 12-month final demand inflation of 6.5% in October 2026 and 4.9% for final demand less foods, energy and trade, a gap of 1.6 percentage points by our calculation. In October 2025 the figures were 2.8% and 3.5%, a gap of -0.7 points. AlphaGen read: the headline index has moved from below to above the narrower measure, pointing to food, energy and trade components.",
+   "source_name": "BLS, Producer Price Index (October 2026)",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "checked": "2026-11-23T21:40:05Z"
+  },
   {
    "id": "2026-11-23-nar-pending-home-sales-oct-minus-4p7-mom-minus-16p7-yoy",
    "time": "2026-11-23T20:50:47Z",
@@ -5074,48 +5114,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01DEM156N)",
    "source_url": "https://fred.stlouisfed.org/series/IRLTLT01DEM156N",
    "checked": "2026-11-17T18:38:49Z"
-  },
-  {
-   "id": "2026-11-17-fred-uk-10y-gilt-oct",
-   "time": "2026-11-17T18:54:00Z",
-   "tag": "RATES",
-   "headline": "U.K. long-term government yield 5.34% in October, up 9.7 bp from September",
-   "take": "FRED's OECD-sourced series shows the U.K. long-term government bond yield at 5.3393% in October 2026, versus 5.2421% in September and 4.5721% in October 2025. That is 76.7 bp above a year earlier. AlphaGen read: the U.K. yield sits about 192 bp above Germany's 3.4159% for the same month.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (IRLTLT01GBM156N)",
-   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
-   "checked": "2026-11-17T18:38:49Z"
-  },
-  {
-   "id": "2026-11-17-fred-gasoline-3805",
-   "time": "2026-11-17T18:42:00Z",
-   "tag": "ENERGY",
-   "headline": "Regular gasoline $3.805 on Nov. 16, down $0.190 in a week and $0.348 in two",
-   "take": "FRED shows the weekly U.S. regular all-formulations retail gasoline price at $3.805 per gallon for the week of Nov. 16, 2026, versus $3.995 on Nov. 9 and $4.153 on Nov. 2. A year earlier (Nov. 17, 2025) the price was $3.062, so it is $0.743 higher, or 24.3%. AlphaGen read: three straight weekly declines have not closed the gap with last year.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (GASREGW)",
-   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
-   "checked": "2026-11-17T18:38:49Z"
-  },
-  {
-   "id": "2026-11-17-jd-q3-revenue-3096b",
-   "time": "2026-11-17T17:41:41Z",
-   "tag": "EARNINGS",
-   "headline": "JD.com Q3 net revenues RMB309.6B, up 3.5% from a year earlier",
-   "take": "JD.com's Nov. 17 release reports third-quarter 2026 net revenues of RMB309.6 billion, an increase of 3.5% from the third quarter of 2025 (RMB299.1 billion). AlphaGen read: revenue grew modestly, and the release's profit lines moved by more.",
-   "source_name": "JD.com Q3 2026 results release",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:JD",
-   "checked": "2026-11-17T17:39:41Z"
-  },
-  {
-   "id": "2026-11-17-jd-q3-operating-income-52b",
-   "time": "2026-11-17T17:52:41Z",
-   "tag": "EARNINGS",
-   "headline": "JD.com Q3 income from operations RMB5.2B vs a RMB1.1B loss a year ago",
-   "take": "JD.com reports income from operations of RMB5.2 billion for the third quarter of 2026, compared with a loss of RMB1.1 billion in the third quarter of 2025. Net income attributable to ordinary shareholders was RMB6.5 billion versus RMB5.3 billion, up about 22.6% by AlphaGen's calculation. AlphaGen read: operating income turned positive, while net income rose by a smaller percentage.",
-   "source_name": "JD.com Q3 2026 results release",
-   "source_url": "https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html",
-   "ticker": "NASDAQ:JD",
-   "checked": "2026-11-17T17:39:41Z"
   }
  ]
 }
