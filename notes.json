@@ -1,6 +1,84 @@
 {
-  "updated": "2026-11-24T17:40:08Z",
+  "updated": "2026-11-24T21:45:15Z",
   "items": [
+    {
+      "id": "2026-11-24-the-close",
+      "time": "2026-11-24T21:45:15Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: Medtronic holds its outlook, Treasury yields sit at two-week-plus lows and the Fed releases discount-rate minutes",
+      "dek": "A medical-device earnings report, a refinancing at a Freeport unit and a quiet Fed release framed Tuesday, while FRED's latest readings show lower yields and tighter credit spreads.",
+      "key_points": [
+        "Medtronic reported Q2 fiscal 2027 revenue of $9.4 billion, up 4.5% reported and 6.5% organic, with GAAP diluted EPS of $2.20 and non-GAAP diluted EPS of $1.34; it reiterated FY27 guidance.",
+        "The Federal Reserve Board released at 2:00 p.m. EST the minutes of its Oct. 19 and Oct. 28 discount rate meetings, a process it says is distinct from the FOMC's.",
+        "PT Freeport Indonesia, 48.76% owned by Freeport-McMoRan, completed a US$750.0 million 6.90% notes offering due 2033 and issued notice to redeem US$750.0 million of 4.763% notes due 2027 on Dec. 24.",
+        "FRED shows the 2-year yield at 4.63% and the 10-year at 4.92% on Nov. 20, the lowest since Nov. 9; the high-yield spread eased to 3.63% on Nov. 23 from 3.76%.",
+        "The Bank of England named Daniel Pinto an external Financial Policy Committee member from Jan. 4, 2027."
+      ],
+      "talking_points": [
+        "Did Tuesday's Fed release change the rate outlook? No. The Board released minutes of its Oct. 19 and Oct. 28 discount rate meetings, and said its process for setting the discount rate is distinct from the one the FOMC uses for the federal funds target range. For everyday investors, these minutes concern bank borrowing rates at the discount window, so they are not the document to watch for the policy path.",
+        "Are Treasury yields coming down? Somewhat. FRED shows the 2-year at 4.63% and the 10-year at 4.92% on Nov. 20, down 13 and 12 basis points on the day and the lowest since Nov. 9. For savers and borrowers, yields that remain near 5% on the 10-year mean borrowing costs are still high, so rate-sensitive plans should not assume a quick decline.",
+        "Is Medtronic's report a sign of trouble? Not by its own numbers. Medtronic reported revenue up 4.5% as reported and 6.5% organic, with non-GAAP EPS of $1.34, ahead of its guidance midpoint by 1 cent, and kept its FY27 organic growth guidance of 7.25% to 7.75%. For investors, GAAP EPS of $2.20 includes effects of the MiniMed separation, so the non-GAAP line is the cleaner read of the quarter."
+      ],
+      "body": [
+        "Tuesday's official calendar was light, with company filings supplying most of the substance. Medtronic reported second-quarter fiscal 2027 results for the quarter ended Oct. 30, 2026, with revenue of $9.4 billion, up 4.5% as reported and 6.5% organic. The release shows GAAP diluted EPS of $2.20 and non-GAAP diluted EPS of $1.34. Medtronic completed the separation of its Diabetes business, MiniMed Group, through an exchange offer on Oct. 15, 2026, and reiterated fiscal 2027 guidance of 7.25% to 7.75% organic revenue growth and non-GAAP EPS of $5.94 to $6.00.",
+        "In credit, Freeport-McMoRan filed an 8-K saying PT Freeport Indonesia, a 48.76%-owned subsidiary, completed on Nov. 24 (Indonesia time) its US$750.0 million offering of 6.90% senior notes due 2033. The unit also issued notice to redeem all of its US$750.0 million 4.763% senior notes due 2027 on Dec. 24, 2026, using the offering proceeds and cash on hand. The new notes will be included in Freeport-McMoRan's consolidated debt.",
+        {
+          "h": "Rates and credit"
+        },
+        "The Federal Reserve's own calendar item on Tuesday was the release, at 2:00 p.m. EST, of the minutes of the Board's discount rate meetings on Oct. 19 and Oct. 28. The Board notes that its process for setting the discount rate is distinct from the process the FOMC follows in setting the federal funds rate target range, so the document does not speak to the funds-rate path.",
+        "FRED's latest observations show Treasury yields at their lowest since Nov. 9. The 2-year yield was 4.63% on Nov. 20, from 4.76% the day before, and the 10-year was 4.92%, from 5.04%. The 30-year was 5.31%. The one-day moves in the 2-year (13 basis points) and 10-year (12 basis points) were the largest since Oct. 22. Credit spreads eased on Nov. 23: the ICE BofA high-yield spread was 3.63%, from 3.76% on Nov. 20, and the investment-grade spread was 0.97%, from 0.98%. The gap between the two, at 2.66 points, narrowed from 2.78.",
+        "The Federal Reserve's reverse repurchase facility drew $0.301 billion on Nov. 24, according to FRED, from $0.350 billion on Nov. 23.",
+        {
+          "h": "Abroad"
+        },
+        "The Bank of England announced that the Chancellor has appointed Daniel Pinto, most recently Vice Chairman of JPMorgan Chase, as an external member of the Financial Policy Committee for a three-year term beginning Jan. 4, 2027. He fills the position held by Jonathan Hall, who steps down on Dec. 31, 2026. Separately, ECB Vice-President Boris Vujčić gave a speech on resilience in central and eastern Europe.",
+        "AlphaGen read: Tuesday offered a corporate-heavy tape with official data confined to FRED's latest readings and the Fed's discount window housekeeping. The yield and spread moves are worth following as new releases arrive; for long-term investors, a one-day move is a data point, not a trend."
+      ],
+      "sources": [
+        {
+          "name": "Medtronic Q2 FY27 results, SEC Form 8-K Ex. 99.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001613103/000162828026075604/exhibit991-fy27q2earningsr.htm"
+        },
+        {
+          "name": "Freeport-McMoRan, SEC Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000055/0000831259-26-000055.txt"
+        },
+        {
+          "name": "Federal Reserve Board, discount rate meeting minutes release",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm"
+        },
+        {
+          "name": "FRED, 10-year Treasury constant maturity",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        },
+        {
+          "name": "FRED, 2-year Treasury constant maturity",
+          "url": "https://fred.stlouisfed.org/series/DGS2"
+        },
+        {
+          "name": "FRED, ICE BofA US High Yield OAS",
+          "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+        },
+        {
+          "name": "FRED, ICE BofA US Corporate OAS",
+          "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+        },
+        {
+          "name": "FRED, overnight reverse repurchase agreements",
+          "url": "https://fred.stlouisfed.org/series/RRPONTSYD"
+        },
+        {
+          "name": "Bank of England",
+          "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc"
+        }
+      ],
+      "tickers": [
+        "NYSE:MDT",
+        "NYSE:FCX"
+      ],
+      "checked": "2026-11-24T21:45:15Z"
+    },
     {
       "id": "2026-11-24-fed-officials-inflation-risk-williams-waller",
       "time": "2026-11-24T17:40:08Z",
