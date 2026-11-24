@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-24T13:38:57Z",
+ "updated": "2026-11-24T14:44:58Z",
  "items": [
+  {
+   "id": "2026-11-24-fred-5y-breakeven-nov23-215-from-230",
+   "time": "2026-11-24T14:46:44Z",
+   "tag": "RATES",
+   "headline": "5-year breakeven inflation rate 2.15% on Nov. 23, down 15 bp from Nov. 13",
+   "take": "FRED shows the 5-year breakeven inflation rate at 2.15% on Nov. 23, from 2.18% on Nov. 20 and 2.30% on Nov. 13. That is a 15 bp decline over six trading days and the lowest reading in the Nov. 12-23 window (2.31% on Nov. 12). AlphaGen read: the market-implied inflation compensation embedded in 5-year Treasuries has eased even as the Nov. 25 PCE report approaches.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "checked": "2026-11-24T14:44:44Z"
+  },
+  {
+   "id": "2026-11-24-fred-10y-3m-gap-nov20-60bp-from-83bp",
+   "time": "2026-11-24T14:57:44Z",
+   "tag": "RATES",
+   "headline": "10-year minus 3-month Treasury gap 60 bp on Nov. 20, from 83 bp on Nov. 13",
+   "take": "FRED shows the 10-year Treasury yield at 4.92% and the 3-month yield at 4.32% on Nov. 20, a 60 bp gap, versus 70 bp on Nov. 19 and 83 bp on Nov. 13 (5.15% and 4.32%). The 3-month yield was unchanged at 4.32% across Nov. 13 and Nov. 20, so the narrowing came entirely from the 10-year. AlphaGen read: the front end held still while long-end yields did the moving.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-24T14:44:44Z"
+  },
+  {
+   "id": "2026-11-24-fred-yuan-nov20-6p6770-top-of-range",
+   "time": "2026-11-24T15:08:44Z",
+   "tag": "FX",
+   "headline": "Yuan at 6.6770 per dollar on Nov. 20, above its Nov. 3-19 range of 6.6642-6.6760",
+   "take": "FRED shows the yuan at 6.6770 per dollar on Nov. 20, up from 6.6665 on Nov. 19. Between Nov. 3 and Nov. 19 the series ranged from 6.6642 (Nov. 16) to 6.6760 (Nov. 6), so the Nov. 20 reading is the weakest yuan print in that window. AlphaGen read: the one-day move is about 0.16%, small in absolute terms.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DEXCHUS",
+   "checked": "2026-11-24T14:44:44Z"
+  },
+  {
+   "id": "2026-11-24-fred-gbpusd-nov20-1p3104-from-1p3420-nov9",
+   "time": "2026-11-24T15:19:44Z",
+   "tag": "FX",
+   "headline": "GBP/USD at 1.3104 on Nov. 20, 3.16 cents below its Nov. 9 reading of 1.3420",
+   "take": "FRED shows the dollar price of the pound at 1.3104 on Nov. 20, down from 1.3212 on Nov. 13 and 1.3420 on Nov. 9. Of the eight daily changes since Nov. 9, seven were declines; the only gain came on Nov. 17 (1.3217). AlphaGen read: a steady decline over two weeks, with no single-day break.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
+   "checked": "2026-11-24T14:44:44Z"
+  },
+  {
+   "id": "2026-11-24-fred-maize-sep-236p92-up-20p8pct",
+   "time": "2026-11-24T15:30:44Z",
+   "tag": "COMMODITIES",
+   "headline": "Global maize price $236.92 a tonne in September, up 20.8% from a year earlier",
+   "take": "FRED's IMF-sourced global price of maize averaged $236.92 per tonne in September 2026, versus $221.30 in August and $196.15 in September 2025. That is up 7.1% on the month and 20.8% on the year by AlphaGen's calculation. AlphaGen read: the series has risen in each of July, August and September ($213.19 in July).",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (IMF global price of maize)",
+   "source_url": "https://fred.stlouisfed.org/series/PMAIZMTUSDM",
+   "checked": "2026-11-24T14:44:44Z"
+  },
   {
    "id": "2026-11-24-adi-q4-fy26-revenue-4p37b-vs-3p08b",
    "time": "2026-11-24T13:38:57Z",
@@ -5051,61 +5101,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122.txt",
    "ticker": "NYSE:LOW",
    "checked": "2026-11-18T03:38:58Z"
-  },
-  {
-   "id": "2026-11-18-asts-firefly-10m-shares",
-   "time": "2026-11-18T04:07:00Z",
-   "tag": "EQUITIES",
-   "headline": "AST SpaceMobile files supplement for 10M shares issued to Firefly under license",
-   "take": "AST SpaceMobile filed a Nov. 17 prospectus supplement covering 10,000,000 Class A shares it issued to Firefly Aerospace under an Intellectual Property License Agreement dated Nov. 6, 2026. The 8-K attaches a Freshfields US LLP legal opinion on the shares. AlphaGen read: the filing discloses the share count but not a dollar value for the license.",
-   "source_name": "AST SpaceMobile Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226052865/0001493152-26-052865.txt",
-   "ticker": "NASDAQ:ASTS",
-   "checked": "2026-11-18T03:38:58Z"
-  },
-  {
-   "id": "2026-11-18-bsx-2027-bonus-psp-plans",
-   "time": "2026-11-18T04:15:00Z",
-   "tag": "EQUITIES",
-   "headline": "Boston Scientific board approves 2027 bonus plan and two performance share programs",
-   "take": "Boston Scientific's board approved on Nov. 17 a 2027 Annual Bonus Plan for the Jan. 1 to Dec. 31, 2027 performance year, with a company-wide distribution percentage of 0% to 150% based on global sales and adjusted EPS goals. Individual payouts can range from 0% to 225% of target, consistent with prior years, and the board also adopted 2027 relative-TSR and organic net sales growth performance share programs. AlphaGen read: the filing describes both as substantially similar to the 2026 versions.",
-   "source_name": "Boston Scientific Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000073/0000885725-26-000073.txt",
-   "ticker": "NYSE:BSX",
-   "checked": "2026-11-18T03:38:58Z"
-  },
-  {
-   "id": "2026-11-18-o-abraham-cso-transition",
-   "time": "2026-11-18T04:23:00Z",
-   "tag": "EQUITIES",
-   "headline": "Realty Income's Chief Strategy Officer Neil Abraham to leave; role runs through Dec. 31",
-   "take": "Realty Income said Executive Vice President, Chief Strategy Officer and President of Realty Income International Neil Abraham will leave the company. He stays in his role through Dec. 31, 2026, and the company intends to enter a consulting agreement with him through March 31, 2027. AlphaGen read: the release names no successor.",
-   "source_name": "Realty Income Form 8-K, Exhibit 99.1",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/tm2630077d1_ex99-1.htm",
-   "ticker": "NYSE:O",
-   "checked": "2026-11-18T03:38:58Z"
-  },
-  {
-   "id": "2026-11-18-nvda-q3-fy27-revenue-115p8b",
-   "time": "2026-11-18T02:40:00Z",
-   "tag": "EARNINGS",
-   "headline": "NVIDIA Q3 revenue $115.8B, up 103% on the year; Data Center $107.6B",
-   "take": "NVIDIA reported fiscal Q3 2027 (ended Oct. 25) revenue of $115.8 billion, up 20% from the prior quarter and 103% from a year earlier. Data Center revenue was $107.6 billion, up 110% on the year, and GAAP diluted EPS was $2.70 versus $1.30 a year ago. AlphaGen read: Data Center is now about 93% of total revenue, so company-wide growth tracks that one segment.",
-   "source_name": "NVIDIA Form 8-K, Exhibit 99.1",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
-   "ticker": "NASDAQ:NVDA",
-   "checked": "2026-11-18T02:38:56Z"
-  },
-  {
-   "id": "2026-11-18-nvda-q4-outlook-130b",
-   "time": "2026-11-18T02:48:00Z",
-   "tag": "EARNINGS",
-   "headline": "NVIDIA guides Q4 revenue to $130.0B, plus or minus 3%, with no China Data Center compute",
-   "take": "NVIDIA's outlook for fiscal Q4 2027, which includes an additional week, calls for revenue of $130.0 billion, plus or minus 3%, and GAAP and non-GAAP gross margins of 71.0% to 72.0%. The company said it assumes no Data Center compute revenue from China. AlphaGen read: the guided midpoint is about 12% above Q3's $115.8 billion, and the extra week is part of that comparison.",
-   "source_name": "NVIDIA Form 8-K, Exhibit 99.1",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
-   "ticker": "NASDAQ:NVDA",
-   "checked": "2026-11-18T02:38:56Z"
   }
  ]
 }

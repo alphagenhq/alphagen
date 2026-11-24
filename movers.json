@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-23T14:39:39Z",
+ "updated": "2026-11-24T14:44:58Z",
  "items": [
   {
-   "id": "2026-11-23-CRWD",
-   "time": "2026-11-23T14:39:39Z",
+   "id": "2026-11-24-CRWD",
+   "time": "2026-11-24T14:44:58Z",
    "ticker": "CRWD",
    "name": "CrowdStrike",
-   "headline": "Agrees to acquire Zscaler and reports Q3 FY2027 results",
-   "catalyst": "Q3 FY2027 results and Zscaler acquisition announcement (Nov. 23).",
-   "thesis": "CrowdStrike reported Q3 FY2027 revenue of $1.58 billion and ending ARR of $6.26 billion, and announced an all-stock agreement to acquire Zscaler at approximately $43.9 billion. The company also raised its fiscal 2027 guidance.",
+   "headline": "Acquirer in all-stock Zscaler deal; Q3 net new ARR a record $419M",
+   "catalyst": "Nov. 23 agreement to acquire Zscaler and Q3 FY2027 results.",
+   "thesis": "CrowdStrike agreed to acquire Zscaler in an all-stock transaction valuing it at about $43.9 billion, with Zscaler holders receiving 1.135 CrowdStrike shares per share. Alongside, it reported ending ARR of $6.26 billion, up 27%, and net new ARR of $419 million, which it called an all-time record. The deal is expected to close in the second half of CrowdStrike's fiscal 2028.",
    "source_name": "CrowdStrike and Zscaler joint press release (SEC 8-K Exhibit 99.1)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
-   "checked": "2026-11-23T14:39:39Z"
+   "checked": "2026-11-24T14:44:58Z"
   },
   {
-   "id": "2026-11-23-ZS",
-   "time": "2026-11-23T14:39:39Z",
+   "id": "2026-11-24-ZS",
+   "time": "2026-11-24T14:44:58Z",
    "ticker": "ZS",
    "name": "Zscaler",
-   "headline": "Agrees to be acquired by CrowdStrike at 1.135 shares per share",
-   "catalyst": "Definitive agreement with CrowdStrike (Nov. 23).",
-   "thesis": "Zscaler holders would receive 1.135 CrowdStrike shares per share, an implied value of about $260.41 per share and a premium of approximately 34% based on Nov. 20 closing prices as stated in the release. Closing is subject to Zscaler shareholder and regulatory approvals.",
+   "headline": "Agrees to be acquired by CrowdStrike in all-stock deal",
+   "catalyst": "Nov. 23 definitive agreement with CrowdStrike.",
+   "thesis": "Zscaler shareholders will receive 1.135 shares of CrowdStrike common stock for each Zscaler share, valuing Zscaler at approximately $43.9 billion. Jay Chaudhry and his affiliates, representing about 34% of Zscaler's outstanding shares, signed voting agreements in support, and closing remains subject to Zscaler shareholder and regulatory approvals.",
    "source_name": "CrowdStrike and Zscaler joint press release (SEC 8-K Exhibit 99.1)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
-   "checked": "2026-11-23T14:39:39Z"
+   "checked": "2026-11-24T14:44:58Z"
   },
   {
-   "id": "2026-11-23-DASH",
-   "time": "2026-11-23T14:39:39Z",
+   "id": "2026-11-24-DASH",
+   "time": "2026-11-24T14:44:58Z",
    "ticker": "DASH",
    "name": "DoorDash",
-   "headline": "Adds $1.792B term loan and upsizes revolver to $3.5B for Instacart deal",
-   "catalyst": "Form 8-K, Items 1.01/2.03/8.01 (Nov. 23).",
-   "thesis": "DoorDash raised its revolving commitments by $1.5 billion to $3.5 billion and entered a $1.792 billion delayed draw term loan tied to its pending Maplebear (Instacart) acquisition. It also reduced its bridge commitments from $13.0 billion to $11.208 billion.",
-   "source_name": "DoorDash, Inc. Form 8-K (SEC EDGAR)",
+   "headline": "Upsizes revolver and adds $1.792B term loan tied to Instacart purchase",
+   "catalyst": "Nov. 23 8-K (Items 1.01, 8.01) on credit facilities for the pending Instacart acquisition.",
+   "thesis": "DoorDash raised its senior unsecured revolving commitments by $1.5 billion to $3.5 billion and entered a $1.792 billion delayed draw term loan in connection with its pending acquisition of Maplebear Inc. (Instacart). The term loan agreement allows commitments to rise to as much as $2.0 billion.",
+   "source_name": "DoorDash (SEC 8-K)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126045152/0001140361-26-045152.txt",
-   "checked": "2026-11-23T14:39:39Z"
+   "checked": "2026-11-24T14:44:58Z"
   }
  ]
 }
