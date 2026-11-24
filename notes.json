@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-23T21:40:05Z",
+ "updated": "2026-11-24T12:44:53Z",
  "items": [
+  {
+   "id": "2026-11-24-morning-brief",
+   "time": "2026-11-24T12:44:53Z",
+   "tag": "MACRO",
+   "series": "morning-brief",
+   "title": "Morning Brief: Yields slide on real-rate moves as GDP, PCE and the Beige Book near",
+   "dek": "FRED shows the 10-year Treasury yield at 4.92% on Nov. 20, with most of the week's drop in the real component; GDP and PCE arrive Nov. 25.",
+   "key_points": [
+    "Scheduled today: Federal Reserve Industrial Production annual revision at 12:00 p.m. ET, per AlphaGen's calendar of agency schedules.",
+    "FRED, Nov. 20: 2-year Treasury 4.63%, 10-year 4.92%, 30-year 5.31%; the 10-year was 5.12% on Nov. 16.",
+    "Nov. 16-20: the 10-year real yield fell 15 bp to 2.77% and breakeven inflation fell 5 bp to 2.15%, per FRED.",
+    "FRED: ICE BofA high-yield option-adjusted spread 3.76% on Nov. 20, up from 3.23% on Nov. 13; Freddie Mac 30-year mortgage rate 7.28% for the week of Nov. 19.",
+    "Tomorrow, Nov. 25 at 8:30 a.m. ET: GDP second estimate, October personal income and outlays including PCE, and durable goods; new home sales at 10:00 a.m. and the Beige Book at 2:00 p.m."
+   ],
+   "talking_points": [
+    "Are interest rates coming down? Somewhat. FRED shows the 10-year Treasury yield at 4.92% on Nov. 20, down from 5.12% on Nov. 16, and the 2-year at 4.63%. Still, Freddie Mac's 30-year mortgage rate was 7.28% for the week of Nov. 19, up from 7.11%. If you are borrowing or saving, compare offers instead of assuming a steady downtrend.",
+    "Is inflation the reason yields moved? Not mostly. Of the 20 bp drop in the 10-year yield from Nov. 16 to Nov. 20, the real yield accounted for 15 bp and the breakeven inflation rate for 5 bp, per FRED. That points to changing real borrowing costs more than shifting inflation expectations. For everyday investors, bond prices respond to both, so one week is a small sample.",
+    "Is the job market weakening? Not on October's report. BLS says payrolls rose 165,000 and the unemployment rate was 4.1%, within a 4.1% to 4.3% range since March. Average hourly earnings rose 0.4% to $38.00, up 3.1% over 12 months. Another jobs report arrives Dec. 4, so use it, not one month, to judge the trend."
+   ],
+   "body": [
+    "The U.S. data calendar is light today. AlphaGen's calendar, built from agency schedules, lists the Federal Reserve's Industrial Production annual revision at 12:00 p.m. ET. The heavier set comes Nov. 25: BEA's GDP second estimate and October personal income and outlays including PCE, and Census durable goods at 8:30 a.m. ET, new home sales at 10:00 a.m., and the Federal Reserve's Beige Book at 2:00 p.m.",
+    {
+     "h": "Rates: a falling 10-year, mostly in the real component"
+    },
+    "The latest FRED observations show Treasury yields lower at the end of last week. On Nov. 20 the 2-year yield was 4.63%, the 10-year 4.92% and the 30-year 5.31%, versus 4.88%, 5.15% and 5.47% on Nov. 13. From Nov. 16 to Nov. 20 the 10-year fell 20 bp, from 5.12% to 4.92%; the real yield fell from 2.92% to 2.77% and the breakeven rate from 2.20% to 2.15%. The 10-year breakeven was 2.13% on Nov. 23.",
+    "The curve shows a few details. The 10-year minus 2-year spread was 0.29 point on Nov. 23, the same as Nov. 20. The 2-year yield stood 0.71 point above SOFR (3.92%) on Nov. 20, narrower than 0.98 point on Nov. 13, and the 30-year was 0.39 point above the 10-year, up from 0.32 point.",
+    {
+     "h": "Credit, housing and oil"
+    },
+    "The ICE BofA high-yield option-adjusted spread widened to 3.76% on Nov. 20 from 3.23% on Nov. 13, while the investment-grade spread was 0.98%, up from 0.89%. Freddie Mac's 30-year fixed mortgage rate was 7.28% for the week of Nov. 19, up from 7.11% the previous week. Brent crude was $92.94 a barrel on Nov. 17, versus $90.16 on Nov. 10, and WTI was $89.53, versus $89.62.",
+    {
+     "h": "Labor and inflation backdrop"
+    },
+    "BLS's October Employment Situation showed payrolls up 165,000 and an unemployment rate of 4.1%, with average hourly earnings up 0.4% to $38.00 and 3.1% above a year earlier. BLS's October CPI release showed core prices (all items less food and energy) up 0.3%, the same pace as September and August. The November reports are due Dec. 4 for jobs and Dec. 10 for CPI."
+   ],
+   "sources": [
+    {
+     "name": "FRED, 10-year real yield",
+     "url": "https://fred.stlouisfed.org/series/DFII10"
+    },
+    {
+     "name": "FRED, 10-year breakeven",
+     "url": "https://fred.stlouisfed.org/series/T10YIE"
+    },
+    {
+     "name": "FRED, 2-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS2"
+    },
+    {
+     "name": "FRED, 10-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS10"
+    },
+    {
+     "name": "FRED, 30-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS30"
+    },
+    {
+     "name": "FRED, SOFR",
+     "url": "https://fred.stlouisfed.org/series/SOFR"
+    },
+    {
+     "name": "FRED, high-yield spread",
+     "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+    },
+    {
+     "name": "FRED, investment-grade spread",
+     "url": "https://fred.stlouisfed.org/series/BAMLC0A0CM"
+    },
+    {
+     "name": "FRED, 30-year fixed mortgage rate (Freddie Mac)",
+     "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+    },
+    {
+     "name": "FRED, Brent crude",
+     "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU"
+    },
+    {
+     "name": "BLS, Employment Situation",
+     "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+     "name": "BLS, Consumer Price Index",
+     "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    }
+   ],
+   "checked": "2026-11-24T12:44:53Z"
+  },
   {
    "id": "2026-11-23-the-close",
    "time": "2026-11-23T21:40:05Z",

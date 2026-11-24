@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T12:40:23Z",
+ "updated": "2026-11-24T12:44:53Z",
  "items": [
+  {
+   "id": "2026-11-24-real-yield-breakeven",
+   "time": "2026-11-24T12:44:53Z",
+   "title": "10-year real yield 2.77% and breakeven 2.15% on Nov. 20 (breakeven 2.13% on Nov. 23)",
+   "subtitle": "10-year TIPS real yield and 10-year breakeven inflation rate, daily",
+   "series": [
+    {
+     "id": "DFII10",
+     "label": "10-year real yield",
+     "t": "lvl"
+    },
+    {
+     "id": "T10YIE",
+     "label": "10-year breakeven",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "percent",
+   "take": "FRED shows the 10-year real yield at 2.77% on Nov. 20, down from 2.92% on Nov. 16, and the 10-year breakeven inflation rate at 2.15% on Nov. 20 and 2.13% on Nov. 23, versus 2.20% on Nov. 16. The two components together make up the nominal 10-year yield, which was 4.92% on Nov. 20. AlphaGen read: over Nov. 16-20 the decline was mostly in the real component.",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DFII10",
+   "checked": "2026-11-24T12:44:53Z"
+  },
   {
    "id": "2026-11-23-euro-vs-broad-dollar",
    "time": "2026-11-23T12:40:23Z",
