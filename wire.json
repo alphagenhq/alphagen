@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-24T21:45:15Z",
+  "updated": "2026-11-24T22:46:00Z",
   "items": [
+    {
+      "id": "2026-11-24-fed-h10-won-nov20-1342p41-from-1332p44",
+      "time": "2026-11-24T22:40:00Z",
+      "tag": "FX",
+      "headline": "Fed H.10: South Korean won at 1,342.41 per dollar on Nov. 20, up from 1,332.44",
+      "take": "The Federal Reserve's H.10 release lists 1,342.41 South Korean won per U.S. dollar for Nov. 20, versus 1,332.44 on Nov. 19, a rise of 9.97 won. The five rates published for Nov. 16-20 were 1,335.53, 1,334.71, 1,332.32, 1,332.44 and 1,342.41. AlphaGen read: Nov. 20 was the highest of those five readings, with more than half of the week's range covered in one day.",
+      "source_name": "Federal Reserve Board, H.10 Foreign Exchange Rates",
+      "source_url": "https://www.federalreserve.gov/releases/h10/hist/dat00_ko.htm",
+      "checked": "2026-11-24T22:46:00Z"
+    },
+    {
+      "id": "2026-11-24-fed-h15-5s30s-nov20-60bp-from-53bp-nov16",
+      "time": "2026-11-24T22:55:00Z",
+      "tag": "RATES",
+      "headline": "Fed H.15: 5-year to 30-year Treasury gap was 60 bp on Nov. 20, up from 53 bp on Nov. 16",
+      "take": "The Fed's H.15 release shows the 5-year Treasury yield at 4.71% and the 30-year at 5.31% on Nov. 20, a gap of 60 basis points. On Nov. 16 they were 4.93% and 5.46%, a gap of 53 bp, and on Nov. 19 they were 4.86% and 5.40%, a gap of 54 bp. AlphaGen read: the 5-year yield fell 22 bp over the period against 15 bp for the 30-year, so the long end fell less than the middle of the curve.",
+      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "checked": "2026-11-24T22:46:00Z"
+    },
+    {
+      "id": "2026-11-24-fed-h15-2y-effr-gap-nov20-75bp-from-95bp",
+      "time": "2026-11-24T23:10:00Z",
+      "tag": "FED",
+      "headline": "Fed H.15: 2-year Treasury yield 75 bp above effective fed funds on Nov. 20, vs 95 bp Nov. 16",
+      "take": "The Fed's H.15 release shows the effective federal funds rate at 3.88% on each day from Nov. 16 to Nov. 20, while the 2-year Treasury yield fell from 4.83% to 4.63%. The gap between them narrowed from 95 basis points to 75 bp. AlphaGen read: with the overnight rate unchanged, the whole move in the gap came from the 2-year yield.",
+      "source_name": "Federal Reserve Board, H.15 Selected Interest Rates",
+      "source_url": "https://www.federalreserve.gov/releases/h15/",
+      "checked": "2026-11-24T22:46:00Z"
+    },
+    {
+      "id": "2026-11-23-cftc-event-contracts-guidebook-part-16-trader-identifying-info",
+      "time": "2026-11-24T23:25:00Z",
+      "tag": "COMMODITIES",
+      "headline": "CFTC publishes guidebook for event-contract data under new Section 16.03",
+      "take": "With its Nov. 23 final rule on certain event contracts, the CFTC said its Division of Data is publishing a guidebook under Section 16.02 on the content, timing, and form and manner for designated contract markets to submit trader-identifying information, including information required under Section 16.03(g). The guidebook also covers how to submit information on the settlement of covered event contracts required by Section 16.03(b)(2). AlphaGen read: the guidebook sets the filing mechanics that the rule's compliance dates will apply to.",
+      "source_name": "CFTC, Release 9330-26",
+      "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
+      "checked": "2026-11-24T22:46:00Z"
+    },
     {
       "id": "2026-11-24-fred-yields-nov20-lowest-since-nov9",
       "time": "2026-11-24T21:47:15Z",
@@ -5057,46 +5097,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
       "checked": "2026-11-18T18:39:07Z"
-    },
-    {
-      "id": "2026-11-18-ecb-fsr-nonbank-vulnerabilities",
-      "time": "2026-11-18T17:49:00Z",
-      "tag": "GLOBAL",
-      "headline": "ECB: risks elevated; non-bank vulnerabilities more pronounced, safeguards less developed",
-      "take": "In the Nov. 18 Financial Stability Review release, Vice-President Boris Vujčić said risks to euro area financial stability \"remain elevated, given persistent geoeconomic uncertainty and growing exposure to AI.\" He said banks are \"well placed to withstand shocks, while vulnerabilities are more pronounced in certain non-banks where risks are growing and macroprudential safeguards are less developed.\" AlphaGen read: the ECB is drawing a line between a bank sector it calls resilient and non-bank pockets where it sees thinner safeguards.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-      "checked": "2026-11-18T17:44:00Z"
-    },
-    {
-      "id": "2026-11-18-bls-oct-cpi-oer-rent-lodging",
-      "time": "2026-11-18T17:57:00Z",
-      "tag": "MACRO",
-      "headline": "October CPI: owners' equivalent rent +0.3%, rent +0.2%, lodging away from home +0.6%",
-      "take": "BLS's October CPI, released Nov. 10, shows shelter rose 0.3 percent, accounting for over thirty percent of the monthly all-items increase. Within it, owners' equivalent rent rose 0.3 percent, rent increased 0.2 percent, and lodging away from home rose 0.6 percent after a 2.0 percent rise in September. AlphaGen read: rent and owners' equivalent rent moved in a narrow range, so the lodging swing was the more volatile part of shelter.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-18T17:44:00Z"
-    },
-    {
-      "id": "2026-11-18-ecb-fsr-energy-shock-resilience",
-      "time": "2026-11-18T18:05:00Z",
-      "tag": "GLOBAL",
-      "headline": "ECB: euro area resilient despite energy shock; prolonged supply disruption could test it",
-      "take": "The ECB's Nov. 18 Financial Stability Review release says the euro area economy has continued to demonstrate resilience despite an energy shock, trade frictions and extreme weather events. It adds that prolonged energy supply disruptions and persistent trade policy uncertainty could test that resilience, and that higher energy prices and weaker economic conditions could make it harder for households and firms to repay debts. AlphaGen read: the ECB ties the energy backdrop directly to loan repayment risk, even while saying bank asset quality remains sound.",
-      "source_name": "ECB",
-      "source_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-      "checked": "2026-11-18T17:44:00Z"
-    },
-    {
-      "id": "2026-11-18-bls-oct-cpi-snacks-beef-beverages",
-      "time": "2026-11-18T18:13:00Z",
-      "tag": "MACRO",
-      "headline": "October CPI: snacks +1.0%, beef +0.9%; nonalcoholic beverages -0.3% after +0.9%",
-      "take": "BLS's October CPI, released Nov. 10, shows the food index rose 0.5 percent after being unchanged in September, with food at home up 0.4 percent. Other food at home rose 0.7 percent as snacks rose 1.0 percent, and the beef index rose 0.9 percent. Nonalcoholic beverages fell 0.3 percent after rising 0.9 percent in September, and cereals and bakery products were unchanged. AlphaGen read: the grocery increase was concentrated in a few groups rather than broad.",
-      "source_name": "BLS",
-      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "checked": "2026-11-18T17:44:00Z"
     }
   ]
 }
