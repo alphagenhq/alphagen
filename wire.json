@@ -1,6 +1,67 @@
 {
- "updated": "2026-11-24T19:45:06Z",
+ "updated": "2026-11-24T20:39:05Z",
  "items": [
+  {
+   "id": "2026-11-24-fcx-ptfi-completes-6p90-notes-redeems-4p763-2027",
+   "time": "2026-11-24T20:41:05Z",
+   "tag": "DEBT",
+   "headline": "Freeport unit completes $750M 6.90% notes, will redeem $750M 4.763% 2027 notes",
+   "take": "Freeport-McMoRan's 8-K says PT Freeport Indonesia, a 48.76%-owned subsidiary, announced completion on Nov. 24, 2026 (Indonesia time) of its US$750.0 million offering of 6.90% senior notes due 2033. PTFI also issued notice to redeem all of its US$750.0 million 4.763% Senior Notes due 2027 on Dec. 24, 2026, funded by the offering proceeds and cash on hand. AlphaGen read: the filing describes a refinancing of equal principal at a stated coupon 2.137 points higher.",
+   "source_name": "Freeport-McMoRan Inc., Form 8-K (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000055/0000831259-26-000055.txt",
+   "ticker": "NYSE:FCX",
+   "checked": "2026-11-24T20:39:05Z"
+  },
+  {
+   "id": "2026-11-24-fed-discount-rate-minutes-oct19-oct28",
+   "time": "2026-11-24T20:49:05Z",
+   "tag": "FED",
+   "headline": "Fed releases discount-rate meeting minutes for Oct. 19 and Oct. 28",
+   "take": "The Federal Reserve Board on Nov. 24, 2026 released at 2:00 p.m. EST the minutes of its meetings on Oct. 19 and Oct. 28 to review and determine discount rates on credit provided to depository institutions through the discount window. The Board says its process for setting the discount rate is distinct from the process the FOMC follows in setting the federal funds rate target range. AlphaGen read: these minutes are a separate record from the FOMC minutes, so they are not a guide to the funds-rate path.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "checked": "2026-11-24T20:39:05Z"
+  },
+  {
+   "id": "2026-11-24-fred-rrp-nov24-0p301b-from-0p350b",
+   "time": "2026-11-24T20:57:05Z",
+   "tag": "FED",
+   "headline": "Overnight reverse repo take-up $0.301B on Nov. 24, down from $0.350B",
+   "take": "FRED shows overnight reverse repurchase agreement take-up (RRPONTSYD) at $0.301 billion on Nov. 24, versus $0.350 billion on Nov. 23 (-$0.049 billion) and $0.405 billion on Nov. 19. It is the lowest of the six daily readings from Nov. 17 to Nov. 24. AlphaGen read: the facility remains a sub-$1 billion footnote to funding markets.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+   "checked": "2026-11-24T20:39:05Z"
+  },
+  {
+   "id": "2026-11-24-boe-pinto-fpc-external-member-jan-2027",
+   "time": "2026-11-24T21:05:05Z",
+   "tag": "GLOBAL",
+   "headline": "Bank of England: Daniel Pinto appointed external FPC member from Jan. 4, 2027",
+   "take": "The Chancellor of the Exchequer has appointed Daniel E. Pinto, most recently Vice Chairman of JPMorgan Chase, as an external member of the Financial Policy Committee for a 3-year term beginning Jan. 4, 2027. He fills the seat of Jonathan Hall, who steps down on Dec. 31, 2026, and the appointment is subject to Treasury Select Committee scrutiny on Dec. 15, 2026. AlphaGen read: the FPC has thirteen members, five of them external.",
+   "source_name": "Bank of England",
+   "source_url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+   "checked": "2026-11-24T20:39:05Z"
+  },
+  {
+   "id": "2026-11-24-ecb-vujcic-resilience-cee-four-dimensions",
+   "time": "2026-11-24T21:13:05Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Vujčić: resilience rests on monetary, fiscal, financial, structural buffers",
+   "take": "In a Nov. 24 speech in Vienna, ECB Vice-President Boris Vujčić said incomes in central and eastern Europe have more than doubled since the mid-1990s and set out four dimensions of resilience: monetary, fiscal, financial and structural. He said price stability is itself a source of resilience, since anchored inflation expectations make a supply shock less likely to turn into persistent inflation. AlphaGen read: he cites Croatia's euro adoption as removing a source of foreign-currency risk, while saying euro membership does not fully insulate countries from shocks.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+   "checked": "2026-11-24T20:39:05Z"
+  },
+  {
+   "id": "2026-11-24-ecb-vujcic-cee-banks-npls-deficits",
+   "time": "2026-11-24T21:21:05Z",
+   "tag": "CREDIT",
+   "headline": "ECB's Vujčić: CEE banks well capitalised, bad loans near historical lows",
+   "take": "Vujčić said banks in central and eastern Europe are generally well capitalised and profitable, with non-performing loans close to historical lows in most countries. He also noted that budget deficits have increased across much of the region, citing higher social and investment spending, public wage bills, interest costs and defence spending. AlphaGen read: he flagged that geopolitical tensions and energy prices could weigh on firms' debt servicing, with effects on bank asset quality emerging only gradually.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+   "checked": "2026-11-24T20:39:05Z"
+  },
   {
    "id": "2026-11-24-fed-h15-5y-treasury-nov20-4p71-down-22bp",
    "time": "2026-11-24T19:55:06Z",
@@ -5036,67 +5097,6 @@
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
    "time": "2026-11-18T17:00:29Z",
    "checked": "2026-11-18T16:43:29Z"
-  },
-  {
-   "id": "2026-11-18-eia-other-category-survey-timing-errors",
-   "tag": "MACRO",
-   "headline": "EIA lists sources of energy data mismatches: timing, reporting practices, estimation errors",
-   "take": "EIA says the \"other\" part of its supply-demand reconciliation covers differences in respondent accounting and reporting practices, timing between energy activity and reporting periods, measurement and estimation errors, limits in survey coverage, energy lost in transfers or storage, and unreported activities. EIA says these series are standard statistical accounting and not a flaw in the underlying data. AlphaGen read: users of EIA balances should expect small unexplained residuals.",
-   "source_name": "EIA, Today in Energy (Nov. 17, 2026)",
-   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
-   "time": "2026-11-18T17:12:29Z",
-   "checked": "2026-11-18T16:43:29Z"
-  },
-  {
-   "id": "2026-11-18-eia-petroleum-gas-coal-adjustment-series",
-   "tag": "COMMODITIES",
-   "headline": "EIA: petroleum, gas and coal each use their own balancing series",
-   "take": "EIA says petroleum and biofuels use an adjustments series because survey responses may not match actual activity, natural gas uses a balancing item (including gas lost to the atmosphere and conversion differences), and coal uses a losses and unaccounted for series. EIA also says that in 2009, because of incomplete data coverage and different source data, biofuels have a small balancing item. AlphaGen read: each fuel's residual has a different cause, so they are not interchangeable.",
-   "source_name": "EIA, Today in Energy (Nov. 17, 2026)",
-   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
-   "time": "2026-11-18T17:24:29Z",
-   "checked": "2026-11-18T16:43:29Z"
-  },
-  {
-   "id": "2026-11-18-mcd-8k-legal-matters-exhibit",
-   "tag": "EQUITIES",
-   "headline": "McDonald's 8-K exhibit: in-house counsel to pass on validity of its securities",
-   "take": "McDonald's filed a Form 8-K (Item 8.01) on Nov. 17 with an exhibit headed \"Legal Matters.\" It says Jeffrey J. Pochowicz, Vice President, Associate General Counsel and Corporate Secretary, will pass upon the validity of the securities the company offers, unless a prospectus supplement, pricing supplement or incorporated document says otherwise, and that he is a full-time employee who owns, and has the right to acquire, McDonald's common stock. AlphaGen read: the exhibit does not state the size or terms of any offering.",
-   "source_name": "SEC EDGAR, McDonald's Form 8-K (Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/63908/000110465926129050/tm2630018d1_ex99-1.htm",
-   "ticker": "NYSE:MCD",
-   "time": "2026-11-18T15:44:12Z",
-   "checked": "2026-11-18T15:39:12Z"
-  },
-  {
-   "id": "2026-11-18-census-oct-housing-starts-1309k",
-   "tag": "HOUSING",
-   "headline": "Housing starts rose 9.9% in October to a 1.309M annual rate",
-   "take": "Census and HUD reported privately-owned housing starts of 1,309,000 at a seasonally adjusted annual rate in October, up 9.9% from the revised September rate of 1,191,000 and 2.8% above October 2025's 1,273,000. Census notes neither change is statistically significant, because the 90% confidence intervals include zero. AlphaGen read: the monthly jump is large, but the release itself says it cannot be distinguished from noise.",
-   "source_name": "Census Bureau and HUD, New Residential Construction, October 2026",
-   "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst_202610.pdf",
-   "time": "2026-11-18T14:46:24Z",
-   "checked": "2026-11-18T14:44:24Z"
-  },
-  {
-   "id": "2026-11-18-census-oct-permits-1295k-down-7p4",
-   "tag": "HOUSING",
-   "headline": "Building permits fell 7.4% in October to 1.295M; single-family permits 772,000",
-   "take": "Building permits were issued at a seasonally adjusted annual rate of 1,295,000 in October, down 7.4% from the revised September rate of 1,398,000 and 8.7% below October 2025's 1,418,000. Single-family permits were 772,000, down 8.7% from September's revised 846,000. AlphaGen read: permits, which lead starts, moved opposite to starts this month.",
-   "source_name": "Census Bureau and HUD, New Residential Construction, October 2026",
-   "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst_202610.pdf",
-   "time": "2026-11-18T14:57:24Z",
-   "checked": "2026-11-18T14:44:24Z"
-  },
-  {
-   "id": "2026-11-18-census-oct-single-family-starts-864k",
-   "tag": "HOUSING",
-   "headline": "Single-family starts 864,000 in October, up 4.0% from September",
-   "take": "Single-family housing starts were 864,000 at a seasonally adjusted annual rate in October, up 4.0% from the revised September figure of 831,000, per Census and HUD. The release's Table 3a shows a 3.2% decline from October 2025. AlphaGen read: single-family starts rose on the month but remain below a year ago.",
-   "source_name": "Census Bureau and HUD, New Residential Construction, October 2026",
-   "source_url": "https://www.census.gov/construction/nrc/pdf/newresconst_202610.pdf",
-   "time": "2026-11-18T15:08:24Z",
-   "checked": "2026-11-18T14:44:24Z"
   }
  ]
 }
