@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-24T14:44:58Z",
+ "updated": "2026-11-24T15:44:03Z",
  "items": [
+  {
+   "id": "2026-11-24-fred-10y-breakeven-nov23-213-lowest-since-nov16",
+   "time": "2026-11-24T16:17:00Z",
+   "tag": "RATES",
+   "headline": "10-year breakeven inflation rate 2.13% on Nov. 23, down 7 bp from Nov. 16",
+   "take": "FRED shows the 10-year breakeven inflation rate at 2.13% on Nov. 23, from 2.15% on Nov. 20 and 2.20% on Nov. 16. It is the lowest of the six readings from Nov. 16 to Nov. 23 (high 2.21% on Nov. 17). AlphaGen read: market-implied inflation compensation over ten years has edged lower into the Nov. 25 PCE release.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+   "checked": "2026-11-24T15:44:03Z"
+  },
+  {
+   "id": "2026-11-24-fred-fed-funds-eff-388-nov20-target-375-400",
+   "time": "2026-11-24T16:08:00Z",
+   "tag": "FED",
+   "headline": "Effective fed funds rate 3.88% on Nov. 20 within the 3.75%-4.00% target range",
+   "take": "FRED shows the effective federal funds rate at 3.88% on each day from Nov. 13 to Nov. 20, while the target range stood at 3.75% to 4.00% through Nov. 24. That puts the effective rate 13 bp above the bottom of the range and 12 bp below the top. AlphaGen read: policy rate settings have been steady through the recent decline in Treasury yields.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DFF",
+   "checked": "2026-11-24T15:44:03Z"
+  },
+  {
+   "id": "2026-11-24-bls-oct-participation-61p9-emp-pop-59p3",
+   "time": "2026-11-24T15:59:00Z",
+   "tag": "MACRO",
+   "headline": "BLS October: labor force participation 61.9%, employment-population ratio 59.3%",
+   "take": "BLS reports the labor force participation rate was 61.9% and the employment-population ratio 59.3% in October, both little changed, and says both measures have shown little net change since January. AlphaGen read: the labor market data point to a stable share of the population working rather than a shift in either direction.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-24T15:44:03Z"
+  },
+  {
+   "id": "2026-11-24-bls-oct-long-term-unemployed-2p0m-27p6pct",
+   "time": "2026-11-24T15:50:00Z",
+   "tag": "MACRO",
+   "headline": "BLS October: long-term unemployed 2.0 million, 27.6% of all unemployed",
+   "take": "BLS says the number of people jobless for 27 weeks or more, at 2.0 million, changed little in October and accounted for 27.6% of all unemployed people. The total number of unemployed was 7.1 million. AlphaGen read: duration of joblessness is a useful cross-check on a headline rate that has held in a 4.1%-4.3% range since March.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-24T15:44:03Z"
+  },
+  {
+   "id": "2026-11-24-bls-oct-part-time-economic-reasons-4p8m-up-339k",
+   "time": "2026-11-24T15:41:00Z",
+   "tag": "MACRO",
+   "headline": "BLS October: part-time for economic reasons rose 339,000 to 4.8 million",
+   "take": "BLS reports the number of people employed part time for economic reasons increased by 339,000 to 4.8 million in October. These workers would have preferred full-time jobs but had hours cut or could not find full-time work. AlphaGen read: it was the household survey's notable move in a month when the 4.1% unemployment rate was little changed.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-24T15:44:03Z"
+  },
   {
    "id": "2026-11-24-fred-5y-breakeven-nov23-215-from-230",
    "time": "2026-11-24T14:46:44Z",
@@ -5048,59 +5098,6 @@
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
    "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-tgt-q3-2026-sales-7p1-comps-5p6",
-   "time": "2026-11-18T12:17:00Z",
-   "tag": "EARNINGS",
-   "headline": "Target Q3 net sales up 7.1%, comparable sales up 5.6%",
-   "take": "Target said third-quarter 2026 net sales grew 7.1% over last year, with comparable sales growth of 5.6%, in its Nov. 18 release for the quarter ended Oct. 31. AlphaGen read: comparable growth of 5.6% is the figure to weigh against the company's full-year outlook in the full release.",
-   "source_name": "Target Corporation (PR Newswire release)",
-   "source_url": "https://www.prnewswire.com/news-releases/target-corporation-reports-third-quarter-earnings-302942872.html",
-   "ticker": "NYSE:TGT",
-   "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-low-q3-2026-eps-2p98-net-earnings-1p7b",
-   "time": "2026-11-18T12:24:00Z",
-   "tag": "EARNINGS",
-   "headline": "Lowe's Q3 net earnings $1.7B, diluted EPS $2.98",
-   "take": "Lowe's reported third-quarter fiscal 2026 net earnings of $1.7 billion and diluted earnings per share of $2.98 in its Nov. 18 release, for the quarter ended Oct. 30. AlphaGen read: the full release also updates the company's full-year outlook, which is the next thing to read.",
-   "source_name": "Lowe's Companies (PR Newswire release)",
-   "source_url": "https://www.prnewswire.com/news-releases/lowes-reports-third-quarter-2026-sales-and-earnings-results-302943071.html",
-   "ticker": "NYSE:LOW",
-   "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-fred-yields-nov16-2y-483-10y-512",
-   "time": "2026-11-18T03:43:00Z",
-   "tag": "RATES",
-   "headline": "Treasury yields Nov. 16: 2-year 4.83%, 10-year 5.12%, 30-year 5.46%",
-   "take": "FRED shows the 2-year Treasury yield at 4.83% on Nov. 16, down 0.05 point from 4.88% on Nov. 13. The 10-year was 5.12%, down 0.03 point from 5.15%, and the 30-year was 5.46%, down 0.01 point from 5.47%. AlphaGen read: the 2-year fell furthest, so the 10-year minus 2-year gap widened to 0.29 point.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/DGS10",
-   "checked": "2026-11-18T03:38:58Z"
-  },
-  {
-   "id": "2026-11-18-fred-10y-real-292-breakeven-220-nov16",
-   "time": "2026-11-18T03:51:00Z",
-   "tag": "RATES",
-   "headline": "10-year real yield 2.92%, breakeven inflation 2.20% on Nov. 16; nominal 5.12%",
-   "take": "FRED shows the 10-year Treasury inflation-indexed yield at 2.92% on Nov. 16, up 0.01 point from 2.91% on Nov. 13, while the 10-year nominal yield was 5.12%. The 10-year breakeven inflation rate was 2.20% on Nov. 16, down 0.04 point from 2.24% on Nov. 13. AlphaGen read: the 0.03-point dip in the nominal yield came from lower breakeven inflation, not a lower real yield.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/DFII10",
-   "checked": "2026-11-18T03:38:58Z"
-  },
-  {
-   "id": "2026-11-18-low-vagell-evp-merchandising",
-   "time": "2026-11-18T03:59:00Z",
-   "tag": "EQUITIES",
-   "headline": "Lowe's names Margi Vagell EVP, Merchandising, succeeding William Boltz",
-   "take": "Lowe's said in an 8-K that on Nov. 13 it appointed Margrethe (Margi) Vagell Executive Vice President, Merchandising, effective Nov. 14, succeeding William P. Boltz in his planned retirement. Vagell keeps her Supply Chain responsibilities, and Boltz becomes President of the Lowe's Foundation effective Jan. 30, 2027. AlphaGen read: merchandising and supply chain now sit under one executive.",
-   "source_name": "Lowe's Companies Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122.txt",
-   "ticker": "NYSE:LOW",
-   "checked": "2026-11-18T03:38:58Z"
   }
  ]
 }
