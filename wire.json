@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-24T03:44:30Z",
+  "updated": "2026-11-24T11:45:06Z",
   "items": [
+    {
+      "id": "2026-11-24-cmbt-q3-2026-revenue-802p9m-profit-373p9m",
+      "time": "2026-11-24T11:47:06Z",
+      "tag": "EARNINGS",
+      "headline": "CMB.TECH Q3 2026 revenue $802.9M vs $454.2M; profit $373.9M",
+      "take": "CMB.TECH's unaudited third-quarter 2026 results show revenue of $802.9 million versus $454.2 million in the third quarter of 2025, profit for the period of $373.9 million versus $17.3 million, and basic EPS of $1.29 versus $0.08. Revenue is up 76.8% from a year earlier by AlphaGen's calculation. AlphaGen read: the profit comparison is far wider than the revenue comparison, and the release also cites about $100.2 million of gains on vessel sales in the quarter.",
+      "source_name": "CMB.TECH (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409001/0/en/press-release-cmb-tech-announces-q3-2026-results.html",
+      "ticker": "NYSE:CMBT",
+      "checked": "2026-11-24T11:45:06Z"
+    },
+    {
+      "id": "2026-11-24-cmbt-q3-2026-ebitda-562p3m-ytd-1p67b",
+      "time": "2026-11-24T11:57:06Z",
+      "tag": "EQUITIES",
+      "headline": "CMB.TECH Q3 2026 EBITDA $562.3M; year-to-date EBITDA $1.67B",
+      "take": "CMB.TECH reports third-quarter 2026 EBITDA of $562.3 million versus $238.4 million a year earlier, or $1.94 per share versus $1.00. Year-to-date 2026 EBITDA is $1,673.4 million versus $620.9 million in the same period of 2025. AlphaGen read: quarterly EBITDA is up about 136% from the prior-year quarter, based on the figures in the release.",
+      "source_name": "CMB.TECH (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409001/0/en/press-release-cmb-tech-announces-q3-2026-results.html",
+      "ticker": "NYSE:CMBT",
+      "checked": "2026-11-24T11:45:06Z"
+    },
+    {
+      "id": "2026-11-24-cmbt-dividend-0p65-share-dec-17-payment",
+      "time": "2026-11-24T12:07:06Z",
+      "tag": "EQUITIES",
+      "headline": "CMB.TECH sets $0.65-a-share distribution, payable Dec. 17",
+      "take": "CMB.TECH announced a total distribution of $0.65 per share, made up of an interim dividend of $0.21 per share and $0.44 per share paid from share premium. On the NYSE the ex-dividend date is Dec. 9, the record date is Dec. 9 and payment is Dec. 17, 2026; Euronext Brussels shows ex-dividend on Dec. 8. AlphaGen read: the split between dividend and share-premium payout can matter for how holders are taxed, so the release's own breakdown is the figure to check.",
+      "source_name": "CMB.TECH (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409001/0/en/press-release-cmb-tech-announces-q3-2026-results.html",
+      "ticker": "NYSE:CMBT",
+      "checked": "2026-11-24T11:45:06Z"
+    },
+    {
+      "id": "2026-11-24-cmbt-backlog-3p1b-q4-vessel-sale-gains",
+      "time": "2026-11-24T12:17:06Z",
+      "tag": "EQUITIES",
+      "headline": "CMB.TECH says contract backlog stable at $3.1B; Q4 vessel-sale gains flagged",
+      "take": "CMB.TECH's third-quarter release says its contract backlog is stable at $3.1 billion. It cites about $100.2 million of gains on vessel sales in the third quarter and expected fourth-quarter 2026 gains of about $59.6 million, $74.3 million and $56.9 million. AlphaGen read: the release itself does not give earnings guidance, so those expected gains are the only forward figures it quantifies.",
+      "source_name": "CMB.TECH (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409001/0/en/press-release-cmb-tech-announces-q3-2026-results.html",
+      "ticker": "NYSE:CMBT",
+      "checked": "2026-11-24T11:45:06Z"
+    },
+    {
+      "id": "2026-11-24-embc-dividend-0p01-record-dec-4-payable-dec-18",
+      "time": "2026-11-24T12:27:06Z",
+      "tag": "EQUITIES",
+      "headline": "Embecta declares $0.01 quarterly dividend, payable Dec. 18",
+      "take": "Embecta's board declared a quarterly cash dividend of $0.01 per share of common stock, payable Dec. 18, 2026 to holders of record at the close of business on Dec. 4, 2026. The release was issued at 6:30 a.m. ET on Nov. 24. AlphaGen read: the company also published fiscal fourth-quarter and full-year 2026 results the same morning, with a call at 8:00 a.m. ET.",
+      "source_name": "Embecta (GlobeNewswire)",
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409087/0/en/embecta-announces-quarterly-cash-dividend.html",
+      "ticker": "NASDAQ:EMBC",
+      "checked": "2026-11-24T11:45:06Z"
+    },
     {
       "id": "2026-11-23-fred-10y-2y-spread-nov23-029-unchanged",
       "time": "2026-11-24T03:49:30Z",
@@ -5048,60 +5103,6 @@
       "source_name": "BLS",
       "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
       "checked": "2026-11-18T01:38:44Z"
-    },
-    {
-      "id": "2026-11-17-dis-consumer-products-to-entertainment",
-      "tag": "EQUITIES",
-      "headline": "Disney moves Merchandise Licensing and Publishing into Entertainment from FY27 Q1",
-      "take": "In a Nov. 17 Form 8-K (Item 7.01), Disney said it will shift Merchandise Licensing and Publishing from the Experiences segment to the Entertainment segment, effective with the first quarter of fiscal 2027. Branded Retail stays in Experiences and will be reported as part of Domestic Parks and Experiences. The exhibit states the changes have no impact on historically reported net income or earnings per share. AlphaGen read: segment comparisons for Experiences and Entertainment will need the recast fiscal 2024-2026 figures Disney furnished.",
-      "source_name": "SEC EDGAR, DIS Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000067/0001744489-26-000067.txt",
-      "ticker": "NYSE:DIS",
-      "time": "2026-11-17T23:46:35Z",
-      "checked": "2026-11-17T23:44:35Z"
-    },
-    {
-      "id": "2026-11-17-dis-entertainment-revenue-lines-a-e",
-      "tag": "EQUITIES",
-      "headline": "Disney to report Entertainment revenue in three lines; A+E equity income excluded",
-      "take": "Disney said that, effective with fiscal 2027's first quarter, Entertainment revenues will be reported as subscription video-on-demand services, content and IP, and linear networks and vMVPD services. The company also said it sold its 50% interest in A+E Global Media on Sept. 30, 2026, and will exclude equity income from Entertainment segment operating results. AlphaGen read: the A+E sale is the stated reason equity income is being removed from that segment's operating results.",
-      "source_name": "SEC EDGAR, DIS Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000067/0001744489-26-000067.txt",
-      "ticker": "NYSE:DIS",
-      "time": "2026-11-18T00:01:35Z",
-      "checked": "2026-11-17T23:44:35Z"
-    },
-    {
-      "id": "2026-11-17-lng-capacity-56-mtpa-5-under-construction",
-      "tag": "ENERGY",
-      "headline": "Cheniere describes ~56 mtpa LNG capacity in operation, ~5 mtpa under construction",
-      "take": "In its Nov. 16 release announcing Zach Davis's promotion to President and CFO, Cheniere said its Sabine Pass and Corpus Christi liquefaction facilities have total production capacity of approximately 56 mtpa of LNG in operation. It added approximately 5 mtpa of expected capacity is under construction, inclusive of estimated debottlenecking opportunities. AlphaGen read: the company's own boilerplate puts the in-construction addition at roughly 9% of operating capacity (5 divided by 56).",
-      "source_name": "SEC EDGAR, LNG Form 8-K (Exhibit 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526463597/d158128dex991.htm",
-      "ticker": "NYSE:LNG",
-      "time": "2026-11-18T00:16:35Z",
-      "checked": "2026-11-17T23:44:35Z"
-    },
-    {
-      "id": "2026-11-17-mrna-ares-delayed-draw-900m-2029",
-      "tag": "CREDIT",
-      "headline": "Moderna extends Ares delayed-draw availability on $900M of commitments to Nov. 2029",
-      "take": "Moderna's Nov. 9 amendment to its Ares-agented credit agreement extends availability for the first $400 million of delayed draw term loan commitments from Nov. 24, 2027 to Nov. 24, 2029, and for the remaining $500 million from Nov. 24, 2028 to Nov. 24, 2029. Together that is $900 million of commitments on one date. The 8-K says borrowings remain subject to the credit agreement's conditions. AlphaGen read: the amendment aligns both tranches to the same availability end date.",
-      "source_name": "SEC EDGAR, MRNA Form 8-K",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000208/0001682852-26-000208.txt",
-      "ticker": "NASDAQ:MRNA",
-      "time": "2026-11-18T00:31:35Z",
-      "checked": "2026-11-17T23:44:35Z"
-    },
-    {
-      "id": "2026-11-17-fred-t10y2y-nov16-029",
-      "time": "2026-11-17T23:25:00Z",
-      "tag": "RATES",
-      "headline": "10-year minus 2-year Treasury spread 0.29 point on Nov. 16, up from 0.27",
-      "take": "FRED's 10-year minus 2-year Treasury constant-maturity spread was 0.29 percentage point on Nov. 16, up 0.02 from 0.27 on Nov. 13 and below the 0.35 recorded on Nov. 6. The 10-year breakeven inflation rate was 2.20 percent on Nov. 16, down 0.04 from 2.24 percent on Nov. 13. AlphaGen read: the curve gap has narrowed from early November, with the two latest readings edging back up.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-      "checked": "2026-11-17T22:38:21Z"
     }
   ]
 }
