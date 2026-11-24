@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-24T15:44:03Z",
+ "updated": "2026-11-24T16:39:42Z",
  "items": [
+  {
+   "id": "2026-11-24-fred-new-home-months-supply-sep-8p4",
+   "time": "2026-11-24T17:36:10Z",
+   "tag": "HOUSING",
+   "headline": "New-home months' supply 8.4 in September, lowest since December 2025",
+   "take": "FRED's monthly supply of new houses series shows 8.4 months' supply in September, from 8.5 in August and 8.9 in July. It is the lowest reading since December 2025 and compares with 9.3 in February. AlphaGen read: unsold new-home stock is shrinking relative to the sales pace, even as pending existing-home contracts fell in October.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/MSACSR",
+   "checked": "2026-11-24T16:39:42Z"
+  },
+  {
+   "id": "2026-11-24-fred-broad-dollar-nov20-123p60-highest-since-apr-2025",
+   "time": "2026-11-24T17:24:10Z",
+   "tag": "FX",
+   "headline": "Fed broad dollar index 123.5978 on Nov. 20, up 0.95 from Nov. 13",
+   "take": "FRED shows the broad dollar index at 123.5978 on Nov. 20, from 122.6503 on Nov. 13 and 123.1376 on Nov. 18. It is the highest daily reading since Apr. 15, 2025, when it was 123.776. AlphaGen read: a firmer dollar index raises the cost of dollar debt for foreign borrowers and trims the dollar value of overseas earnings.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+   "checked": "2026-11-24T16:39:42Z"
+  },
+  {
+   "id": "2026-11-24-fred-uk-long-bond-oct-5p34-highest-since-2007",
+   "time": "2026-11-24T17:12:10Z",
+   "tag": "GLOBAL",
+   "headline": "UK long-term bond yield 5.34% in October, highest since July 2007 in FRED",
+   "take": "FRED's monthly long-term government bond yield series shows the UK at 5.34% in October, up from 5.24% in September and the highest since July 2007. Germany's was 3.42%, down 5.8 bp from 3.47%, and Japan's 2.76%, down 29.5 bp from 3.05%. AlphaGen read: the UK-Germany gap on this measure was 1.92 points in October, the widest of the four months from July.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
+   "checked": "2026-11-24T16:39:42Z"
+  },
+  {
+   "id": "2026-11-24-fred-gasoline-nov23-3p642-ninth-weekly-fall",
+   "time": "2026-11-24T17:00:10Z",
+   "tag": "COMMODITIES",
+   "headline": "Regular gasoline $3.642 a gallon for week of Nov. 23, down 16.3 cents",
+   "take": "FRED shows U.S. regular gasoline at $3.642 a gallon for the week of Nov. 23, from $3.805 on Nov. 16 and $4.478 on Sept. 21, a drop of 83.6 cents or 18.7% since September. It is the lowest weekly reading since the week of Mar. 9 and the ninth straight weekly decline. AlphaGen read: for households that drive, the fall since late September is a visible offset to other price pressures.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
+   "checked": "2026-11-24T16:39:42Z"
+  },
   {
    "id": "2026-11-24-fred-10y-breakeven-nov23-213-lowest-since-nov16",
    "time": "2026-11-24T16:17:00Z",
@@ -5057,46 +5097,6 @@
    "take": "The Office for National Statistics said UK CPI rose 3.6% in the 12 months to October 2026, up from 3.5% in September, while CPIH rose 3.7%, up from 3.6%. Prices rose 0.5% on the month, against 0.4% in October 2025. AlphaGen read: the pickup in the annual rate came from transport costs rather than services.",
    "source_name": "Office for National Statistics",
    "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
-   "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-uk-motor-fuel-33p2-diesel-199p5",
-   "time": "2026-11-18T11:49:00Z",
-   "tag": "ENERGY",
-   "headline": "UK motor fuel prices up 33.2% in a year; diesel 199.5p a litre, record",
-   "take": "ONS said motor fuel prices rose 33.2% in the 12 months to October 2026, against 29.8% the previous month, and transport made the largest upward contribution to the monthly change in CPI and CPIH. Diesel reached 199.5 pence per litre, the highest since records began in January 1996. AlphaGen read: fuel is the main pressure point in the UK inflation print.",
-   "source_name": "Office for National Statistics",
-   "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
-   "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-uk-core-cpi-2p8-services-3p7-goods-3p5",
-   "time": "2026-11-18T11:56:00Z",
-   "tag": "GLOBAL",
-   "headline": "UK core CPI 2.8%, services 3.7%; goods inflation rises to 3.5%",
-   "take": "ONS reported core CPI, which excludes energy, food, alcohol and tobacco, at 2.8% in October 2026, little changed from September. Services CPI was 3.7%, also little changed, while goods CPI rose from 3.2% to 3.5%. Restaurants and hotels made the largest downward contribution, at 3.4% versus 3.8% a month earlier. AlphaGen read: the underlying services rate held steady while goods drove the change.",
-   "source_name": "Office for National Statistics",
-   "source_url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026",
-   "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-ecb-fsr-ai-valuations-debt-funded",
-   "time": "2026-11-18T12:03:00Z",
-   "tag": "GLOBAL",
-   "headline": "ECB: AI valuations rely on ambitious earnings; debt funding widens spillover risk",
-   "take": "The ECB's November 2026 Financial Stability Review said current AI valuations rely on ambitious earnings expectations that could be challenged by financing concerns or competition from cheaper AI models. It noted that AI infrastructure investment is increasingly funded through debt, so a change in sentiment could spread losses from equity markets to bond markets. AlphaGen read: the ECB is treating AI financing as a cross-asset channel, not only an equity-valuation question.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-   "checked": "2026-11-18T11:39:00Z"
-  },
-  {
-   "id": "2026-11-18-ecb-fsr-sovereign-repricing-banks-resilient",
-   "time": "2026-11-18T12:10:00Z",
-   "tag": "CREDIT",
-   "headline": "ECB flags abrupt sovereign repricing risk; says euro area banks well placed",
-   "take": "The ECB said elevated debt levels, growing sovereign borrowing needs and a shift toward more news-sensitive, leveraged investors in euro area sovereign bonds raise the risk of abrupt repricing episodes, though markets have continued to function in an orderly manner. It added that the banking sector is well positioned to absorb shocks, underpinned by strong profits, solid capital buffers and ample liquidity. Vice-President Boris Vujcic said vulnerabilities are more pronounced in certain non-banks. AlphaGen read: the ECB places the weaker safeguards outside the banking system.",
-   "source_name": "European Central Bank",
-   "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
    "checked": "2026-11-18T11:39:00Z"
   }
  ]
