@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-24T12:44:53Z",
+ "updated": "2026-11-24T13:38:57Z",
  "items": [
+  {
+   "id": "2026-11-24-adi-q4-fy26-revenue-4p37b-vs-3p08b",
+   "time": "2026-11-24T13:38:57Z",
+   "tag": "EARNINGS",
+   "headline": "ADI Q4 revenue $4.37B vs $3.08B; adjusted EPS $4.06 vs $2.26",
+   "take": "Analog Devices reported fiscal fourth-quarter revenue of $4,373 million versus $3,076 million a year earlier, GAAP diluted EPS of $3.40 versus $1.60, and adjusted diluted EPS of $4.06 versus $2.26. Revenue is up 42.2% by AlphaGen's calculation. AlphaGen read: full-year revenue of $15.18 billion against $11.02 billion shows the step-up was not limited to one quarter.",
+   "source_name": "Analog Devices (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm",
+   "ticker": "NASDAQ:ADI",
+   "checked": "2026-11-24T13:38:57Z"
+  },
+  {
+   "id": "2026-11-24-bby-q3-fy27-revenue-10p24b-adj-eps-1p62",
+   "time": "2026-11-24T13:47:57Z",
+   "tag": "EARNINGS",
+   "headline": "Best Buy Q3 revenue $10.24B vs $9.67B; adjusted EPS $1.62 vs $1.40",
+   "take": "Best Buy reported third-quarter fiscal 2027 revenue of $10,236 million versus $9,672 million, GAAP diluted EPS of $1.66 versus $0.66, and adjusted diluted EPS of $1.62 versus $1.40. Revenue is up 5.8% by AlphaGen's calculation. AlphaGen read: the GAAP EPS comparison is much wider than the adjusted one, so the adjusted figure is the cleaner year-over-year gauge.",
+   "source_name": "Best Buy (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000764478/000076447826000045/bby-fy27q3xexx99.htm",
+   "ticker": "NYSE:BBY",
+   "checked": "2026-11-24T13:38:57Z"
+  },
+  {
+   "id": "2026-11-24-dltr-q3-2026-revenue-5p08b-adj-eps-1p16",
+   "time": "2026-11-24T13:56:57Z",
+   "tag": "EARNINGS",
+   "headline": "Dollar Tree Q3 revenue $5.08B vs $4.75B; adjusted EPS $1.16 vs $1.21",
+   "take": "Dollar Tree reported third-quarter fiscal 2026 total revenue of $5,078.4 million versus $4,751.0 million, diluted EPS from continuing operations of $1.24 versus $1.20, and adjusted diluted EPS of $1.16 versus $1.21. Revenue is up 6.9% by AlphaGen's calculation. AlphaGen read: GAAP and adjusted EPS moved in opposite directions, so the choice of measure changes the story.",
+   "source_name": "Dollar Tree (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000136/ex991q3-26earningspressrel.htm",
+   "ticker": "NASDAQ:DLTR",
+   "checked": "2026-11-24T13:38:57Z"
+  },
+  {
+   "id": "2026-11-24-bby-raises-fy27-outlook-eps-6p90-7p05",
+   "time": "2026-11-24T14:05:57Z",
+   "tag": "EQUITIES",
+   "headline": "Best Buy raises FY27 outlook: adjusted EPS $6.90-$7.05, revenue $43.0B-$43.3B",
+   "take": "Best Buy's release raises its fiscal 2027 outlook to revenue of $43.0 billion to $43.3 billion, from $42.3 billion to $42.8 billion, and adjusted diluted EPS of $6.90 to $7.05, from $6.70 to $6.90. Comparable sales are guided to 3.4% to 4.0%, from 1.9% to 3.0%. The company also declared a $0.96 quarterly dividend payable Jan. 5, 2027 to holders of record Dec. 15, 2026.",
+   "source_name": "Best Buy (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000764478/000076447826000045/bby-fy27q3xexx99.htm",
+   "ticker": "NYSE:BBY",
+   "checked": "2026-11-24T13:38:57Z"
+  },
+  {
+   "id": "2026-11-24-dltr-fy26-adj-eps-guide-8p05-8p25-tariff-refunds",
+   "time": "2026-11-24T14:14:57Z",
+   "tag": "EQUITIES",
+   "headline": "Dollar Tree lifts FY26 adjusted EPS outlook to $8.05-$8.25",
+   "take": "Dollar Tree's release raises fiscal 2026 adjusted diluted EPS guidance to $8.05 to $8.25, which it says includes about $0.65 of benefit from net tariff refunds. It guides fiscal 2026 net sales from continuing operations of $20.6 billion to $20.7 billion and fourth-quarter adjusted EPS of $2.46 to $2.66, including about $0.25 of cost tied to tariff refund reinvestments. AlphaGen read: a meaningful part of the full-year EPS range comes from tariff refunds, not core operations.",
+   "source_name": "Dollar Tree (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000136/ex991q3-26earningspressrel.htm",
+   "ticker": "NASDAQ:DLTR",
+   "checked": "2026-11-24T13:38:57Z"
+  },
+  {
+   "id": "2026-11-24-adi-q1-fy27-guide-rev-4p4b-adj-eps-3p82-dividend-1p10",
+   "time": "2026-11-24T14:23:57Z",
+   "tag": "EQUITIES",
+   "headline": "ADI guides Q1 revenue $4.4B, adjusted EPS $3.82; $1.10 dividend",
+   "take": "Analog Devices guides first-quarter fiscal 2027 revenue to $4.4 billion, plus or minus $150 million, and adjusted EPS to $3.82, plus or minus $0.20. It declared a quarterly dividend of $1.10 per share, payable Dec. 21, 2026 to holders of record Dec. 7. AlphaGen read: the midpoint implies adjusted EPS below the $4.06 reported for the fourth quarter.",
+   "source_name": "Analog Devices (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm",
+   "ticker": "NASDAQ:ADI",
+   "checked": "2026-11-24T13:38:57Z"
+  },
   {
    "id": "2026-11-24-fred-10y-yield-fall-nov16-20-real-15bp-breakeven-5bp",
    "time": "2026-11-24T12:42:00Z",
@@ -5040,69 +5106,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
    "ticker": "NASDAQ:NVDA",
    "checked": "2026-11-18T02:38:56Z"
-  },
-  {
-   "id": "2026-11-18-nvda-buyback-227b-remaining",
-   "time": "2026-11-18T02:56:00Z",
-   "tag": "EQUITIES",
-   "headline": "NVIDIA returned $28.1B in Q3; $227.3B left on buyback after $150B increase",
-   "take": "NVIDIA said it returned $28.1 billion to shareholders in Q3 through repurchases and dividends, and had about $227.3 billion remaining on its repurchase authorization. The board approved a $150 billion increase in September 2026, and the next quarterly dividend of $0.25 per share is payable Dec. 23 to holders of record Dec. 2. AlphaGen read: the remaining authorization is about 3.5 times Q3 GAAP net income of $65.3 billion.",
-   "source_name": "NVIDIA Form 8-K, Exhibit 99.1",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088.txt",
-   "ticker": "NASDAQ:NVDA",
-   "checked": "2026-11-18T02:38:56Z"
-  },
-  {
-   "id": "2026-11-18-csx-1p2b-revolver-nov17",
-   "time": "2026-11-18T03:04:00Z",
-   "tag": "CREDIT",
-   "headline": "CSX signs new $1.2B five-year revolver, replacing 2023 facility; nothing drawn",
-   "take": "CSX entered into a new $1.2 billion five-year senior unsecured revolving credit agreement on Nov. 17, with JPMorgan Chase Bank as administrative agent. It replaces the $1.2 billion facility dated Feb. 28, 2023, which was terminated effective the same day, and there were no outstanding borrowings under either. AlphaGen read: the size is unchanged, so this is a refinancing of back-up liquidity rather than new debt.",
-   "source_name": "CSX Corporation Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684.txt",
-   "ticker": "NASDAQ:CSX",
-   "checked": "2026-11-18T02:38:56Z"
-  },
-  {
-   "id": "2026-11-18-rivian-class-b-converted",
-   "time": "2026-11-18T03:12:00Z",
-   "tag": "EQUITIES",
-   "headline": "Rivian's Class B stock converts to Class A, ending 10-vote shares",
-   "take": "Rivian said each outstanding share of its Class B common stock automatically converted into one share of Class A on Nov. 15, the five-year anniversary of its IPO closing; 3,912,500 Class B shares were outstanding immediately before. After the conversion there were approximately 1,459,886,616 Class A shares outstanding, and holders now have one vote per share instead of ten. AlphaGen read: the filing says the conversion left total shares outstanding and economic interests unchanged.",
-   "source_name": "Rivian Automotive Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000073/0001874178-26-000073.txt",
-   "ticker": "NASDAQ:RIVN",
-   "checked": "2026-11-18T02:38:56Z"
-  },
-  {
-   "id": "2026-11-18-fred-t10y2y-t10yie-nov17",
-   "time": "2026-11-18T03:20:00Z",
-   "tag": "RATES",
-   "headline": "10-year minus 2-year Treasury spread 0.30 point on Nov. 17; 10-year breakeven 2.21%",
-   "take": "FRED shows the 10-year minus 2-year Treasury spread at 0.30 percentage point on Nov. 17, up from 0.29 on Nov. 16 and 0.27 on Nov. 13. The 10-year breakeven inflation rate was 2.21% on Nov. 17 versus 2.20% the day before. AlphaGen read: breakevens have held in a 2.20 to 2.24 range since Nov. 9 while the curve slope has edged wider.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-   "checked": "2026-11-18T02:38:56Z"
-  },
-  {
-   "id": "2026-11-18-real-earnings-oct-production-workers-weekly-down-0p3",
-   "time": "2026-11-18T02:25:00Z",
-   "tag": "MACRO",
-   "headline": "Real hourly pay for production workers +0.1% in October; weekly pay -0.3%",
-   "take": "BLS reported real average hourly earnings for production and nonsupervisory employees rose 0.1% from September to October, as a 0.4% increase in hourly earnings outpaced a 0.3% rise in the CPI-W. Real average weekly earnings for the group fell 0.3% because the average workweek also decreased 0.3%. AlphaGen read: for these workers the shorter workweek, not prices, drove the drop in weekly pay.",
-   "source_name": "BLS",
-   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-   "checked": "2026-11-18T01:38:44Z"
-  },
-  {
-   "id": "2026-11-18-jobs-oct-transportation-warehousing-couriers-71k",
-   "time": "2026-11-18T02:16:00Z",
-   "tag": "MACRO",
-   "headline": "Transportation and warehousing +25,000 in October; couriers +71,000 since February",
-   "take": "BLS reported transportation and warehousing added 25,000 jobs in October, with couriers and messengers up 17,000 and air transportation up 4,000. The sector has added 104,000 jobs since a recent low in February, and couriers and messengers account for 71,000 of that gain. AlphaGen read: couriers and messengers make up about two-thirds of the sector's gain since February.",
-   "source_name": "BLS",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-18T01:38:44Z"
   }
  ]
 }
