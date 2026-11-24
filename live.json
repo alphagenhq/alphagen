@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T13:31:55Z",
+ "updated": "2026-11-24T23:14:58Z",
  "items": [
+  {
+   "id": "live-0001618756-26-000061-1.01",
+   "time": "2026-11-24T21:38:58Z",
+   "tag": "DEALS",
+   "live": true,
+   "headline": "Restaurant Brands International discloses a material agreement",
+   "take": "Restaurant Brands International reported entering a material definitive agreement in an SEC filing (Form 8-K, Item 1.01). Filed 4:38 PM ET, Nov 24.",
+   "source_name": "SEC EDGAR, QSR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1618756/000161875626000061/0001618756-26-000061-index.htm",
+   "ticker": "NYSE:QSR"
+  },
+  {
+   "id": "live-0000804328-26-000138-5.02",
+   "time": "2026-11-24T21:32:06Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Qualcomm reports an executive or board change",
+   "take": "Qualcomm reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:32 PM ET, Nov 24.",
+   "source_name": "SEC EDGAR, QCOM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm",
+   "ticker": "NASDAQ:QCOM"
+  },
+  {
+   "id": "live-0000047217-26-000054-2.02",
+   "time": "2026-11-24T21:17:57Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "HP releases financial results",
+   "take": "HP filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:17 PM ET, Nov 24.",
+   "source_name": "SEC EDGAR, HPQ Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/0000047217-26-000054-index.htm",
+   "ticker": "NYSE:HPQ"
+  },
   {
    "id": "live-0000006281-26-000087-2.02",
    "time": "2026-11-24T12:03:22Z",
@@ -3267,39 +3300,6 @@
    "source_name": "SEC EDGAR, NDAQ Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/0001120193-26-000017-index.htm",
    "ticker": "NASDAQ:NDAQ"
-  },
-  {
-   "id": "live-0001628280-26-066783-2.02",
-   "time": "2026-10-22T11:05:59Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Comcast releases financial results",
-   "take": "Comcast filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:05 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, CMCSA Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066783/0001628280-26-066783-index.htm",
-   "ticker": "NASDAQ:CMCSA"
-  },
-  {
-   "id": "live-0000080424-26-000250-2.02",
-   "time": "2026-10-22T11:02:49Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Procter & Gamble releases financial results",
-   "take": "Procter & Gamble filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:02 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, PG Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000250/0000080424-26-000250-index.htm",
-   "ticker": "NYSE:PG"
-  },
-  {
-   "id": "live-0000006201-26-000064-2.02",
-   "time": "2026-10-22T11:00:25Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "American Airlines Group releases financial results",
-   "take": "American Airlines Group filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, AAL Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000064/0000006201-26-000064-index.htm",
-   "ticker": "NASDAQ:AAL"
   }
  ]
 }
