@@ -1,41 +1,89 @@
 {
- "updated": "2026-11-24T14:44:58Z",
- "items": [
-  {
-   "id": "2026-11-24-CRWD",
-   "time": "2026-11-24T14:44:58Z",
-   "ticker": "CRWD",
-   "name": "CrowdStrike",
-   "headline": "Acquirer in all-stock Zscaler deal; Q3 net new ARR a record $419M",
-   "catalyst": "Nov. 23 agreement to acquire Zscaler and Q3 FY2027 results.",
-   "thesis": "CrowdStrike agreed to acquire Zscaler in an all-stock transaction valuing it at about $43.9 billion, with Zscaler holders receiving 1.135 CrowdStrike shares per share. Alongside, it reported ending ARR of $6.26 billion, up 27%, and net new ARR of $419 million, which it called an all-time record. The deal is expected to close in the second half of CrowdStrike's fiscal 2028.",
-   "source_name": "CrowdStrike and Zscaler joint press release (SEC 8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
-   "checked": "2026-11-24T14:44:58Z"
-  },
-  {
-   "id": "2026-11-24-ZS",
-   "time": "2026-11-24T14:44:58Z",
-   "ticker": "ZS",
-   "name": "Zscaler",
-   "headline": "Agrees to be acquired by CrowdStrike in all-stock deal",
-   "catalyst": "Nov. 23 definitive agreement with CrowdStrike.",
-   "thesis": "Zscaler shareholders will receive 1.135 shares of CrowdStrike common stock for each Zscaler share, valuing Zscaler at approximately $43.9 billion. Jay Chaudhry and his affiliates, representing about 34% of Zscaler's outstanding shares, signed voting agreements in support, and closing remains subject to Zscaler shareholder and regulatory approvals.",
-   "source_name": "CrowdStrike and Zscaler joint press release (SEC 8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
-   "checked": "2026-11-24T14:44:58Z"
-  },
-  {
-   "id": "2026-11-24-DASH",
-   "time": "2026-11-24T14:44:58Z",
-   "ticker": "DASH",
-   "name": "DoorDash",
-   "headline": "Upsizes revolver and adds $1.792B term loan tied to Instacart purchase",
-   "catalyst": "Nov. 23 8-K (Items 1.01, 8.01) on credit facilities for the pending Instacart acquisition.",
-   "thesis": "DoorDash raised its senior unsecured revolving commitments by $1.5 billion to $3.5 billion and entered a $1.792 billion delayed draw term loan in connection with its pending acquisition of Maplebear Inc. (Instacart). The term loan agreement allows commitments to rise to as much as $2.0 billion.",
-   "source_name": "DoorDash (SEC 8-K)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126045152/0001140361-26-045152.txt",
-   "checked": "2026-11-24T14:44:58Z"
-  }
- ]
+  "updated": "2026-11-24T17:40:08Z",
+  "items": [
+    {
+      "id": "2026-11-24-CRWD",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "headline": "Acquirer in all-stock Zscaler deal; Q3 net new ARR a record $419M",
+      "catalyst": "Nov. 23 agreement to acquire Zscaler and Q3 FY2027 results.",
+      "thesis": "CrowdStrike agreed to acquire Zscaler in an all-stock transaction valuing it at about $43.9 billion, with Zscaler holders receiving 1.135 CrowdStrike shares per share. Alongside, it reported ending ARR of $6.26 billion, up 27%, and net new ARR of $419 million, which it called an all-time record. The deal is expected to close in the second half of CrowdStrike's fiscal 2028.",
+      "source_name": "CrowdStrike and Zscaler joint press release (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+      "checked": "2026-11-24T17:40:08Z"
+    },
+    {
+      "id": "2026-11-24-ZS",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "ZS",
+      "name": "Zscaler",
+      "headline": "Agrees to be acquired by CrowdStrike in all-stock deal",
+      "catalyst": "Nov. 23 definitive agreement with CrowdStrike.",
+      "thesis": "Zscaler shareholders will receive 1.135 shares of CrowdStrike common stock for each Zscaler share, valuing Zscaler at approximately $43.9 billion. Jay Chaudhry and his affiliates, representing about 34% of Zscaler's outstanding shares, signed voting agreements in support, and closing remains subject to Zscaler shareholder and regulatory approvals.",
+      "source_name": "CrowdStrike and Zscaler joint press release (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_ex99-1.htm",
+      "checked": "2026-11-24T17:40:08Z"
+    },
+    {
+      "id": "2026-11-24-DASH",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "DASH",
+      "name": "DoorDash",
+      "headline": "Upsizes revolver and adds $1.792B term loan tied to Instacart purchase",
+      "catalyst": "Nov. 23 8-K (Items 1.01, 8.01) on credit facilities for the pending Instacart acquisition.",
+      "thesis": "DoorDash raised its senior unsecured revolving commitments by $1.5 billion to $3.5 billion and entered a $1.792 billion delayed draw term loan in connection with its pending acquisition of Maplebear Inc. (Instacart). The term loan agreement allows commitments to rise to as much as $2.0 billion.",
+      "source_name": "DoorDash (SEC 8-K)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1792789/000114036126045152/0001140361-26-045152.txt",
+      "checked": "2026-11-24T17:40:08Z"
+    },
+    {
+      "id": "2026-11-24-HPE",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise",
+      "headline": "Q4 revenue $14.5B, up 50%; raises fiscal 2027 guidance",
+      "catalyst": "Nov. 23 fiscal fourth-quarter results and raised fiscal 2027 outlook.",
+      "thesis": "HPE reported Q4 revenue of $14,547 million versus $9,679 million, with non-GAAP diluted EPS of $1.43 versus $0.62. It raised fiscal 2027 guidance to revenue of $59.4 billion to $63.1 billion and non-GAAP diluted EPS of $5.05 to $5.35. Cloud & AI revenue was $11.3 billion.",
+      "source_name": "Hewlett Packard Enterprise (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001645590/000164559026000097/ex-991x11232026x8k.htm",
+      "checked": "2026-11-24T17:40:08Z"
+    },
+    {
+      "id": "2026-11-24-ADI",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "ADI",
+      "name": "Analog Devices",
+      "headline": "Q4 revenue $4,373M vs $3,076M; guides Q1 revenue to $4.4B",
+      "catalyst": "Nov. 24 fiscal fourth-quarter results and first-quarter guidance.",
+      "thesis": "Analog Devices reported fiscal Q4 revenue of $4,373 million versus $3,076 million and adjusted diluted EPS of $4.06 versus $2.26. It guided fiscal Q1 2027 revenue to $4.4 billion plus or minus $150 million and adjusted EPS to $3.82 plus or minus $0.20.",
+      "source_name": "Analog Devices (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000087/adiq426exhibit991.htm",
+      "checked": "2026-11-24T17:40:08Z"
+    },
+    {
+      "id": "2026-11-24-BBY",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "BBY",
+      "name": "Best Buy",
+      "headline": "Q3 revenue $10,236M vs $9,672M; raises fiscal 2027 outlook",
+      "catalyst": "Nov. 24 fiscal third-quarter results and raised outlook.",
+      "thesis": "Best Buy reported Q3 adjusted diluted EPS of $1.62 versus $1.40 on revenue of $10,236 million versus $9,672 million. It raised fiscal 2027 adjusted EPS guidance to $6.90-$7.05 from $6.70-$6.90 and revenue guidance to $43.0 billion-$43.3 billion.",
+      "source_name": "Best Buy (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000764478/000076447826000045/bby-fy27q3xexx99.htm",
+      "checked": "2026-11-24T17:40:08Z"
+    },
+    {
+      "id": "2026-11-24-DLTR",
+      "time": "2026-11-24T17:40:08Z",
+      "ticker": "DLTR",
+      "name": "Dollar Tree",
+      "headline": "Q3 revenue $5,078M vs $4,751M; raises fiscal 2026 EPS outlook",
+      "catalyst": "Nov. 24 fiscal third-quarter results and raised outlook.",
+      "thesis": "Dollar Tree reported Q3 total revenue of $5,078.4 million versus $4,751.0 million, with adjusted diluted EPS of $1.16 versus $1.21. It raised fiscal 2026 adjusted EPS guidance to $8.05-$8.25, which it says includes about $0.65 of benefit from net tariff refunds.",
+      "source_name": "Dollar Tree (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000935703/000093570326000136/ex991q3-26earningspressrel.htm",
+      "checked": "2026-11-24T17:40:08Z"
+    }
+  ]
 }
