@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-24T02:59:59Z",
+ "updated": "2026-11-24T13:31:55Z",
  "items": [
+  {
+   "id": "live-0000006281-26-000087-2.02",
+   "time": "2026-11-24T12:03:22Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Analog Devices releases financial results",
+   "take": "Analog Devices filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:03 AM ET, Nov 24.",
+   "source_name": "SEC EDGAR, ADI Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/0000006281-26-000087-index.htm",
+   "ticker": "NASDAQ:ADI"
+  },
+  {
+   "id": "live-0000764478-26-000045-2.02",
+   "time": "2026-11-24T12:00:31Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Best BUY CO releases financial results",
+   "take": "Best BUY CO filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:00 AM ET, Nov 24.",
+   "source_name": "SEC EDGAR, BBY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/0000764478-26-000045-index.htm",
+   "ticker": "NYSE:BBY"
+  },
+  {
+   "id": "live-0001628280-26-075604-2.02",
+   "time": "2026-11-24T11:32:02Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Medtronic releases financial results",
+   "take": "Medtronic filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:32 AM ET, Nov 24.",
+   "source_name": "SEC EDGAR, MDT Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026075604/0001628280-26-075604-index.htm",
+   "ticker": "NYSE:MDT"
+  },
+  {
+   "id": "live-0000935703-26-000136-2.02",
+   "time": "2026-11-24T11:30:42Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Dollar Tree releases financial results",
+   "take": "Dollar Tree filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:30 AM ET, Nov 24.",
+   "source_name": "SEC EDGAR, DLTR Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/0000935703-26-000136-index.htm",
+   "ticker": "NASDAQ:DLTR"
+  },
   {
    "id": "live-0001552781-26-000567-5.02",
    "time": "2026-11-23T21:35:42Z",
@@ -3256,50 +3300,6 @@
    "source_name": "SEC EDGAR, AAL Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000064/0000006201-26-000064-index.htm",
    "ticker": "NASDAQ:AAL"
-  },
-  {
-   "id": "live-0001751788-26-000155-2.02",
-   "time": "2026-10-22T10:57:56Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "DOW releases financial results",
-   "take": "DOW filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:57 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, DOW Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1751788/000175178826000155/0001751788-26-000155-index.htm",
-   "ticker": "NYSE:DOW"
-  },
-  {
-   "id": "live-0001193125-26-428297-2.02",
-   "time": "2026-10-22T10:55:08Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Blackstone releases financial results",
-   "take": "Blackstone filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:55 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, BX Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526428297/0001193125-26-428297-index.htm",
-   "ticker": "NYSE:BX"
-  },
-  {
-   "id": "live-0001628280-26-066780-2.02",
-   "time": "2026-10-22T10:26:08Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Lockheed Martin releases financial results",
-   "take": "Lockheed Martin filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:26 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, LMT Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066780/0001628280-26-066780-index.htm",
-   "ticker": "NYSE:LMT"
-  },
-  {
-   "id": "live-0000049196-26-000084-2.02",
-   "time": "2026-10-22T10:19:09Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Huntington Bancshares releases financial results",
-   "take": "Huntington Bancshares filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:19 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, HBAN Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/0000049196-26-000084-index.htm",
-   "ticker": "NASDAQ:HBAN"
   }
  ]
 }
