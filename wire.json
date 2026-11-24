@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-24T17:40:08Z",
+  "updated": "2026-11-24T18:39:25Z",
   "items": [
+    {
+      "id": "2026-11-24-mdt-q2-fy27-revenue-9p36b-gaap-eps-2p20",
+      "time": "2026-11-24T18:41:25Z",
+      "tag": "EARNINGS",
+      "headline": "Medtronic Q2 FY27 revenue $9.36B vs $8.96B; GAAP EPS $2.20, non-GAAP $1.34",
+      "take": "Medtronic reported second-quarter fiscal 2027 revenue of $9,364 million versus $8,961 million a year earlier, up 4.5% reported and 6.5% organic. GAAP diluted EPS was $2.20 versus $1.07, while non-GAAP diluted EPS was $1.34 versus $1.36. The gap between the GAAP and non-GAAP lines is large because GAAP includes a gain on the MiniMed separation.",
+      "source_name": "Medtronic (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001613103/000162828026075604/exhibit991-fy27q2earningsr.htm",
+      "ticker": "NYSE:MDT",
+      "checked": "2026-11-24T18:39:25Z"
+    },
+    {
+      "id": "2026-11-24-mdt-gaap-gain-minimed-separation-2p0b",
+      "time": "2026-11-24T18:53:25Z",
+      "tag": "EQUITIES",
+      "headline": "Medtronic GAAP quarter includes $2.0B MiniMed separation gain; non-GAAP EPS $1.34",
+      "take": "The release says Q2 GAAP results were impacted by a $2.0 billion gain recognized on the MiniMed separation, which was completed via an exchange offer on October 15, 2026. GAAP net income attributable to Medtronic was $2.802 billion versus $1,374 million; non-GAAP was $1.700 billion versus $1,746 million. Comparing the two lines is the cleaner read of the quarter's underlying earnings.",
+      "source_name": "Medtronic (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001613103/000162828026075604/exhibit991-fy27q2earningsr.htm",
+      "ticker": "NYSE:MDT",
+      "checked": "2026-11-24T18:39:25Z"
+    },
+    {
+      "id": "2026-11-24-mdt-fy27-guidance-maintained-organic-7p25-7p75-eps-5p94-6p00",
+      "time": "2026-11-24T19:05:25Z",
+      "tag": "EQUITIES",
+      "headline": "Medtronic maintains FY27 outlook: organic growth 7.25%-7.75%, EPS $5.94-$6.00",
+      "take": "Medtronic said it is maintaining its fiscal 2027 ranges: organic revenue growth of 7.25% to 7.75% and diluted non-GAAP EPS of $5.94 to $6.00, while absorbing the impact of the Diabetes business separation. The EPS guidance includes an estimated neutral impact from foreign currency based on recent rates. Unchanged ranges after a quarter the company says landed slightly above its guidance midpoint point to steady execution rather than a change in outlook.",
+      "source_name": "Medtronic (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001613103/000162828026075604/exhibit991-fy27q2earningsr.htm",
+      "ticker": "NYSE:MDT",
+      "checked": "2026-11-24T18:39:25Z"
+    },
+    {
+      "id": "2026-11-24-mdt-q2-electrophysiology-2p16b-cardiovascular-3p79b",
+      "time": "2026-11-24T19:17:25Z",
+      "tag": "EQUITIES",
+      "headline": "Medtronic Q2: Cardiovascular $3.79B, Electrophysiology $2.16B vs $1.83B",
+      "take": "Medtronic's Cardiovascular Portfolio revenue was $3,785 million versus $3,436 million in Q2 FY26, up 10.2% reported, and Electrophysiology Therapies within it was $2,157 million versus $1,825 million, up 18.1%. Neuroscience was $2,705 million, up 5.1%, and Medical Surgical was $2,245 million, up 3.9%. Electrophysiology growth outpaced the other portfolios listed here.",
+      "source_name": "Medtronic (SEC 8-K Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001613103/000162828026075604/exhibit991-fy27q2earningsr.htm",
+      "ticker": "NYSE:MDT",
+      "checked": "2026-11-24T18:39:25Z"
+    },
     {
       "id": "2026-11-24-williams-risk-balance-no-rate-path",
       "time": "2026-11-24T18:22:08Z",
@@ -5054,50 +5098,6 @@
       "ticker": "NYSE:LNG",
       "time": "2026-11-18T14:09:15Z",
       "checked": "2026-11-18T13:39:15Z"
-    },
-    {
-      "id": "2026-11-18-lng-notes-unregistered-no-guarantee",
-      "tag": "DEBT",
-      "headline": "Cheniere's 2037 notes sold under Rule 144A, ranking equally with senior debt, not initially guaranteed",
-      "take": "Cheniere's 8-K says the notes were sold in reliance on Rule 144A and Regulation S and were not registered under the Securities Act. They are senior unsubordinated obligations ranking equally with its other senior unsubordinated debt and are not initially guaranteed by subsidiaries; a subsidiary that guarantees or co-obligates on Cheniere's 4.625% senior notes due 2028 would also guarantee them. AlphaGen read: the guarantee link to the 2028 notes is the structural detail to watch.",
-      "source_name": "Cheniere Energy, Inc. (Form 8-K, Item 1.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526465510/0001193125-26-465510.txt",
-      "ticker": "NYSE:LNG",
-      "time": "2026-11-18T13:55:15Z",
-      "checked": "2026-11-18T13:39:15Z"
-    },
-    {
-      "id": "2026-11-18-lng-notes-1p2b-5p8-2037",
-      "tag": "CREDIT",
-      "headline": "Cheniere closes $1.2B of 5.800% senior notes due 2037, issued at 99.313% of par",
-      "take": "Cheniere Energy said it closed the sale of $1.2 billion aggregate principal amount of 5.800% Senior Notes due 2037 on Nov. 17, issued at 99.313% of par. The notes mature March 15, 2037, with interest payable semi-annually from March 15, 2027. AlphaGen read: at that issue price, par value times 99.313% works out to about $1,191.8 million before any fees or expenses, which the filing does not state.",
-      "source_name": "Cheniere Energy, Inc. (Form 8-K, Item 1.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/3570/000119312526465510/0001193125-26-465510.txt",
-      "ticker": "NYSE:LNG",
-      "time": "2026-11-18T13:41:15Z",
-      "checked": "2026-11-18T13:39:15Z"
-    },
-    {
-      "id": "2026-11-18-tgt-q3-eps-2p65-tariff-refund-0p50",
-      "time": "2026-11-18T12:56:00Z",
-      "tag": "EARNINGS",
-      "headline": "Target Q3 EPS $2.65 includes $0.50 from tariff refunds",
-      "take": "Target reported third-quarter 2026 GAAP diluted EPS of $2.65 versus $1.51 a year earlier, and net earnings of $1,211 million versus $689 million. The release says tariff refunds of $301 million pretax added $228 million to net earnings and $0.50 to both GAAP and Adjusted EPS. AlphaGen read: by simple subtraction, EPS without the refund benefit would have been $2.15, against prior-year Adjusted EPS of $1.78.",
-      "source_name": "Target Corporation Q3 2026 earnings release (SEC Exhibit 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000027419/000002741926000051/a2026q3ex-99.htm",
-      "ticker": "NYSE:TGT",
-      "checked": "2026-11-18T12:50:00Z"
-    },
-    {
-      "id": "2026-11-18-tgt-raises-2026-outlook-eps-10p65-11p40",
-      "time": "2026-11-18T13:03:00Z",
-      "tag": "EARNINGS",
-      "headline": "Target lifts 2026 outlook: net sales growth near 6%, EPS $10.65 to $11.40",
-      "take": "Target's Nov. 18 release updates full-year 2026 guidance to net sales growth in a range around 6 percent, one percentage point above the prior range, and GAAP and Adjusted EPS of $10.65 to $11.40. The EPS range includes about $2.14 of tariff refund benefits recognized to date and excludes any future refunds. AlphaGen read: roughly a fifth of the top of the EPS range comes from tariff refunds rather than operations.",
-      "source_name": "Target Corporation Q3 2026 earnings release (SEC Exhibit 99)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/0000027419/000002741926000051/a2026q3ex-99.htm",
-      "ticker": "NYSE:TGT",
-      "checked": "2026-11-18T12:50:00Z"
     }
   ]
 }
