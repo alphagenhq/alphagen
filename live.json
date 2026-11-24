@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T16:27:13Z",
+ "updated": "2026-11-24T02:59:59Z",
  "items": [
+  {
+   "id": "live-0001552781-26-000567-5.02",
+   "time": "2026-11-23T21:35:42Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Coca Cola reports an executive or board change",
+   "take": "Coca Cola reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:35 PM ET, Nov 23.",
+   "source_name": "SEC EDGAR, KO Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/0001552781-26-000567-index.htm",
+   "ticker": "NYSE:KO"
+  },
+  {
+   "id": "live-0001744489-26-000069-5.02",
+   "time": "2026-11-23T21:22:30Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Walt Disney reports an executive or board change",
+   "take": "Walt Disney reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:22 PM ET, Nov 23.",
+   "source_name": "SEC EDGAR, DIS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000069/0001744489-26-000069-index.htm",
+   "ticker": "NYSE:DIS"
+  },
+  {
+   "id": "live-0001140361-26-045300-5.02",
+   "time": "2026-11-23T21:20:20Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Bristol Myers Squibb reports an executive or board change",
+   "take": "Bristol Myers Squibb reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:20 PM ET, Nov 23.",
+   "source_name": "SEC EDGAR, BMY Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/0001140361-26-045300-index.htm",
+   "ticker": "NYSE:BMY"
+  },
+  {
+   "id": "live-0001193125-26-472369-5.02",
+   "time": "2026-11-23T21:15:23Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Consolidated Edison reports an executive or board change",
+   "take": "Consolidated Edison reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:15 PM ET, Nov 23.",
+   "source_name": "SEC EDGAR, ED Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526472369/0001193125-26-472369-index.htm",
+   "ticker": "NYSE:ED"
+  },
+  {
+   "id": "live-0001403161-26-000143-5.02",
+   "time": "2026-11-23T21:13:18Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Visa reports an executive or board change",
+   "take": "Visa reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:13 PM ET, Nov 23.",
+   "source_name": "SEC EDGAR, V Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/0001403161-26-000143-index.htm",
+   "ticker": "NYSE:V"
+  },
+  {
+   "id": "live-0001645590-26-000097-2.02",
+   "time": "2026-11-23T21:12:08Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Hewlett Packard Enterprise releases financial results",
+   "take": "Hewlett Packard Enterprise filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:12 PM ET, Nov 23.",
+   "source_name": "SEC EDGAR, HPE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000097/0001645590-26-000097-index.htm",
+   "ticker": "NYSE:HPE"
+  },
   {
    "id": "live-0001193125-26-471211-1.01",
    "time": "2026-11-23T15:01:16Z",
@@ -3234,72 +3300,6 @@
    "source_name": "SEC EDGAR, HBAN Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/0000049196-26-000084-index.htm",
    "ticker": "NASDAQ:HBAN"
-  },
-  {
-   "id": "live-0000773840-26-000141-2.02",
-   "time": "2026-10-22T10:02:13Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Honeywell International releases financial results",
-   "take": "Honeywell International filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:02 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, HON Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000141/0000773840-26-000141-index.htm",
-   "ticker": "NASDAQ:HON"
-  },
-  {
-   "id": "live-0001004980-26-000056-2.02",
-   "time": "2026-10-22T01:04:50Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "PG&E releases financial results",
-   "take": "PG&E filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 9:04 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, PCG Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498026000056/0001004980-26-000056-index.htm",
-   "ticker": "NYSE:PCG"
-  },
-  {
-   "id": "live-0000070858-26-000494-5.02",
-   "time": "2026-10-21T21:07:03Z",
-   "tag": "EQUITIES",
-   "live": true,
-   "headline": "Bank of America reports an executive or board change",
-   "take": "Bank of America reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 5:07 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, BAC Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000494/0000070858-26-000494-index.htm",
-   "ticker": "NYSE:BAC"
-  },
-  {
-   "id": "live-0001628280-26-066738-2.02",
-   "time": "2026-10-21T20:41:42Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Tesla releases financial results",
-   "take": "Tesla filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:41 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, TSLA Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/0001628280-26-066738-index.htm",
-   "ticker": "NASDAQ:TSLA"
-  },
-  {
-   "id": "live-0001193125-26-427920-5.02",
-   "time": "2026-10-21T20:37:17Z",
-   "tag": "EQUITIES",
-   "live": true,
-   "headline": "Dell Technologies reports an executive or board change",
-   "take": "Dell Technologies reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 4:37 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, DELL Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526427920/0001193125-26-427920-index.htm",
-   "ticker": "NYSE:DELL"
-  },
-  {
-   "id": "live-0001067701-26-000036-2.02",
-   "time": "2026-10-21T20:25:20Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "United Rentals releases financial results",
-   "take": "United Rentals filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:25 PM ET, Oct 21. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, URI Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1067701/000106770126000036/0001067701-26-000036-index.htm",
-   "ticker": "NYSE:URI"
   }
  ]
 }
