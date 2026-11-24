@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-24T02:39:17Z",
+  "updated": "2026-11-24T03:44:30Z",
   "items": [
+    {
+      "id": "2026-11-23-fred-10y-2y-spread-nov23-029-unchanged",
+      "time": "2026-11-24T03:49:30Z",
+      "tag": "RATES",
+      "headline": "10-year minus 2-year Treasury spread 0.29 pt on Nov. 23, same as Nov. 20",
+      "take": "FRED's T10Y2Y series shows the 10-year minus 2-year Treasury constant-maturity spread at 0.29 percentage points on Nov. 23, unchanged from Nov. 20. AlphaGen read: the curve slope has now held between 0.27 and 0.30 points for each daily reading since Nov. 16.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+      "checked": "2026-11-24T03:44:30Z"
+    },
+    {
+      "id": "2026-11-23-bls-jobs-oct-unemployment-by-group-men-3p9-women-3p6-asian-2p8-hispanic-4p7",
+      "time": "2026-11-24T04:14:30Z",
+      "tag": "MACRO",
+      "headline": "BLS October jobs: Asian unemployment 2.8%, Hispanic 4.7%, adult men 3.9%",
+      "take": "In the Employment Situation report released Nov. 6, BLS listed October unemployment rates of 3.9% for adult men, 3.6% for adult women, 3.7% for White, 6.6% for Black, 2.8% for Asian and 4.7% for Hispanic workers, with the overall rate at 4.1%. BLS said the rates showed little or no change in October. AlphaGen read: the November report, due Dec. 4, will show whether the spread between groups holds.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "checked": "2026-11-24T03:44:30Z"
+    },
     {
       "id": "2026-11-24-hpe-q4-fy26-revenue-14p5b-up-50pct",
       "time": "2026-11-24T02:41:17Z",
@@ -5081,26 +5101,6 @@
       "take": "FRED's 10-year minus 2-year Treasury constant-maturity spread was 0.29 percentage point on Nov. 16, up 0.02 from 0.27 on Nov. 13 and below the 0.35 recorded on Nov. 6. The 10-year breakeven inflation rate was 2.20 percent on Nov. 16, down 0.04 from 2.24 percent on Nov. 13. AlphaGen read: the curve gap has narrowed from early November, with the two latest readings edging back up.",
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-      "checked": "2026-11-17T22:38:21Z"
-    },
-    {
-      "id": "2026-11-17-bea-sept-pce-prices-headline-core-gap",
-      "time": "2026-11-17T23:14:00Z",
-      "tag": "MACRO",
-      "headline": "September PCE prices up 3.6% on the year; 3.1% excluding food and energy",
-      "take": "BEA's September release showed the PCE price index up 3.6 percent from a year earlier and up 3.1 percent excluding food and energy, a 0.5 percentage point gap. For the month, the headline index rose 0.5 percent and the core index 0.3 percent. AlphaGen read: food and energy added to headline PCE inflation in both the monthly and the annual comparisons.",
-      "source_name": "U.S. Bureau of Economic Analysis",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-      "checked": "2026-11-17T22:38:21Z"
-    },
-    {
-      "id": "2026-11-17-bea-sept-pce-services-78b-goods-35b",
-      "time": "2026-11-17T23:03:00Z",
-      "tag": "MACRO",
-      "headline": "September PCE: services spending up $78.1B, goods up $35.1B",
-      "take": "BEA said the $113.1 billion September increase in current-dollar personal consumption expenditures reflected a $35.1 billion increase in spending on goods and a $78.1 billion increase in spending on services. The services gain was 2.2 times the goods gain. AlphaGen read: most of the nominal rise in September spending came from services rather than goods.",
-      "source_name": "U.S. Bureau of Economic Analysis",
-      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
       "checked": "2026-11-17T22:38:21Z"
     }
   ]
