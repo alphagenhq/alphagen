@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-25T12:40:19Z",
+ "updated": "2026-11-25T23:39:03Z",
  "items": [
+  {
+   "id": "2026-11-25-american-tower-eur1p2b-senior-notes",
+   "time": "2026-11-26T00:10:00Z",
+   "type": "Debt",
+   "headline": "American Tower completes €1.2B senior notes offering",
+   "parties": "Issuer: American Tower Corporation",
+   "value": null,
+   "value_text": "€1.2B (€600M 4.200% due 2031; €600M 4.500% due 2034)",
+   "status": "Raised",
+   "announced": "2026-11-25",
+   "sector": "Real estate / towers",
+   "take": "American Tower completed a registered offering of €600.0 million of 4.200% senior unsecured notes due 2031 and €600.0 million of 4.500% notes due 2034. Net proceeds of approximately €1,191.3 million are intended for general corporate purposes, including refinancing upcoming euro maturities.",
+   "source_name": "American Tower Corp., Form 8-K (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312526478472/0001193125-26-478472.txt",
+   "tickers": [
+    "NYSE:AMT"
+   ],
+   "checked": "2026-11-25T23:39:03Z"
+  },
   {
    "id": "2026-11-24-alphabet-c6b-canadian-senior-notes",
    "time": "2026-11-25T12:45:19Z",
