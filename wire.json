@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-25T00:39:28Z",
+ "updated": "2026-11-25T01:39:08Z",
  "items": [
+  {
+   "id": "2026-11-25-fred-breakevens-nov24-5y-211-10y-212-lowest-since-2024",
+   "time": "2026-11-25T01:41:00Z",
+   "tag": "RATES",
+   "headline": "Treasury breakevens fall again: 5-year 2.11%, 10-year 2.12% on Nov. 24",
+   "take": "FRED shows the 5-year breakeven inflation rate at 2.11% on Nov. 24, down from 2.26% on Nov. 17, and the 10-year at 2.12%, down from 2.21%. The 5-year was last at or below 2.11% on Oct. 3, 2024, and the 10-year last at or below 2.12% on Sept. 18, 2024. AlphaGen read: breakevens are the gap between nominal and inflation-protected Treasury yields, so they measure what the market is pricing for inflation compensation, not an official forecast.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE, T10YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "checked": "2026-11-25T01:39:08Z"
+  },
+  {
+   "id": "2026-11-25-fred-3m-bill-nov23-437-37bp-above-fed-range-top",
+   "time": "2026-11-25T01:49:00Z",
+   "tag": "FED",
+   "headline": "3-month Treasury yield rose to 4.37% on Nov. 23, 37 bp above Fed range top",
+   "take": "FRED shows the 3-month constant-maturity Treasury yield at 4.37% on Nov. 23, up from 4.32% on Nov. 20 and the highest since July 31, 2025. The Fed's federal funds target range is 3.75% to 4.00%, so the bill yield sat 37 bp above the top of the range. With the 10-year at 4.92%, the 10-year minus 3-month gap narrowed to 55 bp from 60 bp. AlphaGen read: the front end of the curve moved up while longer yields were unchanged on the day.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS3MO, DGS10, DFEDTARU)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
+   "checked": "2026-11-25T01:39:08Z"
+  },
+  {
+   "id": "2026-11-25-fred-hy-tiers-nov23-bb-219-ccc-1387-bbb-120",
+   "time": "2026-11-25T01:57:00Z",
+   "tag": "CREDIT",
+   "headline": "Credit spreads narrowed across tiers on Nov. 23: BB 2.19%, CCC 13.87%, BBB 1.20%",
+   "take": "ICE BofA option-adjusted spreads on FRED fell on Nov. 23 from Nov. 20: BB 2.19% (from 2.29%, down 10 bp), CCC and lower 13.87% (from 14.02%, down 15 bp) and BBB 1.20% (from 1.22%, down 2 bp). The BB and CCC readings were still above their Nov. 16 levels of 1.96% and 13.10%. AlphaGen read: the pullback was broad, but weekly levels remain wider than at the start of the week.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLH0A1HYBB, BAMLH0A3HYC, BAMLC0A4CBBB)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A1HYBB",
+   "checked": "2026-11-25T01:39:08Z"
+  },
+  {
+   "id": "2026-11-25-fred-oecd-10y-yields-oct-gilt-534-bund-342-jgb-276",
+   "time": "2026-11-25T02:05:00Z",
+   "tag": "GLOBAL",
+   "headline": "October long-term yields: UK 5.34%, Germany 3.42%, Japan 2.76%",
+   "take": "OECD monthly long-term government bond yields on FRED for October 2026 were 5.34% in the UK (up from 5.24% in September, highest monthly reading since July 2007), 3.42% in Germany (down from 3.47%) and 2.76% in Japan (down from 3.05%). The UK-Germany gap widened to 192 bp from 177 bp. AlphaGen read: the three markets moved in different directions in October, with UK yields continuing a climb that began in February.",
+   "source_name": "OECD via FRED, Federal Reserve Bank of St. Louis (IRLTLT01GBM156N, IRLTLT01DEM156N, IRLTLT01JPM156N)",
+   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
+   "checked": "2026-11-25T01:39:08Z"
+  },
+  {
+   "id": "2026-11-25-fred-housing-starts-oct-1309k-up-9p9pct-from-sep",
+   "time": "2026-11-25T02:13:00Z",
+   "tag": "HOUSING",
+   "headline": "Housing starts rose to 1.309M annual rate in October, up 9.9% from September",
+   "take": "Census housing starts, as published on FRED, were 1,309 thousand at a seasonally adjusted annual rate in October, up 9.9% from 1,191 thousand in September and 2.8% above the 1,273 thousand of October 2025. Starts had fallen in July, August and September, from 1,439 thousand in June. Building permits were 1,295 thousand in October. AlphaGen read: October's rebound ended a three-month decline, with starts running 14 thousand above permits.",
+   "source_name": "U.S. Census Bureau / HUD via FRED (HOUST, PERMIT)",
+   "source_url": "https://fred.stlouisfed.org/series/HOUST",
+   "checked": "2026-11-25T01:39:08Z"
+  },
   {
    "id": "2026-11-25-qsr-completes-1b-secured-notes-6p000-2031-6p400-2036",
    "time": "2026-11-25T00:41:00Z",
@@ -5042,58 +5092,6 @@
    "take": "EIA said Southwest hydropower generation from April through August 2026 was 19% below the same period last year and 28% below the 10-year average, with Lake Powell at 3,518 feet at the end of September, less than 1% above the 3,490-foot minimum power pool. Its November outlook sees 2026 Southwest hydropower at 6.13 BkWh, 9% below last year. AlphaGen read: EIA says one good water year likely won't eliminate the effects of multiple years of water scarcity.",
    "source_name": "EIA, Today in Energy",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
-   "checked": "2026-11-18T19:38:18Z"
-  },
-  {
-   "id": "2026-11-18-bea-outdoor-recreation-2025-704b-2p3pct-gdp",
-   "time": "2026-11-18T19:59:18Z",
-   "tag": "MACRO",
-   "headline": "BEA: Outdoor recreation was 2.3% of GDP in 2025, $704.2B of value added",
-   "take": "BEA said outdoor recreation value added was $704.2 billion, 2.3% of current-dollar GDP, in 2025. Real outdoor recreation GDP rose 1.9%, versus 2.3% for the overall U.S. economy and 2.5% for the sector in 2024; employment rose 1.7% and compensation 4.6%. AlphaGen read: the sector grew slightly slower than the economy in 2025, with boating/fishing the largest conventional activity at $39.1 billion.",
-   "source_name": "Bureau of Economic Analysis",
-   "source_url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
-   "checked": "2026-11-18T19:38:18Z"
-  },
-  {
-   "id": "2026-11-18-oxy-tender-offers-two-pools-500m-caps",
-   "time": "2026-11-18T20:05:18Z",
-   "tag": "DEBT",
-   "headline": "Occidental launches cash tender offers for senior notes, with $500M caps in two pools",
-   "take": "Occidental said it began cash tender offers and consent solicitations for 16 series of senior notes and debentures, with up to $500.0 million aggregate principal amount in each of two pools, subject to increase by Occidental. The early tender time is 5:00 p.m. New York time on Dec. 2, 2026, and the offers expire at 5:00 p.m. on Dec. 17, 2026; an early tender premium of $30 per $1,000 applies. AlphaGen read: pricing is set at fixed spreads over Treasury yields, so the final price will depend on Treasury yields at the Dec. 3 price determination time.",
-   "source_name": "Occidental (8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/797468/000095015726001273/ex99-1.htm",
-   "ticker": "NYSE:OXY",
-   "checked": "2026-11-18T19:38:18Z"
-  },
-  {
-   "id": "2026-11-18-fcx-ptfi-750m-6p90-notes-2033",
-   "time": "2026-11-18T20:11:18Z",
-   "tag": "CREDIT",
-   "headline": "Freeport's Indonesian unit prices $750M of 6.90% senior notes due 2033",
-   "take": "Freeport-McMoRan said PT Freeport Indonesia, a 48.76%-owned subsidiary, priced US$750.0 million of 6.90% senior notes due Nov. 24, 2033, with settlement expected Nov. 24, 2026. Proceeds are intended to refinance existing indebtedness and for general corporate purposes. AlphaGen read: the notes will be included in FCX's consolidated debt, according to the filing.",
-   "source_name": "Freeport-McMoRan (Form 8-K)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/831259/000083125926000053/0000831259-26-000053.txt",
-   "ticker": "NYSE:FCX",
-   "checked": "2026-11-18T19:38:18Z"
-  },
-  {
-   "id": "2026-11-18-fred-initial-claims-nov7-200k",
-   "time": "2026-11-18T20:17:18Z",
-   "tag": "MACRO",
-   "headline": "Initial jobless claims 200,000 in week ended Nov. 7, up 9,000 from 191,000",
-   "take": "FRED's latest observation shows seasonally adjusted initial claims of 200,000 for the week ended Nov. 7, up 9,000 from 191,000 the prior week. Weekly readings since early October have ranged from 191,000 to 200,000. AlphaGen read: claims remain in a narrow band, a data point to weigh alongside the labor-market reports.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/ICSA",
-   "checked": "2026-11-18T19:38:18Z"
-  },
-  {
-   "id": "2026-11-18-fred-fed-total-assets-nov11-6p759t",
-   "time": "2026-11-18T20:23:18Z",
-   "tag": "FED",
-   "headline": "Fed total assets $6.759 trillion on Nov. 11, up $10.7B in a week",
-   "take": "FRED's latest weekly observation shows Federal Reserve total assets of $6,758,867 million on Nov. 11, up $10,722 million from $6,748,145 million on Nov. 4. Total assets were $6,745,635 million on Oct. 28, so the Nov. 11 level is $13.2 billion higher over two weeks. AlphaGen read: the balance sheet has moved within a narrow range since early October.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis",
-   "source_url": "https://fred.stlouisfed.org/series/WALCL",
    "checked": "2026-11-18T19:38:18Z"
   }
  ]
