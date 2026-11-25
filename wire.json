@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-25T13:38:52Z",
+  "updated": "2026-11-25T14:44:40Z",
   "items": [
+    {
+      "id": "2026-11-25-census-durable-goods-oct-orders-346p7b-up-0p2",
+      "tag": "MACRO",
+      "headline": "Census: October durable goods orders up 0.2% to $346.7B after 2.0% gain in September",
+      "take": "New orders for manufactured durable goods rose $0.8 billion, or 0.2%, to $346.7 billion in October, up in seven of the last eight months, Census reported on Nov. 25. That followed a 2.0% increase in September. Orders have now risen in most recent months, though the October gain was far smaller than September's.",
+      "source_name": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "time": "2026-11-25T14:46:40Z",
+      "checked": "2026-11-25T14:44:40Z"
+    },
+    {
+      "id": "2026-11-25-census-durable-goods-oct-ex-transport-0p5-machinery-1p8",
+      "tag": "MACRO",
+      "headline": "Census: October durable orders ex-transportation up 0.5%; machinery up 1.8% to $46.8B",
+      "take": "Excluding transportation, new durable goods orders increased 0.5% in October, and excluding defense they rose 0.4%. Machinery drove the headline gain, up $0.8 billion, or 1.8%, to $46.8 billion, and has risen in twenty-one of the last twenty-two months. Core orders growing faster than the 0.2% total points to strength outside transportation.",
+      "source_name": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/manufacturing/m3/adv/current/index.html",
+      "time": "2026-11-25T15:01:40Z",
+      "checked": "2026-11-25T14:44:40Z"
+    },
+    {
+      "id": "2026-11-25-fred-2y-10y-treasury-nov16-23-down-20bp",
+      "tag": "RATES",
+      "headline": "2-year Treasury yield 4.63% on Nov. 23, down 20 bp from 4.83% on Nov. 16; 10-year 4.92%",
+      "take": "FRED shows the 2-year Treasury constant-maturity yield at 4.63% on Nov. 23 versus 4.83% on Nov. 16, a 20 basis point decline. The 10-year fell by the same 20 bp, from 5.12% to 4.92%. The parallel move left the curve shape little changed, with the 10-year yield 29 bp above the 2-year on Nov. 23.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "time": "2026-11-25T15:16:40Z",
+      "checked": "2026-11-25T14:44:40Z"
+    },
+    {
+      "id": "2026-11-25-fred-30y-5p29-nov23-from-5p46-nov16-term-premium-gap-37bp",
+      "tag": "RATES",
+      "headline": "30-year Treasury yield 5.29% on Nov. 23 from 5.46% on Nov. 16; 37 bp above 10-year",
+      "take": "The 30-year Treasury yield was 5.29% on Nov. 23, down 17 bp from 5.46% on Nov. 16, per FRED. The 30-year sat 37 bp above the 10-year (4.92%), wider than the 34 bp gap on Nov. 16 (5.46% vs. 5.12%). Long yields fell less than the 20 bp drop at the 2-year and 10-year, so the long end steepened slightly.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "time": "2026-11-25T15:31:40Z",
+      "checked": "2026-11-25T14:44:40Z"
+    },
     {
       "id": "2026-11-25-bea-gdp-q3-second-estimate-4p3-from-3p4",
       "tag": "MACRO",
@@ -5046,50 +5086,6 @@
       "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
       "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
       "ticker": "NASDAQ:PANW",
-      "checked": "2026-11-19T00:39:15Z"
-    },
-    {
-      "id": "2026-11-18-panw-intent-acquire-applied-compute",
-      "time": "2026-11-19T01:02:15Z",
-      "tag": "DEALS",
-      "headline": "Palo Alto Networks announces intent to acquire Applied Compute",
-      "take": "Palo Alto Networks said in its Nov. 18 earnings release that it intends to acquire Applied Compute, which it describes as a platform for post-training and inference of open-weight AI models. The release says the deal would let it deliver secure open weight models to customers. AlphaGen read: the release excerpt gives no price or closing timetable, so terms remain undisclosed there.",
-      "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
-      "ticker": "NASDAQ:PANW",
-      "checked": "2026-11-19T00:39:15Z"
-    },
-    {
-      "id": "2026-11-18-spgi-2b-senior-notes-three-tranches",
-      "time": "2026-11-19T01:09:15Z",
-      "tag": "CREDIT",
-      "headline": "S&P Global completes $2.0B senior notes offering in three tranches",
-      "take": "S&P Global completed an offering on Nov. 18 of $750 million of 5.600% senior notes due 2031, $600 million of 5.800% notes due 2034 and $650 million of 6.000% notes due 2036, totaling $2.0 billion. It intends to use net proceeds for general corporate purposes, which may include acquisitions, debt repayment or refinancing, capex, working capital or share repurchases. AlphaGen read: the coupons span 5.600% to 6.000% across five-to-ten-year maturities.",
-      "source_name": "S&P Global Inc. (Form 8-K, Item 1.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710.txt",
-      "ticker": "NYSE:SPGI",
-      "checked": "2026-11-19T00:39:15Z"
-    },
-    {
-      "id": "2026-11-18-lpla-750m-5p850-notes-2029",
-      "time": "2026-11-19T01:16:15Z",
-      "tag": "CREDIT",
-      "headline": "LPL Holdings sells $750M of 5.850% senior notes due 2029",
-      "take": "LPL Holdings, a wholly owned subsidiary of LPL Financial, completed the sale of $750 million of 5.850% senior notes due 2029 on Nov. 18; the notes mature Nov. 16, 2029, with interest payable semi-annually from May 16, 2027. Proceeds are intended to repay revolving credit facility borrowings and for general corporate purposes. AlphaGen read: the notes are guaranteed by LPL Financial Holdings on a senior unsecured basis.",
-      "source_name": "LPL Financial Holdings Inc. (Form 8-K, Item 1.01)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1397911/000119312526467125/0001193125-26-467125.txt",
-      "ticker": "NASDAQ:LPLA",
-      "checked": "2026-11-19T00:39:15Z"
-    },
-    {
-      "id": "2026-11-18-mrk-glocer-retire-baker-lead-director",
-      "time": "2026-11-19T01:23:15Z",
-      "tag": "EQUITIES",
-      "headline": "Merck: Glocer to retire from board in May 2027; Baker named lead director",
-      "take": "Merck said Thomas Glocer intends to retire from its board at the May 2027 annual meeting. Independent directors appointed Douglas Baker, Jr., a director since 2022, as independent lead director effective Jan. 1, 2027, succeeding Glocer in that role. AlphaGen read: the change is a board governance transition with defined effective dates.",
-      "source_name": "Merck & Co., Inc. (Form 8-K, Item 5.02)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/ex991.htm",
-      "ticker": "NYSE:MRK",
       "checked": "2026-11-19T00:39:15Z"
     }
   ]
