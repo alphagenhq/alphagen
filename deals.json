@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-23T12:40:23Z",
+ "updated": "2026-11-25T11:38:50Z",
  "items": [
+  {
+   "id": "2026-11-24-uhs-aiken-regional-piedmont",
+   "time": "2026-11-25T11:52:00Z",
+   "type": "M&A",
+   "headline": "Universal Health Services to sell Aiken Regional Medical Centers to Piedmont Healthcare for about $500M",
+   "parties": "Acquirer: Piedmont Healthcare; Target: Aiken Regional Medical Centers (Universal Health Services subsidiary)",
+   "value": 0.5,
+   "value_text": "About $500M, subject to adjustments",
+   "status": "Pending",
+   "announced": "2026-11-24",
+   "sector": "Healthcare",
+   "take": "The sale covers a 211-bed acute care hospital and a 62-bed behavioral health pavilion in Aiken, South Carolina, and is subject to customary closing conditions including regulatory approvals. Closing is scheduled for the later of five business days after conditions are met or January 31, 2027.",
+   "source_name": "SEC EDGAR, UHS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526475734/0001193125-26-475734.txt",
+   "tickers": [
+    "NYSE:UHS"
+   ],
+   "checked": "2026-11-25T11:38:50Z"
+  },
   {
    "id": "2026-11-23-crowdstrike-zscaler",
    "time": "2026-11-23T12:40:23Z",

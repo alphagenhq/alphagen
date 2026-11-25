@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-25T03:44:12Z",
+ "updated": "2026-11-25T11:38:50Z",
  "items": [
+  {
+   "id": "2026-11-25-amgn-abp206-opdivo-biosimilar-settlement-launch-oct-2028",
+   "time": "2026-11-25T11:41:00Z",
+   "tag": "EQUITIES",
+   "headline": "Amgen settles with BMS; Opdivo biosimilar ABP 206 U.S. launch set for Oct. 1, 2028",
+   "take": "Amgen said it reached a settlement with Bristol-Myers Squibb, E. R. Squibb & Sons and Ono Pharmaceutical resolving U.S. patent litigation over ABP 206, its investigational biosimilar to Opdivo (nivolumab). Amgen will launch ABP 206 in the U.S. on October 1, 2028, subject to FDA approval, and the FDA is expected to act on its application by the end of 2026; settlement terms are confidential. AlphaGen read: the settlement fixes a launch date for the biosimilar, but the date still depends on regulatory approval.",
+   "source_name": "Amgen news release (SEC 8-K Exhibit 99.1)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/318154/000119312526475833/amgn-ex99_1.htm",
+   "ticker": "NASDAQ:AMGN",
+   "checked": "2026-11-25T11:38:50Z"
+  },
+  {
+   "id": "2026-11-25-uhs-aiken-regional-sale-piedmont-500m",
+   "time": "2026-11-25T11:52:00Z",
+   "tag": "DEALS",
+   "headline": "Universal Health Services agrees to sell Aiken Regional Medical Centers for about $500M",
+   "take": "Universal Health Services entered into an equity purchase agreement with Piedmont Healthcare to sell the subsidiary that operates Aiken Regional Medical Centers in Aiken, South Carolina, a 211-bed acute care hospital with a 62-bed behavioral health pavilion. The sale price is approximately $500 million, subject to adjustments and customary closing conditions including regulatory approvals, with closing scheduled for the later of five business days after conditions are met or January 31, 2027. AlphaGen read: the filing also ties the deal to a possible property substitution with Universal Health Realty Income Trust, which UHS expects to propose by early January 2027.",
+   "source_name": "SEC EDGAR, UHS Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526475734/0001193125-26-475734.txt",
+   "ticker": "NYSE:UHS",
+   "checked": "2026-11-25T11:38:50Z"
+  },
+  {
+   "id": "2026-11-25-qcom-value-creation-awards-amon-50m-palkhiwala-15m",
+   "time": "2026-11-25T12:05:00Z",
+   "tag": "EQUITIES",
+   "headline": "Qualcomm board grants special performance awards: $50M target for CEO, $15M for CFO",
+   "take": "Qualcomm's board approved on November 20 special long-term awards of performance-based restricted stock units with a target value of $50 million for CEO Cristiano Amon and $15 million for CFO and COO Akash Palkhiwala. The units can be earned only by meeting stock-price hurdles over a five-year performance period, with five tranches and a maximum of 300% of target if every hurdle is met. AlphaGen read: the filing describes the awards as a one-time grant outside regular annual pay, which makes the performance structure the main item for shareholders to weigh.",
+   "source_name": "SEC EDGAR, QCOM Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138.txt",
+   "ticker": "NASDAQ:QCOM",
+   "checked": "2026-11-25T11:38:50Z"
+  },
+  {
+   "id": "2026-11-25-fed-discount-rate-minutes-oct-19-28",
+   "time": "2026-11-25T12:18:00Z",
+   "tag": "FED",
+   "headline": "Fed Board releases minutes of Oct. 19 and Oct. 28 discount rate meetings",
+   "take": "The Federal Reserve Board on November 24 released minutes of its meetings on October 19 and October 28, 2026 to review and determine the discount rates provided to depository institutions through the discount window. The Board said its process for setting the discount rate is distinct from the process the FOMC follows in setting the target range for the federal funds rate. AlphaGen read: these minutes cover discount window pricing, not the FOMC's policy decisions.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "checked": "2026-11-25T11:38:50Z"
+  },
   {
    "id": "2026-11-25-fred-fed-total-assets-nov18-6p741t-down-17p4b",
    "time": "2026-11-25T03:49:00Z",
@@ -5050,48 +5093,6 @@
    "source_name": "TJX Companies (Form 8-K, Ex. 99.1)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
    "ticker": "NYSE:TJX",
-   "checked": "2026-11-18T21:39:14Z"
-  },
-  {
-   "id": "2026-11-18-low-q3-dividends-701m-1762-stores",
-   "time": "2026-11-18T22:00:14Z",
-   "tag": "EARNINGS",
-   "headline": "Lowe's: paid $701M in Q3 dividends; operated 1,762 stores at Oct. 30",
-   "take": "Lowe's said it paid $701 million in dividends during the third quarter and operated 1,762 stores with 197.0 million square feet of retail selling space as of Oct. 30, 2026. The release also cited a sixth consecutive quarter of positive comparable sales. AlphaGen read: the capital-return figure is a payout already made, separate from the full-year outlook the company updated.",
-   "source_name": "Lowe's Companies (Form 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126-index.htm",
-   "ticker": "NYSE:LOW",
-   "checked": "2026-11-18T21:39:14Z"
-  },
-  {
-   "id": "2026-11-18-tgt-q3-digital-comps-9p8-non-merch-20pct",
-   "time": "2026-11-18T22:07:14Z",
-   "tag": "EARNINGS",
-   "headline": "Target: Q3 digital comps up 9.8%, store comps up 4.6%, traffic up 5.0%",
-   "take": "Target said third-quarter comparable sales grew 5.6%, driven by a 5.0% increase in comparable traffic, with store comparable sales up 4.6% and digital comparable sales up 9.8%. Non-merchandise sales grew nearly 20%, which the company tied to Roundel advertising, Target Circle Card profit sharing, Target Circle 360 membership and the Target+ marketplace. The release also said November net sales to date were in line with company guidance and accelerating from October trends.",
-   "source_name": "Target Corp. (Form 8-K, Ex. 99)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm",
-   "ticker": "NYSE:TGT",
-   "checked": "2026-11-18T21:39:14Z"
-  },
-  {
-   "id": "2026-11-18-fred-brent-wti-spread-nov11-252",
-   "time": "2026-11-18T22:14:14Z",
-   "tag": "COMMODITIES",
-   "headline": "FRED: Brent $92.14, WTI $89.62 on Nov. 11, a $2.52 gap",
-   "take": "FRED shows Brent at $92.14 per barrel and WTI at $89.62 on Nov. 11, versus $90.16 and $89.62 on Nov. 10; Brent was $97.83 on Nov. 6. The Brent-WTI gap computes to $2.52 per barrel on Nov. 11, compared with $0.54 on Nov. 10. AlphaGen read: the gap widened because Brent rose while WTI was unchanged.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILBRENTEU, DCOILWTICO)",
-   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-   "checked": "2026-11-18T21:39:14Z"
-  },
-  {
-   "id": "2026-11-18-fred-claims-four-week-avg-195k-nov7",
-   "time": "2026-11-18T22:21:14Z",
-   "tag": "MACRO",
-   "headline": "FRED: initial claims 200,000 for week of Nov. 7; four-week average 195,250",
-   "take": "FRED shows initial jobless claims of 200,000 for the week ending Nov. 7, up from 191,000 the week before. The four weeks from Oct. 17 through Nov. 7 were 195,000, 195,000, 191,000 and 200,000, an average of 195,250 by simple computation. AlphaGen read: claims have stayed in a narrow 191,000 to 200,000 range over the last six weekly readings.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICSA)",
-   "source_url": "https://fred.stlouisfed.org/series/ICSA",
    "checked": "2026-11-18T21:39:14Z"
   }
  ]
