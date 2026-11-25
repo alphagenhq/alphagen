@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T23:14:58Z",
+ "updated": "2026-11-25T15:59:15Z",
  "items": [
+  {
+   "id": "live-0001104659-26-131741-2.02",
+   "time": "2026-11-25T11:00:47Z",
+   "tag": "EARNINGS",
+   "live": true,
+   "headline": "Deere releases financial results",
+   "take": "Deere filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 6:00 AM ET, Nov 25.",
+   "source_name": "SEC EDGAR, DE Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm",
+   "ticker": "NYSE:DE"
+  },
   {
    "id": "live-0001618756-26-000061-1.01",
    "time": "2026-11-24T21:38:58Z",
@@ -3289,17 +3300,6 @@
    "source_name": "SEC EDGAR, TSCO Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/916365/000091636526000069/0000916365-26-000069-index.htm",
    "ticker": "NASDAQ:TSCO"
-  },
-  {
-   "id": "live-0001120193-26-000017-2.02",
-   "time": "2026-10-22T11:26:37Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Nasdaq releases financial results",
-   "take": "Nasdaq filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 7:26 AM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, NDAQ Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1120193/000112019326000017/0001120193-26-000017-index.htm",
-   "ticker": "NASDAQ:NDAQ"
   }
  ]
 }
