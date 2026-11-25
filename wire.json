@@ -1,6 +1,69 @@
 {
-  "updated": "2026-11-25T15:38:49Z",
+  "updated": "2026-11-25T16:44:48Z",
   "items": [
+    {
+      "id": "2026-11-25-de-fy27-industry-outlook-large-ag-us-canada-up-5-15",
+      "time": "2026-11-25T16:46:00Z",
+      "tag": "EARNINGS",
+      "headline": "Deere's FY27 outlook: U.S. and Canada large ag up 5% to 15%, Europe flat to down 5%",
+      "take": "Deere's Nov. 25 release gives fiscal 2027 industry outlooks of up 5% to 15% for U.S. and Canada large agriculture, roughly flat for U.S. and Canada small ag and turf, flat to down 5% for Europe, flat to up 5% for South American tractors and combines, and roughly flat for Asia. In construction and forestry, U.S. and Canada construction equipment and compact construction equipment are each seen flat to up 5%, and global forestry roughly flat. CEO John May said the company is seeing \"early signs of improvement in large agriculture, led by North America.\" AlphaGen read: the only double-digit range in the table is North American large ag, which is also the segment where Production & Precision Ag sales fell 15% in the fourth quarter.",
+      "source_name": "Deere & Company (SEC Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
+      "ticker": "NYSE:DE",
+      "checked": "2026-11-25T16:44:48Z"
+    },
+    {
+      "id": "2026-11-25-de-fy26-net-income-4p860b-tariff-recoveries-383m-fin-services-231m",
+      "time": "2026-11-25T16:54:00Z",
+      "tag": "EARNINGS",
+      "headline": "Deere FY26 net income $4.860B; $383M of tariff recoveries recorded in 2026",
+      "take": "Deere reported fiscal 2026 net income of $4.860 billion, or $17.95 per share, versus $5.027 billion, or $18.50, in fiscal 2025, on net sales and revenues of $47.704 billion, up 4%. The release says the company recorded $383 million of tariff recoveries in 2026, primarily included in the production costs category for each segment. Fourth-quarter Financial Services net income was $231 million versus $293 million (-21%), which Deere attributed to unfavorable financing spreads, a lower average portfolio and a higher provision for credit losses. AlphaGen read: full-year revenue grew while net income slipped 3%, with tariff recoveries and a softer finance arm both visible in the release.",
+      "source_name": "Deere & Company (SEC Form 8-K, Exhibit 99.1)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
+      "ticker": "NYSE:DE",
+      "checked": "2026-11-25T16:44:48Z"
+    },
+    {
+      "id": "2026-11-25-bowman-fed-reorganizing-supervision-regional-leadership-accountability",
+      "time": "2026-11-25T17:02:00Z",
+      "tag": "FED",
+      "headline": "Bowman: Fed has begun reorganizing supervision to tie authority to accountability",
+      "take": "Fed Vice Chair for Supervision Michelle Bowman said the independent SVB review found a mismatch between decisionmaking authority and accountability in a structure spanning the Board, the 12 Reserve Banks and numerous committees. She said the Fed has begun reorganizing its supervisory function in a way that \"preserves the expertise and relationships of local examination teams while providing clearer lines of accountability through regional leadership,\" and is examining the role of committees and other internal processes. AlphaGen read: the speech frames supervisory reform as an organizational question about who can act, not only about rules for banks.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+      "checked": "2026-11-25T16:44:48Z"
+    },
+    {
+      "id": "2026-11-25-bowman-supervisory-operating-principles-material-risks-busy-not-effective",
+      "time": "2026-11-25T17:10:00Z",
+      "tag": "FED",
+      "headline": "Bowman: Fed's supervisory principles refocus on material risks, not process volume",
+      "take": "Bowman said the Fed's Statement of Supervisory Operating Principles \"refocuses supervision on identifying material risks and taking prompt, proportionate action to address them,\" with risk-focused supervision tailored to each institution's size, complexity and risk profile. She said success should not be measured by the number of examinations, findings and reports, and that \"a supervisory organization can be extraordinarily busy without being effective.\" The remarks were to a banking supervisors' meeting hosted by Banco Central do Brasil, the Association of Supervisors of Banks of the Americas, the Basel Committee and the Financial Stability Institute. AlphaGen read: the emphasis is on outcomes of supervision rather than activity counts.",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+      "checked": "2026-11-25T16:44:48Z"
+    },
+    {
+      "id": "2026-11-25-nwsa-buyback-1b-program-357m-class-a-shares-goldman-broker",
+      "time": "2026-11-25T17:18:00Z",
+      "tag": "EQUITIES",
+      "headline": "News Corp files ASX buy-back notice under its $1B repurchase program",
+      "take": "News Corp's Nov. 25 Form 8-K attaches an ASX Appendix 3C daily buy-back notification for its Class A common stock. The notice describes a repurchase program of up to an aggregate US$1 billion of Class A and Class B common stock authorized as of July 15, 2025, lists Goldman Sachs & Co. LLC as broker, and shows 357,131,404 Class A shares on issue. It states no ASX-listed CDIs will be repurchased. AlphaGen read: the filing is a routine disclosure under ASX rules and, as read here, does not itself report the amount repurchased.",
+      "source_name": "SEC EDGAR, NWSA Form 8-K",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000269/0001564708-26-000269.txt",
+      "ticker": "NASDAQ:NWSA",
+      "checked": "2026-11-25T16:44:48Z"
+    },
+    {
+      "id": "2026-11-25-fred-sofr-nov24-394-from-392",
+      "time": "2026-11-25T17:26:00Z",
+      "tag": "RATES",
+      "headline": "SOFR 3.94% on Nov. 24, up 2 bp from 3.92% on Nov. 23",
+      "take": "FRED shows the Secured Overnight Financing Rate at 3.94% on Nov. 24, up from 3.92% on Nov. 20 and Nov. 23, and from 3.90% on Nov. 18. Over the observations FRED lists from Nov. 17 to Nov. 24, SOFR ranged from 3.90% to 3.94%. AlphaGen read: overnight secured funding has moved only a few basis points across the week.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/SOFR",
+      "checked": "2026-11-25T16:44:48Z"
+    },
     {
       "id": "2026-11-25-bea-gdp-q3-final-sales-private-domestic-5p8-revised-up-0p9",
       "tag": "MACRO",
@@ -5019,71 +5082,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis (T10Y2Y, T10YIE)",
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
       "checked": "2026-11-19T02:38:45Z"
-    },
-    {
-      "id": "2026-11-19-fred-sofr-nov17-392-2y-gap-088",
-      "time": "2026-11-19T03:10:45Z",
-      "tag": "RATES",
-      "headline": "FRED: SOFR 3.92% on Nov. 17; 2-year yield 0.88 pt above it",
-      "take": "FRED shows the Secured Overnight Financing Rate at 3.92% on Nov. 17, down from 3.93% on Nov. 16 and up from 3.88% on Nov. 9. With the 2-year Treasury yield at 4.80% that day, the 2-year sits 0.88 percentage point above SOFR. AlphaGen read: the 2-year yield sits well above the overnight rate, a gap that has persisted through the past week of readings.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (SOFR, DGS2)",
-      "source_url": "https://fred.stlouisfed.org/series/SOFR",
-      "checked": "2026-11-19T02:38:45Z"
-    },
-    {
-      "id": "2026-11-19-asts-ligado-780052-shares-prospectus",
-      "time": "2026-11-19T03:18:45Z",
-      "tag": "EQUITIES",
-      "ticker": "NASDAQ:ASTS",
-      "headline": "AST SpaceMobile files supplement covering up to 780,052 shares for Ligado",
-      "take": "AST SpaceMobile filed a prospectus supplement on Nov. 18, dated Nov. 17, relating to 780,052 Class A shares it may elect to issue to Ligado Networks and One Dot Six in satisfaction of certain payments under its Collaboration Agreement and Spectrum Usage Rights Agreement. A Nov. 14, 2025 supplement covered 381,990 shares. AlphaGen read: the 2026 share count is about double last year's, and the filing frames the shares as payment the company may choose to make this way.",
-      "source_name": "AST SpaceMobile, Inc., Form 8-K (Item 8.01), filed Nov. 18, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226053080/0001493152-26-053080.txt",
-      "checked": "2026-11-19T02:38:45Z"
-    },
-    {
-      "id": "2026-11-18-mkl-buyback-up-2p5b-3p1b-available",
-      "time": "2026-11-19T01:41:59Z",
-      "tag": "EQUITIES",
-      "headline": "Markel raises buyback authorization by $2.5B; about $3.1B now available",
-      "take": "Markel Group's board approved a $2.5 billion increase on November 18, 2026 to its existing $2.0 billion share repurchase authorization. After the increase and amounts remaining under the existing authorization, about $3.1 billion is available. The filing says the program has no expiration date, does not obligate Markel to buy any particular number of shares, and can be ended by the board at any time. AlphaGen read: the new authorization is a ceiling on capacity, and actual repurchases will depend on the factors the company lists, including market conditions and capital needs.",
-      "source_name": "Markel Group Inc., Form 8-K (Item 8.01), filed Nov. 18, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000088/0001096343-26-000088.txt",
-      "ticker": "NYSE:MKL",
-      "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-hpe-elliott-second-amendment-board-size",
-      "time": "2026-11-19T01:48:59Z",
-      "tag": "EQUITIES",
-      "headline": "HPE and Elliott amend cooperation agreement again, resetting board-size caps",
-      "take": "Hewlett Packard Enterprise and Elliott entities signed a second amendment, effective November 18, 2026, to their July 16, 2025 Cooperation Agreement, which was first amended on May 29, 2026. Board size may not exceed 13 directors (14 if the Investor Director is appointed before the close of the 2026 Annual Meeting) until that meeting closes, then 14 directors (15 if the Investor Director is appointed) until the Expiration Date. If the Expiration Date has not occurred before the close of the 2027 Annual Meeting, the cap falls to 13 thereafter. AlphaGen read: the amendment changes only board-size limits; all other terms remain in force per the document.",
-      "source_name": "Hewlett Packard Enterprise, Form 8-K Exhibit 99.1 (Second Amendment to Cooperation Agreement)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000092/ex991hpe-elliottsecondamen.htm",
-      "ticker": "NYSE:HPE",
-      "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-apd-nominates-carol-williams-two-directors-retire",
-      "time": "2026-11-19T01:55:59Z",
-      "tag": "EQUITIES",
-      "headline": "Air Products to nominate Carol Williams; two directors won't stand in 2027",
-      "take": "Air Products announced on November 18, 2026 that it will nominate Carol Williams as an independent director candidate at its 2027 Annual Meeting of Shareholders. The company said Jessica Trocchi Graziano and Bhavesh (Bob) Patel will not stand for re-election and will retire from the board when their terms conclude. Williams spent 34 years at The Dow Chemical Company and retired at the end of 2014 as Special Advisor to the CEO. AlphaGen read: the release frames the nomination around manufacturing, supply-chain and safety experience.",
-      "source_name": "Air Products and Chemicals, Inc., Form 8-K Exhibit 99.1 news release",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/2969/000119312526467126/d136262dex991.htm",
-      "ticker": "NYSE:APD",
-      "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-ed-forward-sale-6m-shares-119p81",
-      "time": "2026-11-19T02:02:59Z",
-      "tag": "EQUITIES",
-      "headline": "Con Edison enters forward sale of 6 million shares at $119.81 initial price",
-      "take": "Con Edison entered into a forward sale agreement on November 16, 2026 with Bank of America, N.A. relating to 6,000,000 of its common shares. The initial forward price is $119.81 per share, subject to daily adjustment and to reductions tied to expected dividends. Con Edison expects the agreement to settle by December 31, 2027, with physical settlement unless it elects cash or net share settlement. AlphaGen read: under physical settlement, shares are issued only on the settlement date, at the then-applicable forward price.",
-      "source_name": "Consolidated Edison, Inc., Form 8-K (Items 1.01, 8.01), filed Nov. 18, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177.txt",
-      "ticker": "NYSE:ED",
-      "checked": "2026-11-19T01:38:59Z"
     }
   ]
 }
