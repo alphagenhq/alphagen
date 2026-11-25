@@ -1,6 +1,37 @@
 {
-  "updated": "2026-11-25T16:44:48Z",
+  "updated": "2026-11-25T18:45:24Z",
   "items": [
+    {
+      "id": "2026-11-25-bea-gdp-q3-contributors-investment-consumer-government-up-exports-down",
+      "time": "2026-11-25T18:50:24Z",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 GDP growth led by investment, consumers, government; exports subtracted",
+      "take": "BEA's second estimate for the third quarter, released Nov. 25, says the 4.3% annual-rate rise in real GDP reflected increases in investment, consumer spending and government spending, partly offset by a decrease in exports; imports, which are a subtraction in GDP, increased. Real GDP grew 2.2% in the second quarter, and BEA attributes the acceleration mainly to investment and an upturn in government spending, partly offset by a downturn in exports, with imports rising more than in Q2. AlphaGen read: the swing from Q2 comes from domestic demand and public spending rather than trade.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "checked": "2026-11-25T18:45:24Z"
+    },
+    {
+      "id": "2026-11-25-bea-news-releases-html-only-from-january-2027",
+      "time": "2026-11-25T19:10:24Z",
+      "tag": "MACRO",
+      "headline": "BEA to post news releases in HTML only starting January 2027, ending PDF versions",
+      "take": "BEA says in its Nov. 25 GDP release that, as part of efforts to modernize and streamline news release packages, it will no longer produce identical versions of its news releases in both PDF and HTML formats. Starting in January 2027, releases will be posted to its website in HTML only. The same release says the third estimate of Q3 GDP, with industries, corporate profits, state GDP and state personal income, is due Dec. 23 at 8:30 a.m. EST. AlphaGen read: anyone who archives BEA releases as PDFs will need a new workflow next year.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "checked": "2026-11-25T18:45:24Z"
+    },
+    {
+      "id": "2026-11-25-sec-5p02-filings-ko-dis-bmy-v-ed-nov23",
+      "time": "2026-11-25T19:30:24Z",
+      "tag": "EQUITIES",
+      "headline": "Visa, Con Edison, Bristol Myers, Disney and Coca-Cola each filed Item 5.02 8-Ks on Nov. 23",
+      "take": "SEC filing alerts show five large caps each filed a Form 8-K under Item 5.02, the item for officer or director changes, on Nov. 23 between 4:13 and 4:35 p.m. ET: Visa (4:13), Consolidated Edison (4:15), Bristol Myers Squibb (4:20), Walt Disney (4:22) and Coca-Cola (4:35). The alerts do not give the details of each change. AlphaGen read: the filing times are the only verified facts here; what each change is can only be confirmed in the filings themselves, and the link goes to Visa's.",
+      "source_name": "SEC EDGAR, Form 8-K filings (Visa)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/0001403161-26-000143-index.htm",
+      "ticker": "NYSE:V",
+      "checked": "2026-11-25T18:45:24Z"
+    },
     {
       "id": "2026-11-25-de-fy27-industry-outlook-large-ag-us-canada-up-5-15",
       "time": "2026-11-25T16:46:00Z",
@@ -5052,36 +5083,6 @@
       "source_name": "Federal Reserve Board (FOMC minutes, Oct. 27-28, 2026)",
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
       "checked": "2026-11-19T03:38:00Z"
-    },
-    {
-      "id": "2026-11-19-fred-treasury-yields-nov17-2y-480-10y-510-30y-546",
-      "time": "2026-11-19T02:46:45Z",
-      "tag": "RATES",
-      "headline": "FRED: 2-year 4.80%, 10-year 5.10%, 30-year 5.46% on Nov. 17",
-      "take": "FRED shows the 2-year Treasury yield at 4.80% on Nov. 17, down from 4.83% on Nov. 16; the 10-year at 5.10%, down from 5.12%; and the 30-year at 5.46%, unchanged. Versus Nov. 9, the 2-year is up 0.24 percentage point, the 10-year up 0.22 and the 30-year up 0.20. AlphaGen read: the front end has risen slightly more than the long end over the past week, though all three eased or held on the latest day.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10, DGS30)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-19T02:38:45Z"
-    },
-    {
-      "id": "2026-11-19-fred-10y-real-yield-nov17-289",
-      "time": "2026-11-19T02:54:45Z",
-      "tag": "RATES",
-      "headline": "FRED: 10-year TIPS real yield 2.89% on Nov. 17, down from 2.92%",
-      "take": "FRED shows the 10-year Treasury inflation-indexed (real) yield at 2.89% on Nov. 17, down from 2.92% on Nov. 16 and up from 2.66% on Nov. 9, a rise of 0.23 percentage point. The 10-year nominal yield was 5.10% that day, so the gap between the two is 2.21 points. AlphaGen read: most of the past week's rise in long yields has come through the real component rather than inflation compensation.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, DGS10)",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-19T02:38:45Z"
-    },
-    {
-      "id": "2026-11-19-fred-t10y2y-027-t10yie-219-nov18",
-      "time": "2026-11-19T03:02:45Z",
-      "tag": "RATES",
-      "headline": "FRED: 10s-2s spread 0.27 pt, 10-year breakeven 2.19% on Nov. 18",
-      "take": "FRED's 10-year minus 2-year Treasury spread was 0.27 percentage point on Nov. 18, down from 0.30 on Nov. 17. The 10-year breakeven inflation rate was 2.19%, down from 2.21% the prior day and below the 2.20% to 2.24% range of the readings since Nov. 10. AlphaGen read: the curve slope remains within its recent range, while the breakeven has edged to the low end of it.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (T10Y2Y, T10YIE)",
-      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-      "checked": "2026-11-19T02:38:45Z"
     }
   ]
 }
