@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-24T23:39:08Z",
+ "updated": "2026-11-25T00:39:28Z",
  "items": [
+  {
+   "id": "2026-11-25-qsr-completes-1b-secured-notes-6p000-2031-6p400-2036",
+   "time": "2026-11-25T00:41:00Z",
+   "tag": "DEBT",
+   "headline": "Restaurant Brands completes $1.0B secured notes: 6.000% 2031, 6.400% 2036",
+   "take": "Restaurant Brands International's 8-K says its subsidiaries 1011778 B.C. Unlimited Liability Company and New Red Finance completed the offering on Nov. 24, 2026: $500.0M of 6.000% Senior Secured Notes due 2031 and $500.0M of 6.400% due 2036. Proceeds are to repay part of its term loan B borrowings, plus fees and expenses. AlphaGen read: the filing shows a swap of floating-rate bank debt for fixed-rate secured notes with maturities in 2031 and 2036.",
+   "source_name": "Restaurant Brands International, Form 8-K (Nov. 24, 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001618756/000161875626000061/qsr-20261124.htm",
+   "ticker": "NYSE:QSR",
+   "checked": "2026-11-25T00:39:28Z"
+  },
+  {
+   "id": "2026-11-25-fed-g17-oct-capacity-utilization-76p4",
+   "time": "2026-11-25T00:53:00Z",
+   "tag": "MACRO",
+   "headline": "Fed G.17: October capacity utilization fell to 76.4%, 3.0 points below long-run average",
+   "take": "The Federal Reserve's Nov. 17 release says capacity utilization dropped to 76.4% in October, 3.0 percentage points below its 1972-2025 average. By sector it was 76.0% in manufacturing, 86.4% in mining and 70.2% in utilities. AlphaGen read: the Board's annual revision, planned for Nov. 24, will restate these indexes, so the October rates may be revised.",
+   "source_name": "Federal Reserve Board, G.17 Industrial Production and Capacity Utilization",
+   "source_url": "https://www.federalreserve.gov/releases/g17/20261117/g17.txt",
+   "checked": "2026-11-25T00:39:28Z"
+  },
+  {
+   "id": "2026-11-25-census-durable-goods-oct-due-nov25-830",
+   "time": "2026-11-25T01:05:00Z",
+   "tag": "MACRO",
+   "headline": "Census lists October durable goods orders for Nov. 25 at 8:30 a.m. ET",
+   "take": "The Census Bureau's release schedule has the October durable goods report out Wednesday, Nov. 25, at 8:30 a.m. ET, the same time as BEA's Q3 GDP second estimate and October personal income and outlays. AlphaGen read: with Thanksgiving on Thursday, three major data sets land in one morning.",
+   "source_name": "U.S. Census Bureau, Manufacturing and Trade release schedule",
+   "source_url": "https://www.census.gov/manufacturing/m3/release_schedule.html",
+   "checked": "2026-11-25T00:39:28Z"
+  },
+  {
+   "id": "2026-11-25-census-new-home-sales-oct-due-nov25-1000",
+   "time": "2026-11-25T01:17:00Z",
+   "tag": "HOUSING",
+   "headline": "Census lists October new home sales for Nov. 25 at 10:00 a.m. ET",
+   "take": "The Census Bureau's new residential sales schedule has the October report due Wednesday, Nov. 25, at 10:00 a.m. ET. AlphaGen read: it follows a September reading of 8.4 months of new-home supply and is the main housing data point before the holiday.",
+   "source_name": "U.S. Census Bureau, New Residential Sales release schedule",
+   "source_url": "https://www.census.gov/construction/soc/schedule.html",
+   "checked": "2026-11-25T00:39:28Z"
+  },
   {
    "id": "2026-11-24-hpq-q4-fy26-revenue-16p0b-up-9p3pct",
    "time": "2026-11-24T23:41:00Z",
@@ -5054,50 +5095,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis",
    "source_url": "https://fred.stlouisfed.org/series/WALCL",
    "checked": "2026-11-18T19:38:18Z"
-  },
-  {
-   "id": "2026-11-18-tjx-q3-fy27-sales-16b-comps-4",
-   "time": "2026-11-18T18:47:07Z",
-   "tag": "EARNINGS",
-   "headline": "TJX Q3 net sales $16.0B, up 6%; comparable sales +4%",
-   "take": "TJX said net sales for the third quarter of fiscal 2027, ended Oct. 31, were $16.0 billion, up 6% from a year earlier, with consolidated comparable sales up 4%. Net income was $1.5 billion, and the company said it returned $1.5 billion to shareholders in the quarter. AlphaGen read: the company describes comparable sales as above its own plan, so the fourth-quarter commentary on warm weather and holiday momentum is the next thing to read.",
-   "source_name": "TJX Companies (8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058.txt",
-   "ticker": "NYSE:TJX",
-   "checked": "2026-11-18T18:39:07Z"
-  },
-  {
-   "id": "2026-11-18-tjx-q3-fy27-eps-1p39-tariff-refund",
-   "time": "2026-11-18T18:53:07Z",
-   "tag": "EARNINGS",
-   "headline": "TJX Q3 diluted EPS $1.39 vs $1.28; adjusted $1.34 excludes $0.05 tariff refunds",
-   "take": "TJX reported fiscal Q3 diluted EPS of $1.39, up 9% from $1.28 a year earlier. Excluding a $0.05 net benefit from IEEPA tariff refunds, adjusted diluted EPS was $1.34, up 5%. AlphaGen read: tariff refunds are lifting reported results across retailers this week, so the adjusted figure is the cleaner year-over-year comparison.",
-   "source_name": "TJX Companies (8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058.txt",
-   "ticker": "NYSE:TJX",
-   "checked": "2026-11-18T18:39:07Z"
-  },
-  {
-   "id": "2026-11-18-tjx-q3-fy27-divisions-marmaxx-2-homegoods-5",
-   "time": "2026-11-18T18:59:07Z",
-   "tag": "EARNINGS",
-   "headline": "TJX divisions: Marmaxx comps +2%, HomeGoods +5%, Canada +6%, International +8%",
-   "take": "In TJX's Q3 fiscal 2027 release, comparable sales rose 2% at Marmaxx (U.S.), 5% at HomeGoods (U.S.), 6% at TJX Canada and 8% at TJX International; Marmaxx was up 6% in the prior-year quarter. Pretax profit margin was 13.0%, or 12.5% adjusted excluding tariff refunds. AlphaGen read: the international and home segments grew faster than Marmaxx, the largest division by sales.",
-   "source_name": "TJX Companies (8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058.txt",
-   "ticker": "NYSE:TJX",
-   "checked": "2026-11-18T18:39:07Z"
-  },
-  {
-   "id": "2026-11-18-low-fy26-outlook-sales-92p5b-comps-0p5",
-   "time": "2026-11-18T19:05:07Z",
-   "tag": "EARNINGS",
-   "headline": "Lowe's lifts 2026 sales outlook to about $92.5B; adjusted EPS about $12.25",
-   "take": "Lowe's updated its fiscal 2026 outlook to total sales of approximately $92.5 billion (previously $92.0 billion) and comparable sales up approximately 0.5% (previously flat). Operating margin is now expected near 11.1% (previously 11.2%), diluted EPS about $11.75 and adjusted diluted EPS about $12.25. AlphaGen read: higher sales but a 0.1-point lower margin expectation points to cost pressure the company cites alongside demand trends.",
-   "source_name": "Lowe's Companies (8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126.txt",
-   "ticker": "NYSE:LOW",
-   "checked": "2026-11-18T18:39:07Z"
   }
  ]
 }
