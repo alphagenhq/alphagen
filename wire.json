@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-25T19:44:38Z",
+ "updated": "2026-11-25T20:38:51Z",
  "items": [
+  {
+   "id": "2026-11-25-bea-gdp-q3-current-dollar-6p2-from-5p6",
+   "time": "2026-11-25T20:42:38Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 current-dollar GDP up 6.2% annual rate, revised from 5.6%",
+   "take": "BEA's second estimate put current-dollar GDP growth at 6.2% in the third quarter, up from 5.6% in the advance estimate, alongside real GDP of 4.3% (1.1% at a quarterly rate) versus 3.4% before. The gross domestic purchases price index was revised down 0.3 point to 2.7%. AlphaGen read: with prices revised down, the nominal upgrade came from higher real growth rather than higher inflation.",
+   "source_name": "U.S. Bureau of Economic Analysis (BEA 26-50)",
+   "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+   "checked": "2026-11-25T20:38:51Z"
+  },
+  {
+   "id": "2026-11-25-bea-oct-pce-table-real-flat-prices-0p3-vs-0p5-sep",
+   "time": "2026-11-25T20:54:38Z",
+   "tag": "MACRO",
+   "headline": "BEA: October real PCE 0.0% after 0.1%; PCE prices up 0.3% after 0.5%",
+   "take": "BEA's October table shows current-dollar PCE up 0.3% after 0.6% in September, real PCE 0.0% after 0.1%, and the PCE price index up 0.3% after 0.5%. The PCE price index excluding food and energy rose 0.3% in both months, and real PCE decreased $5.8 billion in October. AlphaGen read: headline price growth cooled from September while the core monthly pace held at 0.3%.",
+   "source_name": "U.S. Bureau of Economic Analysis (BEA 26-51)",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+   "checked": "2026-11-25T20:38:51Z"
+  },
+  {
+   "id": "2026-11-25-bea-oct-income-private-wages-dividends-led-medicare-rebate",
+   "time": "2026-11-25T21:06:38Z",
+   "tag": "MACRO",
+   "headline": "BEA: October income gain led by private wages and dividends; rebate payments added",
+   "take": "BEA said October's $201.8 billion (0.7%) rise in personal income was led within compensation by private wages and salaries, and within income receipts on assets by personal dividend income. Government social benefits were led by other social benefits, primarily one-time payments tied to the Medicare Improvement Fund premium rebate. AlphaGen read: the gain mixed earned income, investment income and a one-time transfer, so it is not a clean read on wage momentum.",
+   "source_name": "U.S. Bureau of Economic Analysis (BEA 26-51)",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+   "checked": "2026-11-25T20:38:51Z"
+  },
+  {
+   "id": "2026-11-25-bowman-svb-vulnerabilities-known-info-not-substitute-for-judgment",
+   "time": "2026-11-25T21:16:38Z",
+   "tag": "FED",
+   "headline": "Bowman: SVB risks were identified before failure; information is no substitute for action",
+   "take": "In a pre-recorded address to the ASBA-BCBS-FSI meeting, Fed Vice Chair for Supervision Michelle Bowman said the independent SVB review validated that supervisors identified the bank's fundamental vulnerabilities well before its failure: substantial interest rate risk, a highly concentrated and predominantly uninsured deposit base, and inadequate preparedness to meet liquidity demands. As supervisors adopt artificial intelligence and analytics, she said, \"information alone is not a substitute for judgment and timely action.\" AlphaGen read: the Fed is framing its supervisory fix around authority and accountability rather than data collection.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+   "checked": "2026-11-25T20:38:51Z"
+  },
+  {
+   "id": "2026-11-25-bea-personal-income-revised-apr-sep-qcew-ces",
+   "time": "2026-11-25T21:27:38Z",
+   "tag": "MACRO",
+   "headline": "BEA revised April-September personal income using Q2 QCEW and updated CES data",
+   "take": "With the October report, BEA updated personal income estimates for April through September. April-June estimates for compensation, personal taxes and contributions for government social insurance incorporate second-quarter wage and salary data from the BLS Quarterly Census of Employment and Wages, while July-September reflect updated BLS Current Employment Statistics data. AlphaGen read: comparisons of October with earlier months should use the revised series rather than previously published figures.",
+   "source_name": "U.S. Bureau of Economic Analysis (BEA 26-51)",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+   "checked": "2026-11-25T20:38:51Z"
+  },
   {
    "id": "2026-11-25-dol-continuing-claims-nov7-1p763m-up-70k-rate-1p1",
    "time": "2026-11-25T19:49:38Z",
@@ -5033,56 +5083,6 @@
    "source_name": "Federal Reserve Board (Barr speech, Nov. 18, 2026)",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
    "checked": "2026-11-19T11:39:17Z"
-  },
-  {
-   "id": "2026-11-19-barr-44pct-low-income-communities-scf-wealth",
-   "time": "2026-11-19T12:08:17Z",
-   "tag": "FED",
-   "headline": "Barr: 44% of Americans live in low-income communities; most households hold little wealth",
-   "take": "In a Nov. 18 speech, Fed Governor Michael Barr cited recent estimates that 44 percent of Americans live in low-income communities, where a fifth or more of people live below the poverty line. He said the Fed's recent Survey of Consumer Finances confirms that the majority of households has very little wealth, and that lower-wealth households are nearly four times as likely to say they cannot rely on friends and family for financial help. AlphaGen read: Barr paired a strong-economy view with a warning that gains are uneven.",
-   "source_name": "Federal Reserve Board (Barr speech, Nov. 18, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
-   "checked": "2026-11-19T11:39:17Z"
-  },
-  {
-   "id": "2026-11-19-boe-mpg-energy-prices-market-rates-correlation",
-   "time": "2026-11-19T11:59:17Z",
-   "tag": "GLOBAL",
-   "headline": "BoE market group: energy prices and market rates correlated; views split on shock effects",
-   "take": "According to the MPG minutes, participants noted the correlation between energy prices and market rates and how it has evolved over recent months. Views differed on the relative importance of the energy shock's demand-side and supply-side effects, and participants noted the distinction between market-curve pricing and modal expectations for policy. AlphaGen read: the group did not agree on whether the energy shock is mainly a demand or a supply story.",
-   "source_name": "Bank of England (Market Participants Group minutes, Nov. 18, 2026)",
-   "source_url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-   "checked": "2026-11-19T11:39:17Z"
-  },
-  {
-   "id": "2026-11-19-boe-mpg-ai-debt-hedge-fund-leverage",
-   "time": "2026-11-19T11:50:17Z",
-   "tag": "GLOBAL",
-   "headline": "BoE market group flags AI debt financing, hedge-fund leverage, sovereign and cyber risks",
-   "take": "The Bank of England's MPG minutes say participants noted the support to global growth from AI-related capital expenditure and discussed the increasing role of debt financing, plus the implications of a change in AI expectations for risky asset markets. They also covered potential vulnerabilities from elevated hedge-fund leverage, sovereign debt pressures and cyber risks. AlphaGen read: the concerns echo the AI-debt themes raised by Fed and ECB officials this week.",
-   "source_name": "Bank of England (Market Participants Group minutes, Nov. 18, 2026)",
-   "source_url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-   "checked": "2026-11-19T11:39:17Z"
-  },
-  {
-   "id": "2026-11-19-boe-mpg-growth-resilience-case-higher-rates",
-   "time": "2026-11-19T11:41:17Z",
-   "tag": "GLOBAL",
-   "headline": "BoE market group: UK growth resilience 'strengthened the case for higher rates'",
-   "take": "Minutes of the Bank of England's Market Participants Group meeting of Nov. 18, published Nov. 19, say participants noted the resilience of UK growth this year despite the energy shock. That resilience was broadly seen to have strengthened the case for higher rates, with the November increase having been widely expected. AlphaGen read: the group's view is that the move to 4% was anticipated rather than a surprise.",
-   "source_name": "Bank of England (Market Participants Group minutes, Nov. 18, 2026)",
-   "source_url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-   "checked": "2026-11-19T11:39:17Z"
-  },
-  {
-   "id": "2026-11-19-fomc-minutes-hold-3-75-4-10-2-vote",
-   "time": "2026-11-19T03:38:00Z",
-   "tag": "FED",
-   "headline": "FOMC minutes: rate held at 3-3/4 to 4%, 10-2 vote; Cook, Hammack wanted a hike",
-   "take": "The minutes of the Oct. 27-28 meeting say the Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, approved by a 10-2 vote. Lisa D. Cook and Beth M. Hammack voted against, preferring to raise the target range by 1/4 percentage point at that meeting. AlphaGen read: two dissents in favor of a hike show the debate at the Committee was about tightening, not easing.",
-   "source_name": "Federal Reserve Board (FOMC minutes, Oct. 27-28, 2026)",
-   "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
-   "checked": "2026-11-19T03:38:00Z"
   }
  ]
 }
