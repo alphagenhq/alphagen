@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-24T12:44:53Z",
+ "updated": "2026-11-25T12:40:19Z",
  "items": [
+  {
+   "id": "2026-11-25-hy-ig-spreads-nov23",
+   "time": "2026-11-25T12:40:19Z",
+   "title": "High-yield spread 3.63% and investment-grade 0.97% on Nov. 23",
+   "subtitle": "ICE BofA U.S. high-yield and corporate option-adjusted spreads, daily",
+   "series": [
+    {
+     "id": "BAMLH0A0HYM2",
+     "label": "High-yield OAS",
+     "t": "lvl"
+    },
+    {
+     "id": "BAMLC0A0CM",
+     "label": "Investment-grade OAS",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "percent",
+   "take": "FRED shows the ICE BofA high-yield option-adjusted spread at 3.63% on Nov. 23, down from 3.76% on Nov. 20 but above 3.23% on Nov. 13. The investment-grade spread was 0.97% on Nov. 23, versus 0.98% on Nov. 20 and 0.89% on Nov. 13. The gap between the two was 2.66 percentage points on Nov. 23. AlphaGen read: both spreads are wider than on Nov. 13, and high yield has moved by more.",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-25T12:40:19Z"
+  },
   {
    "id": "2026-11-24-real-yield-breakeven",
    "time": "2026-11-24T12:44:53Z",

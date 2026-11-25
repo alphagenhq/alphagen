@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-25T11:38:50Z",
+ "updated": "2026-11-25T12:40:19Z",
  "items": [
+  {
+   "id": "2026-11-25-googl-closes-c6b-canadian-senior-notes-offering",
+   "time": "2026-11-25T12:45:19Z",
+   "tag": "DEBT",
+   "headline": "Alphabet closes C$6B Canadian-dollar senior notes offering",
+   "take": "Alphabet said in an 8-K that on Nov. 24, 2026 it closed an underwritten public offering of C$6 billion aggregate principal amount of Canadian dollar-denominated senior notes, issued under its Form S-3 registration statement. The notes come in four tranches maturing in 2029, 2034, 2038 and 2066. AlphaGen read: the four tranches span maturities from 2029 to 2066.",
+   "source_name": "Alphabet Inc., Form 8-K (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/0001193125-26-475973.txt",
+   "ticker": "NASDAQ:GOOGL",
+   "checked": "2026-11-25T12:40:19Z"
+  },
+  {
+   "id": "2026-11-25-googl-cad-notes-tranches-4p100-2029-to-6p000-2066",
+   "time": "2026-11-25T12:52:19Z",
+   "tag": "CREDIT",
+   "headline": "Alphabet's C$6B notes: 4.100% due 2029 up to 6.000% due 2066",
+   "take": "Alphabet's Canadian-dollar offering comprises C$2.0 billion of 4.100% notes due 2029, C$1.25 billion of 4.800% notes due 2034, C$1.5 billion of 5.325% notes due 2038 and C$1.25 billion of 6.000% notes due 2066. The four tranches sum to the C$6 billion total. AlphaGen read: the coupons rise with maturity, from 4.100% on the 2029 notes to 6.000% on the 2066 notes.",
+   "source_name": "Alphabet Inc., Form 8-K (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/0001193125-26-475973.txt",
+   "ticker": "NASDAQ:GOOGL",
+   "checked": "2026-11-25T12:40:19Z"
+  },
+  {
+   "id": "2026-11-25-fred-10y-2y-spread-nov24-0p28-vs-0p30-nov17",
+   "time": "2026-11-25T13:00:19Z",
+   "tag": "RATES",
+   "headline": "10-year minus 2-year Treasury spread 0.28 point on Nov. 24, from 0.30 on Nov. 17",
+   "take": "FRED's 10-year minus 2-year Treasury constant maturity spread was 0.28 percentage point on Nov. 24, versus 0.30 on Nov. 17, with readings of 0.27 to 0.29 in between. The spread stayed positive throughout. AlphaGen read: the curve has held in a narrow band for a week even as yield levels moved.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+   "checked": "2026-11-25T12:40:19Z"
+  },
+  {
+   "id": "2026-11-25-fred-fed-target-3p75-4p00-vs-ecb-deposit-2p50-nov24",
+   "time": "2026-11-25T13:08:19Z",
+   "tag": "GLOBAL",
+   "headline": "Fed target range 3.75%-4.00% vs ECB deposit rate 2.50% on Nov. 24",
+   "take": "FRED shows the Federal Reserve's federal funds target range at 3.75% to 4.00% and the ECB's deposit facility rate at 2.50%, both on Nov. 24. That leaves the Fed's upper bound 1.50 percentage points above the ECB rate, and its lower bound 1.25 points above. AlphaGen read: the U.S. policy rate sits above the euro-area rate by more than a full percentage point.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DFEDTARU",
+   "checked": "2026-11-25T12:40:19Z"
+  },
   {
    "id": "2026-11-25-amgn-abp206-opdivo-biosimilar-settlement-launch-oct-2028",
    "time": "2026-11-25T11:41:00Z",
@@ -5050,50 +5092,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
    "ticker": "NYSE:TGT",
    "checked": "2026-11-18T22:44:29Z"
-  },
-  {
-   "id": "2026-11-18-low-q3-adj-eps-3p10-tariff-refund-0p34",
-   "time": "2026-11-18T22:51:29Z",
-   "tag": "EARNINGS",
-   "headline": "Lowe's Q3 adjusted EPS $3.10, up 1.3%; tariff refunds added $0.34",
-   "take": "Lowe's said Q3 adjusted diluted EPS rose 1.3% to $3.10 from the prior-year adjusted figure, excluding $96 million of pre-tax amortization tied to its FBM and ADG acquisitions. Both diluted and adjusted EPS include a $0.34 benefit from IEEPA tariff refunds, a pre-tax impact of about $250 million. AlphaGen read: stripping out the refund leaves adjusted EPS of $2.76 on our arithmetic, so the 1.3% gain depends on the one-time refund.",
-   "source_name": "Lowe's Companies (8-K Exhibit 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126.txt",
-   "ticker": "NYSE:LOW",
-   "checked": "2026-11-18T22:44:29Z"
-  },
-  {
-   "id": "2026-11-18-pgr-oct-policies-in-force-40p5m",
-   "time": "2026-11-18T21:39:14Z",
-   "tag": "EQUITIES",
-   "headline": "Progressive: Oct. policies in force 40.5M, up 6% from a year earlier",
-   "take": "Progressive reported 40,532 thousand total policies in force at Oct. 31, 2026, up 6% from 38,379 thousand a year earlier. Personal Lines was 39,272 thousand (up 6%), including direct auto at 16,846 thousand (up 7%) and agency auto at 11,369 thousand (up 6%); property was unchanged at 3,660 thousand and Commercial Lines was 1,260 thousand (up 5%). AlphaGen read: auto counts, not property, account for most of the year-over-year increase.",
-   "source_name": "Progressive Corp. (Form 8-K, Ex. 99, October results)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000384/0000080661-26-000384-index.htm",
-   "ticker": "NYSE:PGR",
-   "checked": "2026-11-18T21:39:14Z"
-  },
-  {
-   "id": "2026-11-18-pgr-oct-net-income-828m-ytd-npw-74p1b",
-   "time": "2026-11-18T21:46:14Z",
-   "tag": "EQUITIES",
-   "headline": "Progressive: Oct. net income $828M; YTD net premiums written $74.1B",
-   "take": "Progressive's October net income was $828 million versus $846 million a year earlier, with per-share income to common holders of $1.43 versus $1.44 and total pretax net realized gains on securities of $94 million versus $57 million. Year-to-date net premiums written were $74,098 million versus $70,668 million, which computes to growth of about 4.9%. AlphaGen read: October earnings edged lower even as realized gains rose.",
-   "source_name": "Progressive Corp. (Form 8-K, Ex. 99, October results)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000384/0000080661-26-000384-index.htm",
-   "ticker": "NYSE:PGR",
-   "checked": "2026-11-18T21:39:14Z"
-  },
-  {
-   "id": "2026-11-18-tjx-nine-month-sales-45p5b-eps-3p94",
-   "time": "2026-11-18T21:53:14Z",
-   "tag": "EARNINGS",
-   "headline": "TJX: nine-month net sales $45.5B, up 7%; diluted EPS $3.94 vs $3.30",
-   "take": "For the first nine months of fiscal 2027, TJX reported net sales of $45.5 billion, up 7%, with consolidated comparable sales up 4% and net income of $4.4 billion. Diluted EPS was $3.94, up 19% from $3.30 in the same period of fiscal 2026, and the company said it returned $1.5 billion to shareholders in the third quarter through buybacks and dividends. AlphaGen read: excluding a $0.19 net tariff-refund benefit, the company's nine-month adjusted EPS was $3.75, up 14%.",
-   "source_name": "TJX Companies (Form 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
-   "ticker": "NYSE:TJX",
-   "checked": "2026-11-18T21:39:14Z"
   }
  ]
 }
