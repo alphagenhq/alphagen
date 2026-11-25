@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-25T14:44:40Z",
+  "updated": "2026-11-25T15:38:49Z",
   "items": [
+    {
+      "id": "2026-11-25-bea-gdp-q3-final-sales-private-domestic-5p8-revised-up-0p9",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 real final sales to private domestic purchasers up 5.8%, revised up 0.9 pt",
+      "take": "Real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, increased 5.8% at an annual rate in the third quarter, revised up 0.9 percentage point from the advance estimate of 4.9%. BEA said the revision to investment was led by intellectual property products, notably software. Headline real GDP was revised up by the same 0.9 point, to 4.3%.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "time": "2026-11-25T15:43:49Z",
+      "checked": "2026-11-25T15:38:49Z"
+    },
+    {
+      "id": "2026-11-25-bea-gdp-q3-gdi-4p4-profits-206b",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 real GDI up 4.4%; profits from current production up $206.0B",
+      "take": "Real gross domestic income increased 4.4% in the third quarter versus a revised 2.3% in the second quarter, and the average of real GDP and real GDI rose 4.4% versus 2.2%. Profits from current production increased $206.0 billion in the third quarter, compared with an increase of $384.0 billion in the second. Income-side growth matching the revised GDP figure is a cross-check on the output-side estimate, though both remain subject to revision on Dec. 23.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "time": "2026-11-25T15:52:49Z",
+      "checked": "2026-11-25T15:38:49Z"
+    },
+    {
+      "id": "2026-11-25-bea-gdp-q3-prices-gross-domestic-purchases-2p7-pce-2p1-core-2p5",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 gross domestic purchases prices 2.7%, revised down 0.3 pt; PCE prices 2.1%",
+      "take": "The price index for gross domestic purchases increased 2.7% in the third quarter, revised down 0.3 percentage point from 3.0%. The PCE price index rose 2.1% and the PCE price index excluding food and energy rose 2.5%, both unchanged from the advance estimate. Current-dollar GDP growth was revised to 6.2% from 5.6%, so the upward revision to real growth came from volume rather than prices.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "time": "2026-11-25T16:01:49Z",
+      "checked": "2026-11-25T15:38:49Z"
+    },
+    {
+      "id": "2026-11-25-bea-gdp-q3-consumer-revision-goods-up-pharma-health-care-down",
+      "tag": "MACRO",
+      "headline": "BEA: Q3 GDP revision lifted goods spending, trimmed services led by health care",
+      "take": "BEA said the upward revision to consumer spending reflected higher goods, led by other nondurable goods (mainly pharmaceuticals), recreational goods and vehicles, and gasoline and other energy goods, partly offset by lower services. Within services, the largest downward contributor was health care, based on newly available third-quarter Census Quarterly Services Survey data. The mix shows the 0.9-point GDP revision rested on retail and energy data plus a services survey, not on a single category.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "time": "2026-11-25T16:10:49Z",
+      "checked": "2026-11-25T15:38:49Z"
+    },
+    {
+      "id": "2026-11-25-bea-oct-disposable-income-0p8-real-dpi-0p5",
+      "tag": "MACRO",
+      "headline": "BEA: October disposable income up $200.5B (0.8%); real DPI up 0.5% after -0.2%",
+      "take": "Disposable personal income rose $200.5 billion, or 0.8%, in October, and real disposable income rose 0.5% after a 0.2% decline in September. BEA said the $201.8 billion rise in personal income reflected compensation, government social benefits and income receipts on assets, with social benefits boosted by one-time Medicare Improvement Fund premium rebate payments. Because part of the gain is one-time, the October jump in real income is a weaker guide to underlying household cash flow.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+      "time": "2026-11-25T16:19:49Z",
+      "checked": "2026-11-25T15:38:49Z"
+    },
+    {
+      "id": "2026-11-25-bea-oct-pce-goods-11p8b-services-52p1b-real-pce-down-5p8b",
+      "tag": "MACRO",
+      "headline": "BEA: October PCE up $63.8B (goods $11.8B, services $52.1B); real PCE down $5.8B",
+      "take": "Current-dollar personal consumption expenditures increased $63.8 billion in October, made up of $11.8 billion more spending on goods and $52.1 billion on services. Real PCE decreased $5.8 billion, less than 0.1% at a monthly rate, as the PCE price index rose 0.3%. Personal saving was $1.00 trillion and the saving rate was 4.1% of disposable income, so October spending growth was price-driven rather than volume-driven.",
+      "source_name": "U.S. Bureau of Economic Analysis",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+      "time": "2026-11-25T16:28:49Z",
+      "checked": "2026-11-25T15:38:49Z"
+    },
     {
       "id": "2026-11-25-census-durable-goods-oct-orders-346p7b-up-0p2",
       "tag": "MACRO",
@@ -5024,69 +5084,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177.txt",
       "ticker": "NYSE:ED",
       "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-nxpi-eur1b-notes-2034-2037",
-      "time": "2026-11-19T02:09:59Z",
-      "tag": "CREDIT",
-      "headline": "NXP signs underwriting for €1.0B of notes: 4.625% due 2034, 4.875% due 2037",
-      "take": "NXP B.V., NXP Funding LLC and NXP USA, Inc., together with NXP Semiconductors N.V., signed an underwriting agreement on November 17, 2026 for €500 million of 4.625% Senior Notes due 2034 and €500 million of 4.875% Senior Notes due 2037. The notes are senior unsecured obligations guaranteed by NXP Semiconductors N.V., and the sale is expected to complete on November 24, 2026, subject to customary closing conditions. AlphaGen read: the longer-dated 2037 tranche carries a coupon 0.25 percentage point above the 2034 tranche.",
-      "source_name": "NXP Semiconductors N.V., Form 8-K (Item 8.01), filed Nov. 18, 2026",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312526467184/0001193125-26-467184.txt",
-      "ticker": "NASDAQ:NXPI",
-      "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-fred-brent-wti-nov17-spread-341",
-      "time": "2026-11-19T02:16:59Z",
-      "tag": "COMMODITIES",
-      "headline": "FRED: Brent $92.94, WTI $89.53 on Nov. 17; Brent down $2.48 from Nov. 12",
-      "take": "The St. Louis Fed's FRED series show Brent at $92.94 a barrel and WTI at $89.53 on November 17, a $3.41 gap. Brent was $95.42 on November 12, so it is $2.48 lower over that span. AlphaGen read: the November 12 reading of $95.42 is the highest Brent print in the window of observations shown, and the benchmark has since eased.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILBRENTEU, DCOILWTICO)",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-fred-henry-hub-nov17-310",
-      "time": "2026-11-19T02:23:59Z",
-      "tag": "ENERGY",
-      "headline": "FRED: Henry Hub gas $3.10 on Nov. 17, down from $3.26 on Nov. 13",
-      "take": "Henry Hub natural gas spot was $3.10 per million Btu on November 17 per FRED, after $3.20 on November 16 and $3.26 on November 13, a $0.16 decline from the Nov. 13 reading. It was $3.00 on each of November 10, 11 and 12. AlphaGen read: gas has stayed in a $3.00-$3.26 band over the past week of observations.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis (DHHNGSP)",
-      "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-      "checked": "2026-11-19T01:38:59Z"
-    },
-    {
-      "id": "2026-11-18-panw-q1fy27-revenue-3p44b-arr-9p73b",
-      "time": "2026-11-19T00:41:15Z",
-      "tag": "EARNINGS",
-      "headline": "Palo Alto Networks Q1 revenue $3.44B, up 39%; NGS ARR $9.73B, up 66%",
-      "take": "Palo Alto Networks reported fiscal Q1 2027 total revenue of $3.44 billion, up 39% year over year, and Next-Generation Security ARR of $9.73 billion, up 66%. Remaining performance obligations were $21.0 billion, up 35%. AlphaGen read: the company itself called this a seasonally slower quarter and still reported acceleration across each of its segments.",
-      "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
-      "ticker": "NASDAQ:PANW",
-      "checked": "2026-11-19T00:39:15Z"
-    },
-    {
-      "id": "2026-11-18-barr-appropriate-raise-rates-further",
-      "time": "2026-11-19T00:48:15Z",
-      "tag": "FED",
-      "headline": "Fed's Barr: expects it will be appropriate to raise rates further",
-      "take": "In remarks on Nov. 18, Governor Barr said the economy is strong, with low unemployment, solid consumer spending and robust business investment, but that inflation is too high. He said that if the economy evolves as he currently forecasts, he expects it will be appropriate to raise rates further, while continuing to monitor incoming data and the balance of risks. AlphaGen read: this is a single governor's conditional view, delivered in a speech on community investment, not a committee decision.",
-      "source_name": "Federal Reserve Board, Barr speech (Nov. 18, 2026)",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
-      "checked": "2026-11-19T00:39:15Z"
-    },
-    {
-      "id": "2026-11-18-panw-gaap-eps-0p57-fy27-guide-14p52-14p57b",
-      "time": "2026-11-19T00:55:15Z",
-      "tag": "EARNINGS",
-      "headline": "Palo Alto: GAAP EPS $0.57 vs $0.47; FY27 revenue guide $14.52B-$14.57B",
-      "take": "Palo Alto Networks reported fiscal Q1 GAAP net income of $482 million, or $0.57 per diluted share, versus $0.47 a year earlier; non-GAAP EPS was $1.05 versus $0.93. GAAP operating income fell to $96 million from $309 million. For fiscal 2027 it guides revenue of $14.52 billion to $14.57 billion and non-GAAP EPS of $4.26 to $4.30, and said it is raising full-year guidance. AlphaGen read: GAAP operating income fell even as revenue grew, so the gap to non-GAAP results matters.",
-      "source_name": "Palo Alto Networks, fiscal Q1 2027 earnings release (SEC EX-99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
-      "ticker": "NASDAQ:PANW",
-      "checked": "2026-11-19T00:39:15Z"
     }
   ]
 }
