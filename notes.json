@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-25T21:45:58Z",
+ "updated": "2026-11-26T12:42:00Z",
  "items": [
+  {
+   "id": "2026-11-26-morning-brief",
+   "time": "2026-11-26T12:42:00Z",
+   "tag": "MACRO",
+   "series": "morning-brief",
+   "title": "Morning Brief: A quiet Thanksgiving calendar as yields, mortgage rates and GDPNow reset",
+   "dek": "AlphaGen's calendar lists no scheduled U.S. agency releases today; FRED shows the 10-year yield at 4.91% on Nov. 24 and the 30-year mortgage rate at 7.21% on Nov. 25.",
+   "key_points": [
+    "Today, Thanksgiving Day: AlphaGen's calendar, built from agency schedules, lists no scheduled U.S. releases. Tomorrow at 8:30 a.m. ET Census publishes its Advance Economic Indicators Report; JOLTS (Oct) is Dec. 1 at 10:00 a.m. ET and the November jobs report is Dec. 4 at 8:30 a.m. ET.",
+    "FRED, Nov. 24: Treasury yields 4.63% (2-year), 4.91% (10-year) and 5.30% (30-year); the 10-year minus 2-year spread was 0.24 percentage point on Nov. 25.",
+    "Freddie Mac's 30-year mortgage rate was 7.21% on Nov. 25, from 7.28% on Nov. 19; initial jobless claims were 189,000 for the week ended Nov. 21, from 202,000.",
+    "BEA, October: the PCE price index rose 0.3% on the month and 3.8% from a year earlier; excluding food and energy, 0.3% and 3.3%. Real PCE was unchanged.",
+    "FRED's GDPNow reading for Q4 2026 is 2.90%, down from 3.21% in AlphaGen's Nov. 20 item; new-home supply was 8.0 months in October."
+   ],
+   "talking_points": [
+    "Are mortgage rates coming down? Slightly. Freddie Mac's 30-year fixed rate was 7.21% on Nov. 25, down from 7.28% on Nov. 19 and 7.32% on Oct. 22, but above the 7.11% low of Nov. 12, per FRED. For anyone shopping for a home loan, rates are still above 7%, so compare lenders and run the payment at today's rate rather than a hoped-for lower one.",
+    "Is inflation still running hot? Yes, relative to the Fed's usual goal. BEA reports the October PCE price index up 3.8% from a year earlier, and 3.3% excluding food and energy, with a 0.3% monthly rise in both. If you are saving or investing for the long run, those figures are a reminder to compare your returns with inflation, not just with the prior year.",
+    "Is the job market weakening? Not on this reading. Initial jobless claims were 189,000 for the week ended Nov. 21, down from 202,000 a week earlier, per FRED. The November jobs report on Dec. 4 is the next full check, so avoid reading too much into one weekly figure when planning your own finances."
+   ],
+   "body": [
+    "Thanksgiving Day brings a quiet official calendar. AlphaGen's calendar, built from agency schedules, lists no U.S. data releases today. The next is the Census Bureau's Advance Economic Indicators Report at 8:30 a.m. ET tomorrow, followed by JOLTS job openings for October at 10:00 a.m. ET on Dec. 1 and the November Employment Situation report at 8:30 a.m. ET on Dec. 4.",
+    {
+     "h": "Rates and mortgages"
+    },
+    "The newest FRED Treasury readings are from Nov. 24: 4.63% for the 2-year, 4.91% for the 10-year and 5.30% for the 30-year. On Nov. 17 the 2-year was 4.80%, the 10-year 5.10% and the 30-year 5.46%. The 10-year minus 2-year spread was 0.24 percentage point on Nov. 25, from 0.28 a day earlier. Freddie Mac's 30-year fixed mortgage rate was 7.21% on Nov. 25, against 7.28% on Nov. 19 and 7.11% on Nov. 12.",
+    {
+     "h": "Inflation, growth and jobs"
+    },
+    "BEA's October personal income and outlays release put the PCE price index 3.8% above a year earlier and the core index, excluding food and energy, 3.3% above. Both rose 0.3% on the month, and real PCE was unchanged. FRED's GDPNow series, the Atlanta Fed's model-based estimate and not an official statistic, now shows 2.9019% for the fourth quarter, down from 3.2093% in AlphaGen's Nov. 20 item. Initial jobless claims were 189,000 for the week ended Nov. 21, from 202,000.",
+    {
+     "h": "Housing, financial conditions and policy"
+    },
+    "FRED's series for monthly supply of new houses shows 8.0 months for October, and 9.3 for September, a figure that differs from the 8.4 AlphaGen reported on Nov. 24 from the same series. The Chicago Fed's National Financial Conditions Index was -0.444 for the week of Nov. 20, up from -0.450 a week earlier; negative values mean conditions looser than average. The Federal Reserve and the Consumer Financial Protection Bureau announced that Regulation Z and Regulation M will generally apply to consumer credit transactions and leases of $76,300 or less in 2027, based on a 3.9% rise in the CPI-W. The Fed's target range was 3.75% to 4.00% on Nov. 25 and the ECB's deposit facility rate 2.50%, per FRED.",
+    "Taken together, the official readings show yields down from mid-November, mortgage rates easing but still above 7%, inflation above 3% on both PCE measures, and a model-based growth estimate that has slipped. With U.S. data on pause for the holiday, next week's Dec. 1 and Dec. 4 releases are the next official reads."
+   ],
+   "sources": [
+    {
+     "name": "FRED, 10-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS10"
+    },
+    {
+     "name": "FRED, 2-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS2"
+    },
+    {
+     "name": "FRED, 30-year Treasury yield",
+     "url": "https://fred.stlouisfed.org/series/DGS30"
+    },
+    {
+     "name": "FRED, 10-year minus 2-year spread",
+     "url": "https://fred.stlouisfed.org/series/T10Y2Y"
+    },
+    {
+     "name": "FRED, 30-year fixed mortgage rate (Freddie Mac)",
+     "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+    },
+    {
+     "name": "FRED, initial jobless claims",
+     "url": "https://fred.stlouisfed.org/series/ICSA"
+    },
+    {
+     "name": "BEA, Personal Income and Outlays, October 2026",
+     "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+    },
+    {
+     "name": "FRED, GDPNow",
+     "url": "https://fred.stlouisfed.org/series/GDPNOW"
+    },
+    {
+     "name": "FRED, monthly supply of new houses",
+     "url": "https://fred.stlouisfed.org/series/MSACSR"
+    },
+    {
+     "name": "FRED, National Financial Conditions Index",
+     "url": "https://fred.stlouisfed.org/series/NFCI"
+    },
+    {
+     "name": "Federal Reserve Board and CFPB, Regulation Z and M thresholds",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm"
+    },
+    {
+     "name": "FRED, federal funds target range upper limit",
+     "url": "https://fred.stlouisfed.org/series/DFEDTARU"
+    },
+    {
+     "name": "FRED, ECB deposit facility rate",
+     "url": "https://fred.stlouisfed.org/series/ECBDFR"
+    }
+   ],
+   "checked": "2026-11-26T12:45:00Z"
+  },
   {
    "id": "2026-11-25-the-close",
    "time": "2026-11-25T21:45:58Z",

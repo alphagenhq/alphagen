@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-25T12:40:19Z",
+ "updated": "2026-11-26T12:42:00Z",
  "items": [
+  {
+   "id": "2026-11-26-usd-per-gbp-eur-nov20",
+   "time": "2026-11-26T12:42:00Z",
+   "title": "Dollars per pound 1.3104 and per euro 1.0981 on Nov. 20",
+   "subtitle": "Federal Reserve H.10 daily exchange rates, U.S. dollars per unit of foreign currency",
+   "series": [
+    {
+     "id": "DEXUSUK",
+     "label": "Dollars per pound",
+     "t": "lvl"
+    },
+    {
+     "id": "DEXUSEU",
+     "label": "Dollars per euro",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "U.S. dollars per unit",
+   "take": "FRED shows U.S. dollars per British pound at 1.3104 on Nov. 20, down from 1.3217 on Nov. 17 and 1.3322 on Nov. 10. Dollars per euro were 1.0981 on Nov. 20, versus 1.1016 on Nov. 17 and 1.1153 on Nov. 10. AlphaGen read: both currencies weakened against the dollar over the ten days, and the pound's decline of 0.0218 was larger in dollar terms than the euro's 0.0172 (AlphaGen calculations).",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
+   "checked": "2026-11-26T12:45:00Z"
+  },
   {
    "id": "2026-11-25-hy-ig-spreads-nov23",
    "time": "2026-11-25T12:40:19Z",
