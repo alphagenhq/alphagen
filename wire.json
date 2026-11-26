@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-26T22:39:20Z",
+  "updated": "2026-11-26T23:38:02Z",
   "items": [
+    {
+      "tag": "GLOBAL",
+      "headline": "ECB survey: cards at 45% of shop payments, passing cash at 44% for first time",
+      "take": "The ECB's SPACE study, published Nov. 25, finds physical cards accounted for 45% of euro-area transactions at physical locations in 2026 against 44% for cash, the first time cards led since comparable data began in 2016. Mobile payments rose to 9% from 6% in 2024. AlphaGen read: the shift is in usage, while stated preferences held steady, with 22% preferring cash in shops.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "id": "2026-11-26-ecb-space-cards-45-cash-44-first-time",
+      "time": "2026-11-26T23:38:02Z",
+      "checked": "2026-11-26T23:38:02Z"
+    },
+    {
+      "tag": "GLOBAL",
+      "headline": "ECB survey: 82% of euro-area consumers say the option to pay digitally matters",
+      "take": "The ECB's SPACE study (51,551 respondents) shows 82% of euro-area consumers consider the option to pay digitally important and 62% value the option to pay with cash; only 3% reported never using cash. Among those who tried an ATM withdrawal in the prior year, 19% had difficulties, and the share finding cash easy to access declined to 85% from 87% in 2024. AlphaGen read: the data point to demand for payment choice rather than a one-way move away from cash.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "id": "2026-11-26-ecb-space-82pct-digital-62pct-cash-atm-19pct",
+      "time": "2026-11-26T23:47:02Z",
+      "checked": "2026-11-26T23:38:02Z"
+    },
+    {
+      "tag": "FED",
+      "headline": "Fed, CFPB: Reg Z and Reg M apply to credit and leases of $76,300 or less in 2027",
+      "take": "The Federal Reserve Board and CFPB announced on Nov. 25 that, based on a 3.9 percent annual increase in the CPI-W as of June 1, 2026, Regulation Z and Regulation M generally will apply to consumer credit transactions and consumer leases of $76,300 or less in 2027. Private education loans and loans secured by real property, such as mortgages, are covered regardless of amount. AlphaGen read: this is the annual CPI-W indexation of thresholds, not a rule change.",
+      "source_name": "Federal Reserve",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "id": "2026-11-26-fed-cfpb-reg-z-m-threshold-76300-2027",
+      "time": "2026-11-26T23:56:02Z",
+      "checked": "2026-11-26T23:38:02Z"
+    },
+    {
+      "tag": "GLOBAL",
+      "headline": "BoE, PRA, FCA, PSR: payments MoU review finds no changes needed",
+      "take": "The Bank of England, PRA, FCA and PSR said on Nov. 26 they completed their annual review of the payments Memorandum of Understanding and concluded no changes to the MoU are needed at this time. The review found cooperation and coordination remain effective, citing work on the future regime for dual regulated stablecoin issuers. AlphaGen read: the notice also points to the government's decision to consolidate the PSR into the FCA.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+      "id": "2026-11-26-boe-payments-mou-review-no-changes",
+      "time": "2026-11-27T00:05:02Z",
+      "checked": "2026-11-26T23:38:02Z"
+    },
+    {
+      "tag": "GLOBAL",
+      "headline": "BoE Statistical Notice 2026/09 clarifies non-resident counterparty classification",
+      "take": "The Bank of England published Statistical Notice 2026/09 on Nov. 26, updating its Classification of Accounts Guide; sovereign wealth funds are added to the examples of counterparties classified as non-resident other financial corporations. The Bank says the changes introduce no new reporting requirements and apply from Nov. 26, 2026 on November-2026 data. AlphaGen read: this is a guidance clarification for reporting institutions.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+      "id": "2026-11-26-boe-stat-notice-2026-09-sovereign-wealth-funds",
+      "time": "2026-11-27T00:14:02Z",
+      "checked": "2026-11-26T23:38:02Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BEA: U.S. multinationals' 2024 worldwide value added up 8.0% to $7.4 trillion",
+      "take": "BEA's Activities of U.S. Multinational Enterprises release shows worldwide current-dollar value added rose 8.0 percent to $7.4 trillion in 2024. U.S. parents' value added rose 8.5 percent to $5.7 trillion, or 21.8 percent of U.S. private-industry value added, up from 21.2 percent in 2023; foreign affiliates' rose 6.5 percent to $1.8 trillion. AlphaGen read: the parent share rose, so the gain was concentrated in U.S. operations.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+      "id": "2026-11-26-bea-mne-2024-value-added-7p4t-up-8p0",
+      "time": "2026-11-27T00:23:02Z",
+      "checked": "2026-11-26T23:38:02Z"
+    },
     {
       "tag": "MACRO",
       "headline": "BLS: October CPI recreation index rose 0.8%, after 0.5% in September",
@@ -5017,66 +5077,6 @@
       "source_name": "European Central Bank",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
       "checked": "2026-11-20T15:39:31Z"
-    },
-    {
-      "id": "2026-11-20-ecb-lagarde-council-capital-markets-supervision-carve-outs",
-      "time": "2026-11-20T15:52:31Z",
-      "tag": "GLOBAL",
-      "headline": "Lagarde: Council's capital-markets supervision stance has 'too many carve-outs'",
-      "take": "Lagarde said the Council has just agreed its position on strengthening the supervision of capital markets, which she called welcome, but that the position weakens the European supervisor's ability to take effective decisions and includes too many carve-outs. She said Europe has agreed for more than a decade that it needs a capital markets union. AlphaGen read: the remarks point to the legislative process, not ECB rates, as the open constraint on deeper EU capital markets.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-      "checked": "2026-11-20T15:39:31Z"
-    },
-    {
-      "id": "2026-11-20-ecb-lagarde-ai-compute-5-to-15pct-1p3t",
-      "time": "2026-11-20T15:41:31Z",
-      "tag": "GLOBAL",
-      "headline": "Lagarde: lifting Europe's AI compute share from ~5% to 15% by 2030 needs ~€1.3T",
-      "take": "In her Nov. 20 Frankfurt keynote, ECB President Christine Lagarde cited one recent estimate that raising Europe's share of the world's AI computing capacity from around 5% to 15% by 2030 would require investment of around €1.3 trillion. She said that as long as Europe can buy computing power from foreign providers and frontier AI models remain available, the case for paying that price is hard to make. AlphaGen read: she used the example to illustrate the cost of acting early on dependencies, not to announce an ECB policy.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-      "checked": "2026-11-20T15:39:31Z"
-    },
-    {
-      "id": "2026-11-20-fred-brent-nov17-9294-vs-nov12-9542",
-      "time": "2026-11-20T15:21:15Z",
-      "tag": "COMMODITIES",
-      "headline": "Brent spot $92.94 a barrel on Nov. 17, down $2.48 from Nov. 12's $95.42",
-      "take": "FRED's Brent crude spot series (U.S. Energy Information Administration) was $92.94 per barrel on Nov. 17 and $95.42 on Nov. 12, a change of -2.48 dollars. The Nov. 10 reading was $90.16. AlphaGen read: Brent has stayed in a $90 to $96 band across the six observations in the series.",
-      "source_name": "U.S. Energy Information Administration via FRED",
-      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "checked": "2026-11-20T14:39:15Z"
-    },
-    {
-      "id": "2026-11-20-fred-30y-2y-gap-nov18-061",
-      "time": "2026-11-20T15:11:15Z",
-      "tag": "RATES",
-      "headline": "30-year yield 5.41% and 2-year 4.80% on Nov. 18: curve gap 0.61 point, from 0.59 on Nov. 13",
-      "take": "FRED shows the 30-year Treasury yield at 5.41% and the 2-year at 4.80% on Nov. 18, a gap of 0.61 percentage points. On Nov. 13 the readings were 5.47% and 4.88%, a gap of 0.59. AlphaGen read: both ends of the curve eased over the period while the long-short gap barely moved.",
-      "source_name": "Federal Reserve Board H.15 via FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "checked": "2026-11-20T14:39:15Z"
-    },
-    {
-      "id": "2026-11-20-fred-10y-sofr-gap-nov18-117",
-      "time": "2026-11-20T15:01:15Z",
-      "tag": "RATES",
-      "headline": "10-year yield 5.07% on Nov. 18 sits 1.17 points above SOFR at 3.90%",
-      "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.07% and the Secured Overnight Financing Rate at 3.90% on Nov. 18. The difference is 1.17 percentage points. AlphaGen read: the gap measures how much the market pays for ten years of duration over overnight funding.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-20T14:39:15Z"
-    },
-    {
-      "id": "2026-11-20-fred-hy-ig-gap-nov18-254",
-      "time": "2026-11-20T14:51:15Z",
-      "tag": "CREDIT",
-      "headline": "High-yield spread 3.47 points, investment-grade 0.93 on Nov. 18; gap 2.54 points",
-      "take": "ICE BofA indexes in FRED show the U.S. high-yield option-adjusted spread at 3.47 percentage points and the investment-grade spread at 0.93 on Nov. 18. The gap between them was 2.54 points, versus 2.51 on Nov. 17. AlphaGen read: both spreads moved wider on the day, with high yield moving more.",
-      "source_name": "ICE Data Indices via FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-      "checked": "2026-11-20T14:39:15Z"
     }
   ]
 }
