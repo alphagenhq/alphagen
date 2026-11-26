@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-26T01:39:35Z",
+ "updated": "2026-11-26T02:43:53Z",
  "items": [
+  {
+   "id": "2026-11-25-fred-treasury-curve-nov24-2y-463-10y-491-30y-530",
+   "time": "2026-11-26T02:45:53Z",
+   "tag": "RATES",
+   "headline": "Treasury yields Nov. 24: 2-year 4.63%, 10-year 4.91%, 30-year 5.30%",
+   "take": "FRED's Nov. 24 readings show the 2-year at 4.63%, the 10-year at 4.91% and the 30-year at 5.30%. Against Nov. 17 (4.80%, 5.10%, 5.46%), that is declines of 17, 19 and 16 basis points. AlphaGen read: the move was close to parallel, so the 10-year-minus-2-year gap barely changed.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-26T02:43:53Z"
+  },
+  {
+   "id": "2026-11-25-fred-10y-decomp-nov18-24-real-minus-9bp-breakeven-minus-7bp",
+   "time": "2026-11-26T02:57:53Z",
+   "tag": "RATES",
+   "headline": "10-year yield down 16 bp since Nov. 18: real yield -9 bp, breakeven -7 bp",
+   "take": "The 10-year Treasury yield was 4.91% on Nov. 24, down from 5.07% on Nov. 18, FRED shows. The 10-year inflation-indexed (real) yield slipped to 2.79% from 2.88% and the 10-year breakeven inflation rate to 2.12% from 2.19% over the same dates. AlphaGen read: roughly 9 of the 16 basis points came from real yields and 7 from lower inflation compensation.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DFII10",
+   "checked": "2026-11-26T02:43:53Z"
+  },
+  {
+   "id": "2026-11-25-fred-brent-wti-spread-nov24-9p56-vs-3p41-nov17",
+   "time": "2026-11-26T03:09:53Z",
+   "tag": "COMMODITIES",
+   "headline": "Brent-WTI gap $9.56 on Nov. 24 vs $3.41 on Nov. 17 as WTI fell $7.29",
+   "take": "FRED shows WTI at $82.24 per barrel on Nov. 24 versus $89.53 on Nov. 17, a $7.29 decline, while Brent was $91.80 versus $92.94, down $1.14. The gap between the two benchmarks therefore widened to $9.56 from $3.41. AlphaGen read: the weekly drop was concentrated in the U.S. benchmark rather than in Brent.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+   "checked": "2026-11-26T02:43:53Z"
+  },
+  {
+   "id": "2026-11-25-fred-henry-hub-nov24-3p30-vs-3p10-nov17",
+   "time": "2026-11-26T03:21:53Z",
+   "tag": "ENERGY",
+   "headline": "Henry Hub natural gas $3.30 per MMBtu on Nov. 24, up from $3.10 on Nov. 17",
+   "take": "FRED's Henry Hub spot series reads $3.30 per million Btu on Nov. 24, versus $3.10 on Nov. 17, a gain of $0.20. The window high was $3.31 on Nov. 19, and readings since Nov. 20 have held between $3.28 and $3.30. AlphaGen read: spot gas has steadied in a narrow band over the past four sessions.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
+   "checked": "2026-11-26T02:43:53Z"
+  },
   {
    "id": "2026-11-25-bea-gdp-q3-quarterly-rate-1p1-third-estimate-dec23",
    "time": "2026-11-26T02:29:00Z",
@@ -5052,46 +5092,6 @@
    "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
    "time": "2026-11-19T17:51:42Z",
    "checked": "2026-11-19T17:39:42Z"
-  },
-  {
-   "id": "2026-11-19-eia-middle-east-chokepoint-oil-flows-up-19pct-3q26",
-   "tag": "ENERGY",
-   "headline": "EIA: oil flows through Middle East chokepoints up 19% in Q3 2026",
-   "take": "EIA said collective oil shipments through key Middle East chokepoints rose 19% in the third quarter of 2026, based on its Global Energy Security Data. The measure sums crude oil and petroleum product flows through the Strait of Hormuz, Bab el-Mandeb and the Suez Canal/SUMED pipeline, and includes oil from countries outside the Middle East. The figure is a volume measure rather than a price signal, so it says nothing by itself about where oil prices go next.",
-   "source_name": "U.S. Energy Information Administration (Today in Energy)",
-   "source_url": "https://www.eia.gov/todayinenergy/",
-   "time": "2026-11-19T18:01:42Z",
-   "checked": "2026-11-19T17:39:42Z"
-  },
-  {
-   "id": "2026-11-19-fred-hy-spread-nov18-347-ig-093",
-   "tag": "CREDIT",
-   "headline": "High-yield spread 3.47 points on Nov. 18, up from 3.20 on Nov. 12",
-   "take": "FRED shows the ICE BofA US High Yield option-adjusted spread at 3.47 percentage points on Nov. 18, up 0.04 from Nov. 17 and 0.27 from Nov. 12. The investment-grade spread was 0.93, up 0.01 on the day. The high-yield spread has risen in each of the last four observations, which makes the next prints worth watching for whether credit is following rates.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE Data Indices)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-   "time": "2026-11-19T18:11:42Z",
-   "checked": "2026-11-19T17:39:42Z"
-  },
-  {
-   "id": "2026-11-19-boe-cyber-guidance-consultation-incidents-52pct-above-peak",
-   "tag": "GLOBAL",
-   "headline": "UK regulators propose cyber guidance; October incidents 52% above prior peak",
-   "take": "The Bank of England, FCA and PRA proposed guidance on how financial firms should prepare for and recover from cyber incidents, with a consultation closing Feb. 26, 2027. The Bank said October 2026 had the second-highest monthly count of cyber incidents reported to the FCA in five years, 52% above the previous 18-month peak recorded in May 2025. Separate effective-practice materials cover AI and quantum risks. The Bank's latest Systemic Risk Survey cited cyber among the risks with the greatest impact on the UK financial system.",
-   "source_name": "Bank of England",
-   "source_url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
-   "time": "2026-11-19T18:21:42Z",
-   "checked": "2026-11-19T17:39:42Z"
-  },
-  {
-   "id": "2026-11-19-dol-claims-nov14-203k-4wk-197750",
-   "time": "2026-11-19T16:40:46Z",
-   "tag": "MACRO",
-   "headline": "Jobless claims 203,000 in week ended Nov. 14; four-week average 197,750",
-   "take": "The Labor Department reported seasonally adjusted initial claims of 203,000 for the week ending November 14, up 1,000 from the prior week's revised 202,000. The four-week moving average was 197,750, up 2,000 from a revised 195,750. AlphaGen read: claims remain near 200,000, with no sign of a layoff wave in this report.",
-   "source_name": "U.S. Department of Labor (Unemployment Insurance Weekly Claims, Nov. 19, 2026)",
-   "source_url": "https://www.dol.gov/ui/data.pdf",
-   "checked": "2026-11-19T16:38:46Z"
   }
  ]
 }
