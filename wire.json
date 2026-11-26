@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-26T18:38:54Z",
+  "updated": "2026-11-26T19:44:13Z",
   "items": [
+    {
+      "id": "2026-11-26-boe-fpc-nov-quantum-resistant-cryptography-priority",
+      "time": "2026-11-26T20:22:13Z",
+      "tag": "GLOBAL",
+      "headline": "BoE FPC: orderly move to quantum-resistant cryptography is a priority",
+      "take": "The Bank of England's Financial Policy Committee record says quantum computing could compromise widely used cryptography and hence cyber security. It says an orderly transition to quantum-resistant cryptography is a priority and has implications for actions and decisions firms have to take now. AlphaGen read: the committee is asking firms to plan for the transition now, alongside its call for sustained investment in operational resilience.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T19:44:13Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-ai-agents-open-weight-models-cyber-risk",
+      "time": "2026-11-26T20:10:13Z",
+      "tag": "GLOBAL",
+      "headline": "BoE FPC: open-weight AI models could be run more cheaply, safeguards removed more easily",
+      "take": "The Bank of England's Financial Policy Committee record says frontier AI capabilities have continued to grow since the July FSR, notably in AI agents and open-weight models. It says open-weight models that could be run more cheaply than proprietary ones, with safeguards more easily disabled or removed, can make advanced AI more readily available and useful to malicious actors. AlphaGen read: the record places AI capability within its operational-risk assessment for the financial system.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T19:44:13Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-banks-cut-domestic-govt-bond-exposure-equities-positive-ytd",
+      "time": "2026-11-26T19:58:13Z",
+      "tag": "GLOBAL",
+      "headline": "ECB account: euro-area banks reduced domestic government bond exposures",
+      "take": "The ECB's account says euro area banks had continued to reduce their domestic exposures in total government bond holdings, suggesting less exposure to domestic shocks as portfolios became more diversified. It said bank equities had remained resilient and, despite a recent correction, continued to trade in positive territory year to date. AlphaGen read: the account points to diversified bank portfolios as a sign of lower exposure to domestic shocks.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T19:44:13Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-euro-rates-stabilised-us-rates-rose-higher-real-rates",
+      "time": "2026-11-26T19:46:13Z",
+      "tag": "RATES",
+      "headline": "ECB account: euro-area rates stabilised while US rates rose on higher real rates",
+      "take": "The ECB's account of its 28-29 October meeting says euro area risk-free rates had stabilised since the September meeting and, at longer tenors, had even declined, while US rates had risen across maturities on the back of higher real rates. It said the divergence in real yields was consistent with investors' perceptions of a more dynamic US economy. AlphaGen read: the account ties the transatlantic real-yield gap to investor views on relative growth.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T19:44:13Z"
+    },
     {
       "id": "2026-11-26-boe-fpc-nov-gilt-repo-functioned-well-hedge-fund-leverage-elevated",
       "time": "2026-11-26T19:23:00Z",
@@ -5042,46 +5082,6 @@
       "source_name": "Federal Reserve Board",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
       "checked": "2026-11-20T11:39:48Z"
-    },
-    {
-      "id": "2026-11-20-fred-cpi-3m-annualized-oct-5p7",
-      "time": "2026-11-20T03:40:00Z",
-      "tag": "MACRO",
-      "headline": "CPI all-items index up 1.4% in three months to October, a 5.7% annual pace",
-      "take": "FRED's seasonally adjusted CPI index was 337.476 in October, up 0.35% from 336.298 in September and 1.40% from 332.813 in July. Compounded over four quarters, the July–October gain equals a 5.7% annual rate. AlphaGen read: the headline index has run well ahead of the core index, which rose 0.92% over the same three months, a 3.7% annual pace.",
-      "source_name": "BLS Consumer Price Index via FRED (CPIAUCSL, CPILFESL)",
-      "source_url": "https://fred.stlouisfed.org/series/CPIAUCSL",
-      "checked": "2026-11-20T03:38:46Z"
-    },
-    {
-      "id": "2026-11-20-fred-core-pce-sep-130p902",
-      "time": "2026-11-20T03:48:00Z",
-      "tag": "FED",
-      "headline": "Core PCE index 130.902 in September, up 0.32% on the month",
-      "take": "FRED's core PCE price index (excluding food and energy) was 130.902 in September, up from 130.489 in August and 129.969 in June. That is a 0.32% monthly gain and a 2.9% annualized pace over June–September. AlphaGen read: core PCE, the Fed's preferred inflation gauge, has been running below the 3.7% annualized pace of core CPI over July–October, though the two cover different months and baskets.",
-      "source_name": "BEA Personal Consumption Expenditures via FRED (PCEPILFE)",
-      "source_url": "https://fred.stlouisfed.org/series/PCEPILFE",
-      "checked": "2026-11-20T03:38:46Z"
-    },
-    {
-      "id": "2026-11-20-bls-unemployment-rate-oct-4p1",
-      "time": "2026-11-20T03:56:00Z",
-      "tag": "MACRO",
-      "headline": "Unemployment rate 4.1% in October, 7.1M unemployed; range 4.1%–4.3% since March",
-      "take": "BLS said the unemployment rate changed little at 4.1% in October and the number of unemployed people, at 7.1 million, was little changed. The rate has stayed in a narrow range of 4.1% to 4.3% since March, and FRED shows 4.2% in September and 4.1% in July and August. AlphaGen read: a labor market that is not loosening keeps the Fed's focus on inflation.",
-      "source_name": "BLS Employment Situation, October 2026",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "checked": "2026-11-20T03:38:46Z"
-    },
-    {
-      "id": "2026-11-20-fred-bbb-spread-nov18-116",
-      "time": "2026-11-20T04:04:00Z",
-      "tag": "CREDIT",
-      "headline": "BBB corporate spread 1.16 points on Nov. 18, up from 1.11 on Nov. 13",
-      "take": "FRED's ICE BofA BBB option-adjusted spread was 1.16 percentage points on Nov. 18, up from 1.12 on Nov. 16, 1.15 on Nov. 17 and 1.11 on Nov. 13. The broad investment-grade index spread was 0.93 on Nov. 18, so BBB paper carried 0.23 point more than the index. AlphaGen read: the BBB gap widened 5 basis points in three sessions.",
-      "source_name": "ICE Data Indices via FRED (BAMLC0A4CBBB, BAMLC0A0CM)",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLC0A4CBBB",
-      "checked": "2026-11-20T03:38:46Z"
     }
   ]
 }
