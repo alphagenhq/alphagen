@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-26T13:40:08Z",
+ "updated": "2026-11-26T14:38:56Z",
  "items": [
+  {
+   "id": "2026-11-26-ecb-oct-account-hicp-sep-3p8-energy-18p9-core-2p5",
+   "time": "2026-11-26T14:40:56Z",
+   "tag": "GLOBAL",
+   "headline": "ECB account: euro area HICP 3.8% in September, energy 18.9%, core 2.5%",
+   "take": "The ECB's account of its 28-29 October meeting, published Nov. 26, says headline HICP inflation rose to 3.8% in September from 3.2% in August, with energy inflation at 18.9% from 14.3%. Core inflation edged up to 2.5% from 2.4%, and services inflation rose to 3.2%. The account says there were no material signs of second-round effects so far. AlphaGen read: the Governing Council still saw the energy shock as mostly direct, but flagged that indirect effects should become more material over time.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "checked": "2026-11-26T14:38:56Z"
+  },
+  {
+   "id": "2026-11-26-ecb-oct-account-ois-pricing-dfr-peak-3pct-vs-one-hike-survey",
+   "time": "2026-11-26T14:49:56Z",
+   "tag": "RATES",
+   "headline": "ECB account: markets priced a deposit-rate peak near 3% vs one more hike in survey",
+   "take": "The account of the ECB's October meeting says that after the September meeting the OIS curve briefly priced in more than four additional 25 bp hikes over 12 months, then pared back to just under three. Term-premia-adjusted market pricing pointed to a deposit facility rate peak around 3%, while the Survey of Monetary Analysts median foresaw only one more hike. AlphaGen read: market pricing and the analyst survey differed by roughly two hikes at the time of the meeting.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "checked": "2026-11-26T14:38:56Z"
+  },
+  {
+   "id": "2026-11-26-ecb-oct-account-brent-115-gas-97-euro-down-4pct",
+   "time": "2026-11-26T14:58:56Z",
+   "tag": "ENERGY",
+   "headline": "ECB account: Brent up 13% to $115 since September, gas 22% higher at €97/MWh",
+   "take": "The ECB account of its 28-29 October meeting says front-month Brent futures had risen 13% to USD 115 per barrel since the September meeting, and gas prices had risen 22% to €97 per MWh. The euro had depreciated 4.0% against the US dollar over the same period, and 2.2% in nominal effective terms. AlphaGen read: these are the ECB's figures as of late October, not current market levels.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "checked": "2026-11-26T14:38:56Z"
+  },
+  {
+   "id": "2026-11-26-ecb-oct-account-standard-refinancing-highest-since-2016",
+   "time": "2026-11-26T15:07:56Z",
+   "tag": "GLOBAL",
+   "headline": "ECB account: bank use of standard refinancing at highest level since end-2016",
+   "take": "The ECB's account says that on Oct. 27, 2026, recourse to the Eurosystem's standard refinancing operations had risen to its highest level since the end of 2016, with short-term money market rates close to the deposit facility rate. The account calls this a comforting sign that banks are becoming more accustomed to using standard operations as excess liquidity falls. AlphaGen read: as excess liquidity declines, banks are drawing more on regular ECB operations.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "checked": "2026-11-26T14:38:56Z"
+  },
+  {
+   "id": "2026-11-26-boe-fpc-nov-hyperscaler-bonds-over-305b-2026-8pct-of-ig",
+   "time": "2026-11-26T15:16:56Z",
+   "tag": "CREDIT",
+   "headline": "BoE FPC: hyperscaler bond issuance set to top $305B in 2026, about 8% of global IG",
+   "take": "The Bank of England's Financial Policy Committee record, published Nov. 26 for its Nov. 19 meeting, says hyperscaler bond issuance is set to exceed $305 billion in 2026, around 8% of global investment grade issuance. The FPC says AI-related financing is increasingly complex, circular and opaque, making it more likely that stress in one area propagates to another. AlphaGen read: the FPC is treating the financing structure of the AI buildout, not only its pace, as a stability question.",
+   "source_name": "Bank of England",
+   "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "checked": "2026-11-26T14:38:56Z"
+  },
+  {
+   "id": "2026-11-26-boe-fpc-nov-gilt-yields-near-two-decade-highs-policy-rates-not-term-premia",
+   "time": "2026-11-26T15:25:56Z",
+   "tag": "RATES",
+   "headline": "BoE FPC: gilt yields rise reflects expected policy rates, not term premia",
+   "take": "The FPC record says government bond yields have reached near two-decade highs in several advanced economies. In the UK, it says the rise has mainly reflected higher expected policy rates, driven by higher energy prices and resilient growth, rather than higher term premia, while fiscal and political uncertainty weighed more in France. AlphaGen read: the FPC says gilt and gilt repo markets have functioned well, with hedge fund leverage still elevated by historical standards.",
+   "source_name": "Bank of England",
+   "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "checked": "2026-11-26T14:38:56Z"
+  },
   {
    "id": "2026-11-26-bls-nov-cpi-dec10-after-oct-0p4-core-0p3",
    "time": "2026-11-26T14:25:08Z",
@@ -5026,66 +5086,6 @@
    "source_name": "European Central Bank, via FRED (ECBDFR); Federal Reserve Board, via FRED (DFF)",
    "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
    "checked": "2026-11-19T22:39:03Z"
-  },
-  {
-   "id": "2026-11-19-fred-copper-sep-14473-up-45pct-yoy",
-   "time": "2026-11-19T23:14:03Z",
-   "tag": "COMMODITIES",
-   "headline": "Global copper price $14,473 a tonne in September, up 44.8% from a year earlier",
-   "take": "FRED's monthly global copper price series, sourced from the IMF, was $14,473.06 per metric ton in September 2026, up 1.0% from $14,331.26 in August and 44.8% above $9,994.79 in September 2025. Aluminum in the same data set was $3,283.05 per metric ton, up 1.0% on the month and 23.7% on the year. AlphaGen read: industrial metals prices have risen sharply over the past year, which is a cost input for manufacturers and construction.",
-   "source_name": "International Monetary Fund global commodity prices, via FRED (PCOPPUSDM, PALUMUSDM)",
-   "source_url": "https://fred.stlouisfed.org/series/PCOPPUSDM",
-   "checked": "2026-11-19T22:39:03Z"
-  },
-  {
-   "id": "2026-11-19-fred-wheat-sep-246p85-maize-236p92",
-   "time": "2026-11-19T23:24:03Z",
-   "tag": "COMMODITIES",
-   "headline": "Global wheat price $246.85 a tonne in September, up 59.1% on the year; maize $236.92",
-   "take": "FRED's monthly IMF-sourced series show the global wheat price at $246.85 per metric ton in September 2026, up 3.8% from August and 59.1% above $155.12 in September 2025. The global maize price was $236.92 per metric ton, up 7.1% on the month and 20.8% on the year. AlphaGen read: both grain prices were higher in September than in July and August in these series, which can feed into food costs with a lag.",
-   "source_name": "International Monetary Fund global commodity prices, via FRED (PWHEAMTUSDM, PMAIZMTUSDM)",
-   "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM",
-   "checked": "2026-11-19T22:39:03Z"
-  },
-  {
-   "id": "2026-11-19-fred-new-home-months-supply-sep-8p4",
-   "time": "2026-11-19T23:34:03Z",
-   "tag": "HOUSING",
-   "headline": "New-home supply 8.4 months at the Sept. sales pace, from 8.5 in August",
-   "take": "FRED's Census series for monthly supply of new houses was 8.4 months in September 2026, down from 8.5 in August and 8.9 in July, and above 8.2 months in September 2025. AlphaGen read: supply stays above eight months at the current sales pace, and the slight decline in August and September is a small move.",
-   "source_name": "U.S. Census Bureau and HUD, via FRED (MSACSR)",
-   "source_url": "https://fred.stlouisfed.org/series/MSACSR",
-   "checked": "2026-11-19T22:39:03Z"
-  },
-  {
-   "id": "2026-11-19-jefferson-contained-prices-downside-employment",
-   "time": "2026-11-19T21:42:54Z",
-   "tag": "FED",
-   "headline": "Jefferson: if price pressures are contained, prioritizing employment risks may be prudent",
-   "take": "Vice Chair Jefferson said on Nov. 19 that \"if price pressures are contained, it may be prudent to prioritize downside risks to employment,\" after saying a stronger reaction to inflation is warranted if expectations risk becoming unanchored. He called the energy price shock tied to the conflict in the Middle East a case where the inflation and output-gap objectives pull in opposite directions. AlphaGen read: the speech sets out a two-sided condition, with inflation expectations as the dividing line, rather than a stated policy direction.",
-   "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-   "checked": "2026-11-19T21:39:54Z"
-  },
-  {
-   "id": "2026-11-19-jefferson-energy-trade-ai-shocks-at-once",
-   "time": "2026-11-19T21:51:54Z",
-   "tag": "FED",
-   "headline": "Jefferson: energy, trade and AI shocks are all unfolding at once",
-   "take": "Vice Chair Jefferson said in his Nov. 19 speech that \"energy, trade, and AI shocks are all unfolding at once\" and that Fed colleagues and peers abroad must weigh them simultaneously. He said that in the future, advancements in productivity \"could exert downward pressure on inflation while continuing to support growth,\" while the AI buildout currently exerts upward pressure on demand and inflation. AlphaGen read: the speech separates what AI is doing to prices now from what it might do later.",
-   "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-   "checked": "2026-11-19T21:39:54Z"
-  },
-  {
-   "id": "2026-11-19-fred-5y-breakeven-nov18-223",
-   "time": "2026-11-19T22:00:54Z",
-   "tag": "RATES",
-   "headline": "5-year breakeven inflation rate 2.23% on Nov. 18, down from 2.30% on Nov. 13",
-   "take": "FRED shows the 5-year breakeven inflation rate at 2.23% on Nov. 18, versus 2.26% on Nov. 17, 2.25% on Nov. 16 and 2.30% on Nov. 13; its recent high in this window was 2.31% on Nov. 12. AlphaGen calculation: the Nov. 18 reading is 0.07 percentage point below Nov. 13. AlphaGen read: the market-based five-year inflation measure eased over the past several days.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE)",
-   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
-   "checked": "2026-11-19T21:39:54Z"
   }
  ]
 }
