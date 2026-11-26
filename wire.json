@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-26T19:44:13Z",
+  "updated": "2026-11-26T20:39:00Z",
   "items": [
+    {
+      "id": "2026-11-26-eia-gas-storage-nov20-3858-bcf-down-24-from-3882",
+      "time": "2026-11-26T20:41:00Z",
+      "tag": "ENERGY",
+      "headline": "EIA: Lower 48 gas storage 3,858 Bcf on Nov. 20, down 24 Bcf in a week",
+      "take": "EIA's weekly table shows Lower 48 working gas in underground storage at 3,858 Bcf for the week ending Nov. 20, versus 3,882 Bcf on Nov. 13 and 3,862 Bcf on Nov. 6. That is a 24 Bcf decline in the latest week, by AlphaGen's calculation. AlphaGen read: stocks have started to ease from the early-November level, and the next weekly figure is due Dec. 3.",
+      "source_name": "EIA",
+      "source_url": "https://www.eia.gov/dnav/ng/hist/nw2_epg0_swo_r48_bcfw.htm",
+      "checked": "2026-11-26T20:39:00Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-overnight-repo-costs-gradual-rise-periphery-spreads-stable",
+      "time": "2026-11-26T20:51:00Z",
+      "tag": "RATES",
+      "headline": "ECB account: bank overnight repo costs kept rising gradually, periphery spreads stable",
+      "take": "The account of the ECB's Oct. 28-29 meeting says bank borrowing costs in overnight repo markets continued a gradual upward trend, while spreads between French, Italian and Spanish collateral and German collateral were broadly stable. It says liquidity redistribution across banks continued to operate smoothly as excess liquidity falls. AlphaGen read: the ECB described funding markets as adjusting in an orderly way to balance-sheet normalisation.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T20:39:00Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-sovereign-yields-more-sensitive-fiscal-outlook-price-sensitive-investors",
+      "time": "2026-11-26T21:01:00Z",
+      "tag": "DEBT",
+      "headline": "ECB account: euro-area sovereign yields more sensitive to fiscal outlook",
+      "take": "The ECB's account says higher real rates raised governments' borrowing costs and reduced fiscal space, so sovereign bond yields had become more sensitive to differences in the fiscal outlook. It attributes a greater responsiveness of yields to market stress partly to a shift towards more price-sensitive investors. AlphaGen read: the ECB links wider country spreads to fiscal differences while saying systemic stress indicators stayed contained.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T20:39:00Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-option-implied-inflation-risks-upside-fixings-above-2p5-until-q1-2028",
+      "time": "2026-11-26T21:11:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB account: inflation fixings stay above 2.5% until Q1 2028, risks skewed up",
+      "take": "The ECB's account says inflation fixings for 2026 and 2027 had shifted higher, peaking at 4.5% for January 2027 and remaining above 2.5% until the first quarter of 2028. It says option-implied inflation risks continued to be skewed to the upside over the next two years and five years. AlphaGen read: market pricing still shows energy-driven inflation risk over the next two years rather than a longer-term shift.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T20:39:00Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-euro-stocks-underperformed-tech-correction-ai-debt-concerns",
+      "time": "2026-11-26T21:21:00Z",
+      "tag": "EQUITIES",
+      "headline": "ECB account: euro-area stocks underperformed as tech correction hit global equities",
+      "take": "The ECB's account says concerns about inflation, financial conditions and fiscal policy extended to broader equity markets, with euro area stocks underperforming. It cites a sharp correction in tech stocks, driven by concerns about increased debt financing of the AI build-out and its returns, as a further factor weighing on global equities. AlphaGen read: the ECB ties equity weakness to the same debt-financing worry it flags in euro bond markets.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T20:39:00Z"
+    },
     {
       "id": "2026-11-26-boe-fpc-nov-quantum-resistant-cryptography-priority",
       "time": "2026-11-26T20:22:13Z",
@@ -5029,59 +5079,6 @@
       "source_name": "FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/INDPRO",
       "checked": "2026-11-20T12:40:24Z"
-    },
-    {
-      "id": "2026-11-20-fred-germany-10y-oct-3p42-uk-gap-1p92",
-      "time": "2026-11-20T13:20:24Z",
-      "tag": "GLOBAL",
-      "headline": "Germany's 10-year yield 3.42% in October, down from 3.47%; UK 1.92 points higher",
-      "take": "FRED's OECD-sourced long-term government bond series shows Germany at 3.42% in October, down from 3.47% in September and up from 2.62% a year earlier. The UK reading was 5.34%, which puts it 1.92 percentage points above Germany, versus 1.77 in September (AlphaGen calculations). British borrowing costs have risen faster than German ones over the past month.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01DEM156N",
-      "checked": "2026-11-20T12:40:24Z"
-    },
-    {
-      "id": "2026-11-20-bbwi-q3-results",
-      "time": "2026-11-20T11:41:48Z",
-      "tag": "EARNINGS",
-      "headline": "Bath & Body Works Q3 net sales $1,577M, down 1.0%; diluted EPS $0.19 vs $0.37",
-      "take": "Bath & Body Works reported third-quarter net sales of $1,577 million versus $1,594 million, a decrease of 1.0%, with operating income of $108 million versus $161 million. Diluted EPS was $0.19 versus $0.37; adjusted diluted EPS was $0.26 versus $0.35. Lower operating income on slightly lower sales shows costs outpacing revenue in the quarter.",
-      "source_name": "Bath & Body Works (GlobeNewswire release)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/19/3406414/0/en/bath-body-works-reports-third-quarter-results-exceeding-guidance-and-raises-full-year-sales-outlook.html",
-      "ticker": "NYSE:BBWI",
-      "checked": "2026-11-20T11:39:48Z"
-    },
-    {
-      "id": "2026-11-20-bbwi-channels",
-      "time": "2026-11-20T11:53:48Z",
-      "tag": "EARNINGS",
-      "headline": "Bath & Body Works: stores down 4.3%, direct up 2.6%, international up 39.3% in Q3",
-      "take": "Q3 sales in U.S. and Canada stores were $1,169 million versus $1,222 million (-4.3%), direct U.S. and Canada sales were $307 million versus $299 million (+2.6%), and International and Other was $101 million versus $73 million (+39.3%). Stores still made up about 74% of Q3 net sales ($1,169M of $1,577M), so store traffic remains the main swing factor.",
-      "source_name": "Bath & Body Works (GlobeNewswire release)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/19/3406414/0/en/bath-body-works-reports-third-quarter-results-exceeding-guidance-and-raises-full-year-sales-outlook.html",
-      "ticker": "NYSE:BBWI",
-      "checked": "2026-11-20T11:39:48Z"
-    },
-    {
-      "id": "2026-11-20-bbwi-outlook",
-      "time": "2026-11-20T12:05:48Z",
-      "tag": "EARNINGS",
-      "headline": "Bath & Body Works raises FY26 sales outlook; sees net sales down 3.4% to 2.1%",
-      "take": "The company now expects fiscal 2026 net sales to decline between 3.4% and 2.1% versus $7,291 million in fiscal 2025, and Q4 net sales to decline between 5.5% and 2.0% versus $2,724 million, with Q4 diluted EPS of $1.41 to $1.61. It also announced a new $500 million share repurchase program that may begin after the existing January 2025 program is completed. Even the raised full-year range still implies lower sales than last year.",
-      "source_name": "Bath & Body Works (GlobeNewswire release)",
-      "source_url": "https://www.globenewswire.com/news-release/2026/11/19/3406414/0/en/bath-body-works-reports-third-quarter-results-exceeding-guidance-and-raises-full-year-sales-outlook.html",
-      "ticker": "NYSE:BBWI",
-      "checked": "2026-11-20T11:39:48Z"
-    },
-    {
-      "id": "2026-11-20-fomc-2027-schedule",
-      "time": "2026-11-20T12:17:48Z",
-      "tag": "FED",
-      "headline": "Fed publishes revised 2027 FOMC schedule: eight meetings, Oct. 26-27 set for strategy",
-      "take": "The Federal Reserve's revised tentative 2027 schedule, released Nov. 12, lists meetings on Jan. 26-27, Mar. 16-17, Apr. 27-28, Jun. 8-9, Jul. 27-28, Sep. 14-15, Oct. 26-27 and Nov. 16-17, with the first 2028 meeting on Jan. 25-26. The Committee will announce its decision on the second day of each meeting except Oct. 26-27, which is dedicated to broad monetary policy strategy issues. The calendar fixes the dates markets will watch for 2027 rate decisions.",
-      "source_name": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "checked": "2026-11-20T11:39:48Z"
     }
   ]
 }
