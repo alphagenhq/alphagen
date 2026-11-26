@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-26T14:38:56Z",
+ "updated": "2026-11-26T15:39:30Z",
  "items": [
+  {
+   "id": "2026-11-26-fred-copper-sep-14473-record-in-series-up-44p8pct-yoy",
+   "time": "2026-11-26T15:41:30Z",
+   "tag": "COMMODITIES",
+   "headline": "Global copper price averaged $14,473 a ton in September, a series high",
+   "take": "FRED's monthly global copper price averaged $14,473.06 per metric ton in September, up 1.0% from $14,331.26 in August and 44.8% from September 2025. It is the highest reading in the series, which begins in January 2000. A three-month climb from $13,542.82 in July is the kind of input-cost pressure manufacturers and electrical-equipment makers track.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (global price of copper)",
+   "source_url": "https://fred.stlouisfed.org/series/PCOPPUSDM",
+   "checked": "2026-11-26T15:39:30Z"
+  },
+  {
+   "id": "2026-11-26-fred-wheat-sep-246p85-up-3p8pct-highest-since-jul-2023",
+   "time": "2026-11-26T15:53:30Z",
+   "tag": "COMMODITIES",
+   "headline": "Global wheat price rose to $246.85 a ton in September, up 3.8% on the month",
+   "take": "FRED's monthly global wheat price averaged $246.85 per metric ton in September, up 3.8% from $237.86 in August and 59.1% above September 2025. It is the highest monthly reading since July 2023 and the fourth straight rise from $199.65 in June. Grain costs feed into food prices with a lag, a point worth watching alongside the maize series, which also rose in September.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (global price of wheat)",
+   "source_url": "https://fred.stlouisfed.org/series/PWHEAMTUSDM",
+   "checked": "2026-11-26T15:39:30Z"
+  },
+  {
+   "id": "2026-11-26-fred-fed-funds-vs-ecb-deposit-rate-nov24-gap-138bp",
+   "time": "2026-11-26T16:05:30Z",
+   "tag": "GLOBAL",
+   "headline": "Fed funds rate 3.88% sits 138 bp above the ECB deposit rate of 2.50%",
+   "take": "The effective federal funds rate was 3.88% on Nov. 24, while the ECB deposit facility rate stood at 2.50% on the same date, a gap of 1.38 percentage points. The ECB rate was raised from 2.25% to 2.50% in September and has been unchanged since, per FRED. The two central banks are at different points in their cycles, which keeps policy-rate differentials in view for currency and bond markets.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DFF and ECBDFR)",
+   "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
+   "checked": "2026-11-26T15:39:30Z"
+  },
+  {
+   "id": "2026-11-26-fred-10y-minus-fed-funds-nov24-103bp-from-122bp-nov17",
+   "time": "2026-11-26T16:17:30Z",
+   "tag": "RATES",
+   "headline": "10-year Treasury yield 103 bp above the fed funds rate on Nov. 24, from 122 bp a week earlier",
+   "take": "The 10-year Treasury constant-maturity yield was 4.91% on Nov. 24 against an effective federal funds rate of 3.88%, a 1.03 percentage-point gap. On Nov. 17 the yield was 5.10% with the funds rate also at 3.88%, a gap of 1.22 points. The narrowing came entirely from the long end, since the policy rate did not move.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS10 and DFF)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-26T15:39:30Z"
+  },
   {
    "id": "2026-11-26-ecb-oct-account-hicp-sep-3p8-energy-18p9-core-2p5",
    "time": "2026-11-26T14:40:56Z",
@@ -5045,47 +5085,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1099800/000109980026000057/0001099800-26-000057.txt",
    "ticker": "NYSE:EW",
    "checked": "2026-11-19T23:45:00Z"
-  },
-  {
-   "id": "2026-11-19-fred-10y-breakeven-nov19-216",
-   "time": "2026-11-20T00:25:00Z",
-   "tag": "RATES",
-   "headline": "10-year breakeven inflation rate 2.16% on Nov. 19, down from 2.24% on Nov. 13",
-   "take": "FRED's 10-year breakeven inflation rate was 2.16% on Nov. 19, from 2.19% on Nov. 18 and 2.24% on Nov. 13, a drop of 0.08 percentage point over the six observations shown. The 10-year TIPS real yield was 2.88% on Nov. 18 versus 2.91% on Nov. 13. AlphaGen read: this market-based inflation measure has eased through the week while real yields stayed near 2.9%.",
-   "source_name": "Federal Reserve Bank of St. Louis, FRED (T10YIE, DFII10)",
-   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-   "checked": "2026-11-19T23:45:00Z"
-  },
-  {
-   "id": "2026-11-19-nke-director-gil-resigns-board-11",
-   "time": "2026-11-20T00:30:00Z",
-   "tag": "EQUITIES",
-   "headline": "Nike director Mónica Gil resigns; board shrinks to eleven",
-   "take": "Nike said in an 8-K that director Mónica Gil notified the company on Nov. 13 of her decision to resign from the Board and its Compensation Committee, effective Nov. 19, reducing the Board to eleven directors. The filing says her decision is not because of a disagreement with the company or the Board on any matter relating to operations, policies or practices. AlphaGen read: the filing describes no replacement director.",
-   "source_name": "NIKE, Inc., Form 8-K (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211.txt",
-   "ticker": "NYSE:NKE",
-   "checked": "2026-11-19T23:45:00Z"
-  },
-  {
-   "id": "2026-11-19-fred-sloos-ci-large-firms-net-tighten-1p7-oct",
-   "time": "2026-11-19T22:54:03Z",
-   "tag": "CREDIT",
-   "headline": "Banks' net tightening of C&I loan standards 1.7% in Oct survey, from 0.0% in July",
-   "take": "FRED's series for the Fed's Senior Loan Officer Opinion Survey shows a net 1.7% of domestic banks tightening standards on commercial and industrial loans to large and middle-market firms in the October 2026 reading, up from 0.0% in July and 8.1% in April. A year earlier, in October 2025, the figure was 6.5%. AlphaGen read: the net share is small and positive, so on this measure credit standards for large firms are close to unchanged rather than tightening broadly.",
-   "source_name": "Federal Reserve Board Senior Loan Officer Opinion Survey, via FRED (DRTSCILM)",
-   "source_url": "https://fred.stlouisfed.org/series/DRTSCILM",
-   "checked": "2026-11-19T22:39:03Z"
-  },
-  {
-   "id": "2026-11-19-fred-ecb-deposit-rate-250-vs-effr-388",
-   "time": "2026-11-19T23:04:03Z",
-   "tag": "GLOBAL",
-   "headline": "ECB deposit rate 2.50% on Nov. 19 vs. U.S. effective fed funds 3.88% on Nov. 18",
-   "take": "The European Central Bank's deposit facility rate stood at 2.50% on Nov. 19, according to FRED, while the U.S. effective federal funds rate was 3.88% on Nov. 18, the latest reading in the FRED series. That is a gap of 1.38 percentage points. AlphaGen read: the two central banks' policy rates remain well apart, and the dates differ by a day because the series update on different schedules.",
-   "source_name": "European Central Bank, via FRED (ECBDFR); Federal Reserve Board, via FRED (DFF)",
-   "source_url": "https://fred.stlouisfed.org/series/ECBDFR",
-   "checked": "2026-11-19T22:39:03Z"
   }
  ]
 }
