@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-26T17:39:14Z",
+  "updated": "2026-11-26T18:38:54Z",
   "items": [
+    {
+      "id": "2026-11-26-boe-fpc-nov-gilt-repo-functioned-well-hedge-fund-leverage-elevated",
+      "time": "2026-11-26T19:23:00Z",
+      "tag": "RATES",
+      "headline": "BoE FPC: gilt repo functioned well; hedge fund leverage elevated, repo use down",
+      "take": "The Bank of England's Financial Policy Committee record says gilt and gilt repo markets have functioned well, with gilt bid-offer spreads within historical norms. It says hedge fund leverage remains elevated by historical standards, although net repo borrowing has declined somewhat since July. AlphaGen read: the committee sees current market functioning as sound while still pointing to leveraged deleveraging as the main stress channel.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T18:38:54Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-ai-financing-circular-opaque-some-ai-firms-finance-others",
+      "time": "2026-11-26T19:16:00Z",
+      "tag": "DEBT",
+      "headline": "BoE FPC: some AI firms finance others in deals tied to future revenue commitments",
+      "take": "The Bank of England's Financial Policy Committee record says AI-related financing now spans equity markets, public bond markets, private credit and more complex structures, and that some AI-related companies provide finance to others in arrangements linked to future revenue commitments. It says more complex and circular structures make it harder to identify concentrations of risk and where exposures sit. AlphaGen read: the committee's concern is traceability of exposure across the financing chain.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T18:38:54Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-private-credit-signs-of-stress-uk-borrowers-contained",
+      "time": "2026-11-26T19:09:00Z",
+      "tag": "CREDIT",
+      "headline": "BoE FPC: some signs of stress in private credit, more contained for UK borrowers",
+      "take": "The Bank of England's Financial Policy Committee record says there are some signs of increasing stress in parts of private credit, though vulnerabilities have not materially changed overall and stress remains more contained among UK borrowers. It says a further tightening in risky credit markets could increase financing costs for UK businesses. AlphaGen read: the committee sees private-credit strain as a watch item with a transmission path to UK corporate borrowing costs.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T18:38:54Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-leveraged-etf-rebalancing-korea-amplified-equity-falls",
+      "time": "2026-11-26T19:02:00Z",
+      "tag": "EQUITIES",
+      "headline": "BoE FPC: leveraged ETF rebalancing in South Korea amplified equity falls",
+      "take": "The Bank of England's Financial Policy Committee record says recent volatility in South Korean equity markets provided evidence that procyclical rebalancing by leveraged exchange-traded funds can amplify falls in equity prices. It adds that spillovers to other markets were limited across the recent episodes. AlphaGen read: the committee is flagging product structure, not only fundamentals, as a source of equity-market amplification.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T18:38:54Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-sovereign-spreads-widened-below-peaks-stress-contained",
+      "time": "2026-11-26T18:55:00Z",
+      "tag": "RATES",
+      "headline": "ECB account: sovereign spreads widened for some but stayed well below earlier peaks",
+      "take": "The ECB's account of its October meeting says sovereign bond spreads had increased notably for some countries since September but had generally remained well below earlier peaks and broadly in line with fundamentals. It says systemic stress indicators remained contained, below levels of previous episodes of market strain. AlphaGen read: the Governing Council described the widening as a fiscal-sensitivity story rather than a stress event.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T18:38:54Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-euro-down-4p0-vs-dollar-since-sept-conditions-tightened",
+      "time": "2026-11-26T18:48:00Z",
+      "tag": "FX",
+      "headline": "ECB account: euro down 4.0% vs dollar since September as conditions tightened",
+      "take": "The ECB's October meeting account says the euro had depreciated by 4.0% against the US dollar since the September meeting, and by 2.2% in nominal effective terms. It says financial conditions had tightened recently, mainly owing to a correction in risk assets and higher sovereign yields, partly offset by the weaker exchange rate. AlphaGen read: the currency decline eased some of the tightening that rising yields and weaker risk assets would otherwise have delivered.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T18:38:54Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-market-implied-inflation-3p1-2026-3p3-2027-2p1-2028",
+      "time": "2026-11-26T18:41:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB account: market-implied inflation 3.1% for 2026, 3.3% for 2027, 2.1% for 2028",
+      "take": "The ECB's account of its 28-29 October meeting says market-implied inflation expectations, adjusted for risk premia, averaged 3.1% for 2026, 3.3% for 2027 and 2.1% for 2028. It adds that most measures of longer-term inflation expectations stood at around 2%. AlphaGen read: the gap between the 3.3% reading for 2027 and 2.1% for 2028 shows markets treating the energy-driven inflation bulge as temporary.",
+      "source_name": "European Central Bank",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T18:38:54Z"
+    },
     {
       "id": "2026-11-26-fred-sloos-ci-large-mid-net-tightening-oct-1p7-from-0p0-jul",
       "time": "2026-11-26T18:30:00Z",
@@ -5012,76 +5082,6 @@
       "source_name": "ICE Data Indices via FRED (BAMLC0A4CBBB, BAMLC0A0CM)",
       "source_url": "https://fred.stlouisfed.org/series/BAMLC0A4CBBB",
       "checked": "2026-11-20T03:38:46Z"
-    },
-    {
-      "id": "2026-11-20-census-qss-q3-benchmark-revision",
-      "time": "2026-11-20T04:12:00Z",
-      "tag": "MACRO",
-      "headline": "Census revises Quarterly Services estimates with the Q3 advance release",
-      "take": "Census says that effective with the November 2026 advance release for the third quarter of 2026, not seasonally adjusted Quarterly Services estimates were revised for historical corrections and the 2023 and 2024 Annual Integrated Economic Survey results. The seasonally adjusted Selected Services Total was also revised, with new seasonal factors. AlphaGen read: BEA uses the survey in its GDP estimates, so the revisions bear on the Nov. 25 GDP second estimate.",
-      "source_name": "U.S. Census Bureau, Quarterly Services Survey",
-      "source_url": "https://www.census.gov/services/index.html",
-      "checked": "2026-11-20T03:38:46Z"
-    },
-    {
-      "id": "2026-11-20-fred-reserves-nov18-2p980t-tga-917b",
-      "time": "2026-11-20T02:46:00Z",
-      "tag": "FED",
-      "headline": "Fed reserve balances $2.980T on Nov. 18, up $19.1B on the week; TGA $916.6B",
-      "take": "FRED's Fed balance sheet series show reserve balances of $2,979,656M on Nov. 18, up from $2,960,603M on Nov. 11 and $2,893,770M on Oct. 28. The Treasury General Account was $916,613M, up $2,243M on the week but $83,114M below its Oct. 28 level. AlphaGen read: reserves have risen $85.9B in three weeks as the Treasury's cash balance has drawn down.",
-      "source_name": "Federal Reserve Board H.4.1 via FRED (WRESBAL)",
-      "source_url": "https://fred.stlouisfed.org/series/WRESBAL",
-      "checked": "2026-11-20T02:39:28Z"
-    },
-    {
-      "id": "2026-11-20-fred-gdpnow-q4-3p21",
-      "time": "2026-11-20T02:57:00Z",
-      "tag": "MACRO",
-      "headline": "GDPNow series reads 3.21% for Q4 2026, from 3.27% for Q3",
-      "take": "FRED's GDPNow series shows 3.2093% for the fourth quarter of 2026, compared with 3.2721% for the third quarter and 1.5400% for the second. AlphaGen read: the model-based Q4 reading sits close to Q3's, though it is an estimate that changes with each data release, not an official statistic.",
-      "source_name": "Federal Reserve Bank of Atlanta GDPNow via FRED",
-      "source_url": "https://fred.stlouisfed.org/series/GDPNOW",
-      "checked": "2026-11-20T02:39:28Z"
-    },
-    {
-      "id": "2026-11-20-fred-ccc-bb-bbb-spreads-nov18",
-      "time": "2026-11-20T03:08:00Z",
-      "tag": "CREDIT",
-      "headline": "CCC-and-lower spread 13.53 points on Nov. 18, up 0.37 from Nov. 13; BB 2.05",
-      "take": "FRED's ICE BofA spreads on Nov. 18 were 13.53 points for CCC and lower, 2.05 for BB and 1.16 for BBB. Since Nov. 13 they rose 0.37, 0.19 and 0.05 point respectively, while the overall high-yield spread rose to 3.47 from 3.23. AlphaGen read: the widening was larger in the lower-rated tiers than in BBB.",
-      "source_name": "ICE Data Indices via FRED",
-      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A3HYC",
-      "checked": "2026-11-20T02:39:28Z"
-    },
-    {
-      "id": "2026-11-20-fred-case-shiller-aug-336p741",
-      "time": "2026-11-20T03:19:00Z",
-      "tag": "HOUSING",
-      "headline": "Case-Shiller national home price index 336.741 in August, up 2.1% on the year",
-      "take": "FRED's Case-Shiller U.S. National Home Price Index (not seasonally adjusted) was 336.741 in August, down from 337.262 in July and up from 329.844 in August 2025, a 2.1% annual gain. AlphaGen read: the index slipped 0.15% in August after rising from 326.764 in January to its July level.",
-      "source_name": "S&P Case-Shiller via FRED (CSUSHPINSA)",
-      "source_url": "https://fred.stlouisfed.org/series/CSUSHPINSA",
-      "checked": "2026-11-20T02:39:28Z"
-    },
-    {
-      "id": "2026-11-20-fred-aluminum-sep-3283-up-23p7pct",
-      "time": "2026-11-20T03:30:00Z",
-      "tag": "COMMODITIES",
-      "headline": "Global aluminum price $3,283 a tonne in September, up 23.7% from a year earlier",
-      "take": "The IMF global aluminum price on FRED was $3,283.05 a tonne in September, up $32.93 from August's $3,250.12 and 23.7% above September 2025's $2,654.48. AlphaGen read: the price peaked at $3,658.22 in May and is $375.17 below that level.",
-      "source_name": "International Monetary Fund via FRED (PALUMUSDM)",
-      "source_url": "https://fred.stlouisfed.org/series/PALUMUSDM",
-      "checked": "2026-11-20T02:39:28Z"
-    },
-    {
-      "id": "2026-11-20-bea-nov25-gdp-second-estimate-pce-october",
-      "time": "2026-11-20T01:41:31Z",
-      "tag": "MACRO",
-      "headline": "BEA schedules Q3 GDP second estimate and October PCE for Nov. 25, 8:30 a.m.",
-      "take": "BEA's release schedule lists \"GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026\" and \"Personal Income and Outlays, October 2026\" for Nov. 25 at 8:30 AM, both at the same time. AlphaGen read: the two releases landing together put the revised growth picture and October's income and spending data in front of markets in a single morning ahead of the Thanksgiving holiday.",
-      "source_name": "U.S. Bureau of Economic Analysis, Release Schedule",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "checked": "2026-11-20T01:39:31Z"
     }
   ]
 }
