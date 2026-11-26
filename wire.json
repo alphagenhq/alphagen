@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-26T20:39:00Z",
+  "updated": "2026-11-26T21:39:19Z",
   "items": [
+    {
+      "tag": "MACRO",
+      "headline": "BLS: professional and business services added 70,000 jobs in October",
+      "take": "BLS's October Employment Situation (released Nov. 6) shows professional and business services employment rose by 70,000, well above the average monthly gain of 15,000 over the prior 12 months. Within it, professional, scientific, and technical services added 33,000, administrative and support services 28,000, and management of companies 9,000, and the sector has added 269,000 jobs since a recent low in October 2025. AlphaGen read: the sector contributed a large share of October's 165,000 total gain, so the November report due Dec. 4 will show whether that pace held.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "id": "2026-11-26-bls-oct-prof-business-services-70k-vs-15k-avg",
+      "time": "2026-11-26T21:46:00Z",
+      "checked": "2026-11-26T21:39:19Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BLS: health care added 42,000 jobs in October, above its 31,000 average",
+      "take": "BLS reports health care employment rose by 42,000 in October, versus an average monthly gain of 31,000 over the prior 12 months. Hospitals added 16,000, home health care services 11,000, and outpatient care centers 5,000. AlphaGen read: health care remained one of three industries BLS named as adding jobs in October, alongside professional and business services and transportation and warehousing.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "id": "2026-11-26-bls-oct-health-care-42k-hospitals-16k",
+      "time": "2026-11-26T22:00:00Z",
+      "checked": "2026-11-26T21:39:19Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BEA: Q3 GDP upgrade led by software investment tied to revised PPI data",
+      "take": "BEA revised third-quarter real GDP growth up 0.9 percentage point to a 4.3% annual rate, primarily on upward revisions to investment and consumer spending. The investment revision was led by intellectual property products, notably software, based primarily on revisions to BLS's Producer Price Index for system and application software publishing. AlphaGen read: part of the upgrade reflects a change in the price deflator applied to software spending, so it is a measurement revision as much as new activity; the third estimate is due Dec. 23.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+      "id": "2026-11-26-bea-gdp-q3-revision-software-ppi-deflator",
+      "time": "2026-11-26T22:14:00Z",
+      "checked": "2026-11-26T21:39:19Z"
+    },
+    {
+      "tag": "FX",
+      "headline": "FRED: euro bought 174.33 yen on Nov. 20, down from 176.47 on Nov. 13",
+      "take": "Using the Federal Reserve H.10 rates on FRED, $1.0981 per euro and 158.76 yen per dollar on Nov. 20 imply a euro-yen cross of about 174.33, versus about 176.47 from $1.1034 and 159.93 on Nov. 13, a decline of 2.13 yen by AlphaGen's calculation. AlphaGen read: the euro weakened against both the dollar and the yen that week, while the dollar slipped slightly against the yen.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "id": "2026-11-26-fred-eurjpy-cross-nov20-174p33-vs-176p47",
+      "time": "2026-11-26T22:28:00Z",
+      "checked": "2026-11-26T21:39:19Z"
+    },
     {
       "id": "2026-11-26-eia-gas-storage-nov20-3858-bcf-down-24-from-3882",
       "time": "2026-11-26T20:41:00Z",
@@ -1387,7 +1427,7 @@
       "time": "2026-11-25T04:25:00Z",
       "tag": "FX",
       "headline": "Yen at 158.76 per dollar on Nov 20 vs 159.93 on Nov 13; euro $1.0981",
-      "take": "FRED shows USD/JPY at 158.76 yen per dollar on Nov. 20, down 1.17 yen from 159.93 on Nov. 13, and USD/EUR at $1.0981 per euro versus $1.1034, a 0.0053 decline. Both are the Fed H.10 noon buying-rate series. AlphaGen read: the dollar was lower against both currencies over that week.",
+      "take": "FRED shows USD/JPY at 158.76 yen per dollar on Nov. 20, down 1.17 yen from 159.93 on Nov. 13, and USD/EUR at $1.0981 per euro versus $1.1034, a 0.0053 decline. Both are the Fed H.10 noon buying-rate series. AlphaGen read: the dollar was lower against the yen but higher against the euro over that week.",
       "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS, DEXUSEU)",
       "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
       "checked": "2026-11-25T03:44:12Z"
@@ -5039,46 +5079,6 @@
       "source_url": "https://www.sec.gov/Archives/edgar/data/2969/000119312526467126/d136262dex991.htm",
       "ticker": "NYSE:APD",
       "checked": "2026-11-20T13:38:50Z"
-    },
-    {
-      "id": "2026-11-20-fred-10y-3m-spread-nov18-073",
-      "time": "2026-11-20T12:40:24Z",
-      "tag": "RATES",
-      "headline": "FRED: 10-year yield 0.73 point above 3-month bill on Nov. 18, from 0.78 on Nov. 16",
-      "take": "FRED shows the 10-year Treasury yield at 5.07% and the 3-month yield at 4.34% on Nov. 18, a gap of 0.73 percentage point. On Nov. 16 the 10-year was 5.12% and the 3-month 4.34%, a 0.78-point gap; on Nov. 13 it was 5.15% against 4.32%, or 0.83. The gap narrowed because the 10-year fell while the bill yield held, a bond-market move that left short-term rates anchored.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-20T12:40:24Z"
-    },
-    {
-      "id": "2026-11-20-fred-2y-3m-spread-nov18-046",
-      "time": "2026-11-20T12:50:24Z",
-      "tag": "RATES",
-      "headline": "FRED: 2-year yield 0.46 point above 3-month bill on Nov. 18; 2-year 4.80%",
-      "take": "FRED reports the 2-year Treasury yield at 4.80% and the 3-month at 4.34% on Nov. 18, so the 2-year sits 0.46 percentage point higher (AlphaGen calculation). The 2-year was 4.88% on Nov. 13 against a 4.32% bill, a 0.56-point gap. A narrower gap means the market is pricing a less steep path for short-term rates than it was a few days ago.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/DGS2",
-      "checked": "2026-11-20T12:40:24Z"
-    },
-    {
-      "id": "2026-11-20-fred-core-cpi-oct-339p900-3m-3p7",
-      "time": "2026-11-20T13:00:24Z",
-      "tag": "MACRO",
-      "headline": "Core CPI index 339.900 in October, up 0.30%; 3-month pace 3.7% annualized",
-      "take": "FRED's seasonally adjusted CPI excluding food and energy (1982-84=100) was 339.900 in October, up 0.30% from 338.896 in September; September's gain was 0.33%. Since July's 336.789 the index has risen 0.92%, or 3.7% at an annual rate (AlphaGen calculation). Core prices are still rising at a pace above the Fed's 2% goal.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/CPILFESL",
-      "checked": "2026-11-20T12:40:24Z"
-    },
-    {
-      "id": "2026-11-20-fred-industrial-production-oct-103p395",
-      "time": "2026-11-20T13:10:24Z",
-      "tag": "MACRO",
-      "headline": "Industrial production index 103.395 in October, down 0.43% on the month, up 2.1% on the year",
-      "take": "FRED's total industrial production index (2017=100) was 103.3954 in October, down 0.43% from 103.8458 in September, after a 0.73% rise in September. Against October 2025's 101.2195 it is up 2.1% (AlphaGen calculations). Factory, mining and utility output slipped in October but remains above its year-earlier level.",
-      "source_name": "FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/INDPRO",
-      "checked": "2026-11-20T12:40:24Z"
     }
   ]
 }
