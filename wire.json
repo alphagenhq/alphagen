@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-26T16:39:28Z",
+  "updated": "2026-11-26T17:39:14Z",
   "items": [
+    {
+      "id": "2026-11-26-fred-sloos-ci-large-mid-net-tightening-oct-1p7-from-0p0-jul",
+      "time": "2026-11-26T18:30:00Z",
+      "tag": "CREDIT",
+      "headline": "FRED: net banks tightening C&I standards for larger firms 1.7 in Oct, from 0.0",
+      "take": "FRED's series DRTSCILM, the net percentage of domestic banks tightening standards on commercial and industrial loans to large and middle-market firms, shows 1.7 for the observation dated Oct. 1, 2026, from 0.0 in July and 8.1 in April. A year earlier, the October 2025 reading was 6.5. AlphaGen read: the net tightening reading is 4.8 points below a year ago and 1.7 points above the July reading.",
+      "source_name": "FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/DRTSCILM",
+      "checked": "2026-11-26T17:39:14Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-uk-household-headroom-eroded-banks-well-capitalised",
+      "time": "2026-11-26T18:22:00Z",
+      "tag": "GLOBAL",
+      "headline": "BoE FPC: UK borrowers' headroom eroding; banks well capitalised, impairments low",
+      "take": "The Bank of England's FPC says UK household and corporate balance sheets remain strong in aggregate, but financial headroom is being eroded across borrowers, with pressures greatest for small and medium-sized enterprises, energy-intensive firms and highly leveraged corporates. It says the UK banking system remains well capitalised with high liquidity and low impairments. AlphaGen read: the committee separated a resilient aggregate picture from uneven strain among weaker borrowers.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T17:39:14Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-cyber-consultation-nov19-cloud-microsoft-outages",
+      "time": "2026-11-26T18:14:00Z",
+      "tag": "GLOBAL",
+      "headline": "BoE FPC: Google Cloud, Microsoft outages show single-provider risk to many firms",
+      "take": "The Bank of England's FPC record says recent Google Cloud and Microsoft outages illustrated how disruption at a single provider can affect many firms at once, and underlines the importance of operationalising the UK's critical third party regime. It points firms to a joint consultation paper published Nov. 19 by the Bank, the PRA and the FCA on Cyber Risk and Resilience Management. AlphaGen read: the committee ties AI adoption to deeper dependence on common technology providers.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T17:39:14Z"
+    },
+    {
+      "id": "2026-11-26-boe-fpc-nov-french-yields-hedge-fund-deleveraging-spillovers-limited",
+      "time": "2026-11-26T18:06:00Z",
+      "tag": "RATES",
+      "headline": "BoE FPC: hedge-fund deleveraging added to French yields; gilt spillovers limited",
+      "take": "The Bank of England's Financial Policy Committee record says fiscal and political uncertainty contributed more materially to higher government bond yields in some other countries than the UK, particularly France. It says market intelligence suggests deleveraging by hedge funds contributed to the rise in French sovereign yields, and that spillovers from French bonds to other markets, including gilts, have been limited. AlphaGen read: the FPC separated country-specific fiscal pressure from leverage-driven amplification.",
+      "source_name": "Bank of England",
+      "source_url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "checked": "2026-11-26T17:39:14Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-hyperscaler-debt-absorbed-euro-bonds-higher-cost",
+      "time": "2026-11-26T17:58:00Z",
+      "tag": "CREDIT",
+      "headline": "ECB account: hyperscaler debt absorbed in euro bonds, at higher cost to issuers",
+      "take": "The ECB's account of its October meeting says the substantial increase in debt issuance by hyperscalers to finance AI investment had so far been smoothly absorbed in euro area corporate bond markets, but at a higher cost for issuers. It links growing concerns about debt-financed AI build-out to a sharp correction in tech stocks and significant volatility. AlphaGen read: the Council framed AI financing as a market-functioning and funding-cost question, not a stress event.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T17:39:14Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-forecasters-2027-revised-up-2028-unrevised-2p0",
+      "time": "2026-11-26T17:50:00Z",
+      "tag": "RATES",
+      "headline": "ECB account: forecasters raised 2027 inflation view, left 2028 at 2.0%",
+      "take": "The ECB's account says professional forecasters revised up their headline inflation expectations for 2027 but left 2028 unrevised at 2.0%. It adds that most measures of longer-term inflation expectations stood at around 2%, and that medium- to longer-term expectations of consumers and of firms were broadly stable. AlphaGen read: the near-term upward revisions sit beside long-run anchors that the Council described as intact.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T17:39:14Z"
+    },
+    {
+      "id": "2026-11-26-ecb-oct-account-global-composite-pmi-54p5-finished-goods-hoarding",
+      "time": "2026-11-26T17:42:00Z",
+      "tag": "GLOBAL",
+      "headline": "ECB account: global composite PMI 54.5 in September, finished-goods stocks high",
+      "take": "The ECB's account of its Oct. 28-29 meeting says the global composite output PMI excluding the euro area rose to 54.5 in September, with expansion in both manufacturing and services. Stocks of finished goods had increased to well above their long-term averages, which the account says suggested some hoarding of finished goods. AlphaGen read: the Council was weighing resilient global activity alongside an energy shock.",
+      "source_name": "ECB",
+      "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "checked": "2026-11-26T17:39:14Z"
+    },
     {
       "id": "2026-11-26-ecb-oct-account-compensation-per-employee-3p3-wage-tracker-2p6",
       "time": "2026-11-26T16:41:28Z",
@@ -5012,76 +5082,6 @@
       "source_name": "U.S. Bureau of Economic Analysis, Release Schedule",
       "source_url": "https://www.bea.gov/news/schedule",
       "checked": "2026-11-20T01:39:31Z"
-    },
-    {
-      "id": "2026-11-20-fed-beige-book-nov25-2pm",
-      "time": "2026-11-20T01:51:31Z",
-      "tag": "FED",
-      "headline": "Fed calendar lists the Beige Book for Wednesday, Nov. 25, at 2:00 p.m.",
-      "take": "The Federal Reserve Board's November 2026 calendar lists the Beige Book at 2:00 p.m. on Nov. 25. The Beige Book summarizes commentary on current economic conditions from the Fed's districts. AlphaGen read: it arrives the same day as BEA's GDP and personal income and outlays releases, giving anecdotal context to the hard data.",
-      "source_name": "Federal Reserve Board, Calendar: November 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-20T01:39:31Z"
-    },
-    {
-      "id": "2026-11-20-fred-10y-nominal-real-breakeven-nov18",
-      "time": "2026-11-20T02:01:31Z",
-      "tag": "RATES",
-      "headline": "FRED: 10-year yield 5.07% on Nov. 18 splits into 2.88% real and 2.19% breakeven",
-      "take": "FRED shows the 10-year Treasury yield at 5.07% on Nov. 18, the 10-year inflation-indexed (TIPS) yield at 2.88% and the 10-year breakeven inflation rate at 2.19%. The 10-year real yield was 2.91% on Nov. 13 and the breakeven 2.24%. AlphaGen read: the real yield accounts for most of the 5.07% level, with the breakeven rate contributing 2.19 points.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED), DGS10, DFII10, T10YIE",
-      "source_url": "https://fred.stlouisfed.org/series/DFII10",
-      "checked": "2026-11-20T01:39:31Z"
-    },
-    {
-      "id": "2026-11-20-fed-cook-waller-speeches-nov20",
-      "time": "2026-11-20T02:11:31Z",
-      "tag": "FED",
-      "headline": "Fed calendar: Waller opens College Fed Challenge Finals; Cook speaks in Chile Nov. 20",
-      "take": "The Federal Reserve Board's calendar lists Governor Christopher J. Waller's welcoming remarks at the College Fed Challenge Finals at 8:25 a.m. on Nov. 20, and Governor Lisa D. Cook's speech \"The U.S. Economy in Global Context\" at the Annual Conference of the Central Bank of Chile in Santiago at 12:15 p.m. the same day. AlphaGen read: Cook's is the only economic-outlook speech on the Board's calendar for the day.",
-      "source_name": "Federal Reserve Board, Calendar: November 2026",
-      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
-      "checked": "2026-11-20T01:39:31Z"
-    },
-    {
-      "id": "2026-11-20-bea-dec2-county-gdp-income-dec8-trade",
-      "time": "2026-11-20T02:24:31Z",
-      "tag": "MACRO",
-      "headline": "BEA schedule: county GDP and income data Dec. 2; October trade report Dec. 8",
-      "take": "BEA's schedule lists \"GDP by County and Personal Income by County, 2025\" for Dec. 2 at 8:30 AM and \"U.S. International Trade in Goods and Services, October 2026\" on Dec. 8. AlphaGen read: the Dec. 2 release is a regional, annual look at 2025 and is separate from the Nov. 25 national releases.",
-      "source_name": "U.S. Bureau of Economic Analysis, Release Schedule",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "checked": "2026-11-20T01:39:31Z"
-    },
-    {
-      "id": "2026-11-20-fred-treasury-yields-nov18-2y-480-10y-507-30y-541",
-      "time": "2026-11-20T00:43:00Z",
-      "tag": "RATES",
-      "headline": "FRED: 10-year yield 5.07% on Nov. 18, down 3 bp; 2-year unchanged at 4.80%",
-      "take": "FRED shows the 10-year Treasury constant-maturity yield at 5.07% on Nov. 18, down from 5.10% on Nov. 17 and 5.15% on Nov. 13. The 2-year was unchanged at 4.80% and the 30-year fell to 5.41% from 5.46%. AlphaGen read: the day's move was concentrated in longer maturities while the 2-year held flat.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED), DGS10",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "checked": "2026-11-20T00:38:44Z"
-    },
-    {
-      "id": "2026-11-20-fred-10y-2y-spread-nov19-028",
-      "time": "2026-11-20T00:53:00Z",
-      "tag": "RATES",
-      "headline": "FRED: 10-year minus 2-year Treasury spread 0.28 point on Nov. 19, from 0.27",
-      "take": "FRED's 10-year minus 2-year Treasury constant-maturity spread was 0.28 percentage point on Nov. 19, up from 0.27 on Nov. 18 and below 0.30 on Nov. 17. The spread has stayed between 0.24 and 0.30 point in the dated observations from Nov. 12 to Nov. 19. AlphaGen read: the curve has been steady in a narrow range over the past week.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED), T10Y2Y",
-      "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-      "checked": "2026-11-20T00:38:44Z"
-    },
-    {
-      "id": "2026-11-20-fred-rrp-nov19-405m",
-      "time": "2026-11-20T01:03:00Z",
-      "tag": "FED",
-      "headline": "FRED: Fed reverse repo usage $0.405B on Nov. 19, up from $0.331B a day earlier",
-      "take": "FRED shows overnight reverse repurchase agreement usage at the Federal Reserve at $0.405 billion on Nov. 19, up from $0.331 billion on Nov. 18 and $0.351 billion on Nov. 17. Usage was $0.250 billion on Nov. 12. AlphaGen read: usage stayed below $0.5 billion on every dated observation shown from Nov. 12 to Nov. 19.",
-      "source_name": "Federal Reserve Bank of St. Louis (FRED), RRPONTSYD",
-      "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
-      "checked": "2026-11-20T00:38:44Z"
     }
   ]
 }
