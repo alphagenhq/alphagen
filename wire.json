@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-25T23:39:03Z",
+ "updated": "2026-11-26T00:39:01Z",
  "items": [
+  {
+   "id": "2026-11-25-mdlz-cfo-make-whole-award-cap-7p35m",
+   "time": "2026-11-26T01:29:00Z",
+   "tag": "EQUITIES",
+   "headline": "Mondelez raises CFO Banati's make-whole award cap to $7.35M from $7.0M",
+   "take": "Mondelez disclosed in a Nov. 25 Form 8-K that its compensation committee chair approved on Nov. 20 an increase in the maximum make-whole cash award for CFO Amit Banati from $7,000,000 to $7,350,000, tied to his former employer's claims for repayment of previously paid compensation. The amount includes taxes withheld by that employer that he cannot recover, and the award remains subject to repayment on specified termination events before the second anniversary of his July 1, 2026 start date. AlphaGen read: the change adds $350,000 to the cap.",
+   "source_name": "Mondelez International, Inc., Form 8-K (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026075952/0001628280-26-075952.txt",
+   "ticker": "NASDAQ:MDLZ",
+   "checked": "2026-11-26T00:39:01Z"
+  },
+  {
+   "id": "2026-11-25-axp-director-angelakis-resigns-board-dec2",
+   "time": "2026-11-26T01:21:00Z",
+   "tag": "EQUITIES",
+   "headline": "American Express director Angelakis to resign from board Dec. 2",
+   "take": "In a Form 8-K filed Nov. 25, American Express said Michael J. Angelakis notified the company that day of his decision to resign from its Board of Directors, effective Dec. 2, 2026, to devote more time to other business activities. The filing gives no other details. AlphaGen read: a routine board-composition disclosure under Item 5.02.",
+   "source_name": "American Express Company, Form 8-K (SEC EDGAR)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000440/0000004962-26-000440.txt",
+   "ticker": "NYSE:AXP",
+   "checked": "2026-11-26T00:39:01Z"
+  },
+  {
+   "id": "2026-11-25-fred-hy-oas-nov24-372-ig-098",
+   "time": "2026-11-26T01:13:00Z",
+   "tag": "CREDIT",
+   "headline": "High-yield spread 3.72 pts on Nov. 24 vs 3.63 a day earlier; IG 0.98",
+   "take": "FRED's ICE BofA US High Yield index option-adjusted spread was 3.72 percentage points on Nov. 24, up 9 basis points from 3.63 on Nov. 23 and below the 3.76 reading on Nov. 20. The investment-grade OAS was 0.98, up 1 basis point. AlphaGen read: the gap between the two was 2.74 points, so the high-yield move was not matched in investment grade.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE Data Indices)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-26T00:39:01Z"
+  },
+  {
+   "id": "2026-11-25-fred-wti-brent-nov24-8224-9180",
+   "time": "2026-11-26T01:05:00Z",
+   "tag": "ENERGY",
+   "headline": "WTI $82.24, Brent $91.80 per barrel on Nov. 24; WTI up $0.82 on day",
+   "take": "FRED's EIA-sourced daily series show WTI at $82.24 per barrel on Nov. 24, up $0.82 from $81.42 on Nov. 23, and Brent at $91.80 versus $91.20. The Brent-WTI gap was $9.56. AlphaGen read: WTI is $7.29 below its Nov. 17 level of $89.53 even after the small Nov. 24 rebound.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (U.S. Energy Information Administration)",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+   "checked": "2026-11-26T00:39:01Z"
+  },
+  {
+   "id": "2026-11-25-fred-initial-claims-nov21-189k-from-202k",
+   "time": "2026-11-26T00:57:00Z",
+   "tag": "MACRO",
+   "headline": "Initial jobless claims 189,000 in week ended Nov. 21, down 13,000",
+   "take": "FRED shows seasonally adjusted initial claims at 189,000 for the week ending Nov. 21, versus 202,000 in each of the two prior weeks (Nov. 7 and Nov. 14). The Oct. 31 reading was 191,000. AlphaGen read: filings fell back to the low end of the range seen over the past six weeks, which ran from 189,000 to 202,000.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (U.S. Department of Labor)",
+   "source_url": "https://fred.stlouisfed.org/series/ICSA",
+   "checked": "2026-11-26T00:39:01Z"
+  },
+  {
+   "id": "2026-11-25-fred-mortgage30-nov25-721-from-728",
+   "time": "2026-11-26T00:49:00Z",
+   "tag": "HOUSING",
+   "headline": "30-year mortgage rate 7.21% in Nov. 25 reading, down 7 bp from 7.28%",
+   "take": "FRED's Freddie Mac 30-year fixed mortgage rate series shows 7.21% for Nov. 25, versus 7.28% on Nov. 19 and 7.11% on Nov. 12. The 7 basis point decline reverses part of the prior week's 17 basis point rise. AlphaGen read: borrowing costs remain above 7%, a level that keeps pressure on housing affordability.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Freddie Mac PMMS)",
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "checked": "2026-11-26T00:39:01Z"
+  },
+  {
+   "id": "2026-11-25-ecb-space-2026-cards-45pct-cash-44pct",
+   "time": "2026-11-26T00:41:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB study: cards 45% of euro area shop payments in 2026, cash 44%",
+   "take": "The ECB's SPACE study, published Nov. 25, found physical cards accounted for 45% of payments in shops versus 44% for cash, the first time since comparable data began in 2016 that cards led. Mobile payments rose to 9% from 6% in 2024, and 62% of respondents value the option of paying with cash. AlphaGen read: usage is shifting to digital while stated preferences stay split, which is the backdrop for the ECB's work on cash and a possible digital euro.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+   "checked": "2026-11-26T00:39:01Z"
+  },
   {
    "id": "2026-11-25-nxpi-completes-eur1b-notes-4p625-2034-4p875-2037",
    "time": "2026-11-26T00:18:00Z",
@@ -5020,76 +5092,6 @@
    "source_name": "U.S. Bureau of Labor Statistics (CPI news release, Nov. 10, 2026)",
    "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
    "checked": "2026-11-19T15:44:08Z"
-  },
-  {
-   "id": "2026-11-19-cpi-oct-piped-gas-minus-0p8-energy-services-0p6",
-   "time": "2026-11-19T16:01:08Z",
-   "tag": "ENERGY",
-   "headline": "CPI: piped gas -0.8% in October, third straight decline; electricity +0.9%",
-   "take": "BLS reports the October CPI natural gas (utility, piped) index fell 0.8%, after declines of 0.3% in September and 1.1% in August, while electricity rose 0.9% and energy services overall rose 0.6%. The three monthly declines compound to about 2.2%, by AlphaGen's calculation. AlphaGen read: home-heating gas and electricity moved in opposite directions in October.",
-   "source_name": "U.S. Bureau of Labor Statistics (CPI news release, Nov. 10, 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-19T15:44:08Z"
-  },
-  {
-   "id": "2026-11-19-cpi-oct-grocery-groups-other-food-0p7-beverages-minus-0p3",
-   "time": "2026-11-19T16:13:08Z",
-   "tag": "MACRO",
-   "headline": "CPI groceries: other food +0.7%, produce and dairy +0.6% each, beverages -0.3%",
-   "take": "Within October's 0.4% rise in food at home, BLS says four of the six major grocery groups increased: other food at home rose 0.7% (snacks +1.0%), meats, poultry, fish and eggs 0.5% (beef +0.9%), and fruits and vegetables and dairy 0.6% each. Nonalcoholic beverages fell 0.3% after rising 0.9% in September, and cereals and bakery products were unchanged. AlphaGen read: the October grocery gain was broad across groups rather than concentrated in one.",
-   "source_name": "U.S. Bureau of Labor Statistics (CPI news release, Nov. 10, 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-19T15:44:08Z"
-  },
-  {
-   "id": "2026-11-19-real-earnings-oct-all-employees-unchanged",
-   "time": "2026-11-19T16:25:08Z",
-   "tag": "MACRO",
-   "headline": "Real hourly earnings unchanged in October as pay and CPI both rose 0.4%",
-   "take": "BLS says real average hourly earnings for all employees were unchanged from September to October, as a 0.4% rise in average hourly earnings matched a 0.4% rise in CPI-U; real weekly earnings were also unchanged. For production and nonsupervisory employees, real hourly earnings rose 0.1% (pay +0.4%, CPI-W +0.3%). BLS notes year-over-year comparisons are unavailable because October 2025 CPI data could not be collected during the 2025 lapse in appropriations. AlphaGen read: pay kept pace with prices on the month for the broad workforce.",
-   "source_name": "U.S. Bureau of Labor Statistics (Real Earnings news release, Nov. 10, 2026)",
-   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-   "checked": "2026-11-19T15:44:08Z"
-  },
-  {
-   "id": "2026-11-19-cpi-oct-core-recreation-education-communication",
-   "time": "2026-11-19T16:34:08Z",
-   "tag": "MACRO",
-   "headline": "CPI core detail: recreation +0.8%, education +0.3%, communication -0.1%",
-   "take": "BLS's October CPI shows recreation up 0.8% after 0.5% in September, motor vehicle insurance up 0.7%, education up 0.3% and household furnishings and operations up 0.2%, while communication fell 0.1% and used cars and trucks fell 1.2%. The index excluding food and energy rose 0.3% for a third straight month. AlphaGen read: recreation and insurance did most of the lifting among the categories BLS names as increases.",
-   "source_name": "U.S. Bureau of Labor Statistics (CPI news release, Nov. 10, 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-19T15:44:08Z"
-  },
-  {
-   "id": "2026-11-19-ppi-oct-processed-ex-food-energy-0p9",
-   "time": "2026-11-19T14:44:00Z",
-   "tag": "MACRO",
-   "headline": "PPI: processed goods ex food and energy up 0.9% in October; energy goods down 1.6%",
-   "take": "BLS's October PPI says processed goods for intermediate demand rose 0.4%, with processed materials less foods and energy up 0.9%, processed foods and feeds up 1.0% and processed energy goods down 1.6%. The 12-month rise for processed goods was 14.6%. AlphaGen read: the small headline gain hid a firmer non-energy core, which energy goods offset.",
-   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-19T14:39:21Z"
-  },
-  {
-   "id": "2026-11-19-ppi-oct-processed-ex-food-energy-compounded-8p4",
-   "time": "2026-11-19T14:56:00Z",
-   "tag": "MACRO",
-   "headline": "PPI: processed goods ex food and energy compound to about 8.4% since December",
-   "take": "BLS's Table B shows processed goods for intermediate demand less foods and energy rising 0.5, 0.8, 0.8, 1.6, 1.7, 0.7, 0.1, 0.5, 0.5 and 0.9% from January through October, with no monthly decline. Compounding those rounded figures gives roughly 8.4% (AlphaGen calculation), against about 5.7% for total final demand on the same basis. AlphaGen read: October's 0.9% was the largest monthly gain since May's 1.7%.",
-   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-19T14:39:21Z"
-  },
-  {
-   "id": "2026-11-19-ppi-oct-intermediate-services-metals-wholesaling-9p2",
-   "time": "2026-11-19T15:08:00Z",
-   "tag": "MACRO",
-   "headline": "PPI: metals wholesaling margins jumped 9.2% in October, driving services for intermediate demand",
-   "take": "BLS says services for intermediate demand rose 0.6% in October, and thirty percent of the increase traced to a 9.2% jump in margins for metals, minerals and ores wholesaling. Nonresidential property management fees decreased 5.9%, and transportation and warehousing services for intermediate demand rose 1.2%. AlphaGen read: one wholesaling category accounted for roughly a third of the advance, so the broad gain leaned on a single margin line.",
-   "source_name": "U.S. Bureau of Labor Statistics (PPI news release, Nov. 13, 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-19T14:39:21Z"
   }
  ]
 }
