@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-26T00:39:01Z",
+ "updated": "2026-11-26T01:39:35Z",
  "items": [
+  {
+   "id": "2026-11-25-bea-gdp-q3-quarterly-rate-1p1-third-estimate-dec23",
+   "time": "2026-11-26T02:29:00Z",
+   "tag": "MACRO",
+   "headline": "BEA: Q3 real GDP 4.3% annualized is 1.1% quarterly; third estimate due Dec. 23",
+   "take": "BEA's second estimate puts third-quarter real GDP growth at 4.3% at an annual rate, which it states is 1.1% at a quarterly rate, after 2.2% in the second quarter. The release attributes the investment revision to an upward revision to intellectual property products, notably software, based primarily on revisions to BLS's Producer Price Index for system and application software publishing. The next release, the third estimate with industries and corporate profits, is scheduled for Dec. 23, 2026 at 8:30 a.m. EST. AlphaGen read: the 1.1% quarterly figure is the one to compare with unannualized monthly and quarterly series.",
+   "source_name": "U.S. Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+   "checked": "2026-11-26T01:42:35Z"
+  },
+  {
+   "id": "2026-11-25-fred-t10y2y-nov25-0p24-from-0p28",
+   "time": "2026-11-26T02:20:00Z",
+   "tag": "RATES",
+   "headline": "10-year minus 2-year Treasury spread 0.24 pt on Nov. 25, from 0.28 a day earlier",
+   "take": "FRED's 10-year minus 2-year Treasury constant maturity spread (T10Y2Y) was 0.24 percentage point on Nov. 25, down 4 basis points from 0.28 on Nov. 24 and 5 basis points below 0.29 on Nov. 23. It is the lowest of the six daily readings from Nov. 18 to Nov. 25. AlphaGen read: the gap between the two yields narrowed to its smallest in that window.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
+   "checked": "2026-11-26T01:42:35Z"
+  },
+  {
+   "id": "2026-11-25-fred-10y-breakeven-nov25-2p12-from-2p19-nov18",
+   "time": "2026-11-26T02:11:00Z",
+   "tag": "RATES",
+   "headline": "10-year breakeven inflation rate 2.12% on Nov. 25, flat on the day, from 2.19% on Nov. 18",
+   "take": "FRED's 10-year breakeven inflation rate (T10YIE) was 2.12% on Nov. 25, unchanged from Nov. 24 and 1 basis point below 2.13% on Nov. 23. Against 2.19% on Nov. 18 it is 7 basis points lower across the six readings from Nov. 18 to Nov. 25. AlphaGen read: the measure fell on each reading but one in the window and held steady on the latest day.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+   "checked": "2026-11-26T01:42:35Z"
+  },
+  {
+   "id": "2026-11-25-census-new-residential-sales-sample-redesign-jan-2027",
+   "time": "2026-11-26T02:01:00Z",
+   "tag": "HOUSING",
+   "headline": "Census flags sample redesign for New Residential Sales starting with January 2027 data",
+   "take": "In a notice dated Nov. 25, 2026, the Census Bureau said the Survey of Construction will complete a scheduled sample redesign with the January 2027 New Residential Sales release on Feb. 24, 2027. Beginning in January 2027, estimates will include housing units selected from the redesigned sample, and Census points to an FAQ for details. AlphaGen read: readers comparing new home sales across that changeover should check Census's FAQ first.",
+   "source_name": "U.S. Census Bureau, New Residential Sales",
+   "source_url": "https://www.census.gov/construction/nrs/",
+   "checked": "2026-11-26T01:42:35Z"
+  },
+  {
+   "id": "2026-11-25-fred-rrp-nov25-0p300b-from-0p301b",
+   "time": "2026-11-26T01:51:00Z",
+   "tag": "FED",
+   "headline": "Overnight reverse repo take-up $0.300B on Nov. 25, from $0.301B a day earlier",
+   "take": "FRED shows overnight reverse repurchase agreement take-up (RRPONTSYD) at $0.300 billion on Nov. 25, versus $0.301 billion on Nov. 24 and $0.405 billion on Nov. 19. It is the lowest of the six daily readings from Nov. 18 to Nov. 25. AlphaGen read: take-up remains a sub-$1 billion footnote to funding markets.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
+   "checked": "2026-11-26T01:42:35Z"
+  },
   {
    "id": "2026-11-25-mdlz-cfo-make-whole-award-cap-7p35m",
    "time": "2026-11-26T01:29:00Z",
@@ -5042,56 +5092,6 @@
    "source_name": "U.S. Department of Labor (Unemployment Insurance Weekly Claims, Nov. 19, 2026)",
    "source_url": "https://www.dol.gov/ui/data.pdf",
    "checked": "2026-11-19T16:38:46Z"
-  },
-  {
-   "id": "2026-11-19-fed-jefferson-energy-shock-inflation-above-target",
-   "time": "2026-11-19T16:50:46Z",
-   "tag": "FED",
-   "headline": "Jefferson: inflation was already above 2% target when energy shock hit",
-   "take": "Vice Chair Jefferson, speaking in Brasília on Nov. 19, said: \"When the recent energy price shock occurred, inflation in the U.S. was already above our 2 percent target.\" He added that if inflation expectations risk becoming unanchored, \"a stronger reaction to inflation is warranted.\" AlphaGen read: the speech frames expectations as the main test for how the Fed treats an energy-driven price jump.",
-   "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-   "checked": "2026-11-19T16:38:46Z"
-  },
-  {
-   "id": "2026-11-19-dol-continuing-claims-1763k-rate-1p1",
-   "time": "2026-11-19T17:00:46Z",
-   "tag": "MACRO",
-   "headline": "Continuing claims rise 70,000 to 1.763 million; insured rate 1.1%",
-   "take": "The Labor Department said insured unemployment was 1,763,000 for the week ending November 7, up 70,000 from a revised 1,693,000, with the insured unemployment rate at 1.1% (unchanged). Unadjusted initial claims for the week ending November 14 were 197,492, versus 218,228 a year earlier, about 9.5% lower by AlphaGen's calculation. AlphaGen read: the continuing-claims increase is the more notable move in an otherwise low-claims report.",
-   "source_name": "U.S. Department of Labor (Unemployment Insurance Weekly Claims, Nov. 19, 2026)",
-   "source_url": "https://www.dol.gov/ui/data.pdf",
-   "checked": "2026-11-19T16:38:46Z"
-  },
-  {
-   "id": "2026-11-19-fed-jefferson-ai-buildout-demand-inflation",
-   "time": "2026-11-19T17:10:46Z",
-   "tag": "FED",
-   "headline": "Jefferson: AI buildout is adding upward pressure on demand and inflation",
-   "take": "In his Nov. 19 speech, Vice Chair Jefferson said: \"Currently, the AI buildout is exerting upward pressure on demand and inflation.\" He also said \"AI could cause some job displacement, a meaningful challenge for affected households.\" AlphaGen read: the Fed is weighing AI investment as both a demand source and a labor-market risk.",
-   "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-   "checked": "2026-11-19T16:38:46Z"
-  },
-  {
-   "id": "2026-11-19-fed-jefferson-goal-price-stability-solid-labor",
-   "time": "2026-11-19T17:20:46Z",
-   "tag": "FED",
-   "headline": "Jefferson: goal is price stability with a solid labor market",
-   "take": "Vice Chair Jefferson said: \"For the U.S. economy, my goal is to restore price stability while maintaining a solid labor market.\" He also said \"If price pressures are contained, it may be prudent to prioritize downside risks to employment.\" AlphaGen read: the conditional wording ties any shift toward employment risks to inflation first being contained.",
-   "source_name": "Federal Reserve Board (Vice Chair Jefferson speech, Nov. 19, 2026)",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-   "checked": "2026-11-19T16:38:46Z"
-  },
-  {
-   "id": "2026-11-19-cpi-oct-fuel-oil-2p0-after-15p3",
-   "time": "2026-11-19T15:49:08Z",
-   "tag": "ENERGY",
-   "headline": "CPI: fuel oil +2.0% in October after +15.3% in September",
-   "take": "BLS's October CPI shows fuel oil up 2.0% on the month after a 15.3% rise in September and 10.1% in August; June and July were declines of 9.2% and 1.7%. Compounding the seven monthly readings from April through October gives about 26.9% cumulatively, by AlphaGen's calculation. AlphaGen read: fuel oil rose again in October but at a much slower pace than in August and September.",
-   "source_name": "U.S. Bureau of Labor Statistics (CPI news release, Nov. 10, 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-19T15:44:08Z"
   }
  ]
 }
