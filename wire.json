@@ -1,6 +1,66 @@
 {
-  "updated": "2026-11-26T21:39:19Z",
+  "updated": "2026-11-26T22:39:20Z",
   "items": [
+    {
+      "tag": "MACRO",
+      "headline": "BLS: October CPI recreation index rose 0.8%, after 0.5% in September",
+      "take": "BLS's October CPI release (Nov. 10) shows the recreation index increased 0.8 percent over the month after rising 0.5 percent in September. It was among the indexes that rose within core CPI, which increased 0.3 percent in October, as it did in September and August. AlphaGen read: recreation's two-month climb is one of the core detail lines to check when the November CPI is published on Dec. 10.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "id": "2026-11-26-cpi-oct-recreation-0p8-after-0p5",
+      "time": "2026-11-26T22:42:20Z",
+      "checked": "2026-11-26T22:39:20Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BLS: motor vehicle insurance CPI rose 0.7% in October while used cars fell 1.2%",
+      "take": "The motor vehicle insurance index rose 0.7 percent in October, BLS said in its CPI release of Nov. 10, alongside gains of 0.2 percent in household furnishings and operations and 0.3 percent in education. Used cars and trucks fell 1.2 percent and communication fell 0.1 percent. AlphaGen read: services less energy services rose 0.3 percent in October versus 0.2 percent for commodities less food and energy commodities, so services carried more of the core increase.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "id": "2026-11-26-cpi-oct-motor-vehicle-insurance-0p7-used-cars-minus-1p2",
+      "time": "2026-11-26T22:51:20Z",
+      "checked": "2026-11-26T22:39:20Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BLS: October CPI snacks rose 1.0%, beef 0.9%; nonalcoholic beverages fell 0.3%",
+      "take": "Within food at home, which rose 0.4 percent in October, BLS reports the other food at home index increased 0.7 percent as snacks rose 1.0 percent, and meats, poultry, fish, and eggs rose 0.5 percent as beef rose 0.9 percent. Nonalcoholic beverages fell 0.3 percent after rising 0.9 percent in September, and cereals and bakery products were unchanged. AlphaGen read: four of the six major grocery groups rose, so the monthly gain was not confined to one category.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "id": "2026-11-26-cpi-oct-snacks-1p0-beef-0p9-beverages-minus-0p3",
+      "time": "2026-11-26T23:00:20Z",
+      "checked": "2026-11-26T22:39:20Z"
+    },
+    {
+      "tag": "ENERGY",
+      "headline": "BLS: fuel oil CPI rose 2.0% in October after 15.3% in September",
+      "take": "BLS's October CPI table shows the fuel oil index rose 2.0 percent in October after 15.3 percent in September, while energy commodities rose 0.8 percent after 9.3 percent. Utility (piped) gas service fell 0.8 percent, and the overall energy index rose 0.7 percent after 5.2 percent. AlphaGen read: energy's slowdown coincided with all items easing to a 0.4 percent gain from 0.6 percent in September.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "id": "2026-11-26-cpi-oct-fuel-oil-2p0-after-15p3-energy-commodities-0p8",
+      "time": "2026-11-26T23:09:20Z",
+      "checked": "2026-11-26T22:39:20Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BLS: four industries added 156,000 of October's 165,000 payroll gain",
+      "take": "BLS reported October nonfarm payrolls rose 165,000, with gains of 70,000 in professional and business services, 42,000 in health care, 25,000 in transportation and warehousing, and 19,000 in manufacturing. Those four sum to 156,000, or 94.5 percent of the total (AlphaGen calculation), while BLS says employment showed little change in other major industries including construction, retail trade, financial activities and government. AlphaGen read: the gain was concentrated, so the November report due Dec. 4 will show whether other sectors join in.",
+      "source_name": "BLS",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "id": "2026-11-26-bls-oct-four-industries-156k-of-165k",
+      "time": "2026-11-26T23:18:20Z",
+      "checked": "2026-11-26T22:39:20Z"
+    },
+    {
+      "tag": "MACRO",
+      "headline": "BEA: October income rose $201.8B but outlays only $69.3B, a $132.5B gap",
+      "take": "BEA reports personal income increased $201.8 billion in October while personal outlays increased $69.3 billion, a difference of $132.5 billion (AlphaGen calculation). Personal saving was $1.00 trillion and the saving rate was 4.1 percent. BEA says the income gain primarily reflected compensation, government social benefits and asset income, with the benefits increase led by one-time Medicare Improvement Fund premium rebate payments. AlphaGen read: because part of the income gain was one-time, the October saving rate is not a clean read on underlying household behavior.",
+      "source_name": "BEA",
+      "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+      "id": "2026-11-26-bea-oct-income-201p8b-vs-outlays-69p3b-gap-132p5b",
+      "time": "2026-11-26T23:27:20Z",
+      "checked": "2026-11-26T22:39:20Z"
+    },
     {
       "tag": "MACRO",
       "headline": "BLS: professional and business services added 70,000 jobs in October",
@@ -5017,68 +5077,6 @@
       "source_name": "ICE Data Indices via FRED, Federal Reserve Bank of St. Louis",
       "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
       "checked": "2026-11-20T14:39:15Z"
-    },
-    {
-      "id": "2026-11-20-fred-mortgage-nov19-728-vs-10y-nov18-221",
-      "time": "2026-11-20T14:41:15Z",
-      "tag": "HOUSING",
-      "headline": "30-year mortgage rate 7.28% on Nov. 19 sits 2.21 points above the 10-year Treasury yield",
-      "take": "Freddie Mac's 30-year fixed mortgage rate was 7.28% in the week of Nov. 19, up from 7.11% on Nov. 12, in FRED data. The 10-year Treasury yield was 5.07% on Nov. 18, which puts the gap at 2.21 percentage points. AlphaGen read: dates differ by a day, so treat the gap as approximate.",
-      "source_name": "Freddie Mac via FRED, Federal Reserve Bank of St. Louis",
-      "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-      "checked": "2026-11-20T14:39:15Z"
-    },
-    {
-      "id": "2026-11-20-ecb-lagarde-digital-euro-2029-card-schemes-60pct",
-      "time": "2026-11-20T13:40:50Z",
-      "tag": "GLOBAL",
-      "headline": "Lagarde: digital euro aimed at 2029 issuance if law passes by end-2026",
-      "take": "In a Nov. 20 speech in Frankfurt, ECB President Christine Lagarde said international card schemes handle more than 60% of euro area card payments and 14 of the 21 euro area countries have no domestic scheme. She said that if legislation is adopted by the end of this year, the ECB aims to be ready for a first digital euro issuance in 2029. For Europe, the payments push is a sovereignty argument as much as a technology one.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-      "checked": "2026-11-20T13:38:50Z"
-    },
-    {
-      "id": "2026-11-20-ecb-lagarde-pontes-tokenised-assets-23b-esm-1b-bond",
-      "time": "2026-11-20T13:50:50Z",
-      "tag": "GLOBAL",
-      "headline": "Lagarde: tokenised assets ~€23B in March; ESM settled €1B bond on Pontes",
-      "take": "Lagarde said the market for tokenised assets was worth around €23 billion worldwide in March, five times its size a year earlier. The ECB launched Pontes in September to settle tokenised transactions in central bank money, and the European Stability Mechanism settled a €1 billion digitally native bond on it earlier this month. The ECB is positioning settlement infrastructure as the common standard before platforms diverge.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-      "checked": "2026-11-20T13:38:50Z"
-    },
-    {
-      "id": "2026-11-20-ecb-lagarde-eurep-permanent-30-central-banks",
-      "time": "2026-11-20T14:00:50Z",
-      "tag": "FX",
-      "headline": "Lagarde: EUREP repo facility made permanent in February; 30+ central banks interested",
-      "take": "Lagarde said the ECB made EUREP, its repo facility for central banks, permanent in February and open to central banks worldwide, and that more than 30 central banks have already expressed interest. She also cited the linking of TIPS with fast payment systems in other regions and work to keep swap lines fit for purpose. The measures are aimed at making the euro easier to use abroad.",
-      "source_name": "European Central Bank",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-      "checked": "2026-11-20T13:38:50Z"
-    },
-    {
-      "id": "2026-11-20-mrk-glocer-retire-baker-lead-director-jan-2027",
-      "time": "2026-11-20T14:10:50Z",
-      "tag": "EQUITIES",
-      "headline": "Merck: Glocer to retire from board in May 2027; Baker named lead director",
-      "take": "Merck said Thomas H. Glocer intends to retire from its Board at the May 2027 Annual Meeting of Shareholders. The independent directors appointed Douglas M. Baker, Jr., a director since 2022, as independent lead director effective Jan. 1, 2027. The announcement was a governance change and did not include financial guidance.",
-      "source_name": "Merck & Co. (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/ex991.htm",
-      "ticker": "NYSE:MRK",
-      "checked": "2026-11-20T13:38:50Z"
-    },
-    {
-      "id": "2026-11-20-apd-nominates-carol-williams-two-directors-leave",
-      "time": "2026-11-20T14:20:50Z",
-      "tag": "EQUITIES",
-      "headline": "Air Products to nominate Carol Williams; two directors won't stand in 2027",
-      "take": "Air Products said it will nominate Carol Williams, who spent 34 years at Dow, as an independent director candidate at its 2027 Annual Meeting. It also said Jessica Trocchi Graziano and Bhavesh (Bob) Patel will not stand for re-election and will retire when their terms conclude. The board refresh is the substance of the release; no financial figures were given.",
-      "source_name": "Air Products and Chemicals (SEC Form 8-K, Ex. 99.1)",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/2969/000119312526467126/d136262dex991.htm",
-      "ticker": "NYSE:APD",
-      "checked": "2026-11-20T13:38:50Z"
     }
   ]
 }

@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-26T17:39:33Z",
+  "updated": "2026-11-26T22:39:20Z",
   "items": [
+    {
+      "id": "2026-11-26-the-close",
+      "time": "2026-11-26T22:41:20Z",
+      "tag": "MACRO",
+      "series": "the-close",
+      "title": "The Close: ECB points to energy-led inflation as yields ease and claims stay low",
+      "dek": "The ECB's October account showed euro-area inflation at 3.8%, the Bank of England flagged hyperscaler bond issuance, and U.S. yields and claims eased.",
+      "key_points": [
+        "ECB account: euro-area HICP inflation was 3.8% in September, with energy inflation at 18.9%.",
+        "Bank of England FPC: hyperscaler bond issuance is set to exceed $305 billion in 2026, around 8% of global investment-grade issuance.",
+        "FRED: the 10-year Treasury yield was 4.91% on Nov. 24, down from 5.10% on Nov. 17.",
+        "Freddie Mac's 30-year mortgage rate was 7.21% on Nov. 25, down from 7.28% on Nov. 19.",
+        "Initial jobless claims were 189,000 for the week ended Nov. 21, down from 202,000."
+      ],
+      "talking_points": [
+        "Is inflation still a problem in Europe? Yes, by the ECB's account. Euro-area HICP inflation rose to 3.8% in September from 3.2% in August, driven by energy inflation of 18.9%. For everyday investors, energy-driven inflation abroad is a reminder that global prices can feed into the same fuel and goods costs Americans pay.",
+        "Are U.S. borrowing costs coming down? Somewhat. FRED shows the 10-year Treasury yield at 4.91% on Nov. 24 versus 5.10% on Nov. 17, and the Freddie Mac 30-year mortgage rate at 7.21% on Nov. 25 versus 7.28% the week before. For prospective buyers, the mortgage rate is still above 7%, so budget for payments at today's rate rather than a hoped-for lower one.",
+        "Is the job market weakening? Not by the latest data. Initial jobless claims were 189,000 for the week ended Nov. 21, down from 202,000, and October payrolls rose 165,000 with unemployment at 4.1%. For workers and savers, steady claims support the case for keeping an emergency fund in place, which does not depend on any forecast."
+      ],
+      "body": [
+        "A holiday-shortened Thursday brought no major U.S. data releases in the material AlphaGen reviewed, so the official record was dominated by central-bank publications and the week's earlier readings. The European Central Bank published its account of the Oct. 28-29 meeting, and the Bank of England released its November Financial Policy Committee record.",
+        {
+          "h": "Europe: energy-led inflation"
+        },
+        "In the ECB account, Mr Lane noted that headline HICP inflation rose to 3.8% in September from 3.2% in August, driven by energy inflation of 18.9%, up from 14.3%. Market-implied inflation expectations, adjusted for risk premia, averaged 3.1% for 2026, 3.3% for 2027 and 2.1% for 2028. The ECB's wage tracker pointed to negotiated wage growth of between 2.5% and 2.8% in the rest of 2026 and an average of 2.6% in the first three quarters of 2027. Market pricing adjusted for term premia pointed to an expected peak in the deposit facility rate at around 3%.",
+        {
+          "h": "UK financial stability"
+        },
+        "The Bank of England's FPC record noted that hyperscaler bond issuance is set to exceed $305 billion in 2026, around 8% of global investment-grade issuance, with the share rising considerably when the wider AI-related issuer ecosystem is included. The FPC said AI-related financing is increasing interconnections across the financial system, making it more likely for stress in one area to propagate to another.",
+        {
+          "h": "U.S. rates and labor backdrop"
+        },
+        "FRED data show the 2-year Treasury yield at 4.63% and the 10-year at 4.91% on Nov. 24, down from 4.80% and 5.10% on Nov. 17. Freddie Mac's 30-year mortgage rate was 7.21% on Nov. 25 after 7.28% on Nov. 19. Initial jobless claims were 189,000 for the week ended Nov. 21 versus 202,000 the week before.",
+        {
+          "h": "What comes next"
+        },
+        "The next major U.S. readings are the November Employment Situation on Dec. 4 and the November CPI on Dec. 10, according to BLS, and BEA's third-quarter GDP third estimate and November personal income and outlays on Dec. 23. AlphaGen read: with Thursday light on U.S. data, the October CPI and payroll details published earlier this month remain the most recent official inflation and jobs benchmarks."
+      ],
+      "sources": [
+        {
+          "name": "ECB, Account of the monetary policy meeting of 28-29 October 2026",
+          "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html"
+        },
+        {
+          "name": "Bank of England, Financial Policy Committee Record, November 2026",
+          "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026"
+        },
+        {
+          "name": "FRED, 10-year Treasury constant maturity",
+          "url": "https://fred.stlouisfed.org/series/DGS10"
+        },
+        {
+          "name": "FRED, 2-year Treasury constant maturity",
+          "url": "https://fred.stlouisfed.org/series/DGS2"
+        },
+        {
+          "name": "FRED, 30-year fixed mortgage rate (Freddie Mac)",
+          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+        },
+        {
+          "name": "FRED, initial claims",
+          "url": "https://fred.stlouisfed.org/series/ICSA"
+        },
+        {
+          "name": "BLS, Employment Situation, October 2026",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        }
+      ],
+      "checked": "2026-11-26T22:39:20Z"
+    },
     {
       "id": "2026-11-26-ecb-boe-energy-ai-debt-sovereign-yields",
       "time": "2026-11-26T17:39:33Z",
