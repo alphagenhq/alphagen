@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-26T12:42:00Z",
+ "updated": "2026-11-26T13:40:08Z",
  "items": [
+  {
+   "id": "2026-11-26-bls-nov-cpi-dec10-after-oct-0p4-core-0p3",
+   "time": "2026-11-26T14:25:08Z",
+   "tag": "MACRO",
+   "headline": "BLS schedules November CPI for Dec. 10 at 8:30 a.m. ET",
+   "take": "BLS says the Consumer Price Index news release for November 2026 is scheduled to be published on Thursday, Dec. 10, 2026, at 8:30 a.m. ET. In October the CPI-U rose 0.4% seasonally adjusted after 0.6% in September, and the index excluding food and energy rose 0.3% for a third straight month. AlphaGen read: the November report will show whether the 0.3% core pace held.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-26T13:40:08Z"
+  },
+  {
+   "id": "2026-11-26-bls-nov-jobs-report-dec4-after-oct-165k-unemployment-4p1",
+   "time": "2026-11-26T14:15:08Z",
+   "tag": "MACRO",
+   "headline": "BLS schedules November jobs report for Dec. 4 at 8:30 a.m. ET",
+   "take": "BLS says the Employment Situation for November 2026 is scheduled to be published on Friday, Dec. 4, 2026, at 8:30 a.m. ET. The October report showed total nonfarm payroll employment up 165,000 and an unemployment rate of 4.1%. AlphaGen read: the November figures are the next hard labor-market read after October's 165,000 gain.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "checked": "2026-11-26T13:40:08Z"
+  },
+  {
+   "id": "2026-11-26-fed-funds-vs-core-pce-oct-real-rate-0p58",
+   "time": "2026-11-26T14:05:08Z",
+   "tag": "FED",
+   "headline": "Fed funds rate 3.88% sits about 0.6 point above core PCE inflation of 3.3%",
+   "take": "FRED shows the effective federal funds rate at 3.88% on Nov. 24, and BEA reported that the October PCE price index excluding food and energy rose 3.3% from a year earlier. The difference is about 0.58 percentage point (computed from the rounded inflation figure). AlphaGen read: by this simple measure the policy rate is only modestly above core inflation, which frames how the Fed may weigh its next decision.",
+   "source_name": "Bureau of Economic Analysis; Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026",
+   "checked": "2026-11-26T13:40:08Z"
+  },
+  {
+   "id": "2026-11-26-fred-5y5y-forward-breakeven-nov25-2p11-vs-2p15-nov18",
+   "time": "2026-11-26T13:55:08Z",
+   "tag": "RATES",
+   "headline": "Implied 5-year, 5-years-forward inflation rate about 2.11% on Nov. 25, from 2.15% a week earlier",
+   "take": "FRED's 10-year breakeven inflation rate was 2.12% on Nov. 25 and the 5-year was 2.13%; on Nov. 18 they were 2.19% and 2.23%. Doubling the 10-year rate and subtracting the 5-year gives an approximate 5-year, 5-years-forward rate of 2.11%, against 2.15% on Nov. 18 (computed, rounded inputs). AlphaGen read: longer-horizon inflation compensation eased by about 4 bp over the week, and by less than the 10 bp drop in the 5-year rate.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+   "checked": "2026-11-26T13:40:08Z"
+  },
+  {
+   "id": "2026-11-26-fred-2y-30y-parallel-nov17-24-curve-67bp",
+   "time": "2026-11-26T13:45:08Z",
+   "tag": "RATES",
+   "headline": "2-year and 30-year Treasury yields both fell about 16-17 bp in a week; 2s30s gap 67 bp",
+   "take": "FRED shows the 2-year Treasury yield at 4.63% on Nov. 24, down from 4.80% on Nov. 17, while the 30-year was 5.30%, down from 5.46%. That is a 17 bp fall at the short end and 16 bp at the long end, leaving the 30-year minus 2-year gap at 67 bp versus 66 bp (computed from the rounded yields). AlphaGen read: the decline was close to a parallel shift, not a steepening or flattening of the curve.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS30",
+   "checked": "2026-11-26T13:40:08Z"
+  },
   {
    "id": "2026-11-26-fred-new-home-months-supply-oct-8p0-sep-9p3",
    "time": "2026-11-26T12:42:00Z",
@@ -5036,56 +5086,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (T5YIE)",
    "source_url": "https://fred.stlouisfed.org/series/T5YIE",
    "checked": "2026-11-19T21:39:54Z"
-  },
-  {
-   "id": "2026-11-19-fred-reserve-balances-nov11-2p961t-tga-914b",
-   "time": "2026-11-19T22:09:54Z",
-   "tag": "FED",
-   "headline": "Fed reserve balances $2.961 trillion on Nov. 11, up $30.5B on the week; TGA $914.4B",
-   "take": "FRED shows reserve balances with Federal Reserve Banks at $2,960,603 million on Nov. 11, up $30.5 billion from $2,930,088 million on Nov. 4 and below $3,029,659 million on Oct. 7. The Treasury General Account stood at $914,370 million, down $42.8 billion from $957,175 million a week earlier. AlphaGen read: reserves rose while the Treasury cash balance fell over the week, though these two series alone do not show the cause.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (WRESBAL; WTREGEN)",
-   "source_url": "https://fred.stlouisfed.org/series/WRESBAL",
-   "checked": "2026-11-19T21:39:54Z"
-  },
-  {
-   "id": "2026-11-19-fred-nfci-nov13-minus-0p478",
-   "time": "2026-11-19T22:18:54Z",
-   "tag": "CREDIT",
-   "headline": "Chicago Fed financial conditions index -0.478 for week of Nov. 13",
-   "take": "FRED shows the Chicago Fed National Financial Conditions Index at -0.478 for the week ended Nov. 13, versus -0.473 on Nov. 6, -0.470 on Oct. 30 and -0.507 on Sept. 25. Negative readings indicate financial conditions looser than the historical average. AlphaGen read: the index moved 0.005 lower on the week and has stayed between -0.494 and -0.470 across its last seven readings, so broad financial conditions have changed little.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (NFCI, Federal Reserve Bank of Chicago)",
-   "source_url": "https://fred.stlouisfed.org/series/NFCI",
-   "checked": "2026-11-19T21:39:54Z"
-  },
-  {
-   "id": "2026-11-19-fred-usd-gbp-nov13-1p3212-vs-nov5-1p3483",
-   "time": "2026-11-19T22:27:54Z",
-   "tag": "FX",
-   "headline": "Dollar-pound rate $1.3212 on Nov. 13, down from $1.3483 on Nov. 5",
-   "take": "FRED shows the U.S. dollar-to-pound exchange rate at $1.3212 per pound on Nov. 13, compared with $1.3240 on Nov. 12, $1.3322 on Nov. 10 and $1.3483 on Nov. 5. AlphaGen calculation: one pound bought $0.0271 fewer dollars on Nov. 13 than on Nov. 5. AlphaGen read: the pound has weakened against the dollar over this stretch of the FRED daily data.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXUSUK, Board of Governors H.10)",
-   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
-   "checked": "2026-11-19T21:39:54Z"
-  },
-  {
-   "id": "2026-11-19-philly-fed-nov-general-activity-6p3",
-   "time": "2026-11-19T20:41:22Z",
-   "tag": "MACRO",
-   "headline": "Philly Fed factory index falls to 6.3 in November from 20.9 in October",
-   "take": "The Philadelphia Fed's November Manufacturing Business Outlook Survey, released Nov. 19, put the current general activity index at 6.3, down from 20.9 in October; the Fed's summary says it fell to a six-month low but remained positive. Survey responses were collected Nov. 9 to 16. AlphaGen read: a positive index still points to expansion in the region's factories, but the drop is large for one month.",
-   "source_name": "Federal Reserve Bank of Philadelphia, Manufacturing Business Outlook Survey",
-   "source_url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/mbos-2026-11",
-   "checked": "2026-11-19T20:39:22Z"
-  },
-  {
-   "id": "2026-11-19-philly-fed-nov-prices-paid-58p2-received-47p0",
-   "time": "2026-11-19T20:52:22Z",
-   "tag": "MACRO",
-   "headline": "Philly Fed: prices paid index 58.2, prices received 47.0 in November",
-   "take": "In the Philadelphia Fed's November survey, the prices paid index rose to 58.2 from 43.2 in October and the prices received index rose to 47.0 from 40.1. The survey text says both price indexes increased from already elevated readings. AlphaGen read: it adds regional input-cost evidence alongside the October CPI and PPI data already out.",
-   "source_name": "Federal Reserve Bank of Philadelphia, Manufacturing Business Outlook Survey",
-   "source_url": "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/mbos-2026-11",
-   "checked": "2026-11-19T20:39:22Z"
   }
  ]
 }
