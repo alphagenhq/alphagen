@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-27T21:38:34Z",
+ "updated": "2026-11-27T22:38:51Z",
  "items": [
+  {
+   "id": "2026-11-27-fred-2y-nov20-drop-13bp-to-4p63-flat-through-nov24",
+   "time": "2026-11-27T22:50:00Z",
+   "tag": "RATES",
+   "headline": "FRED: 2-year Treasury yield fell 13bp on Nov. 20 to 4.63%, flat through Nov. 24",
+   "take": "FRED shows the 2-year Treasury constant-maturity yield at 4.76% on Nov. 19 and 4.63% on Nov. 20, a drop of 13 basis points in one session, then unchanged at 4.63% on Nov. 23 and Nov. 24. It stood at 4.80% on Nov. 17 and Nov. 18, so the net decline over the window is 17 basis points by AlphaGen's calculation. AlphaGen read: nearly all of the move in the policy-sensitive part of the curve came in a single day.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS2",
+   "checked": "2026-11-27T22:38:51Z"
+  },
+  {
+   "id": "2026-11-27-fred-30y-nov17-5p46-to-nov24-5p30-down-16bp",
+   "time": "2026-11-27T23:02:00Z",
+   "tag": "DEBT",
+   "headline": "FRED: 30-year Treasury yield 5.30% on Nov. 24, down 16bp from Nov. 17",
+   "take": "FRED shows the 30-year Treasury constant-maturity yield at 5.46% on Nov. 17, 5.41% on Nov. 18, 5.40% on Nov. 19, 5.31% on Nov. 20, 5.29% on Nov. 23 and 5.30% on Nov. 24. That is a 16 basis point decline over the window by AlphaGen's calculation, with 9 basis points of it on Nov. 20 alone. AlphaGen read: long-end yields have eased from the 5.4% area but remain above 5.2% across the whole window.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS30)",
+   "source_url": "https://fred.stlouisfed.org/series/DGS30",
+   "checked": "2026-11-27T22:38:51Z"
+  },
+  {
+   "id": "2026-11-27-fred-dollar-per-euro-1p0981-nov20-vs-1p1034-nov13",
+   "time": "2026-11-27T23:14:00Z",
+   "tag": "FX",
+   "headline": "FRED: Fed H.10 shows $1.0981 per euro on Nov. 20 vs $1.1034 on Nov. 13",
+   "take": "FRED's Federal Reserve H.10 series shows the dollar-euro rate at $1.1034 per euro on Nov. 13, $1.1004 on Nov. 16, $1.1016 on Nov. 17, $1.0968 on Nov. 18, and $1.0981 on both Nov. 19 and Nov. 20. By AlphaGen's calculation the euro was $0.0053 lower over the week to Nov. 20, with the low of the window on Nov. 18. AlphaGen read: the rate stayed inside a range of less than one cent per euro for the week.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXUSEU)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
+   "checked": "2026-11-27T22:38:51Z"
+  },
+  {
+   "id": "2026-11-27-fred-yen-per-dollar-158p76-nov20-vs-159p93-nov13",
+   "time": "2026-11-27T23:26:00Z",
+   "tag": "FX",
+   "headline": "FRED: Fed H.10 shows 158.76 yen per dollar on Nov. 20 vs 159.93 on Nov. 13",
+   "take": "FRED's Federal Reserve H.10 series shows 159.93 yen per dollar on Nov. 13, then 159.65 on Nov. 16, 159.27 on Nov. 17, 159.25 on Nov. 18, 159.76 on Nov. 19 and 158.76 on Nov. 20. By AlphaGen's calculation that is 1.17 yen lower over the week, and the Nov. 20 reading is the low of the six observations. AlphaGen read: the rate has held in a narrow band just under 160 yen per dollar.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+   "checked": "2026-11-27T22:38:51Z"
+  },
   {
    "id": "2026-11-27-axp-director-angelakis-resigns-board-dec2",
    "time": "2026-11-27T21:46:34Z",
@@ -5025,46 +5065,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis",
    "source_url": "https://fred.stlouisfed.org/series/DGS2",
    "checked": "2026-11-21T14:39:56Z"
-  },
-  {
-   "id": "2026-11-21-fed-thanksgiving-weekly-releases-move-nov27",
-   "time": "2026-11-21T15:24:00Z",
-   "tag": "FED",
-   "headline": "Fed calendar: Thanksgiving week releases shift; H.4.1 set for Fri. Nov. 27, 4:30 p.m.",
-   "take": "The Federal Reserve Board's November calendar lists Thursday, Nov. 26 as a Thanksgiving holiday and says the daily and weekly statistical releases scheduled for that day will be released on Friday, Nov. 27. The calendar lists H.4.1 (Factors Affecting Reserve Balances) at 4:30 p.m. and H.8 (Assets and Liabilities of Commercial Banks) at 4:15 p.m. that Friday. AlphaGen read: the weekly balance-sheet and bank data land a day later than usual this week.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/2026-November.htm",
-   "checked": "2026-11-21T14:39:56Z"
-  },
-  {
-   "id": "2026-11-21-bls-state-oct-jobless-3-lower-1-higher-46-stable",
-   "time": "2026-11-21T13:44:00Z",
-   "tag": "MACRO",
-   "headline": "BLS: October jobless rates lower in 3 states and DC, higher in 1, stable in 46",
-   "take": "BLS reported on Nov. 20 that in October unemployment rates were lower in 3 states and the District of Columbia, higher in 1 state and stable in 46 states. Nonfarm payroll employment increased in 4 states and was essentially unchanged in 46 states and the District. AlphaGen read: the state map was mostly flat in October, with changes confined to a handful of states.",
-   "source_name": "Bureau of Labor Statistics (BLS)",
-   "source_url": "https://www.bls.gov/bls/",
-   "checked": "2026-11-21T13:38:55Z"
-  },
-  {
-   "id": "2026-11-21-bls-tfp-2025-7-of-19-industries",
-   "time": "2026-11-21T13:58:00Z",
-   "tag": "MACRO",
-   "headline": "BLS: total factor productivity rose in 7 of 19 major industries in 2025",
-   "take": "BLS published its industry productivity release on Nov. 20, reporting that total factor productivity increased in 7 out of 19 major industries in 2025. AlphaGen read: that leaves 12 of the 19 industries without an increase, so the 2025 gains were not broad across the industries BLS covers.",
-   "source_name": "Bureau of Labor Statistics (BLS)",
-   "source_url": "https://www.bls.gov/bls/",
-   "checked": "2026-11-21T13:38:55Z"
-  },
-  {
-   "id": "2026-11-21-bls-injuries-2025-2p4m-cases-down-3p0pct",
-   "time": "2026-11-21T14:12:00Z",
-   "tag": "MACRO",
-   "headline": "BLS: employers reported 2.4 million workplace injury and illness cases in 2025",
-   "take": "BLS reported on Nov. 18 that employers reported 2.4 million injury and illness cases in 2025, down 3.0% from 2024. AlphaGen read: the count is an annual workplace-safety measure rather than a market series, and it is a decline from the 2024 level.",
-   "source_name": "Bureau of Labor Statistics (BLS)",
-   "source_url": "https://www.bls.gov/bls/",
-   "checked": "2026-11-21T13:38:55Z"
   }
  ]
 }
