@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-26T12:42:00Z",
+ "updated": "2026-11-27T12:40:30Z",
  "items": [
+  {
+   "id": "2026-11-27-brent-wti-nov24",
+   "time": "2026-11-27T12:40:30Z",
+   "title": "Brent $91.80 and WTI $82.24 a barrel on Nov. 24",
+   "subtitle": "EIA spot prices via FRED, U.S. dollars per barrel",
+   "series": [
+    {
+     "id": "DCOILBRENTEU",
+     "label": "Brent",
+     "t": "lvl"
+    },
+    {
+     "id": "DCOILWTICO",
+     "label": "WTI",
+     "t": "lvl"
+    }
+   ],
+   "start": "2025-11-01",
+   "units": "U.S. dollars per barrel",
+   "take": "FRED shows Brent at $91.80 a barrel on Nov. 24, from $92.94 on Nov. 17, and WTI at $82.24, from $89.53 on Nov. 17. The Brent-WTI gap was $9.56 on Nov. 24 against $3.41 on Nov. 17 (AlphaGen calculations). AlphaGen read: WTI's fall of $7.29 over the week was far larger than Brent's $1.14 decline.",
+   "source": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "checked": "2026-11-27T12:40:30Z"
+  },
   {
    "id": "2026-11-26-usd-per-gbp-eur-nov20",
    "time": "2026-11-26T12:42:00Z",
