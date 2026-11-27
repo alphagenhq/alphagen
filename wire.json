@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-27T20:39:10Z",
+ "updated": "2026-11-27T21:38:34Z",
  "items": [
+  {
+   "id": "2026-11-27-axp-director-angelakis-resigns-board-dec2",
+   "time": "2026-11-27T21:46:34Z",
+   "tag": "EQUITIES",
+   "headline": "American Express director Angelakis to resign from board Dec. 2",
+   "take": "In an 8-K dated November 25, 2026, American Express said Michael J. Angelakis notified the company that day of his decision to resign from its Board of Directors, effective December 2, 2026, in order to devote more time to his other business activities. The filing gives no other detail. AlphaGen read: a single director departure disclosed under Item 5.02, with the effective date a few days out.",
+   "source_name": "SEC EDGAR (American Express Co, Form 8-K)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000440/0000004962-26-000440.txt",
+   "ticker": "NYSE:AXP",
+   "checked": "2026-11-27T21:38:34Z"
+  },
+  {
+   "id": "2026-11-27-census-new-home-sales-sample-redesign-jan-2027",
+   "time": "2026-11-27T21:56:34Z",
+   "tag": "HOUSING",
+   "headline": "Census: new home sales survey gets sample redesign from January 2027 data",
+   "take": "The Census Bureau posted a notice on 11/25/26 that, with the January 2027 New Residential Sales release on February 24, 2027, the Survey of Construction will complete a scheduled sample redesign. Beginning in January 2027, estimates will include housing units selected from the redesigned sample. AlphaGen read: users of the new-home-sales series should expect the redesign to matter when the January 2027 data arrive.",
+   "source_name": "U.S. Census Bureau",
+   "source_url": "https://www.census.gov/construction/nrs/",
+   "checked": "2026-11-27T21:38:34Z"
+  },
+  {
+   "id": "2026-11-27-fred-sofr-nov25-3p95-from-3p90-nov18",
+   "time": "2026-11-27T22:06:34Z",
+   "tag": "RATES",
+   "headline": "FRED: SOFR 3.95% on Nov. 25, up 5bp from Nov. 18",
+   "take": "FRED shows the Secured Overnight Financing Rate at 3.95% on November 25, 2026, versus 3.90% on November 18, with prints of 3.91%, 3.92%, 3.92% and 3.94% on Nov. 19, 20, 23 and 24. That is a rise of 5 basis points over the week. AlphaGen read: overnight funding rates edged higher through the week even as longer Treasury yields eased.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/SOFR",
+   "checked": "2026-11-27T21:38:34Z"
+  },
+  {
+   "id": "2026-11-27-fred-10y-4p91-real-2p79-week-nov17-24",
+   "time": "2026-11-27T22:16:34Z",
+   "tag": "RATES",
+   "headline": "FRED: 10-year yield down 19bp in week to Nov. 24; real yield down 10bp",
+   "take": "FRED shows the 10-year Treasury constant-maturity yield at 4.91% on November 24, 2026, versus 5.10% on November 17, a fall of 19 basis points. The 10-year TIPS real yield went from 2.89% to 2.79%, down 10 basis points. AlphaGen read: the gap between the two yields, 2.12 percentage points on November 24 versus 2.21 on November 17, implies 9 basis points of the fall came from lower inflation compensation.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "checked": "2026-11-27T21:38:34Z"
+  },
   {
    "id": "2026-11-27-ecb-gc-lsi-supervision-report-2026-nov23",
    "time": "2026-11-27T20:43:10Z",
@@ -5024,46 +5065,6 @@
    "source_name": "Bureau of Labor Statistics (BLS)",
    "source_url": "https://www.bls.gov/bls/",
    "checked": "2026-11-21T13:38:55Z"
-  },
-  {
-   "id": "2026-11-21-bls-latest-numbers-eci-0p8-productivity-3p6-unemployment-4p1",
-   "time": "2026-11-21T14:26:00Z",
-   "tag": "MACRO",
-   "headline": "BLS latest numbers: Q3 ECI +0.8%, Q3 productivity +3.6%, October jobless rate 4.1%",
-   "take": "BLS's Latest Numbers panel, as of Nov. 20, lists the Employment Cost Index at +0.8% in Q3 2026, productivity at +3.6% in Q3 2026, the unemployment rate at 4.1% in October, and payroll employment at +165,000 (preliminary) in October. It also shows the October CPI at +0.4% and the October PPI for final demand at +0.3% (preliminary). AlphaGen read: the next jobs report is scheduled for Dec. 4 at 8:30 a.m. ET, per BLS.",
-   "source_name": "Bureau of Labor Statistics (BLS)",
-   "source_url": "https://www.bls.gov/bls/",
-   "checked": "2026-11-21T13:38:55Z"
-  },
-  {
-   "id": "2026-11-21-trade-sept-largest-goods-deficits-mexico-vietnam-taiwan-china",
-   "time": "2026-11-21T12:41:28Z",
-   "tag": "MACRO",
-   "headline": "Sept. goods deficits: Mexico $28.7B, Vietnam $25.3B, Taiwan $21.9B, China $17.9B",
-   "take": "BEA and Census list September goods deficits, in billions of dollars, of $28.7 with Mexico, $25.3 with Vietnam, $21.9 with Taiwan and $17.9 with China (Census basis, seasonally adjusted). Together those four come to $93.8B. AlphaGen read: the four largest bilateral gaps in the release sit with Mexico and three Asian economies, with China fourth.",
-   "source_name": "Bureau of Economic Analysis (BEA) / Census Bureau",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-21T12:39:28Z"
-  },
-  {
-   "id": "2026-11-21-trade-sept-taiwan-eu-canada-deficit-moves",
-   "time": "2026-11-21T12:52:28Z",
-   "tag": "GLOBAL",
-   "headline": "Sept. trade: Taiwan deficit up $3.6B to $21.9B; Canada's down $2.7B to $4.4B",
-   "take": "The September deficit with Taiwan rose $3.6B to $21.9B as imports climbed $4.2B to $27.3B and exports rose $0.6B to $5.3B. The deficit with the European Union rose $3.2B to $14.2B (exports $39.0B, imports $53.2B), while the Canada deficit fell $2.7B to $4.4B as imports dropped $3.0B to $34.1B. AlphaGen read: Taiwan and the EU widened on import growth, while Canada narrowed because imports fell by more than exports.",
-   "source_name": "Bureau of Economic Analysis (BEA) / Census Bureau",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-21T12:39:28Z"
-  },
-  {
-   "id": "2026-11-21-gdp-q3-advance-spr-sales-federal-nondefense-consumption",
-   "time": "2026-11-21T13:03:28Z",
-   "tag": "ENERGY",
-   "headline": "BEA: Q3 federal spending rise reflects smaller Strategic Petroleum Reserve sales",
-   "take": "BEA's advance Q3 GDP estimate says the increase in government spending was more than accounted for by federal spending, led by nondefense consumption. BEA attributes that pattern to crude oil sales from the Strategic Petroleum Reserve, which were smaller than in Q2; sales are deducted from government consumption expenditures. BEA adds that oil sold by the government shows up as an increase in other GDP components, so there is no direct effect on GDP. AlphaGen read: part of the federal spending swing is an accounting effect of the reserve-sale pace.",
-   "source_name": "Bureau of Economic Analysis (BEA)",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-21T12:39:28Z"
   }
  ]
 }
