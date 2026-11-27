@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-27T16:38:38Z",
+ "updated": "2026-11-27T17:39:00Z",
  "items": [
+  {
+   "id": "2026-11-27-boc-macklem-framework-renewed-2031",
+   "time": "2026-11-27T17:42:00Z",
+   "tag": "GLOBAL",
+   "headline": "Bank of Canada's Macklem: inflation framework renewed until 2031, 2% target stays",
+   "take": "In a Nov. 24 speech to the Economic Club of Canada, Governor Tiff Macklem said inflation averaged 1.9% from 1995 to the end of 2019 and that the Government of Canada and the Bank recently renewed the framework until 2031. The Bank's focus remains total CPI inflation, which it will keep near 2%. AlphaGen read: the renewal means no change to the target regime that guided the Bank's recent rate decisions.",
+   "source_name": "Bank of Canada",
+   "source_url": "https://www.bankofcanada.ca/2026/11/keeping-inflation-low-and-stable-in-an-uncertain-world/",
+   "checked": "2026-11-27T17:39:00Z"
+  },
+  {
+   "id": "2026-11-27-fed-sfos-reserve-management-survey",
+   "time": "2026-11-27T17:54:00Z",
+   "tag": "FED",
+   "headline": "Fed releases survey of bank officers on reserve balance management",
+   "take": "The Federal Reserve Board released results of its Senior Financial Officer Survey on Nov. 20, conducted with the New York Fed between Sept. 18 and Sept. 28, 2026. Responses came from banks that held around three-fourths of total banking system reserve balances at the time. AlphaGen read: the survey is the Board's channel for learning how banks manage reserves, a topic that sits alongside the weekly balance-sheet data.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+   "checked": "2026-11-27T17:39:00Z"
+  },
+  {
+   "id": "2026-11-27-boj-tamura-yamanashi-speech",
+   "time": "2026-11-27T18:06:00Z",
+   "tag": "GLOBAL",
+   "headline": "BoJ's Tamura speaks in Yamanashi on activity, prices and monetary policy",
+   "take": "Bank of Japan Policy Board member Naoki Tamura gave a speech titled \"Economic Activity, Prices, and Monetary Policy in Japan\" at a meeting with local leaders in Yamanashi on Nov. 26. The BoJ has posted the text as a PDF on its site. AlphaGen read: Board members' regional speeches are one of the few official windows into BoJ thinking between policy meetings.",
+   "source_name": "Bank of Japan",
+   "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko261126a.htm",
+   "checked": "2026-11-27T17:39:00Z"
+  },
+  {
+   "id": "2026-11-27-agencies-third-party-risk-comment-extended",
+   "time": "2026-11-27T18:18:00Z",
+   "tag": "CREDIT",
+   "headline": "Agencies extend third-party risk guidance comment period to Dec. 16",
+   "take": "The Federal Reserve Board, FDIC, OCC and NCUA said on Nov. 13 they will extend until Dec. 16 the comment period on proposed guidance for managing risks tied to third-party relationships; comments were originally due Nov. 16. The guidance takes a principles-based approach and is non-binding, and the agencies plan to rescind existing guidance and replace it with the finalized version. AlphaGen read: banks and fintech partners get an extra month to weigh in.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "checked": "2026-11-27T17:39:00Z"
+  },
   {
    "tag": "GLOBAL",
    "headline": "ECB publishes SREP 2026 results: euro-area banking sector still resilient",
@@ -5026,47 +5066,6 @@
    "take": "The Bank of England, FCA and PRA proposed new guidance on Nov. 19 to help financial firms prepare for and recover from cyber incidents. The release says October 2026 saw the second-highest monthly number of cyber incidents reported to the FCA in five years, 52% above the previous 18-month peak recorded in May 2025. AlphaGen read: the proposal brings together existing requirements and supervisory lessons rather than imposing rigid rules, per the regulators.",
    "source_name": "Bank of England, FCA and PRA news release",
    "source_url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
-   "checked": "2026-11-21T01:38:34Z"
-  },
-  {
-   "id": "2026-11-20-fred-henry-hub-nov17-310-vs-nov12-300",
-   "time": "2026-11-21T02:01:34Z",
-   "tag": "ENERGY",
-   "headline": "Henry Hub natural gas spot $3.10 on Nov. 17, up $0.10 from Nov. 12",
-   "take": "FRED shows the Henry Hub natural gas spot price at $3.10 on Nov. 17, up $0.10 from $3.00 on Nov. 12 and below the $3.26 recorded on Nov. 13. The series was $3.00 on each of Nov. 10, 11 and 12. AlphaGen read: gas has stayed between $3.00 and $3.26 across the observations published this month.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DHHNGSP)",
-   "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-   "checked": "2026-11-21T01:38:34Z"
-  },
-  {
-   "id": "2026-11-20-fred-ig-spread-nov19-094-vs-nov12-089",
-   "time": "2026-11-21T02:10:34Z",
-   "tag": "CREDIT",
-   "headline": "Investment-grade spread 0.94 point on Nov. 19, up from 0.89 on Nov. 12",
-   "take": "The FRED investment-grade corporate spread series (BAMLC0A0CM) was 0.94 on Nov. 19, up 0.05 point from 0.89 on Nov. 12. It has risen each day since 0.90 on Nov. 16. AlphaGen read: investment-grade spreads moved in the same direction as the high-yield series, 3.52 on Nov. 19, though the change is small in absolute terms.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLC0A0CM)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
-   "checked": "2026-11-21T01:38:34Z"
-  },
-  {
-   "id": "2026-11-20-fred-10y-breakeven-nov19-216-vs-nov12-224",
-   "time": "2026-11-21T02:19:34Z",
-   "tag": "RATES",
-   "headline": "10-year breakeven inflation rate 2.16% on Nov. 19, down from 2.24% on Nov. 12",
-   "take": "FRED's 10-year breakeven inflation rate was 2.16% on Nov. 19, down 0.08 point from 2.24% on Nov. 12, and below 2.19% on Nov. 18. The 10-year real yield was 2.88% on Nov. 18. AlphaGen read: this market-implied inflation measure has eased over the past week.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (T10YIE)",
-   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-   "checked": "2026-11-21T01:38:34Z"
-  },
-  {
-   "id": "2026-11-20-nws-8k-buyback-program-1b-asx-disclosures",
-   "time": "2026-11-21T02:27:34Z",
-   "tag": "EQUITIES",
-   "headline": "News Corp 8-K files ASX buyback disclosures under $1B repurchase program",
-   "take": "News Corporation filed an 8-K (Item 8.01) for Nov. 19 attaching information provided to the Australian Securities Exchange on repurchase transactions, if any. The filing says the company is authorized to acquire up to $1 billion in aggregate of its Class A and Class B common stock. AlphaGen read: the filing is a disclosure tied to ASX rules and does not itself state purchase amounts.",
-   "source_name": "SEC EDGAR, News Corp Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000266/0001564708-26-000266.txt",
-   "ticker": "NASDAQ:NWSA",
    "checked": "2026-11-21T01:38:34Z"
   }
  ]
