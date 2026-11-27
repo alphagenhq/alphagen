@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-27T17:39:00Z",
+ "updated": "2026-11-27T18:39:20Z",
  "items": [
+  {
+   "id": "2026-11-27-eia-winter-heating-oil-bills-21pct-higher-gas-9pct-lower",
+   "time": "2026-11-27T18:41:20Z",
+   "tag": "ENERGY",
+   "headline": "EIA: heating oil bills seen 21% higher this winter, natural gas 9% lower",
+   "take": "EIA's 2026-27 winter fuels outlook forecasts average heating oil expenditures of $2,115 for November-March, up 21% from last winter, on a heating oil price of $5.26 a gallon (up 34%) and consumption down 9%. Natural gas households are forecast to spend $640, down 9%. AlphaGen read: the split matters because only about 3% of U.S. households heat with oil, per EIA, while about half use natural gas or propane.",
+   "source_name": "EIA – Winter Fuels Outlook",
+   "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
+   "checked": "2026-11-27T18:39:20Z"
+  },
+  {
+   "id": "2026-11-27-eia-winter-electric-bills-1196-up-4pct-west-up-9pct",
+   "time": "2026-11-27T18:50:20Z",
+   "tag": "ENERGY",
+   "headline": "EIA: winter electricity bills seen at $1,196, up 4%, with the West up 9%",
+   "take": "EIA forecasts average residential electricity spending of $1,196 for November-March, up 4%, from a 3% rise in price to 18.23 cents per kWh and 1% higher consumption (6,562 kWh). The largest forecast increase is in the West at 9%. AlphaGen read: with more than 40% of homes heating with electricity, per EIA, power prices rather than weather are the driver of this winter's bill change.",
+   "source_name": "EIA – Today in Energy",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68264",
+   "checked": "2026-11-27T18:39:20Z"
+  },
+  {
+   "id": "2026-11-27-eia-winter-hdd-west-25pct-colder-northeast-12pct-warmer",
+   "time": "2026-11-27T18:59:20Z",
+   "tag": "ENERGY",
+   "headline": "EIA winter forecast: West 25% colder, Northeast 12% warmer in heating degree days",
+   "take": "EIA's base case puts U.S. heating degree days at 3,155 for November-March, unchanged from last winter, but regionally uneven: the West at 2,781 (+25%) and the Northeast at 4,331 (-12%). Natural gas bills are forecast at $879 in the Northeast (-14%) and $590 in the West (+7%). EIA notes a strong El Niño pattern could cause large deviations from the forecast.",
+   "source_name": "EIA – Winter Fuels Outlook",
+   "source_url": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
+   "checked": "2026-11-27T18:39:20Z"
+  },
+  {
+   "id": "2026-11-27-eia-steo-diesel-2027-5p03-12pct-above-last-forecast",
+   "time": "2026-11-27T19:08:20Z",
+   "tag": "COMMODITIES",
+   "headline": "EIA STEO: 2027 retail diesel forecast raised 12% to $5.03 a gallon",
+   "take": "EIA's November Short-Term Energy Outlook forecasts U.S. retail diesel at $5.03 a gallon on average in 2027, 12% higher than its prior-month forecast, and $5.25 for 2026 versus $5.19 previously. It sees 2026 gasoline at $3.89 and Brent near $100 a barrel for the rest of this year, easing to $77 in 4Q27. AlphaGen read: the forecast revision is concentrated in 2027 diesel rather than this year.",
+   "source_name": "EIA – Short-Term Energy Outlook, Nov. 2026",
+   "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+   "checked": "2026-11-27T18:39:20Z"
+  },
+  {
+   "id": "2026-11-27-eia-steo-global-oil-demand-down-2p0m-2026-recovers-2027",
+   "time": "2026-11-27T19:17:20Z",
+   "tag": "ENERGY",
+   "headline": "EIA: global oil use seen falling 2.0M b/d in 2026, rebounding 2.0M in 2027",
+   "take": "EIA's November STEO estimates global liquid fuels consumption will fall by 2.0 million b/d in 2026 and recover by 2.0 million b/d on average in 2027. Global oil inventories fell by an average of 1.2 million b/d in 3Q26 but are forecast to begin building in 4Q26, and to build by 3.5 million b/d in 1H27. AlphaGen read: the outlook rests on inventories rebuilding, which is what underpins EIA's lower 2027 Brent path.",
+   "source_name": "EIA – Short-Term Energy Outlook, Nov. 2026",
+   "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+   "checked": "2026-11-27T18:39:20Z"
+  },
+  {
+   "id": "2026-11-27-eia-steo-coal-consumption-419mst-down-7pct-2026",
+   "time": "2026-11-27T19:26:20Z",
+   "tag": "ENERGY",
+   "headline": "EIA: U.S. coal use to fall 7% to 419 million short tons in 2026",
+   "take": "EIA's November STEO forecasts U.S. coal consumption falling 7% to 419 million short tons in 2026 and by another 5% in 2027. Coal production decreases by 2% this year and by another 4% in 2027. AlphaGen read: both consumption and output are projected lower in each year, so the forecast does not rely on a stock draw.",
+   "source_name": "EIA – Short-Term Energy Outlook, Nov. 2026",
+   "source_url": "https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf",
+   "checked": "2026-11-27T18:39:20Z"
+  },
   {
    "id": "2026-11-27-boc-macklem-framework-renewed-2031",
    "time": "2026-11-27T17:42:00Z",
@@ -5004,69 +5064,6 @@
    "source_name": "Federal Reserve Bank of St. Louis (FRED)",
    "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
    "checked": "2026-11-21T03:39:04Z"
-  },
-  {
-   "id": "2026-11-20-et-2p7b-notes-2032-2037-2057",
-   "time": "2026-11-21T02:41:14Z",
-   "tag": "DEBT",
-   "headline": "Energy Transfer completes $2.7B senior notes offering across three maturities",
-   "take": "Energy Transfer LP said it completed its underwritten public offering on Nov. 20 of $900M each of 5.450% notes due 2032, 5.900% notes due 2037 and 6.550% notes due 2057, or $2.7B in total. The notes were issued under a Thirteenth Supplemental Indenture dated Nov. 20, 2026. AlphaGen read: the 2057 tranche carries a coupon 1.10 points above the 2032 tranche, a reminder of the premium long-dated issuers pay.",
-   "source_name": "Energy Transfer LP, Form 8-K (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526470380/0001193125-26-470380.txt",
-   "ticker": "NYSE:ET",
-   "checked": "2026-11-21T02:39:14Z"
-  },
-  {
-   "id": "2026-11-20-chart-q2-sales-985p6m-baker-hughes-8k",
-   "time": "2026-11-21T02:51:14Z",
-   "tag": "EQUITIES",
-   "headline": "Baker Hughes files Chart Industries Q2 financials: sales $985.6M vs $1,082.3M",
-   "take": "Baker Hughes filed an 8-K with unaudited Chart Industries statements showing Q2 2026 sales of $985.6M versus $1,082.3M a year earlier, an 8.9% decline, and operating income of $92.4M versus $169.5M. The filing says Baker Hughes completed the Chart acquisition on July 16, 2026, and that the pro forma information is illustrative only. AlphaGen read: the figures are pre-closing Chart results under Chart's own accounting policies.",
-   "source_name": "Baker Hughes Co, Form 8-K (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000038/0001701605-26-000038.txt",
-   "ticker": "NASDAQ:BKR",
-   "checked": "2026-11-21T02:39:14Z"
-  },
-  {
-   "id": "2026-11-20-lyb-retention-awards-foley-2m-izquierdo-750k",
-   "time": "2026-11-21T03:01:14Z",
-   "tag": "EQUITIES",
-   "headline": "LyondellBasell board approves retention awards for two executives",
-   "take": "LyondellBasell said its board approved one-time retention awards on Nov. 18: a $2,000,000 cash award for Kimberly Foley, payable if she remains employed through Dec. 31, 2027, and restricted stock units with a $750,000 target value for CFO Agustin Izquierdo, cliff-vesting on the third anniversary of grant. The company described the awards as meant to promote leadership continuity during its ongoing portfolio transformation.",
-   "source_name": "LyondellBasell Industries N.V., Form 8-K (SEC EDGAR)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939326000072/0001489393-26-000072.txt",
-   "ticker": "NYSE:LYB",
-   "checked": "2026-11-21T02:39:14Z"
-  },
-  {
-   "id": "2026-11-20-fred-2y-nov19-476-10y-504-vs-nov12",
-   "time": "2026-11-21T03:11:14Z",
-   "tag": "RATES",
-   "headline": "2-year Treasury yield 4.76% on Nov. 19, down 0.10 point from Nov. 12",
-   "take": "FRED shows the 2-year constant-maturity Treasury yield at 4.76% on Nov. 19, versus 4.86% on Nov. 12, while the 10-year was 5.04% versus 5.10%. The 2-year fell 0.10 point and the 10-year 0.06 point over the week. AlphaGen read: the front end moved more than the long end, leaving the 10-year/2-year gap 0.28 point on Nov. 19, wider than 0.24 point on Nov. 12.",
-   "source_name": "Federal Reserve Bank of St. Louis, FRED (DGS2, DGS10)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS2",
-   "checked": "2026-11-21T02:39:14Z"
-  },
-  {
-   "id": "2026-11-20-boe-mpg-minutes-nov18-energy-ai-hedge-fund-leverage",
-   "time": "2026-11-21T01:41:34Z",
-   "tag": "GLOBAL",
-   "headline": "BoE market group minutes cite energy, AI debt financing, hedge-fund leverage",
-   "take": "The Bank of England published minutes of its Nov. 18 Market Participants Group meeting on Nov. 19. Participants noted the resilience of UK growth despite the energy shock, which was broadly seen to have strengthened the case for higher rates, with the November increase widely expected, and discussed vulnerabilities including elevated hedge-fund leverage, sovereign debt pressures and cyber risks. AlphaGen read: the minutes tie energy prices, AI-related investment and leverage together as themes under discussion.",
-   "source_name": "Bank of England, Market Participants Group minutes",
-   "source_url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-   "checked": "2026-11-21T01:38:34Z"
-  },
-  {
-   "id": "2026-11-20-boe-fca-pra-cyber-guidance-oct-incidents-52pct",
-   "time": "2026-11-21T01:51:34Z",
-   "tag": "GLOBAL",
-   "headline": "UK regulators propose cyber resilience guidance as October incident reports rise",
-   "take": "The Bank of England, FCA and PRA proposed new guidance on Nov. 19 to help financial firms prepare for and recover from cyber incidents. The release says October 2026 saw the second-highest monthly number of cyber incidents reported to the FCA in five years, 52% above the previous 18-month peak recorded in May 2025. AlphaGen read: the proposal brings together existing requirements and supervisory lessons rather than imposing rigid rules, per the regulators.",
-   "source_name": "Bank of England, FCA and PRA news release",
-   "source_url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
-   "checked": "2026-11-21T01:38:34Z"
   }
  ]
 }
