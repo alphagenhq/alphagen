@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T00:12:28Z",
+ "updated": "2026-11-27T19:40:16Z",
  "items": [
+  {
+   "id": "live-0000815097-26-000117-5.02",
+   "time": "2026-11-27T18:09:27Z",
+   "tag": "EQUITIES",
+   "live": true,
+   "headline": "Carnival Corp reports an executive or board change",
+   "take": "Carnival Corp reported a change among its officers or directors in an SEC filing (Form 8-K, Item 5.02). Filed 1:09 PM ET, Nov 27.",
+   "source_name": "SEC EDGAR, CCL Form 8-K",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000117/0000815097-26-000117-index.htm",
+   "ticker": "NYSE:CCL"
+  },
   {
    "id": "live-0001193125-26-478623-1.01",
    "time": "2026-11-25T21:57:26Z",
@@ -3289,17 +3300,6 @@
    "source_name": "SEC EDGAR, LULU Form 8-K",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000135/0001397187-26-000135-index.htm",
    "ticker": "NASDAQ:LULU"
-  },
-  {
-   "id": "live-0001164727-26-000041-2.02",
-   "time": "2026-10-22T20:05:51Z",
-   "tag": "EARNINGS",
-   "live": true,
-   "headline": "Newmont releases financial results",
-   "take": "Newmont filed its results announcement with the SEC (Form 8-K, Item 2.02). Filed 4:05 PM ET, Oct 22. AlphaGen's breakdown follows on the Wire.",
-   "source_name": "SEC EDGAR, NEM Form 8-K",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000041/0001164727-26-000041-index.htm",
-   "ticker": "NYSE:NEM"
   }
  ]
 }
