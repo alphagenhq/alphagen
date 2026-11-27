@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-27T02:40:20Z",
+ "updated": "2026-11-27T03:38:52Z",
  "items": [
+  {
+   "tag": "MACRO",
+   "headline": "Fed: October industrial production index fell 0.4% to 102.24",
+   "take": "The Federal Reserve's industrial production index (2017=100), as published on FRED, was 102.2421 in October, down 0.43% from 102.6785 in September and up 1.66% from 100.5732 in October 2025. AlphaGen read: the monthly decline followed a September reading that was the highest in the 14-month window of FRED data reviewed (Sept. 2025 to Oct. 2026).",
+   "source_name": "Federal Reserve Board via FRED",
+   "source_url": "https://fred.stlouisfed.org/series/INDPRO",
+   "id": "2026-11-27-fred-indpro-oct-102p24-down-0p4-up-1p7-yoy",
+   "time": "2026-11-27T03:42:00Z",
+   "checked": "2026-11-27T03:38:52Z"
+  },
+  {
+   "tag": "FED",
+   "headline": "Fed: reserve balances rose to $2.98T in week of Nov. 18, Treasury cash $917B",
+   "take": "Federal Reserve data on FRED show weekly-average reserve balances at $2,979,656 million for the week of Nov. 18, up $19.1 billion from $2,960,603 million the prior week. The Treasury General Account averaged $916,613 million, up $2.2 billion. AlphaGen read: reserves remain below the $3,029,659 million reached in the week of Oct. 7 in the same data.",
+   "source_name": "Federal Reserve Board via FRED",
+   "source_url": "https://fred.stlouisfed.org/series/WRESBAL",
+   "id": "2026-11-27-fred-reserve-balances-nov18-2p980t-tga-917b",
+   "time": "2026-11-27T03:55:00Z",
+   "checked": "2026-11-27T03:38:52Z"
+  },
+  {
+   "tag": "COMMODITIES",
+   "headline": "IMF/FRED: aluminum averaged $3,283 a tonne in September, up 23.7% on the year",
+   "take": "The IMF global aluminum price series on FRED averaged $3,283.05 per metric ton in September, up 1.0% from $3,250.12 in August and 23.7% above $2,654.48 in September 2025. AlphaGen read: the September level remains 10.3% below the series' 2026 high of $3,658.22 in May.",
+   "source_name": "International Monetary Fund via FRED",
+   "source_url": "https://fred.stlouisfed.org/series/PALUMUSDM",
+   "id": "2026-11-27-fred-aluminum-sep-3283-up-23p7pct-yoy-below-may-peak",
+   "time": "2026-11-27T04:08:00Z",
+   "checked": "2026-11-27T03:38:52Z"
+  },
+  {
+   "tag": "RATES",
+   "headline": "FRED: 5-year breakeven inflation 2.13% on Nov. 25, 1bp above the 10-year",
+   "take": "FRED shows the 5-year breakeven inflation rate at 2.13% on Nov. 25, down from 2.23% on Nov. 18, while the 10-year breakeven was 2.12%, down from 2.19%. AlphaGen read: the 5-year has fallen 10 basis points over the week against 7 for the 10-year, leaving the market-implied inflation curve roughly flat.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
+   "source_url": "https://fred.stlouisfed.org/series/T5YIE",
+   "id": "2026-11-27-fred-5y-breakeven-nov25-2p13-10y-2p12",
+   "time": "2026-11-27T04:21:00Z",
+   "checked": "2026-11-27T03:38:52Z"
+  },
   {
    "tag": "MACRO",
    "headline": "BLS: teen unemployment rate was 13.9% in October, little changed",
@@ -5035,46 +5075,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (T10Y2Y)",
    "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
    "checked": "2026-11-20T19:43:00Z"
-  },
-  {
-   "id": "2026-11-20-ppi-oct-goods-12mo-10p2-largest-since-oct-2022",
-   "time": "2026-11-20T18:46:00Z",
-   "tag": "MACRO",
-   "headline": "PPI final demand goods up 10.2% over 12 months, largest since October 2022",
-   "take": "BLS says the index for final demand goods rose 0.5% in October and 10.2% over the 12 months ended in October, the largest 12-month rise since 10.5% in October 2022. Final demand goods had risen 2.5% in September. AlphaGen read: goods prices, not services, are carrying the producer-price run-up.",
-   "source_name": "BLS, Producer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-20T18:38:31Z"
-  },
-  {
-   "id": "2026-11-20-ppi-oct-truck-freight-3p9-transport-2p0",
-   "time": "2026-11-20T18:57:00Z",
-   "tag": "MACRO",
-   "headline": "PPI: truck freight prices up 3.9% in October, lifting transportation services 2.0%",
-   "take": "BLS reports final demand transportation and warehousing services rose 2.0% in October, and truck transportation of freight rose 3.9%, accounting for over 80% of the October increase in final demand services. Final demand services overall rose 0.2%, the fifth consecutive advance. AlphaGen read: one freight category did most of the work in the services index.",
-   "source_name": "BLS, Producer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-20T18:38:31Z"
-  },
-  {
-   "id": "2026-11-20-ppi-oct-diesel-minus-7p9-organic-chemicals-3p9",
-   "time": "2026-11-20T19:08:00Z",
-   "tag": "ENERGY",
-   "headline": "PPI: diesel fuel prices fell 7.9% in October while basic organic chemicals rose 3.9%",
-   "take": "Within final demand goods, BLS lists basic organic chemicals up 3.9% in October and diesel fuel down 7.9%; jet fuel and gas fuels moved higher. The final demand energy index edged down 0.1% on the month. AlphaGen read: energy was a small drag on the October goods index even with fuel moves in both directions.",
-   "source_name": "BLS, Producer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-20T18:38:31Z"
-  },
-  {
-   "id": "2026-11-20-ppi-oct-foods-1p3-goods-less-foods-energy-0p5",
-   "time": "2026-11-20T19:19:00Z",
-   "tag": "MACRO",
-   "headline": "PPI: final demand foods rose 1.3% in October; goods less foods and energy up 0.5%",
-   "take": "BLS's October table shows final demand foods up 1.3%, final demand goods less foods and energy up 0.5%, and energy down 0.1%. Total final demand rose 0.3% on the month and 6.5% over 12 months. AlphaGen read: food and core goods, not energy, drove the monthly goods gain.",
-   "source_name": "BLS, Producer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-20T18:38:31Z"
   }
  ]
 }
