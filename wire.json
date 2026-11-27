@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-27T00:43:52Z",
+ "updated": "2026-11-27T01:39:03Z",
  "items": [
+  {
+   "tag": "MACRO",
+   "headline": "BLS: CPI rose 1.4% over Aug-Oct, about a 5.7% annualized pace",
+   "take": "BLS reported seasonally adjusted CPI-U gains of 0.4% in August, 0.6% in September and 0.4% in October. Compounded, that is about 1.4% over three months, or roughly 5.7% annualized (AlphaGen calculation from rounded monthly figures). AlphaGen read: the monthly headlines look moderate one at a time, but the three-month run is well above a 2% annual pace.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "id": "2026-11-27-cpi-3mo-all-items-1p4-cumulative-5p7-annualized",
+   "time": "2026-11-27T01:41:00Z",
+   "checked": "2026-11-27T01:39:03Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: core CPI rose 0.3% in each of Aug, Sep and Oct, about 3.7% annualized",
+   "take": "BLS said the CPI index for all items less food and energy rose 0.3% in October, \"as it did in September and August.\" Three straight 0.3% gains compound to about 0.9%, or roughly 3.7% annualized (AlphaGen calculation from rounded monthly figures). AlphaGen read: the underlying pace is steady rather than accelerating, with the larger swings coming from energy.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "id": "2026-11-27-cpi-core-0p3-three-months-3p7-annualized",
+   "time": "2026-11-27T01:51:00Z",
+   "checked": "2026-11-27T01:39:03Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: CPI rose a cumulative 2.2% from March to October on monthly readings",
+   "take": "BLS seasonally adjusted monthly CPI-U changes for April through October were 0.6%, 0.5%, -0.4%, 0.1%, 0.4%, 0.6% and 0.4%. Compounded, that is about 2.2% across the seven months (AlphaGen calculation from rounded monthly figures). BLS did not publish October 2026 12-month changes for most indexes because October 2025 survey data were not collected during the funding lapse. AlphaGen read: the cumulative path is a usable substitute while the year-over-year comparison is missing.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "id": "2026-11-27-cpi-7mo-apr-oct-all-items-2p2-cumulative",
+   "time": "2026-11-27T02:01:00Z",
+   "checked": "2026-11-27T01:39:03Z"
+  },
+  {
+   "tag": "ENERGY",
+   "headline": "BLS: CPI energy index up about 8.2% across Aug-Oct after 5.2% in September",
+   "take": "BLS reported the CPI energy index rose 0.7% in October following a 5.2% increase in September; the August change was 2.1%. Compounded, August through October is about 8.2% (AlphaGen calculation from rounded monthly figures). AlphaGen read: October's gain was small, but it came on top of a large September jump, so energy still dominates the three-month change in headline CPI.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "id": "2026-11-27-cpi-energy-aug-oct-8p2-cumulative-sep-5p2-oct-0p7",
+   "time": "2026-11-27T02:11:00Z",
+   "checked": "2026-11-27T01:39:03Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: PPI final demand goods rose about 4.2% over Aug-Oct, led by Sept.",
+   "take": "BLS reported the PPI index for final demand goods rose 0.5% in October after 2.5% in September; the August change shown in its table is 1.1%. Compounded, August through October is about 4.2% (AlphaGen calculation from rounded monthly figures). AlphaGen read: most of the three-month gain came in September, so October's 0.5% marks a slower pace while the 12-month goods rise was 10.2%.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "id": "2026-11-27-ppi-final-demand-goods-aug-oct-4p2-cumulative",
+   "time": "2026-11-27T02:21:00Z",
+   "checked": "2026-11-27T01:39:03Z"
+  },
   {
    "tag": "GLOBAL",
    "headline": "BoE FPC flags risk that multiple vulnerabilities crystallise at once",
@@ -5025,56 +5075,6 @@
    "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO)",
    "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
    "checked": "2026-11-20T17:38:41Z"
-  },
-  {
-   "id": "2026-11-20-fred-2y-10y-nov10-vs-nov18-rise",
-   "time": "2026-11-20T18:25:41Z",
-   "tag": "RATES",
-   "headline": "2-year yield 4.80% and 10-year 5.07% on Nov. 18, up 0.07 and 0.09 from Nov. 10",
-   "take": "FRED shows the 2-year Treasury yield at 4.80% on Nov. 18 versus 4.73% on Nov. 10, up 0.07 percentage point. The 10-year was 5.07% versus 4.98%, up 0.09. Both peaked on Nov. 13 at 4.88% and 5.15%. AlphaGen read: the long end rose slightly more than the short end over the span, though both eased from their Nov. 13 highs.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DGS2, DGS10)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS10",
-   "checked": "2026-11-20T17:38:41Z"
-  },
-  {
-   "id": "2026-11-20-fred-walcl-nov18-6p741t-down-17b",
-   "time": "2026-11-20T16:42:00Z",
-   "tag": "FED",
-   "headline": "Fed total assets $6.741T on Nov. 18, down $17.4B from Nov. 11",
-   "take": "FRED's weekly series for Federal Reserve total assets shows $6,741,452 million on Nov. 18, versus $6,758,867 million on Nov. 11, a drop of $17,415 million, or about $17.4 billion. The Nov. 18 level is also $14,187 million below Oct. 14's $6,755,639 million. AlphaGen read: the balance sheet is moving by small weekly amounts rather than trending decisively.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (WALCL)",
-   "source_url": "https://fred.stlouisfed.org/series/WALCL",
-   "checked": "2026-11-20T16:39:18Z"
-  },
-  {
-   "id": "2026-11-20-fed-g17-annual-revision-nov24-noon",
-   "time": "2026-11-20T16:50:00Z",
-   "tag": "MACRO",
-   "headline": "Fed schedules Industrial Production annual revision for Nov. 24 at noon ET",
-   "take": "The Federal Reserve's release schedule lists the Industrial Production (G.17) annual revision for Tuesday, Nov. 24 at 12:00 p.m. ET. The last published October reading was an index of 103.395, per FRED. AlphaGen read: annual revisions can restate earlier monthly figures, so recent industrial-production comparisons are worth rechecking after the release.",
-   "source_name": "Federal Reserve Board, G.17 release schedule",
-   "source_url": "https://www.federalreserve.gov/RELEASES/g17/",
-   "checked": "2026-11-20T16:39:18Z"
-  },
-  {
-   "id": "2026-11-20-census-advance-indicators-nov27-0830",
-   "time": "2026-11-20T17:00:00Z",
-   "tag": "MACRO",
-   "headline": "Census lists Advance Economic Indicators Report for Nov. 27 at 8:30 a.m. ET",
-   "take": "The Census Bureau's economic-indicators calendar lists the Advance Economic Indicators Report for Friday, Nov. 27 at 8:30 a.m. ET, the day after Thanksgiving. AlphaGen read: it is one more scheduled data point in the holiday week to check against the Nov. 25 releases.",
-   "source_name": "U.S. Census Bureau, Economic Indicators calendar",
-   "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
-   "checked": "2026-11-20T16:39:18Z"
-  },
-  {
-   "id": "2026-11-20-bls-jolts-oct-dec1-1000",
-   "time": "2026-11-20T17:10:00Z",
-   "tag": "MACRO",
-   "headline": "BLS schedules October JOLTS job openings for Dec. 1 at 10:00 a.m. ET",
-   "take": "The BLS release schedule lists JOLTS Job Openings for October on Tuesday, Dec. 1 at 10:00 a.m. ET. AlphaGen's earlier read of the BLS schedule has the November jobs report on Dec. 4. AlphaGen read: JOLTS adds a demand-side view of hiring to the payroll and unemployment numbers.",
-   "source_name": "U.S. Bureau of Labor Statistics, release schedule",
-   "source_url": "https://www.bls.gov/schedule/news_release/current_year.asp",
-   "checked": "2026-11-20T16:39:18Z"
   }
  ]
 }
