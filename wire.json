@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-27T01:39:03Z",
+ "updated": "2026-11-27T02:40:20Z",
  "items": [
+  {
+   "tag": "MACRO",
+   "headline": "BLS: teen unemployment rate was 13.9% in October, little changed",
+   "take": "BLS reported that unemployment rates for adult men (3.9%), adult women (3.6%) and teenagers (13.9%) showed little or no change in October, with the overall rate at 4.1%. AlphaGen read: teenagers had the highest rate among the worker groups BLS listed, which also included White (3.7%), Black (6.6%), Asian (2.8%) and Hispanic (4.7%) workers.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "id": "2026-11-27-bls-oct-teen-unemployment-13p9",
+   "time": "2026-11-27T02:43:00Z",
+   "checked": "2026-11-27T02:40:20Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: real weekly pay for production workers fell 0.3% in October on shorter hours",
+   "take": "BLS said real average weekly earnings of production and nonsupervisory employees decreased 0.3% in October, reflecting a 0.1% rise in real hourly earnings and a 0.3% decrease in the average workweek. For all employees, real weekly earnings were unchanged, with no change in the workweek. AlphaGen read: hours, not the hourly pay rate, drove the weekly pay dip for that group.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
+   "id": "2026-11-27-bls-realearn-oct-production-weekly-minus-0p3-workweek",
+   "time": "2026-11-27T02:55:00Z",
+   "checked": "2026-11-27T02:40:20Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: three CPI series titles change with January 2027 data on Feb. 11",
+   "take": "BLS said that with the publication of January 2027 CPI data on February 11, 2027, several index titles will change: \"wireless telephone services\" becomes \"wireless telephone service\" and \"physicians' services\" becomes \"physician services\". \"Music instruments and accessories\" becomes \"music instruments and accessories including instrument rentals.\" AlphaGen read: these are labeling changes announced in the release; BLS did not describe any change to the index calculations.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "id": "2026-11-27-bls-cpi-series-title-changes-jan-2027-data",
+   "time": "2026-11-27T03:07:00Z",
+   "checked": "2026-11-27T02:40:20Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "Census: M3 seasonal-adjustment models stay unchanged through the rest of 2026",
+   "take": "The Census Bureau's manufacturers' shipments, inventories and orders (M3) page says that, due to schedule and resource constraints, revised historical data and the seasonal adjustment models for the survey will remain unchanged for the remainder of 2026. AlphaGen read: the notice covers the 2026 releases only; the page did not say what happens afterward.",
+   "source_name": "U.S. Census Bureau",
+   "source_url": "https://www.census.gov/manufacturing/m3/",
+   "id": "2026-11-27-census-m3-seasonal-models-unchanged-rest-of-2026",
+   "time": "2026-11-27T03:20:00Z",
+   "checked": "2026-11-27T02:40:20Z"
+  },
   {
    "tag": "MACRO",
    "headline": "BLS: CPI rose 1.4% over Aug-Oct, about a 5.7% annualized pace",
@@ -5035,46 +5075,6 @@
    "source_name": "BLS, Producer Price Index (October 2026)",
    "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
    "checked": "2026-11-20T18:38:31Z"
-  },
-  {
-   "id": "2026-11-20-eia-supply-demand-gap-0p4-quads-0p3pct-2025",
-   "time": "2026-11-20T19:30:00Z",
-   "tag": "ENERGY",
-   "headline": "EIA: U.S. energy supply-demand gap was 0.4 quads in 2025, about 0.3% of the total",
-   "take": "EIA says its surveys put 2025 U.S. energy supply and demand each at about 128 quadrillion Btu, and the stock change and other series, which reconciles the two, was 0.4 quads, about 0.3% of the total. EIA attributes the gap to timing differences, estimation errors, survey coverage limits and unreported activity. AlphaGen read: the balance is tight enough that headline supply and demand figures can be compared directly.",
-   "source_name": "EIA, Today in Energy (Nov. 17, 2026)",
-   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
-   "checked": "2026-11-20T18:38:31Z"
-  },
-  {
-   "id": "2026-11-20-fred-eurusd-nov13-1p1034-vs-nov5",
-   "time": "2026-11-20T17:43:41Z",
-   "tag": "FX",
-   "headline": "Dollar-euro rate $1.1034 on Nov. 13, down from $1.1235 on Nov. 5",
-   "take": "FRED's daily series shows $1.1034 per euro on Nov. 13, versus $1.1235 on Nov. 5, a change of -0.0201 over the eight days. The Nov. 12 reading was $1.1056. AlphaGen read: the euro was lower at the end of the span than at its start.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXUSEU)",
-   "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
-   "checked": "2026-11-20T17:38:41Z"
-  },
-  {
-   "id": "2026-11-20-fred-usdjpy-nov13-159p93-vs-nov5",
-   "time": "2026-11-20T17:57:41Z",
-   "tag": "FX",
-   "headline": "Yen at 159.93 per dollar on Nov. 13, from 157.76 on Nov. 5",
-   "take": "FRED shows 159.93 Japanese yen per U.S. dollar on Nov. 13, up from 157.76 on Nov. 5, a difference of 2.17 yen. The series was 159.60 on Nov. 12 and 158.76 on Nov. 10. AlphaGen read: the yen was weaker at the end of the span than at its start.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXJPUS)",
-   "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
-   "checked": "2026-11-20T17:38:41Z"
-  },
-  {
-   "id": "2026-11-20-fred-wti-nov17-8953-vs-nov12-9230",
-   "time": "2026-11-20T18:11:41Z",
-   "tag": "COMMODITIES",
-   "headline": "WTI crude spot $89.53 on Nov. 17, down $2.77 from Nov. 12's $92.30",
-   "take": "FRED's daily WTI spot series reads $89.53 a barrel on Nov. 17, against $92.30 on Nov. 12, a drop of $2.77. It was $89.62 on Nov. 10 and Nov. 11. AlphaGen read: WTI's Nov. 17 reading is within $0.09 of its Nov. 10 level, so the week's decline from Nov. 12 left it roughly flat on the span.",
-   "source_name": "FRED, Federal Reserve Bank of St. Louis (DCOILWTICO)",
-   "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
-   "checked": "2026-11-20T17:38:41Z"
   }
  ]
 }
