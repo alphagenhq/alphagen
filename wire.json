@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-27T19:39:09Z",
+ "updated": "2026-11-27T20:39:10Z",
  "items": [
+  {
+   "id": "2026-11-27-ecb-gc-lsi-supervision-report-2026-nov23",
+   "time": "2026-11-27T20:43:10Z",
+   "tag": "GLOBAL",
+   "headline": "ECB clears publication of 2026 report on less significant bank supervision",
+   "take": "The ECB said that on 23 November 2026 its Governing Council did not object to a proposal by the Supervisory Board to publish a report on the supervision of less significant institutions (LSIs) in 2026. The ECB said the report examines the structural features of the LSI sector, its key developments and major supervisory activities. AlphaGen read: the report covers the smaller banks that national authorities supervise day to day, a different tier from the significant institutions the ECB supervises directly.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "checked": "2026-11-27T20:39:10Z"
+  },
+  {
+   "id": "2026-11-27-ecb-gc-2027-supervisory-examination-programme-on-site",
+   "time": "2026-11-27T20:53:10Z",
+   "tag": "GLOBAL",
+   "headline": "ECB approves 2027 on-site inspection and internal model programme",
+   "take": "The ECB said that on 16 November 2026 the Governing Council did not object to a proposal by the Supervisory Board concerning the 2027 Supervisory Examination Programme for on-site inspections and internal model investigations at significant institutions. The ECB said the programme is based on the SSM supervisory priorities for 2027-29. AlphaGen read: the on-site programme ties the 2027-29 priorities to concrete inspection work at the largest euro-area banks.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "checked": "2026-11-27T20:39:10Z"
+  },
+  {
+   "id": "2026-11-27-ecb-gc-srep-2026-methodologies-published-op-ict-capital-governance",
+   "time": "2026-11-27T21:03:10Z",
+   "tag": "GLOBAL",
+   "headline": "ECB publishes 2026 SREP methodology plus three detailed bank-risk methodologies",
+   "take": "The ECB said that on 3 November 2026 the Governing Council did not object to publishing the SREP 2026 methodology applied to significant institutions, along with more detailed methodologies for operational and ICT risk, for assessing capital adequacy, and for internal governance and risk management. The ECB said the four documents are on its banking supervision website. AlphaGen read: publishing the methodologies shows banks how supervisors score the risks behind the SREP results released this month.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "checked": "2026-11-27T20:39:10Z"
+  },
+  {
+   "id": "2026-11-27-ecb-opinions-con-2026-33-bank-of-greece-independence-recommendation-auditors",
+   "time": "2026-11-27T21:13:10Z",
+   "tag": "GLOBAL",
+   "headline": "ECB opines on Bank of Greece supervisory independence, recommends its auditors",
+   "take": "The ECB said that on 4 November 2026 the Governing Council adopted Opinion CON/2026/33 on the supervisory independence of the Bank of Greece and prevention of conflicts of interest of its staff and governance body, at the request of the Greek Ministry of Economy and Finance. On 5 November it adopted Recommendation ECB/2026/29 on the external auditors of the Bank of Greece. AlphaGen read: the two decisions together cover how the Bank of Greece is governed and audited.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "checked": "2026-11-27T20:39:10Z"
+  },
+  {
+   "id": "2026-11-27-ecb-opinions-con-2026-34-35-bundesbank-data-hungary-supervisory-board",
+   "time": "2026-11-27T21:23:10Z",
+   "tag": "GLOBAL",
+   "headline": "ECB adopts opinions on Bundesbank data access and Hungarian bank supervision",
+   "take": "The ECB said that on 10 November 2026 the Governing Council adopted Opinion CON/2026/34 on designating the Deutsche Bundesbank as a recipient of administrative data for statistical purposes, at the Bundesbank's request on behalf of the German Federal Ministry for Economic Affairs and Energy. On 19 November it adopted Opinion CON/2026/35 on the competences of the Supervisory Board of the Magyar Nemzeti Bank, at the request of the Hungarian Ministry of Finance. AlphaGen read: both opinions were adopted at the request of national authorities.",
+   "source_name": "European Central Bank",
+   "source_url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "checked": "2026-11-27T20:39:10Z"
+  },
   {
    "id": "2026-11-27-cpi-oct-oer-0p3-rent-0p2-lodging-aside",
    "time": "2026-11-27T19:41:09Z",
@@ -5014,56 +5064,6 @@
    "source_name": "Bureau of Economic Analysis (BEA)",
    "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
    "checked": "2026-11-21T12:39:28Z"
-  },
-  {
-   "id": "2026-11-21-gdp-q3-advance-consumer-spending-health-care-food-services",
-   "time": "2026-11-21T13:14:28Z",
-   "tag": "MACRO",
-   "headline": "BEA: Q3 consumer spending led by health care and food services; goods by drugs",
-   "take": "BEA's advance estimate shows Q3 consumer spending rose in both services and goods, with real GDP up at a 3.4% annual rate. Within services the increase was led by health care (mainly hospitals and outpatient services) and food services and accommodations (mainly purchased meals and beverages). Within goods it was led by other nondurable goods, mainly prescription drugs. AlphaGen read: the spending gains BEA highlights are concentrated in medical care, dining out and drugs.",
-   "source_name": "Bureau of Economic Analysis (BEA)",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-21T12:39:28Z"
-  },
-  {
-   "id": "2026-11-21-gdp-q3-advance-exports-petroleum-imports-capital-goods",
-   "time": "2026-11-21T13:25:28Z",
-   "tag": "MACRO",
-   "headline": "BEA: Q3 export decline led by petroleum; imports led by capital goods",
-   "take": "BEA's advance Q3 GDP estimate lists a decrease in exports among the offsets to growth, and says it primarily reflected a decrease in goods led by petroleum and related products. Imports, a subtraction in GDP, increased, with capital goods except automotive the largest contributor. Real GDP rose at a 3.4% annual rate in Q3, versus 2.2% in Q2. AlphaGen read: the trade drag in the quarter came from lower energy exports and higher equipment imports.",
-   "source_name": "Bureau of Economic Analysis (BEA)",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-21T12:39:28Z"
-  },
-  {
-   "id": "2026-11-21-fred-30y-nov19-540-vs-nov12-543",
-   "time": "2026-11-21T11:43:45Z",
-   "tag": "RATES",
-   "headline": "30-year Treasury yield 5.40% on Nov. 19, down 0.03 point from Nov. 12",
-   "take": "FRED shows the 30-year constant-maturity Treasury yield at 5.40% on Nov. 19, versus 5.43% on Nov. 12 and 5.47% on Nov. 13. That is 0.07 point below the Nov. 13 reading in the latest observations. AlphaGen read: long-end yields eased through the week but stayed above 5.4%.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS30",
-   "checked": "2026-11-21T11:38:45Z"
-  },
-  {
-   "id": "2026-11-21-fred-10s30s-nov19-036-vs-nov12-033",
-   "time": "2026-11-21T11:52:45Z",
-   "tag": "RATES",
-   "headline": "10s30s Treasury gap 0.36 point on Nov. 19, up from 0.33 on Nov. 12",
-   "take": "Using FRED's constant-maturity yields, the 30-year yield (5.40%) minus the 10-year (5.04%) was 0.36 point on Nov. 19, versus 0.33 point on Nov. 12 (5.43% minus 5.10%). The 10-year fell 0.06 point over that span and the 30-year fell 0.03 point. AlphaGen read: the gap widened because the 10-year eased more than the 30-year.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS10",
-   "checked": "2026-11-21T11:38:45Z"
-  },
-  {
-   "id": "2026-11-21-fred-hy-ig-gap-nov19-258-vs-nov12-231",
-   "time": "2026-11-21T12:01:45Z",
-   "tag": "CREDIT",
-   "headline": "High-yield minus investment-grade spread 2.58 points on Nov. 19, up from 2.31",
-   "take": "FRED's ICE BofA option-adjusted spreads show high yield at 3.52 and investment grade at 0.94 on Nov. 19, a gap of 2.58 points. On Nov. 12 the readings were 3.20 and 0.89, a gap of 2.31, and on Nov. 18 the gap was 2.54. AlphaGen read: the extra yield demanded for junk over investment-grade debt has widened for several sessions in a row.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-   "checked": "2026-11-21T11:38:45Z"
   }
  ]
 }
