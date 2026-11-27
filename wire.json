@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-27T18:39:20Z",
+ "updated": "2026-11-27T19:39:09Z",
  "items": [
+  {
+   "id": "2026-11-27-cpi-oct-oer-0p3-rent-0p2-lodging-aside",
+   "time": "2026-11-27T19:41:09Z",
+   "tag": "MACRO",
+   "headline": "BLS: October CPI owners' equivalent rent rose 0.3% and rent 0.2%",
+   "take": "The Bureau of Labor Statistics said the shelter index rose 0.3 percent in October after 0.4 percent in September, with the index for owners' equivalent rent up 0.3 percent and the rent index up 0.2 percent. Lodging away from home rose 0.6 percent after a 2.0 percent gain in September. Rent-type housing costs rose at a slower pace than lodging, which is the more volatile part of shelter.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-27T19:39:09Z"
+  },
+  {
+   "id": "2026-11-27-cpi-oct-utility-gas-minus-0p8-electricity-plus-0p9",
+   "time": "2026-11-27T19:52:09Z",
+   "tag": "ENERGY",
+   "headline": "BLS: October CPI natural gas index fell 0.8% while electricity rose 0.9%",
+   "take": "BLS reported the natural gas index decreased 0.8 percent in October while the electricity index rose 0.9 percent; utility (piped) gas service had fallen 0.3 percent in September and 1.1 percent in August. The two household utility fuels moved in opposite directions last month. That split fits the mixed winter fuel-cost picture EIA has described.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-27T19:39:09Z"
+  },
+  {
+   "id": "2026-11-27-cpi-oct-grocery-fruit-veg-dairy-0p6-cereals-unchanged",
+   "time": "2026-11-27T20:03:09Z",
+   "tag": "MACRO",
+   "headline": "BLS: October CPI grocery prices: fruits, vegetables and dairy each up 0.6%",
+   "take": "BLS said four of the six major grocery store food group indexes increased in October and one decreased: fruits and vegetables and dairy and related products each rose 0.6 percent, meats, poultry, fish and eggs rose 0.5 percent, and cereals and bakery products were unchanged. The overall food at home index rose 0.4 percent. Gains were broad across grocery categories rather than confined to one group.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-27T19:39:09Z"
+  },
+  {
+   "id": "2026-11-27-cpi-oct-physicians-0p4-rx-0p3-medical-care-0p3",
+   "time": "2026-11-27T20:14:09Z",
+   "tag": "MACRO",
+   "headline": "BLS: October CPI physicians' services up 0.4%, prescription drugs up 0.3%",
+   "take": "BLS reported the medical care index rose 0.3 percent in October after 0.1 percent in September, with physicians' services up 0.4 percent and the prescription drugs index up 0.3 percent; hospital services rose 0.8 percent. Each of the three components rose at least 0.3 percent. Health-related prices therefore added to core CPI, which also rose 0.3 percent.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-27T19:39:09Z"
+  },
+  {
+   "id": "2026-11-27-cpi-oct-food-index-0p5-after-unchanged-sep",
+   "time": "2026-11-27T20:25:09Z",
+   "tag": "MACRO",
+   "headline": "BLS: October CPI food index rose 0.5% after being unchanged in September",
+   "take": "BLS said the food index rose 0.5 percent in October after being unchanged in September, with food at home up 0.4 percent and food away from home up 0.5 percent. The October gain followed a flat September reading in the seasonally adjusted series. Food away from home has risen every month from April to October in Table A.",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-27T19:39:09Z"
+  },
   {
    "id": "2026-11-27-eia-winter-heating-oil-bills-21pct-higher-gas-9pct-lower",
    "time": "2026-11-27T18:41:20Z",
@@ -5014,56 +5064,6 @@
    "source_name": "Federal Reserve Bank of St. Louis (FRED)",
    "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
    "checked": "2026-11-21T11:38:45Z"
-  },
-  {
-   "id": "2026-11-21-fred-10y-nominal-504-real-288-breakeven-216-nov19",
-   "time": "2026-11-21T12:10:45Z",
-   "tag": "RATES",
-   "headline": "10-year yield 5.04% on Nov. 19 splits into 2.88% real and 2.16% breakeven",
-   "take": "FRED shows the 10-year Treasury yield at 5.04% on Nov. 19, the 10-year inflation-indexed (real) yield at 2.88% and the 10-year breakeven inflation rate at 2.16%. The real yield and breakeven add to the nominal yield (2.88 + 2.16 = 5.04). AlphaGen read: most of the 10-year yield reflects the real return, not inflation compensation.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/DFII10",
-   "checked": "2026-11-21T11:38:45Z"
-  },
-  {
-   "id": "2026-11-20-fed-ucla-wins-college-fed-challenge-warsh",
-   "time": "2026-11-21T03:41:04Z",
-   "tag": "FED",
-   "headline": "Fed: UCLA wins 23rd College Fed Challenge; Chicago second, Maryland third",
-   "take": "The Federal Reserve said the University of California, Los Angeles won the 23rd annual national College Fed Challenge on Nov. 20, with the University of Chicago in second place and the University of Maryland, College Park in third. The competition drew 141 schools from 34 states, the most in its history, and Chairman Kevin Warsh said the students \"took on the same big questions we policymakers face.\" AlphaGen read: the contest is educational and carries no policy signal.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-   "checked": "2026-11-21T03:39:04Z"
-  },
-  {
-   "id": "2026-11-20-fred-10y-breakeven-nov20-215-vs-nov13-224",
-   "time": "2026-11-21T03:53:04Z",
-   "tag": "RATES",
-   "headline": "10-year breakeven inflation rate 2.15% on Nov. 20, down 0.09 point from Nov. 13",
-   "take": "FRED shows the 10-year breakeven inflation rate at 2.15% on Nov. 20, versus 2.24% on Nov. 13 and 2.16% on Nov. 19. The 10-year Treasury yield was 5.04% on Nov. 19 and the 10-year TIPS real yield was 2.88%, a 2.16-point gap that matches that day's 2.16% breakeven. AlphaGen read: the market-implied inflation compensation for the next decade has eased over the past week.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/T10YIE",
-   "checked": "2026-11-21T03:39:04Z"
-  },
-  {
-   "id": "2026-11-20-fred-10y2y-nov20-029-vs-nov13-027",
-   "time": "2026-11-21T04:05:04Z",
-   "tag": "RATES",
-   "headline": "10-year minus 2-year Treasury spread 0.29 point on Nov. 20, up from 0.27 on Nov. 13",
-   "take": "FRED shows the 10-year minus 2-year Treasury constant-maturity spread at 0.29 percentage point on Nov. 20, compared with 0.27 on Nov. 13, 0.27 on Nov. 18 and 0.28 on Nov. 19. The 2-year yield was 4.76% and the 10-year 5.04% on Nov. 19. AlphaGen read: the spread has stayed positive and ranged from 0.27 to 0.30 point over the past week.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
-   "checked": "2026-11-21T03:39:04Z"
-  },
-  {
-   "id": "2026-11-20-fred-rrp-nov20-401m-vs-nov13-325m",
-   "time": "2026-11-21T04:17:04Z",
-   "tag": "FED",
-   "headline": "Fed overnight reverse repo usage $0.401B on Nov. 20, up from $0.325B on Nov. 13",
-   "take": "FRED shows overnight reverse repurchase agreement take-up at the Federal Reserve of $0.401 billion on Nov. 20, versus $0.325 billion on Nov. 13 and $0.405 billion on Nov. 19, a rise of $0.076 billion over the week. SOFR was 3.91% on Nov. 19. AlphaGen read: usage remains a rounding error next to the Fed's $6.74 trillion balance sheet as of Nov. 18.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/RRPONTSYD",
-   "checked": "2026-11-21T03:39:04Z"
   }
  ]
 }
