@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-27T12:40:30Z",
+ "updated": "2026-11-27T13:39:08Z",
  "items": [
+  {
+   "tag": "MACRO",
+   "headline": "BLS: services prices for intermediate demand up 6.8% in 12 months to October",
+   "take": "BLS said the PPI index for services for intermediate demand rose 0.6% in October after 1.0% in September, and 6.8% over the 12 months ended in October, the largest 12-month advance since 6.9% in November 2022. Over half of the October rise came from a 1.6% increase in trade-services margins. AlphaGen read: the cost pressure is now visible in business-to-business service prices, not just goods.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "id": "2026-11-27-ppi-oct-intermediate-services-6p8-12mo-largest-since-nov-2022",
+   "time": "2026-11-27T13:41:08Z",
+   "checked": "2026-11-27T13:39:08Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: metals wholesaling margins jumped 9.2% in October PPI, property fees fell 5.9%",
+   "take": "In BLS's October PPI, 30% of the increase in services for intermediate demand traced to a 9.2% jump in margins for metals, minerals and ores wholesaling. Nonresidential property management fees decreased 5.9%, and indexes for securities brokerage, dealing and investment advice also declined. AlphaGen read: one volatile margin line explains a large share of the monthly gain.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "id": "2026-11-27-ppi-oct-intermediate-services-metals-wholesaling-9p2-property-mgmt-minus-5p9",
+   "time": "2026-11-27T13:50:08Z",
+   "checked": "2026-11-27T13:39:08Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "BLS: PPI final demand goods up 10.2% in 12 months, largest since October 2022",
+   "take": "BLS reported the index for final demand goods rose 0.5% in October and 10.2% for the 12 months ended in October, the largest 12-month rise since 10.5% in October 2022. Final demand foods rose 1.3% in the month while final demand energy edged down 0.1%. AlphaGen read: goods inflation at the producer level remains in double digits even as energy softened in October.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "id": "2026-11-27-ppi-oct-final-demand-goods-10p2-12mo-largest-since-oct-2022",
+   "time": "2026-11-27T13:59:08Z",
+   "checked": "2026-11-27T13:39:08Z"
+  },
+  {
+   "tag": "COMMODITIES",
+   "headline": "BLS: raw milk prices up 8.2% in October while corn and wheat PPIs fell",
+   "take": "Within BLS's October PPI for unprocessed goods for intermediate demand, raw milk prices advanced 8.2%, while indexes for corn, slaughter hogs, wheat, aluminum base scrap and hay and hayseeds moved down. The unprocessed foodstuffs and feedstuffs index fell 0.2% in the month. AlphaGen read: farm-input prices were mixed, with dairy the notable exception.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+   "id": "2026-11-27-ppi-oct-raw-milk-8p2-corn-wheat-down-unprocessed-foods-minus-0p2",
+   "time": "2026-11-27T14:08:08Z",
+   "checked": "2026-11-27T13:39:08Z"
+  },
+  {
+   "tag": "MACRO",
+   "headline": "FRED: payroll gains averaged 137,000 a month over August-October",
+   "take": "FRED's total nonfarm payrolls series (PAYEMS) was 159,068 thousand in August, 159,128 in September and 159,293 in October, from 158,882 in July. AlphaGen's calculation: monthly gains of 186,000, 60,000 and 165,000, a three-month average of 137,000. AlphaGen read: the September gain was the soft spot in an otherwise steady quarter.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/PAYEMS",
+   "id": "2026-11-27-fred-payrolls-3mo-avg-137k-aug-186k-sep-60k-oct-165k",
+   "time": "2026-11-27T14:17:08Z",
+   "checked": "2026-11-27T13:39:08Z"
+  },
+  {
+   "tag": "HOUSING",
+   "headline": "FRED: Case-Shiller index rose 3.2% from January low to July peak, sits 0.4% below it",
+   "take": "FRED's S&P Cotality Case-Shiller U.S. National Home Price Index (not seasonally adjusted) was 326.789 in January, 337.204 in July and 335.754 in September. AlphaGen's calculation: that is a 3.2% gain from January to July and a 0.4% decline from July to September. AlphaGen read: the spring-summer rise has partly faded, though the index is still above its January level.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/CSUSHPINSA",
+   "id": "2026-11-27-fred-case-shiller-jan-low-326p8-jul-peak-337p2-sep-0p4-below",
+   "time": "2026-11-27T14:26:08Z",
+   "checked": "2026-11-27T13:39:08Z"
+  },
   {
    "tag": "FED",
    "headline": "FOMC minutes: 10-2 vote held rate at 3.75%-4.00%, Cook and Hammack wanted a hike",
@@ -795,8 +855,8 @@
    "id": "2026-11-26-ecb-oct-account-brent-115-gas-97-euro-down-4pct",
    "time": "2026-11-26T14:58:56Z",
    "tag": "ENERGY",
-   "headline": "ECB account: Brent up 13% to $115 since September, gas 22% higher at €97/MWh",
-   "take": "The ECB account of its 28-29 October meeting says front-month Brent futures had risen 13% to USD 115 per barrel since the September meeting, and gas prices had risen 22% to €97 per MWh. The euro had depreciated 4.0% against the US dollar over the same period, and 2.2% in nominal effective terms. AlphaGen read: these are the ECB's figures as of late October, not current market levels.",
+   "headline": "ECB account: Brent up 13% to $115 since September, gas 22% higher at \u20ac97/MWh",
+   "take": "The ECB account of its 28-29 October meeting says front-month Brent futures had risen 13% to USD 115 per barrel since the September meeting, and gas prices had risen 22% to \u20ac97 per MWh. The euro had depreciated 4.0% against the US dollar over the same period, and 2.2% in nominal effective terms. AlphaGen read: these are the ECB's figures as of late October, not current market levels.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
    "checked": "2026-11-26T14:38:56Z"
@@ -1187,8 +1247,8 @@
    "id": "2026-11-25-nxpi-completes-eur1b-notes-4p625-2034-4p875-2037",
    "time": "2026-11-26T00:18:00Z",
    "tag": "CREDIT",
-   "headline": "NXP completes €1.0B notes offering: 4.625% due 2034, 4.875% due 2037",
-   "take": "NXP and its issuer subsidiaries completed an underwritten public offering on Nov. 24 of €500 million of 4.625% Senior Notes due 2034 and €500 million of 4.875% Senior Notes due 2037. The company intends to use net proceeds for general corporate purposes, which may include capital expenditures or debt repurchases or repayments. AlphaGen read: the 2037 tranche carries a coupon 25 basis points above the 2034 tranche.",
+   "headline": "NXP completes \u20ac1.0B notes offering: 4.625% due 2034, 4.875% due 2037",
+   "take": "NXP and its issuer subsidiaries completed an underwritten public offering on Nov. 24 of \u20ac500 million of 4.625% Senior Notes due 2034 and \u20ac500 million of 4.875% Senior Notes due 2037. The company intends to use net proceeds for general corporate purposes, which may include capital expenditures or debt repurchases or repayments. AlphaGen read: the 2037 tranche carries a coupon 25 basis points above the 2034 tranche.",
    "source_name": "NXP Semiconductors N.V., Form 8-K (SEC EDGAR)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312526478623/0001193125-26-478623.txt",
    "ticker": "NASDAQ:NXPI",
@@ -1198,8 +1258,8 @@
    "id": "2026-11-25-amt-eur1p2b-notes-4p200-2031-4p500-2034",
    "time": "2026-11-26T00:10:00Z",
    "tag": "DEBT",
-   "headline": "American Tower completes €1.2B notes: 4.200% due 2031, 4.500% due 2034",
-   "take": "American Tower completed a registered offering of €600.0 million of 4.200% senior unsecured notes due 2031 and €600.0 million of 4.500% notes due 2034, with aggregate net proceeds of approximately €1,191.3 million after commissions and estimated expenses. The company intends to use the proceeds for general corporate purposes, including refinancing upcoming euro maturities. AlphaGen read: the use of proceeds points to euro-maturity refinancing as the stated driver.",
+   "headline": "American Tower completes \u20ac1.2B notes: 4.200% due 2031, 4.500% due 2034",
+   "take": "American Tower completed a registered offering of \u20ac600.0 million of 4.200% senior unsecured notes due 2031 and \u20ac600.0 million of 4.500% notes due 2034, with aggregate net proceeds of approximately \u20ac1,191.3 million after commissions and estimated expenses. The company intends to use the proceeds for general corporate purposes, including refinancing upcoming euro maturities. AlphaGen read: the use of proceeds points to euro-maturity refinancing as the stated driver.",
    "source_name": "American Tower Corp., Form 8-K (SEC EDGAR)",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312526478472/0001193125-26-478472.txt",
    "ticker": "NYSE:AMT",
@@ -1210,7 +1270,7 @@
    "time": "2026-11-26T00:01:00Z",
    "tag": "GLOBAL",
    "headline": "ECB and Riksbank sign agreement for Sweden to join T2; migration targeted Feb 2030",
-   "take": "The ECB and Sveriges Riksbank concluded a T2 currency participation agreement, signed by ECB President Christine Lagarde and Riksbank Governor Erik Thedéen, that will let large-value payments in Swedish kronor settle in T2. Migration is targeted for February 2030, and T2 already supports large-value payments in Danish kroner. AlphaGen read: Sweden would move large-value settlement from a national platform to shared European infrastructure, with payments still settled in kronor in central bank money.",
+   "take": "The ECB and Sveriges Riksbank concluded a T2 currency participation agreement, signed by ECB President Christine Lagarde and Riksbank Governor Erik Thed\u00e9en, that will let large-value payments in Swedish kronor settle in T2. Migration is targeted for February 2030, and T2 already supports large-value payments in Danish kroner. AlphaGen read: Sweden would move large-value settlement from a national platform to shared European infrastructure, with payments still settled in kronor in central bank money.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
    "checked": "2026-11-25T23:39:03Z"
@@ -1670,7 +1730,7 @@
    "id": "2026-11-25-bowman-svb-review-54-supervisory-matters",
    "tag": "FED",
    "headline": "Bowman: SVB review found 54 supervisory matters but no order to cut rate risk",
-   "take": "Fed Vice Chair for Supervision Michelle Bowman said that between 2019 and March 2023 supervisors cited 54 supervisory matters at Silicon Valley Bank, yet no finding required it to shorten its securities maturity profile or restructure its held-to-maturity book. In remarks to a banking supervisors' meeting in Brasília, she said the failure was one of translating information into timely action and that success should be measured by remediation of material risks. It signals a supervision agenda focused on speed of action.",
+   "take": "Fed Vice Chair for Supervision Michelle Bowman said that between 2019 and March 2023 supervisors cited 54 supervisory matters at Silicon Valley Bank, yet no finding required it to shorten its securities maturity profile or restructure its held-to-maturity book. In remarks to a banking supervisors' meeting in Bras\u00edlia, she said the failure was one of translating information into timely action and that success should be measured by remediation of material risks. It signals a supervision agenda focused on speed of action.",
    "source_name": "Federal Reserve Board",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
    "time": "2026-11-25T14:14:52Z",
@@ -1689,8 +1749,8 @@
   {
    "id": "2026-11-25-boe-pra-fca-securitisation-rules-168m-savings",
    "tag": "GLOBAL",
-   "headline": "PRA and FCA publish revised securitisation rules, est. £168M cost cut over decade",
-   "take": "The Prudential Regulation Authority and Financial Conduct Authority published revised securitisation rules that simplify due diligence and transparency requirements and add more flexible risk retention options, while firms must still keep at least 5% of a securitisation's value at risk. They also allow some simple re-securitisations while keeping the ban on the wider practice. The regulators estimate industry costs fall by around £168 million over the next decade.",
+   "headline": "PRA and FCA publish revised securitisation rules, est. \u00a3168M cost cut over decade",
+   "take": "The Prudential Regulation Authority and Financial Conduct Authority published revised securitisation rules that simplify due diligence and transparency requirements and add more flexible risk retention options, while firms must still keep at least 5% of a securitisation's value at risk. They also allow some simple re-securitisations while keeping the ban on the wider practice. The regulators estimate industry costs fall by around \u00a3168 million over the next decade.",
    "source_name": "Bank of England",
    "source_url": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
    "time": "2026-11-25T14:28:52Z",
@@ -2132,8 +2192,8 @@
    "id": "2026-11-24-ecb-vujcic-resilience-cee-four-dimensions",
    "time": "2026-11-24T21:13:05Z",
    "tag": "GLOBAL",
-   "headline": "ECB's Vujčić: resilience rests on monetary, fiscal, financial, structural buffers",
-   "take": "In a Nov. 24 speech in Vienna, ECB Vice-President Boris Vujčić said incomes in central and eastern Europe have more than doubled since the mid-1990s and set out four dimensions of resilience: monetary, fiscal, financial and structural. He said price stability is itself a source of resilience, since anchored inflation expectations make a supply shock less likely to turn into persistent inflation. AlphaGen read: he cites Croatia's euro adoption as removing a source of foreign-currency risk, while saying euro membership does not fully insulate countries from shocks.",
+   "headline": "ECB's Vuj\u010di\u0107: resilience rests on monetary, fiscal, financial, structural buffers",
+   "take": "In a Nov. 24 speech in Vienna, ECB Vice-President Boris Vuj\u010di\u0107 said incomes in central and eastern Europe have more than doubled since the mid-1990s and set out four dimensions of resilience: monetary, fiscal, financial and structural. He said price stability is itself a source of resilience, since anchored inflation expectations make a supply shock less likely to turn into persistent inflation. AlphaGen read: he cites Croatia's euro adoption as removing a source of foreign-currency risk, while saying euro membership does not fully insulate countries from shocks.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
    "checked": "2026-11-24T20:39:05Z"
@@ -2142,8 +2202,8 @@
    "id": "2026-11-24-ecb-vujcic-cee-banks-npls-deficits",
    "time": "2026-11-24T21:21:05Z",
    "tag": "CREDIT",
-   "headline": "ECB's Vujčić: CEE banks well capitalised, bad loans near historical lows",
-   "take": "Vujčić said banks in central and eastern Europe are generally well capitalised and profitable, with non-performing loans close to historical lows in most countries. He also noted that budget deficits have increased across much of the region, citing higher social and investment spending, public wage bills, interest costs and defence spending. AlphaGen read: he flagged that geopolitical tensions and energy prices could weigh on firms' debt servicing, with effects on bank asset quality emerging only gradually.",
+   "headline": "ECB's Vuj\u010di\u0107: CEE banks well capitalised, bad loans near historical lows",
+   "take": "Vuj\u010di\u0107 said banks in central and eastern Europe are generally well capitalised and profitable, with non-performing loans close to historical lows in most countries. He also noted that budget deficits have increased across much of the region, citing higher social and investment spending, public wage bills, interest costs and defence spending. AlphaGen read: he flagged that geopolitical tensions and energy prices could weigh on firms' debt servicing, with effects on bank asset quality emerging only gradually.",
    "source_name": "European Central Bank",
    "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
    "checked": "2026-11-24T20:39:05Z"
@@ -2256,7 +2316,7 @@
    "id": "2026-11-24-williams-gdp-2p75",
    "time": "2026-11-24T18:02:08Z",
    "tag": "MACRO",
-   "headline": "Williams expects real GDP growth of about 2¾% this year, near that pace next year",
+   "headline": "Williams expects real GDP growth of about 2\u00be% this year, near that pace next year",
    "take": "Williams said real GDP rose about 2 percent last year and has grown at about a 2-3/4 percent annual rate so far this year. He expects growth of about 2-3/4 percent this year and near that pace next year. AlphaGen read: the New York Fed's baseline is steady growth rather than a slowdown, which leaves inflation as the main policy concern in his remarks.",
    "source_name": "Federal Reserve Bank of New York",
    "source_url": "https://www.newyorkfed.org/newsevents/speeches/2026/wil261123",
@@ -2276,7 +2336,7 @@
    "id": "2026-11-24-williams-inflation-3p5",
    "time": "2026-11-24T17:42:08Z",
    "tag": "FED",
-   "headline": "Williams: inflation about 3½%, well above 2%; expects about 3½% this year",
+   "headline": "Williams: inflation about 3\u00bd%, well above 2%; expects about 3\u00bd% this year",
    "take": "New York Fed President John Williams said in remarks prepared for delivery on Nov. 23 that inflation is currently about 3-1/2 percent, \"well above\" the FOMC's 2 percent definition of price stability; a footnote in the speech identifies the measure as PCE. He expects overall inflation to come in at about 3-1/2 percent this year. AlphaGen read: the New York Fed president is anchoring his message on how far inflation sits from target.",
    "source_name": "Federal Reserve Bank of New York",
    "source_url": "https://www.newyorkfed.org/newsevents/speeches/2026/wil261123",
@@ -3334,7 +3394,7 @@
    "time": "2026-11-23T03:39:00Z",
    "tag": "FED",
    "headline": "Fed note: AI-driven productivity optimism does not explain the rise in 10-year yields",
-   "take": "A Nov. 20 FEDS Note by Antoine Lepetit and David Miller finds the 10-year Treasury yield falls after a positive productivity news shock, and that the real 10-year yield actually rose only 90 basis points between 2022Q3 and 2026Q2, against a model-implied forecast error of 200 basis points by early 2026. The authors conclude AI-related optimism cannot explain the recent surge in long-term yields. AlphaGen read: the note reflects the authors' views, not the Board's, and rests on a 1990–2019 sample dominated by the late-1990s tech boom.",
+   "take": "A Nov. 20 FEDS Note by Antoine Lepetit and David Miller finds the 10-year Treasury yield falls after a positive productivity news shock, and that the real 10-year yield actually rose only 90 basis points between 2022Q3 and 2026Q2, against a model-implied forecast error of 200 basis points by early 2026. The authors conclude AI-related optimism cannot explain the recent surge in long-term yields. AlphaGen read: the note reflects the authors' views, not the Board's, and rests on a 1990\u20132019 sample dominated by the late-1990s tech boom.",
    "source_name": "Federal Reserve Board, FEDS Notes",
    "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-productivity-booms-do-interest-rates-rise-20261120.html",
    "checked": "2026-11-23T03:39:39Z"
@@ -3483,8 +3543,8 @@
    "id": "2026-11-22-boc-outlook-cpi-3p5-end-2026-2pct-mid-2028",
    "time": "2026-11-22T23:49:00Z",
    "tag": "GLOBAL",
-   "headline": "Bank of Canada sees CPI at 3½% by end-2026, back to 2% target by mid-2028",
-   "take": "The Bank of Canada's Nov. 10 summary says CPI inflation was expected to rise to 3½% at the end of 2026 and stay above 3% through much of 2027 before declining to the 2% target by the middle of 2028; total inflation had been around 3% since April and CPI excluding gasoline was 2.2%. It also says members agreed there could be a need to raise the policy rate further but would decide one meeting at a time. AlphaGen read: the path implies the Bank expects the energy shock to take roughly two years to fully fade from headline inflation.",
+   "headline": "Bank of Canada sees CPI at 3\u00bd% by end-2026, back to 2% target by mid-2028",
+   "take": "The Bank of Canada's Nov. 10 summary says CPI inflation was expected to rise to 3\u00bd% at the end of 2026 and stay above 3% through much of 2027 before declining to the 2% target by the middle of 2028; total inflation had been around 3% since April and CPI excluding gasoline was 2.2%. It also says members agreed there could be a need to raise the policy rate further but would decide one meeting at a time. AlphaGen read: the path implies the Bank expects the energy shock to take roughly two years to fully fade from headline inflation.",
    "source_name": "Bank of Canada, Summary of Governing Council deliberations (Oct. 28, 2026 decision), published Nov. 10, 2026",
    "source_url": "https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/",
    "checked": "2026-11-22T23:39:00Z"
@@ -3762,7 +3822,7 @@
   {
    "id": "2026-11-22-eia-refinery-utilization-above-95pct-may-sep-highest-since-1998",
    "tag": "ENERGY",
-   "headline": "EIA: U.S. refinery utilization averaged over 95% May–September, highest since 1998",
+   "headline": "EIA: U.S. refinery utilization averaged over 95% May\u2013September, highest since 1998",
    "take": "EIA said in an Oct. 22 analysis that the U.S. refinery fleet has run at higher-than-normal rates this year, with utilization averaging more than 95% of capacity between May and September, the highest for those months since 1998. EIA attributed the high run rates to tight global product supplies that have boosted margins, particularly for diesel. AlphaGen read: this fits the refinery-yield shift toward distillate and jet fuel that EIA described in a separate Nov. 5 analysis.",
    "source_name": "EIA, Today in Energy",
    "source_url": "https://www.eia.gov/todayinenergy/",
@@ -4069,7 +4129,7 @@
    "time": "2026-11-22T12:19:00Z",
    "tag": "GLOBAL",
    "headline": "EIA: Colombia leans more on LNG imports as domestic gas output keeps falling",
-   "take": "EIA says Colombia is importing more liquefied natural gas as domestic production continues to fall. A potential drought this fall and winter could limit hydroelectric generation and boost demand for natural gas power generation, and the government has declared a national disaster in anticipation of a drought from an expected strong El Niño. AlphaGen read: weather-driven power demand in import-reliant markets is another source of LNG demand.",
+   "take": "EIA says Colombia is importing more liquefied natural gas as domestic production continues to fall. A potential drought this fall and winter could limit hydroelectric generation and boost demand for natural gas power generation, and the government has declared a national disaster in anticipation of a drought from an expected strong El Ni\u00f1o. AlphaGen read: weather-driven power demand in import-reliant markets is another source of LNG demand.",
    "source_name": "U.S. Energy Information Administration, Today in Energy (Oct. 29, 2026)",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
    "checked": "2026-11-22T11:47:00Z"
@@ -4978,7 +5038,7 @@
    "time": "2026-11-20T22:41:54Z",
    "tag": "FED",
    "headline": "Cook: PCE inflation 3.8% in October, core 3.2%, above target for 67 months",
-   "take": "In a Nov. 20 speech in Santiago, Governor Lisa Cook said the 12-month change in the PCE price index was estimated at 3.8% in October and core PCE 3.2%, and that inflation has been well above the 2% target for 67 months. She also said U.S. growth is \"strong—and accelerating\" and that \"waiting to act when a policy adjustment is required has a cost.\" AlphaGen read: the governor put price stability first in her outlook.",
+   "take": "In a Nov. 20 speech in Santiago, Governor Lisa Cook said the 12-month change in the PCE price index was estimated at 3.8% in October and core PCE 3.2%, and that inflation has been well above the 2% target for 67 months. She also said U.S. growth is \"strong\u2014and accelerating\" and that \"waiting to act when a policy adjustment is required has a cost.\" AlphaGen read: the governor put price stability first in her outlook.",
    "source_name": "Federal Reserve Board, Governor Cook speech",
    "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
    "checked": "2026-11-20T22:39:54Z"
@@ -5013,68 +5073,6 @@
    "source_url": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177.txt",
    "ticker": "NYSE:ED",
    "checked": "2026-11-20T22:39:54Z"
-  },
-  {
-   "id": "2026-11-20-waller-fomc-dec-8-9-outlook-policy-views",
-   "time": "2026-11-20T23:21:54Z",
-   "tag": "FED",
-   "headline": "Waller: FOMC participants present outlooks Dec. 8 and policy views Dec. 9",
-   "take": "In opening remarks at the College Fed Challenge Finals on Nov. 20, Governor Christopher Waller said that on Dec. 8 his 18 FOMC colleagues and he will each present their view of the economic outlook, and on Dec. 9 their view of the proper stance of monetary policy. He compared the student competition to how the Committee builds consensus before its post-meeting statement. AlphaGen read: the remarks were about process and communication, not a signal on the rate decision.",
-   "source_name": "Federal Reserve Board, Governor Waller remarks",
-   "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
-   "checked": "2026-11-20T22:39:54Z"
-  },
-  {
-   "id": "2026-11-20-ttwo-gta6-day-one-379b",
-   "time": "2026-11-20T21:45:00Z",
-   "tag": "EQUITIES",
-   "headline": "Take-Two: Grand Theft Auto VI day-one retail sales $3.79B, company estimate",
-   "take": "In an 8-K exhibit dated Nov. 20, Take-Two said Grand Theft Auto VI day-one retail sales reached $3.79 billion, based on company estimates through end of day Nov. 19 worldwide, and that 32.5 million units were sold pre-release. The company also cited a Metacritic score of 99. AlphaGen read: these are company-reported launch figures, not audited results.",
-   "source_name": "Take-Two Interactive (SEC Form 8-K, Ex. 99.1)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026075217/0001628280-26-075217.txt",
-   "ticker": "NASDAQ:TTWO",
-   "checked": "2026-11-20T21:40:00Z"
-  },
-  {
-   "id": "2026-11-20-d-nextera-hsr-waiting-period-expired",
-   "time": "2026-11-20T21:52:00Z",
-   "tag": "DEALS",
-   "headline": "Dominion: HSR waiting period expired for NextEra combination on Nov. 18",
-   "take": "Dominion Energy disclosed in an 8-K that the Hart-Scott-Rodino waiting period for its previously disclosed combination with NextEra Energy expired on Nov. 18. Closing remains subject to other conditions, including certain other regulatory approvals. AlphaGen read: the antitrust waiting period is cleared, but the deal is not complete.",
-   "source_name": "Dominion Energy (SEC Form 8-K)",
-   "source_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526469339/0001193125-26-469339.txt",
-   "ticker": "NYSE:D",
-   "checked": "2026-11-20T21:40:00Z"
-  },
-  {
-   "id": "2026-11-20-bea-us-multinationals-2024-employment-44p2m",
-   "time": "2026-11-20T22:00:00Z",
-   "tag": "MACRO",
-   "headline": "BEA: U.S. multinationals employed 44.2M worldwide in 2024, up 0.9%",
-   "take": "BEA reported worldwide employment by U.S. multinational enterprises rose 0.9% to 44.2 million in 2024 (preliminary), from 43.8 million in 2023. Employment in the United States by U.S. parents rose 0.1% to 29.9 million, while employment abroad by foreign affiliates rose 2.7% to 14.3 million. AlphaGen read: growth in headcount was concentrated abroad rather than at U.S. parents.",
-   "source_name": "U.S. Bureau of Economic Analysis",
-   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
-   "checked": "2026-11-20T21:40:00Z"
-  },
-  {
-   "id": "2026-11-20-bea-us-multinationals-2024-rd-6227b",
-   "time": "2026-11-20T22:08:00Z",
-   "tag": "MACRO",
-   "headline": "BEA: U.S. multinational R&D rose 10.1% to $622.7B in 2024",
-   "take": "BEA said worldwide R&D expenditures of U.S. multinationals increased 10.1% to $622.7 billion in 2024; U.S. parents spent $536.5 billion, or 69.6% of business R&D performed in the United States. Worldwide value added rose 8.0% to $7.4 trillion. AlphaGen read: U.S. parent companies account for most of U.S. business R&D.",
-   "source_name": "U.S. Bureau of Economic Analysis",
-   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
-   "checked": "2026-11-20T21:40:00Z"
-  },
-  {
-   "id": "2026-11-20-fed-sfo-survey-reserve-balances",
-   "time": "2026-11-20T22:16:00Z",
-   "tag": "FED",
-   "headline": "Fed releases senior financial officer survey on managing reserve balances",
-   "take": "The Federal Reserve Board released results of a survey of senior financial officers at banks about their strategies and practices for managing reserve balances. It was conducted with the New York Fed from Sept. 18 to Sept. 28, 2026, with responses from banks holding around three-fourths of total banking system reserve balances at the time. AlphaGen read: the survey informs how the Fed views bank demand for reserves.",
-   "source_name": "Federal Reserve Board",
-   "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-   "checked": "2026-11-20T21:40:00Z"
   }
  ]
 }
