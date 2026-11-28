@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-28T15:39:11Z",
+ "updated": "2026-11-28T16:39:47Z",
  "items": [
+  {
+   "id": "2026-11-28-fred-10y-real-yield-nov25-2p73-down-15bp-on-week",
+   "time": "2026-11-28T16:41:00Z",
+   "tag": "RATES",
+   "headline": "10-year real yield 2.73% on Nov. 25, down 15bp from 2.88% on Nov. 18",
+   "take": "FRED shows the 10-year inflation-indexed (TIPS) yield at 2.73% on Nov. 25, versus 2.79% on Nov. 24 and 2.88% on Nov. 18. The nominal 10-year yield fell from 5.07% to 4.85% over the same span, a 22bp drop, and the 10-year breakeven was 2.12% on Nov. 25. AlphaGen read: about two-thirds of the week's decline in the 10-year yield came from the real component rather than from lower inflation compensation.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DFII10, DGS10, T10YIE)",
+   "source_url": "https://fred.stlouisfed.org/series/DFII10",
+   "checked": "2026-11-28T16:39:47Z"
+  },
+  {
+   "id": "2026-11-28-fred-credit-tiers-nov26-bbb-1p24-bb-2p28-ccc-14p17",
+   "time": "2026-11-28T16:51:00Z",
+   "tag": "CREDIT",
+   "headline": "Credit spreads wider on Nov. 26 than Nov. 19: BBB 1.24%, BB 2.28%, CCC 14.17%",
+   "take": "ICE BofA option-adjusted spreads on FRED were 1.24% for BBB (from 1.17% on Nov. 19), 2.28% for BB (from 2.10%) and 14.17% for CCC and lower (from 13.61%) on Nov. 26. That is 7bp, 18bp and 56bp wider, respectively. AlphaGen read: the widening was largest in the lowest-rated tier, so the week's move was a rise in compensation for credit risk that grew with risk.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (BAMLC0A4CBBB, BAMLH0A1HYBB, BAMLH0A3HYC)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A3HYC",
+   "checked": "2026-11-28T16:39:47Z"
+  },
+  {
+   "id": "2026-11-28-fred-dollar-per-pound-nov20-1p3104-lowest-since-nov-2025",
+   "time": "2026-11-28T17:01:00Z",
+   "tag": "FX",
+   "headline": "Dollar per pound 1.3104 on Nov. 20, lowest in FRED's series since Nov. 24, 2025",
+   "take": "FRED, carrying the Federal Reserve's H.10 rates, shows 1.3104 U.S. dollars per pound on Nov. 20, down from 1.3212 on Nov. 13 and 1.3114 on Nov. 19. The last reading at or below that level was 1.3096 on Nov. 24, 2025. AlphaGen read: the pound fell on each of the last three observations in the series, from 1.3217 on Nov. 17.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (DEXUSUK, Fed H.10)",
+   "source_url": "https://fred.stlouisfed.org/series/DEXUSUK",
+   "checked": "2026-11-28T16:39:47Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-germany-exports-ai-adoption-advanced-productivity",
+   "time": "2026-11-28T17:11:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Vujčić: AI use in European firms already advanced, a driver of productivity",
+   "take": "Asked why Europe has no comparable AI companies, ECB Vice-President Vujčić said the European economy is broadly diversified, citing German exports that he said have recently been higher than at any other point in history. He said AI adoption at European companies is already at an advanced stage and that Europe is not at the forefront of large language model development, but AI use will be a significant driver of productivity growth. OeNB Governor Kocher said much of U.S. growth momentum currently comes from AI investment and that Europe too rarely turns inventions into internationally successful businesses.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T16:39:47Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-croatia-swap-line-2020-euro-shield-in-crises",
+   "time": "2026-11-28T17:21:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Vujčić: Croatia's 2020 swap line with the ECB calmed currency-market upheaval",
+   "take": "Asked about the value of the euro in uncertain times, Vice-President Vujčić said euro-area membership matters most in a crisis and recalled that in spring 2020, just before Croatia joined the exchange rate mechanism, currency-market pressure made it hard to keep the exchange rate stable. He said Croatia then entered a swap agreement with the ECB and that, once it was in place, the upheaval calmed, calling access to a swap line a shield. Kocher added that the single currency removes exchange rate risk within the euro area for an export-oriented economy like Austria.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T16:39:47Z"
+  },
   {
    "id": "2026-11-28-fred-reserves-nov25-2p964t-down-16b-tga-902b",
    "time": "2026-11-28T15:42:00Z",
@@ -5016,56 +5066,6 @@
    "source_name": "U.S. Energy Information Administration, Today in Energy (Oct. 29, 2026)",
    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
    "checked": "2026-11-22T11:47:00Z"
-  },
-  {
-   "id": "2026-11-22-real-earnings-nov-release-dec10",
-   "time": "2026-11-22T03:38:36Z",
-   "tag": "MACRO",
-   "headline": "BLS: November Real Earnings release scheduled for Dec. 10 at 8:30 a.m. ET",
-   "take": "BLS lists the Real Earnings news release for November 2026 for Thursday, December 10, 2026, at 8:30 a.m. (ET). The October release, issued Nov. 10, showed real average hourly earnings for all employees unchanged. AlphaGen read: the next print will show whether pay growth and CPI keep moving together.",
-   "source_name": "BLS, Real Earnings news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-   "checked": "2026-11-22T03:38:36Z"
-  },
-  {
-   "id": "2026-11-22-real-earnings-no-yoy-shutdown",
-   "time": "2026-11-22T03:50:36Z",
-   "tag": "MACRO",
-   "headline": "BLS: no over-the-year real earnings comparison for October due to 2025 data gap",
-   "take": "BLS says it could not collect the relevant Consumer Price Index data for the October 2025 reference period because of a lapse in appropriations in late 2025, so over-the-year comparisons from October 2025 to October 2026 are not available. The release usually includes that analysis. AlphaGen read: monthly changes are the usable real-pay read this month.",
-   "source_name": "BLS, Real Earnings news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-   "checked": "2026-11-22T03:38:36Z"
-  },
-  {
-   "id": "2026-11-22-real-earnings-cpiw-production-0p3",
-   "time": "2026-11-22T04:02:36Z",
-   "tag": "MACRO",
-   "headline": "BLS: production workers' pay up 0.4% vs CPI-W up 0.3% in October",
-   "take": "BLS reports average hourly earnings for production and nonsupervisory employees rose 0.4 percent in October, against a 0.3 percent increase in CPI-W, leaving real hourly earnings up 0.1 percent. For all employees, pay and CPI-U both rose 0.4 percent. AlphaGen read: the one-tenth gap for production workers is the difference between the two price gauges.",
-   "source_name": "BLS, Real Earnings news release (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/realer.nr0.htm",
-   "checked": "2026-11-22T03:38:36Z"
-  },
-  {
-   "id": "2026-11-22-gdp-q3-quarterly-rate-0p8-current-dollar-5p6",
-   "time": "2026-11-22T04:14:36Z",
-   "tag": "MACRO",
-   "headline": "BEA: Q3 real GDP 3.4% annualized, 0.8% at a quarterly rate; current-dollar GDP 5.6%",
-   "take": "BEA's advance estimate has real GDP up 3.4 percent at an annual rate in the third quarter (0.8 percent at a quarterly rate), after 2.2 percent in the second quarter. Current-dollar GDP rose 5.6 percent at an annual rate. AlphaGen read: the gap between nominal and real growth reflects price changes; the second estimate is due Nov. 25.",
-   "source_name": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-22T03:38:36Z"
-  },
-  {
-   "id": "2026-11-22-trade-ytd",
-   "time": "2026-11-22T02:42:43Z",
-   "tag": "MACRO",
-   "headline": "Trade: year-to-date deficit down $92.4B, 12.2%, as exports rise 11.6%",
-   "take": "BEA and Census report the goods and services deficit through September is down $92.4 billion, or 12.2 percent, from the same period in 2025. Year to date, exports increased $297.3 billion, or 11.6 percent, and imports increased $204.9 billion, or 6.2 percent. AlphaGen read: the narrower year-to-date gap comes from exports growing faster in percentage terms than imports.",
-   "source_name": "BEA/Census, U.S. International Trade in Goods and Services, September 2026",
-   "source_url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "checked": "2026-11-22T02:38:43Z"
   }
  ]
 }
