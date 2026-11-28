@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-28T11:40:08Z",
+ "updated": "2026-11-28T12:38:58Z",
  "items": [
+  {
+   "id": "2026-11-28-bea-mne-2024-worldwide-employment-44p2m-up-0p9",
+   "time": "2026-11-28T12:40:58Z",
+   "tag": "MACRO",
+   "headline": "BEA: U.S. multinationals employed 44.2M worldwide in 2024, up 0.9%",
+   "take": "BEA's Nov. 20 release on 2024 activities of U.S. multinational enterprises (preliminary) shows worldwide employment rose 0.9 percent to 44.2 million from 43.8 million in 2023 (revised). U.S. parents accounted for 67.6 percent, down from 68.1 percent in 2023, and foreign affiliates for 32.4 percent. AlphaGen read: the overseas share of the workforce edged up as affiliate hiring (+2.7%) outpaced parents' (+0.1%).",
+   "source_name": "Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+   "checked": "2026-11-28T12:38:58Z"
+  },
+  {
+   "id": "2026-11-28-bea-mne-2024-worldwide-rd-622p7b-up-10p1",
+   "time": "2026-11-28T12:58:58Z",
+   "tag": "MACRO",
+   "headline": "BEA: U.S. multinationals' worldwide R&D rose 10.1% to $622.7B in 2024",
+   "take": "BEA reports worldwide research and development spending by U.S. multinational enterprises increased 10.1 percent to $622.7 billion in 2024, in its Nov. 20 release. U.S. parents spent $536.5 billion, or 69.6 percent of business R&D performed in the United States, and foreign affiliates spent $86.2 billion. AlphaGen read: the two components sum to the worldwide total, with affiliates about 14 percent of it (AlphaGen calculation).",
+   "source_name": "Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+   "checked": "2026-11-28T12:38:58Z"
+  },
+  {
+   "id": "2026-11-28-bea-mne-2024-parents-capex-968p7b-36p5pct-private-capex",
+   "time": "2026-11-28T13:16:58Z",
+   "tag": "MACRO",
+   "headline": "BEA: U.S. parents' 2024 capex $968.7B, 36.5% of private business capex",
+   "take": "BEA says worldwide expenditures for property, plant, and equipment of U.S. multinationals rose 7.1 percent to $1.2 trillion in 2024 (Nov. 20 release). U.S. parents accounted for $968.7 billion, 36.5 percent of all U.S. private-business capital expenditures. AlphaGen read: the balance of the worldwide total is foreign affiliates' $216.2 billion.",
+   "source_name": "Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+   "checked": "2026-11-28T12:38:58Z"
+  },
+  {
+   "id": "2026-11-28-bea-mne-2024-foreign-affiliates-capex-216p2b-rd-86p2b",
+   "time": "2026-11-28T13:28:58Z",
+   "tag": "MACRO",
+   "headline": "BEA: foreign affiliates of U.S. firms spent $216.2B on capex, $86.2B on R&D",
+   "take": "In BEA's Nov. 20 release on 2024 multinational activity, expenditures by foreign affiliates for property, plant, and equipment were $216.2 billion and R&D expenditures were $86.2 billion. Affiliate employment abroad rose 2.7 percent to 14.3 million. AlphaGen read: BEA's 2023 revisions left affiliate capex at $214.0 billion and R&D at $84.1 billion, so the 2024 levels sit modestly above the revised base.",
+   "source_name": "Bureau of Economic Analysis",
+   "source_url": "https://www.bea.gov/news/2026/activities-us-multinational-enterprises-2024",
+   "checked": "2026-11-28T12:38:58Z"
+  },
   {
    "id": "2026-11-28-cpi-oct-transportation-services-0p8-after-0p6",
    "time": "2026-11-28T11:40:08Z",
@@ -5026,46 +5066,6 @@
    "source_name": "BLS, Consumer Price Index (October 2026)",
    "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
    "checked": "2026-11-22T00:40:11Z"
-  },
-  {
-   "id": "2026-11-21-treasury-refunding-nov-2y-69b-5y-70b-7y-44b",
-   "time": "2026-11-21T22:51:52Z",
-   "tag": "DEBT",
-   "headline": "Treasury refunding table: Nov. 2-year $69B, 5-year $70B, 7-year $44B notes",
-   "take": "Treasury's Nov. 4 refunding statement lists anticipated November auction sizes of $69 billion for 2-year notes, $70 billion for 5-year notes and $44 billion for 7-year notes, the same sizes shown for August. It said Treasury \"anticipates maintaining nominal coupon and FRN auction sizes for the next several quarters.\" AlphaGen read: the sizes are unchanged, so the coming end-of-month supply is a repeat of the prior quarter.",
-   "source_name": "U.S. Treasury, Quarterly Refunding Statement (Nov. 4, 2026)",
-   "source_url": "https://home.treasury.gov/news/press-releases/sb0678",
-   "checked": "2026-11-21T22:39:52Z"
-  },
-  {
-   "id": "2026-11-21-treasury-7y-note-quarterly-new-issue-march-2027",
-   "time": "2026-11-21T23:03:52Z",
-   "tag": "DEBT",
-   "headline": "Treasury to make 7-year note a quarterly new issue from March 2027",
-   "take": "Treasury plans to convert the 7-year note from a monthly new issue to a quarterly new issue with two reopenings, similar to the 10-year note. New issues will come in March, June, September and December, with reopenings in the following two months; the change starts with the March 2027 new issue, reopened in April and May. AlphaGen read: this is a change to the calendar, not to the coupon sizes Treasury said it expects to keep.",
-   "source_name": "U.S. Treasury, Quarterly Refunding Statement (Nov. 4, 2026)",
-   "source_url": "https://home.treasury.gov/news/press-releases/sb0678",
-   "checked": "2026-11-21T22:39:52Z"
-  },
-  {
-   "id": "2026-11-21-treasury-buybacks-70b-liquidity-25b-cash-mgmt-bills-dec-cut",
-   "time": "2026-11-21T23:15:52Z",
-   "tag": "DEBT",
-   "headline": "Treasury plans up to $70B liquidity buybacks, $25B cash-management buybacks this quarter",
-   "take": "Treasury said it anticipates purchasing up to $70 billion in off-the-run securities for liquidity support and up to $25 billion in the 1-month to 2-year bucket for cash management over the upcoming quarter. It expects to reduce shorter-dated bill auction sizes during December and to increase auction sizes across the bill curve in January on seasonal fiscal outflows. AlphaGen read: the bill path is seasonal, with smaller sizes in December and larger ones in January.",
-   "source_name": "U.S. Treasury, Quarterly Refunding Statement (Nov. 4, 2026)",
-   "source_url": "https://home.treasury.gov/news/press-releases/sb0678",
-   "checked": "2026-11-21T22:39:52Z"
-  },
-  {
-   "id": "2026-11-21-treasury-tga-peak-1p025t-dec-cash-850b",
-   "time": "2026-11-21T23:27:52Z",
-   "tag": "DEBT",
-   "headline": "Treasury assumes $850B end-December cash; TGA could peak near $1.025T",
-   "take": "Treasury said it is assuming an $850 billion cash balance at the end of December, and that the Treasury General Account could peak at $1.025 trillion (plus or minus $50 billion) in late November and late January. It called these figures consistent with its cash balance policy and set the next refunding announcement for Wednesday, Feb. 3, 2027. AlphaGen read: a TGA near $1 trillion matters for bank reserves, which the Fed tracks weekly.",
-   "source_name": "U.S. Treasury, Quarterly Refunding Statement (Nov. 4, 2026)",
-   "source_url": "https://home.treasury.gov/news/press-releases/sb0678",
-   "checked": "2026-11-21T22:39:52Z"
   }
  ]
 }
