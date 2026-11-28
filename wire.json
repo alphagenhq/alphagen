@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-28T03:38:56Z",
+ "updated": "2026-11-28T11:40:08Z",
  "items": [
+  {
+   "id": "2026-11-28-cpi-oct-transportation-services-0p8-after-0p6",
+   "time": "2026-11-28T11:40:08Z",
+   "tag": "MACRO",
+   "headline": "CPI: transportation services rose 0.8% in October, up each month since June",
+   "take": "BLS's October CPI release (published Nov. 10) shows the transportation services index up 0.8% in October, after 0.6% in September and 0.5% in August; it was down 0.6% in May and 0.3% in June. October's gain is the largest monthly change in the April–October table. AlphaGen read: the run of increases sits alongside the separate producer-price reading, where final demand transportation and warehousing services rose 2.0% in October.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-28T11:40:08Z"
+  },
+  {
+   "id": "2026-11-28-cpi-oct-index-levels-cpiu-337p511-cpiw-331p147",
+   "time": "2026-11-28T11:52:08Z",
+   "tag": "MACRO",
+   "headline": "CPI: October index level 337.511 for CPI-U and 331.147 for CPI-W",
+   "take": "BLS reported the October CPI-U at 337.511 (1982-84=100), up 0.2% before seasonal adjustment, and the CPI-W at 331.147, up 0.1% unadjusted; the chained C-CPI-U rose 0.2% unadjusted. BLS notes the past 10 to 12 months of C-CPI-U indexes are subject to revision. AlphaGen read: the November CPI, due Dec. 10 at 8:30 a.m. ET, will be the next update to these index levels.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-28T11:40:08Z"
+  },
+  {
+   "id": "2026-11-28-cpi-oct-food-away-full-service-0p7-limited-0p4",
+   "time": "2026-11-28T12:04:08Z",
+   "tag": "MACRO",
+   "headline": "CPI: full-service meals up 0.7% in October, limited-service meals 0.4%",
+   "take": "BLS's October CPI shows food away from home up 0.5%, with full-service meals rising 0.7% and limited-service meals 0.4%. Food at home rose 0.4% over the month. AlphaGen read: restaurant prices rose faster than grocery prices in the month, with full-service meals the faster of the two restaurant types.",
+   "source_name": "Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "checked": "2026-11-28T11:40:08Z"
+  },
+  {
+   "id": "2026-11-28-eia-china-generation-1p4t-2000-10p7t-2025-9pct-annual",
+   "time": "2026-11-28T12:16:08Z",
+   "tag": "ENERGY",
+   "headline": "EIA: China's power output grew 9% a year to 10.7T kWh in 2025, over a third of world total",
+   "take": "EIA says China's electricity generation rose at an average annual rate of 9% between 2000 and 2025, from 1.4 trillion kWh to 10.7 trillion kWh, and accounted for more than one-third of the world's total on preliminary estimates. More than half of China's 2025 generation came from coal and more than one-third from renewables. AlphaGen read: against the 31.8 trillion kWh world total EIA reports, China's 10.7 trillion kWh works out to about 33.6%.",
+   "source_name": "U.S. Energy Information Administration",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68525",
+   "checked": "2026-11-28T11:40:08Z"
+  },
+  {
+   "id": "2026-11-28-eia-india-2p1t-kwh-2025-70pct-coal-tripled-since-2000",
+   "time": "2026-11-28T12:28:08Z",
+   "tag": "ENERGY",
+   "headline": "EIA: India generated 2.1T kWh in 2025, 70% from coal",
+   "take": "EIA says India generated 2.1 trillion kWh of electricity in 2025, with 70% coming from coal, and that its generation more than tripled from 2000 to 2025 at an average growth rate of 5% per year. EIA notes India's population grew from 1.1 billion to 1.5 billion over the period. AlphaGen read: coal's weight in India's mix contrasts with the global picture EIA describes, where renewables passed coal in 2025.",
+   "source_name": "U.S. Energy Information Administration",
+   "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68525",
+   "checked": "2026-11-28T11:40:08Z"
+  },
   {
    "id": "2026-11-27-fed-sr2610-bsa-reporting-relief",
    "time": "2026-11-28T03:40:56Z",
@@ -5016,56 +5066,6 @@
    "source_name": "U.S. Treasury, Quarterly Refunding Statement (Nov. 4, 2026)",
    "source_url": "https://home.treasury.gov/news/press-releases/sb0678",
    "checked": "2026-11-21T22:39:52Z"
-  },
-  {
-   "id": "2026-11-21-fred-yields-down-hy-spread-up-nov19-vs-nov12",
-   "time": "2026-11-21T23:29:52Z",
-   "tag": "CREDIT",
-   "headline": "Week to Nov. 19: 2-year yield down 0.10 point, high-yield spread up 0.32",
-   "take": "FRED data show the 2-year Treasury yield at 4.76% on Nov. 19 versus 4.86% on Nov. 12 (down 0.10 point), and the 10-year at 5.04% versus 5.10% (down 0.06 point). Over the same week the high-yield spread widened to 3.52 points from 3.20 (up 0.32). AlphaGen read: yields and credit spreads moved in opposite directions over the week.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-   "checked": "2026-11-21T22:39:52Z"
-  },
-  {
-   "id": "2026-11-21-fred-mortgage-728-vs-626-year-ago",
-   "time": "2026-11-21T22:28:38Z",
-   "tag": "HOUSING",
-   "headline": "30-year mortgage rate 7.28% vs 6.26% a year ago; one-year range 5.98% to 7.40%",
-   "take": "Freddie Mac's 30-year fixed mortgage rate averaged 7.28% in the week of Nov. 19, up from 6.26% in the week of Nov. 20, 2025. Over the past year the weekly rate ranged from 5.98% (Feb. 26, 2026) to 7.40% (Oct. 8, 2026). AlphaGen read: the rate is 1.02 points above its year-ago level, though still 0.12 point below the October peak.",
-   "source_name": "Freddie Mac via FRED (Federal Reserve Bank of St. Louis)",
-   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
-   "checked": "2026-11-21T21:44:38Z"
-  },
-  {
-   "id": "2026-11-21-fred-treasury-yields-nov19-vs-year-ago-2y-118-10y-91-30y-65",
-   "time": "2026-11-21T22:17:38Z",
-   "tag": "RATES",
-   "headline": "Treasury yields on Nov. 19 sit 0.65 to 1.18 points above a year earlier",
-   "take": "On Nov. 19, the 2-year yield was 4.76% (3.58% a year earlier, +1.18 points), the 10-year 5.04% (4.13%, +0.91) and the 30-year 5.40% (4.75%, +0.65). Each remains below its one-year high: 4.92% on Sept. 28, 5.31% on Oct. 5 and 5.67% on Oct. 7, respectively. AlphaGen read: the largest year-on-year rise is at the short end, which has flattened the curve compared with a year ago.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS10",
-   "checked": "2026-11-21T21:44:38Z"
-  },
-  {
-   "id": "2026-11-21-fred-3m-bill-434-matches-one-year-high-vs-395",
-   "time": "2026-11-21T22:06:38Z",
-   "tag": "RATES",
-   "headline": "3-month Treasury yield 4.34% on Nov. 19, matching its one-year high, vs 3.95 a year ago",
-   "take": "The 3-month constant-maturity Treasury yield was 4.34% on Nov. 19, equal to the Nov. 16 reading and the highest in the past 12 months of FRED data, compared with 3.95% on Nov. 19, 2025 and a low of 3.62% on Dec. 18, 2025. The effective fed funds rate was 3.88% on Nov. 19. AlphaGen read: the bill yield sitting 0.46 point above fed funds means short-dated Treasuries yield more than the policy rate.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS3MO",
-   "checked": "2026-11-21T21:44:38Z"
-  },
-  {
-   "id": "2026-11-21-broad-dollar-index-122p65-highest-since-may-2025",
-   "time": "2026-11-21T21:55:38Z",
-   "tag": "FX",
-   "headline": "Fed broad dollar index 122.6503 on Nov. 13, highest since May 16, 2025",
-   "take": "The Federal Reserve's nominal broad dollar index (trade-weighted, FRED series DTWEXBGS) stood at 122.6503 on Nov. 13, against 120.7725 a year earlier and a one-year low of 117.4396 on Jan. 29, 2026. The last higher reading was 123.0737 on May 16, 2025. AlphaGen read: the index is 5.2 points above its January low, a firmer dollar against trading partners.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
-   "checked": "2026-11-21T21:44:38Z"
   }
  ]
 }
