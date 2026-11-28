@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-28T00:39:08Z",
+ "updated": "2026-11-28T01:39:00Z",
  "items": [
+  {
+   "id": "2026-11-28-jefferson-ai-buildout-upward-pressure-demand-inflation",
+   "time": "2026-11-28T01:44:00Z",
+   "tag": "FED",
+   "headline": "Jefferson: AI buildout is adding upward pressure on demand and inflation now",
+   "take": "In a Nov. 19 speech in Brasília, Fed Vice Chair Philip Jefferson called rapid AI adoption a shock that hits both sides of the economy. He said the AI buildout \"is exerting upward pressure on demand and inflation\" now, with possible downward pressure on inflation later from productivity gains. AlphaGen read: the timing split matters, because it implies the near-term inflation effect arrives before any productivity payoff.",
+   "source_name": "Federal Reserve Board (Vice Chair Jefferson)",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/files/jefferson20261119a.pdf",
+   "checked": "2026-11-28T01:39:00Z"
+  },
+  {
+   "id": "2026-11-28-jefferson-energy-shock-hit-with-inflation-above-2pct-target",
+   "time": "2026-11-28T01:55:00Z",
+   "tag": "FED",
+   "headline": "Jefferson: energy shock hit with inflation already above the Fed's 2% target",
+   "take": "Jefferson said that \"when the recent energy price shock occurred, inflation in the U.S. was already above our 2 percent target,\" and that a stronger policy response is warranted if inflation expectations risk becoming unanchored. He said energy, trade and AI shocks are all unfolding at once, and put his goal as restoring price stability while maintaining a solid labor market. AlphaGen read: the speech frames the Fed's choice as a weighing of simultaneous supply shocks, not a single-cause inflation story.",
+   "source_name": "Federal Reserve Board (Vice Chair Jefferson)",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/files/jefferson20261119a.pdf",
+   "checked": "2026-11-28T01:39:00Z"
+  },
+  {
+   "id": "2026-11-28-bowman-holds-3-3-4-to-4-core-pce-3p3-october",
+   "time": "2026-11-28T02:06:00Z",
+   "tag": "FED",
+   "headline": "Bowman backed holding rates at 3-3/4 to 4%; sees October core PCE at 3.3%",
+   "take": "Fed Vice Chair for Supervision Michelle Bowman said she supported holding the federal funds target range at \"3-3/4 to 4 percent\" at the last FOMC meeting, and that 12-month core PCE inflation \"likely moved up further to 3.3 percent in October.\" She said tariffs, energy and AI-related pressures each accounted for roughly one-fourth of above-target core PCE over the 12 months ending September. AlphaGen read: the 3.3% estimate matches the figure BEA has since published for October.",
+   "source_name": "BIS central bankers' speeches (Fed Vice Chair for Supervision Bowman)",
+   "source_url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+   "checked": "2026-11-28T01:39:00Z"
+  },
+  {
+   "id": "2026-11-28-bowman-ai-related-debt-on-track-to-exceed-800b-this-year",
+   "time": "2026-11-28T02:17:00Z",
+   "tag": "CREDIT",
+   "headline": "Bowman: AI-related debt on track to exceed $800B this year",
+   "take": "Bowman said AI-related debt is \"on track to exceed $800 billion this year,\" and that potential off-balance-sheet payments are more than three times the amount of debt. She also said roughly 25% of businesses and about 10% of workers use AI every day, and flagged a possible \"large correction in equity valuations\" as a risk. AlphaGen read: a Fed official putting a dollar figure on AI borrowing signals that financing has moved into the central bank's risk discussion.",
+   "source_name": "BIS central bankers' speeches (Fed Vice Chair for Supervision Bowman)",
+   "source_url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+   "checked": "2026-11-28T01:39:00Z"
+  },
+  {
+   "id": "2026-11-28-bowman-spr-less-than-50-days-imports-lowest-since-early-1980s",
+   "time": "2026-11-28T02:28:00Z",
+   "tag": "ENERGY",
+   "headline": "Bowman: SPR covers a bit under 50 days of crude imports, lowest since early 1980s",
+   "take": "Bowman said the Strategic Petroleum Reserve stands at \"a bit less than 50 days of crude oil imports, the lowest level since the early 1980s.\" She said Brent moved to and above $110 per barrel in the second half of October, and that the Strait of Hormuz accounted for about 20% of global oil supply before the conflict. AlphaGen read: a thinner reserve buffer raises the stakes of any further disruption to Gulf oil flows.",
+   "source_name": "BIS central bankers' speeches (Fed Vice Chair for Supervision Bowman)",
+   "source_url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+   "checked": "2026-11-28T01:39:00Z"
+  },
   {
    "id": "2026-11-27-eia-global-electricity-31p8t-kwh-2025-renewables-34pct-pass-coal",
    "time": "2026-11-28T00:47:00Z",
@@ -5017,56 +5067,6 @@
    "source_name": "U.S. Bureau of Labor Statistics, Producer Price Index (October 2026)",
    "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
    "checked": "2026-11-21T18:39:19Z"
-  },
-  {
-   "id": "2026-11-21-ppi-oct-processed-intermediate-goods-14p6-12mo-largest-since-jul-2022",
-   "time": "2026-11-21T19:19:19Z",
-   "tag": "MACRO",
-   "headline": "BLS PPI: processed intermediate goods up 14.6% in 12 months, most since July 2022",
-   "take": "BLS said prices for processed goods for intermediate demand advanced 0.4% in October, the third consecutive rise, and increased 14.6% over the 12 months ended in October, the largest 12-month rise since 17.2% in July 2022. More than 40% of the October advance traced to basic organic chemicals, up 3.9%. AlphaGen read: input costs further up the supply chain remain well above year-ago levels.",
-   "source_name": "U.S. Bureau of Labor Statistics, Producer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-21T18:39:19Z"
-  },
-  {
-   "id": "2026-11-21-fred-bb-bbb-ccc-spreads-nov19",
-   "time": "2026-11-21T17:49:00Z",
-   "tag": "CREDIT",
-   "headline": "BB spread 2.10 points on Nov. 19, up 0.24 in a week; BBB 1.17, CCC-and-lower 13.61",
-   "take": "FRED's ICE BofA option-adjusted spreads on Nov. 19 were 2.10 points for BB, 1.17 for BBB and 13.61 for CCC and lower, versus 1.86, 1.11 and 13.16 on Nov. 13. That is increases of 0.24, 0.06 and 0.45 point. AlphaGen read: the widening was larger in lower-rated tiers than in BBB over those four observations.",
-   "source_name": "FRED, ICE BofA BB US High Yield Index Option-Adjusted Spread (BAMLH0A1HYBB)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A1HYBB",
-   "checked": "2026-11-21T17:44:19Z"
-  },
-  {
-   "id": "2026-11-21-fred-uk-10y-oct-534-vs-457-year-ago",
-   "time": "2026-11-21T18:02:00Z",
-   "tag": "GLOBAL",
-   "headline": "UK long-term government bond yield 5.34% in October, up 0.77 point from a year earlier",
-   "take": "FRED's monthly long-term government bond yield series for the United Kingdom read 5.3393% in October 2026, up from 5.2421% in September, 4.9886% in August and 4.5721% in October 2025. That is 0.0972 point above September and 0.7672 point above a year earlier. AlphaGen read: the series has risen in each of the last three monthly readings.",
-   "source_name": "FRED, Long-Term Government Bond Yields: 10-Year, United Kingdom (IRLTLT01GBM156N)",
-   "source_url": "https://fred.stlouisfed.org/series/IRLTLT01GBM156N",
-   "checked": "2026-11-21T17:44:19Z"
-  },
-  {
-   "id": "2026-11-21-fred-sofr-effr-nov19-391-388",
-   "time": "2026-11-21T18:16:00Z",
-   "tag": "RATES",
-   "headline": "SOFR 3.91% on Nov. 19, 0.03 point above the 3.88% effective fed funds rate",
-   "take": "FRED shows the Secured Overnight Financing Rate at 3.91% on Nov. 19, up from 3.90% on Nov. 18, while the effective federal funds rate was 3.88% on both days. SOFR was 3.90% on Nov. 12 and 3.93% at its Nov. 16 reading. AlphaGen read: the two overnight benchmarks remained within 0.05 point of each other across the observations shown.",
-   "source_name": "FRED, Secured Overnight Financing Rate (SOFR)",
-   "source_url": "https://fred.stlouisfed.org/series/SOFR",
-   "checked": "2026-11-21T17:44:19Z"
-  },
-  {
-   "id": "2026-11-21-fred-2y-effr-gap-nov19-088",
-   "time": "2026-11-21T18:30:00Z",
-   "tag": "RATES",
-   "headline": "2-year Treasury yield 4.76% on Nov. 19, 0.88 point above the 3.88% fed funds rate",
-   "take": "FRED shows the 2-year Treasury constant-maturity yield at 4.76% on Nov. 19, versus an effective federal funds rate of 3.88%, a gap of 0.88 point. The 2-year yield was 4.86% on Nov. 12, when the effective rate was also 3.88%, a gap of 0.98 point. AlphaGen read: the narrowing came entirely from the 2-year yield, since the policy-rate reading did not change.",
-   "source_name": "FRED, Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity (DGS2)",
-   "source_url": "https://fred.stlouisfed.org/series/DGS2",
-   "checked": "2026-11-21T17:44:19Z"
   }
  ]
 }
