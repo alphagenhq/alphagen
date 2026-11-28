@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-28T12:38:58Z",
+ "updated": "2026-11-28T13:44:31Z",
  "items": [
+  {
+   "id": "2026-11-28-fred-mortgage-10y-gap-2p36-nov25-vs-2p24-nov19",
+   "time": "2026-11-28T13:54:31Z",
+   "tag": "HOUSING",
+   "headline": "Freddie Mac mortgage rate sat 2.36 points above 10-year yield on Nov. 25, from 2.24",
+   "take": "FRED shows Freddie Mac's 30-year fixed mortgage rate at 7.21% on Nov. 25 against a 4.85% 10-year Treasury yield, a gap of 2.36 percentage points. The Nov. 19 reading was 7.28% against 5.04%, or 2.24 points. AlphaGen read: the mortgage rate fell 7bp while the 10-year fell 19bp, so most of the Treasury rally did not reach mortgage borrowers.",
+   "source_name": "Federal Reserve Bank of St. Louis (FRED), Freddie Mac PMMS and Treasury constant-maturity series",
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "checked": "2026-11-28T13:44:31Z"
+  },
   {
    "id": "2026-11-28-bea-mne-2024-worldwide-employment-44p2m-up-0p9",
    "time": "2026-11-28T12:40:58Z",
@@ -5053,16 +5063,6 @@
    "tag": "COMMODITIES",
    "headline": "CPI energy index up 0.7% in October after +5.2% in September",
    "take": "BLS reports the October CPI energy index rose 0.7% on a seasonally adjusted basis after rising 5.2% in September; the table shows +2.1% for August, -1.5% for July and -5.7% for June. Compounding August through October gives about 8.2%, by AlphaGen's calculation from rounded monthly figures. AlphaGen read: the energy index has climbed for three straight months after falling in June and July.",
-   "source_name": "BLS, Consumer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-22T00:40:11Z"
-  },
-  {
-   "id": "2026-11-22-cpi-oct-medical-care-services-0p3-hospital-0p8",
-   "time": "2026-11-22T01:20:11Z",
-   "tag": "MACRO",
-   "headline": "CPI medical care services up 0.3% in October for a second month",
-   "take": "BLS's October CPI table shows medical care services rose 0.3% in October and 0.3% in September, after -0.2% in August and +0.6% in July. The release says the overall medical care index rose 0.3% in October after +0.1% in September, with hospital services up 0.8% and physicians' services up 0.4%. AlphaGen read: compounding July through October gives about 1.0% for medical care services, by our calculation from rounded figures.",
    "source_name": "BLS, Consumer Price Index (October 2026)",
    "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
    "checked": "2026-11-22T00:40:11Z"
