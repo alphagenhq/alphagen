@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-28T13:44:31Z",
+ "updated": "2026-11-28T14:38:54Z",
  "items": [
+  {
+   "id": "2026-11-28-ecb-vujcic-kocher-rate-meeting-market-expectations-energy-second-round",
+   "time": "2026-11-28T14:40:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Vujčić: market expectations for next meeting likely to prove accurate",
+   "take": "Asked whether inflation that is too high means a rate increase at the ECB's next meeting, which the interviewer put at around three weeks away, Vice-President Boris Vujčić said market expectations are likely to prove accurate as long as nothing unexpected happens before then. OeNB Governor Martin Kocher said the longer higher energy prices last, the likelier second-round effects become. The ECB's Governing Council is firmly focused on its 2% medium-term target, in Kocher's words; the interview, published Nov. 28, was conducted Nov. 23 and 26.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T14:38:54Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-euro-not-weak-dollar-rate-differential-eurep",
+   "time": "2026-11-28T14:48:00Z",
+   "tag": "FX",
+   "headline": "ECB's Vujčić: euro moving in a historical range vs the dollar, tracks rate gap",
+   "take": "Asked why the euro has weakened since the start of the year, Vice-President Vujčić said he would not use words like \"weak\" or \"strong\" and that the euro is moving within a historical range against the dollar, with the exchange rate typically following monetary policy expectations and the interest rate differential between the U.S. and the euro area. OeNB Governor Kocher added there is strong demand for the ECB's new EUREP 2.0 programme of repo agreements with central banks.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T14:38:54Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-france-not-greece-debt-lower-market-larger-budget-by-year-end",
+   "time": "2026-11-28T14:56:00Z",
+   "tag": "DEBT",
+   "headline": "ECB's Vujčić: France is not Greece; expects budget by year-end",
+   "take": "Vice-President Vujčić said he does not see France in the same situation as Greece during the sovereign debt crisis, citing lower public debt, a stronger and more diversified economy, greater wealth, and a larger, more liquid bond market with a more diversified investor base. He said he expects the budget to be passed before year-end. Kocher stressed that high deficits and rising public debt are still a problem and France needs a credible path to sustainable public finances.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T14:38:54Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-euro-area-growth-stronger-than-expected-near-potential",
+   "time": "2026-11-28T15:05:00Z",
+   "tag": "MACRO",
+   "headline": "ECB's Vujčić: euro-area growth stronger than forecasters expected, near potential",
+   "take": "Vice-President Vujčić said euro-area growth is stronger than the ECB and other forecasters expected and is approximately at the level the ECB estimates as potential growth, so in that sense it is not low, though he agreed Europe's potential growth rate is low because of structural problems. He pointed to structural reforms, including completing the banking union and the capital markets union, to raise it.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T14:38:54Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-croatia-euro-changeover-added-0p2-0p4pp-inflation",
+   "time": "2026-11-28T15:14:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Vujčić: Croatia's euro changeover added 0.2 to 0.4 points to inflation",
+   "take": "Vice-President Vujčić said three studies by the ECB, the Croatian National Bank and Eurostat found that introducing the euro contributed to higher inflation in Croatia, but by between 0.2 and 0.4 percentage points. He added that Croatia's inflation was lower than in Hungary, the Czech Republic, Poland, Bulgaria and Romania, EU member states that are not in the euro area.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T14:38:54Z"
+  },
+  {
+   "id": "2026-11-28-ecb-vujcic-digital-euro-digital-cash-strategic-autonomy-visa-mastercard",
+   "time": "2026-11-28T15:22:00Z",
+   "tag": "GLOBAL",
+   "headline": "ECB's Vujčić: digital euro framed as digital cash and strategic autonomy",
+   "take": "Vice-President Vujčić described the digital euro as essentially a digital version of cash and part of what the ECB calls strategic autonomy. He said the only digital payment options usable practically anywhere in Europe today are Mastercard and Visa. Kocher said citizens would keep complete freedom to choose how they pay.",
+   "source_name": "ECB (interview with Vice-President Boris Vujčić and OeNB Governor Martin Kocher, Kurier)",
+   "source_url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "checked": "2026-11-28T14:38:54Z"
+  },
   {
    "id": "2026-11-28-fred-mortgage-10y-gap-2p36-nov25-vs-2p24-nov19",
    "time": "2026-11-28T13:54:31Z",
@@ -5006,66 +5066,6 @@
    "source_name": "BLS, Producer Price Index Summary (October 2026)",
    "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
    "checked": "2026-11-22T01:39:43Z"
-  },
-  {
-   "id": "2026-11-22-ppi-oct-services-detail-outpatient-lodging-up-airline-software-down",
-   "time": "2026-11-22T01:58:00Z",
-   "tag": "MACRO",
-   "headline": "PPI services: outpatient care, lodging up in October; airline services, software down",
-   "take": "BLS's October PPI says final demand services rose 0.2%, the fifth consecutive advance. Among product indexes that moved higher were hospital outpatient care, traveler accommodation services, health, beauty and optical goods retailing, and fuels and lubricants retailing. Prices for system software publishing and for airline passenger services declined. AlphaGen read: BLS attributes over 80% of the services increase to truck freight, which rose 3.9%.",
-   "source_name": "BLS, Producer Price Index Summary (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-22T01:39:43Z"
-  },
-  {
-   "id": "2026-11-22-ppi-oct-final-demand-goods-vegetables-chickens-up-pork-passenger-cars-down",
-   "time": "2026-11-22T02:11:00Z",
-   "tag": "COMMODITIES",
-   "headline": "PPI goods detail: vegetables, chickens up in October; pork and passenger cars down",
-   "take": "In BLS's October PPI, the final demand goods index rose 0.5%. Within it, indexes for fresh and dry vegetables, gas fuels, aeronautical, nautical and navigational instruments, jet fuel and processed young chickens moved higher, while the indexes for pork and for passenger cars declined. AlphaGen read: food and fuel items sat on both sides of the ledger, and final demand foods as a group rose 1.3%.",
-   "source_name": "BLS, Producer Price Index Summary (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-   "checked": "2026-11-22T01:39:43Z"
-  },
-  {
-   "id": "2026-11-22-bls-cpi-index-title-changes-jan-2027-data-feb-11",
-   "time": "2026-11-22T02:24:00Z",
-   "tag": "MACRO",
-   "headline": "BLS to rename three CPI index titles with January 2027 data on Feb. 11, 2027",
-   "take": "BLS says that with the publication of January 2027 CPI data on February 11, 2027, several index titles will change: \"wireless telephone services\" becomes \"wireless telephone service\", \"physicians' services\" becomes \"physician services\", and \"music instruments and accessories\" becomes \"music instruments and accessories including instrument rentals.\" AlphaGen read: this is a title change in BLS's notice, which does not itself describe any change to index figures.",
-   "source_name": "BLS, Consumer Price Index Summary (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-22T01:39:43Z"
-  },
-  {
-   "id": "2026-11-22-jobs-oct-revisions-aug-186k-sep-60k",
-   "time": "2026-11-22T00:44:11Z",
-   "tag": "MACRO",
-   "headline": "BLS: Aug. payrolls revised up to +186,000, Sept. to +60,000; 84,000 combined",
-   "take": "BLS's October Employment Situation (released Nov. 6) revised August nonfarm payroll growth up by 53,000, from +133,000 to +186,000, and September up by 31,000, from +29,000 to +60,000. With the revisions, employment in August and September combined is 84,000 higher than previously reported. AlphaGen read: the two earlier months now look stronger than first published, alongside October's +165,000.",
-   "source_name": "BLS, Employment Situation Summary (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-   "checked": "2026-11-22T00:40:11Z"
-  },
-  {
-   "id": "2026-11-22-cpi-oct-electricity-0p9-after-0p2",
-   "time": "2026-11-22T00:56:11Z",
-   "tag": "ENERGY",
-   "headline": "CPI electricity index up 0.9% in October, after +0.2% in September",
-   "take": "BLS's October CPI (released Nov. 10) shows the electricity index rose 0.9% in October on a seasonally adjusted basis, after +0.2% in September and -0.2% in August; the table lists +2.1% for April. Compounding the seven monthly changes from April through October gives about 2.7%, by AlphaGen's calculation from rounded figures. AlphaGen read: electricity rose on net from April through October even as the piped natural gas index fell 0.8% in October.",
-   "source_name": "BLS, Consumer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-22T00:40:11Z"
-  },
-  {
-   "id": "2026-11-22-cpi-oct-energy-index-0p7-after-5p2",
-   "time": "2026-11-22T01:08:11Z",
-   "tag": "COMMODITIES",
-   "headline": "CPI energy index up 0.7% in October after +5.2% in September",
-   "take": "BLS reports the October CPI energy index rose 0.7% on a seasonally adjusted basis after rising 5.2% in September; the table shows +2.1% for August, -1.5% for July and -5.7% for June. Compounding August through October gives about 8.2%, by AlphaGen's calculation from rounded monthly figures. AlphaGen read: the energy index has climbed for three straight months after falling in June and July.",
-   "source_name": "BLS, Consumer Price Index (October 2026)",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-22T00:40:11Z"
   }
  ]
 }
