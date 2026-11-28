@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-28T02:38:50Z",
+ "updated": "2026-11-28T03:38:56Z",
  "items": [
+  {
+   "id": "2026-11-27-fed-sr2610-bsa-reporting-relief",
+   "time": "2026-11-28T03:40:56Z",
+   "tag": "FED",
+   "headline": "Fed SR 26-10: agencies won't act on late BSA filings caused by service disruption",
+   "take": "The Federal Reserve's SR 26-10, dated Nov. 25, 2026, applies to all Fed-supervised institutions subject to the Bank Secrecy Act and responds to a service disruption hindering BSA reporting, including suspicious activity reports. It attaches a joint statement from Fed, FDIC, OCC and NCUA staffs saying they will not take supervisory action over late filings caused by the disruption when firms use FinCEN's Secure Data Transfer Mode, following FinCEN's Nov. 24 exceptive relief. For banks, the practical message is that the disruption itself is not expected to trigger supervisory penalties.",
+   "source_name": "Federal Reserve Board",
+   "source_url": "https://federalreserve.gov/supervisionreg/srletters/SR2610.htm",
+   "checked": "2026-11-28T03:38:56Z"
+  },
+  {
+   "id": "2026-11-27-fred-hy-ig-gap-2p78-nov26-vs-2p58-nov19",
+   "time": "2026-11-28T03:52:56Z",
+   "tag": "CREDIT",
+   "headline": "FRED: gap between high-yield and investment-grade spreads 2.78 points on Nov. 26, from 2.58",
+   "take": "ICE BofA's high-yield option-adjusted spread was 3.77 points on Nov. 26 and the investment-grade spread 0.99, a gap of 2.78 points versus 2.58 on Nov. 19 (3.52 minus 0.94). The widening came almost entirely from high yield, which rose 25bp while investment grade rose 5bp. Weaker credits are being repriced faster than higher-rated ones.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (ICE Data Indices)",
+   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+   "checked": "2026-11-28T03:38:56Z"
+  },
+  {
+   "id": "2026-11-27-fred-sofr-3p95-vs-effr-3p88-nov25",
+   "time": "2026-11-28T04:04:56Z",
+   "tag": "RATES",
+   "headline": "SOFR 3.95% on Nov. 25 sat 7bp above the 3.88% effective fed funds rate",
+   "take": "FRED shows SOFR at 3.95% on Nov. 25, while the Fed's H.15 release lists the effective federal funds rate at 3.88% for the same day, a 7bp gap. SOFR was 3.90% on Nov. 18, so the secured rate has drifted up 5bp in a week while the policy rate stayed at 3.88%. Repo funding is costing slightly more relative to unsecured overnight borrowing.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis; Federal Reserve Board H.15",
+   "source_url": "https://fred.stlouisfed.org/series/SOFR",
+   "checked": "2026-11-28T03:38:56Z"
+  },
+  {
+   "id": "2026-11-27-fred-walcl-nov25-6732b-down-27b-from-nov11",
+   "time": "2026-11-28T04:16:56Z",
+   "tag": "FED",
+   "headline": "Fed balance sheet $6.732T on Nov. 25, $26.8B below its Nov. 11 level",
+   "take": "FRED's WALCL series shows total Fed assets of $6,732,044 million on Nov. 25, down from $6,758,867 million on Nov. 11, a decline of $26.8B across two weeks. The Nov. 11 reading was the highest of the last six weekly observations, which ranged from $6,732B to $6,759B. The balance sheet has been edging lower after a brief rise in early November.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis (Federal Reserve H.4.1)",
+   "source_url": "https://fred.stlouisfed.org/series/WALCL",
+   "checked": "2026-11-28T03:38:56Z"
+  },
+  {
+   "id": "2026-11-27-fred-2y-30y-spread-0p63-nov25-vs-0p61-nov18",
+   "time": "2026-11-28T04:26:56Z",
+   "tag": "RATES",
+   "headline": "FRED: 30-year yield 63bp above 2-year on Nov. 25, from 61bp on Nov. 18",
+   "take": "Treasury constant-maturity yields on Nov. 25 were 5.24% for the 30-year and 4.61% for the 2-year, a 63bp gap, versus 5.41% and 4.80% (61bp) on Nov. 18. Both ends fell, with the 2-year down 19bp and the 30-year down 17bp over the week, so the long-end premium over the front end barely changed.",
+   "source_name": "FRED, Federal Reserve Bank of St. Louis",
+   "source_url": "https://fred.stlouisfed.org/series/DGS30",
+   "checked": "2026-11-28T03:38:56Z"
+  },
   {
    "id": "2026-11-27-fred-wti-nov24-82p24-vs-89p53-nov17-brent-91p80",
    "time": "2026-11-28T02:40:50Z",
@@ -5016,56 +5066,6 @@
    "source_name": "Federal Reserve Bank of St. Louis (FRED)",
    "source_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
    "checked": "2026-11-21T21:44:38Z"
-  },
-  {
-   "id": "2026-11-21-hy-spread-352-highest-since-may-2025",
-   "time": "2026-11-21T21:44:38Z",
-   "tag": "CREDIT",
-   "headline": "High-yield spread 3.52 points on Nov. 19, highest since May 9, 2025",
-   "take": "FRED's ICE BofA US High Yield Index option-adjusted spread was 3.52 percentage points on Nov. 19, versus 3.17 a year earlier on Nov. 19, 2025, and a low of 2.60 on Aug. 28, 2026. The last higher reading was 3.53 on May 9, 2025. AlphaGen read: the gap to Treasuries has widened about 0.9 point since late August, a sign lenders are asking more to hold lower-rated corporate debt.",
-   "source_name": "Federal Reserve Bank of St. Louis (FRED)",
-   "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
-   "checked": "2026-11-21T21:44:38Z"
-  },
-  {
-   "id": "2026-11-21-gdp-q3-advance-gross-domestic-purchases-prices-3p0-vs-5p6",
-   "time": "2026-11-21T20:30:29Z",
-   "tag": "MACRO",
-   "headline": "BEA: Q3 gross domestic purchases prices up 3.0% annualized, after 5.6% in Q2",
-   "take": "BEA's advance estimate (released Oct. 29) shows the price index for gross domestic purchases increased 3.0% at an annual rate in the third quarter, compared with 5.6% in the second. The PCE price index rose 2.1%, versus 5.0%, and PCE excluding food and energy rose 2.5%, versus 3.3%. AlphaGen read: BEA's second estimate, due Nov. 25 at 8:30 a.m. EST, will show whether these price measures are revised.",
-   "source_name": "BEA GDP (Advance Estimate), 3rd Quarter 2026",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-21T19:44:29Z"
-  },
-  {
-   "id": "2026-11-21-gdp-q3-advance-final-sales-private-domestic-4p9",
-   "time": "2026-11-21T20:19:29Z",
-   "tag": "MACRO",
-   "headline": "BEA: Q3 real final sales to private domestic purchasers up 4.9%, from 4.6% in Q2",
-   "take": "BEA's advance estimate (released Oct. 29) put real final sales to private domestic purchasers, the sum of consumer spending and gross private fixed investment, up 4.9% at an annual rate in the third quarter, versus 4.6% in the second. Real GDP rose 3.4% and current-dollar GDP 5.6%. AlphaGen read: private domestic demand grew faster than headline GDP, which BEA says was partly offset by a decrease in exports and an increase in imports.",
-   "source_name": "BEA GDP (Advance Estimate), 3rd Quarter 2026",
-   "source_url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "checked": "2026-11-21T19:44:29Z"
-  },
-  {
-   "id": "2026-11-21-cpi-oct-index-levels-cpiu-337p511-cpiw-331p147",
-   "time": "2026-11-21T20:08:29Z",
-   "tag": "MACRO",
-   "headline": "CPI-U index level 337.511 in October; CPI-W 331.147, C-CPI-U up 0.2% unadjusted",
-   "take": "BLS reported the October CPI-U at 337.511 (1982-84=100), up 0.2% for the month before seasonal adjustment, and the CPI-W at 331.147, up 0.1% before seasonal adjustment. The chained C-CPI-U rose 0.2% on a not seasonally adjusted basis, and BLS notes its indexes for the past 10 to 12 months are subject to revision. AlphaGen read: the seasonally adjusted all-items change was +0.4%, so the unadjusted gain was smaller.",
-   "source_name": "BLS Consumer Price Index, October 2026",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-21T19:44:29Z"
-  },
-  {
-   "id": "2026-11-21-cpi-oct-food-away-from-home-0p5-full-service-0p7",
-   "time": "2026-11-21T19:57:29Z",
-   "tag": "MACRO",
-   "headline": "CPI: food away from home +0.5% in October; full service +0.7%, limited +0.4%",
-   "take": "BLS's October CPI release (Nov. 10) shows the food away from home index rose 0.5% after +0.2% in September; full service meals rose 0.7% and limited service meals 0.4%. The overall food index rose 0.5% after being unchanged in September, with food at home up 0.4%. AlphaGen read: restaurant prices rose faster than grocery prices in the month.",
-   "source_name": "BLS Consumer Price Index, October 2026",
-   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-   "checked": "2026-11-21T19:44:29Z"
   }
  ]
 }
